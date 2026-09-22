@@ -1,7 +1,657 @@
 {
   "status": "ok",
-  "totalResults": 104,
+  "totalResults": 158,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "SAMYA KULLAB Associated Press",
+      "title": "Russian drones slam a southern Ukraine city after Kyiv's 1,000-drone weekend barrage",
+      "description": "Officials say that Russian drones have blasted Ukraine\u2019s southern city of Zaporizhzhia",
+      "url": "https://abcnews.com/International/wireStory/russian-drones-slam-southern-ukraine-city-after-kyivs-136612440",
+      "urlToImage": "https://i.abcnewsfe.com/a/2f9a6bd2-9b98-4545-936e-b505d561129f/wirestory_445b619fc9b2d002df1edaac8b320d09_16x9.jpg?w=1600",
+      "publishedAt": "2026-09-21T10:54:53Z",
+      "content": "KYIV, Ukraine -- Russian drones blasted Ukraines southern city of Zaporizhzhia, a day after Kyivs forces fired more than 1,000 drones at Russia, officials said Monday.\r\nThe war's relentless daily att\u2026 [+3010 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DW (English)"
+      },
+      "author": "Kieran Burke",
+      "title": "Russia: Putin party retains majority in controlled parliamentary vote",
+      "description": "Vladimir Putin's United Russia won just under 58% of the vote, the electoral commission said. Meanwhile, Putin ally Ramzan Kadyrov won nearly 100% of the vote in elections in the Russian republic of Chechnya. Russia's electoral commission on Monday said that \u2026",
+      "url": "https://www.dw.com/en/russia-putin-party-retains-majority-in-controlled-parliamentary-vote/a-79353231",
+      "urlToImage": "https://static.dw.com/image/79354194_6.jpg",
+      "publishedAt": "2026-09-21T10:48:00Z",
+      "content": "Russia's electoral commission on Monday said\u00a0that the ruling United Russia party has won the parliamentary election.\r\nIt's the first parliamentary poll since Russia's full-scale invasion of Ukraine a\u2026 [+2397 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "author": "Editorial Team",
+      "title": "Trump presses Zelenskyy to halt strikes on Russian refineries as US diesel tops $6 a gallon",
+      "description": "Trump's push for de-escalation highlights the complex interplay between international conflict and domestic economic pressures.\nThe post Trump presses Zelenskyy to halt strikes on Russian refineries as US diesel tops $6 a gallon appeared first on Crypto Brief\u2026",
+      "url": "https://cryptobriefing.com/trump-zelenskyy-russian-refinery-strikes/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/21063100/library-trump-presses-zelenskyy-to-halt-strikes-on-russian-refin-800x450.png",
+      "publishedAt": "2026-09-21T10:31:07Z",
+      "content": "The US president is linking Ukrainian drone attacks on Russian oil infrastructure to record fuel prices at home, adding a new pressure point to an already fraught diplomatic relationship. President D\u2026 [+2867 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nakedcapitalism.com"
+      },
+      "author": "Yves Smith",
+      "title": "Fundraiser 2026: Finding the High Ground in the Informational Fog",
+      "description": "Fundraiser 2026 begins! Please give generously to back wide-ranging, penetrating news coverage, analysis, and a great commentariat.",
+      "url": "https://www.nakedcapitalism.com/2026/09/fundraiser-2026-finding-the-high-ground-in-the-informational-fog.html",
+      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2026/09/00-fog-300x244.jpg",
+      "publishedAt": "2026-09-21T10:30:25Z",
+      "content": "It\u2019s fundraiser time! If you love Naked Capitalism and know you intend to give, get this campaign off to a fast start. Proceed directly to the Tip Jar and give bigly! \r\nOver the past year, readers ha\u2026 [+15404 chars]"
+    },
+    {
+      "source": {
+        "id": "rt",
+        "name": "RT"
+      },
+      "author": "RT",
+      "title": "Kremlin reacts to Ukraine\u2019s attack on Russian elections",
+      "description": "Ukraine has failed to disrupt Russia\u2019s elections despite mass attacks during the three-day vote, Kremlin spokesman Dmitry Peskov has said Read Full Article at RT.com",
+      "url": "https://www.rt.com/russia/646032-kremlin-reacts-ukraines-attack-elections/",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6ab1058f2030274a06574b03.jpg",
+      "publishedAt": "2026-09-21T10:24:55Z",
+      "content": "Ukraine has failed in its attempts to derail Russia\u2019s parliamentary elections through mass attacks during the vote, Kremlin spokesman Dmitry Peskov has said.\r\nThe three-day vote wrapped up late on Su\u2026 [+3322 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Radio Free Europe/ Radio Liberty"
+      },
+      "author": "Ray Furlong, Current Time",
+      "title": "Russia Announces Election Results Cementing Putin's Power; EU Slams 'Veneer Of Democracy'",
+      "description": "Officials in Moscow have announced a new record victory for President Vladimir Putin\u2019s United Russia party in what the European Union dismissed as \u201csham elections\u201d on September 21.The Central Election Commission said United Russia gained nearly 58 percent of \u2026",
+      "url": "https://www.rferl.org/a/33860268.html",
+      "urlToImage": "https://gdb.rferl.org/46e6f221-98e4-45a0-967f-7652b6264483_cx0_cy11_cw0_w1200_h630.jpg",
+      "publishedAt": "2026-09-21T10:19:13Z",
+      "content": "Officials in Moscow have announced a new record victory for President Vladimir Putins United Russia party in what the European Union dismissed as sham elections on September 21.\r\nThe Central Election\u2026 [+4184 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "National Observer"
+      },
+      "author": "Anja Karadeglija",
+      "title": "Carney touts the 'right partnerships' in the Arctic during his meeting in Ottawa with Norwegian PM",
+      "description": "Prime Minister Mark Carney says his focus on building international relationships, including with Norway, is part of the answer to renewed threats from Russia.",
+      "url": "https://www.nationalobserver.com/2026/09/21/news/carney-touts-right-partnerships-arctic-during-his-meeting-ottawa-norwegian-pm",
+      "urlToImage": "https://www.nationalobserver.com/sites/default/files/styles/social_share/public/img/2026/09/21/57801588fb89efab9f61858acc96af5c9a404e41a45880909f826d01954877dc.jpg.jpeg?itok=lBNR5KRO",
+      "publishedAt": "2026-09-21T10:17:39Z",
+      "content": "Prime Minister Mark Carney says his focus on building international relationships, including with Norway, is part of the answer to renewed threats from Russia.\r\nDuring a news conference with Norwegia\u2026 [+3872 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "author": "Estefano Gomez",
+      "title": "Kremlin: Trump\u2019s sanctions won\u2019t improve US-Russia ties or Ukraine peace",
+      "description": "The sanctions deepen geopolitical tensions, reducing prospects for diplomatic progress and a ceasefire in the Russia-Ukraine conflict.\nThe post Kremlin: Trump\u2019s sanctions won\u2019t improve US-Russia ties or Ukraine peace appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/kremlin-trumps-sanctions-wont-improve-us-russia-ties-or-ukraine-peace/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/21061409/library-kremlin-trump-s-sanctions-won-t-improve-us-russia-ties-o-1-800x450.png",
+      "publishedAt": "2026-09-21T10:14:10Z",
+      "content": "The Kremlin has declared that the sanctions bill signed by U.S. President Donald Trump will not lead to better relations between the U.S. and Russia, nor will it promote peace in the ongoing conflict\u2026 [+2284 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Smallwarsjournal.com"
+      },
+      "author": "SWJED",
+      "title": "SOF Weekly Brief \u2013 Sep 21, 2026",
+      "description": "Access SOF News HERE. \u00a0 SOF Weekly Brief \u2013 Sep 21, 2026 September 20, 2026 John Friberg Update Curated news, analysis, and commentary on special operations, intelligence, irregular warfare, national defense, and global conflicts. Photo / Image: Soldiers with \u2026",
+      "url": "https://smallwarsjournal.com/2026/09/21/sof-weekly-brief-sep-21-2026/",
+      "urlToImage": "https://sof.news/wp-content/uploads/2026/09/helicast-20thsfg-sep-2026-600x381.jpg",
+      "publishedAt": "2026-09-21T10:10:26Z",
+      "content": "Curated news, analysis, and commentary on special operations, intelligence, irregular warfare, national defense, and global conflicts.\r\nPhoto / Image: Soldiers with 3rd Battalion 20th Special Forces \u2026 [+1416 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "author": "Eliot A. Cohen",
+      "title": "Don\u2019t Ask How This War Ends",
+      "description": "It is, unfortunately, the wrong question.",
+      "url": "https://www.theatlantic.com/ideas/2026/09/dont-ask-how-the-iran-war-ends/688724/",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/6PvPqxg4hhAVa5b2bM9rW_YgF0k=/0x187:4382x2469/1200x625/media/img/mt/2026/09/GettyImages_2264384567/original.jpg",
+      "publishedAt": "2026-09-21T10:00:00Z",
+      "content": "During the 2003 Iraq War, thenMajor General David Petraeus famously said to the journalist and historian Rick Atkinson, Tell me how this ends. It is the obvious query to be posed about the conflict w\u2026 [+7286 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "cnbc.com",
+      "title": "Russia\u2019s pro-Putin party set to win election as Ukraine exposes war\u2019s growing reach into Moscow",
+      "description": "Russia's ruling United Russia party is on track to comfortably win a tightly controlled wartime election after Ukraine launched what is thought to be the largest drone attack on the Moscow region on the last day of voting.\nUnited Russia, which is supported by\u2026",
+      "url": "https://biztoc.com/x/480dc11efe4aaa3f",
+      "urlToImage": "https://biztoc.com/cdn/480dc11efe4aaa3f_s.webp",
+      "publishedAt": "2026-09-21T09:41:34Z",
+      "content": "Russia's ruling United Russia party is on track to comfortably win a tightly controlled wartime election after Ukraine launched what is thought to be the largest drone attack on the Moscow region on \u2026 [+140 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Sam Meredith",
+      "title": "Russia\u2019s pro-Putin party set to win election as Ukraine exposes war\u2019s growing reach into Moscow",
+      "description": "Ukraine launched more than 1,000 drones at Russia on the State Duma election\u2019s final day, including hundreds targeting Moscow.",
+      "url": "https://www.cnbc.com/2026/09/21/russia-election-putin-moscow-attack-ukraine.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108365476-1789971759661-gettyimages-2295288219-AFP_C8PX4RJ.jpeg?v=1789971865&w=1920&h=1080",
+      "publishedAt": "2026-09-21T09:36:23Z",
+      "content": "Smoke rises from the area of the Russian oil producer Gazprom Neft's Moscow oil refinery as seen from Dzerzhinsky in the Moscow region on September 20, 2026.\r\nRussia's ruling United Russia party is o\u2026 [+3843 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": "HuffPost",
+      "title": "Main Kremlin Party Keeps Control Of Russia's Parliament After Carefully Orchestrated Vote",
+      "description": "The Kremlin tightened its crackdown on opposition ahead of the election, including barring the country\u2019s only liberal, anti-war party from the ballot.",
+      "url": "https://www.huffpost.com/entry/russia-parliamentary-election-result_n_6ab0f5b9e4b09ae53890aa17",
+      "urlToImage": "https://img.huffingtonpost.com/asset/6ab0f6a3180000f629f14934.jpeg?cache=JiTJAJyN8T&ops=1200_630",
+      "publishedAt": "2026-09-21T09:21:23Z",
+      "content": "The main Kremlin party retained its majority in Russias parliament, election officials said Monday, after a carefully orchestrated balloting that excluded most opposition candidates and helped the go\u2026 [+4109 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Steynonline.com"
+      },
+      "author": null,
+      "title": "Give War a Chance",
+      "description": "Since emerging from my coma, I have endeavoured to follow my doctors' advice to eschew stress-inducing things like the Internet and spend more time communing with the birds and flowers. However, one or two developments occasionally manage to penetrate",
+      "url": "https://www.steynonline.com/16418/give-war-a-chance",
+      "urlToImage": "https://www.steynonline.com/pics/6007.jpg",
+      "publishedAt": "2026-09-21T09:10:29Z",
+      "content": "Since emerging from my coma, I have endeavoured to follow my doctors' advice to eschew stress-inducing things like the Internet and spend more time communing with the birds and flowers. However, one \u2026 [+7897 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "author": "Estefano Gomez",
+      "title": "Kremlin reports stalled Ukraine peace talks, hopes for US trilateral negotiations",
+      "description": "Stalled peace talks heighten uncertainty, impacting market confidence in a near-term resolution and emphasizing the need for U.S. mediation.\nThe post Kremlin reports stalled Ukraine peace talks, hopes for US trilateral negotiations appeared first on Crypto Br\u2026",
+      "url": "https://cryptobriefing.com/kremlin-reports-stalled-ukraine-peace-talks-hopes-for-us-trilateral-negotiations/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/21050950/cb-card-geo-160-800x420.png",
+      "publishedAt": "2026-09-21T09:09:51Z",
+      "content": "The Kremlin has announced that no progress has been made in the ongoing peace talks with Ukraine, but there remains hope for restarting trilateral negotiations involving the United States. This state\u2026 [+1463 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Www.gov.uk"
+      },
+      "author": "Foreign, Commonwealth & Development Office",
+      "title": "Joint statement on Russia\u2019s sham elections in Ukraine\u2019s temporarily occupied territories",
+      "description": "Australia, Canada, New Zealand, Norway and the UK condemn Russia\u2019s sham elections in Ukraine\u2019s territories breaching Ukraine\u2019s\u00a0sovereignty.",
+      "url": "https://www.gov.uk/government/news/joint-statement-on-russias-sham-elections-in-ukraines-temporarily-occupied-territories",
+      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "publishedAt": "2026-09-21T09:09:15Z",
+      "content": "Holding Russias State Duma elections in the temporarily occupied territories of Ukraine, as Russia did in Crimea and Donetsk, Kherson, Luhansk and Zaporizhzhia, is a gross violation of Ukraines sover\u2026 [+1035 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "India studying details of US tariffs on Russian oil buyers: Piyush Goyal",
+      "description": "India is examining details of potential US tariffs on Russian oil buyers, Piyush Goyal says. Washington is increasing pressure on nations still purchasing Russian energy resources. A new US law allows tariffs up to 100% on Russian oil and gas importers. Major\u2026",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-studying-details-of-us-tariffs-on-russian-oil-buyers-piyush-goyal/articleshow/134385015.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134385230,width-1200,height-630,imgsize-59376,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-21T09:01:56Z",
+      "content": "India is studying the details of US tariffs that could be imposed on buyers of Russian oil, Commerce and Industry Minister Piyush Goyal said on Monday, as Washington steps up pressure on countries co\u2026 [+2254 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "anicoll@businessinsider.com (Alex Nicoll)",
+      "title": "A $750 million hedge fund manager shares the 4 things he\u2019s watching as energy markets teeter",
+      "description": "With no clear roadmap for how the Iran war, and pending oil crisis could resolve, here's four things an expert is watching.",
+      "url": "https://markets.businessinsider.com/news/commodities/commodities-fund-manager-oil-prices-iran-war-strategic-reserves-energy-2026-9#article",
+      "urlToImage": "https://i.insider.com/6aad81e56794a2984cfca987?width=1200&format=jpeg",
+      "publishedAt": "2026-09-21T09:00:01Z",
+      "content": "Shortly after the US military's late February strike on Iran and the following Strait of Hormuz blockade, oil seemed poised to reach record heights if the war continued.\r\nInstead, the oil markets hav\u2026 [+7495 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Michele Kelemen",
+      "title": "What to know as world leaders converge at the United Nations this week",
+      "description": "United Nations head Ant\u00f3nio Guterres returns to New York for his final U.N. General Assembly as diplomacy falters over wars in Ukraine and the Middle East, and the global body faces deep divisions.",
+      "url": "https://www.npr.org/2026/09/21/nx-s1-5971262/united-nations-general-assembly",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4853x2728+0+206/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F36%2Fa2%2Fb8513b0c4408b983f61eee13d8e9%2Fgettyimages-2293714469.jpg",
+      "publishedAt": "2026-09-21T09:00:00Z",
+      "content": "World leaders are gathering at the United Nations headquarters in New York this week \"in an era of deep uncertainty,\" says U.N. Secretary-General Ant\u00f3nio Guterres.\r\nThis is Guterres' final General As\u2026 [+6137 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "AP",
+      "title": "Main Kremlin party keeps control of Russia's parliament after a carefully orchestrated vote",
+      "description": "Russia\u2019s ruling United Russia party is set to retain a commanding majority in parliament, with preliminary results giving it about 355 of 450 State Duma seats. The vote, the first parliamentary election since the 2022 invasion of Ukraine, was held amid tight \u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/main-kremlin-party-keeps-control-of-russias-parliament-after-a-carefully-orchestrated-vote/articleshow/134385100.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134385161,width-1200,height-630,imgsize-3853652,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-21T08:57:34Z",
+      "content": "The main Kremlin party retained its majority in Russia's parliament, election officials said Monday, after a carefully orchestrated balloting that excluded most opposition candidates and helped the g\u2026 [+3074 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "The Associated Press",
+      "title": "Main Kremlin party keeps control of Russia\u2019s parliament after orchestrated vote",
+      "description": "Election officials say the Kremlin's main party has retained its majority in Russia\u2019s parliament",
+      "url": "https://abcnews.com/International/wireStory/main-kremlin-party-control-russias-parliament-after-carefully-136611904",
+      "urlToImage": "https://i.abcnewsfe.com/a/12c195d9-caf6-4851-93f2-22c977dff77d/wirestory_5342c2757623f2e46e94b4c548e94213_16x9.jpg?w=1600",
+      "publishedAt": "2026-09-21T08:54:02Z",
+      "content": "The main Kremlin party retained its majority in Russias parliament, election officials said Monday, after a carefully orchestrated balloting that excluded most opposition candidates and helped the go\u2026 [+2982 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "Russia election results show Putin\u2019s party winning: What we know",
+      "description": "With more than 90 percent votes counted, Putin's United Russia appears poised for a landslide win.",
+      "url": "https://www.aljazeera.com/news/2026/9/21/russia-election-results-show-putins-party-winning-what-we-know",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab0dbfa65913-1789975546.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-21T08:47:06Z",
+      "content": "Early results emerging from Russias first parliamentary elections since the launch of the full-fledged war on Ukraine show President Vladimir Putins party dominating the vote an outcome widely predic\u2026 [+4566 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gossiplankanews.com"
+      },
+      "author": "noreply@blogger.com (Unknown)",
+      "title": "The biggest attack on Russia since the Second World War, targeting the capital Moscow",
+      "description": "Marking the largest attack on Russia since World War II, Ukraine has launched a series of powerful missile attacks on the capital, Moscow. As a result of these attacks, a Russian oil refinery is burning fiercely, and the sky over Moscow is reportedly covered \u2026",
+      "url": "https://english.gossiplankanews.com/2026/09/the-biggest-attack-on-russia-since.html",
+      "urlToImage": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_slNTt4u4Bgf2ocbDwIPeWiuXWUBYd1enBJtASi_1DzAzqY--pmRXzvJfpvOMYV5bDYoh3fNYNQcUnsmYstYYFWYuteRjDkQT3_iTx2e8EUMQX6vTgjd9RE2ltYbtJFAmiEUz8yqxlgqMx6o17nRtwsQtnx6gmJLF0hkyU=w1600",
+      "publishedAt": "2026-09-21T08:40:47Z",
+      "content": "Marking the largest attack on Russia since World War II, Ukraine has launched a series of powerful missile attacks on the capital, Moscow. As a result of these attacks, a Russian oil refinery is burn\u2026 [+2246 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Ritesh Presswala",
+      "title": "Trump\u2019s tariff tantrums return? Gokaldas Exports, other textile stocks drop up to 5% after Trump signs Russia sanctions bill",
+      "description": "Shares of textile exporters fell after US President Donald Trump signed a law allowing tariffs of up to 100% on countries buying Russian oil and gas, raising concerns over potential fresh duties on Indian exports. Gokaldas Exports fell nearly 5%, while Indo C\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/trumps-tariff-tantrums-return-gokaldas-exports-other-textile-stocks-drop-up-to-5-after-trump-signs-russia-sanctions-bill/articleshow/134384836.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134384861,width-1200,height-630,imgsize-19522,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-21T08:38:57Z",
+      "content": "Shares of textile exporters dropped up to 5% on Monday after US President Donald Trump signed the sweeping Russia sanctions bill into law, spooking investors about fresh tariff tantrums which can imp\u2026 [+2719 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rigzone"
+      },
+      "author": "Tony Halpin",
+      "title": "Moscow Refinery Hit in Major Drone Attack by Ukraine",
+      "description": "The Moscow Oil Refinery was hit during drone attacks that were part of the largest overnight Ukrainian barrage this year, as Russia entered the final day of voting in its parliamentary elections.",
+      "url": "https://www.rigzone.com/news/wire/moscow_refinery_hit_in_major_drone_attack_by_ukraine-21-sep-2026-184658-article/",
+      "urlToImage": "https://images.rigzone.com/images/news/articles/Moscow-Refinery-Hit-in-Major-Drone-Attack-by-Ukraine-184658-1200x628.png",
+      "publishedAt": "2026-09-21T08:18:18Z",
+      "content": "The Moscow Oil Refinery was hit during drone attacks that were part of the largest overnight Ukrainian barrage this year, as Russia entered the final day of voting in its parliamentary elections.\r\nRu\u2026 [+3625 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "benzinga.com",
+      "title": "Volodymyr Zelenskyy Touts Major Oil Strike in Russia Despite Trump Warning: \u2018Glory to Ukraine\u2019",
+      "description": "Zelenskyy hails Ukrainian strikes on Russian oil and logistics facilities despite Trump\u2019s warning, as Iran tensions fuel global oil concerns.",
+      "url": "https://biztoc.com/x/890786264b6c5128",
+      "urlToImage": "https://biztoc.com/cdn/890786264b6c5128_s.webp",
+      "publishedAt": "2026-09-21T07:26:50Z",
+      "content": "Zelenskyy hails Ukrainian strikes on Russian oil and logistics facilities despite Trumps warning, as Iran tensions fuel global oil concerns.\r\nThis story appeared on benzinga.com, 2026-09-21 07:11:25."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "HANNA ARHIROVA Associated Press",
+      "title": "As Russian strikes destroy millions of books, Ukraine's literary future hangs in the balance",
+      "description": "Ukraine\u2019s book industry is facing its worst crisis yet, driven by targeted Russian attacks on publishing infrastructure",
+      "url": "https://abcnews.com/International/wireStory/russian-strikes-destroy-millions-books-ukraines-literary-future-136610595",
+      "urlToImage": "https://i.abcnewsfe.com/a/2abc806a-1d5a-4c88-877a-dc9fb3549711/wirestory_e21969668deaf1a93e092d183c42b7d1_16x9.jpg?w=1600",
+      "publishedAt": "2026-09-21T07:17:18Z",
+      "content": "KYIV, Ukraine -- Seconds before the Russian drone struck, Viktor Kruglov was thinking about textbooks tens of thousands of them, and how to get them to Ukrainian schools faster.\r\nMinutes later, a sec\u2026 [+7367 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TIMESOFINDIA.COM",
+      "title": "Banish despair",
+      "description": "No one who is financially or culturally disadvantaged should feel himself irrevocably the prisoner of his circumstances. He should banish despair, for there is no end to possibilities in this world. It is simply a question of his being determined to make the \u2026",
+      "url": "https://timesofindia.indiatimes.com/speaking-tree/daily-ecstasy/banish-despair/articleshow/134383014.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134383042,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T07:09:58Z",
+      "content": "Follow Us On Social Media\r\nNot In My House: Mamdani Fires Shots At Trumps Media Ban; Awkward Exchange On Cam | WatchFart Left, Not Far-Left: JD Vances Awkward Mid-Speech Gaffe On Cam; Then Pivots To \u2026 [+3202 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Eliana Silver",
+      "title": "Russia could launch attack on Nato within 'months not years', Western spy chiefs warn as Putin celebrates election win",
+      "description": "The warnings come amid growing concern among EU leaders over the threat posed by Russia to the continent.",
+      "url": "https://www.dailymail.com/news/article-16147451/Russia-launch-attack-Nato-months-not-years-Western-spy-chiefs-warn-Putin-celebrates-election-win.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/09/21/07/111370997-0-image-a-9_1789973469888.jpg",
+      "publishedAt": "2026-09-21T07:00:09Z",
+      "content": "Europe's spy chiefs have warned that Russia may be about to test Nato, with one saying an attack could come in a matter of months.\r\nMeanwhile, Russia's ruling party that supports Vladimir Putin is se\u2026 [+8876 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sputnikglobe.com"
+      },
+      "author": "Sputnik International",
+      "title": "Military Cooperation Between Czech Republic, Slovakia & Ukraine Entails Military-Legal Consequences",
+      "description": "At a meeting of the Supreme Commander-in-Chief with the leadership of the General Staff and group commanders on July 3, 2026, Vladimir Putin demanded an analysis of the involvement of foreign industry in actual combat operations against our country.",
+      "url": "https://sputnikglobe.com/20260921/military-cooperation-between-czech-republic-slovakia--ukraine-entails-military-legal-consequences-1124766857.html",
+      "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1124766857.jpg?11209838631789973061",
+      "publishedAt": "2026-09-21T06:42:23Z",
+      "content": "Enjoy in-depth, acute analysis of the most pressing local, regional and global trends at Sputnik!\r\nhttps://sputnikglobe.com/20260921/military-cooperation-between-czech-republic-slovakia--ukraine-enta\u2026 [+15163 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hurriyet Daily News"
+      },
+      "author": "hurriyetdailynews.com",
+      "title": "Putin\u2019s party set to retain two-thirds Duma majority",
+      "description": "Russia\u2019s ruling United Russia party was on course to retain its two-thirds parliamentary majority, according to preliminary results and projections reported on Sept. 21, after voting marked by Ukrainian drone strikes and reported cyberattacks.",
+      "url": "https://www.hurriyetdailynews.com/putins-party-set-to-retain-two-thirds-duma-majority-227116",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6ab0d0d3242e1cf6f86a4251.jpg",
+      "publishedAt": "2026-09-21T06:38:18Z",
+      "content": "MOSCOW\r\nRussias ruling United Russia party was on course to retain its two-thirds parliamentary majority, according to preliminary results and projections reported on Sept. 21, after voting marked by\u2026 [+2174 chars]"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": null,
+      "title": "Putin\u2019s ruling party on course to retain power after election-day attacks",
+      "description": "Russia\u2019s supreme court removing the anti-war Yabloko party off the ballot weeks before the vote",
+      "url": "https://www.irishtimes.com/world/asia-pacific/2026/09/21/putins-ruling-party-on-course-to-retain-power-after-election-day-attacks/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/ATQMUUTK53B7QAM35AMATWJVDQ.jpg?smart=true&auth=40585fa7428af935ab1a00fca65820e2287183f59e3906edd5b7466a68021f0e&width=1200&height=630",
+      "publishedAt": "2026-09-21T06:34:10Z",
+      "content": "Russias ruling United Russia party scored an overwhelming victory in the countrys first parliamentary elections since the start of the war in Ukraine, in a vote tightly controlled by the Kremlin and \u2026 [+3611 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "HANNA ARHIROVA Associated Press",
+      "title": "As Russian strikes destroy millions of books, Ukraine's literary future in peril",
+      "description": "Ukraine\u2019s book industry is facing its worst crisis yet, driven by targeted Russian attacks on publishing infrastructure",
+      "url": "https://abcnews.com/Business/wireStory/russian-strikes-destroy-millions-books-ukraines-literary-future-136610597",
+      "urlToImage": "https://i.abcnewsfe.com/a/2abc806a-1d5a-4c88-877a-dc9fb3549711/wirestory_e21969668deaf1a93e092d183c42b7d1_16x9.jpg?w=1600",
+      "publishedAt": "2026-09-21T06:17:30Z",
+      "content": "KYIV, Ukraine -- Seconds before the Russian drone struck, Viktor Kruglov was thinking about textbooks tens of thousands of them, and how to get them to Ukrainian schools faster.\r\nMinutes later, a sec\u2026 [+7367 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheJournal.ie"
+      },
+      "author": "AFP",
+      "title": "Putin's party to retain power after Russian elections where anti-war parties were banned",
+      "description": "Russia\u2019s Supreme Court removed the anti-war Yabloko party off the ballot weeks before the vote.",
+      "url": "https://www.thejournal.ie/putin-party-retain-power-russia-elections-anti-war-parties-banned-7168145-Sep2026/",
+      "urlToImage": "https://img2.thejournal.ie/article/7168145/river/?height=400&version=7168146",
+      "publishedAt": "2026-09-21T06:04:23Z",
+      "content": "VLADIMIR PUTINS RULING United Russia party won a large majority in the countrys parliamentary elections, according to results published by state media.\r\nThe election, held to elect members in all sea\u2026 [+4099 chars]"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Denis Staunton",
+      "title": "Weapons in space",
+      "description": "The US, China and Russia have all developed anti-satellite systems, some of them ground based but others operating in orbit",
+      "url": "https://www.irishtimes.com/world/2026/09/21/the-us-declared-it-has-deployed-weapons-in-space-how-will-china-and-russia-react/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/NIGFBPVMNFE2TDWLHXHFK5PWTQ.jpg?smart=true&auth=288aee17decbb41aad7af9c0ef4c8067b461d8fac52dcabb69ab78300a29c9a2&width=1200&height=630",
+      "publishedAt": "2026-09-21T06:03:08Z",
+      "content": "Washingtons declaration that it has deployed weapons in space was meant as a warning to China and Russia. It could backfire.\r\nLost in space\r\nWhen the United States announced last week that it had dep\u2026 [+3964 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Belle Carter",
+      "title": "Moscow Reports Largest Ukrainian Drone Attack; Two Dead During Russian Election",
+      "description": "Russian officials said Ukraine launched its largest drone attack on Moscow to date on Sunday, with at least two people killed, as voters cast ballots in a presidential election expected to extend Vladimir Putin\u2019s rule. Moscow Mayor Sergei Sobyanin said air de\u2026",
+      "url": "https://www.naturalnews.com/2026-09-21-moscow-reports-largest-ukrainian-drone-attack.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/ukrainian-drone-attack-moscow-drone-strike-russian-presidential-election-4327-original.jpg",
+      "publishedAt": "2026-09-21T06:00:00Z",
+      "content": "Russian officials said Ukraine launched its largest drone attack on Moscow to date on Sunday, with at least two people killed, as voters cast ballots in a presidential election expected to extend Vla\u2026 [+6385 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Mike Adams",
+      "title": "Drone Warfare Is Coming to America \u2026 And We\u2019re Dangerously Unprepared",
+      "description": "If It Sits Above Ground, It Can Be Destroyed by Drones The drone revolution has quietly ended the era when America\u2019s above-ground infrastructure could be considered safe. The same precision-strike capability that hit Saudi pipelines and Qatari gas trains can \u2026",
+      "url": "https://www.naturalnews.com/2026-09-21-drone-warfare-coming-to-america-dangerously-unprepared.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/drone-warfare-critical-infrastructure-unmanned-aerial-vehicles-4332-original.jpg",
+      "publishedAt": "2026-09-21T06:00:00Z",
+      "content": "If It Sits Above Ground, It Can Be Destroyed by Drones\r\nThe drone revolution has quietly ended the era when America's above-ground infrastructure could be considered safe. The same precision-strike c\u2026 [+12564 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Edison Reed",
+      "title": "Trump Signs Russia Sanctions Bill Into Law, Authorizing Tariffs on Russian Energy Buyers",
+      "description": "President Donald Trump signed the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 into law on Friday, according to White House statements and public records. The legislation authorizes new sanctions on Russia and extends existing sanctions on Iran, \u2026",
+      "url": "https://www.naturalnews.com/2026-09-21-trumps-signs-russia-law-tariffs-energy-buyers.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/russia-sanctions-bill-trump-signing-tariffs-on-russian-energy-4288-original.jpg",
+      "publishedAt": "2026-09-21T06:00:00Z",
+      "content": "President Donald Trump signed the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 into law on Friday, according to White House statements and public records. The legislation authorizes new \u2026 [+7817 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Garrison Vance",
+      "title": "Bucha Used by West to Derail Istanbul Peace Talks, Russian MFA Spokeswoman Says",
+      "description": "Russian Foreign Ministry spokeswoman Maria Zakharova said during a press conference in Moscow on Thursday that Western sponsors of Kyiv initiated the falsification of events in Bucha, according to statements reported by Russian state media on September 17, 20\u2026",
+      "url": "https://www.naturalnews.com/2026-09-21-bucha-derailed-istanbul-peace-talks-russian-spokeswoman.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/bucha-istanbul-peace-talks-maria-zakharova-4222-original.jpg",
+      "publishedAt": "2026-09-21T06:00:00Z",
+      "content": "Russian Foreign Ministry spokeswoman Maria Zakharova said during a press conference in Moscow on Thursday that Western sponsors of Kyiv initiated the falsification of events in Bucha, according to st\u2026 [+7708 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "The Conversation",
+      "title": "Iran war pushes diesel to record high prices, with no relief on the horizon",
+      "description": "The inflation-adjusted price of diesel in late August was about as high as it was in 2022 and has likely risen further",
+      "url": "https://www.business-standard.com/world-news/iran-war-pushes-diesel-to-record-high-prices-with-no-relief-on-the-horizon-126092100286_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/21/thumb/fitandfill/1200X628/1787278148-9945.JPG",
+      "publishedAt": "2026-09-21T05:58:11Z",
+      "content": "Diesel fuel prices in the US continue to break all-time records, hitting $6.28 a gallon as a national average on Sept. 14, 2026, and they arent likely to come down anytime soon. Because diesel is the\u2026 [+6368 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Lurion De Mello, Senior Lecturer in Finance, Macquarie University",
+      "title": "As renewed chaos grips the oil market, one country is keeping global prices down \u2013 by reducing demand",
+      "description": "As renewed chaos grips the oil market, China is reaping the benefits of electric vehicles. But Australia\u2019s reliance on diesel leaves it exposed",
+      "url": "https://theconversation.com/as-renewed-chaos-grips-the-oil-market-one-country-is-keeping-global-prices-down-by-reducing-demand-292218",
+      "urlToImage": "https://images.theconversation.com/files/761049/original/file-20260921-60-nce6l.jpg?ixlib=rb-4.1.1&rect=0%2C1140%2C6832%2C3416&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-09-21T05:55:16Z",
+      "content": "Cheng Xin/Getty\r\nOil markets are in turmoil amid renewed tensions in the Middle East. Prices have risen past US$100 (A$140) a barrel for the first time since May. \n\nThe biggest trigger is the bombing\u2026 [+5626 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "author": "Estefano Gomez",
+      "title": "Russia escalates attacks on Ukrainian ports, 300 vessels damaged",
+      "description": "The intensified attacks on Ukrainian ports could further destabilize regional trade and diminish Ukraine's strategic military prospects.\nThe post Russia escalates attacks on Ukrainian ports, 300 vessels damaged appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/russia-escalates-attacks-on-ukrainian-ports-300-vessels-damaged/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/21012439/cb-card-geo-157-800x420.png",
+      "publishedAt": "2026-09-21T05:24:41Z",
+      "content": "Recent reports from the Kyiv Post highlight the severe impact of ongoing Russian attacks on Ukrainian ports and maritime infrastructure. The head of Ukraine\u2019s Ports Association disclosed that more th\u2026 [+1541 chars]"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Max Seddon",
+      "title": "Ukraine hits Moscow with \u2018largest ever\u2019 drone attack",
+      "description": "Major oil refinery in Russian capital set ablaze as voting draws to a close in stage-managed parliamentary elections",
+      "url": "https://www.irishtimes.com/world/2026/09/21/ukraine-hits-moscow-with-largest-ever-drone-attack/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/ATQMUUTK53B7QAM35AMATWJVDQ.jpg?smart=true&auth=40585fa7428af935ab1a00fca65820e2287183f59e3906edd5b7466a68021f0e&width=1200&height=630",
+      "publishedAt": "2026-09-21T05:00:01Z",
+      "content": "Ukraine has hit Moscow with what local authorities said was the largest ever drone attack on the capital, setting a major oil refinery ablaze and killing at least two people, as voting in Russias sta\u2026 [+3395 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "author": "Estefano Gomez",
+      "title": "Ukraine is approaching what intelligence says will be the most critical moment of the war with Russia",
+      "description": "The conflict's escalation could reshape geopolitical alliances, influence global markets, and alter military strategies in the region.\nThe post Ukraine is approaching what intelligence says will be the most critical moment of the war with Russia appeared firs\u2026",
+      "url": "https://cryptobriefing.com/ukraine-is-approaching-what-intelligence-says-will-be-the-most-critical-moment/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/21003726/cb-card-geo-156-800x420.png",
+      "publishedAt": "2026-09-21T04:37:27Z",
+      "content": "Ukraine is reportedly poised for what intelligence sources describe as the most critical phase of its ongoing war with Russia. This development occurs amidst an active conflict characterized by susta\u2026 [+1532 chars]"
+    },
+    {
+      "source": {
+        "id": "rte",
+        "name": "RTE"
+      },
+      "author": "RT\u00c9 News",
+      "title": "Putin's party to retain power after election day attacks",
+      "description": "Vladimir Putin's ruling United Russia party won a large majority in the country's parliamentary elections, marked by cyberattacks and a barrage of Ukrainian drone strikes, according to results published by state media.",
+      "url": "https://www.rte.ie/news/world/2026/0921/1592291-russia-election/",
+      "urlToImage": "https://www.rte.ie/images/00250a4c-1600.jpg",
+      "publishedAt": "2026-09-21T04:36:05Z",
+      "content": "Vladimir Putin's ruling United Russia party won a large majority in the country's parliamentary elections, marked by cyberattacks and a barrage of Ukrainian drone strikes, according to results publis\u2026 [+4982 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "The Conservative Treehouse - The Last Refuge",
+      "title": "Zelenskyy Brags About NATO Missile Systems Being Used to Attack Moscow and Russian Refineries",
+      "description": "Days after President Trump asks Ukraine President Volodymyr Zelenskyy to halt attacks on Russian oil refineries, Zelenskyy takes the attacks up a notch and brags about all of the different NATO country missile systems being used to attack Russian oil refineri\u2026",
+      "url": "https://freerepublic.com/focus/f-chat/4396299/posts",
+      "urlToImage": null,
+      "publishedAt": "2026-09-21T03:56:57Z",
+      "content": "Skip to comments.\r\nZelenskyy Brags About NATO Missile Systems Being Used to Attack Moscow and Russian RefineriesThe Conservative Treehouse - The Last Refuge ^\r\n | September 20, 2026\r\n | Sundance\r\nPos\u2026 [+3174 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sputnikglobe.com"
+      },
+      "author": "Sputnik International",
+      "title": "Turkiye Expects Talks on Ukraine to Resume Before End of Year - Source in Turkish Cabinet",
+      "description": "Turkiye expects the negotiation process to resolve the conflict in Ukraine to resume before the end of 2026, a source in the Turkish government told Sputnik.",
+      "url": "https://sputnikglobe.com/20260921/turkey-expects-talks-on-ukraine-to-resume-before-end-of-year---source-in-turkish-cabinet-1124766209.html",
+      "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1124766209.jpg?11224818931789965083",
+      "publishedAt": "2026-09-21T03:39:00Z",
+      "content": "Russia's Special Operation in Ukraine\r\nOn February 24, 2022 Russia launched a special military operation in Ukraine, aiming to liberate the Donbass region where the people's republics of Donetsk and \u2026 [+2047 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Substack.com"
+      },
+      "author": "Andrew Korybko",
+      "title": "Azov\u2019s Expansion to Poland Poses a Pressing National Security Threat",
+      "description": "The authorities earlier warned about the security threats posed by traumatized veterans, but they might take on a national scale if they\u2019re weaponized in furtherance of Ukraine\u2019s potentially impending territorial claims to Poland and/or as part of the major f\u2026",
+      "url": "https://korybko.substack.com/p/azovs-expansion-to-poland-poses-a",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!ve4j!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F526d9183-21ce-48ce-8d3f-98d092f70598_800x600.jpeg",
+      "publishedAt": "2026-09-21T03:38:42Z",
+      "content": "The authorities earlier warned about the security threats posed by traumatized veterans, but they might take on a national scale if theyre weaponized in furtherance of Ukraines potentially impending \u2026 [+3627 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Rajeev Singh",
+      "title": "Putin-backed United Russia leads Duma polls with 57.5% as Ukraine war overshadows votes",
+      "description": "The three-day parliamentary election ended on Sunday, with the final results expected by September 25. Early figures released by Russia's Central Election Commission showed United Russia well ahead of other parties. The election is the first parliamentary vot\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/europe/putin-backed-united-russia-leads-duma-polls-with-57-5-as-ukraine-war-overshadows-vote/articleshow/134378089.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134378163,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T02:18:48Z",
+      "content": "Follow Us On Social Media\r\nU.S.-Houthi Understanding Tested As Washington Declares Advisory For Citizens In Saudi ArabiaTrump Vs Mamdani Showdown! Netanyahu Arrest Turns UN Meeting Into Israel Flashp\u2026 [+3378 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "yahoo finance",
+      "title": "The Other Hormuz: Black Sea Blockade Threatens Food Supply Shock...",
+      "description": "As the world focuses on the oil market, the war in Ukraine is snarling vital grain shipments and forcing buyers to scramble for supplies from elsewhere.",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/other-hormuz-black-sea-blockade-230101888.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/b2aeef78050067137dbcee627259c6af553065b3729c1ea1813747f244b812ec/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F9885f3ea51dc545cf4800f473df6f199.jpg",
+      "publishedAt": "2026-09-21T02:00:19Z",
+      "content": "\"We can think of the Black Sea as important for global wheat trade as the Strait of Hormuz is for global oil trade,\" said Caitlin Welsh, a food security expert at the Center for Strategic and Interna\u2026 [+11302 chars]"
+    },
     {
       "source": {
         "id": "cbc-news",
@@ -612,669 +1262,6 @@
       "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/09/trump-leadership-position.jpg?crop=90px%2C0px%2C1696px%2C954px&resize=1600%2C900",
       "publishedAt": "2026-09-20T14:00:00Z",
       "content": "Things are spinning out of control. Wars that were supposed to be contained are expanding across borders, drawing new powers into conflicts they cannot easily control.\r\nRussia\u2019s \u201ctotal war\u201d against U\u2026 [+8296 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "author": "feedfeeder",
-      "title": "Hundreds of Drones Target Moscow on Final Day of Russian Elections - The New York Times",
-      "description": "Hundreds of Drones Target Moscow on Final Day of Russian ElectionsThe New York Times Moscow targeted by \u2018massive drone attack\u2019 on day three of Russia\u2019s parliamentary electionCNN Ukrainian drones and missiles target Moscow, oil refinery in deadly attack: Offic\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185717162",
-      "urlToImage": null,
-      "publishedAt": "2026-09-20T13:33:10Z",
-      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "author": "feedfeeder",
-      "title": "Ukraine hits Moscow with \u2018largest ever\u2019 drone attack - Financial Times",
-      "description": "Ukraine hits Moscow with \u2018largest ever\u2019 drone attackFinancial Times Moscow targeted by \u2018massive drone attack\u2019 on day three of Russia\u2019s parliamentary electionCNN Ukrainian drones and missiles target Moscow, oil refinery in deadly attack: OfficialsABC News - Br\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185716988",
-      "urlToImage": null,
-      "publishedAt": "2026-09-20T13:13:21Z",
-      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Common Dreams"
-      },
-      "author": "Ivana Nikoli\u0107 Hughes",
-      "title": "In a World of Nukes and Climate Emergency, Knowledge Is Survival",
-      "description": "The current state of our world has repeatedly been described as one of the most challenging moments\r\n since the end of World War II and certainly since the end of the Cold War. We are bombarded daily by the devastating and terrifying news of wars raging in th\u2026",
-      "url": "https://www.commondreams.org/opinion/knowledge-is-survival",
-      "urlToImage": "https://www.commondreams.org/media-library/image.jpg?id=56524811&width=1200&height=600&coordinates=0%2C676%2C0%2C676",
-      "publishedAt": "2026-09-20T13:03:04Z",
-      "content": "The current state of our world has repeatedly been described as one of the most challenging moments\r\n since the end of World War II and certainly since the end of the Cold War. We are bombarded daily\u2026 [+8341 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "author": "feedfeeder",
-      "title": "Russia Barred Their Party, but These Antiwar Voices Are Still Standing - The New York Times",
-      "description": "Russia Barred Their Party, but These Antiwar Voices Are Still StandingThe New York Times Ukraine war briefing: Kyiv denounces Russia\u2019s inclusion of annexed regions in parliamentary electionsThe Guardian [Interview] Why does Putin bother with elections when ev\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185716844",
-      "urlToImage": null,
-      "publishedAt": "2026-09-20T12:53:31Z",
-      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ANI",
-      "title": "Moscow repels 'largest enemy drone attack' involving over 1,600 UAVs amid Russian parliamentary elections",
-      "description": "Russia reported repelling a large drone attack targeting Moscow during ongoing parliamentary elections. Ukrainian President Volodymyr Zelenskyy claimed significant strikes impacted Russian oil and logistics facilities. He detailed various drone systems used i\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/moscow-fends-off-largest-drone-attack-during-parliamentary-elections-as-ukraine-strikes-key-facilities/articleshow/134368551.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134368550,width-1200,height-630,imgsize-73378,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-20T12:30:35Z",
-      "content": "Moscow [Russia]: Amid ongoing Russian parliamentary elections, Moscow Mayor Sergei Sobyanin said on Sunday that Russia had repelled what he described as the \"largest enemy drone attack\" on Moscow, cl\u2026 [+4103 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newser"
-      },
-      "author": "John Johnson",
-      "title": "Ukraine Launches Biggest Drone Attack Yet on Moscow",
-      "description": "Ukrainian forces fired more than 1,000 drones at Russia overnight, including hundreds that were launched toward Moscow, Russian officials said Sunday. The bombardment came as the Kremlin was wrapping up the third and last day of its parliamentary elections. M\u2026",
-      "url": "https://www.newser.com/story/396735/ukraine-launches-biggest-drone-attack-yet-on-moscow.html",
-      "urlToImage": "https://cdn.newser.com/image/1712728-12-20260920075332.jpeg",
-      "publishedAt": "2026-09-20T12:23:26Z",
-      "content": "Ukrainian forces fired more than 1,000 drones at Russia overnight, including hundreds that were launched toward Moscow, Russian officials said Sunday. The bombardment came as the Kremlin was wrapping\u2026 [+340 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Pravda.sk"
-      },
-      "author": "janatutkova",
-      "title": "Russian false flag operation in Baltics? That\u2019s how it was conducted in Ukraine in Feb 2022",
-      "description": "Recent warnings of Lithuanian Foreign Minister K\u0119stutis Budrys and Polish Prime Minister Donald Tusk that Moscow may be preparing hybrid operations that could be used as a false flag to attack NATO member countries bring back the history of how the false flag\u2026",
-      "url": "https://janatutkova.blog.pravda.sk/2026/09/20/russian-false-flag-operation-in-baltics-thats-how-it-was-conducted-in-ukraine-in-feb-2022/",
-      "urlToImage": "https://blog.pravda.sk/avatar/blog-6562-256.png",
-      "publishedAt": "2026-09-20T12:09:25Z",
-      "content": "Recent warnings of Lithuanian Foreign Minister Kstutis Budrys and Polish Prime Minister Donald Tusk that Moscow may be preparing hybrid operations that could be used as a false flag to attack NATO me\u2026 [+4054 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-sun.com"
-      },
-      "author": "the us sun",
-      "title": "Moscow rocked by 'biggest ever' Ukrainian drone onslaught...",
-      "description": null,
-      "url": "https://www.the-sun.com/news/17032027/moscow-rocked-drone-strikes-ukraine/",
-      "urlToImage": null,
-      "publishedAt": "2026-09-20T12:00:13Z",
-      "content": "UKRAINE has launched its \u2018biggest ever\u2019 attack on Moscow as 1,600 drones were unleashed across Russia. Dramatic footage shows massive fires raging in the district, as well as the Sofyin\u2026"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalsecurity.org"
-      },
-      "author": "John Pike",
-      "title": "Russia Hammers Key Ukrainian Military Logistics Hubs",
-      "description": "The Russian army carried out coordinated strikes on Ukrainian targets using high-precision air-launched weapons and attack drones, according to Russia's Ministry of Defense.",
-      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260920-sputnik06.htm",
-      "urlToImage": null,
-      "publishedAt": "2026-09-20T12:00:00Z",
-      "content": "20260920\r\nThe Russian army carried out coordinated strikes on Ukrainian targets using high-precision air-launched weapons and attack drones, according to Russia's Ministry of Defense.\r\nIn Kiev, the s\u2026 [+943 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalsecurity.org"
-      },
-      "author": "John Pike",
-      "title": "Russia And Ukraine Launch Attacks On Final Day Of Russian Parliamentary Vote",
-      "description": "There was no letup in fighting between Russia and Ukraine on September 20, as voters in Russia cast ballots on the final day of parliamentary elections from which a political party calling for peace was excluded.",
-      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260920-rferl01.htm",
-      "urlToImage": null,
-      "publishedAt": "2026-09-20T12:00:00Z",
-      "content": "By Ray Furlong September 20, 2026\r\nThere was no letup in fighting between Russia and Ukraine on September 20, as voters in Russia cast ballots on the final day of parliamentary elections from which a\u2026 [+7294 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalsecurity.org"
-      },
-      "author": "John Pike",
-      "title": "Foreign Minister Tsahkna on World Cleanup Day: Russia Must Be Held Accountable for the Environmental Damage It Has Caused in Ukraine",
-      "description": "Today, 20 September, marks International World Cleanup Day, which has been an official United Nations observance for the third consecutive year. This year's World Cleanup Day focuses on reducing food waste and raising awareness. To mark the occasion, the Mini\u2026",
-      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260920-estonia-mfa01.htm",
-      "urlToImage": null,
-      "publishedAt": "2026-09-20T12:00:00Z",
-      "content": "Republic of Estonia - Ministry of Foreign Affairs\r\n20.09.2026 | 17:29\r\nToday, 20 September, marks International World Cleanup Day, which has been an official United Nations observance for the third c\u2026 [+3051 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalsecurity.org"
-      },
-      "author": "John Pike",
-      "title": "Russia's Starlink Rival Faces Problems In Orbit And Threats On The Ground",
-      "description": "Russia is building its own version of Starlink -- Elon Musk's constellation of satellites in low-earth orbit that can provide fast Internet access anywhere in the world.",
-      "url": "https://www.globalsecurity.org/space/library/news/2026/space-260920-rferl01.htm",
-      "urlToImage": null,
-      "publishedAt": "2026-09-20T12:00:00Z",
-      "content": "By Yauhen Lehalau, Valentin Baryshnikov and Ivan Gutterman September 20, 2026\r\nRussia is building its own version of Starlink -- Elon Musk's constellation of satellites in low-earth orbit that can pr\u2026 [+8910 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Ukraine targets Russia with over 1,000 drones, killing 2 as Moscow holds last day of elections",
-      "description": "Ukraine launched over 1,000 drones and missiles at Moscow in what Russia calls the largest attack of the war, damaging a major oil refinery.",
-      "url": "https://www.foxnews.com/world/ukraine-targets-russia-1000-drones-killing-2-moscow-holds-last-day-elections",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/moscow-drone-attacks.gif",
-      "publishedAt": "2026-09-20T11:49:27Z",
-      "content": "Ukraine delivered a barrage of missiles and more than 1,000 drones on Russia, which Moscow is calling the \"largest ever\" of the war and an attack on its parliamentary elections.\r\nUkrainian President \u2026 [+4621 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Crypto Briefing"
-      },
-      "author": "Editorial Team",
-      "title": "Ukraine launches largest ever drone attack on Moscow with over 1,600 drones",
-      "description": "Ukraine's unprecedented drone assault on Moscow signals a significant escalation, potentially altering geopolitical dynamics and military strategies.\nThe post Ukraine launches largest ever drone attack on Moscow with over 1,600 drones appeared first on Crypto\u2026",
-      "url": "https://cryptobriefing.com/ukraine-largest-drone-attack-moscow/",
-      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/20074802/library-ukraine-launches-largest-ever-drone-attack-on-moscow-wit-800x450.png",
-      "publishedAt": "2026-09-20T11:48:06Z",
-      "content": "The massive aerial assault hit a key oil refinery and killed two people on Russia's election day, marking a dramatic escalation in Ukraine's long-range strike capability Ukraine sent a record-breakin\u2026 [+2000 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "HuffPost"
-      },
-      "author": "HuffPost",
-      "title": "Ukraine Launches Massive Overnight Attack That Includes 'Largest Ever' Drone Assault On Moscow",
-      "description": "Ukrainian President Volodymyr Zelenskyy said that Kyiv had used a range of missiles and drones in the attack to hit oil and logistics facilities.",
-      "url": "https://www.huffpost.com/entry/ukraine-launches-massive-overnight-attack-that-includes-largest-ever-drone-assault-on-moscow_n_6aafc1d6e4b03601209acb4e",
-      "urlToImage": "https://img.huffingtonpost.com/asset/6aafc2f41c0000f91395ed0f.jpeg?cache=2bH9WXmDTn&ops=1200_630",
-      "publishedAt": "2026-09-20T11:30:22Z",
-      "content": "Flame and smoke is seen rising from Moscow's oil refinery in the south east of the city following a largescale Ukrainian drone attack, Sunday, Sept. 20, 2026. (UGC via AP)\r\nUkrainian forces fired mor\u2026 [+4006 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TheJournal.ie"
-      },
-      "author": "Press Association",
-      "title": "\u2018Largest ever\u2019 attack on Moscow as Ukraine fires over 1,000 drones at Russia overnight",
-      "description": "The major attack comes on the third and final day of voting in Russia\u2019s first wartime parliamentary election.",
-      "url": "https://www.thejournal.ie/largest-ever-attack-on-moscow-as-ukraine-fires-over-1000-drones-at-russia-7167713-Sep2026/",
-      "urlToImage": "https://img2.thejournal.ie/article/7167713/river/?height=400&version=7167715",
-      "publishedAt": "2026-09-20T11:24:37Z",
-      "content": "UKRAINIAN FORCES HAVE fired more than 1,000 drones at Russia overnight, including hundreds launched towards Moscow, officials said, as the Kremlin was wrapping up the third and last day of its parlia\u2026 [+3505 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "author": "BBC",
-      "title": "'Massive' drone attack on Moscow region sees Ukraine hit oil refinery",
-      "description": "At least two people have been killed and six injured in a \"massive\" overnight Ukrainian drone attack on the Moscow region, Governor Andrei Vorobyev has said. Moscow Mayor Sergei Sobyanin said 450 drones heading for the capital had been shot down in what he ca\u2026",
-      "url": "https://freerepublic.com/focus/f-news/4396226/posts",
-      "urlToImage": null,
-      "publishedAt": "2026-09-20T11:22:09Z",
-      "content": "Skip to comments.\r\n'Massive' drone attack on Moscow region sees Ukraine hit oil refineryBBC ^\r\n | Sep 20, 2026\r\n | Jaroslav Lukiv and Dearbail Jordan\r\nPosted on 09/20/2026 4:22:09 AM PDT by McGruff\r\n\u2026 [+1180 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sputnikglobe.com"
-      },
-      "author": "Sputnik International",
-      "title": "Russian Strikes Leave Ukraine\u2019s Biggest Steel Producers Offline \u2013 Report",
-      "description": "Ukraine\u2019s steel industry has effectively been brought to a halt after Russian strikes damaged three of the country\u2019s largest steel plants in Zaporozhye and Dnepropetrovsk regions, medias reported, citing industry representatives.",
-      "url": "https://sputnikglobe.com/20260920/russian-strikes-leave-ukraines-biggest-steel-producers-offline--report-1124765284.html",
-      "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1124765284.jpg?11172285051789902890",
-      "publishedAt": "2026-09-20T11:14:50Z",
-      "content": "Russia's Special Operation in Ukraine\r\nOn February 24, 2022 Russia launched a special military operation in Ukraine, aiming to liberate the Donbass region where the people's republics of Donetsk and \u2026 [+2263 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Crypto Briefing"
-      },
-      "author": "Estefano Gomez",
-      "title": "Russia launches major offensive with 2,000 drones, 19 missiles in a week",
-      "description": "The intensified Russian offensive reduces Ukraine's chances of reclaiming Crimea by 2026, impacting conflict dynamics and diplomatic efforts.\nThe post Russia launches major offensive with 2,000 drones, 19 missiles in a week appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/russia-launches-major-offensive-with-2000-drones-19-missiles-in-a-week/",
-      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/20070936/cb-card-geo-143-800x420.png",
-      "publishedAt": "2026-09-20T11:09:37Z",
-      "content": "Russia has launched a significant offensive against Ukraine, deploying over 2,000 drones and 19 missiles in a week, according to Ukrainian President Volodymyr Zelenskyy. The attacks targeted civilian\u2026 [+1325 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nakedcapitalism.com"
-      },
-      "author": "Haig Hovaness",
-      "title": "Links 9/20/2026",
-      "description": "Our strategic daily links: Tying laces, climate whiplash, Shaolin students, Tata tussle, EU fuel prices, Mideast horrors, Ukraine burning, vanishing privacy, Trumpishness, Musk world, hapless Democrats, immigration troubles, Mr. market, AI, and wretched excess",
-      "url": "https://www.nakedcapitalism.com/2026/09/links-9-20-2026.html",
-      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2026/09/Butterfly_Papilio_demoleus_by_Kadavoor.jpg",
-      "publishedAt": "2026-09-20T10:55:11Z",
-      "content": "Learn how to tie your shoes like a pro with a secret technique.\r\n[ girlyglamfiles] pic.twitter.com/t2gLvaDcWF\r\n Massimo (@Rainmaker1973) September 19, 2026\r\nCognition and consciousness arise from ana\u2026 [+9676 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": null,
-      "title": "Ukraine launches 1,000 drones at Russia, including hundreds fired at Moscow",
-      "description": "Across the wider Moscow region, the attack killed two people and wounded 20, a local official said Sunday.",
-      "url": "https://www.cbsnews.com/news/ukraine-drone-attack-moscow-russia/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/20/55bfe284-7ad5-4b97-b4ed-4fa1656afd72/thumbnail/1200x630/55ec1db3686416ca2bb19c71c22f18d4/ap26263309243137.jpg",
-      "publishedAt": "2026-09-20T10:50:29Z",
-      "content": "Ukrainian forces fired more than 1,000 drones at Russia overnight, including hundreds that were launched toward Moscow, officials said Sunday as the Kremlin was wrapping up the third and last day of \u2026 [+3445 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hurriyet Daily News"
-      },
-      "author": "hurriyetdailynews.com",
-      "title": "Mass drone barrage on Moscow kills two on election day",
-      "description": "Hundreds of drones targeting Moscow and its surrounding region killed at least two people and damaged a major refinery on the final day of Russia\u2019s parliamentary elections, the authorities said on Sept. 20.",
-      "url": "https://www.hurriyetdailynews.com/mass-drone-barrage-on-moscow-kills-two-on-election-day-227088",
-      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6aafb32f29066eaba7b373ff.jpg",
-      "publishedAt": "2026-09-20T10:03:00Z",
-      "content": "MOSCOW\r\nWomen cast their ballots for Russia's parliamentary election at a polling station in Moscow on September 20, 2026. (AFP Photo)\r\nHundreds of drones targeting Moscow and its surrounding region \u2026 [+2617 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nakedcapitalism.com"
-      },
-      "author": "Conor Gallagher",
-      "title": "Poland\u2019s Ruling Liberals Appear To Be Plotting A Major Escalation Against Russia",
-      "description": "Warsaw needs to justify the 4.8 percent of GDP being spent on war racket, but how far do some Cold War warriors want to go?",
-      "url": "https://www.nakedcapitalism.com/2026/09/polands-ruling-liberals-appear-to-be-plotting-a-major-escalation-against-russia.html",
-      "urlToImage": null,
-      "publishedAt": "2026-09-20T10:00:43Z",
-      "content": "Conor here: Polish politicians have been making noise about thisand Moscow has been warning about itfor years.\r\nNo doubt someone like Polish Foreign Minister Radek Sikorski, husband of Cold War warri\u2026 [+5467 chars]"
-    },
-    {
-      "source": {
-        "id": "breitbart-news",
-        "name": "Breitbart News"
-      },
-      "author": "Breitbart London",
-      "title": "Ukraine Fires over 1,000 Drones at Russia, Including Hundreds at Moscow",
-      "description": "Ukrainian forces fired more than 1,000 drones at Russia overnight, including hundreds that were launched toward Moscow, officials said Sunday as the Kremlin was wrapping up the third and last day of its parliamentary elections.\nThe post Ukraine Fires over 1,0\u2026",
-      "url": "https://www.breitbart.com/europe/2026/09/20/ukraine-fires-over-1000-drones-at-russia-including-hundreds-at-moscow/",
-      "urlToImage": "https://media.breitbart.com/media/2026/09/GettyImages-2295633597-1-640x335.jpg",
-      "publishedAt": "2026-09-20T09:58:42Z",
-      "content": "(AP) \u2014 Ukrainian forces fired more than 1,000 drones at Russia overnight, including hundreds that were launched toward Moscow, officials said Sunday as the Kremlin was wrapping up the third and last \u2026 [+3190 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Nick Duffy, Reuters",
-      "title": "Two dead in Moscow as Ukraine launches massive drone attack while Russia votes",
-      "description": "The largest Ukrainian drone attack reported so far on the Moscow region killed two people \u2060and damaged part of an oil refinery in the capital, authorities said Sunday.",
-      "url": "https://www.nbcnews.com/world/russia/two-dead-moscow-region-drones-hit-oil-refinery-russian-capital-rcna598767",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260920-moscow-nd-be3820.jpg",
-      "publishedAt": "2026-09-20T09:28:37Z",
-      "content": "MOSCOW Ukraine launched hundreds of drones at Moscow on Sunday, killing two people on the final day of a Russian parliamentary election that President Vladimir Putin has cast as a test of support for\u2026 [+4539 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "POLITICO.eu"
-      },
-      "author": "Jordyn Dahl",
-      "title": "Massive Ukrainian drone attack hits Moscow on last day of Russian elections",
-      "description": "\"This unprecedented attack was clearly planned with the aim of disrupting the \u2060elections,\" said Moscow Mayor Sergei Sobyanin.",
-      "url": "https://www.politico.eu/article/ukraine-drone-attack-moscow-elections/",
-      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/09/20/GettyImages-2295631649-scaled.jpg",
-      "publishedAt": "2026-09-20T09:23:27Z",
-      "content": "Ukrainian President Volodymyr Zelenskyy confirmed attacks had been carried out against infrastructure facilities in and around Moscow. \u201cOur long-range responses had a very significant impact in the M\u2026 [+1050 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Pakistan minister Naqvi to visit Tehran; Iran says talks to focus on bilateral ties",
-      "description": "Pakistani Interior Minister Mohsin Naqvi is set to visit Tehran on Sunday to address bilateral agreements and rising West Asian tensions, including conflict between Saudi Arabia and Yemen's Houthis as well as disrupted global shipping channels.",
-      "url": "https://economictimes.indiatimes.com/news/defence/pakistan-minister-naqvi-to-visit-tehran-iran-says-talks-to-focus-on-bilateral-ties/articleshow/134365977.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134366055,width-1200,height-630,imgsize-54514,overlay-etdefence/articleshow.jpg",
-      "publishedAt": "2026-09-20T09:22:24Z",
-      "content": "Islamabad: Pakistan Interior Minister Mohsin Naqvi will visit Tehran on Sunday for talks with Iranian leaders and officials amid escalated tension in West Asia, which involve the US-Iran conflict and\u2026 [+3185 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "author": "The Associated Press",
-      "title": "Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow",
-      "description": "Moscow's mayor described the wave of drones as the \"largest ever\" attack on the Russian capital and said there had been damage to a Moscow oil refinery and a residential building.",
-      "url": "https://www.npr.org/2026/09/20/nx-s1-5975372/ukraine-fires-drones-at-russia-moscow",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5440x3060+0+284/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff7%2Fe7%2F30ae5c6649fcaa1d8badb854e7e1%2Fap26262779814089.jpg",
-      "publishedAt": "2026-09-20T09:16:42Z",
-      "content": "Ukrainian forces fired more than 1,000 drones at Russia overnight, including hundreds that were launched toward Moscow, officials said Sunday as the Kremlin was wrapping up the third and last day of \u2026 [+2627 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news-au",
-        "name": "ABC News (AU)"
-      },
-      "author": null,
-      "title": "Moscow faces 'largest ever' attack as Ukraine fires over 1,000 drones",
-      "description": "The attack comes as Russia enters the third and final day of voting in its first wartime parliamentary election.",
-      "url": "https://www.abc.net.au/news/2026-09-20/russia-ukraine-drone-attack-moscow-election/107174326",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/a5726bd955e3a54e5acee2c04e09566c?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=244&width=862&height=485&imformat=generic",
-      "publishedAt": "2026-09-20T09:06:20Z",
-      "content": "Ukrainian forces have fired more than 1,000 drones at Russia overnight, officials say, including what Moscow's mayor has described as the \"largest ever\" attack on the Russian capital.\r\nRussia's Minis\u2026 [+2239 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "author": "feedfeeder",
-      "title": "Ukraine-Russia war latest: Hundreds of drones target Moscow region leaving two dead, mayor says as voting ends - The Independent",
-      "description": "Ukraine-Russia war latest: Hundreds of drones target Moscow region leaving two dead, mayor says as voting endsThe Independent Two killed in 'massive' Ukrainian drone attack on Moscow region, says RussiaBBC Ukraine fires over 1,000 drones at Russia, including \u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185714612",
-      "urlToImage": null,
-      "publishedAt": "2026-09-20T08:52:26Z",
-      "content": "Pohl's law: \r\n Nothing is so good that somebody, somewhere, will not hate it."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dailymail.com"
-      },
-      "author": "Sabrina Penty, Will Stewart",
-      "title": "Huge fires rage in Moscow as Ukraine strikes Russian capital's biggest oil refinery in massive drone attack on the last day of election",
-      "description": "Huge fires burned through Moscow overnight following one of the biggest Ukrainian drone attacks in the Russian capital, which left two people dead.",
-      "url": "https://www.dailymail.com/news/article-16145873/fires-rage-Moscow-Ukraine-strikes-Russia-oil-refinery-drone-attack-day-election.html",
-      "urlToImage": "https://i.dailymail.com/1s/2026/09/20/09/111356493-0-image-m-25_1789893893403.jpg",
-      "publishedAt": "2026-09-20T08:47:32Z",
-      "content": "Huge fires burned through Moscow overnight following one of the biggest Ukrainian drone attacks in the Russian capital, which left two people dead.\u00a0\r\nUkraine and Russia have continued attacks on each\u2026 [+6371 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sputnikglobe.com"
-      },
-      "author": "Sputnik International",
-      "title": "Russian Air Defenses Shoot Down 1,951 Ukrainian Drone - MoD",
-      "description": "Russian air defense systems shot down 1,951 Ukrainian fixed-wing drones, eight Flamingo missiles and eight guided aerial bombs over the past day, the Russian Defense Ministry said on Sunday.",
-      "url": "https://sputnikglobe.com/20260920/russian-air-defenses-shoot-down-1951-ukrainian-drone---mod-1124764522.html",
-      "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1124764522.jpg?10771293471789893516",
-      "publishedAt": "2026-09-20T08:38:35Z",
-      "content": "Russia's Special Operation in Ukraine\r\nOn February 24, 2022 Russia launched a special military operation in Ukraine, aiming to liberate the Donbass region where the people's republics of Donetsk and \u2026 [+4249 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DW (English)"
-      },
-      "author": "Felix Tamsut",
-      "title": "Russia: Ukrainian drone strike on Moscow kills 2",
-      "description": "An oil refinery was hit in one of the largest attacks so far on the Russian capital, as the country holds a parliamentary election. Meanwhile, at least four people were killed in Russian strikes in Ukraine's Kyiv region. Two people were killed in a Ukrainian \u2026",
-      "url": "https://www.dw.com/en/russia-ukrainian-drone-strike-on-moscow-kills-2/a-79341964",
-      "urlToImage": "https://static.dw.com/image/79342038_6.jpg",
-      "publishedAt": "2026-09-20T08:37:00Z",
-      "content": "Two people were killed in a Ukrainian\u00a0drone attack on the Moscow region, local authorities said Sunday, with an oil refinery in the region also being hit.\r\nEnergy infrastructure has been repeatedly t\u2026 [+2305 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Radio Free Europe/ Radio Liberty"
-      },
-      "author": "Yauhen Lehalau, Valentin Baryshnikov, Ivan Gutterman",
-      "title": "Russia's Starlink Rival Faces Problems In Orbit And Threats On The Ground",
-      "description": "Russia is racing to build Rassvet, its answer to Starlink, after losing access to the satellite network on the battlefield in Ukraine. But troubled satellites, tight deadlines, and a lack of ground terminals could leave Moscow waiting years.",
-      "url": "https://www.rferl.org/a/russia-rassvet-starlink-satellite-internet-ukraine/33858763.html",
-      "urlToImage": "https://gdb.rferl.org/6c6f9ad6-7bc2-4c85-6ffa-08df13a869ed_w1200_h630.png",
-      "publishedAt": "2026-09-20T08:16:24Z",
-      "content": "Russia is building its own version of Starlink -- Elon Musks constellation of satellites in low-earth orbit that can provide fast Internet access anywhere in the world.\r\nUntil earlier this year, Ukra\u2026 [+8564 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Crypto Briefing"
-      },
-      "author": "Estefano Gomez",
-      "title": "Israeli-Ukrainian visitor in Uman conscripted into Ukrainian military",
-      "description": "Ukraine's intensified conscription efforts highlight ongoing military focus, complicating prospects for diplomatic conflict resolution.\nThe post Israeli-Ukrainian visitor in Uman conscripted into Ukrainian military appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/israeli-ukrainian-visitor-in-uman-conscripted-into-ukrainian-military/",
-      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/20041520/cb-card-geo-141-800x420.png",
-      "publishedAt": "2026-09-20T08:15:21Z",
-      "content": "An Israeli-Ukrainian individual visiting Uman for Rosh Hashanah has been detained and conscripted into the Ukrainian military, according to reports from the Jerusalem Post. The incident underscores U\u2026 [+1521 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Crypto Briefing"
-      },
-      "author": "Estefano Gomez",
-      "title": "Ukraine uses Pelican ballistic missile in massive strike on Moscow refinery",
-      "description": "Ukraine's missile use signals a strategic shift, potentially altering conflict dynamics and prompting international diplomatic recalibration.\nThe post Ukraine uses Pelican ballistic missile in massive strike on Moscow refinery appeared first on Crypto Briefin\u2026",
-      "url": "https://cryptobriefing.com/ukraine-uses-pelican-ballistic-missile-in-massive-strike-on-moscow-refinery/",
-      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/20040946/library-ukraine-uses-pelican-ballistic-missile-in-massive-strike-1-800x450.png",
-      "publishedAt": "2026-09-20T08:09:48Z",
-      "content": "Ukraine has reportedly employed the Pelican ballistic missile for the first time in a significant strike targeting a Moscow oil refinery and logistics infrastructure. The attack marks a strategic esc\u2026 [+2274 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Substack.com"
-      },
-      "author": "Andrew Korybko",
-      "title": "Von Der Leyen\u2019s Defense Plans Place Europe on the Path to War With Russia",
-      "description": "The only thing that might avert the Third World War that looks increasingly inevitable is if Russia decisively restores deterrence.",
-      "url": "https://korybko.substack.com/p/von-der-leyens-defense-plans-place",
-      "urlToImage": "https://substackcdn.com/image/fetch/$s_!K0ZC!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72e07b27-fc4b-4514-8d14-2c73c5679262_800x600.jpeg",
-      "publishedAt": "2026-09-20T08:07:37Z",
-      "content": "The only thing that might avert the Third World War that looks increasingly inevitable is if Russia decisively restores deterrence.\r\nEuropean Commission President Ursula von der Leyens annual address\u2026 [+3516 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "newsweek.com",
-      "title": "Ukraine Launches Largest-Ever Drone Attack on Moscow, Russia Says",
-      "description": "Ukraine launched its \u201clargest ever\u201d drone attack on Moscow overnight according to the city\u2019s mayor Sergei Sobyanin, who said at least 450 drones were shot down on their way to the Russian capital.\nUkraine and Russia have been pounding each other\u2019s infrastruct\u2026",
-      "url": "https://biztoc.com/x/d8c7f471927592e2",
-      "urlToImage": "https://biztoc.com/cdn/d8c7f471927592e2_s.webp",
-      "publishedAt": "2026-09-20T08:06:06Z",
-      "content": "Ukraine launched its largest ever drone attack on Moscow overnight according to the citys mayor Sergei Sobyanin, who said at least 450 drones were shot down on their way to the Russian capital.Ukrain\u2026 [+138 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "author": "feedfeeder",
-      "title": "Moscow oil refinery supplying 40% of city's fuel catches fire after drone attack -",
-      "description": "Moscow oil refinery supplying 40% of city's fuel catches fire after drone attack Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russiabbc.com Moscow Refinery Hit as Russia Reports Largest 2026 Drone AttackBloomberg.com Hundreds of drone\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185714326",
-      "urlToImage": null,
-      "publishedAt": "2026-09-20T07:52:38Z",
-      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dailymail.com"
-      },
-      "author": "Greg Heffer",
-      "title": "Andy Burnham 'fiddling while Russia threatens to burn Europe', fumes Kemi Badenoch - as she demands PM acts on defence spending",
-      "description": "Tory leader Kemi Badenoch demanded the Prime Minister end his 'dither and delay' and 'fund our defence properly' to counter Moscow's aggression.",
-      "url": "https://www.dailymail.com/news/article-16145879/Andy-Burnham-fiddling-Russia-threatens-burn-Europe-fumes-Kemi-Badenoch-demands-PM-acts-defence-spending.html",
-      "urlToImage": "https://i.dailymail.com/1s/2026/09/20/08/111356471-0-image-m-13_1789889554673.jpg",
-      "publishedAt": "2026-09-20T07:34:26Z",
-      "content": "Andy Burnham has been accused of 'fiddling while Europe is at risk of burning' as Russia ramps up threats towards allies of Ukraine.\r\nTory leader Kemi Badenoch demanded the Prime Minister end his 'di\u2026 [+4254 chars]"
-    },
-    {
-      "source": {
-        "id": "rte",
-        "name": "RTE"
-      },
-      "author": "RT\u00c9 News",
-      "title": "Four people killed in Kyiv, two people killed in Moscow",
-      "description": "The death toll from an overnight \u2060Russian attack on the Kyiv region of Ukraine rose to four, including three children, Kyiv regional authorities said today.",
-      "url": "https://www.rte.ie/news/ukraine/2026/0920/1592219-russia-ukraine-conflict/",
-      "urlToImage": "https://www.rte.ie/images/00250999-1600.jpg",
-      "publishedAt": "2026-09-20T07:33:21Z",
-      "content": "The death toll from an overnight Russian attack on the Kyiv region of Ukraine rose to four, including three children, Kyiv regional authorities said today.\r\nA mother and her two three-year-old childr\u2026 [+3061 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "author": "feedfeeder",
-      "title": "Two dead in Moscow region, drones hit oil refinery in Russian capital - Reuters",
-      "description": "Two dead in Moscow region, drones hit oil refinery in Russian capitalReuters Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russiabbc.com Hundreds of drones target Moscow on last day of voting in Russia\u2019s parliamentary electionThe Guard\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185714058",
-      "urlToImage": null,
-      "publishedAt": "2026-09-20T07:32:09Z",
-      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Associated Press",
-      "title": "Ukraine targets Moscow with hundreds of drones in \u2018largest ever\u2019 attack",
-      "description": "Ukrainian forces fired more than 1,000 drones at Russia overnight, including hundreds that were launched toward Moscow, officials said Sunday as the Kremlin was wrapping up the third and last day of its parliamentary elections. \n Moscow\u2019s mayor described the \u2026",
-      "url": "https://www.yahoo.com/news/world/articles/ukraine-fires-over-1-000-072323482.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/97620cedbb5fe5a519d507f93ddf683c513c61484a3afa9979260fa3000723bb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F72ec2fa7b8474951e4bd988dbe949e88.jpg",
-      "publishedAt": "2026-09-20T07:23:23Z",
-      "content": "Ukrainian forces fired more than 1,000 drones at Russia overnight, including hundreds that were launched toward Moscow, officials said Sunday as the Kremlin was wrapping up the third and last day of \u2026 [+2627 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Reuters",
-      "title": "Two dead in massive Ukrainian drone attack on Moscow region, oil refinery",
-      "description": "Ukraine and Russia have continued attacks on each other's energy infrastructure despite an announcement by President Donald Trump on Monday that they had agreed to stop.",
-      "url": "https://nypost.com/2026/09/20/world-news/one-of-ukraines-largest-drone-strikes-on-russia-targets-moscow-killing-two/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/141807096.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-09-20T07:20:44Z",
-      "content": "Two people died in one of the biggest Ukrainian drone attacks on the Moscow region and an oil refinery in Russia\u2019s capital was hit, authorities said on Sunday, as Russia enters the final day of parli\u2026 [+2059 chars]"
-    },
-    {
-      "source": {
-        "id": "the-irish-times",
-        "name": "The Irish Times"
-      },
-      "author": "Guardian staff and agencies",
-      "title": "Hundreds of drones target Moscow as two killed on final day of Russian election",
-      "description": "An oil refinery was damaged and 400 people evacuated after a drone strike on a high-rise building, authorities say",
-      "url": "https://www.irishtimes.com/world/europe/2026/09/20/hundreds-of-drones-target-moscow-as-two-killed-on-final-day-of-russian-election/",
-      "urlToImage": "https://www.irishtimes.com/resizer/v2/65PCRUVCZDOWKJAQMAA34ETM4E.jpg?smart=true&auth=6a311ecc75f4e23004301fd2ae46959e89c0dc2004c0698459e0a3a3e22d02f9&width=1200&height=630",
-      "publishedAt": "2026-09-20T07:14:10Z",
-      "content": "Hundreds of drones targeting Moscow and its surrounding region killed at least two people and damaged a major refinery on the final day of the countrys parliamentary elections, authorities said on Su\u2026 [+2403 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Al Jazeera Staff",
-      "title": "Mass Ukrainian drone attack on Moscow kills two, Russia says",
-      "description": "Moscow mayor reports intercepting 1,600 drones during 'unprecedented' attack, accusing Ukraine of election interference.",
-      "url": "https://www.aljazeera.com/news/2026/9/20/mass-ukrainian-drone-attack-on-moscow-kills-two-russia-says",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-20T042905Z_1824787393_RC2QMNA5QBAK_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-REFINERY-1789884302.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-09-20T06:57:05Z",
-      "content": "At least two people have been killed and a major refinery has been damaged as hundreds of drones targeted the Russian capital, Moscow, and its surrounding region on the final day of the countrys parl\u2026 [+1958 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Standard"
-      },
-      "author": "Reuters",
-      "title": "Two killed after Ukrainian drone attacks hit oil refinery in Moscow",
-      "description": "Ukraine and \u200bRussia have continued attacks on each other's energy infrastructure despite an announcement by US \u200bPresident Donald Trump on Monday that they had agreed to stop",
-      "url": "https://www.business-standard.com/world-news/two-killed-after-ukrainian-drone-attacks-hit-oil-refinery-in-moscow-126092000192_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/20/thumb/fitandfill/1200X628/1789885105-6815.JPG",
-      "publishedAt": "2026-09-20T06:20:10Z",
-      "content": "Plumes of smoke rise from fires (centre) at an oil refinery following what the authorities say is a Ukrainian drone strike in the course of the Russia-Ukraine conflict, in Moscow, Russia, September, \u2026 [+17 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Garrison Vance",
-      "title": "German, French, UK Military Flights Near Russian Border Rise, Kremlin-Linked Reports Say",
-      "description": "German, French and UK military aircraft were observed flying near Russia\u2019s border, according to flight data analyzed by Sputnik on Thursday and reported by state media. A German air force aircraft took off from the Nordholz airfield and patrolled over the Bal\u2026",
-      "url": "https://www.naturalnews.com/2026-09-20-german-french-uk-military-flights-russian-border.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/nato-military-flights-russian-border-baltic-sea-4254-original.jpg",
-      "publishedAt": "2026-09-20T06:00:00Z",
-      "content": "German, French and UK military aircraft were observed flying near Russia's border, according to flight data analyzed by Sputnik on Thursday and reported by state media. A German air force aircraft to\u2026 [+7976 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Crypto Briefing"
-      },
-      "author": "Estefano Gomez",
-      "title": "Russian strikes kill mother, 2 children in Kyiv region amid escalating conflict",
-      "description": "The escalation in civilian-targeted strikes may bolster Ukrainian resistance, impacting Russia's territorial ambitions and market confidence.\nThe post Russian strikes kill mother, 2 children in Kyiv region amid escalating conflict appeared first on Crypto Bri\u2026",
-      "url": "https://cryptobriefing.com/russian-strikes-kill-mother-2-children-in-kyiv-region-amid-escalating-conflict/",
-      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/20013943/cb-card-geo-139-800x420.png",
-      "publishedAt": "2026-09-20T05:39:45Z",
-      "content": "Russian strikes on the Kyiv region have resulted in the deaths of a woman and two children, as well as injuries to other civilians and damage to homes. This comes amid ongoing conflict as Russian for\u2026 [+1864 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hurriyet Daily News"
-      },
-      "author": "hurriyetdailynews.com",
-      "title": "Massive drone barrage hits Moscow during elections, kills two",
-      "description": "Hundreds of drones targeting Moscow and its surrounding region killed at least two people on Sept. 20.",
-      "url": "https://www.hurriyetdailynews.com/massive-drone-barrage-hits-moscow-during-elections-kills-two-227067",
-      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6aaf6f54a37ecaca50b5a50e.jpg",
-      "publishedAt": "2026-09-20T05:30:31Z",
-      "content": "Reuters\r\nHundreds of drones targeting Moscow and its surrounding region killed at least two people on Sept. 20.\r\nThe strikes also damaged a major oil refinery on the final day of Russia's parliamenta\u2026 [+1204 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia",
-      "description": "An oil refinery was also reportedly hit in Moscow, and flights were suspended at two capital airports.",
-      "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/719d/live/40d8a330-b4ac-11f1-bc1f-3f186ca4140c.jpg",
-      "publishedAt": "2026-09-20T05:04:54Z",
-      "content": "At least two people have been killed and six injured in a \"massive\" overnight Ukrainian drone attack on the Moscow region, Governor Andrei Vorobyev has said.\r\nVorobyev said 249 drones had been shot d\u2026 [+1892 chars]"
     }
   ]
 }

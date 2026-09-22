@@ -1,7 +1,98 @@
 {
   "status": "ok",
-  "totalResults": 10,
+  "totalResults": 17,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Alessandro Di Nuovo, Director Centre of Excellence in Artificial Intelligence and Robotics, and Professor of Machine Intelligence, Sheffield Hallam University, Samuele Vinanzi, Senior Lecturer in Robotics and Artificial Intelligence, Sheffield Hallam University",
+      "title": "Could AI really kill all humans? Most scenarios require physical access, making AI armageddon unlikely",
+      "description": "Are the warnings of a potential AI apocalypse credible?",
+      "url": "https://theconversation.com/could-ai-really-kill-all-humans-most-scenarios-require-physical-access-making-ai-armageddon-unlikely-292379",
+      "urlToImage": "https://images.theconversation.com/files/760809/original/file-20260918-50-y9hcxz.jpg?ixlib=rb-4.1.1&rect=0%2C561%2C3518%2C1759&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-09-21T10:40:17Z",
+      "content": "In August 2026, an experiment using \u201cfrontier\u201d, or cutting edge, artificial intelligence models went further than planned. \n\nAn AI agent (a system that performs tasks autonomously) fabricated online \u2026 [+6144 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityweek.com"
+      },
+      "author": "Eduard Kovacs",
+      "title": "Colorado Water Utilities Hit by Cyberattacks Targeting OT Systems",
+      "description": "The hackers changed equipment settings, disabled remote access and alarms, and altered pumping cycles, officials said.\u00a0\nThe post Colorado Water Utilities Hit by Cyberattacks Targeting OT Systems appeared first on SecurityWeek.",
+      "url": "https://www.securityweek.com/colorado-water-utilities-hit-by-cyberattacks-targeting-ot-systems/",
+      "urlToImage": "https://www.securityweek.com/wp-content/uploads/2024/10/Water-Utility-Cyberattack.jpg",
+      "publishedAt": "2026-09-21T10:03:44Z",
+      "content": "Hackers targeted operational technology (OT) systems at two private water utilities in Colorado in late August, apparently attempting to cause disruptions.\r\nFew technical details are available, but i\u2026 [+1982 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securelist.com"
+      },
+      "author": "Ahmad Zaidi Said, Elsayed Elrefaei",
+      "title": "Group Policy hijacked: PAYLOAD ransomware weaponizes Active Directory GPO",
+      "description": "Kaspersky GERT experts dive into the technical incident analysis of PAYLOAD ransomware: an encryptionless, binary-less operation that abused Active Directory mechanisms for managing Group Policy Objects.",
+      "url": "https://securelist.com/tr/payload-ransomware-via-group-policy/121335/",
+      "urlToImage": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/09/11153056/payload-ransomware-featured-image.jpg",
+      "publishedAt": "2026-09-21T10:00:40Z",
+      "content": "In April 2026, we at Kaspersky\u2019s Global Emergency Response Team (GERT) responded to a security incident at a manufacturing organization in the Middle East. The threat actor obtained domain admin-equi\u2026 [+36282 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Scientific American"
+      },
+      "author": "Rachel Feltman, Lee Billings, Fonda Mwangi, Alex Sugiura",
+      "title": "Space weapons, AI safety concerns and the EPA\u2019s rollback of power plant emission rules",
+      "description": "From orbital weapons to AI risks and weaker emissions rules",
+      "url": "https://www.scientificamerican.com/podcast/episode/space-weapons-ai-safety-concerns-and-the-epas-rollback-of-power-plant-emission-rules/",
+      "urlToImage": "https://static.scientificamerican.com/dam/asset/43403fe1-9c5f-4a2e-8936-42ae6a9737d7/2609_SQ_MON_SEPT_21-1.png?m=1789760809.689&w=1200",
+      "publishedAt": "2026-09-21T10:00:00Z",
+      "content": "Rachel Feltman: Happy Monday, listeners! For Scientific American\u2019s Science Quickly, I\u2019m Rachel Feltman. You\u2019re listening to our weekly science news roundup. Let\u2019s catch up on some recent headlines.\r\n\u2026 [+13432 chars]"
+    },
+    {
+      "source": {
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "author": "Ana-Maria Stanciuc",
+      "title": "ShinyHunters says it hijacked Cl0p\u2019s dark web leak site",
+      "description": "On the night of Friday, September 18, the Tor leak site that the Cl0p ransomware gang used to name and pressure its victims was defaced. Another criminal group claimed responsibility, according to BleepingComputer. When people visited the site, they saw Pok\u00e9m\u2026",
+      "url": "https://thenextweb.com/news/shinyhunters-clop-leak-site-hijack",
+      "urlToImage": "https://media.thenextweb.com/2026/05/Grafana-Labs-Hackers.jpg",
+      "publishedAt": "2026-09-21T09:15:39Z",
+      "content": "On the night of Friday, September 18, the Tor leak site that the Cl0p ransomware gang used to name and pressure its victims was defaced. Another criminal group claimed responsibility, according to Bl\u2026 [+2259 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "We Live Security"
+      },
+      "author": null,
+      "title": "The SMB cybersecurity squeeze: AI agents at work, old attacks in overdrive",
+      "description": "As AI opens new paths to company data while making familiar attacks faster and cheaper, SMBs need protection designed around the time and expertise available to operate it.",
+      "url": "https://www.welivesecurity.com/en/business-security/smb-cybersecurity-squeeze-ai-agents-work-old-attacks-overdrive/",
+      "urlToImage": "https://web-assets.esetstatic.com/wls/2026/09-26/agents-ai-cybersecurity.png",
+      "publishedAt": "2026-09-21T09:00:00Z",
+      "content": "AI has moved quickly into the daily work of small and mid-size businesses (SMBs). Many have moved past chatbots and begun assigning work to AI agents in the hope of gaining an edge on their similarly\u2026 [+11486 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Peoplesreview.com.np"
+      },
+      "author": "People's Review",
+      "title": "NEPSE to remain closed today",
+      "description": "Kathmandu, September 21: Trading on the Nepal Stock Exchange (NEPSE) will remain closed on Monday following a hacker attack on its data hub. According to NEPSE CEO Chunamani Chapagain, a cyberattack that has been detected at the data hub since Sunday has made\u2026",
+      "url": "https://peoplesreview.com.np/2026/09/21/nepse-to-remain-closed-today/",
+      "urlToImage": "https://peoplesreview.com.np/wp-content/uploads/2026/09/NEPSE.jpg",
+      "publishedAt": "2026-09-21T06:13:12Z",
+      "content": "Kathmandu, September 21: Trading on the Nepal Stock Exchange (NEPSE) will remain closed on Monday following a hacker attack on its data hub.\r\nAccording to NEPSE CEO Chunamani Chapagain, a cyberattack\u2026 [+404 chars]"
+    },
     {
       "source": {
         "id": null,

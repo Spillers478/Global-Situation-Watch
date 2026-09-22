@@ -1,19 +1,5 @@
 {
   "status": "ok",
-  "totalResults": 1,
-  "articles": [
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Ally Goelz",
-      "title": "Trump warns he\u2019s close to Iran decision as Middle East tensions escalate: \u2018When do I blow the entire nation up?\u2019 - nypost.com",
-      "description": "Trump\u2019s warning comes as the US-Iran conflict enters its seventh month.",
-      "url": "https://nypost.com/2026/09/20/us-news/trump-reveals-iran-options-as-prez-says-decision-is-coming-soon/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/Comp-Trump-wars-Iran.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-09-20T16:01:24Z",
-      "content": "President Trump revealed Sunday he is considering \u201cblowing up\u201d all of Iran and that \u201cvery big things are going to be happening\u201d soon as he left a retreat at Camp David a day early so he could return \u2026 [+3600 chars]"
-    }
-  ]
+  "totalResults": 2,
+  "articles": []
 }

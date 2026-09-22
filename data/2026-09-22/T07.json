@@ -1,7 +1,293 @@
 {
   "status": "ok",
-  "totalResults": 50,
+  "totalResults": 72,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Hurriyet Daily News"
+      },
+      "author": "hurriyetdailynews.com",
+      "title": "Trump \u2018open\u2019 to meeting with Pezeshkian in New York",
+      "description": "U.S. President Donald Trump has indicated that he would be willing to meet with Iranian President Masoud Pezeshkian in New York this week, as Washington considers its next military steps and Tehran sets out conditions for bringing the nearly seven-month-old w\u2026",
+      "url": "https://www.hurriyetdailynews.com/trump-open-to-meeting-with-pezeshkian-in-new-york-227130",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6ab10cd829066eaba7b377a3.jpg",
+      "publishedAt": "2026-09-21T10:54:39Z",
+      "content": "WASHINGTON, DC\r\nU.S. President Donald Trump (DHA Photo)\r\nU.S. President Donald Trump has indicated that he would be willing to meet with Iranian President Masoud Pezeshkian in New York this week, as \u2026 [+2413 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Raw Story"
+      },
+      "author": "Alexander Willis",
+      "title": "Panic as Trump admin rolls out \u2018actually insane\u2019 flight tool: \u2018Isn\u2019t going to end well\u2019",
+      "description": "The Trump administration is rolling out an experimental air traffic control system\r\n on Monday that uses AI to assist with recommending flight routes and predicting traffic flows, and would-be travelers expressed outright panic.\u201cSo this isn't going to end wel\u2026",
+      "url": "https://www.rawstory.com/ai-air-traffic-control/",
+      "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=67800830&width=1200&height=600&coordinates=0%2C417%2C0%2C418",
+      "publishedAt": "2026-09-21T10:54:01Z",
+      "content": "The Trump administration is rolling out an experimental air traffic control system\r\n on Monday that uses AI to assist with recommending flight routes and predicting traffic flows, and would-be travel\u2026 [+1790 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "R-bloggers.com"
+      },
+      "author": "Giles Dickenson-Jones",
+      "title": "O*NET ratings, job descriptions and classification codes as measures of occupational similarity",
+      "description": "The last post identified potential transition pathways for truck drivers based on how closely other occupations matched them on skills, abilities and knowledge. This post follows the same basic approach across a wider range of occupations and asks whether two\u2026",
+      "url": "https://www.r-bloggers.com/2026/09/onet-ratings-job-descriptions-and-classification-codes-as-measures-of-occupational-similarity/",
+      "urlToImage": "https://www.gilesd-j.com/wp-content/uploads/2026/09/skill_heatmap.png",
+      "publishedAt": "2026-09-21T10:30:00Z",
+      "content": "TLDR:The last post identified potential transition pathways for truck drivers based on how closely other occupations matched them on skills, abilities and knowledge. This post follows the same basic \u2026 [+62938 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Trump\u2019s massive Greenland deal makes clear who controls the Arctic\u2019s strategic future",
+      "description": "President Donald Trump's Greenland deal blocks China from military bases and sensitive investments on the strategic Arctic island near the U.S.",
+      "url": "https://www.foxnews.com/opinion/trumps-massive-greenland-deal-makes-clear-who-controls-arctics-strategic-future",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/TRUMP-GREENLAND-FOX-NEWS-2.png",
+      "publishedAt": "2026-09-21T10:00:15Z",
+      "content": "Call it a win-win for Denmark and President Donald Trump. \"The United States will FOREVER have the complete ability to do what is necessary in Greenland in order to secure and defend the security of \u2026 [+4382 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "author": "Eliot A. Cohen",
+      "title": "Don\u2019t Ask How This War Ends",
+      "description": "It is, unfortunately, the wrong question.",
+      "url": "https://www.theatlantic.com/ideas/2026/09/dont-ask-how-the-iran-war-ends/688724/",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/6PvPqxg4hhAVa5b2bM9rW_YgF0k=/0x187:4382x2469/1200x625/media/img/mt/2026/09/GettyImages_2264384567/original.jpg",
+      "publishedAt": "2026-09-21T10:00:00Z",
+      "content": "During the 2003 Iraq War, thenMajor General David Petraeus famously said to the journalist and historian Rick Atkinson, Tell me how this ends. It is the obvious query to be posed about the conflict w\u2026 [+7286 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The New Republic"
+      },
+      "author": "Timothy Noah",
+      "title": "Why Trump May Not Serve Out His Presidency",
+      "description": "\u201cIf something cannot go on forever,\u201d the economist Herbert Stein once said, \u201cit will stop.\u201d A logician would scorn this as a tautology, but it\u2019s a useful one for contemplating all sorts of problems that never seem to end. Some things that feel like they can\u2019t\u2026",
+      "url": "https://newrepublic.com/article/215634/trump-may-not-finish-presidency",
+      "urlToImage": "https://images.newrepublic.com/dfdd6b9d50ff39ff9909a58cf414e945a74eb11e.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2026-09-21T10:00:00Z",
+      "content": "In 2024 a group of 225 mental health professionals said in a published open letter (bankrolled, granted, by an anti-Trump PAC created by George Conway) that Trump suffered from malignant narcissism a\u2026 [+2379 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Simon Speakman Cordall",
+      "title": "Do Israelis feel any safer now than they did on October 6, 2023?",
+      "description": "Despite having rarely been more secure, public concerns about security continue to dominate the election.",
+      "url": "https://www.aljazeera.com/news/2026/9/21/do-israelis-feel-any-safer-now-than-they-did-on-october-6-2023",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-08-20T145841Z_1031858955_RC2B2NA7QERE_RTRMADP_3_ISRAEL-SYRIA-1789093690.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-21T09:54:05Z",
+      "content": "Israels upcoming general election coincides with the third anniversary of the October 7, 2023 attacks, and the issues that concern voters relate, directly or indirectly, to the wars this event trigge\u2026 [+6679 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "wsj.com",
+      "title": "A Safer Way to Bet on Nuclear",
+      "description": "There are a lot of wild nuclear bets in the market. One enrichment company holds a strong hand.",
+      "url": "https://biztoc.com/x/fab21a7fd135f232",
+      "urlToImage": "https://biztoc.com/cdn/996/og.png",
+      "publishedAt": "2026-09-21T09:41:27Z",
+      "content": "There are a lot of wild nuclear bets in the market. One enrichment company holds a strong hand.\r\nThis story appeared on wsj.com, 2026-09-21 09:30:00."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thenation.com"
+      },
+      "author": "Ivana Nikoli\u0107 Hughes",
+      "title": "In the Age of AI, Nuclear Weapons Abolition Is a Renewed Imperative",
+      "description": "Ivana Nikoli\u0107 Hughes\n\n\n\nAs long as we have nuclear weapons, the job of ending humanity will continue to be as easy as the push of a button\u2014or an AI agent hacking into a nuclear command-and-control system.\r\n\n\r\n\n\nThe post In the Age of AI, Nuclear Weapons Aboli\u2026",
+      "url": "https://www.thenation.com/?post_type=article&p=610076",
+      "urlToImage": "https://www.thenation.com/wp-content/uploads/2019/10/nuclear-operation-upshot-cc-img.jpg",
+      "publishedAt": "2026-09-21T09:30:00Z",
+      "content": "Society / September 21, 2026\r\nAs long as we have nuclear weapons, the job of ending humanity will continue to be as easy as the push of a buttonor an AI agent hacking into a nuclear command-and-contr\u2026 [+6869 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "What kills Schr\u00f6dinger\u2019s cat? Gravity may not be the answer",
+      "description": "Physicists have put a decades-old idea about why the strange rules of quantum mechanics disappear in our everyday world to one of its toughest experimental tests yet. Deep beneath Italy\u2019s Gran Sasso mountain, researchers searched for an extremely faint radiat\u2026",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260920222350.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/schrodingers-cat-in-box.webp",
+      "publishedAt": "2026-09-21T09:24:50Z",
+      "content": "At some point between the tiny world of particles and atoms and the much larger world we experience every day, quantum behavior appears to fade away.Quantum mechanics allows particles to exist in com\u2026 [+5553 chars]"
+    },
+    {
+      "source": {
+        "id": "new-york-magazine",
+        "name": "New York Magazine"
+      },
+      "author": "Jonah Shepp",
+      "title": "The New World Order Is Here",
+      "description": "Former allies are creating a global order in which the U.S. not only no longer leads but cannot even be expected to behave predictably.",
+      "url": "http://nymag.com/intelligencer/article/canada-eu-united-nations-global-order.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/d42/f44/68010aa823d92a6cf4de29e8026d1820a9-lede-worldorder.1x.rsocial.w1200.jpg",
+      "publishedAt": "2026-09-21T09:00:08Z",
+      "content": "In her annual address in France last week, European Commission president Ursula von der Leyen unveiled a proposal that would have been hard to imagine even a few years ago: a plan to make Canada the \u2026 [+7946 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slickdeals.net"
+      },
+      "author": "phoinix",
+      "title": "$1.99 | Command and Control: Nuclear Weapons, the Damascus Accident, and the Illusion of Safety (ALA Notable Books for Adults) (eBook) by Eric Schlosser",
+      "description": "Previous Frontpage Deal at $2.00 with 53 Deal Score and 28 comments\n\nAvailable Retailers:Amazon [amazon.com] (Kindle eBook)\niBooks [apple.com]\nGoogle Play Store [google.com]\nKobo [kobo.com]\nBookshop [",
+      "url": "https://slickdeals.net/f/20042370-1-99-command-and-control-nuclear-weapons-the-damascus-accident-and-the-illusion-of-safety-ala-notable-books-for-adults-ebook-by-eric-schlosser",
+      "urlToImage": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21660993.thumb",
+      "publishedAt": "2026-09-21T07:41:46Z",
+      "content": "Previous Frontpage Deal at $2.00 with 53 Deal Score and 28 commentsAvailable Retailers:\r\nAuthor: Eric SchlosserPublisher: Penguin BooksPublication date: September 17, 2013Print length: 640 pagesGreat\u2026 [+3081 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Amin Saikal, Emeritus Professor of Middle Eastern Studies, Australian National University; The University of Western Australia; Victoria University",
+      "title": "As war in the Middle East widens, Saudi Arabia\u2019s new defence pact could face a major test",
+      "description": "Saudi Arabia\u2019s escalating conflict with the Houthis in Yemen will force its new defence partners Turkey and Pakistan to confront some difficult questions.",
+      "url": "https://theconversation.com/as-war-in-the-middle-east-widens-saudi-arabias-new-defence-pact-could-face-a-major-test-292357",
+      "urlToImage": "https://images.theconversation.com/files/761036/original/file-20260921-50-io0jd4.jpg?ixlib=rb-4.1.1&rect=0%2C104%2C5339%2C2669&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-09-21T06:18:43Z",
+      "content": "Last Thursday, US President Donald Trump said he had a \u201cbig decision\u201d coming up about Iran\u2019s regime: \n\n\nDo I want to go in and annihilate them or do I not? [\u2026] Anything could happen with me. \r\n\n\n\nThi\u2026 [+6828 chars]"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Denis Staunton",
+      "title": "Weapons in space",
+      "description": "The US, China and Russia have all developed anti-satellite systems, some of them ground based but others operating in orbit",
+      "url": "https://www.irishtimes.com/world/2026/09/21/the-us-declared-it-has-deployed-weapons-in-space-how-will-china-and-russia-react/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/NIGFBPVMNFE2TDWLHXHFK5PWTQ.jpg?smart=true&auth=288aee17decbb41aad7af9c0ef4c8067b461d8fac52dcabb69ab78300a29c9a2&width=1200&height=630",
+      "publishedAt": "2026-09-21T06:03:08Z",
+      "content": "Washingtons declaration that it has deployed weapons in space was meant as a warning to China and Russia. It could backfire.\r\nLost in space\r\nWhen the United States announced last week that it had dep\u2026 [+3964 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Belle Carter",
+      "title": "UK Electricity Grid Expansion Estimated to Cost More Than \u00c2\u00a3150 Billion",
+      "description": "Britain may need to spend more than \u00a3150 billion on new transmission infrastructure to connect a rapidly expanding pipeline of wind and solar projects to the national grid, according to estimates attributed to the National Energy System Operator (NESO). The f\u2026",
+      "url": "https://www.naturalnews.com/2026-09-21-uk-electricity-grid-expansion-estimated-to-cost-more.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/grid-overhaul-renewable-energy-transmission-investment-4329-original.jpg",
+      "publishedAt": "2026-09-21T06:00:00Z",
+      "content": "Britain may need to spend more than \u00a3150 billion on new transmission infrastructure to connect a rapidly expanding pipeline of wind and solar projects to the national grid, according to estimates att\u2026 [+9349 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Willow Tohi",
+      "title": "Trump announces \u201cAI Force\u201d as industry leaders warn of unchecked risks",
+      "description": "President Donald Trump announced the creation of an \u201cAI Force\u201d and plans to appoint an AI czar to oversee artificial intelligence development, while simultaneously dismissing industry warnings about existential risks as a \u201choax.\u201d Leading tech executives inclu\u2026",
+      "url": "https://www.naturalnews.com/2026-09-21-trump-announces-ai-force-leaders-warn-of-risks.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/ai-safety-uncontrollable-ai-artificial-general-intelligence-4059-original.jpg",
+      "publishedAt": "2026-09-21T06:00:00Z",
+      "content": "<ul><li>President Donald Trump announced the creation of an \"AI Force\" and plans to appoint an AI czar to oversee artificial intelligence development, while simultaneously dismissing industry warning\u2026 [+5076 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Mike Adams",
+      "title": "Drone Warfare Is Coming to America \u2026 And We\u2019re Dangerously Unprepared",
+      "description": "If It Sits Above Ground, It Can Be Destroyed by Drones The drone revolution has quietly ended the era when America\u2019s above-ground infrastructure could be considered safe. The same precision-strike capability that hit Saudi pipelines and Qatari gas trains can \u2026",
+      "url": "https://www.naturalnews.com/2026-09-21-drone-warfare-coming-to-america-dangerously-unprepared.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/drone-warfare-critical-infrastructure-unmanned-aerial-vehicles-4332-original.jpg",
+      "publishedAt": "2026-09-21T06:00:00Z",
+      "content": "If It Sits Above Ground, It Can Be Destroyed by Drones\r\nThe drone revolution has quietly ended the era when America's above-ground infrastructure could be considered safe. The same precision-strike c\u2026 [+12564 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Edison Reed",
+      "title": "Trump Signs Russia Sanctions Bill Into Law, Authorizing Tariffs on Russian Energy Buyers",
+      "description": "President Donald Trump signed the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 into law on Friday, according to White House statements and public records. The legislation authorizes new sanctions on Russia and extends existing sanctions on Iran, \u2026",
+      "url": "https://www.naturalnews.com/2026-09-21-trumps-signs-russia-law-tariffs-energy-buyers.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/russia-sanctions-bill-trump-signing-tariffs-on-russian-energy-4288-original.jpg",
+      "publishedAt": "2026-09-21T06:00:00Z",
+      "content": "President Donald Trump signed the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 into law on Friday, according to White House statements and public records. The legislation authorizes new \u2026 [+7817 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Garrison Vance",
+      "title": "Bucha Used by West to Derail Istanbul Peace Talks, Russian MFA Spokeswoman Says",
+      "description": "Russian Foreign Ministry spokeswoman Maria Zakharova said during a press conference in Moscow on Thursday that Western sponsors of Kyiv initiated the falsification of events in Bucha, according to statements reported by Russian state media on September 17, 20\u2026",
+      "url": "https://www.naturalnews.com/2026-09-21-bucha-derailed-istanbul-peace-talks-russian-spokeswoman.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/bucha-istanbul-peace-talks-maria-zakharova-4222-original.jpg",
+      "publishedAt": "2026-09-21T06:00:00Z",
+      "content": "Russian Foreign Ministry spokeswoman Maria Zakharova said during a press conference in Moscow on Thursday that Western sponsors of Kyiv initiated the falsification of events in Bucha, according to st\u2026 [+7708 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Juancole.com"
+      },
+      "author": "Rooholamin Saeidi",
+      "title": "How Trump Violated the Tenets of Realism in Attacking Iran",
+      "description": "Never put yourself in a position from which you cannot retreat without losing face and from which you cannot advance without great risks",
+      "url": "https://www.juancole.com/2026/09/violated-realism-attacking.html",
+      "urlToImage": "https://media.juancole.com/images/2026/09/donald-trump-and-benjamin-netanyahu-at-white-house-2025-2-4618fe1.jpg",
+      "publishedAt": "2026-09-21T04:15:15Z",
+      "content": "Tehran (Special to Informed Comment; Feature) \u2013 The father of and the key figure in Classical Realism, Hans Morgenthau, has some pieces of practical advice for politicians. They include \u201cNever put yo\u2026 [+5728 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Americanthinker.com"
+      },
+      "author": null,
+      "title": "The Iran War and Managing the What-ifs",
+      "description": "By John ConlinThe public doesn\u2019t see and live in the \u201cwhat-if\u201d but rather lives in the here-and-now.",
+      "url": "https://www.americanthinker.com/blog/2026/09/the-iran-war-and-managing-the-what-ifs/",
+      "urlToImage": "https://images.americanthinker.com/0n/0ne6vbqlohhoeis1d5x5_1200.jpg",
+      "publishedAt": "2026-09-21T04:00:00Z",
+      "content": "One of the most difficult aspects of running a company -- or even a life -- is managing the what-ifs. What if we do this versus that? What if I take this path versus another? It is extremely difficul\u2026 [+4120 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Reuters",
+      "title": "Trump eyes busy week of meetings as UN General Assembly gathers",
+      "description": "US President Trump will attend the United Nations General Assembly in New York. He is scheduled to meet with leaders from Ukraine and the United Kingdom. The US President will also address the General Assembly on global issues. Discussions will likely include\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-eyes-busy-week-of-meetings-as-un-general-assembly-gathers/articleshow/134378376.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134378375,width-1200,height-630,imgsize-94834,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-21T02:58:17Z",
+      "content": "WASHINGTON: US President Donald Trump's two days attending the United Nations General Assembly will include a series of bilateral meetings and events with notable political figures such as the leader\u2026 [+2958 chars]"
+    },
     {
       "source": {
         "id": null,

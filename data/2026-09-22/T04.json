@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 1,
+  "totalResults": 3,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Medical Daily"
+      },
+      "author": "Joseph James",
+      "title": "Autism Rates Held Steady Across 12 Birth Cohorts in South Korean Study, Pointing to Better Detection Over Epidemic",
+      "description": "A JAMA Pediatrics study of 62,000+ Korean children found autism rates stable across 12 birth cohorts. What it means and its limits for U.S. families.",
+      "url": "https://www.medicaldaily.com/autism-rates-stable-12-birth-cohorts-jama-pediatrics-study-478859",
+      "urlToImage": "https://d.medicaldaily.com/en/full/486182/guillermo-arias-afp-via-getty-images.jpg",
+      "publishedAt": "2026-09-21T10:30:07Z",
+      "content": "A new study that screened children in one South Korean city every year for more than a decade found that autism rates stayed flat across 12 consecutive birth cohorts. The researchers concluded that r\u2026 [+6179 chars]"
+    },
     {
       "source": {
         "id": null,

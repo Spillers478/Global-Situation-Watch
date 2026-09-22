@@ -1,7 +1,33 @@
 {
   "status": "ok",
-  "totalResults": 7,
+  "totalResults": 9,
   "articles": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Lifestyle Desk",
+      "title": "Kenneth Cole bought an 11.35-acre New York estate for $2.8 million in 1991; after 35 years of gardens, pools and renovations, he is asking $16 million",
+      "description": "News News: Fashion designer Kenneth Cole is once again putting his longtime family estate in Purchase, New York, on the market, more than 30 years after buying t.",
+      "url": "https://timesofindia.indiatimes.com/real-estate/news/kenneth-cole-bought-an-11-35-acre-new-york-estate-for-2-8-million-in-1991-after-35-years-of-gardens-pools-and-renovations-he-is-asking-16-million/articleshow/134387852.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134387892,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T11:04:18Z",
+      "content": "<ul><li>News</li>\r\n<li>Real Estate News</li>\r\n<li>Kenneth Cole bought an 11.35-acre New York estate for $2.8 million in 1991; after 35 years of gardens, pools and renovations, he is asking $16 millio\u2026 [+3892 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vintag.es"
+      },
+      "author": "Unknown",
+      "title": "Outtakes of Mot\u00f6rhead During the Ace of Spades\u2019 Album Cover Photoshoot, 1980",
+      "description": "The artwork for Mot\u00f6rhead\u2019s classic 1980 album Ace of Spades  is one of the most famous images in rock history. While it looks like Lemmy, \u201c...",
+      "url": "https://www.vintag.es/2026/09/motorhead-ace-of-spades-photoshoot.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkFQtXQBjSdo8Y-s2E_ozybHPXQomAn_eaOs09v2TYXu5gTk2S9yBJYrA0RYkw-38alUhHXqWUqY4uJflMCEJ7MVRM8w2Cd0WkBUARcF0vIg4HOLNokcipZPzrzzmbRW3mpZBkiQKJExVkKjDwcwDwztlgyx3_sEZDRkfUC9bcdlwk6oRpHNee7qNveJ4V/w1200-h630-p-k-no-nu/motorhead-ace-of-spades-photoshoot-1.jpg",
+      "publishedAt": "2026-09-21T08:09:43Z",
+      "content": "The artwork for Mot\u00f6rhead\u2019s classic 1980 album Ace of Spades is one of the most famous images in rock history. While it looks like Lemmy, \u201cFast\u201d Eddie Clarke, and Phil \u201cPhilthy Animal\u201d Taylor were ph\u2026 [+1435 chars]"
+    },
     {
       "source": {
         "id": null,

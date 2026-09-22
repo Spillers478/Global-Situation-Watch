@@ -1,7 +1,59 @@
 {
   "status": "ok",
-  "totalResults": 11,
+  "totalResults": 15,
   "articles": [
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "China \u2018wiretapped Red Sea\u2019 with spy hub 6 miles from US base: ex Pentagon official warns",
+      "description": "China's upgraded base near Camp Lemonnier features new antennas and signals intelligence assets turning the Red Sea into a surveillance hub.",
+      "url": "https://www.foxnews.com/world/china-wiretapped-red-sea-spy-hub-6-miles-us-base-ex-pentagon-official-warns",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/trump-chi-djibouti-1.jpg",
+      "publishedAt": "2026-09-21T10:00:50Z",
+      "content": "Beijing has transformed the Red Sea into a dangerous surveillance hub, a former Pentagon official warned Sunday, after a new report revealed upgrades to Chinas military footprint just six miles from \u2026 [+7888 chars]"
+    },
+    {
+      "source": {
+        "id": "new-york-magazine",
+        "name": "New York Magazine"
+      },
+      "author": "Jonah Shepp",
+      "title": "The New World Order Is Here",
+      "description": "Former allies are creating a global order in which the U.S. not only no longer leads but cannot even be expected to behave predictably.",
+      "url": "http://nymag.com/intelligencer/article/canada-eu-united-nations-global-order.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/d42/f44/68010aa823d92a6cf4de29e8026d1820a9-lede-worldorder.1x.rsocial.w1200.jpg",
+      "publishedAt": "2026-09-21T09:00:08Z",
+      "content": "In her annual address in France last week, European Commission president Ursula von der Leyen unveiled a proposal that would have been hard to imagine even a few years ago: a plan to make Canada the \u2026 [+7946 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsonjapan.com"
+      },
+      "author": "News On Japan",
+      "title": "Tokyo Market Closed as Yen Intervention Watch Dominates Silver Week",
+      "description": "Tokyo\u2019s stock market was closed on September 21 for Respect for the Aged Day, leaving the Nikkei 225 without a cash close after finishing the previous session at 65,019, while currency and futures markets focused on the yen, the Bank of Japan\u2019s latest rate hi\u2026",
+      "url": "https://newsonjapan.com/article/150825.php",
+      "urlToImage": "https://i2.ytimg.com/vi/dAAeN27Vj1Q/maxresdefault.jpg",
+      "publishedAt": "2026-09-21T07:42:01Z",
+      "content": "TOKYO -\r\n Tokyos stock market was closed on September 21 for Respect for the Aged Day, leaving the Nikkei 225 without a cash close after finishing the previous session at 65,019, while currency and f\u2026 [+13694 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Garrison Vance",
+      "title": "NATO 3.0 Concept Discussed as Military Committee Meets in Copenhagen",
+      "description": "NATO Military Committee Meets in Copenhagen NATO\u2019s Military Committee is scheduled to meet in Copenhagen on Friday and Saturday, according to the alliance. The committee, chaired by Italian Admiral Giuseppe Cavo Dragone, is NATO\u2019s highest military authority a\u2026",
+      "url": "https://www.naturalnews.com/2026-09-21-nato-3-concept-discussed-military-committee-meets.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/nato-30-military-committee-copenhagen-4292-original.jpg",
+      "publishedAt": "2026-09-21T06:00:00Z",
+      "content": "NATO Military Committee Meets in Copenhagen\r\nNATO's Military Committee is scheduled to meet in Copenhagen on Friday and Saturday, according to the alliance. The committee, chaired by Italian Admiral \u2026 [+7845 chars]"
+    },
     {
       "source": {
         "id": "rt",

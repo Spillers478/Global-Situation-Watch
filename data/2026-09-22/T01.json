@@ -1,7 +1,33 @@
 {
   "status": "ok",
-  "totalResults": 2,
+  "totalResults": 4,
   "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Daniel Austin",
+      "title": "'Constant bombardment' - Fans shown 65,000 junk food ads at World Cup",
+      "description": "New data shows fans were shown more than 28 hours of adverts for unhealthy food and drinks during World Cup matches this summer.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq4g528drx79o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5d9e/live/b22d0eb0-b293-11f1-9b18-ad61bef6e34f.jpg",
+      "publishedAt": "2026-09-21T05:19:38Z",
+      "content": "Football fans were shown a \"constant bombardment\" of advertisements promoting junk food and drinks during matches at the 2026 Fifa World Cup, according to a new study.\r\nResearchers at the University \u2026 [+2019 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Reuters",
+      "title": "At least three killed in Pakistani airstrike on Afghanistan: Report",
+      "description": "A Pakistani airstrike in Afghanistan's Kunar province killed three people. Several others sustained injuries during the aerial attack on Monday. This incident follows a recent attack on a police facility in Pakistan. The strike threatens to reignite tensions \u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/at-least-three-killed-in-pakistani-airstrike-on-afghanistan-report/articleshow/134379204.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134379307,width-1200,height-630,imgsize-107828,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-21T03:53:21Z",
+      "content": "Alpha Trade\r\nGet daily trade ideas from SEBI-registered research analysts.\r\nInvestment Ideas\r\nGrow your wealth with stock ideas &amp; sectoral trends.\r\nStock Reports Plus\r\nAll-in-one stock research w\u2026 [+512 chars]"
+    },
     {
       "source": {
         "id": null,

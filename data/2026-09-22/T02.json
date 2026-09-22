@@ -1,7 +1,189 @@
 {
   "status": "ok",
-  "totalResults": 28,
+  "totalResults": 48,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Labroots.com"
+      },
+      "author": "Erynn Smith",
+      "title": "Ancestral Prenatal Diet Improves Fetal Brain Development in Ecuador | Neuroscience And Nervous System",
+      "description": "An Ecuadorian pregnancy nutrition program based on ancestral dietary principles improved the nutritional quality of pregnant women&rsquo;s diets and increa",
+      "url": "https://www.labroots.com/trending/neuroscience-and-nervous-system/31087/ancestral-prenatal-diet-improves-fetal-brain-development-ecuador",
+      "urlToImage": "https://images.labroots.com/content_article_profile_image_8cf85c36d7756a8ef8d18a736dfbb09566d15272_109.jpg",
+      "publishedAt": "2026-09-21T11:01:32Z",
+      "content": "An Ecuadorian pregnancy nutrition program based on ancestral dietary principles improved the nutritional quality of pregnant women\u2019s diets and increased growth in an important fetal brain region, acc\u2026 [+2990 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Root"
+      },
+      "author": "Rashad Grove",
+      "title": "Black Celebrities Who Stand in Solidarity With Palestine",
+      "description": "Singer Ed Sheeran\u2019s tour has been in the news for all the wrong reasons, as he took heat from all sides of the internet for failing to advocate for Macklemore, who was dropped from the lineup for making pro-Palestinian remarks on stage. But as the humanitaria\u2026",
+      "url": "https://www.theroot.com/black-celebrities-who-stand-in-solidarity-with-palestin-2000126864",
+      "urlToImage": null,
+      "publishedAt": "2026-09-21T10:31:06Z",
+      "content": "TORONTO, ONTARIO \u2013 SEPTEMBER 12: Mahershala Ali of \u2018Your Mother Your Mother Your Mother\u2019 poses in the Getty Images Portrait Studio presented by IMDb and IMDbPro at InterContinental Toronto Centre on \u2026 [+8389 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nakedcapitalism.com"
+      },
+      "author": "Yves Smith",
+      "title": "Fundraiser 2026: Finding the High Ground in the Informational Fog",
+      "description": "Fundraiser 2026 begins! Please give generously to back wide-ranging, penetrating news coverage, analysis, and a great commentariat.",
+      "url": "https://www.nakedcapitalism.com/2026/09/fundraiser-2026-finding-the-high-ground-in-the-informational-fog.html",
+      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2026/09/00-fog-300x244.jpg",
+      "publishedAt": "2026-09-21T10:30:25Z",
+      "content": "It\u2019s fundraiser time! If you love Naked Capitalism and know you intend to give, get this campaign off to a fast start. Proceed directly to the Tip Jar and give bigly! \r\nOver the past year, readers ha\u2026 [+15404 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nakedcapitalism.com"
+      },
+      "author": "Yves Smith",
+      "title": "Fundraiser 2026: What We Did for You in the Past Year",
+      "description": "Naked Capitalism rose to the challenge of 2026 breakdowns with steely-eyed coverage. Give generously to keep us unbought and unbossed.",
+      "url": "https://www.nakedcapitalism.com/2026/09/fundraiser-2026-what-we-did-for-you-in-the-past-year.html",
+      "urlToImage": null,
+      "publishedAt": "2026-09-21T10:29:04Z",
+      "content": "As we describe in our fundraiser kickoff post, 2026 has spun well out of \u201cold normal\u201d bounds. Yet we\u2019ve risen to the task of providing even more extensive and in-depth coverage of a world roiled by T\u2026 [+14564 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "A simple guide to the Yemen conflict",
+      "description": "Here\u2019s a brief history of Yemen\u2019s war - from the Houthi takeover in 2014 to the latest escalation.",
+      "url": "https://www.aljazeera.com/news/2026/9/21/a-brief-history-of-the-yemen-conflict",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26261533909909-1789981257.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-21T10:01:30Z",
+      "content": "Yemen is back in the global spotlight after the Iran-aligned Houthi group earlier this month made military gains against the forces loyal to the internationally recognised government, tightening its \u2026 [+10042 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The New Yorker"
+      },
+      "author": "Isaac Chotiner",
+      "title": "What Life Is Actually Like in Gaza Today",
+      "description": "Isaac Chotiner interviews the analyst Jaser Abu Mousa about the impediments to rebuilding Gaza, and the devastation his own family experienced in the Israel-Hamas war.",
+      "url": "https://www.newyorker.com/news/q-and-a/what-life-is-actually-like-in-gaza-today",
+      "urlToImage": "https://media.newyorker.com/photos/6aadb12976f212d084ac826d/16:9/w_1280,c_limit/Chotiner--Life-in-Gaza-2026-09-16T122243Z_867828665_MT1ZUMA000N7OSEL_RTRMADP_3_ZUMA.jpg",
+      "publishedAt": "2026-09-21T10:00:00Z",
+      "content": "It is insane, because, on the other hand, they are allowing chocolates and they are allowing sugar into Gaza, but they do not allow something like peanut butter, which is nutritious. The U.N. was hop\u2026 [+6749 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rand.org"
+      },
+      "author": "Alexandra Stark",
+      "title": "Never Underestimate the Houthis",
+      "description": "Yemen's Houthi rebels are in a position to shape the next phase of the conflict between the United States and Iran if they attempt to renew their blockade of the Bab al-Mandab Strait. And no one should assume that a deal with Iran will bind what the Houthis d\u2026",
+      "url": "https://www.rand.org/pubs/commentary/2026/09/never-underestimate-the-houthis.html",
+      "urlToImage": "https://www.rand.org/content/rand/pubs/commentary/2026/09/never-underestimate-the-houthis/jcr:content/par/teaser.crop.1200x900.cm.jpeg/1788302061074.jpeg",
+      "publishedAt": "2026-09-21T10:00:00Z",
+      "content": "Just a few years ago, Yemen's Houthi rebels were second- or third-tier members of Iran's \u201cAxis of Resistance,\u201d prompting policymakers to treat them as a subsidiary of Tehran. But while they benefit f\u2026 [+6382 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wattsupwiththat.com"
+      },
+      "author": "Guest Blogger",
+      "title": "Weekly Climate and Energy News Roundup #707",
+      "description": "\u201cObservation, reason, and experiment make up what we call the scientific method.\u201d \u2014 Richard Feynman\nThe post Weekly Climate and Energy News Roundup #707 appeared first on Watts Up With That?.",
+      "url": "https://wattsupwiththat.com/2026/09/21/weekly-climate-and-energy-news-roundup-707/",
+      "urlToImage": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/09/ChatGPTarches-np.webp?fit=1024%2C512&quality=75&ssl=1",
+      "publishedAt": "2026-09-21T09:00:00Z",
+      "content": "Quote of the Week: Observation, reason, and experiment make up what we call the scientific method.\r\n Richard Feynman\r\nNumber of the Week: 579 million or 655 million\r\nTHIS WEEK:\r\nBy Ken Haapala, Presi\u2026 [+70579 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Mike Adams",
+      "title": "Drone Warfare Is Coming to America \u2026 And We\u2019re Dangerously Unprepared",
+      "description": "If It Sits Above Ground, It Can Be Destroyed by Drones The drone revolution has quietly ended the era when America\u2019s above-ground infrastructure could be considered safe. The same precision-strike capability that hit Saudi pipelines and Qatari gas trains can \u2026",
+      "url": "https://www.naturalnews.com/2026-09-21-drone-warfare-coming-to-america-dangerously-unprepared.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/drone-warfare-critical-infrastructure-unmanned-aerial-vehicles-4332-original.jpg",
+      "publishedAt": "2026-09-21T06:00:00Z",
+      "content": "If It Sits Above Ground, It Can Be Destroyed by Drones\r\nThe drone revolution has quietly ended the era when America's above-ground infrastructure could be considered safe. The same precision-strike c\u2026 [+12564 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Mike Adams",
+      "title": "The Cheapest Food You\u2019ll Ever See: Why I Believe a Global Food Shock Is Coming by 2027",
+      "description": "The Global Food Shock Is Already Baked In I just walked out of a product acquisition meeting with my staff at Health Ranger Store, and the numbers on the table were worse than anything I expected to see this year. The cost of shipping a single unit of freeze-\u2026",
+      "url": "https://www.naturalnews.com/2026-09-21-global-food-shock-is-coming-by-2027.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/global-food-shock-food-inflation-fertilizer-shortage-4333-original.jpg",
+      "publishedAt": "2026-09-21T06:00:00Z",
+      "content": "The Global Food Shock Is Already Baked In\r\nI just walked out of a product acquisition meeting with my staff at Health Ranger Store, and the numbers on the table were worse than anything I expected to\u2026 [+11524 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheJournal.ie"
+      },
+      "author": "Jane Matthews",
+      "title": "Taoiseach and ministers travel to New York for UN General Assembly week",
+      "description": "Everything you need to know about this year\u2019s high level week at the UN headquarters in New York.",
+      "url": "https://www.thejournal.ie/un-general-assembly-2-7165663-Sep2026/",
+      "urlToImage": "https://img2.thejournal.ie/article/7165663/river/?height=400&version=7165708",
+      "publishedAt": "2026-09-21T05:00:55Z",
+      "content": "AN IRISH DELEGATION led by Taoiseach Miche\u00e1l Martin will this week represent Ireland in New York for the 81st annual United Nations General Assembly high-level week.\r\n\u00a0Martin arrives in New York toda\u2026 [+3752 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Human Rights Watch"
+      },
+      "author": "Human Rights Watch",
+      "title": "US: Deportations to Haiti Endanger Lives",
+      "description": "Click to expand Image\n \n\n\n\n \n \n \n\n \n \n \n \n Haitians deported from the United States disembark from a charter flight at Cap-Ha\u00eftien International Airport, Haiti, August 27, 2026.\n \u00a9 2026 Human Rights Watch \n \n \n\n\n \n(Washington, DC) \u2013\u00a0Since ending Temporary Pro\u2026",
+      "url": "https://www.hrw.org/news/2026/09/21/us-deportations-to-haiti-endanger-lives",
+      "urlToImage": "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2026/09/202609ame_haiti_us_deportations_plane.jpg?h=19f14c2c&itok=ROs0O9Ie",
+      "publishedAt": "2026-09-21T04:00:00Z",
+      "content": "(Washington, DC) \u00a0Since ending Temporary Protected Status (TPS) for Haiti in late July 2026, US authorities have deported hundreds of Haitians back to their country, where they face threats to their \u2026 [+30865 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Mohammed Tawfeeq, Logan Schiciano, CNN",
+      "title": "Iran and U.S. exchange fresh warnings as Saudi-Houthi conflict escalates",
+      "description": "Flames and large plume of black smoke seen rising near Riyadh airport - Reuters\r\n\nAs world leaders prepare to gather in New York for the United Nations General Assembly (UNGA) this week, a growing number of flashpoints across the Middle East are raising conce\u2026",
+      "url": "https://www.cnn.com/2026/09/20/middleeast/mideast-tensions-un-general-assembly-heres-what-to-know",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap26255412712674.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-09-21T03:09:48Z",
+      "content": "As world leaders prepare to gather in New York for the United Nations General Assembly (UNGA) this week, a growing number of flashpoints across the Middle East are raising concerns about a wider regi\u2026 [+4397 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New Zealand Herald"
+      },
+      "author": "Jacqueline Rowarth",
+      "title": "What New Zealand can learn from Sri Lanka\u2019s organic farming failure: Dr Jacqueline Rowarth",
+      "description": "OPINION: Sri Lanka\u2019s failed organic farming policy shows the risks of ignoring science.",
+      "url": "https://www.nzherald.co.nz/the-country/news/what-new-zealand-can-learn-from-sri-lankas-organic-farming-failure-dr-jacqueline-rowarth/H3PT6REOONAOXPBJR6OO54NQTM/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/A26EFLG6PV4IVDKNEFMJURGLIY.jpg?auth=14cc5a6a5c13e41d4c12d315bc0ac95a8f7eb04cd4ddec11de7243d4de15e8cc&width=1200&height=675&quality=70&focal=330%2C203&smart=false",
+      "publishedAt": "2026-09-21T01:58:54Z",
+      "content": "The abrupt transition to organic production systems contributed significantly to a decline in agricultural production and worsened Sri Lankas wider economic crisis.\r\nAlthough the economy has recovere\u2026 [+3811 chars]"
+    },
     {
       "source": {
         "id": "al-jazeera-english",

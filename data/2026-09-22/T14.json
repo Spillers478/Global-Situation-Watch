@@ -1,7 +1,59 @@
 {
   "status": "ok",
-  "totalResults": 7,
+  "totalResults": 11,
   "articles": [
+    {
+      "source": {
+        "id": "australian-financial-review",
+        "name": "Australian Financial Review"
+      },
+      "author": "The Afr View",
+      "title": "Australia should demand early access to America\u2019s AI",
+      "description": "It is reasonable for Australia to request early-stage access, when models are still in the testing phase, to guard against AI models running amok.",
+      "url": "https://www.afr.com/technology/australia-should-demand-early-access-to-america-s-frontier-ai-20260921-p60z2i",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.353%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_86/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/0f2edff2d890d30d7c45a8df0eab5f3acd4515d0",
+      "publishedAt": "2026-09-21T07:55:42Z",
+      "content": "Rising fears that agentic artificial intelligence poses an existential threat to humanity form an anxious backdrop to Anthony Albaneses diplomatic mission to the United Nations in New York.\r\nThe prim\u2026 [+297 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "The Associated Press",
+      "title": "Houthis say they won't attack US vessels in Red Sea, and other Mideast developments",
+      "description": "A senior Houthi official says the group has assured the Trump administration it won\u2019t attack U.S. vessels in the Red Sea",
+      "url": "https://abcnews.com/International/wireStory/houthis-attack-us-vessels-red-sea-mideast-developments-136597035",
+      "urlToImage": "https://i.abcnewsfe.com/a/b2f77f6c-1d45-47b3-8252-ee3c10e9b817/wirestory_4ca7f5b7d7b4a6658909b7c92764973a_16x9.jpg?w=1600",
+      "publishedAt": "2026-09-21T07:15:27Z",
+      "content": "A senior official with the Iran-backed Houthi rebels said the group has assured U.S. President Donald Trump's administration that it wont attack U.S. vessels in the Red Sea, even as he warned countri\u2026 [+5378 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Garrison Vance",
+      "title": "Bucha Used by West to Derail Istanbul Peace Talks, Russian MFA Spokeswoman Says",
+      "description": "Russian Foreign Ministry spokeswoman Maria Zakharova said during a press conference in Moscow on Thursday that Western sponsors of Kyiv initiated the falsification of events in Bucha, according to statements reported by Russian state media on September 17, 20\u2026",
+      "url": "https://www.naturalnews.com/2026-09-21-bucha-derailed-istanbul-peace-talks-russian-spokeswoman.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/bucha-istanbul-peace-talks-maria-zakharova-4222-original.jpg",
+      "publishedAt": "2026-09-21T06:00:00Z",
+      "content": "Russian Foreign Ministry spokeswoman Maria Zakharova said during a press conference in Moscow on Thursday that Western sponsors of Kyiv initiated the falsification of events in Bucha, according to st\u2026 [+7708 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Mohammed Tawfeeq, Logan Schiciano, CNN",
+      "title": "Iran and U.S. exchange fresh warnings as Saudi-Houthi conflict escalates",
+      "description": "Flames and large plume of black smoke seen rising near Riyadh airport - Reuters\r\n\nAs world leaders prepare to gather in New York for the United Nations General Assembly (UNGA) this week, a growing number of flashpoints across the Middle East are raising conce\u2026",
+      "url": "https://www.cnn.com/2026/09/20/middleeast/mideast-tensions-un-general-assembly-heres-what-to-know",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap26255412712674.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-09-21T03:09:48Z",
+      "content": "As world leaders prepare to gather in New York for the United Nations General Assembly (UNGA) this week, a growing number of flashpoints across the Middle East are raising concerns about a wider regi\u2026 [+4397 chars]"
+    },
     {
       "source": {
         "id": null,

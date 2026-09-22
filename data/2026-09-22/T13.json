@@ -1,7 +1,46 @@
 {
   "status": "ok",
-  "totalResults": 14,
+  "totalResults": 17,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "tippinsights.com",
+      "title": "Sweden\u2019s Election Has A Harsh Lesson For America First Conservatives",
+      "description": "By PAUL MCCARTHY via The Daily Signal | September 17, 2026\nSweden\u2019s conservatives may have discovered a painful electoral paradox: Winning the immigration argument does not guarantee winning the election.\nMass migration has transformed Sweden\u2019s social fabric,\u2026",
+      "url": "https://biztoc.com/x/65866bc47a786a56",
+      "urlToImage": "https://biztoc.com/cdn/65866bc47a786a56_s.webp",
+      "publishedAt": "2026-09-21T10:11:49Z",
+      "content": "By PAUL MCCARTHY via The Daily Signal | September 17, 2026Swedens conservatives may have discovered a painful electoral paradox: Winning the immigration argument does not guarantee winning the electi\u2026 [+145 chars]"
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Kurt Zindulka",
+      "title": "Migrant Households Receiving Record Amount of Direct Welfare Payments in Britain",
+      "description": "The British taxpayer is handing out a record\u00a0\u00a311.9 billion in direct welfare payments to households with at least one migrant, according to data from the\u00a0Department for Work and Pensions.\nThe post Migrant Households Receiving Record Amount of Direct Welfare P\u2026",
+      "url": "https://www.breitbart.com/europe/2026/09/21/migrant-households-receiving-record-amount-of-direct-welfare-payments-in-britain/",
+      "urlToImage": "https://media.breitbart.com/media/2026/09/GettyImages-1248609643-1-640x335.jpg",
+      "publishedAt": "2026-09-21T07:36:55Z",
+      "content": "The British taxpayer is handing out a record\u00a0\u00a311.9 billion in direct welfare payments to households with at least one migrant, according to data from the\u00a0Department for Work and Pensions.\r\nAnalysis o\u2026 [+3149 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Khabarhub.com"
+      },
+      "author": "Khabarhub",
+      "title": "Revisiting Last Week: Governance, Accountability\u00a0and Disaster",
+      "description": "KATHMANDU: The events of\u00a0last week presented\u00a0a revealing picture\u00a0of Nepal at\u00a0an important stage\u00a0of its constitutional\u00a0journey. The central\u00a0theme running through\u00a0the week\u2019s political\u00a0statements, parliamentary\u00a0discussions, disaster response\u00a0and diplomatic engag\u2026",
+      "url": "https://english.khabarhub.com/2026/21/568550/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2026/09/Khabarhub-_Saata-Ko-Khabar-English_1200px-630X-px-Final_2026.09.20.jpg",
+      "publishedAt": "2026-09-21T02:45:45Z",
+      "content": "KATHMANDU: The events of\u00a0last week presented\u00a0a revealing picture\u00a0of Nepal at\u00a0an important stage\u00a0of its constitutional\u00a0journey. The central\u00a0theme running through\u00a0the week\u2019s political\u00a0statements, parli\u2026 [+18007 chars]"
+    },
     {
       "source": {
         "id": null,
