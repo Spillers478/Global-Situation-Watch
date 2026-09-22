@@ -62,6 +62,17 @@ Every day, a GitHub Actions workflow:
 No server or database required. NewsAPI is free at this volume; the
 Claude API calls are paid but inexpensive -- see "Cost" below.
 
+**Fault isolation.** Only the NewsAPI fetch and the page build can fail
+the workflow. The newsdata.io fetch and both Claude passes run with
+`continue-on-error: true`, and the commit step runs with `if: always()`.
+That combination means a bug in any secondary stage can't throw away the
+API calls the earlier stages already paid for: whatever was fetched
+still gets committed and the brief still publishes, just with that layer
+missing. (Before this was added, a crash in the newsdata step discarded
+the ~18 NewsAPI requests that run had already spent, because the commit
+step never ran -- fetched data lives only in the runner's ephemeral
+workspace until it's committed.)
+
 Both the red team pass and the synthesis pass degrade gracefully:
 if `ANTHROPIC_API_KEY` isn't set, either call fails, or the response
 can't be parsed, that stage is skipped rather than breaking the
@@ -119,6 +130,40 @@ newsdata request returns up to 10 articles on the free tier (vs.
 NewsAPI's 100/page), so it contributes a modest, complementary slice of
 coverage per topic rather than a full second haul -- its value is
 catching stories NewsAPI's index missed, not duplicating volume.
+
+### Testing without spending a sweep
+
+`fetch_newsdata.py` has two flags so you never have to burn a full
+16-credit sweep (or a CI run) to find out something is misconfigured:
+
+~~~
+python scripts/fetch_newsdata.py --dry-run       # 0 credits
+python scripts/fetch_newsdata.py --only T03      # 1 credit
+~~~
+
+`--dry-run` prints the exact query each topic would send plus its
+character count against newsdata's 100-char cap, and sends nothing.
+`--only <topic_id>` fetches one topic and pretty-prints the raw
+response, which is the fastest way to see what the live API actually
+returns (field names, whether an optional param is rejected on this
+plan) without guessing.
+
+The script also aborts the sweep after 3 consecutive API errors
+(`MAX_CONSECUTIVE_ERRORS`). Every topic sends a structurally identical
+request, so a systemic problem -- bad key, a param this plan doesn't
+allow, rate limit, API outage -- would otherwise fail 16 times and spend
+16 credits to learn the same thing once.
+
+### Re-running a failed workflow
+
+GitHub Actions re-runs at the **job** level, and a re-run replays the
+**same commit** the original run was created from -- it does not pick up
+newer commits on `main`. So re-running a failed run will never test a
+fix you just pushed; use **Actions > Daily Briefing > Run workflow**
+(`workflow_dispatch`) to start a fresh run against latest `main`.
+
+Note also that both fetch steps re-run from scratch on any re-run, since
+Actions can't resume mid-job from a failed step.
 
 ## Cost
 

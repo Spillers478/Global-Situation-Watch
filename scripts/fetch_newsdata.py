@@ -47,6 +47,16 @@ REQUEST_PAUSE_SECONDS = 1.5  # a bit more conservative than fetch_news.py's --
 # can't silently blow through the daily 200-credit cap.
 MAX_REQUESTS = 30
 
+# Every topic below sends a structurally identical request -- same
+# endpoint, same optional params, only the query text differs. So a
+# failure caused by something systemic (bad/expired key, a param this
+# plan doesn't allow, rate limit hit, newsdata down) will fail on every
+# single topic, spending a credit each time to learn the same thing.
+# Bail out after this many *consecutive* errors: a systemic problem then
+# costs 3 credits instead of 16, while a one-off bad query for a single
+# topic still lets the remaining topics through.
+MAX_CONSECUTIVE_ERRORS = 3
+
 # newsdata's excludedomain param takes a comma-separated list like
 # NewsAPI's excludeDomains -- reuse the same list from topics.py so both
 # providers apply the same noise-control decisions.
@@ -160,15 +170,47 @@ def merge_into(path, new_articles):
     return added
 
 
-def main():
+USAGE = """Usage: python scripts/fetch_newsdata.py [--dry-run] [--only TOPIC_ID]
+
+  (no flags)        Full sweep: every topic, merged into data/<date>/. ~16 credits.
+  --dry-run         Print the exact request each topic would send and stop.
+                    Costs ZERO credits -- use it to sanity-check queries,
+                    query lengths, and params after editing topics.py.
+  --only TOPIC_ID   Fetch a single topic (e.g. --only T03) and pretty-print
+                    the raw newsdata.io response. Costs ONE credit -- use it
+                    to verify the live API contract without spending a full
+                    sweep (or a CI run) to find out something is wrong.
+"""
+
+
+def _parse_args(argv):
+    dry_run = "--dry-run" in argv
+    only = None
+    if "--only" in argv:
+        i = argv.index("--only")
+        if i + 1 >= len(argv):
+            print(USAGE, file=sys.stderr)
+            sys.exit(2)
+        only = argv[i + 1]
+    unknown = [a for a in argv if a.startswith("--") and a not in ("--dry-run", "--only")]
+    if unknown:
+        print(f"Unknown option(s): {', '.join(unknown)}\n\n{USAGE}", file=sys.stderr)
+        sys.exit(2)
+    return dry_run, only
+
+
+def main(argv=None):
+    dry_run, only = _parse_args(argv if argv is not None else sys.argv[1:])
+
     now = datetime.now(timezone.utc)
     out_dir = Path(__file__).resolve().parent.parent / "data" / now.strftime("%Y-%m-%d")
-    out_dir.mkdir(parents=True, exist_ok=True)
-    # Raw newsdata payloads kept separately for audit/debugging -- the
-    # merge above only writes the normalized articles into the shared
-    # per-topic files the rest of the pipeline reads.
     raw_dir = out_dir / "newsdata"
-    raw_dir.mkdir(parents=True, exist_ok=True)
+    if not dry_run:
+        out_dir.mkdir(parents=True, exist_ok=True)
+        # Raw newsdata payloads kept separately for audit/debugging -- the
+        # merge above only writes the normalized articles into the shared
+        # per-topic files the rest of the pipeline reads.
+        raw_dir.mkdir(parents=True, exist_ok=True)
 
     # Prefer each topic's newsdata_query (hand-shortened to fit newsdata's
     # 100-char q/qInTitle cap -- see topics.py "newsdata_query" section);
@@ -183,16 +225,34 @@ def main():
     else:
         print("Topic sweep disabled (TOPIC_SWEEP_ENABLED=False in topics.py) -- flagships only.")
 
+    if only:
+        targets = [t for t in targets if t[0] == only]
+        if not targets:
+            print(f"No topic with id {only!r}. Known ids: "
+                  f"{', '.join(t['id'] for t in TIER1 + TOPICS)}", file=sys.stderr)
+            sys.exit(2)
+
+    if dry_run:
+        print("DRY RUN -- no requests sent, no credits spent.\n")
+        for key, label, query, search_in in targets:
+            field = "qInTitle" if search_in == "title" else "q"
+            status = "OK" if len(query) <= 100 else "TOO LONG (cap 100)"
+            print(f"{key} - {label}")
+            print(f"  {field} ({len(query)} chars, {status}): {query}")
+        print(f"\n{len(targets)} topic(s) would be fetched = {len(targets)} credit(s).")
+        return
+
     total_added = 0
-    for key, label, query, search_in in targets:
+    consecutive_errors = 0
+    for idx, (key, label, query, search_in) in enumerate(targets):
         print(f"Fetching (newsdata.io): {key} - {label}")
         if len(query) > 100:
             # Safety net, not the primary control -- topics.py's
             # newsdata_query values are hand-checked to stay under
             # newsdata's 100-char cap. If one ever creeps over (an edit
-            # to topics.py, a topic missing its override), fail that one
-            # topic's fetch loudly rather than send a request newsdata
-            # will reject anyway.
+            # to topics.py, a topic missing its override), skip that one
+            # topic rather than spend a credit on a request newsdata will
+            # reject anyway.
             print(f"  WARNING: query is {len(query)} chars (newsdata's cap is 100) -- skipping {key}. "
                   f"Add/shorten its newsdata_query in topics.py.", file=sys.stderr)
             continue
@@ -206,18 +266,41 @@ def main():
             # other topic -- log it and move on, same graceful-degradation
             # spirit as redteam.py/synthesize.py.
             print(f"  ERROR fetching {key} from newsdata.io: {e}", file=sys.stderr)
+            raw = {"status": "error", "results": []}
+
+        if raw.get("status") != "success":
+            consecutive_errors += 1
+            if consecutive_errors >= MAX_CONSECUTIVE_ERRORS:
+                print(
+                    f"\nABORTING: {consecutive_errors} consecutive newsdata.io errors -- this looks "
+                    f"systemic (key, plan limits, or the API itself), not one bad query. Stopping "
+                    f"here so the remaining {len(targets) - idx - 1} "
+                    f"topic(s) don't each spend a credit to fail the same way. "
+                    f"{_request_count} credit(s) used. Diagnose with: "
+                    f"python scripts/fetch_newsdata.py --only {key}",
+                    file=sys.stderr,
+                )
+                break
+            time.sleep(REQUEST_PAUSE_SECONDS)
             continue
+        consecutive_errors = 0
 
         with open(raw_dir / f"{key}.json", "w") as f:
             json.dump(raw, f, indent=2)
 
-        normalized = [normalize(a) for a in (raw.get("results") or [])]
+        results = raw.get("results") or []
+        if only:
+            # Single-topic diagnostic mode: show what the API actually
+            # returned, since that's the whole point of spending the credit.
+            print(json.dumps(raw, indent=2)[:4000])
+
+        normalized = [normalize(a) for a in results]
         added = merge_into(out_dir / f"{key}.json", normalized)
         total_added += added
         print(f"  +{added} new article(s) merged (of {len(normalized)} returned)")
         time.sleep(REQUEST_PAUSE_SECONDS)
 
-    print(f"\nDone. {_request_count} requests used, {total_added} new articles merged from newsdata.io into {out_dir}/")
+    print(f"\nDone. {_request_count} credit(s) used, {total_added} new articles merged from newsdata.io into {out_dir}/")
 
 
 if __name__ == "__main__":

@@ -29,25 +29,45 @@ jobs:
           NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
         run: python scripts/fetch_news.py
 
+      # Everything below the primary NewsAPI fetch is fault-isolated:
+      # newsdata is a *second* source and the two Claude passes are
+      # enhancement layers, so none of them should ever be able to kill a
+      # run that already has good NewsAPI data in hand. Without this, a
+      # crash here throws away the ~18 NewsAPI requests the step above
+      # already spent (the commit step never runs, so nothing persists)
+      # and the day's brief never publishes. continue-on-error marks the
+      # step failed in the UI for visibility but lets the job carry on.
       - name: Fetch newsdata.io data (second source, merged by topic)
+        continue-on-error: true
         env:
           NEWSDATA_KEY: ${{ secrets.NEWSDATA_KEY }}
         run: python scripts/fetch_newsdata.py
 
       - name: Red team - verify article relevance, reassign topics, tag COCOM
+        continue-on-error: true
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python scripts/redteam.py
 
       - name: Generate BLUF + per-topic narrative synthesis
+        continue-on-error: true
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python scripts/synthesize.py
 
+      # Not continue-on-error: if the page itself can't be rendered there
+      # is no brief to publish, and build_brief.py already degrades
+      # gracefully when the redteam/synthesis layers are missing.
       - name: Build briefing page
         run: python scripts/build_brief.py
 
+      # if: always() so whatever data *was* fetched gets committed even if
+      # a step above failed outright -- fetched articles live only in the
+      # runner's ephemeral workspace until this step saves them, so a
+      # mid-job failure otherwise means those API calls were spent for
+      # nothing and have to be spent again on the next run.
       - name: Commit and push updated data + page
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
