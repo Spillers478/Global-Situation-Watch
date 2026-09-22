@@ -1,7 +1,33 @@
 {
   "status": "ok",
-  "totalResults": 16,
+  "totalResults": 18,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Crooksandliars.com"
+      },
+      "author": "John Amato",
+      "title": "Sen. Barrasso Gets Angry Over Questions On Trump's Press Ban",
+      "description": "Sen. John Barrasso got perturbed with Meet The Press host Kristen Welker after she repeatedly asked him if he agreed with Trump's ban on the free press.\nTrump banning CNN, MS now, and Politico in the White House became a focal point on today's Sunday news tal\u2026",
+      "url": "https://crooksandliars.com/2026/09/barrasso-angry-trump-press-ban",
+      "urlToImage": "https://crooksandliars.com/files/mediaposters/2026/09/59803.jpg",
+      "publishedAt": "2026-09-21T00:15:33Z",
+      "content": "Sen. John Barrasso got perturbed with Meet The Press host Kristen Welker after she repeatedly asked him if he agreed with Trump's ban on the free press.\r\nTrump banning CNN, MS now, and Politico in th\u2026 [+2580 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "author": "Estefano Gomez",
+      "title": "Tehran warns US against new strikes as Yemen conflict escalates",
+      "description": "Tehran's warning to the US heightens geopolitical tensions, affecting market perceptions of Iranian stability without immediate regime change.\nThe post Tehran warns US against new strikes as Yemen conflict escalates appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/tehran-warns-us-against-new-strikes-as-yemen-conflict-escalates/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/20201143/cb-card-geo-154-800x420.png",
+      "publishedAt": "2026-09-21T00:11:44Z",
+      "content": "Tehran has issued a warning to the United States against any further military strikes, threatening retaliation amidst ongoing conflict in Yemen. This development was reported by Al Jazeera, highlight\u2026 [+1733 chars]"
+    },
     {
       "source": {
         "id": null,

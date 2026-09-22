@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 53,
+  "totalResults": 54,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Bleeding Cool News"
+      },
+      "author": "Mark Seifert",
+      "title": "Doll Girl's Atomic-Age Debut in Doll Man #37, at Auction",
+      "description": "Amidst a real-life backdrop of atomic weapons testing and transmuting thorium into Uranium-233, Doll Girl undergoes a transformation of her own.",
+      "url": "https://bleedingcool.com/comics/doll-girls-atomic-age-debut-in-doll-man-37-at-auction/",
+      "urlToImage": "https://bleedingcool.com/wp-content/uploads/2026/09/doll-girl-featured-2000x1125.jpg",
+      "publishedAt": "2026-09-21T00:31:08Z",
+      "content": "Posted in: Comics, Heritage Sponsored | Tagged: quality comics, william woolfolk\r\nAmidst a real-life backdrop of atomic weapons testing and transmuting thorium into Uranium-233, Doll Girl undergoes a\u2026 [+4763 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -33,19 +46,6 @@
         "id": null,
         "name": "Nature.com"
       },
-      "author": "Michael T. Zimmermann, Raul Urrutia",
-      "title": "Interpreting human genetic variation at atomic resolution",
-      "description": "This Perspective discusses computational structural genomics, a conceptual framework that links genetic variants to three-dimensional molecular structures and their dynamics and function in a cellular context, aiming to interpret their mechanisms.",
-      "url": "https://www.nature.com/articles/s41588-026-02763-z",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41588-026-02763-z/MediaObjects/41588_2026_2763_Fig1_HTML.png",
-      "publishedAt": "2026-09-21T00:00:00Z",
-      "content": "<li>Barad, B.A., Medina, M., Fuentes, D., Wiseman, R.L. &amp; Grotjahn, D.A. Quantifying organellar ultrastructure in cryo-electron tomography using a surface morphometrics pipeline. J. Cell. Biol.22\u2026 [+51454 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
       "author": "Elie Dolgin",
       "title": "AI co-scientists are revolutionizing how research is done",
       "description": "Artificial-intelligence systems can generate hypotheses, design experiments and analyse data \u2014 but humans still need to decide what makes sense.",
@@ -53,6 +53,19 @@
       "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02931-5/d41586-026-02931-5_53727702.jpg",
       "publishedAt": "2026-09-21T00:00:00Z",
       "content": "Biochemist Anna Pertl typed in her question, pressed Enter and left for the night.\r\nThe artificial-intelligence system that she had prompted is designed to produce innovative scientific hypotheses. B\u2026 [+10329 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": "Michael T. Zimmermann, Raul Urrutia",
+      "title": "Interpreting human genetic variation at atomic resolution",
+      "description": "This Perspective discusses computational structural genomics, a conceptual framework that links genetic variants to three-dimensional molecular structures and their dynamics and function in a cellular context, aiming to interpret their mechanisms.",
+      "url": "https://www.nature.com/articles/s41588-026-02763-z",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41588-026-02763-z/MediaObjects/41588_2026_2763_Fig1_HTML.png",
+      "publishedAt": "2026-09-21T00:00:00Z",
+      "content": "<li>Barad, B.A., Medina, M., Fuentes, D., Wiseman, R.L. &amp; Grotjahn, D.A. Quantifying organellar ultrastructure in cryo-electron tomography using a surface morphometrics pipeline. J. Cell. Biol.22\u2026 [+51454 chars]"
     },
     {
       "source": {

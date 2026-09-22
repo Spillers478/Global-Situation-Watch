@@ -1,7 +1,384 @@
 {
   "status": "ok",
-  "totalResults": 855,
+  "totalResults": 884,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Silver And Black Pride"
+      },
+      "author": "Bill Williamson",
+      "title": "Raiders show signs of being a well-coached team under Klint Kubiak",
+      "description": "Raiders improve to 2-0 while not having a perfect game",
+      "url": "https://www.silverandblackpride.com/las-vegas-raiders-game-information/139319/raiders-chargers-gary-kubiak-undefeated",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/7125cc5f29dfb512c90c0f34dc02af0c22852bd7870dc3decf1075f9ce922196/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fd17ad324b8034a09168af61ef3fed42c.jpg",
+      "publishedAt": "2026-09-21T00:37:07Z",
+      "content": "The Las Vegas Raiders look different.\r\nThey weren't perfect Sunday. They had some trouble on the offensive line and the running game on both sides of the ball.\r\nBut, they were. by far, the better, mo\u2026 [+7146 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Kendall Capps",
+      "title": "Mike McDaniel offense a sinking ship as Chargers season already on the brink",
+      "description": "The Chargers' season is already on life support.",
+      "url": "https://nypost.com/2026/09/20/sports/chargers-offense-reeks-mike-mcdaniel-season-on-brink/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-rsmz9mzqw-1789950837529.jpg?quality=75&strip=all&1789936479&w=1200",
+      "publishedAt": "2026-09-21T00:36:54Z",
+      "content": "The Chargers asked their fans to wear powder blue on Sunday afternoon.\r\nSoFi Stadium turned black instead.\r\nRaiders jerseys swallowed entire sections of the building, Rai-ders! chants rolled down fro\u2026 [+6126 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Andrew Harbaugh, Browns Wire",
+      "title": "Report Card Grades from the Browns upset win over the Bucs",
+      "description": "The grades are finalized from the Browns' Week 2 win over the Bucs.",
+      "url": "https://brownswire.usatoday.com/story/sports/nfl/browns/2026/09/20/browns-report-card-week-2-grades-from-their-win-over-the-bucs/91866649007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/72232db60d1c5b4021e444e993f9c09e6730435aaee8432fce722d2968096b4a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcleveland_browns_wire_usa_today_sports_articles_724%2Fec32e636f77d32d999085954e13b6109.jpg",
+      "publishedAt": "2026-09-21T00:36:28Z",
+      "content": "The Cleveland Browns did the unthinkable in Week 2 and overcame the odds to defeat the Bucs on the road. They enter their home opener at 1-1, and head coach Todd Monken records his first win as an NF\u2026 [+2942 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Detroit News"
+      },
+      "author": "Jack McKessy, USA TODAY",
+      "title": "Tom Brady drops on-air expletive after gruesome Jayden Daniels injury",
+      "description": "A gruesome replay of Jayden Daniels' elbow injury led Fox Sports announcer Tom Brady to utter a swear word on-air.",
+      "url": "https://www.detroitnews.com/story/sports/nfl/2026/09/20/jayden-daniels-elbow-injury-tom-brady-reaction/91867282007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/6d439699ba3b9a5b445f25390f46a5d904aa8261dbee8604999955aced06543d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdetroit_news_articles_230%2F8f596bdf7556084ec7d3bafb7feb9f54.jpg",
+      "publishedAt": "2026-09-21T00:34:55Z",
+      "content": "Tom Brady's raw reaction to a gruesome elbow injury to Washington Commanders quarterback Jayden Daniels was not safe for work.\r\nDuring the Commanders' Week 2 game against the Dallas Cowboys, cameras \u2026 [+1650 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "On3.com"
+      },
+      "author": "Greg Biggins",
+      "title": "Nevada High School Football Rankings: Top 25 Teams \u2013 Sept. 20",
+      "description": "Bishop Gorman added a big win over SoCal power Mater Dei to their earlier win over St. John Bosco and has some real bragging rights as the top team out West this year.",
+      "url": "https://www.on3.com/high-school/news/nevada-high-school-football-rankings-top-25-teams-sept-20/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c1e264b405c1fc8d4f37d18a4ed5918a1291ea0d5158b756859715075d462dfe/lightyear_networkapi/resizefill_w1024_h537%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fon3_recruiting_articles_521%2Fb7f907f66196cea7aad89ebfc7687459.jpg",
+      "publishedAt": "2026-09-21T00:34:50Z",
+      "content": "Bishop Gorman added a big win over SoCal power Mater Dei to their earlier win over St. John Bosco and has some real bragging rights as the top team out West this year. Liberty had a big statement win\u2026 [+5800 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bleeding Green Nation"
+      },
+      "author": "Joseph Santoliquito",
+      "title": "Eagles vs. Titans: The good, the bad, and the ugly",
+      "description": "Highlights and lowlights from Philadelphia\u2019s Week 2 win.",
+      "url": "https://www.bleedinggreennation.com/philadelphia-eagles-game-information/183624/eagles-vs-titans-the-good-the-bad-and-the-ugly",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/7aae66317f644aefed43b75ef0353bdc51ee25b273930acef50395c74d5c525e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fbbeb858b3822e960a15c4cd675c3d344.jpg",
+      "publishedAt": "2026-09-21T00:34:49Z",
+      "content": "Jalen Hurts won again. The Eagles should have smoked the lowly Tennessee Titans on Sunday, but they did not. What they did do, however, was win, 24-20 at Nissan Stadium, in Nashville, Tennesseethanks\u2026 [+8757 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Will Hallowell, Sabrina Penty",
+      "title": "Ukraine fires new homemade Pelican ballistic missile in largest attack on Moscow yet - as fears grow across Europe that Putin is preparing to attack",
+      "description": "Pelican refers to the FP-7 ground-launched ballistic missile that was developed in Ukraine by defence technology company Fire Point.",
+      "url": "https://www.dailymail.com/news/article-16146989/Ukraine-fires-new-homemade-Pelican-ballistic-missile-largest-attack-Moscow-fears-grow-Europe-Putin-preparing-attack.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/09/21/01/111356493-0-image-m-84_1789949781452.jpg",
+      "publishedAt": "2026-09-21T00:33:13Z",
+      "content": "Ukraine has fired a new homemade ballistic missile at Russia in the country's largest attack on Moscow\u00a0since the start of the war.\u00a0\r\nOn Sunday night, the final day of the Russian election, Ukraine st\u2026 [+13045 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Jake Fenner",
+      "title": "Angry Chargers fans blame Madison Beer for fianc\u00e9 Justin Herbert's horrific start to the new NFL season",
+      "description": "The Los Angeles Chargers are 0-2 for the first time in three seasons. Some fans believe that one person is responsible, even though they don't touch the field.",
+      "url": "https://www.dailymail.com/sport/nfl/article-16146995/justin-herbert-madison-beer-chargers-blame.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/09/21/01/111367219-0-image-a-3_1789950661677.jpg",
+      "publishedAt": "2026-09-21T00:31:32Z",
+      "content": "The Los Angeles Chargers are 0-2 for the first time in three seasons. Some fans believe that one person is responsible, even though they don't touch the field.\r\nIn their second game of the season, th\u2026 [+2565 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Acme Packing Company"
+      },
+      "author": "Justis Mosqueda",
+      "title": "Skyy Moore had more yards than all other Packers combined vs. the Jets",
+      "description": "Green Bay would not have won on Sunday if not for Skyy Moore\u2019s kick and punt returns",
+      "url": "https://www.acmepackingcompany.com/green-bay-packers-analysis/86791/skyy-moore-had-more-yards-than-all-other-packers-combined-vs-the-jets",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/47c90ddc988a3de0550e0a83fb3a9d81cd5684f813529ab99f9d2c39e24617ae/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fcb0c15b1948bde55b5ef9c9e60a0dd00.jpg",
+      "publishedAt": "2026-09-21T00:30:19Z",
+      "content": "You're going to see some insane stats from the Green Bay Packers win over the New York Jets, because they managed to win the game while having a shaky offense, getting no turnovers and also being pen\u2026 [+2213 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sports Illustrated"
+      },
+      "author": "Jason Phillips",
+      "title": "What Saturday's Big 12 Games Mean for TCU, The Problems Have Faces Now",
+      "description": "UCF, BYU, West Virginia, Texas Tech and Houston revealed the problems TCU football will face as the Horned Frogs begin Big 12 play.",
+      "url": "https://www.si.com/college/tcu/football/tcu-football-big-12-opponents-problems-have-faces",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/5929f8269e80109056c010e07736ee64f0057855cc892bbb523f64cd7c4f6f49/lightyear_networkapi/resizefill_w912_h513%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftcu_horned_frogs_on_si_videos_862%2F9c75708e2530558b6de78780d5bf5dd7.jpg",
+      "publishedAt": "2026-09-21T00:30:01Z",
+      "content": "There comes a point early in every football season when you have to stop talking about what you thought teams were going to be.\r\nWe're about there.\r\nAll offseason, we study returning starters, transf\u2026 [+8808 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Eleanor Mann",
+      "title": "BBC is accused of 'classic overkill' as it cuts Mitchell and Webb sketches over 'racism fears'",
+      "description": "Among the vanished scenes are a blacked-up war re-enactment, a 'tribe' living in a garden centre, and a burqa-wearing contestant in a makeover show.",
+      "url": "https://www.dailymail.com/news/article-16146949/BBC-accused-classic-overkill-cuts-Mitchell-Webb.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/09/21/01/111366093-0-image-m-39_1789950161446.jpg",
+      "publishedAt": "2026-09-21T00:28:38Z",
+      "content": "The BBC has been accused of 'classic overkill' after it removed Mitchell and Webb sketches on iPlayer over 'racism fears'.\u00a0\r\nAll four series of That Mitchell and Webb Look - starring David Mitchell a\u2026 [+2446 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "San Francisco Chronicle"
+      },
+      "author": "Harrison Rich",
+      "title": "George Kittle comes back full circle in 49ers' romp over the Dolphins",
+      "description": "The San Francisco 49ers blew out the Miami Dolphins in a 35-13 romp in their home opener, with George Kittle playing a starring role, scoring a TD and notching his 600th career catch.",
+      "url": "https://www.sfchronicle.com/sports/49ers/article/george-kittle-comes-back-full-circle-49ers-22440804.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/9d51ae30f4970d03aaa63309cb214789770c364d0b89899a4775fa4f7d5897ac/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsan_francisco_chronicle_hearst_178%2Ffa27b67d9aee2810f37df882e5b8119f.jpg",
+      "publishedAt": "2026-09-21T00:25:10Z",
+      "content": "Stepping on a football field eight months to the day after suffering a torn right Achilles was a big, big deal for George Kittle. He commemorated it with an Instagram post and spoke Friday how much i\u2026 [+8445 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Big Cat Country"
+      },
+      "author": "Travis Holmes",
+      "title": "Jaguars Collapse in Second Half, Fall to Broncos",
+      "description": "The Jaguars blow a 10-point lead and suffer their first loss of the 2026 season against the Broncos.",
+      "url": "https://www.bigcatcountry.com/jacksonville-jaguars-analysis/88953/jaguars-collapse-in-second-half-fall-to-broncos",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/05754ca1406261ba81891ab2f0aeecdca59273ed88f72279710a9103502a6eac/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fb3a3bf3f6d80df1311bf0e79d812bc11.jpg",
+      "publishedAt": "2026-09-21T00:24:22Z",
+      "content": "The Jacksonville Jaguars suffered their first defeat of the 2026 season, a tough 20-13 defeat at Mile High Stadium to the Denver Broncos. Following a two-possession third-quarter lead, a frustrating \u2026 [+7052 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mile High Report"
+      },
+      "author": "Scotty Payne",
+      "title": "Winners and Losers from the Denver Broncos\u2019 20-13 victory over the Jacksonville Jaguars",
+      "description": "The Broncos are back! After a rough week coming off a blowout loss in Week 1 to the Kansas City Chiefs, the Broncos bounced back in a big way in Week 2 vs. the Jaguars. They started slow and had some pretty bad red zone moments; however, they came alive in th\u2026",
+      "url": "https://www.milehighreport.com/denver-broncos-news/185870/broncos-jaguars-winners-losers-davis-webb-week-3",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/49fcfc9fe9f72925e6673245bb9c15ebedc12512006aeec3c5b6c8854aa1c335/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fc5cb309b688dd6dc6a0baac937049951.jpg",
+      "publishedAt": "2026-09-21T00:23:23Z",
+      "content": "The Broncos are back!\r\nAfter a rough week coming off a blowout loss in Week 1 to the Kansas City Chiefs, the Broncos bounced back in a big way in Week 2 vs. the Jaguars. They started slow and had som\u2026 [+8021 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Steelersnow.com"
+      },
+      "author": "Alan Saunders",
+      "title": "Saunders\u2019 Steelers Takeaways: No. 1 Issue with Offense is Fixable \u2014 For Now",
+      "description": "FOXBOROUGH, Mass. \u2014 The first game of the Mike McCarthy Era was not a dominant success, but there was plenty [\u2026]",
+      "url": "https://steelersnow.com/saunders-steelers-takeaways-no-1-issue-with-offense-is-fixable-for-now/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/1e023b828800c8db8bd2cc81f57e159f3c57a172d7f7034e642783e3c326976b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsteelers_now_articles_971%2Fb179ed1229acf32b5624653cb9d71277.jpg",
+      "publishedAt": "2026-09-21T00:22:49Z",
+      "content": "FOXBOROUGH, Mass. The first game of the Mike McCarthy Era was not a dominant success, but there was plenty of promise for how things might be drastically different than under the previous regime if y\u2026 [+7751 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Akron Beacon Journal"
+      },
+      "author": "Chris Easterling, Akron Beacon Journal",
+      "title": "Todd Monken's message after win? 'Browns are going to Browns? F--- that'",
+      "description": "Todd Monken denied hearing former Steelers coach Mike Tomlin's comments after a Week 1 loss. The Browns coach referenced it after beating the Bucs.",
+      "url": "https://www.beaconjournal.com/story/sports/pro/browns/2026/09/20/todd-monken-f-bomb-browns-bucs/91820661007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/193678a8b22569c0719682f83784212145682163e38b227183b94da775295329/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fakron-beacon-journal%2F4492a419836a10239e49265e21426c00.jpg",
+      "publishedAt": "2026-09-21T00:20:55Z",
+      "content": "TAMPA, FLA. Todd Monken apparently did hear and does care about what Mike Tomlin had to say.\r\nThe former Pittsburgh Steelers coach, now an analyst on NBC's \"Football Night in America,\" parroted his f\u2026 [+3851 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sporting News"
+      },
+      "author": "Rodney Knuppel",
+      "title": "Caleb Williams injury overshadows Bears\u2019 brutal loss to Vikings",
+      "description": "Chicago\u2019s home opener ended with a painful loss and a frightening injury to its franchise quarterback.",
+      "url": "https://www.sportingnews.com/us/nfl/chicago-bears/news/caleb-williams-injury-overshadows-bears-brutal-loss-vikings/b08cf3f52a5649536d984fa5",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/65d27c2b84f0cb4083e38e99a1a974c07c40de83bc068a98c7dd621dd6f3b7a3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F452689f4406166d78d678f40b42d119b",
+      "publishedAt": "2026-09-21T00:20:14Z",
+      "content": "Caleb Williams injury overshadows Bears' brutal loss to Vikings originally appeared on The Sporting News. Add The Sporting News as a Preferred Source by clicking here.\r\nThe Chicago Bears' first loss \u2026 [+3011 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Www.bvb.de"
+      },
+      "author": "Borussia Dortmund",
+      "title": "BVB Women Consolidate Top Spot After Away Win",
+      "description": "In Freudenberg, Sara Ito\u2014who was rested last weekend\u2014was back on the field from the start in the defensive midfield position. Alongside the 25-year-old, center back Melanie Schuster also returned ...",
+      "url": "https://www.bvb.de/de/en/news/news-overview/news.html/2026/9/20/BVB-Women-Consolidate-Top-Spot-After-Away-Win.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/9e3d6a88b62f283c24aeded90dc4bfdcee1db4dd1be897df522474189b3cb66e/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fborussia_dortmund_articles_399%2F3bbbffa9af03a29649861d49e54fd419.jpg",
+      "publishedAt": "2026-09-21T00:20:00Z",
+      "content": "In Freudenberg, Sara Itowho was rested last weekendwas back on the field from the start in the defensive midfield position. Alongside the 25-year-old, center back Melanie Schuster also returned to th\u2026 [+2938 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Bryan Manning, Commanders Wire",
+      "title": "Commanders' Sam Cosmi suffers late-game injury vs. Cowboys",
+      "description": "Commanders guard Sam Cosmi leaves game against Cowboys with injury.",
+      "url": "https://commanderswire.usatoday.com/story/sports/nfl/commanders/2026/09/20/commanders-sam-cosmi-suffers-late-game-injury-cowboys/91866625007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/7e8db58c15a0618cfe58b2b81f64ee40cdf67843c0cc9e53258ee7cf7ee95f22/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwashington_football_wire_usa_today_sports_articles_166%2F2a7546fbfcfa75a1379678b05bf65e5a.jpg",
+      "publishedAt": "2026-09-21T00:18:02Z",
+      "content": "The Washington Commanders were among the most injured teams in the NFL last season. Things started off worryingly this summer when five-time Pro Bowl left tackle Laremy Tunsil tore his triceps on Aug\u2026 [+1357 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Curt Popejoy, Steelers Wire",
+      "title": "Steelers HC Mike McCarthy leaves door open for roster changes after blowout loss",
+      "description": "After Sunday's loss, Steelers head coach Mike McCarthy didn't rule out making some changes to the starting lineup and we know that means offensive line.",
+      "url": "https://steelerswire.usatoday.com/story/sports/nfl/steelers/2026/09/20/steelers-hc-mike-mccarthy-leaves-door-open-for-roster-changes-after-blowout-loss/91865992007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/9445530e8932e4d786183e1cf075d92e6982b6d0bd8dd148ffaeab16f5bfcadd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpittsburgh_steelers_wire_usa_today_sports_articles_164%2Fd3e928fee892195c427dde2842710112.jpg",
+      "publishedAt": "2026-09-21T00:17:10Z",
+      "content": "Sunday's blowout loss to the New England Patriots was an offensive nightmare for the Pittsburgh Steelers offense. Yes, the defense had some lapses but overall, this loss falls squarely on the offense\u2026 [+1174 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Mike Masala, Dolphins Wire",
+      "title": "Dolphins vs. 49ers: Studs and duds from Miami's ugly Week 2 loss",
+      "description": "The Dolphins fell to the 49ers 35-13 on Sunday at Levi's Stadium. Here were the best and worst performances or aspects for Jeff Hafley's team.",
+      "url": "https://dolphinswire.usatoday.com/story/sports/nfl/dolphins/2026/09/20/dolphins-studs-duds-week-2-49ers/91866807007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/98c10fe66fe4b1663b8f55c400c03c62b35135cc8bcfd941f890f29711a5392d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmiami_dophins_wire_usa_today_sports_articles_974%2F51e958fca2ed89a0ec8cb1caeffcf40d.jpg",
+      "publishedAt": "2026-09-21T00:16:07Z",
+      "content": "The Miami Dolphins took on the San Francisco 49ers on Sunday at Levi's Stadium, and they fell 35-13 to drop to an 0-2 record to start Jeff Hafley's tenure in South Florida.\r\nMiami, once again, strugg\u2026 [+2250 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sporting News"
+      },
+      "author": "Rodney Knuppel",
+      "title": "Patriots quietly make NFL history in blowout win over Steelers",
+      "description": "New England became the first original AFL franchise to reach a remarkable win total.",
+      "url": "https://www.sportingnews.com/us/nfl/new-england-patriots/news/patriots-quietly-make-nfl-history-blowout-win-over-steelers/5335bec1cab6f184ae4070e4",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/7b787ddb34bc13a3921352886f73be483fc8863dc7243e4737571b0bdb6148e5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F353300f3d37078869b555da6d264f019",
+      "publishedAt": "2026-09-21T00:13:21Z",
+      "content": "Patriots quietly make NFL history in blowout win over Steelers originally appeared on The Sporting News. Add The Sporting News as a Preferred Source by clicking here.\r\nThe New England Patriots' 20-3 \u2026 [+3156 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pro Football Network"
+      },
+      "author": "Ash Anjum",
+      "title": "\u2018We Are Watching Greatness\u2019 \u2014 CFB Analyst Makes Bold Case for Ole Miss Star Trinidad Chambliss to Be \u2018QB1\u2019 in 2027 NFL Draft",
+      "description": "The LSU Tigers erased the Ole Miss Rebels\u2019 17-point halftime lead and tied the game 24-24 with 11:21 remaining Saturday night. Trinidad Chambliss later broke the tie with a 14-yard touchdown run with just over six minutes left, and the Rebels won 32-24.",
+      "url": "https://www.profootballnetwork.com/cfb/cfb-analyst-backs-trinidad-chambliss-to-be-2027-nfl-draft-qb1/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/ee5c3c2cd739e0869fafb2b6a3b0b818ed673a09f6ec6cb44af8b2408abe54e9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpro_football_network_512%2Fc8aa8d19fc097c6d122aff1fe1d9a535.jpg",
+      "publishedAt": "2026-09-21T00:10:21Z",
+      "content": "The LSU Tigers erased the Ole Miss Rebels' 17-point halftime lead and tied the game 24-24 with 11:21 remaining Saturday night. Trinidad Chambliss later broke the tie with a 14-yard touchdown run with\u2026 [+3303 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Niners Nation"
+      },
+      "author": "Rohan Chakravarthi",
+      "title": "3 quick takeaways from the 49ers\u2019 runaway win over the Dolphins",
+      "description": "The Niners handled business in a big way against the Dolphins.",
+      "url": "https://www.ninersnation.com/san-francisco-49ers-news/162979/san-francisco-49ers-news-3-quick-takeaways-blowout-win-miami-dolphins-week-2-brock-purdy",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/e6d6dcdf794f1825b0d37b694889ab5781024e306831b840ecc31842dcf7abd5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F5762e18b3614ce8fe63510c484158804.jpg",
+      "publishedAt": "2026-09-21T00:10:00Z",
+      "content": "The San Francisco 49ers entered the weekend as the biggest favorite in Week 2, and they played like it, dominating the Miami Dolphins 35-13 to start the season 2-0.\r\nIn a slower-paced game, the 49ers\u2026 [+2969 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Steve Rosenberg",
+      "title": "Russia's elections had few surprises - but how the Kremlin uses the results is far from clear",
+      "description": "Vladimir Putin will likely use the result to claim most Russians back the so-called special military operation in Ukraine, writes the BBC's Steve Rosenberg.",
+      "url": "https://www.bbc.com/news/articles/cx4gqv239043o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/acbc/live/b0aa9520-b54b-11f1-bc1f-3f186ca4140c.jpg",
+      "publishedAt": "2026-09-21T00:08:48Z",
+      "content": "\"Some of our candidates, who should have been running, are in jail, many were barred from running and some of our election observers weren't registered and were unable to keep an eye on the voting,\" \u2026 [+12 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Chris Ward",
+      "title": "Steelers offense not good enough: \u2018That starts with me\u2019",
+      "description": "Pittsburgh Steelers head coach Mike McCarthy put the blame on himself for Sunday\u2019s 20-3 loss to the New England Patriots.",
+      "url": "https://sports.yahoo.com/articles/steelers-offense-not-good-enough-000706795.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/bc1b0d4af03964d811368a54e767b7f22e297499104eb558d5264b5e86a27b6b/lightyear_networkapi/resizefill_w300_h169%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwpxi_cox_articles_540%2F6a659740611acc6a4d2571783864d240.jpg",
+      "publishedAt": "2026-09-21T00:07:06Z",
+      "content": "This article originally appeared on SteelersNOW.com.\r\nPittsburgh Steelers head coach Mike McCarthy put the blame on himself for Sunday's 20-3 loss to the New England Patriots.\r\n\"Offensively, clearly \u2026 [+1423 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lone Star Ball"
+      },
+      "author": "Adam J. Morris",
+      "title": "Thoughts on a 7-2 Rangers loss",
+      "description": "Jays 7, Rangers 2",
+      "url": "https://www.lonestarball.com/game-thoughts/93892/thoughts-on-a-7-2-rangers-loss",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/6a6fc972fa9dc24a625b46ef3dbcd08235af347af360222d6c91663746644104/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F6c09965dff43631372814e01bcf502d9.jpg",
+      "publishedAt": "2026-09-21T00:05:47Z",
+      "content": "<li>I regret to inform you that there was no sweep of Toronto this weekend.\r\n</li><li>Herbie had to remain in hibernation.\r\n</li><li>I'd be more upset about this game but for the fact that the Ranger\u2026 [+3373 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Brandon Carwile and Zach Kruse, Packers Wire",
+      "title": "6 standouts from Packers' Week 2 win over the Jets",
+      "description": "Highlighting the standouts from the Packers' comeback win over the Jets in Week 2.",
+      "url": "https://packerswire.usatoday.com/story/sports/nfl/packers/2026/09/20/6-standouts-from-packers-week-2-win-over-the-jets/91866552007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/f60baaf25d89084329524085976305eac7cc38011d2cf340cf5d5a59e4ed7c79/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgreen_bay_packers_wire_usa_today_sports_articles_327%2Fd938e2ffe4f0aaffc77f28fc7b677713.jpg",
+      "publishedAt": "2026-09-21T00:05:36Z",
+      "content": "Remember when Rocky Balboa gets the crap beat out of him but never gives up? I guess that's all the Rocky movies, but it could serve as a good depiction of the Green Bay Packers' 20-17 come-from-behi\u2026 [+3843 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "Tim Wharnsby",
+      "title": "Tempo fans applaud team despite loss to Liberty in home finale of inaugural campaign",
+      "description": "Breanna Stewart scored a game-high 27 points with eight rebounds and four assists in the New York Liberty\u2019s 106-69 win against the expansion Toronto Tempo on Sunday.",
+      "url": "https://www.cbc.ca/sports/basketball/toronto-tempo-new-york-liberty-recap-sept20-9.7351643",
+      "urlToImage": "https://i.cbc.ca/ais/997f819d-dd6e-41e3-91e0-3ced095796a2,1789948986311/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C625%2C6000%2C3375%29%3BResize%3D620",
+      "publishedAt": "2026-09-21T00:05:31Z",
+      "content": "Breanna Stewart scored a game-high 27 points with eight rebounds and four assists in the New York Libertys 106-69 win against the expansion Toronto Tempo on Sunday.\r\nThe defeat did not appear to damp\u2026 [+1289 chars]"
+    },
     {
       "source": {
         "id": "bbc-news",
@@ -911,383 +1288,6 @@
       "urlToImage": "https://i.abcnewsfe.com/a/6eada50b-3694-437e-83d9-4e05712ff5c1/wirestory_cc669999ff89b8eb6aca66540100ec97_16x9.jpg?w=1600",
       "publishedAt": "2026-09-20T22:42:52Z",
       "content": "SHENDI, Sudan -- A gold mine shaft collapsed in northeastern Sudan, killing at least 11 miners and injuring 30, a state official said Sunday, while a search continued for the missing under the debris\u2026 [+1761 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sportsnetpittsburgh.com"
-      },
-      "author": "Ryleigh Tupper",
-      "title": "Stunning Aaron Rodgers, Mike McCarthy Stat Sums Up Steelers' Offensive Woes",
-      "description": "The Steelers couldn't find the end zone against the Patriots, giving Aaron Rodgers and Mike McCarthy a rare touchdown-less game.",
-      "url": "https://sportsnetpittsburgh.com/pittsburgh-steelers/news/aaron-rodgers-mike-mccarthy-stat-steelers-offensive-zero-touchdowns/69dd2c281305d89cacdc0dfd",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/d347a3ea60e05a0d97b0066243b9335b0e1b39d7b7f94bff7571017cc35e7194/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsportsnet_pittsburgh_articles_927%2F7db74ce8bab3e905c06b665085f321e7",
-      "publishedAt": "2026-09-20T22:41:11Z",
-      "content": "Stunning Aaron Rodgers, Mike McCarthy Stat Sums Up Steelers' Offensive Woes originally appeared on SportsNet Pittsburgh. Add SportsNet Pittsburgh as a Preferred Source by clicking here.\r\nThe Pittsbur\u2026 [+2681 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Deseret News"
-      },
-      "author": "Joe Coles",
-      "title": "\u2018A different type of focus for him\u2019: Utah\u2019s Braden Pegan has a sensational day against his former team",
-      "description": "Pegan had the second-most-productive day of his career against his former school.",
-      "url": "https://www.deseret.com/sports/2026/09/20/utah-utes-braden-pegan-performance-against-utah-state/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/9cea3fb7110e7fa53364ce9585156052ce758dfd46824d574155c8f7c4163c28/lightyear_networkapi/resizefill_w800_h452%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeseret_news_992%2F2e9e02461c2bd7f06184b0c80f98df21.jpg",
-      "publishedAt": "2026-09-20T22:40:18Z",
-      "content": "Utah receiver Braden Pegan downplayed facing his former team in Saturday's postgame press conference following the Utes' 33-0 win over the Utah State Aggies.\r\n\"I love those guys over there, but we do\u2026 [+4517 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Palm Beach Post"
-      },
-      "author": "Eric J. Wallace, Palm Beach Post",
-      "title": "Dolphins special teams blunder caps second-half collapse vs. 49ers",
-      "description": "Bradley Pinion's third-quarter mistake underscored another Dolphins second-half collapse after Miami was competitive for much of the first half.",
-      "url": "https://www.palmbeachpost.com/story/sports/nfl/dolphins/2026/09/20/miami-dolphins-san-francisco-49ers/91716571007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/ff7333f958a178d2e345ab70be046926f4a40b36c693c981bdb8de6592397cbc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpalm_beach_post_natl_articles_437%2F66dd961817b8c186447835b762e4a0d2.jpg",
-      "publishedAt": "2026-09-20T22:38:59Z",
-      "content": "The Miami Dolphins' second-half unraveling against the San Francisco 49ers was perhaps best illustrated by a special teams blunder from punter Bradley Pinion.\r\nTrailing 28-6 midway through the third \u2026 [+1005 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Evan Massey",
-      "title": "Sports Doctor Weighs in on Washington Commanders QB Jayden Daniels\u2019 Injury",
-      "description": "The Washington Commanders and quarterback Jayden Daniels entered Week 2 action looking to pull off an upset over the NFC East rival Dallas Cowboys. Unfortunately, despite hanging with the Cowboys in the first half, the Commanders suffered a devastating setbac\u2026",
-      "url": "https://sports.yahoo.com/articles/sports-doctor-weighs-washington-commanders-223727393.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/2c9f2c5db4998082eba971629fe0311ec4a50b227caf7b356531adfa630b8272/lightyear_networkapi/resizefill_w900_h600%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2F171cdcf745c341543a908ca715f5e363.jpg",
-      "publishedAt": "2026-09-20T22:37:27Z",
-      "content": "The Washington Commanders and quarterback Jayden Daniels entered Week 2 action looking to pull off an upset over the NFC East rival Dallas Cowboys. Unfortunately, despite hanging with the Cowboys in \u2026 [+2825 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ClutchPoints"
-      },
-      "author": "Yago Antunes, ClutchPoints",
-      "title": "Steelers: Why Rodgers won't mash panic button after he, DK Metcalf lay stinky eggs",
-      "description": "Pittsburgh Steelers quarterback Aaron Rodgers faced a tough outing against the New England Patriots in Week 2. The game was highlighted by a fourth-quarter fumble in his own territory, which Christian Barmore knocked loose and Elijah Ponder returned for a cri\u2026",
-      "url": "https://clutchpoints.com/nfl/pittsburgh-steelers/steelers-news-why-aaron-rodgers-wont-mash-panic-button-after-he-dk-metcalf-lay-stinky-eggs-vs-patriots",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/9a45611dbb00223cccf1cb4cb83d7f80476f5ecabb8f98991b08ac5f618edb00/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fclutchpoints_articles_939%2Fcb03ff7896bc31a96b81456a40d9b6ae.jpg",
-      "publishedAt": "2026-09-20T22:36:36Z",
-      "content": "Steelers: Why Rodgers won't mash panic button after he, DK Metcalf lay stinky eggs appeared first on ClutchPoints. Add ClutchPoints as a Preferred Source by clicking here.\r\nPittsburgh Steelers quarte\u2026 [+1728 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Dom Skene, Seahawks Wire",
-      "title": "WATCH: JSN puts Seahawks on top with 2nd touchdown of day vs Cardinals",
-      "description": "Seattle Seahawks wide receiver Jaxon Smith-Njigba scored his second touchdown of the afternoon to put the Seahawks up 14-7 over the Arizona Cardinals.",
-      "url": "https://seahawkswire.usatoday.com/story/sports/nfl/seahawks/2026/09/20/jaxon-smith-njigbas-2nd-td-gives-seahawks-14-7-lead-over-cardinals/91865971007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/3096af8883aff10f4e335d5bc207dc9e360352fa450489b275fba60901b3f1c9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fseattle_seahawks_wire_usa_today_sports_articles_798%2Fd8e739653c3aa628b44cac9d06ba228f.jpg",
-      "publishedAt": "2026-09-20T22:36:25Z",
-      "content": "Seattle Seahawks wide receiver Jaxon Smith-Njigba scored his second touchdown of the afternoon on the opening drive of the third quarter to put the Seahawks up 14-7 over the Arizona Cardinals.\r\nWATCH\u2026 [+664 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Jori Epstein",
-      "title": "Mike Vrabel when asked about Drake Maye's game vs. Steelers: 'You're not going to ruin my Sunday'",
-      "description": "As the Patriots face a stiffer schedule, the question will linger: Have defenses gotten a beat on the blueprint to handle Maye? Are the Patriots simply facing tougher defenses and teams than their light schedule last season?",
-      "url": "https://sports.yahoo.com/nfl/article/mike-vrabel-when-asked-about-drake-mayes-game-vs-steelers-youre-not-going-to-ruin-my-sunday-223604225.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/85da51acf22af64ec545914f237b45c2ccac732f05fec7092978e74327de7b48/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2Ffa3a0a84-e31e-4951-82a2-54f6236da270",
-      "publishedAt": "2026-09-20T22:36:04Z",
-      "content": "Back at 1-1 thanks to a defense that thoroughly outmatched the Pittsburgh Steelers' offense, New England Patriots head coach Mike Vrabel dismissed concerns.\r\nHis offense had net 327 yards and 13 poin\u2026 [+7244 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Jim Keller, USA TODAY",
-      "title": "Jaylen Warren totals 77 yards in Week 2 against New England",
-      "description": "Jaylen Warren goes for 77 yards on 13 touches in Week 2 loss to New England.",
-      "url": "https://www.usatoday.com/story/sports/fantasy/player-updates/2026/09/20/jaylen-warren-turns-13-touches-into-77-yards-in-week-2-vs-patriots/91865947007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/34412f976ef87d160eafe1be87613cf12c4e173be652ef1961ea55b6bf461de7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F79f554ce5ae2200579993658ccc6795f.jpg",
-      "publishedAt": "2026-09-20T22:34:02Z",
-      "content": "Pittsburgh Steelers RB Jaylen Warren carried 11 times for 43 yards and caught two of four targets for 34 yards in a Week 2 loss to New England Patriots.\r\nSOURCE: USA TODAY\r\nWhy It Matters: It's been \u2026 [+504 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sports Illustrated"
-      },
-      "author": "Mark Kern",
-      "title": "3MAW Podcast Breaks Down K-State's 31-20 Win Against Tulane in Week 3",
-      "description": "The 3MAW podcast broke down K-State's 31-20 victory against Tulane in Week 3.",
-      "url": "https://www.si.com/college/kstate/latest-news/3maw-podcast-breaks-down-k-state-s-31-20-win-against-tulane-in-week-3-01m2zn74d6fz",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/d29b96b49172ed61f5fc194142aa45d58c0e6cedaeaf818dee9ae2ba695b7502/lightyear_networkapi/resizefill_w912_h513%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fkansas_state_wildcats_on_si_908%2F5270b89e5b9f2831304423d04d84ecef.jpg",
-      "publishedAt": "2026-09-20T22:32:02Z",
-      "content": "K-State capped off the nonconference portion of its schedule with a 31-20 victory over Tulane to move to 3-0. It wasn't the best the team has looked this year, but the Wildcats took control late in t\u2026 [+2593 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Chris Bumbaca, USA TODAY",
-      "title": "'Never seen him go down': Bears' locker room reacts to Caleb Williams injury",
-      "description": "Caleb Williams' Bears teammates were concerned but optimistic about the quarterback's status after he was injured vs. the Vikings. Here's what they said.",
-      "url": "https://www.usatoday.com/story/sports/nfl/bears/2026/09/20/caleb-williams-injury-bears-reaction-vikings/91865509007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/9de8b1982304b23508504be8e697881bbfb05af681f4cb24a350456502c289c0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2Fab7d446c6f661fe44ddc7f9b76a974cc.jpg",
-      "publishedAt": "2026-09-20T22:31:50Z",
-      "content": "CHICAGO The feeling isn't one of relief, or even that the Chicago Bears somehow dodged a bullet in their 9-3 loss Sunday, Sept. 20, to the Minnesota Vikings. But that the season still has a modicum o\u2026 [+5089 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Phil Harrison, Buckeyes Wire",
-      "title": "Five things we learned from Ohio State during its win vs. Kent State",
-      "description": "Ohio State dominated Kent State on Saturday. We give you five things we think we learned about the Buckeyes in victory.",
-      "url": "https://buckeyeswire.usatoday.com/story/sports/college/buckeyes/football/2026/09/20/ohio-state-vs-kent-state-reaction-5-things-takeaways/91864801007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/f2a3835fc036f07a622571a8a2302424aa41996d9b2ea7481bd5801e15af52f8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuckeyes_wire_usa_today_articles_592%2Fee0dd966df38b1974e1b5176c2f7b392.jpg",
-      "publishedAt": "2026-09-20T22:29:56Z",
-      "content": "Not everything was a clinic on college football 101 Saturday, but Ohio State still won easily, 59-3 over Kent State, to improve its record to 2-1. Plenty of guys got involved, Jeremiah Smithset a rec\u2026 [+4961 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Andrew Greif",
-      "title": "Commanders quarterback Jayden Daniels leaves game vs. Cowboys with elbow injury",
-      "description": "Washington Commanders quarterback Jayden Daniels was ruled out of his team\u2019s Week 2 matchup against the Dallas Cowboys after suffering an elbow injury late in the first half.",
-      "url": "https://www.nbcnews.com/sports/nfl/commanders-quaterback-jayden-daniels-injured-cowboys-nfl-rcna598885",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260920-Jayden-Daniels-nfl-cowboys-ww-1512-af00f6.jpg",
-      "publishedAt": "2026-09-20T22:26:15Z",
-      "content": "Washington Commanders quarterback Jayden Daniels was ruled out of his teams Week 2 matchup against the Dallas Cowboys after suffering an elbow injury late in the first half.\r\nWith the Commanders one \u2026 [+1185 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NBCSports.com"
-      },
-      "author": "Charean Williams",
-      "title": "Jayden Daniels ruled out with left elbow injury",
-      "description": "The Commanders quarterback dislocated the same elbow in a November game against the Seahawks in 2025.",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jayden-daniels-ruled-out-with-left-elbow-injury",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/f6c0e24/2147483647/strip/true/crop/3216x1809+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fff%2Fab%2F73ebb09d4b5ca4746c24333c025d%2F2296299926.jpg",
-      "publishedAt": "2026-09-20T22:24:11Z",
-      "content": "The Commanders have ruled out quarterback Jayden Daniels with a left elbow injury. \r\nBy appearances, Daniels could be out much longer than just the second half.\r\nThe injury happened similarly to the \u2026 [+914 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Frank Schwab",
-      "title": "NFL Week 2 Winners and Losers: Deshaun Watson has his best moment for Browns in win, likely keeps job for another week",
-      "description": "Deshaun Watson came into Sunday's game needing a big performance.",
-      "url": "https://sports.yahoo.com/nfl/article/nfl-week-2-winners-and-losers-deshaun-watson-has-his-best-moment-for-browns-in-win-likely-keeps-job-for-another-week-222344641.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/69673393cb43a00934eb311bc490ace69c244d1326bc30dc0e3986ea8f02f710/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F7ec576e2-a553-43ca-bfcc-b96c27e44de1",
-      "publishedAt": "2026-09-20T22:23:44Z",
-      "content": "The Cleveland Browns waited a long time for some positive vibes on Deshaun Watson. Then they waited some more.\r\nThe Browns, led by two Watson touchdown passes in the second half, beat the Tampa Bay B\u2026 [+11913 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "SCHUYLER DIXON",
-      "title": "Commanders QB Jayden Daniels injures the same left elbow he dislocated last year",
-      "description": "Jayden Daniels was taken off on a cart and ruled out for the game after the Washington Commanders quarterback injured his left elbow on a botched play against the Dallas Cowboys on Sunday. Daniels missed all but one game in the second half of last season afte\u2026",
-      "url": "https://sports.yahoo.com/articles/commanders-qb-jayden-daniels-injures-222211086.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/59aebb3493ace1a318bc214be9d347218984203a3a7506c9f81065ea6a2e5cc4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fc116cbf20951a4fbb34b2cb7052133f1.jpg",
-      "publishedAt": "2026-09-20T22:22:11Z",
-      "content": "ARLINGTON, Texas (AP) Jayden Daniels was taken off on a cart and ruled out for the game after the Washington Commanders quarterback injured his left elbow on a botched play against the Dallas Cowboys\u2026 [+1216 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CBS Sports"
-      },
-      "author": "Carter Bahns",
-      "title": "NFL Week 2 winners, losers: Bengals put everything together, Bears' offense stalls without Caleb Williams",
-      "description": "Cincinnati's defensive effort and Chicago's costly injury are among this week's highlights and lowlights",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-2-winners-losers-bengals-bears/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/09/20/ed4aeb39-8a1b-498a-8f61-064580c496f4/thumbnail/1200x675/5838ca56ccfa3048472cdcbcce70e5ef/gettyimages-2296269825-1-1.jpg",
-      "publishedAt": "2026-09-20T22:21:03Z",
-      "content": "The second week of the NFL season always delivers clarity. It is where the takeaways from Week 1 are put to the test. Season-opening results either become trends or one-time occurrences, for better o\u2026 [+5631 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dawgs By Nature"
-      },
-      "author": "Chris Pokorny",
-      "title": "Cleveland Browns vs. Tampa Bay Buccaneers recap: Deshaun Watson delivers in second half win, after long weather delay",
-      "description": "After a long weather delay, we have a final score in Cleveland-Tampa Bay.",
-      "url": "https://www.dawgsbynature.com/cleveland-browns-scores-results/132955/cleveland-browns-vs-tampa-bay-buccaneers-recap-deshaun-watson-delivers-in-second-half-win-after-long-weather-delay",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/390c6f50c4d69c883d26acbb7463d2ff0543887e1251b81e58757e555ecaa25f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F986dfb07dfea0f36ba15ff44eb2f81d5.jpg",
-      "publishedAt": "2026-09-20T22:19:12Z",
-      "content": "The Cleveland Browns gave a much better effort than the opening week. Instead of being down 24-0 early in the second quarter, they were only losing 9-6 at halftime to the Tampa Bay Buccaneers. The of\u2026 [+13557 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Zach Kruse, Packers Wire",
-      "title": "3 big things from Packers' win over Jets: LVN erupts, Skky Moore shines",
-      "description": "Three big things from the Packers' win over the Jets: Lukas Van Ness, Skky Moore and more OL injuries.",
-      "url": "https://packerswire.usatoday.com/story/sports/nfl/packers/2026/09/20/3-big-things-from-packers-win-over-jets-lvn-erupts-skky-moore-shines/91865409007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/70eeb1fe1c55583c7731dd81b048995d50ddad12db3d18b2d33cb158b7dbcbc3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgreen_bay_packers_wire_usa_today_sports_articles_327%2F36023ffa505ff2f9d5b2c96cf7bfa94d.jpg",
-      "publishedAt": "2026-09-20T22:17:22Z",
-      "content": "The Green Bay Packers scored 10 points in the fourth quarter to erase a 17-7 deficit and won in overtime on Trey Smack's 26-yard field goal, beating the New York Jets by a 20-17 final and snapping th\u2026 [+3369 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indianapolis Star"
-      },
-      "author": "Brian Haenchen, Indianapolis Star",
-      "title": "Dismal first half dooms Indiana Fever in pivotal loss to Washington Mystics",
-      "description": "The Indiana Fever had a poor first half, perhaps worst of the season, and couldn't quite overcome a dismal performance. Here's what we learned.",
-      "url": "https://www.indystar.com/story/sports/basketball/wnba/fever/2026/09/20/indiana-fever-score-washington-mystics-loss-caitlin-clark-player-stats-wnba-standings-record/91811696007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/edc272581fbbff7db7d7934e428ed722753e5030e802a8ebd0f1bbe66bf65722/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Findystar-the-indianapolis-star%2Fb6d3953f3ac271a4c0a025142c9c58be.jpg",
-      "publishedAt": "2026-09-20T22:14:32Z",
-      "content": "INDIANAPOLIS The Indiana Fever played their biggest game of the season to date Sunday, a late-season clash with the Washington Mystics that carried heavy implications for their postseason future and \u2026 [+5086 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Christian D'Andrea, For The Win",
-      "title": "Jayden Daniels injury update: What happened to the Commanders QB?",
-      "description": "Disaster struck at the worst possible moment for the former rookie of the year.",
-      "url": "https://ftw.usatoday.com/story/sports/nfl/2026/09/20/jayden-daniels-injury-update-what-happened-commanders-qb-cowboys/91865434007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/48965b456db67b9e1aabc43364e792b7190cafc0faf6c86a526f84c19f4c6240/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fftw_outdoors_usa_today_article_609%2F55eb56a280da4864745f384c97c9a171.jpg",
-      "publishedAt": "2026-09-20T22:09:21Z",
-      "content": "Jayden Daniels was a ray of sunshine for a franchise accustomed to season-destroying storms. The second overall pick of the 2024 NFL Draft made an immediate impact for the Washington Commanders. He w\u2026 [+1955 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NetsDaily"
-      },
-      "author": "Net Income",
-      "title": "NetsDaily Off-Season Report \u2013 No. 23",
-      "description": "Every weekend, we update the Nets off-season with information, gossip, etc. to help fans get ready for \u2026 whatever.",
-      "url": "https://www.netsdaily.com/off-season-report/114009/netsdaily-off-season-report-no-23",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/bd34d8132fe13b69c48887bd1d85bb145cf2862206f34dfeb635d7b28549b94f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F4f2417472fdc096e4670ab7dc77b3151.jpg",
-      "publishedAt": "2026-09-20T22:09:18Z",
-      "content": "Only one more Off-Season Report left! Don't tell us about this being a quiet off-season! It hasn't been easy finding a lot to write home about! There was big news like Mikel Brown Jr.'s debut and Ego\u2026 [+12700 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dailymail.com"
-      },
-      "author": "Jake Fenner",
-      "title": "Shellshocked Tom Brady curses on live TV after watching grisly replay of Jayden Daniels' latest sickening injury",
-      "description": "The Washington Commanders are in fear over an injury to starting quarterback Jayden Daniels that caused Fox Sports commentator Tom Brady to curse on national television.",
-      "url": "https://www.dailymail.com/sport/nfl/article-16146887/tom-brady-jayden-daniels-injury-commanders-cowboys.html",
-      "urlToImage": "https://i.dailymail.com/1s/2026/09/20/23/111364165-0-image-m-113_1789942009184.jpg",
-      "publishedAt": "2026-09-20T22:08:46Z",
-      "content": "The Washington Commanders are in fear over an injury to starting quarterback Jayden Daniels that caused Fox Sports commentator Tom Brady to curse on national television.\r\nDuring the late-window game \u2026 [+572 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Jets collapse late against Packers, miss chance at first 2-0 start since 2015 in overtime loss",
-      "description": "The New York Jets blew a 17-7 fourth quarter lead as the Green Bay Packers scored 13 unanswered points to win 20-17 in overtime at MetLife Stadium.",
-      "url": "https://www.foxnews.com/outkick-sports/jets-collapse-late-against-packers-miss-chance-first-2-0-start-since-2015-overtime-loss",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/jets-packers-fan-metlife-stadium-fox-news_.jpg",
-      "publishedAt": "2026-09-20T22:07:57Z",
-      "content": "For most of Sunday afternoon, the New York Jets looked poised to move to 2-0 for the first time since 2015. The Jets controlled most of the game against the Green Bay Packers at MetLife Stadium, but \u2026 [+3773 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Ariana Pensy, Texans Wire",
-      "title": "Studs and duds from Houston\u2019s 20-6 loss to the Bengals",
-      "description": "Here are our studs and duds following the Houston Texans' 20-6 loss to the Cincinnati Bengals to drop to 0-2 for the second straight year.",
-      "url": "https://texanswire.usatoday.com/story/sports/nfl/texans/2026/09/20/texans-bengals-studs-and-duds-cj-stroud-david-montgomery/91865339007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/9637753d73071346f1cde9cc5133195896178944887ad9931a9f0441b0d5f632/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhouston_texans_wire_usa_today_sports_articles_548%2Fbb685f9893e112ffaf54b3fbf21205ad.png",
-      "publishedAt": "2026-09-20T22:07:49Z",
-      "content": "For the second straight season, the Houston Texans have started the year with an 0-2 record after falling to the Cincinnati Bengals.\r\nThis loss looked completely different than their season opener as\u2026 [+6262 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "BRENDAN McGAIR",
-      "title": "Aaron Rodgers blames himself after Steelers' offense struggles again in loss to Patriots",
-      "description": "A year ago, Aaron Rodgers engineered a drive at Gillette Stadium that helped the Pittsburgh Steelers beat the team that went on to represent the AFC in the Super Bowl. Rodgers wasn't solely to blame. The Steelers' offensive line surrendered four sacks, while \u2026",
-      "url": "https://sports.yahoo.com/articles/aaron-rodgers-blames-himself-steelers-220739607.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/1cbbf9e8ca46f10634cd9e07f4fc30ee5eb82faede817bfa5b815e6cef1a3d27/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F524abb9474f05025465b03757da6a029.jpg",
-      "publishedAt": "2026-09-20T22:07:39Z",
-      "content": "FOXBOROUGH, Mass. (AP) A year ago, Aaron Rodgers engineered a drive at Gillette Stadium that helped the Pittsburgh Steelers beat the team that went on to represent the AFC in the Super Bowl.\r\nThat ve\u2026 [+2601 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Jordy McElroy, Patriots Wire",
-      "title": "Patriots get devastating injury update on longtime offensive lineman",
-      "description": "Patriots veteran offensive lineman Mike Onwenu is reportedly feared to have suffered a season-ending injury in Sunday's win over the Steelers.",
-      "url": "https://patriotswire.usatoday.com/story/sports/nfl/patriots/2026/09/20/patriots-injury-update-mike-onwenu/91865336007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/f6988a8b68e80463a7119d6d058e6d6954eda70368ceca5227c2c52df85874a3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnew_england_patriots_wire_usa_today_sports_articles_330%2F734610061454e3366943d49ab04d5b9f.jpg",
-      "publishedAt": "2026-09-20T22:07:35Z",
-      "content": "There are reportedly concerns that New England Patriots longtime offensive lineman Mike Onwenu might miss the rest of the season with the leg injury that he suffered in the Week 2 win over the Pittsb\u2026 [+1122 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sports Illustrated"
-      },
-      "author": "Lorenzo Reyna",
-      "title": "Colorado's First Loss Exposes Bigger Concerns for Deion Sanders",
-      "description": "Coach Deion Sanders and the Buffaloes took a beatdown against Northwestern, which sparks these new dilemmas for Colorado moving forward.",
-      "url": "https://www.si.com/college/colorado/football/colorado-buffaloes-first-loss-exposes-bigger-concerns-deion-sanders",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/872bb57d84a254b8c83eb4286e0718be9e32519dec7fa9a7430600f25d8da2bb/lightyear_networkapi/resizefill_w912_h513%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcolorado_buffaloes_on_si_videos_246%2F83fb48a8195281e3a73ac6fb0f93f999.jpg",
-      "publishedAt": "2026-09-20T22:03:07Z",
-      "content": "The Northwestern Wildcats disrupted the Colorado Buffaloes' sudden 2026 momentum in a lopsided way on Sept. 19.\r\nThat 41-7 beatdown performed by the Big Ten representative sounds off a new alarm for \u2026 [+4277 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Big Lead"
-      },
-      "author": "Hunter Hodies",
-      "title": "Mike Onwenu injury update: Latest news on Patriots offensive guard",
-      "description": "This is the latest injury update on New England Patriots guard Mike Onwenu.",
-      "url": "https://www.thebiglead.com/mike-onwenu-injury-update-latest-news-on-patriots-offensive-guard/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/07c66142a48db7d6820141162f7a898702d8f21f65aeadca4e9e3e2042bd07ce/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_big_lead_articles_114%2F7e4187c5ed7b6542c3706bdd701364ae.jpg",
-      "publishedAt": "2026-09-20T22:02:50Z",
-      "content": "The New England Patriots lost offensive guard Mike Onwenu to a leg injury during Sunday's game against the Pittsburgh Steelers.\r\nSteelers star pass rusher T.J. Watt tried to sack Patriots quarterback\u2026 [+1128 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Brock Vierra, Rams Wire",
-      "title": "Nate Scheelhaase reflects on his debut as Rams\u2019 offensive coordinator",
-      "description": "The Rams didn\u2019t play the way they hoped, but Nate Scheelhaase says the communication was just what the staff wanted.",
-      "url": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/09/20/nate-scheelhaase-reflects-on-his-debut-as-rams-offensive-coordinator/91858730007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/8a52bcbf66c38fb698f8b204102b4826c53212b8937af7ceb55a09703bb3e790/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flos_angeles_rams_wire_usa_today_sports_articles_716%2F1458d4182fbfafe9f8716aeded37c646.jpg",
-      "publishedAt": "2026-09-20T22:02:15Z",
-      "content": "Nate Scheelhaase made his official debut as the Los Angeles Rams' offensive coordinator last week, and despite issues with the offense, there were a lot of positive takeaways from the defeat.\r\nRecent\u2026 [+1555 chars]"
     }
   ]
 }

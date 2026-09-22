@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 90,
+  "totalResults": 91,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Will Hallowell, Sabrina Penty",
+      "title": "Ukraine fires new homemade Pelican ballistic missile in largest attack on Moscow yet - as fears grow across Europe that Putin is preparing to attack",
+      "description": "Pelican refers to the FP-7 ground-launched ballistic missile that was developed in Ukraine by defence technology company Fire Point.",
+      "url": "https://www.dailymail.com/news/article-16146989/Ukraine-fires-new-homemade-Pelican-ballistic-missile-largest-attack-Moscow-fears-grow-Europe-Putin-preparing-attack.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/09/21/01/111356493-0-image-m-84_1789949781452.jpg",
+      "publishedAt": "2026-09-21T00:33:13Z",
+      "content": "Ukraine has fired a new homemade ballistic missile at Russia in the country's largest attack on Moscow\u00a0since the start of the war.\u00a0\r\nOn Sunday night, the final day of the Russian election, Ukraine st\u2026 [+13045 chars]"
+    },
     {
       "source": {
         "id": null,
