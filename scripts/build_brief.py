@@ -12,13 +12,26 @@ run.
 
 Retrieval-level noise control (tighter queries, title-only matching,
 excluded domains) lives in topics.py / fetch_news.py -- see topics.py
-"Noise-control tools". This script's job is layout only: a jump-to-topic
-nav bar (the page can easily be 500+ articles across 16 sections), and
-per-topic article lists capped to a preview count with the rest tucked
-behind a native <details> "show more" toggle, so the page reads as a
-dashboard you scan rather than a feed you scroll through top to bottom.
+"Noise-control tools". This script's job is layout and presentation:
+
+- A jump-to-topic nav bar (the page can easily be 500+ articles across
+  16 sections) using each topic's plain-language label, not its internal
+  T01-style code -- those codes still exist as anchor ids in the HTML
+  (view-source or the URL fragment shows them) for anyone maintaining
+  topics.py, but a reader never sees them.
+- Per-topic article lists capped to a preview count with the rest tucked
+  behind a native <details> "show more" toggle.
+- Each article renders both NewsAPI's `description` and, when it adds
+  anything beyond that, its (free-tier-truncated) `content` field --
+  see TRUSTED_SOURCES and _CONTENT_TRUNCATION_RE below for what that
+  actually gives you and its limits.
+- Articles are re-sorted (rank_articles) so recognized wire services and
+  national broadcasters (Reuters, AP, BBC, Al Jazeera, etc. -- see
+  TRUSTED_SOURCES) surface before blogs/aggregators covering the same
+  story, without hiding anything.
 """
 import json
+import re
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
@@ -32,8 +45,47 @@ ROOT = Path(__file__).resolve().parent.parent
 # tucked behind a native <details> "show more" toggle rather than either
 # dumping the full list (unreadable on a noisy/high-volume topic) or
 # silently dropping them (loses real signal on a quiet day when the
-# reader does want to scan everything).
-ARTICLE_PREVIEW_LIMIT = 12
+# reader does want to scan everything). Lowered from 12 now that each
+# card can render a second paragraph (see render_article) -- keeps the
+# above-the-fold view from getting too tall.
+ARTICLE_PREVIEW_LIMIT = 8
+
+# Source names (matched against NewsAPI's article.source.name field,
+# verbatim) treated as major wire services / national broadcasters for
+# ranking purposes -- see rank_articles(). This is a source-reputation
+# heuristic, not a fact-check: it surfaces widely-recognized wire/
+# broadcast reporting above blogs, aggregators, and single-topic sites
+# for the same story, it doesn't verify any individual article. NewsAPI's
+# own source attribution isn't always reliable either (an aggregator
+# republishing wire copy sometimes gets credited as the source instead
+# of the wire service itself), so treat the ordering as directional, not
+# a guarantee. Edit this set freely -- it's the only place this list lives.
+TRUSTED_SOURCES = {
+    "Reuters", "Associated Press", "BBC News", "Al Jazeera English", "NPR",
+    "The Guardian", "Agence France-Presse", "CBS News", "NBC News",
+    "ABC News", "PBS", "CNN", "Bloomberg", "Financial Times",
+    "The Washington Post", "The New York Times", "Wall Street Journal",
+    "Deutsche Welle (DW)", "France 24", "CBC News", "Sky News", "Axios",
+    "Politico",
+}
+
+# NewsAPI's `content` field on the free/Developer tier is truncated to
+# roughly 200 characters with a "... [+1234 chars]" suffix marking how
+# much more exists that this plan doesn't return. Strip that marker when
+# displaying it -- it's not useful to a reader and the link to the full
+# article is right there in the headline.
+_CONTENT_TRUNCATION_RE = re.compile(r"\s*\[\+\d+ chars\]\s*$")
+
+
+def rank_articles(articles):
+    """Stable-sorts trusted wire/broadcast sources to the front of the
+    list. Stable sort preserves the existing recency order (NewsAPI
+    results are fetched with sortBy=publishedAt) within each tier, so
+    this only changes trusted-vs-not ordering, not the within-tier order."""
+    def source_name(a):
+        return (a.get("source") or {}).get("name") or ""
+
+    return sorted(articles, key=lambda a: 0 if source_name(a) in TRUSTED_SOURCES else 1)
 
 
 def load_articles(data_dir, key):
@@ -59,15 +111,30 @@ def dedupe(articles):
 
 def render_article(a):
     title = escape(a.get("title") or "(untitled)")
-    source = escape((a.get("source") or {}).get("name") or "Unknown source")
+    source_name = (a.get("source") or {}).get("name") or "Unknown source"
     url = escape(a.get("url") or "#")
     published = escape(a.get("publishedAt") or "")
-    desc = escape(a.get("description") or "")
+    desc = (a.get("description") or "").strip()
+    content = _CONTENT_TRUNCATION_RE.sub("", (a.get("content") or "").strip()).strip()
+
+    # NewsAPI's content field is often the same lead sentence as
+    # description, just truncated differently -- only show it as a
+    # second paragraph when it actually adds something new.
+    extra_html = ""
+    if content and content != desc and content[:60] not in desc:
+        extra_html = f'<p class="item-extra">{escape(content)}</p>'
+
+    trusted_html = (
+        '<span class="trusted-tag">wire service</span>'
+        if source_name in TRUSTED_SOURCES else ""
+    )
+
     return f"""
     <article class="item">
       <a class="item-title" href="{url}" target="_blank" rel="noopener">{title}</a>
-      <div class="item-meta">{source} &middot; {published}</div>
-      <p class="item-desc">{desc}</p>
+      <div class="item-meta">{escape(source_name)} {trusted_html}&middot; {published}</div>
+      <p class="item-desc">{escape(desc)}</p>
+      {extra_html}
     </article>"""
 
 
@@ -135,13 +202,13 @@ def main():
 
     # Tier 1 flagships get top billing
     for flagship in TIER1:
-        arts = dedupe(load_articles(data_dir, flagship["id"]))
+        arts = rank_articles(dedupe(load_articles(data_dir, flagship["id"])))
         sections.append(render_section(
             flagship["id"], flagship["label"], arts, badge="flagship",
             narrative=topic_narratives.get(flagship["id"]), preview_limit=ARTICLE_PREVIEW_LIMIT,
         ))
         nav_items.append((flagship["id"], flagship["label"], "flagship", len(arts)))
-        us_lens = dedupe(load_articles(data_dir, f"{flagship['id']}-us-lens"))
+        us_lens = rank_articles(dedupe(load_articles(data_dir, f"{flagship['id']}-us-lens")))
         if us_lens:
             sections.append(render_section(
                 f"{flagship['id']}-us-lens",
@@ -154,14 +221,13 @@ def main():
     if TOPIC_SWEEP_ENABLED:
         ordered = sorted(TOPICS, key=lambda t: (t["tier"] != "tripwire", t["id"]))
         for topic in ordered:
-            arts = dedupe(load_articles(data_dir, topic["id"]))
+            arts = rank_articles(dedupe(load_articles(data_dir, topic["id"])))
             badge = "tripwire" if topic["tier"] == "tripwire" else None
-            label = f"{topic['id']} — {topic['label']}"
             sections.append(render_section(
-                topic["id"], label, arts, badge=badge,
+                topic["id"], topic["label"], arts, badge=badge,
                 narrative=topic_narratives.get(topic["id"]), preview_limit=ARTICLE_PREVIEW_LIMIT,
             ))
-            nav_items.append((topic["id"], topic["id"], badge, len(arts)))
+            nav_items.append((topic["id"], topic["label"], badge, len(arts)))
 
     nav_html = render_nav(nav_items)
 
@@ -304,6 +370,24 @@ TEMPLATE = """<!DOCTYPE html>
     font-size: 0.85rem;
     margin: 0;
     line-height: 1.4;
+  }}
+  .item-extra {{
+    color: var(--muted);
+    font-size: 0.85rem;
+    margin: 0.45rem 0 0;
+    padding-top: 0.45rem;
+    border-top: 1px dashed var(--border);
+    line-height: 1.45;
+  }}
+  .trusted-tag {{
+    color: var(--accent);
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    border: 1px solid rgba(77,159,255,0.35);
+    border-radius: 3px;
+    padding: 0.05rem 0.35rem;
+    margin-right: 0.35rem;
   }}
   .empty {{ color: var(--muted); font-size: 0.85rem; font-style: italic; }}
   .topic-nav {{

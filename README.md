@@ -23,10 +23,16 @@ Every day, a GitHub Actions workflow:
    write a BLUF (Bottom-Line-Up-Front) overview plus a short narrative
    summary for each topic -- `scripts/synthesize.py`.
 4. Renders a static briefing page to `docs/index.html`: a jump-to-topic
-   nav bar, the BLUF up top, then each topic's AI summary with its
-   supporting headlines underneath (capped to a preview per topic, with
-   the rest behind a "show more" toggle -- see "Known limitations" for
-   why noisier topics can still run long).
+   nav bar (plain-language topic names, not internal codes), the BLUF up
+   top, then each topic's AI summary with its supporting articles
+   underneath -- source name, description, and (when NewsAPI's truncated
+   `content` field adds anything beyond the description) a second
+   paragraph of extra detail. Articles from recognized wire services and
+   national broadcasters (Reuters, AP, BBC, Al Jazeera, etc.) are sorted
+   to the front of each list and tagged "wire service" -- see
+   `TRUSTED_SOURCES` in `build_brief.py`. Each section is capped to a
+   preview per topic, with the rest behind a "show more" toggle -- see
+   "Known limitations" for why noisier topics can still run long.
 5. Commits everything back to the repo. GitHub Pages (configured to
    serve from `/docs`) picks up the change automatically.
 
@@ -114,12 +120,36 @@ display automatically -- the pipeline never breaks because of this step.
   rather than a dashboard you have to monitor).
 - `/top-headlines` only supports `country=us` on this plan, so the "US
   media lens" section is deliberately scoped to US coverage only.
+- **Article detail is capped by the NewsAPI plan, not by this code.**
+  The free/Developer tier's `content` field is truncated to roughly 200
+  characters (with a "[+N chars]" marker for how much more exists but
+  isn't returned) -- it is not full article text, and NewsAPI's paid
+  tiers are what unlock that. `build_brief.py` shows this truncated
+  content as a second paragraph when it adds anything beyond the
+  `description` field, but "more detail than a couple of sentences"
+  tops out there without either a paid NewsAPI plan or scraping each
+  article's URL directly (not implemented -- scraping arbitrary news
+  sites is fragile and has its own ToS/legal considerations per site).
 - The Claude model ID in `synthesize.py` (`claude-haiku-4-5-20251001`)
   is current as of when this was built -- Anthropic's model lineup
   changes over time, so check
   [platform.claude.com/docs/en/models/overview](https://platform.claude.com/docs/en/models/overview)
   if the synthesis step ever starts failing with a model-not-found
   error.
+
+## Roadmap idea: regional coverage / bias comparison
+
+The "US Media Lens" subsection under each flagship (a `/top-headlines`
+pull scoped to `country=us`) is a narrow version of a bigger idea: pulling
+the same story from multiple regional press pools (e.g. Western, African,
+Chinese, Middle Eastern outlets) side by side to make editorial framing
+differences visible -- a real signal for spotting bias or propaganda, not
+just "what happened." Not built yet. The main blocker is that NewsAPI
+doesn't expose a source's country/region as queryable metadata, so this
+would need a hand-maintained domain-to-region mapping (similar in spirit
+to `TRUSTED_SOURCES` in `build_brief.py`) plus a region-scoped query per
+flagship topic, generalizing the existing `us_lens_query` pattern in
+`topics.py`. Worth prioritizing once the core taxonomy is stable.
 
 ## Setup
 
