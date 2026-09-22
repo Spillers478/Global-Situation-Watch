@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "totalResults": 1,
+  "articles": [
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "The Associated Press",
+      "title": "Ukraine fires over 1,000 drones at Russia, including \u2018largest ever\u2019 attack on Moscow - AP News",
+      "description": "Russian officials say Ukrainian forces launched over 1,000 drones at Russia, including hundreds targeting Moscow. Moscow's mayor described Sunday's attack as the largest drone attack on the Russian capital. The attack killed two people and wounded 20, while a\u2026",
+      "url": "https://apnews.com/article/ukraine-russia-war-drones-moscow-5f7889d027c0247ca2c2c64425b9ffa9",
+      "urlToImage": "https://dims.apnews.com/dims4/default/183a3a3/2147483647/strip/true/crop/5061x3372+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F97%2F97%2F97c5b25c4620532a1345b8fc2321%2F6931d310b63a410cae7edf87ca10c07d",
+      "publishedAt": "2026-09-20T19:00:00Z",
+      "content": "Ukrainian forces fired more than 1,000 drones at Russia overnight, including hundreds that were launched toward Moscow, officials said Sunday, as the Kremlin was wrapping up the third and last day of\u2026 [+4042 chars]"
+    }
+  ]
+}

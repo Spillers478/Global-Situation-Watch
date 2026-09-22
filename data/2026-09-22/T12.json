@@ -1,0 +1,110 @@
+{
+  "status": "ok",
+  "totalResults": 8,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Patrick Hedlund",
+      "title": "Iran penetrates California as freeway sign terrifies drivers with photos and menacing threats",
+      "description": "A digital traffic display on one of Los Angeles\u2019 busiest freeways was hacked to promote a menacing website targeting enemies of Iran\u2019s Islamic regime \u2013 a chilling breach that has put Iranian dissidents in the city on edge. Passersby spotted the sign on the 40\u2026",
+      "url": "https://nypost.com/2026/09/20/us-news/los-angeles-405-freeway-sign-hacked-with-threats-targeting-iranian-dissidents/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/141875567.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-09-20T21:22:51Z",
+      "content": "A digital traffic display on one of Los Angeles busiest freeways was hacked to promote a menacing website targeting enemies of Iran\u2019s Islamic regime a chilling breach that has put Iranian dissidents \u2026 [+6308 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PRNewswire"
+      },
+      "author": null,
+      "title": "AECOM Data Breach Investigation: Edelson Lechtzin LLP Probes Class Action Claims After Hackers Allege Theft of More Than 1 TB of Data",
+      "description": "National class action law firm offers free, confidential case evaluations to AECOM employees, clients, and others whose personal information may have been exposed in the reported AECOM data breach. DALLAS, Sept. 20, 2026 /PRNewswire/ -- Edelson Lechtzin LLP, \u2026",
+      "url": "https://www.prnewswire.com/news-releases/aecom-data-breach-investigation-edelson-lechtzin-llp-probes-class-action-claims-after-hackers-allege-theft-of-more-than-1-tb-of-data-302884076.html",
+      "urlToImage": "https://mmx.prnewswire.com/media/MS1803521/safe-image.jpg?id=OA2959270&p=facebook",
+      "publishedAt": "2026-09-20T20:15:00Z",
+      "content": "National class action law firm offers free, confidential case evaluations to AECOM employees, clients, and others whose personal information may have been exposed in the reported AECOM data breach.\r\n\u2026 [+5070 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "hackernoon.com"
+      },
+      "author": "Fabrizio Marozzo",
+      "title": null,
+      "description": "AI agents are getting harder to control. From swarms exploiting vulnerabilities to real-world cyberattacks, the security challenge is rapidly evolving.",
+      "url": "https://hackernoon.com/houston-we-have-a-problem-artificial-intelligence-is-becoming-harder-to-control",
+      "urlToImage": "https://hackernoon.imgix.net/images/W9kbhxGScNcVS3W20Vv2YzK2pOk1-3k83b5a.png",
+      "publishedAt": "2026-09-20T15:45:44Z",
+      "content": "Just a few years ago, large language models, or LLMs, seemed above all to be extraordinary tools for working with text: writing, summarizing, translating, and answering questions. Then they learned t\u2026 [+9547 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Joe Hindy",
+      "title": "Say Hello to RatHat, a New AI-Powered Malware Invading the Android Ecosystem",
+      "description": "The malware pretends to be a legitimate download for an app like Google Chrome.",
+      "url": "https://www.cnet.com/tech/services-and-software/rathat-malware-attacks-android-phones/",
+      "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/RatHat-Malware.png",
+      "publishedAt": "2026-09-20T13:20:01Z",
+      "content": "There\u2019s a frightening new digital threat that Android users should be aware of. New AI-powered malware called RatHat can automatically gain admin-level control over your Android device, stealing what\u2026 [+4396 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forkast.news"
+      },
+      "author": "Heath Callahan",
+      "title": "The Patch Is Not Enough: SharePoint\u2019s ToolShell Chain Steals Keys That Outlive the Fix",
+      "description": "The persistence of CVE-2026-58644, a critical unauthenticated remote code execution (RCE) vulnerability in on-premises Microsoft SharePoint Server, highlights a shift in how attackers view enterprise infrastructure. More than two months after Microsoft releas\u2026",
+      "url": "https://forkast.news/the-patch-is-not-enough-sharepoints-toolshell-chain-steals-keys-that-outlive-the-fix/",
+      "urlToImage": "https://forkast.news/wp-content/uploads/2026/09/sharepoint-rce-toolshell-machinekey-cve-2026-58644-1024x687.jpg",
+      "publishedAt": "2026-09-20T12:39:28Z",
+      "content": "The persistence of CVE-2026-58644, a critical unauthenticated remote code execution (RCE) vulnerability in on-premises Microsoft SharePoint Server, highlights a shift in how attackers view enterprise\u2026 [+3726 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Sabrina Penty, Will Stewart",
+      "title": "Huge fires rage in Moscow as Ukraine strikes Russian capital's biggest oil refinery in massive drone attack on the last day of election",
+      "description": "Huge fires burned through Moscow overnight following one of the biggest Ukrainian drone attacks in the Russian capital, which left two people dead.",
+      "url": "https://www.dailymail.com/news/article-16145873/fires-rage-Moscow-Ukraine-strikes-Russia-oil-refinery-drone-attack-day-election.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/09/20/09/111356493-0-image-m-25_1789893893403.jpg",
+      "publishedAt": "2026-09-20T08:47:32Z",
+      "content": "Huge fires burned through Moscow overnight following one of the biggest Ukrainian drone attacks in the Russian capital, which left two people dead.\u00a0\r\nUkraine and Russia have continued attacks on each\u2026 [+6371 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Protothema.gr"
+      },
+      "author": "Newsroom",
+      "title": "Could Artificial Intelligence wipe out humanity? The doomsday scenarios and the experts\u2019 great divide",
+      "description": "From biological weapons and autonomous robots to access to nuclear systems, experts disagree over whether AI truly poses an existential threat\nThe post Could Artificial Intelligence wipe out humanity? The doomsday scenarios and the experts\u2019 great divide appea\u2026",
+      "url": "https://en.protothema.gr/2026/09/20/could-artificial-intelligence-wipe-out-humanity-the-doomsday-scenarios-and-the-experts-great-divide/",
+      "urlToImage": "https://en.protothema.gr/wp-content/uploads/2026/09/ai_dangers-1.jpg-1.jpg",
+      "publishedAt": "2026-09-20T06:12:00Z",
+      "content": "The debate over whether Artificial Intelligence could threaten humanitys very survival has been reignited in recent days, following public warnings from people working in AI that the development of i\u2026 [+6291 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Digital Journal"
+      },
+      "author": "AFP",
+      "title": "AI \u2018warning shots\u2019 focus Beijing on national security risks",
+      "description": "\"There are more similarities than differences when it comes to AI safety issues\" in China and the United States, said Kevin Xu, founder of US-based technology hedge fund Interconnected Capital.\nThe post AI \u2018warning shots\u2019 focus Beijing on national security ri\u2026",
+      "url": "https://www.digitaljournal.com/article/ai-warning-shots-focus-beijing-on-national-security-risks/",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2026/09/f1db56ff4b5d88984ba4d91f722bf4f42855a2c2.jpg",
+      "publishedAt": "2026-09-20T03:05:10Z",
+      "content": "While AI researchers in the United States fret over out-of-control superintelligence wiping out humanity, Chinese policymakers have until now been more focused on immediate risks, from deepfakes to c\u2026 [+4090 chars]"
+    }
+  ]
+}

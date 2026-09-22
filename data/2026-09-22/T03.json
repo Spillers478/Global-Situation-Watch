@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Andrew Levy",
+      "title": "Now Suffolk village considers Piddington-style referendum as local RAF base is earmarked for asylum seekers",
+      "description": "Residents of Barnham in Suffolk are travelling to the defiant Oxfordshire village tomorrow to discuss holding their own in/out vote.",
+      "url": "https://www.dailymail.com/news/article-16146117/Now-Suffolk-village-considers-Piddington-style-referendum-local-RAF-base-earmarked-asylum-seekers.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/09/20/15/111357949-0-image-m-18_1789915114797.jpg",
+      "publishedAt": "2026-09-20T16:03:15Z",
+      "content": "Residents of a quintessential English village earmarked to host 1,250 asylum seekers at a nearby military base are travelling to Piddington tomorrow for a council of war to discuss holding their own \u2026 [+5663 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Isegoria.net"
+      },
+      "author": "Isegoria",
+      "title": "Nothing prevents a state from concealing a weapons program under the guise of protecting commercial secrets",
+      "description": "We may not realize until too late, Ken Alibek explains (in Biohazard), that we have become the victims of a biological attack: It is not until days or weeks after such an attack has taken place\u2014after the first wave of deaths\u2014that we will most likely recognize\u2026",
+      "url": "https://www.isegoria.net/2026/09/nothing-prevents-a-state-from-concealing-a-weapons-program-under-the-guise-of-protecting-commercial-secrets/",
+      "urlToImage": null,
+      "publishedAt": "2026-09-20T15:08:00Z",
+      "content": "We may not realize until too late, Ken Alibek explains (in Biohazard), that we have become the victims of a biological attack: \r\nIt is not until days or weeks after such an attack has taken placeafte\u2026 [+6787 chars]"
+    }
+  ]
+}
