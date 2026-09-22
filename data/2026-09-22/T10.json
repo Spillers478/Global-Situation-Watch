@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 9,
+  "totalResults": 11,
   "articles": [
     {
       "source": {
@@ -57,6 +57,19 @@
     {
       "source": {
         "id": null,
+        "name": "Newsonjapan.com"
+      },
+      "author": "News On Japan",
+      "title": "Five-Day Holiday Puts Japan's Cost-of-Living Pressures in Focus",
+      "description": "Japan's first five-day Silver Week holiday in 11 years has put renewed attention on household finances, with persistently high food prices and a weakening yen threatening to erode the benefits of the government's planned consumption tax cut on food. (News On \u2026",
+      "url": "https://newsonjapan.com/article/150820.php",
+      "urlToImage": "https://i2.ytimg.com/vi/6NVj9uvM4Bo/maxresdefault.jpg",
+      "publishedAt": "2026-09-20T15:35:55Z",
+      "content": "TOKYO -\r\n Japan's first five-day Silver Week holiday in 11 years has put renewed attention on household finances, with persistently high food prices and a weakening yen threatening to erode the benef\u2026 [+6571 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "gcaptain.com"
       },
       "author": "Bloomberg",
@@ -66,6 +79,19 @@
       "urlToImage": "https://gcaptain.com/wp-content/uploads/2026/09/ITS_Giuseppe_Garibaldi_C_551.jpg",
       "publishedAt": "2026-09-20T15:27:02Z",
       "content": "By\u00a0Chandra Asmara\r\nSep 17, 2026 (Bloomberg) \u2013A retired Italian aircraft carrier built to launch Harrier fighter jets arrived at Indonesias busiest port Friday with plans for a very different second a\u2026 [+7256 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Activistpost.com"
+      },
+      "author": "Editor",
+      "title": "\u201cDoom Loop\u201d Engaged: US Debt Hits $40 Trillion As Treasury Enters The Endgame",
+      "description": "It took the US 200 years to reach its first $1 trillion in debt. It took 95 days to add its last. After\u00a0several weeks of build up,\u00a0today the\u00a0Treasury announced\u00a0that\u00a0total public debt surpassed $40 trillion for the first time,\u00a0after jumping by over $60 billion\u2026",
+      "url": "https://activistpost.com/doom-loop-engaged-us-debt-hits-40-trillion-as-treasury-enters-the-endgame/",
+      "urlToImage": null,
+      "publishedAt": "2026-09-20T13:00:00Z",
+      "content": "It took the US 200 years to reach its first $1 trillion in debt. It took 95 days to add its last.\r\nAfter\u00a0several weeks of build up,\u00a0today the\u00a0Treasury announced\u00a0that\u00a0total public debt surpassed $40 t\u2026 [+8365 chars]"
     },
     {
       "source": {

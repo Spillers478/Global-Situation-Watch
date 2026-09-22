@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 91,
+  "totalResults": 103,
   "articles": [
     {
       "source": {
@@ -14,6 +14,45 @@
       "urlToImage": "https://i.dailymail.com/1s/2026/09/21/01/111356493-0-image-m-84_1789949781452.jpg",
       "publishedAt": "2026-09-21T00:33:13Z",
       "content": "Ukraine has fired a new homemade ballistic missile at Russia in the country's largest attack on Moscow\u00a0since the start of the war.\u00a0\r\nOn Sunday night, the final day of the Russian election, Ukraine st\u2026 [+13045 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "author": "Ryan Prior",
+      "title": "Tracking Ukrainians' Mental Health Through 5 Years of War",
+      "description": "About 70% of Ukrainians report mental health distress. A mental initiative is rolling out a national program to help track individuals' progress in treatment.",
+      "url": "https://www.psychologytoday.com/us/blog/patient-revolution/202609/tracking-ukrainians-mental-health-through-5-years-of-war",
+      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-09/pexels-kampus-8430301.jpg?itok=As0BQrS1",
+      "publishedAt": "2026-09-21T00:02:18Z",
+      "content": "Before Russia invaded his country, Vladyslav Sentiakov envisioned building a family and being a steady provider. \r\nTo further that ambition, the florist from the eastern Ukrainian city of Kharkiv vol\u2026 [+7578 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thefreedomfrequency.org"
+      },
+      "author": "September 21, 2026",
+      "title": "Turning Import And Export Restrictions Into Weapons",
+      "description": "Research into sanctions shows the power of substitution goes both ways\u2014but not always equally.",
+      "url": "https://www.thefreedomfrequency.org/p/turning-import-and-export-restrictions",
+      "urlToImage": "https://substack-post-media.s3.amazonaws.com/public/images/ed6b1cd6-2459-4f5a-9dc2-c681635f00f3_1757x1303.jpeg",
+      "publishedAt": "2026-09-21T00:00:00Z",
+      "content": "On February 24, 2022, Russia entered the secondand, as yet, the most aggressivephase of its war against Ukraine, which began in 2014: it launched a full-scale invasion of Ukraine with the goal of ult\u2026 [+18440 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "author": "Editorial Team",
+      "title": "Ukraine war disrupts grain shipments, fueling inflation risks as wheat prices surge 24%",
+      "description": "The disruption in grain shipments exacerbates global food insecurity, particularly impacting vulnerable regions reliant on imports.\nThe post Ukraine war disrupts grain shipments, fueling inflation risks as wheat prices surge 24% appeared first on Crypto Brief\u2026",
+      "url": "https://cryptobriefing.com/ukraine-war-grain-shipments-inflation/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/20190845/library-ukraine-war-disrupts-grain-shipments-fueling-inflation-r-800x450.png",
+      "publishedAt": "2026-09-20T23:08:49Z",
+      "content": "Escalating attacks on Black Sea shipping infrastructure have slashed Ukrainian grain exports to roughly 20% of normal levels, sending wheat futures to multi-year highs. The Black Sea, once the world\u2019\u2026 [+3240 chars]"
     },
     {
       "source": {
@@ -148,6 +187,19 @@
     {
       "source": {
         "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Jamie Dorrington",
+      "title": "Ukrainian President Zelenskyy says he spoke with President Trump",
+      "description": "Ukrainian President Volodymyr Zelenskyy said Sunday he had spoken with President Donald Trump and that the two had agreed to meet in New York.",
+      "url": "https://abcnews.com/International/ukrainian-president-zelenskyy-spoke-president-trump/story?id=136603480",
+      "urlToImage": "https://i.abcnewsfe.com/a/d7224683-1ba3-4491-a306-1d6946f16fc6/zelenskyy_trump_gty_cw_20260920_1789933344390_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-09-20T19:57:17Z",
+      "content": "Ukrainian President Volodymyr Zelenskyy said Sunday he had spoken with President Donald Trump, describing the conversation as \"important\" and saying the two agreed to meet in New York.\r\nIn a social m\u2026 [+1272 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Slashdot.org"
       },
       "author": "feedfeeder",
@@ -183,6 +235,19 @@
       "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/20140739/library-united-russia-leads-with-58-in-russian-election-amid-ukr-1-800x450.png",
       "publishedAt": "2026-09-20T18:07:41Z",
       "content": "The United Russia party has taken a commanding lead in the latest Russian election, securing 57.54% of the vote according to preliminary results from the central election commission. This electoral p\u2026 [+1676 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Ivana Kottasov\u00e1",
+      "title": "Polls close in Russian vote with a near-certain outcome | CNN",
+      "description": "Polls have closed in Russia\u2019s tightly controlled parliamentary elections with President Vladimir Putin once again set to cement his dominance over domestic politics.",
+      "url": "https://www.cnn.com/2026/09/20/europe/russia-election-polls-close-outcome-intl",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2295245900.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-09-20T18:01:37Z",
+      "content": "Polls have closed in Russias tightly controlled parliamentary elections with President Vladimir Putin once again set to cement his dominance over domestic politics.\r\nIn the absence of credible opposi\u2026 [+4412 chars]"
     },
     {
       "source": {
@@ -326,6 +391,19 @@
       "urlToImage": "https://i.dailymail.com/1s/2026/09/20/16/111359537-0-image-a-7_1789918154499.jpg",
       "publishedAt": "2026-09-20T15:47:26Z",
       "content": "Russian soldiers are committing widespread sexual violence and torturing civilians in Ukraine, a new United Nations report has found.\u00a0\r\nThe document, which logged 1,004 verified cases of conflict-rel\u2026 [+6042 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Sultan Khalid",
+      "title": "UBS Sees Phillips 66 (PSX) Blazing Past its Record High",
+      "description": "Phillips 66 (NYSE:PSX) has almost doubled in value since the beginning of 2026, propelled by the high refining margins amid the US-Iran war, which has signif...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-sees-phillips-66-psx-151252128.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c8892a42239bee9434b7c95dff7fd08fb8200286ad743c83930a1cc91c554ebf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F266da5880c0e679d3611df6c50fcd082.jpg",
+      "publishedAt": "2026-09-20T15:12:52Z",
+      "content": "Phillips 66 (NYSE:PSX) has almost doubled in value since the beginning of 2026, propelled by the high refining margins amid the US-Iran war, which has significantly reduced the world's refining capac\u2026 [+4309 chars]"
     },
     {
       "source": {
@@ -512,6 +590,19 @@
     {
       "source": {
         "id": null,
+        "name": "Rolling Stone"
+      },
+      "author": "Ryan Bort",
+      "title": "Trump Is Dismantling the World America Built",
+      "description": "The MAGA revolution set out to dismantle a global order it believes weakens the U.S. Instead, it\u2019s creating a vacuum that Russia, China, and others are rushing to fill",
+      "url": "http://www.rollingstone.com/politics/political-commentary/trump-maga-destroyed-global-order-1235629022/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/09/trump-leadership-position.jpg?crop=90px%2C0px%2C1696px%2C954px&resize=1600%2C900",
+      "publishedAt": "2026-09-20T14:00:00Z",
+      "content": "Things are spinning out of control. Wars that were supposed to be contained are expanding across borders, drawing new powers into conflicts they cannot easily control.\r\nRussia\u2019s \u201ctotal war\u201d against U\u2026 [+8296 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Slashdot.org"
       },
       "author": "feedfeeder",
@@ -590,6 +681,19 @@
     {
       "source": {
         "id": null,
+        "name": "Pravda.sk"
+      },
+      "author": "janatutkova",
+      "title": "Russian false flag operation in Baltics? That\u2019s how it was conducted in Ukraine in Feb 2022",
+      "description": "Recent warnings of Lithuanian Foreign Minister K\u0119stutis Budrys and Polish Prime Minister Donald Tusk that Moscow may be preparing hybrid operations that could be used as a false flag to attack NATO member countries bring back the history of how the false flag\u2026",
+      "url": "https://janatutkova.blog.pravda.sk/2026/09/20/russian-false-flag-operation-in-baltics-thats-how-it-was-conducted-in-ukraine-in-feb-2022/",
+      "urlToImage": "https://blog.pravda.sk/avatar/blog-6562-256.png",
+      "publishedAt": "2026-09-20T12:09:25Z",
+      "content": "Recent warnings of Lithuanian Foreign Minister Kstutis Budrys and Polish Prime Minister Donald Tusk that Moscow may be preparing hybrid operations that could be used as a false flag to attack NATO me\u2026 [+4054 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "The-sun.com"
       },
       "author": "the us sun",
@@ -638,6 +742,19 @@
       "urlToImage": null,
       "publishedAt": "2026-09-20T12:00:00Z",
       "content": "By Yauhen Lehalau, Valentin Baryshnikov and Ivan Gutterman September 20, 2026\r\nRussia is building its own version of Starlink -- Elon Musk's constellation of satellites in low-earth orbit that can pr\u2026 [+8910 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Foreign Minister Tsahkna on World Cleanup Day: Russia Must Be Held Accountable for the Environmental Damage It Has Caused in Ukraine",
+      "description": "Today, 20 September, marks International World Cleanup Day, which has been an official United Nations observance for the third consecutive year. This year's World Cleanup Day focuses on reducing food waste and raising awareness. To mark the occasion, the Mini\u2026",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260920-estonia-mfa01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-20T12:00:00Z",
+      "content": "Republic of Estonia - Ministry of Foreign Affairs\r\n20.09.2026 | 17:29\r\nToday, 20 September, marks International World Cleanup Day, which has been an official United Nations observance for the third c\u2026 [+3051 chars]"
     },
     {
       "source": {
@@ -1149,28 +1266,15 @@
     {
       "source": {
         "id": null,
-        "name": "Crypto Briefing"
+        "name": "Wattsupwiththat.com"
       },
-      "author": "Estefano Gomez",
-      "title": "Ukrainian drones strike near Moscow, killing two civilians",
-      "description": "The drone strike near Moscow may escalate the conflict, impacting civilian safety and altering strategic military calculations for both nations.\nThe post Ukrainian drones strike near Moscow, killing two civilians appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/ukrainian-drones-strike-near-moscow-killing-two-civilians/",
-      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/20003401/commons-picker-govcommons379b52798fdd7c17-2-800x450.jpg",
-      "publishedAt": "2026-09-20T04:34:04Z",
-      "content": "Ukrainian drones targeted areas near Moscow, resulting in the deaths of two civilians and additional injuries, according to reports from RT. The attack, described as part of a larger offensive, was i\u2026 [+1962 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Icij.org"
-      },
-      "author": "September 20, 2026",
-      "title": "Chinese Banking Giant Serves Firms Linked to Oligarchs and Autocrats to Push Beijing\u2019s Agenda",
-      "description": "A leak of 4.8 million internal records shows the state-owned Industrial and Commercial Bank of China (ICBC) is using its London operations to advance Beijing\u2019s geopolitical priorities. ICIJ found financing for companies linked to sanctioned Russian and Belaru\u2026",
-      "url": "https://www.icij.org/investigations/china-capital/china-banking-icbc-oligarchs-sanctions-london/",
-      "urlToImage": "https://media.icij.org/uploads/2026/09/China-Capital-ICBC-Overview.jpg",
-      "publishedAt": "2026-09-20T00:00:00Z",
-      "content": "In the heart of London\u2019s financial district, tucked between the Bank of England headquarters and London Bridge, is one of the worlds most influential institutions. The majestic neoclassical building \u2026 [+33991 chars]"
+      "author": "Guest Blogger",
+      "title": "As a Former Head of MI6 it\u2019s Clear That Britain\u2019s Climate Policy is Leaving Us Dangerously Exposed to Our Enemies",
+      "description": "The UK's climate policy is undermining national security, says former MI6 head Sir Richard Dearlove. \"As a country we have been drifting and we are dangerously exposed.\"\nThe post As a Former Head of MI6 it\u2019s Clear That Britain\u2019s Climate Policy is Leaving Us D\u2026",
+      "url": "https://wattsupwiththat.com/2026/09/19/as-a-former-head-of-mi6-its-clear-that-britains-climate-policy-is-leaving-us-dangerously-exposed-to-our-enemies/",
+      "urlToImage": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/09/richard-dearlove-GWPF.webp?fit=1024%2C512&quality=75&ssl=1",
+      "publishedAt": "2026-09-20T05:00:00Z",
+      "content": "The UK\u2019s climate policy is undermining national security, says former MI6 head Sir Richard Dearlove. \u201cAs a country we have been drifting and we are dangerously exposed.\u201d Read his full lecture on the \u2026 [+20308 chars]"
     }
   ]
 }

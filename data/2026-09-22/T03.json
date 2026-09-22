@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 2,
+  "totalResults": 7,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Rediff.com"
+      },
+      "author": "sports@rediff.co.in (Rediff Sports Desk)",
+      "title": "India's Men's Team Continues Winning Streak At Chess Olympiad",
+      "description": "The Indian men's chess team, spearheaded by R Praggnanandhaa and D Gukesh, secured a decisive 3-1 victory over Holland in the 46th Chess Olympiad, maintaining their perfect record. However, the Indian women's team faced a surprising 1.5-2.5 defeat against Pol\u2026",
+      "url": "https://www.rediff.com/sports/report/indian-men-cruise-at-chess-olympiad-women-shocked-by-poland/20260920.htm",
+      "urlToImage": "https://im.rediff.com/1200-630/sports/2024/sep/30gukesh.png",
+      "publishedAt": "2026-09-20T16:23:46Z",
+      "content": "Discover how the Indian men's chess team, led by stars R Praggnanandhaa and D Gukesh, secured a dominant victory over Holland at the 46th Chess Olympiad, even as the women's team faced an unexpected \u2026 [+3462 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -27,6 +40,58 @@
       "urlToImage": null,
       "publishedAt": "2026-09-20T15:08:00Z",
       "content": "We may not realize until too late, Ken Alibek explains (in Biohazard), that we have become the victims of a biological attack: \r\nIt is not until days or weeks after such an attack has taken placeafte\u2026 [+6787 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Chess Olympiad: Indian men face first stern test against Holland",
+      "description": "India\u2019s second-seeded men will face sixth-seeded Netherlands in the fifth round of the Chess Olympiad after beating Spain. D Gukesh and Nihal Sarin have impressed, while R Praggnanandhaa and Arjun Erigaisi remain under scrutiny. The Indian women, also unbeate\u2026",
+      "url": "https://economictimes.indiatimes.com/news/sports/chess/chess-olympiad-indian-men-face-first-stern-test-against-holland/articleshow/134364620.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134364662,width-1200,height-630,imgsize-69128,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-20T06:37:29Z",
+      "content": "Samarkand: After an indifferent start and getting back in recovery mode immediately, the second seeded Indian men will take on sixth seeded Holland in the fifth round of the 46th Chess Olympiad.Havin\u2026 [+2179 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rediff.com"
+      },
+      "author": "sports@rediff.co.in (Rediff Sports Desk)",
+      "title": "Chess Olympiad: India's Key Matches In Round 5",
+      "description": "The Indian men's chess team, seeded second, is set to face sixth-seeded Holland in the fifth round of the 46th Chess Olympiad after a mixed start. While players like D Gukesh and Nihal Sareen have performed well, top board players R Praggnanandhaa and Arjun E\u2026",
+      "url": "https://www.rediff.com/sports/report/indian-men-face-holland-women-play-poland-in-chess-olympiad/20260920.htm",
+      "urlToImage": "https://im.rediff.com/1200-630/sports/2024/sep/23chess9.jpg",
+      "publishedAt": "2026-09-20T06:09:33Z",
+      "content": "As the 46th Chess Olympiad progresses, the Indian men's team prepares for a crucial fifth-round clash against Holland, while the undefeated Indian women's team aims to continue their winning streak a\u2026 [+3054 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ANI",
+      "title": "India continues dominant Chess Olympiad run, secures fourth consecutive wins",
+      "description": "India continued its unbeaten run at the Chess Olympiad 2026, recording 3-1 victories over Spain in the Open section and Mongolia in the Women\u2019s section in Samarkand. The wins gave both Indian teams their fourth consecutive victories. Arjun Erigaisi, D Gukesh,\u2026",
+      "url": "https://economictimes.indiatimes.com/news/sports/chess/india-continues-dominant-chess-olympiad-run-secures-fourth-consecutive-wins/articleshow/134363013.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134363018,width-1200,height-630,imgsize-74412,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-20T03:05:35Z",
+      "content": "Samarkand: India maintained its perfect start to the Chess Olympiad 2026, securing convincing 3-1 victories in both sections in Samarkand on Saturday. The Open team defeated Spain, while the Women's \u2026 [+1328 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Jyotirmoy Halder",
+      "title": "Olympiad: Erigaisi picks first win of tournament; India's winning juggernaut rolls on",
+      "description": "Arjun Erigaisi bounced back from a difficult start to the Chess Olympiad with a convincing victory over Maksim Chigaev, helping defending champions India beat Spain 3-1 in Round 4. Gukesh continued his impressive run, while Praggnanandhaa and Nihal Sarin drew\u2026",
+      "url": "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-4-arjun-erigaisi-picks-first-win-of-tournament-indias-winning-juggernaut-rolls-on/articleshow/134362654.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134362676,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-20T01:35:13Z",
+      "content": "View All Comments \r\nShare your thoughts in the comments\r\nBe respectful \u00b7 TOI community guidelines"
     }
   ]
 }

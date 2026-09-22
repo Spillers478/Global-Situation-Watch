@@ -1,45 +1,5 @@
 {
   "status": "ok",
-  "totalResults": 3,
-  "articles": [
-    {
-      "source": {
-        "id": null,
-        "name": "TVLine"
-      },
-      "author": "staff@tvline.com (Nick Caruso)",
-      "title": "What To Watch Sunday: Lioness Wraps, Best Medicine Returns, Jon Hamm In American Hostage, And More",
-      "description": "On TV this Sunday: Lioness wraps Season 3, Best Medicine gets a head start on Season 2, and Jon Hamm leads American Hostage.",
-      "url": "https://www.tvline.com/2261732/what-to-watch-september-20-2026-tv-shows-movies/",
-      "urlToImage": "https://www.tvline.com/img/gallery/what-to-watch-september-20-2026-tv-shows-movies/l-intro-1789761516.jpg",
-      "publishedAt": "2026-09-20T11:00:00Z",
-      "content": "Every day, TVLine's What to Watch column spotlights new and returning English-language shows (and select movies) premiering or airing fresh episodes across broadcast, cable and streaming organized be\u2026 [+329 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rlsbb.cc"
-      },
-      "author": "Will",
-      "title": "American Hostage S01E02 1080p WEB H264-CAKES",
-      "description": "Season 1, Episode 02 \u2013Fred has a groundbreaking on-air interview with Tony, only to find himself pulled further and further away from his role as news director.Links: HOMEPAGE\u00a0\u2013\u00a0TVMAmerican.Hostage.S01E02.720p.WEB.H264-JFFMKV | AC3 / dolby digital plus | 1.60\u2026",
-      "url": "https://post.rlsbb.cc/american-hostage-s01e02-1080p-web-h264-cakes/",
-      "urlToImage": null,
-      "publishedAt": "2026-09-20T05:23:02Z",
-      "content": "Season 1, Episode 02 Fred has a groundbreaking on-air interview with Tony, only to find himself pulled further and further away from his role as news director.\r\nLinks:HOMEPAGE\u00a0\u00a0TVM\r\nAmerican.Hostage.\u2026 [+968 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rlsbb.cc"
-      },
-      "author": "Will",
-      "title": "American Hostage S01E01 1080p WEB H264-CAKES",
-      "description": "The first 8-episode installment of this anthology series is set in the 1970s. The psychological thriller tells the harrowing true story of Fred Heckman, a beloved Indianapolis radio reporter who is thrust into the middle of a life-or-death crisis when hostage\u2026",
-      "url": "https://post.rlsbb.cc/american-hostage-s01e01-1080p-web-h264-cakes/",
-      "urlToImage": null,
-      "publishedAt": "2026-09-20T05:23:02Z",
-      "content": "The first 8-episode installment of this anthology series is set in the 1970s. The psychological thriller tells the harrowing true story of Fred Heckman, a beloved Indianapolis radio reporter who is t\u2026 [+1379 chars]"
-    }
-  ]
+  "totalResults": 0,
+  "articles": []
 }

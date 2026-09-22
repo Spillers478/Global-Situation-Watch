@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 4,
+  "totalResults": 5,
   "articles": [
     {
       "source": {
@@ -53,6 +53,19 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-19T114756Z_1682804238_RC28MNAJERYX_RTRMADP_3_IRAN-CRISIS-SAUDI-YEMEN-1-1789892142.jpg?resize=1200%2C630",
       "publishedAt": "2026-09-20T10:23:33Z",
       "content": "Turkiye says it is ready to help meet Saudi Arabias military needs as Riyadh faces escalating attacks from Yemens Houthis, potentially putting a newly signed Mecca defence pact to its first major tes\u2026 [+8890 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Icij.org"
+      },
+      "author": "September 20, 2026",
+      "title": "Chinese Banking Giant Serves Firms Linked to Oligarchs and Autocrats to Push Beijing\u2019s Agenda",
+      "description": "A leak of 4.8 million internal records shows the state-owned Industrial and Commercial Bank of China (ICBC) is using its London operations to advance Beijing\u2019s geopolitical priorities. ICIJ found financing for companies linked to sanctioned Russian and Belaru\u2026",
+      "url": "https://www.icij.org/investigations/china-capital/china-banking-icbc-oligarchs-sanctions-london/",
+      "urlToImage": "https://media.icij.org/uploads/2026/09/China-Capital-ICBC-Overview.jpg",
+      "publishedAt": "2026-09-20T00:00:00Z",
+      "content": "In the heart of London\u2019s financial district, tucked between the Bank of England headquarters and London Bridge, is one of the worlds most influential institutions. The majestic neoclassical building \u2026 [+33991 chars]"
     }
   ]
 }

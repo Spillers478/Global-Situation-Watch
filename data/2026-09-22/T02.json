@@ -1,19 +1,45 @@
 {
   "status": "ok",
-  "totalResults": 23,
+  "totalResults": 27,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "Dailymail.com"
+        "name": "The Punch"
       },
-      "author": "David Patrikarakos",
-      "title": "DAVID PATRIKARAKOS: This is exactly why the rapper who derailed Ed Sheeran's tour was WRONG to call the tragedy of Gaza a 'genocide'",
-      "description": "Last week, rapper Macklemore used an Ed Sheeran concert to denounce Israel's conduct in Gaza, triggering a row that saw him dumped from the tour.",
-      "url": "https://www.dailymail.com/debate/article-16146629/DAVID-PATRIKARAKOS-Ed-Sheerans-tour-Gaza-genocide.html",
-      "urlToImage": "https://i.dailymail.com/1s/2026/09/20/22/111363623-0-image-a-11_1789939246377.jpg",
-      "publishedAt": "2026-09-21T00:00:59Z",
-      "content": "Genocide: one of the most horrific words in the language. Polish-Jewish lawyer Raphael Lemkin coined it in 1944 to describe the deliberate destruction of a national, ethnic, racial or religious group\u2026 [+9722 chars]"
+      "author": "Punch Newspapers",
+      "title": "Beyond politics: What defines leader\u2019s legacy?",
+      "description": "An opinion on what defines a leader\u2019s legacy, using the philanthropic work of Aderemi Oseni as an example of leadership focused on human development.\n\nRead More: https://punchng.com/beyond-politics-what-defines-leaders-legacy/",
+      "url": "https://punchng.com/beyond-politics-what-defines-leaders-legacy/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2026/09/20212734/Fabiyi_1789936054-1200x630.webp",
+      "publishedAt": "2026-09-21T00:28:52Z",
+      "content": "In the 9th century, Cordoba, Spain, used oil lamps along its public streets. By 1417, London Mayor Henry Barton ordered people to start hanging lanterns outside their homes. As the imperative to ligh\u2026 [+15855 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "author": "Editorial Team",
+      "title": "Ukraine war disrupts grain shipments, fueling inflation risks as wheat prices surge 24%",
+      "description": "The disruption in grain shipments exacerbates global food insecurity, particularly impacting vulnerable regions reliant on imports.\nThe post Ukraine war disrupts grain shipments, fueling inflation risks as wheat prices surge 24% appeared first on Crypto Brief\u2026",
+      "url": "https://cryptobriefing.com/ukraine-war-grain-shipments-inflation/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/20190845/library-ukraine-war-disrupts-grain-shipments-fueling-inflation-r-800x450.png",
+      "publishedAt": "2026-09-20T23:08:49Z",
+      "content": "Escalating attacks on Black Sea shipping infrastructure have slashed Ukrainian grain exports to roughly 20% of normal levels, sending wheat futures to multi-year highs. The Black Sea, once the world\u2019\u2026 [+3240 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RochesterFirst"
+      },
+      "author": "Reagan Hillman",
+      "title": "Dion Dawkins joins Wegmans drive for Foodlink",
+      "description": "ROCHESTER, N.Y. (WROC) \u2014 Dion Dawkins was at the Calkins Road Wegmans today for the Huddle for Hunger campaign. Wegmans partners with the Buffalo Bills Foundation each fall to host events aimed at fighting food insecurity in the Rochester and Buffalo areas. T\u2026",
+      "url": "https://www.rochesterfirst.com/news/dion-dawkins-joins-wegmans-drive-for-foodlink/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/5646ca689cf2b8cd5ab15331ae92dfeeaf83cb55cd0390195a16b7880443d3f1/lightyear_networkapi/resizefill_w898_h498%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwroc_rochester_articles_306%2Fd7d6db4619c44604b5cf6b717c2515fa.png",
+      "publishedAt": "2026-09-20T22:56:10Z",
+      "content": "ROCHESTER, N.Y. (WROC) Dion Dawkins was at the Calkins Road Wegmans today for the Huddle for Hunger campaign.\r\nWegmans partners with the Buffalo Bills Foundation each fall to host events aimed at fig\u2026 [+837 chars]"
     },
     {
       "source": {
@@ -27,6 +53,19 @@
       "urlToImage": "https://i.abcnewsfe.com/a/6eada50b-3694-437e-83d9-4e05712ff5c1/wirestory_cc669999ff89b8eb6aca66540100ec97_16x9.jpg?w=1600",
       "publishedAt": "2026-09-20T22:42:52Z",
       "content": "SHENDI, Sudan -- A gold mine shaft collapsed in northeastern Sudan, killing at least 11 miners and injuring 30, a state official said Sunday, while a search continued for the missing under the debris\u2026 [+1761 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "Danielle Pope",
+      "title": "Charity provides school lunches for kids as food insecurity rises",
+      "description": "The charity Eat Up delivered more than 1.6 million lunches last year and says the need is growing, as it launches a new universal school meals program.",
+      "url": "https://www.abc.net.au/news/2026-09-21/spoonfull-provides-school-lunches-moe-amid-food-insecurity/106745854",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/ec1345f745a044a0006769eb2ea362ab?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-09-20T19:58:54Z",
+      "content": "It is lunchtime at Elizabeth Street Primary School at Moe in Victoria's east.\r\nOn today's menu, a chicken pasta bake is the hot option, and tuna and salad rolls are on offer for others.\u00a0\r\nThe childre\u2026 [+4145 chars]"
     },
     {
       "source": {
@@ -70,6 +109,32 @@
     {
       "source": {
         "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "Priya  Joshi",
+      "title": "Food business must look beyond economic gain",
+      "description": "The real opportunity for any food business is to improve health, strengthen livelihoods, protect biodiversity and celebrate cultures",
+      "url": "https://www.thehindubusinessline.com/opinion/food-business-must-look-beyond-economic-gain/article71487669.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/j3alce/article71487668.ece/alternates/LANDSCAPE_1200/iStock-1159760062.jpg",
+      "publishedAt": "2026-09-20T15:11:59Z",
+      "content": "A food business cannot just be a business; it has to be more. A few months ago, I said this to my neighbour in a casual conversation over tea. We rarely ask a food business what kind of world it is h\u2026 [+5490 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Robert  Costa",
+      "title": "Democrat Andy Beshear on pursuing \"The Great American Reset\"",
+      "description": "The two-term Kentucky Governor advises his fellow Democrats to speak like \"normal people\" and not shy away from progressive politics or religious faith. He discusses his book, \"Go and Do Likewise,\" which teaches how to change minds by winning hearts.",
+      "url": "https://www.cbsnews.com/news/democrat-andy-beshear-on-pursuing-the-great-american-reset/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/19/c71824dd-a1c1-45be-b125-466e89945d28/thumbnail/1200x630g2/82c265a260a368de24b23a61feb52fbd/andy-beshear-1280.jpg",
+      "publishedAt": "2026-09-20T14:28:06Z",
+      "content": "In Kentucky, they take bluegrass and brown liquor (bourbon to be precise) quite seriously. But this past week, at the Kentucky Distillers' Association meeting in Louisville, high spirits were undermi\u2026 [+4952 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Winter is Coming"
       },
       "author": "Abigail Stevens",
@@ -83,15 +148,15 @@
     {
       "source": {
         "id": null,
-        "name": "Steynonline.com"
+        "name": "Medical Daily"
       },
-      "author": "Charles Aznavour and Herbert Kretzmer",
-      "title": "Yesterday When I Was Young/She",
-      "description": "Monday is Independence Day in Armenia, so I thought we'd enjoy a couple of hits by the most successful Armenian songwriter of all time. No, not Ross Bagdasarian, presiding genius of the Chipmunks, who cleans up on America's 24/7 Yuletide stations every",
-      "url": "https://www.steynonline.com/16417/yesterday-when-i-was-young-she",
-      "urlToImage": "https://www.steynonline.com/pics/3353.jpg",
-      "publishedAt": "2026-09-20T14:00:00Z",
-      "content": "Monday is Independence Day in Armenia, so I thought we'd enjoy a couple of hits by the most successful Armenian songwriter of all time. No, not Ross Bagdasarian, presiding genius of the Chipmunks, wh\u2026 [+22123 chars]"
+      "author": "Elena Vega",
+      "title": "Autistic Medicaid Enrollees Lived to About 65 Years in a 21-Year Analysis of Federal Death Records",
+      "description": "A JAMA Network Open analysis of more than 2 million autistic Medicaid enrollees found a life expectancy of 64.9 years, with preventable causes leading.",
+      "url": "https://www.medicaldaily.com/autism-life-expectancy-medicaid-jama-study-478847",
+      "urlToImage": "https://d.medicaldaily.com/en/full/486167/autistic-medicaid-enrollees.jpg",
+      "publishedAt": "2026-09-20T13:35:05Z",
+      "content": "Autistic people enrolled in Medicaid had an average life expectancy at birth of 64.9 years, roughly 14 years below the U.S. general population, according to one of the largest analyses of mortality i\u2026 [+7897 chars]"
     },
     {
       "source": {
@@ -174,6 +239,19 @@
     {
       "source": {
         "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Gov't, MILF peace mechanisms move to ease 'rido' tensions",
+      "description": "The government and the Moro Islamic Liberation Front (MILF) have deployed joint peace mechanisms to de-escalate tensions arising from a localized conflict (rido) in the Special Geographic Area (SGA), the Government Peace Implementing Panel said Sunday.",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260920-pna01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-20T11:25:48Z",
+      "content": "Philippine News Agency\r\nBy Darryl John EsguerraSeptember 20, 2026, 4:10 pm\r\nMANILA -- The government and the Moro Islamic Liberation Front (MILF) have deployed joint peace mechanisms to de-escalate t\u2026 [+2655 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "The Atlantic"
       },
       "author": "Helen Lewis",
@@ -183,19 +261,6 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/rxr_kufLi6zi0U43ypSkR6LrOyI=/0x85:3994x2165/1200x625/media/img/mt/2026/09/2026_09_17_What_el_Sayed_Understands_That_the_Democratic_Establishment_Doesnt_Helen_Lewis/original.jpg",
       "publishedAt": "2026-09-20T11:00:00Z",
       "content": "Abdul El-Sayed certainly enjoys an argument. Our first interview, in a kebab restaurant in Dearborn, Michigan, spun out into a wide-ranging discussion of America\u2019s Middle East policy, and ended with \u2026 [+39025 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
-      },
-      "author": "Ava Reynolds",
-      "title": "Is it okay to feed fish every 3 days?",
-      "description": "Is It Okay to Feed Fish Every 3 Days? The answer to is it okay to feed fish every 3 days? is generally yes, for many adult fish species in well-established aquariums, but it depends heavily on several factors that will be further explored below. Strategic fee\u2026",
-      "url": "https://www.lifesciencesworld.com/is-it-okay-to-feed-fish-every-3-days/",
-      "urlToImage": null,
-      "publishedAt": "2026-09-20T06:31:23Z",
-      "content": "Is It Okay to Feed Fish Every 3 Days?\r\nThe answer to is it okay to feed fish every 3 days? is generally yes, for many adult fish species in well-established aquariums, but it depends heavily on sever\u2026 [+9144 chars]"
     },
     {
       "source": {
@@ -212,16 +277,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Lifesciencesworld.com"
+        "id": "the-irish-times",
+        "name": "The Irish Times"
       },
-      "author": "Ava Reynolds",
-      "title": "Do bears know they are about to hibernate?",
-      "description": "Do Bears Know They Are About to Hibernate? The Science Behind Pre-Hibernation Behavior Do bears know they are about to hibernate? The answer is a resounding yes, but it\u2019s not based on a conscious understanding. Instead, it\u2019s a complex interplay of biological \u2026",
-      "url": "https://www.lifesciencesworld.com/do-bears-know-they-are-about-to-hibernate/",
-      "urlToImage": null,
-      "publishedAt": "2026-09-20T05:18:57Z",
-      "content": "Do Bears Know They Are About to Hibernate? The Science Behind Pre-Hibernation Behavior\r\nDo bears know they are about to hibernate? The answer is a resounding yes, but it\u2019s not based on a conscious un\u2026 [+8482 chars]"
+      "author": "Steven Carroll",
+      "title": "\u2018We have skin in the game\u2019: TD backs \u2018half Irish\u2019 Macklemore after Sheeran ditching",
+      "description": "Plus: National Library seeks a Deputy Chief Herald, Phil Hogan tours East Africa as he bids for UN job, Marty Whelan honoured to be honoured",
+      "url": "https://www.irishtimes.com/ireland/2026/09/20/we-have-skin-in-the-game-td-backs-half-irish-macklemore-after-sheeran-ditching/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/SIRKXNA7JJFVBFEZONUMHHZ6B4.jpg?smart=true&auth=e9b1ea60cd30178ee69a3078d2d7b48cb462a17d9d4f70f6aee0300036360bee&width=1200&height=630",
+      "publishedAt": "2026-09-20T05:00:00Z",
+      "content": "Energy, housing, neutrality and Macklemore were on the agenda when Sinn F\u00e9in TDs spoke to reporters on Wednesday as the D\u00e1il returned from its summer recess. \r\nSupport has rolled in from many corners\u2026 [+6380 chars]"
     },
     {
       "source": {
@@ -252,6 +317,19 @@
     {
       "source": {
         "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Kelly Garino",
+      "title": "Parents charged with murder after 3-month-old child dies of severe malnutrition",
+      "description": "Kendal Lee Hayes and Glenn John Delgreco II have been charged with murder after their infant daughter died, with an indictment revealing that the alleged abuse began just six days after her birth.",
+      "url": "https://www.dailymail.com/news/article-16145421/Parents-charged-murder-infant-severe-malnutrition.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/09/20/04/111355009-0-image-a-21_1789876107389.jpg",
+      "publishedAt": "2026-09-20T03:56:14Z",
+      "content": "A North Carolina\u00a0couple has been charged with murder after their three-month-old baby girl died from severe malnutrition and dehydration, having lost a third of her body weight since birth.\u00a0\r\nKendal \u2026 [+2616 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Roundtable.io"
       },
       "author": "Bob McCullough",
@@ -261,45 +339,6 @@
       "urlToImage": "https://s.yimg.com/lo/mysterio/api/d7c8ca9c9111810c492f2943ad1f7f21831a6f13bc09a6907384bc31f61415db/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Froundtable_sports_la_angels_articles_714%2F4f41c1d1eb15478b15249131808fb63f.jpg",
       "publishedAt": "2026-09-20T01:36:51Z",
       "content": "The Los Angeles Angels will try to regain the lead in their four-game series against the Minnesota Twins, and they should have a good chance to do it with Reid Detmers on the mound.\r\nThe series is cu\u2026 [+1998 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rolling Stone"
-      },
-      "author": "Charisma Madarang",
-      "title": "Ed Sheeran Breaks Silence on Israel-Gaza at First Show Amid Tour Controversy: \u2018I Cannot Hide How I Feel About It Anymore\u2019",
-      "description": "\u201cThis has put me in the middle of an important and passionate argument about freedom of speech and the most complex political issue on the planet,\" Sheeran said",
-      "url": "http://www.rollingstone.com/music/music-news/ed-sheeran-breaks-silence-gaza-isreael-macklemore-concert-1235629139/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/09/ed-sheeran-guitar-center-contest-1.jpg?w=1600&h=900&crop=1",
-      "publishedAt": "2026-09-20T01:03:59Z",
-      "content": "Ed Sheeran took the stage on Saturday night for the first time since Macklemore was removed from his stadium tour following the Seattle rapper\u2019s onstage speech in support of Palestinians. The singer,\u2026 [+4292 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hollywood Reporter"
-      },
-      "author": "Abbey White",
-      "title": "Ed Sheeran Addresses Macklemore Palestine Fallout: Concert Protested",
-      "description": "\"What happened in Israel and at the Nova Music Festival on October 7th was horrific and compounded centuries of Jewish pain. What is happening in Gaza is catastrophic and unjustifiable, and disproportionate,\" Sheeran said during the first concert he played fo\u2026",
-      "url": "http://www.hollywoodreporter.com/music/music-news/ed-sheeran-macklemore-controversy-palestine-protests-concert-1236706177/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/GettyImages-2251931026-e1789860622316.jpg?w=1440&h=810&crop=1",
-      "publishedAt": "2026-09-20T01:02:07Z",
-      "content": "Ed Sheeran addressed the ongoing controversy surrounding the removal of Macklemore from his Loop Tour during Saturday\u2019s stop in Philadelphia at Lincoln Financial Stadium.\r\n\u201cThis is not usually how I \u2026 [+11933 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Just Jared"
-      },
-      "author": "AJ Pitts",
-      "title": "Ed Sheeran Addresses Recent Controversy at First Concert Since Dropping Macklemore From \u2018Loop Tour\u2019",
-      "description": "Ed Sheeran hit the stage alone for the latest Loop Tour stop on Saturday night (September 19) at Lincoln Financial [\u2026]\nThe post Ed Sheeran Addresses Recent Controversy at First Concert Since Dropping Macklemore From \u2018Loop Tour\u2019 appeared first on Just Jared - \u2026",
-      "url": "https://www.justjared.com/2026/09/19/ed-sheeran-addresses-recent-controversy-at-first-concert-since-dropping-macklemore-from-loop-tour/",
-      "urlToImage": "https://www.justjared.com/wp-content/uploads/2026/09/ed-speaks-on-stage.jpg",
-      "publishedAt": "2026-09-20T00:59:55Z",
-      "content": "Credit: Getty\r\nEd Sheeran hit the stage alone for the latest Loop Tour stop on Saturday night (September 19) at Lincoln Financial Field in Philadelphia, Penn.\r\nThe 35-year-olds concert started a litt\u2026 [+3405 chars]"
     }
   ]
 }
