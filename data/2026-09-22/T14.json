@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Antiwar.com"
+      },
+      "author": "John Perry",
+      "title": "Rubio Wants To Defeat Socialism in Nicaragua, Not Restore \u2018Democracy\u2019",
+      "description": "After Venezuela and Cuba, will the Trump administration turn its spotlight onto Nicaragua? Secretary of State Rubio has just finished a tour of three Latin American countries now allied with Trump \u2013 Colombia, Ecuador and Peru \u2013 and was asked about US policy t\u2026",
+      "url": "https://original.antiwar.com/john_perry/2026/09/20/rubio-wants-to-defeat-socialism-in-nicaragua-not-restore-democracy/",
+      "urlToImage": "https://dyn3qbr4ue2vr.cloudfront.net/2026/09/rubio-nicaragua.jpg",
+      "publishedAt": "2026-09-21T00:00:19Z",
+      "content": "After Venezuela and Cuba, will the Trump administration turn its spotlight onto Nicaragua? Secretary of State Rubio has just finished a tour of three Latin American countries now allied with Trump \u2013 \u2026 [+8355 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Elina Shirazi",
+      "title": "Trump walks into explosive showdown with top world leaders at UN meeting as 'reckless' Iran war spirals and insiders rage: 'It's pathetic'",
+      "description": "President Donald Trump will step into the United Nations General Assembly hall this Monday for his sixth address, walking straight into an institution he has spent years systematically deriding.",
+      "url": "https://www.dailymail.com/news/article-16140075/trump-showdown-world-leaders-unga.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/09/18/19/111336491-0-image-m-24_1789757142503.jpg",
+      "publishedAt": "2026-09-20T12:55:46Z",
+      "content": "President Donald Trump\u00a0is walking into an explosive showdown with top world leaders as the 'reckless' Iran war spirals ahead of the president's sixth address at the\u00a0United Nations General Assembly ne\u2026 [+7393 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "author": "Will Freeman",
+      "title": "Guatemala\u2019s Democracy Dilemma",
+      "description": "A reformist president weighs the pressure to move fast against the imperative to restore institutions his people can trust.",
+      "url": "https://www.theatlantic.com/international/2026/09/guatemala-democracy-arevalo/688651/",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/EF41vXoHzH88gLOOlDcPIPcBggo=/0x0:2000x1042/1200x625/media/img/mt/2026/09/2026_09_18_Freeman_Guatemala_final_horizontal/original.jpg",
+      "publishedAt": "2026-09-20T11:00:00Z",
+      "content": "Just over three years ago in Guatemala, a coalition of young and Indigenous voters helped propel Bernardo Ar\u00e9valo, a reformer who campaigned against corruption, to an astounding presidential win. Gua\u2026 [+19909 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Turkish FM says ready to meet Saudi defence needs \u2013 what does that mean?",
+      "description": "Ankara expresses readiness to assist Riyadh as Houthi attacks escalate, testing a recent trilateral defence agreement.",
+      "url": "https://www.aljazeera.com/news/2026/9/20/turkish-fm-says-ready-to-meet-saudi-defence-needs-what-does-that-mean",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-19T114756Z_1682804238_RC28MNAJERYX_RTRMADP_3_IRAN-CRISIS-SAUDI-YEMEN-1-1789892142.jpg?resize=1200%2C630",
+      "publishedAt": "2026-09-20T10:23:33Z",
+      "content": "Turkiye says it is ready to help meet Saudi Arabias military needs as Riyadh faces escalating attacks from Yemens Houthis, potentially putting a newly signed Mecca defence pact to its first major tes\u2026 [+8890 chars]"
+    }
+  ]
+}
