@@ -1,7 +1,150 @@
 {
   "status": "ok",
-  "totalResults": 17,
+  "totalResults": 28,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Bill Toulas",
+      "title": "CISA alerts of active exploitation of three Linux kernel flaws",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting three Linux kernel vulnerabilities, one of them rated critical. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2025/01/13/CISA.jpg",
+      "publishedAt": "2026-09-21T20:12:17Z",
+      "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting three Linux kernel vulnerabilities, one of them rated critical.\r\nThe three security issues were\u2026 [+2551 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Sead Fadilpa\u0161i\u0107",
+      "title": "Cybercrime civil war brewing? ShinyHunters reportedly hacks Cl0p ransomware gang and threatens further damage",
+      "description": "Attack is a response to Cl0p's threats of violence and doxxing",
+      "url": "https://www.techradar.com/pro/security/cybercrime-civil-war-brewing-shinyhunters-reportedly-hacks-cl0p-ransomware-gang-and-threatens-further-damage",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/zTH6vPrB4yxX7dzdy29Xga-2560-80.jpg",
+      "publishedAt": "2026-09-21T16:05:00Z",
+      "content": "<ul><li>ShinyHunters hacked rival gang Cl0p, stealing source code, logs, and onion service keys</li><li>The gang defaced Cl0p\u2019s site via Grav CMS flaw, posting their logo and taunts about past threat\u2026 [+4446 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "author": "Michael Muchmore",
+      "title": "macOS Golden Gate vs. Windows 11: The Results Will Shock Superfans on Both Sides",
+      "description": "From Siri AI's massive overhaul to Windows' unmatched gaming dominance, we tested Apple and Microsoft's flagship OSes across 16 critical categories to reveal where each truly reigns supreme.\nHardware Options: Apple's Pristine Mac Lineup vs. Windows' Endless C\u2026",
+      "url": "https://uk.pcmag.com/operating-systems/160195/macos-golden-gate-vs-windows-11-the-best-desktop-os-will-shock-you",
+      "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/comparison/m/macos-gold/macos-golden-gate-vs-windows-11-the-results-will-shock-super_44d4.1200.jpg",
+      "publishedAt": "2026-09-21T15:46:58Z",
+      "content": "Hardware Options: Apple's Pristine Mac Lineup vs. Windows' Endless Customization\r\nBefore you can run any OS, you need a computer and possibly some peripherals. Apple has some fine hardware options, i\u2026 [+24775 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "What spooked Europe last week? The rumbles of Russia war grow louder",
+      "description": "European nations now discuss potential Russian conflict in new terms.  Intelligence suggests hybrid drone and missile strikes could target Ukraine supporters.  Leaders are planning for sabotage and cyberattacks below traditional war thresholds.  This shift re\u2026",
+      "url": "https://economictimes.indiatimes.com/news/defence/what-spooked-europe-last-week-the-rumbles-of-russia-war-grow-louder/articleshow/134392871.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134393019,width-1200,height-630,imgsize-84956,overlay-etdefence/articleshow.jpg",
+      "publishedAt": "2026-09-21T15:43:15Z",
+      "content": "Europe suddenly began talking about war with Russia last week in terms that would have been unthinkable a few months ago. What has changed in Europe is not simply the assessment of Russia but the bel\u2026 [+10915 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Connor Jones",
+      "title": "RansomHouse picks a fight with Namibia's defense establishment",
+      "description": "National cyber team confirms the breach, but not whether data was stolen or encrypted",
+      "url": "https://www.theregister.com/cyber-crime/2026/09/21/ransomhouse-picks-a-fight-with-namibias-defense-establishment/5297816",
+      "urlToImage": "https://image.theregister.com/258246.jpg?imageId=258246&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "publishedAt": "2026-09-21T15:19:06Z",
+      "content": "Namibia's computer security incident response team has confirmed unauthorized activity in the defense ministry's network and linked it to the RansomHouse cybercrime group.\r\nIn an unusually direct att\u2026 [+3236 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Storagereview.com"
+      },
+      "author": "Brian Beeler",
+      "title": "FCIA\u2019s FC-SP-3: A Standard Ready for the Quantum-Computing World",
+      "description": "In enterprise IT, most security upgrades typically occur in response to breaches or other significant incidents. The recently developed INCITS FC-SP-3 standard, however, represents a proactive response to regulatory and cryptographic deadlines that are alread\u2026",
+      "url": "https://www.storagereview.com/review/fcias-fc-sp-3-a-standard-ready-for-the-quantum-computing-world",
+      "urlToImage": "https://www.storagereview.com/wp-content/uploads/2026/09/StorageReview-FCIA-FC-SP-3-square.jpg",
+      "publishedAt": "2026-09-21T15:14:40Z",
+      "content": "In enterprise IT, most security upgrades typically occur in response to breaches or other significant incidents. The recently developed INCITS FC-SP-3 standard, however, represents a proactive respon\u2026 [+26433 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "24/7 Wall St."
+      },
+      "author": "Alex Sirois",
+      "title": "Hugging Face Proves These Two AI Hyperscalers Were Best Protected Against AI Threats",
+      "description": "When OpenAI agents attacked Hugging Face and rattled the AI sector, two tech giants barely flinched. Their secret sits inside the architecture powering their...",
+      "url": "https://247wallst.com/investing/2026/09/21/hugging-face-proves-these-two-ai-hyperscalers-were-best-protected-against-ai-threats/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/9eb2cd00eae1dfdc11b081a12bfaea7eae4c0934ea2800e4728cc0b5b29eb5fc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fb6e6a00fc9945c56a7f79edd004ecaaf.jpg",
+      "publishedAt": "2026-09-21T15:11:30Z",
+      "content": "Quick Read\r\n<ul><li>Apple's $109B revenue and Tesla's 480,000-unit delivery record came alongside proprietary AI stacks that shielded both from the Hugging Face cyberattack breach.\r\n</li><li>Apple at\u2026 [+4692 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cisco.com"
+      },
+      "author": "Renato Morais",
+      "title": "From Love Letters to AI Agents: Cybersecurity\u2019s Evolution",
+      "description": "Discover how Cisco security solutions and the four pillars of agentic security protect organizations against autonomous AI risks and evolving threats.",
+      "url": "https://blogs.cisco.com/?p=497444",
+      "urlToImage": "https://blogs.cisco.com/gcs/ciscoblogs/1/2026/09/FY27_Q1_from-love-letters-to-ai-agents-cybersecuritys-evolution_blog_social_card-1.jpeg",
+      "publishedAt": "2026-09-21T15:00:07Z",
+      "content": "Cybersecurity has never been a static discipline. Every era of technology introduces its own vulnerabilities, forcing organizations to rethink how they build walls, monitor traffic, and protect data.\u2026 [+8730 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "info@thehackernews.com (The Hacker News)",
+      "title": "\u26a1 Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
+      "description": "A browser. A plugin. A package. A login screen. Normal stuff. That is basically the problem this week.\n\nThe trouble keeps showing up inside things people already trust: code that takes a bad turn, old payloads coming back, exposed systems, weak checks, fake f\u2026",
+      "url": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjovXeakmAmPG68i_kNoeGFJjwSSGDdpj-29aojemBxtTQVOHzR668zKtV5GGPhnJ0zyCEdlsNCc11LIT-F8n1U8Rkv3jr-3AAt6HC4YwwyfENs_Y8V-O_OlPC4_WByxrsUBq6NifTKHQpgWuSnIqnV4bg4rXVoe9BrtMtgRCo4ECfMLWHRIKOQsqjb0zEt/s1700-nu-rw-lo-l85-e365/recap-2.jpg",
+      "publishedAt": "2026-09-21T14:24:13Z",
+      "content": "A browser. A plugin. A package. A login screen. Normal stuff. That is basically the problem this week.\r\nThe trouble keeps showing up inside things people already trust: code that takes a bad turn, ol\u2026 [+18027 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hubspot.com"
+      },
+      "author": "Anna Rubkiewicz",
+      "title": "CRM security: Protecting your customer data",
+      "description": "CRM security has never been more important \u2014 and customer data has never been more exposed. Every new integration, remote employee, and AI-powered workflow creates a potential entry point, making data protection a growing priority for organizations that rely \u2026",
+      "url": "https://blog.hubspot.com/sales/crm-security",
+      "urlToImage": "https://53.fs1.hubspotusercontent-na1.net/hubfs/53/crm-security-1-20260911-4033835.webp",
+      "publishedAt": "2026-09-21T12:00:03Z",
+      "content": "CRM security has never been more important and customer data has never been more exposed. Every new integration, remote employee, and AI-powered workflow creates a potential entry point, making data \u2026 [+22500 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Red-gate.com"
+      },
+      "author": "Tony Davis",
+      "title": "How test data management helps meet DORA\u2019s resilience testing requirements",
+      "description": "Learn how test data management helps financial institutions meet DORA's resilience testing and ICT risk requirements without exposing sensitive data.\u2026\nThe post How test data management helps meet DORA\u2019s resilience testing requirements appeared first on Simple\u2026",
+      "url": "https://www.red-gate.com/simple-talk/data-security-privacy-compliance/how-test-data-management-helps-meet-doras-resilience-testing-requirements/",
+      "urlToImage": "https://www.red-gate.com/simple-talk/wp-content/uploads/2025/04/shutterstock_2476568899-scaled.jpg",
+      "publishedAt": "2026-09-21T12:00:00Z",
+      "content": "DORA requires financial institutions to run tests that prove their systems can withstand operational disruption without exposing sensitive data. This article explains how test data management practic\u2026 [+16481 chars]"
+    },
     {
       "source": {
         "id": null,

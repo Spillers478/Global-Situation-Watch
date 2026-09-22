@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 4,
+  "totalResults": 5,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Ru Zhang, Yao Zhang, Xin Zhuo Zhang, Pei Kun Cong, Jin Yi Wu, Shao Rong Long, Ruo Dan Liu, Jia Xu, Jing Cui, Zhong Quan Wang",
+      "title": "Trichinella spiralis galectin disrupts gut epithelial integrity and mediates larval invasion via acting MUC13- ROCK2/MAPK pathway",
+      "description": "Author summary Intestinal epithelium is a crucial barrier to defense Trichinella spiralis larva invasion, but the mechanism of larval penetration of gut epithelium remains unclear. Galectin is widely distributed in parasites, and plays a significant act in th\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014684",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0014684.g009&size=inline",
+      "publishedAt": "2026-09-21T14:00:00Z",
+      "content": "Citation: Zhang R, Zhang Y, Zhang XZ, Cong PK, Wu JY, Long SR, et al. (2026) Trichinella spiralis galectin disrupts gut epithelial integrity and mediates larval invasion via acting MUC13- ROCK2/MAPK \u2026 [+62805 chars]"
+    },
     {
       "source": {
         "id": "bbc-news",

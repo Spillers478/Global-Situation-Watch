@@ -1,7 +1,371 @@
 {
   "status": "ok",
-  "totalResults": 48,
+  "totalResults": 84,
   "articles": [
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "How thousands of migrants stranded in Ceuta are surviving",
+      "description": "Authorities estimate that at least 10,000 people remain in the enclave of Ceuta after a record surge in July.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/how-thousands-of-migrants-stranded-in-ceuta-are-surviving",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790024674.jpg?resize=1920%2C1080&quality=80",
+      "publishedAt": "2026-09-21T21:04:44Z",
+      "content": "Authorities estimate that at least 10,000 people remain in the enclave of Ceuta after a record surge of 72,000 migrants crossed from Morocco to Ceuta over the course of two days in late July, overwhe\u2026 [+56 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Foreign Policy"
+      },
+      "author": "Abdalfatah Alburhan",
+      "title": "How to Bring Peace to Sudan",
+      "description": "The president of the country\u2019s Transitional Sovereignty Council argues that any solution must be homemade.",
+      "url": "http://foreignpolicy.com/2026/09/21/sudan-war-humanitarian-crisis-abdalfatah-alburhan-rapid-support-forces-peace-settlement/",
+      "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2026/09/sudan-war-peace-plan-GettyImages-2273214609.jpg",
+      "publishedAt": "2026-09-21T21:03:03Z",
+      "content": "Well into its fourth year, the war in Sudan is the worlds largest humanitarian crisis. At least 59,000 people have been killed and more than 14 million displaced, while famine and widespread sexual v\u2026 [+5873 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Gandharv Walia",
+      "title": "Quote of the day by Epicurus: 'Live your life without attracting attention.' Life lessons from inspirational quote on true peace, privacy, close bonds and human behaviour",
+      "description": "Quote of the day by Epicurus, \u2018Live your life without attracting attention,\u2019 reflects ideas about peace, privacy, friendship and a simple life. Epicurus believed that people could reduce fear and disturbance by controlling unnecessary desires and avoiding exc\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-epicurus-live-your-life-without-attracting-attention-life-lessons-from-inspirational-quote-on-true-peace-privacy-close-bonds-and-human-behaviour/articleshow/134397356.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134397447,width-1200,height-630,imgsize-76164,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-21T19:59:47Z",
+      "content": "Quote of the day by Epicurus focuses on a simple idea: a person does not need public attention to live a meaningful life. Epicurus, the Greek philosopher who lived from 341 BC to 270 BC, developed a \u2026 [+9107 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Foreign Policy"
+      },
+      "author": "David Miliband",
+      "title": "The U.N. Sustainable Development Goals Are Outdated",
+      "description": "Countries committed to end poverty. They never accounted for forever wars.",
+      "url": "http://foreignpolicy.com/2026/09/21/united-nations-sustainable-development-goals-sdgs-conflict-aid/",
+      "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2026/09/gaza-war-SDG-middle-east-GettyImages-2281798625.jpg",
+      "publishedAt": "2026-09-21T19:44:50Z",
+      "content": "World leaders are about to choose a new United Nations secretary-general. Whoever gets the job will inherit an uncomfortable truth: The world bodys promise to end poverty, hunger, and disease is in r\u2026 [+6440 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Ed Easton Jr., Chiefs Wire",
+      "title": "Patrick Mahomes earns a FedEx Air NFL Player of the Week nomination",
+      "description": "Kansas City Chiefs quarterback Patrick Mahomes earns a FedEx Air NFL Player of the Week nomination after his Week 2 performance | @EdEastonJr",
+      "url": "https://chiefswire.usatoday.com/story/sports/nfl/chiefs/2026/09/21/kansas-city-chiefs-qb-patrick-mahomes-earns-a-fedex-air-nfl-player-of-the-week-nomination/91877536007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/3ea17808d6eab0ebc227ba966b91a69844cc524a521d452d1e951eae980dc534/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fkansas_city_chiefs_wire_usa_today_sports_articles_178%2Fb81a23ef42dbad9310c841501fec2f67.jpg",
+      "publishedAt": "2026-09-21T19:13:52Z",
+      "content": "The NFL has announced that Kansas City Chiefs quarterback Patrick Mahomes is a nominee for one of this week's FedEx Air &amp; Ground NFL Players of the Week Awards. Mahomes completed 32 of 47 passes \u2026 [+1151 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "Hellena Souisa and Tim Swanston",
+      "title": "Teen suffers memory loss after Indonesian school-meal poisoning",
+      "description": "Indonesia's flagship free school-meals program is facing growing criticism after more students suffer food poisoning, prompting calls for legal action and greater accountability.",
+      "url": "https://www.abc.net.au/news/2026-09-22/indonesias-free-meals-poisoning-under-scrutiny/107166892",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/9ba26838ca07382e8de03f666ae4b902?impolicy=wcms_watermark_news&cropH=1440&cropW=2560&xPos=0&yPos=59&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-09-21T19:09:48Z",
+      "content": "Read the story in Bahasa Indonesia\r\nA new spate of mass food poisonings linked to Indonesia's nationwide free meals program has renewed calls to suspend or cancel the program, as police investigate a\u2026 [+8184 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New Zealand Herald"
+      },
+      "author": "Kaitlyn Morrell",
+      "title": "Tauranga Community Foodbank launches Kai Now initiative in cost-of-living response",
+      "description": "Kai Now initiative has provided more than 8000 meals since August.",
+      "url": "https://www.nzherald.co.nz/bay-of-plenty-times/news/tauranga-community-foodbank-launches-kai-now-initiative-in-response-to-cost-of-living-pressures/O5R5T452XRFD3ITULPVFKKFSV4/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/EGXQVUZRQBBOXCANPEH5O73G2I.jpg?auth=ed59ed5463557053c1742d17e6b951ef7a76fa854ce7db8075c806d51a877d29&width=1200&height=675&quality=70&focal=1078%2C540&smart=false",
+      "publishedAt": "2026-09-21T18:17:39Z",
+      "content": "Tauranga Community Foodbank general manager Nicki Goodwin said the initiative came from growing concerns over households struggling with rising costs.\r\nHow on earth are people getting by? Because we \u2026 [+3720 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "Gabriela Silva Ponte",
+      "title": "Peel Regional Police Association endorses candidate Alvin Tedjo in Mississauga mayoral race",
+      "description": "Peel Regional Police Association is endorsing a candidate in Mississauga\u2019s municipal campaign for what the organization says is the first time in its history. The Peel police union's president said Monday that Tedjo 'understands that public safety is not just\u2026",
+      "url": "https://www.cbc.ca/news/canada/toronto/peel-regional-police-association-endorses-alvin-tedjo-mississauga-municipal-election-9.7352348",
+      "urlToImage": "https://i.cbc.ca/ais/c72401fe-81fc-49b1-aecc-76402afded30,1790010935659/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C378%2C4032%2C2268%29%3BResize%3D620",
+      "publishedAt": "2026-09-21T18:07:39Z",
+      "content": "The Peel Regional Police Association is endorsing a candidate in Mississaugas municipal campaign for what the organization says is the first time in its history.\r\nThe Peel police union announced Mond\u2026 [+5139 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Leyla Hamed",
+      "title": "Ceuta solidarity shirt row: How the crisis engulfed Spanish football",
+      "description": "Football has been dragged into growing tensions over the influx of migrants from Morocco to the Spanish enclave Ceuta.",
+      "url": "https://www.aljazeera.com/sports/2026/9/21/ceuta-solidarity-shirt-row-how-the-crisis-engulfed-spanish-football",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-11T210205Z_1159129090_RC27HNA4KJY9_RTRMADP_3_MIGRATION-EUROPE-SPAIN-CEUTA-1789993924.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-21T17:45:40Z",
+      "content": "Madrid, Spain \u00a0Thirteen minutes into La Ligas Madrid derby on Sunday, a banner was unfurled in the Metropolitano Stadiums south stand stating: Ceuta es Espana. Ni se arruga, ni se tapa. (Ceuta is Spa\u2026 [+6051 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalresearch.ca"
+      },
+      "author": "Mike Whitney",
+      "title": "Trump and Bibi Plan for War While Houthis Blast Riyadh",
+      "description": "On Saturday, the Houthis launched ballistic missiles at targets in Saudi Arabia setting a fuel storage facility ablaze while forcing the closure of the King Khalid International Airport in Riyadh. Saudi\u2019s Civil Defense agency issued emergency alerts for a \u201cho\u2026",
+      "url": "https://www.globalresearch.ca/trump-bibi-plan-war-houthis-blast-riyadh/5941228",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2024/06/red-sea-houthis-yemen.jpeg",
+      "publishedAt": "2026-09-21T17:12:07Z",
+      "content": "On Saturday, the Houthis launched ballistic missiles at targets in Saudi Arabia setting a fuel storage facility ablaze while forcing the closure of the King Khalid International Airport in Riyadh. Sa\u2026 [+21022 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New Zealand Herald"
+      },
+      "author": "Brodie Stone",
+      "title": "Northland parents raise awareness after newborn diagnosed with cystic fibrosis",
+      "description": "Dad Pikikotuku Te Kahu is raising awareness about cystic fibrosis through Sweatember.",
+      "url": "https://www.nzherald.co.nz/northern-advocate/news/northland-parents-raise-awareness-after-newborn-diagnosed-with-cystic-fibrosis/NOJSKVGGOJFW7KHVHVWCZFWFLA/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/PFOQXKSIPJGMNI3435CXA5NB74.jpg?auth=4e95a7068a6de0c0c4c8269b835abe6924e65304ad97f9ec385c11a084bd4fb0&width=1200&height=675&quality=70&focal=955%2C670&smart=false",
+      "publishedAt": "2026-09-21T17:00:00Z",
+      "content": "People with cystic fibrosis are more susceptible to lung inflammation and infection due to thick mucus, and face malnutrition and poor weight gain due to digestive issues.\r\nFor Wilson and Te Kahu, th\u2026 [+3453 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "M23 abuses in Congo mines amount to war crimes, Amnesty International says",
+      "description": "Amnesty International accused M23 rebels in eastern Congo of carrying out abuses and unlawful killings of miners while trafficking critical minerals to neighbouring Rwanda in what it said could amount to war crimes.",
+      "url": "https://www.cbc.ca/news/world/amnesty-international-m23-congo-mines-war-crimes-9.7352048",
+      "urlToImage": "https://i.cbc.ca/ais/8246060b-8b12-4ed3-b961-f4d5fa3d53f0,1790000685701/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C626%2C6018%2C3385%29%3BResize%3D620",
+      "publishedAt": "2026-09-21T15:18:03Z",
+      "content": "Amnesty International accused M23 rebels in eastern Democratic Republic of Congo of carrying out abuses and unlawful killings of miners while trafficking critical minerals to neighbouring Rwanda in w\u2026 [+2863 chars]"
+    },
+    {
+      "source": {
+        "id": "rte",
+        "name": "RTE"
+      },
+      "author": "RT\u00c9 News",
+      "title": "Call to evacuate 'death trap' town in occupied Kherson",
+      "description": "Ukrainian officials have renewed calls to evacuate a town in Russian-occupied southern Ukraine, accusing Russia of causing a humanitarian crisis by making aid deliveries and evacuations virtually impossible.",
+      "url": "https://www.rte.ie/news/2026/0921/1592384-call-to-evacuate-death-trap-town-in-occupied-kherson/",
+      "urlToImage": "https://www.rte.ie/images/00250b82-1600.jpg",
+      "publishedAt": "2026-09-21T14:29:57Z",
+      "content": "Ukrainian officials have renewed calls to evacuate a town in Russian-occupied southern Ukraine, accusing Russia of causing a humanitarian crisis by making aid deliveries and evacuations virtually imp\u2026 [+2733 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Md Parvej Hussain, Mohammod Mahmudur Rahman, Md Rezaul Kader, Md Robiul Islam Talukder, Md Tareq Ferdous Khan, Foyez Ahmmed",
+      "title": "Exploring the association between low birth weight and different forms of child malnutrition: A multi-country propensity score matching analysis in South Asia",
+      "description": "This study investigated the association between low birth weight (LBW) and various forms of child malnutrition across five South Asian countries (Bangladesh, India, Pakistan, Nepal, and the Maldives). Data from the most recent demographic and health surveys w\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358877",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0358877.g004&size=inline",
+      "publishedAt": "2026-09-21T14:00:00Z",
+      "content": "Citation: Hussain MP, Rahman MM, Kader MR, Talukder MRI, Khan MTF, Ahmmed F (2026) Exploring the association between low birth weight and different forms of child malnutrition: A multi-country propen\u2026 [+35992 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Qiu Zhu, Zijing Duan, Yi Dai, Junting Chi, Wangao Guan, Lixuan Dong, Qingjiao Lin, Yingying Fu",
+      "title": "Application of symptom network analysis among patients with gastric cancer: A scoping review",
+      "description": "Objective To map evidence on symptom network analysis in patients with gastric cancer by summarizing study characteristics, commonly used assessment tools, central and bridge symptoms, temporal symptom relationships, and associated factors, and to provide a b\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358940",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0358940.t004&size=inline",
+      "publishedAt": "2026-09-21T14:00:00Z",
+      "content": "Citation: Zhu Q, Duan Z, Dai Y, Chi J, Guan W, Dong L, et al. (2026) Application of symptom network analysis among patients with gastric cancer: A scoping review. PLoS One 21(9):\r\n e0358940.\r\nhttps:/\u2026 [+35895 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Liesbeth Frias, Sergio Guerrero-Sanchez, Dirk U. Pfeiffer",
+      "title": "Of cattle and humans: A narrative review on the re-emergence of the New World screwworm (Cochliomyia hominivorax) and its threat to human health",
+      "description": "Following more than two decades of successful elimination of the New World screwworm fly from Central and North America, new outbreaks emerged in Panama in 2023, initially affecting livestock, and rapidly spreading northward to impact not only livestock but a\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014727",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0014727.g001&size=inline",
+      "publishedAt": "2026-09-21T14:00:00Z",
+      "content": "Abstract\r\nFollowing more than two decades of successful elimination of the New World screwworm fly from Central and North America, new outbreaks emerged in Panama in 2023, initially affecting livesto\u2026 [+50938 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Nisar Majid, Research associate, London School of Economics and Political Science",
+      "title": "A decade on, Somalia\u2019s federal pact benefits elites and al-Shabaab \u2013 but it fails the people",
+      "description": "Somalia\u2019s status quo profits the elite while bringing questionable benefits to the majority of the public.",
+      "url": "https://theconversation.com/a-decade-on-somalias-federal-pact-benefits-elites-and-al-shabaab-but-it-fails-the-people-291192",
+      "urlToImage": "https://images.theconversation.com/files/760487/original/file-20260917-50-72edi6.jpg?ixlib=rb-4.1.1&rect=0%2C569%2C4841%2C2420&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-09-21T13:48:29Z",
+      "content": "The federal government of Somalia was established in 2013 after years of peace and reconciliation talks, held in the context of a famine in 2011 and the rise of militant Islam in the form of al-Shaba\u2026 [+6240 chars]"
+    },
+    {
+      "source": {
+        "id": "rt",
+        "name": "RT"
+      },
+      "author": "RT",
+      "title": "This region is now a key test for BRICS",
+      "description": "The New Delhi summit marked the start of a crucial new phase for the group\u2019s African partners Read Full Article at RT.com",
+      "url": "https://www.rt.com/africa/646039-africa-test-for-brics/",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6ab11e5a85f5406c4f5d3bde.jpg",
+      "publishedAt": "2026-09-21T13:25:16Z",
+      "content": "By Nikolay Golovko, the leading expert of the Center for African Studies at Moscow\u2019s Higher School of Economics (HSE)In the past few years, BRICS has seen rapid expansion. In 2024, Egypt, Ethiopia, I\u2026 [+7014 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Www.gov.uk"
+      },
+      "author": null,
+      "title": "UN Human Rights Council 63: UK Statement for the Interactive Dialogue on unilateral coercive measures",
+      "description": "UK Statement for the Interactive Dialogue on unilateral coercive measures. Not delivered due to time constraints.",
+      "url": "https://www.gov.uk/government/news/un-human-rights-council-63-uk-statement-for-the-interactive-dialogue-on-unilateral-coercive-measures",
+      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "publishedAt": "2026-09-21T13:06:09Z",
+      "content": "Mr Vice-President,\r\nThe United Kingdom thanks the Special Rapporteur for her vision-mapping report.\r\nWe welcome its emphasis on evidence-based analysis and on understanding the differentiated impacts\u2026 [+1303 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Www.gov.uk"
+      },
+      "author": null,
+      "title": "UN Human Rights Council 63: UK Statement for the Interactive Dialogue on Afghanistan",
+      "description": "UK Statement for the Interactive Dialogue on Afghanistan. Not delivered due to time constraints.",
+      "url": "https://www.gov.uk/government/news/un-human-rights-council-63-uk-statement-for-the-interactive-dialogue-on-afghanistan",
+      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "publishedAt": "2026-09-21T13:04:51Z",
+      "content": "Mr Vice President,\r\nThe United Kingdom thanks the Special Rapporteur for his report.\r\nFive years after the Talibans return to power, we remain deeply concerned by the continued deterioration of human\u2026 [+1087 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "EVE BRENNAN Associated Press",
+      "title": "Amnesty accuses M23 of abuses amounting to war crimes at Congo mines",
+      "description": "Amnesty International has accused M23 rebels in eastern Congo of abuses and unlawful killings of miners while trafficking minerals to Rwanda, in what it said could amount to war crimes",
+      "url": "https://abcnews.com/International/wireStory/amnesty-accuses-m23-abuses-amounting-war-crimes-congo-136614802",
+      "urlToImage": "https://i.abcnewsfe.com/a/aa0999a4-8adf-49af-b7af-7ae32a2935ea/wirestory_5b3ab989adbac990144fed20ca0a5c5e_16x9.jpg?w=1600",
+      "publishedAt": "2026-09-21T12:10:26Z",
+      "content": "DAKAR, Senegal -- Amnesty International accused M23 rebels in eastern Congo of carrying out abuses and unlawful killings of miners while trafficking critical minerals to neighboring Rwanda, in what i\u2026 [+2532 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Falcoholic"
+      },
+      "author": "Dave Choate",
+      "title": "Falcons vs. Panthers recap: A famine for the eyes",
+      "description": "The Falcons can\u2019t seem to beat the Panthers, and the latest loss might have been the ugliest yet.",
+      "url": "https://www.thefalcoholic.com/atlanta-falcons-scores-results/96394/falcons-vs-panthers-recap-a-famine-for-the-eyes-bijan-robinson-drake-london",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/651591e4fa586c07a5368fb78ecc0e9cc1abb6a5cef789744eff7ffcf7024840/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F5e880deb9e5c6a1551a73ae2785caa77.jpg",
+      "publishedAt": "2026-09-21T12:00:00Z",
+      "content": "Every NFL season begins with a glimmer of hope, a flickering candle in the darkness that seems to show an open door. If you're a good team, that light burns brighter and longer, and your confident st\u2026 [+11490 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "5 Million Sudanese Return Home to Broken Places, IOM Warns",
+      "description": "More than 5.1 million people have returned to their areas of origin in Sudan, while 8.6 million remain displaced, the International Organization for Migration (IOM) said today. Many are going back to a country still wracked by conflict, where damaged homes, s\u2026",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260921-iom02.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-21T12:00:00Z",
+      "content": "International Organization for Migration\r\nNews - Global21 September 2026\r\nGeneva, 21 September 2026 -- More than 5.1 million people have returned to their areas of origin in Sudan, while 8.6 million \u2026 [+3408 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "UN News"
+      },
+      "author": "dpicampaigns",
+      "title": "Ebola vaccine trial begins in DR Congo",
+      "description": "An Ebola vaccine trial is underway in the Democratic Republic of the Congo (DRC), involving frontline health workers and others involved in the response. Read Full Story on UN News\nThe post Ebola vaccine trial begins in DR Congo appeared first on United Natio\u2026",
+      "url": "https://news.un.org/en/story/2026/09/1168381",
+      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/03-06-2026-WFP-DR-Congo-ebola-01.jpg/image770x420cropped.jpg",
+      "publishedAt": "2026-09-21T12:00:00Z",
+      "content": "The UN World Health Organization (WHO) said on Monday that 20,000 doses of the Ervebo vaccine have been allocated for the research vaccination programme in Ituri province.\r\nThe aim of the trial is to\u2026 [+3212 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Ebola vaccine trial begins in DR Congo",
+      "description": "An Ebola vaccine trial is underway in the Democratic Republic of the Congo (DRC), involving frontline health workers and others involved in the response.",
+      "url": "https://www.globalsecurity.org/security/library/news/2026/09/sec-260921-unnews01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-21T12:00:00Z",
+      "content": "21 September 2026 - An Ebola vaccine trial is underway in the Democratic Republic of the Congo (DRC), involving frontline health workers and others involved in the response.\r\nThe UN World Health Orga\u2026 [+4756 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Minister Anand meets with Qatar's Prime Minister and Minister of Foreign Affairs",
+      "description": "The Honourable Anita Anand, Minister of Foreign Affairs, met with His Excellency Sheikh Mohammed bin Abdulrahman Al Thani, Prime Minister and Minister of Foreign Affairs, State of Qatar, on the margins of the UN General Assembly in New York City, New York.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/canada/2026/canada-260921-canada02.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-21T12:00:00Z",
+      "content": "Global Affairs Canada\r\nSeptember 21, 2026 - New York City, New York - Global Affairs Canada\r\nThe Honourable Anita Anand, Minister of Foreign Affairs, met with His Excellency Sheikh Mohammed bin Abdul\u2026 [+1589 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Common Dreams"
+      },
+      "author": "Phyllis Bennis",
+      "title": "Progressive Principles for a New US Foreign Policy",
+      "description": "For many years, progressive movements and activists have longed for the moment when we could imagine a real foreign policy rooted in true internationalism and solidarity.But in our efforts to influence actual policy decisions, we\u2019ve settled for important but \u2026",
+      "url": "https://www.commondreams.org/opinion/what-does-progressive-foreign-policy-look-like",
+      "urlToImage": "https://www.commondreams.org/media-library/image.jpg?id=67800902&width=1200&height=600&coordinates=0%2C416%2C0%2C417",
+      "publishedAt": "2026-09-21T11:23:22Z",
+      "content": "For many years, progressive movements and activists have longed for the moment when we could imagine a real foreign policy rooted in true internationalism and solidarity.\r\nBut in our efforts to influ\u2026 [+19070 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Why do Sudan\u2019s humanitarian truces keep failing and who is to blame?",
+      "description": "Efforts to bring about humanitarian truces in Sudan hit a dead end as warring factions prioritise battlefield victories.",
+      "url": "https://www.aljazeera.com/news/2026/9/21/why-do-sudans-humanitarian-truces-keep-failing-and-who-is-to-blame",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a8e94f0461f-1787729136.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-21T11:22:40Z",
+      "content": "Efforts to bring about truces in Sudan are continuing to hit a dead end, with fighting continuing and worsening the countrys dire humanitarian situation.\r\nRenewed efforts, including by the United Sta\u2026 [+5497 chars]"
+    },
     {
       "source": {
         "id": null,

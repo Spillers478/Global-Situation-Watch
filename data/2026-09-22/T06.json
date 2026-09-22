@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 1,
+  "totalResults": 2,
   "articles": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Siddhi Dharmadhikari",
+      "title": "Delhi riots UAPA case: High court to hear Umar Khalid, Sharjeel Imam bail pleas on September 30",
+      "description": "Delhi high court on Monday deferred the bail pleas of activists Umar Khalid and Sharjeel Imam in the UAPA case linked to the alleged larger conspiracy behind the February 2020 northeast Delhi riots to September 30. The hearing was adjourned after Delhi Police\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/delhi-riots-uapa-case-high-court-to-hear-umar-khalid-sharjeel-imam-bail-pleas-on-september-30/articleshow/134388058.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134388128,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T11:16:24Z",
+      "content": "<ul><li>News</li>\r\n<li>City News</li>\r\n<li>delhi News</li>\r\n<li>Delhi riots UAPA case: High court to hear Umar Khalid, Sharjeel Imam bail pleas on September 30</li></ul>\r\nFollow Us On Social Media\r\nV\u2026 [+2053 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",

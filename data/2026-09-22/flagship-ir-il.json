@@ -1,409 +1,45 @@
 {
   "status": "ok",
-  "totalResults": 511,
+  "totalResults": 1025,
   "articles": [
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Lifestyle Desk",
-      "title": "Kenneth Cole bought an 11.35-acre New York estate for $2.8 million in 1991; after 35 years of gardens, pools and renovations, he is asking $16 million",
-      "description": "News News: Fashion designer Kenneth Cole is once again putting his longtime family estate in Purchase, New York, on the market, more than 30 years after buying t.",
-      "url": "https://timesofindia.indiatimes.com/real-estate/news/kenneth-cole-bought-an-11-35-acre-new-york-estate-for-2-8-million-in-1991-after-35-years-of-gardens-pools-and-renovations-he-is-asking-16-million/articleshow/134387852.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134387892,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-21T11:04:18Z",
-      "content": "<ul><li>News</li>\r\n<li>Real Estate News</li>\r\n<li>Kenneth Cole bought an 11.35-acre New York estate for $2.8 million in 1991; after 35 years of gardens, pools and renovations, he is asking $16 millio\u2026 [+3892 chars]"
-    },
-    {
-      "source": {
-        "id": "new-york-magazine",
-        "name": "New York Magazine"
-      },
-      "author": "Michael Calderone",
-      "title": "The Long Shadow of Biden\u2019s Gaza Fiasco",
-      "description": "Could Kamala Harris chart a new course on the Israel-Palestinian conflict in a 2028 presidential run?",
-      "url": "http://nymag.com/intelligencer/article/joe-biden-kamala-harris-gaza.html",
-      "urlToImage": "https://pyxis.nymag.com/v1/imgs/56c/901/7c008865283041fd36f273e3ca7c5b71f0-jaq-harris-netanyahu.1x.rsocial.w1200.jpg",
-      "publishedAt": "2026-09-21T11:00:19Z",
-      "content": "The 2024 election season was particularly tumultuous in Michigan, Senate candidate Abdul El-Sayed recalled on Friday. In his home state, more than 100,000 Democrats voted uncommitted in the president\u2026 [+9870 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hurriyet Daily News"
-      },
-      "author": "hurriyetdailynews.com",
-      "title": "Trump \u2018open\u2019 to meeting with Pezeshkian in New York",
-      "description": "U.S. President Donald Trump has indicated that he would be willing to meet with Iranian President Masoud Pezeshkian in New York this week, as Washington considers its next military steps and Tehran sets out conditions for bringing the nearly seven-month-old w\u2026",
-      "url": "https://www.hurriyetdailynews.com/trump-open-to-meeting-with-pezeshkian-in-new-york-227130",
-      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6ab10cd829066eaba7b377a3.jpg",
-      "publishedAt": "2026-09-21T10:54:39Z",
-      "content": "WASHINGTON, DC\r\nU.S. President Donald Trump (DHA Photo)\r\nU.S. President Donald Trump has indicated that he would be willing to meet with Iranian President Masoud Pezeshkian in New York this week, as \u2026 [+2413 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Raw Story"
-      },
-      "author": "Alexander Willis",
-      "title": "Panic as Trump admin rolls out \u2018actually insane\u2019 flight tool: \u2018Isn\u2019t going to end well\u2019",
-      "description": "The Trump administration is rolling out an experimental air traffic control system\r\n on Monday that uses AI to assist with recommending flight routes and predicting traffic flows, and would-be travelers expressed outright panic.\u201cSo this isn't going to end wel\u2026",
-      "url": "https://www.rawstory.com/ai-air-traffic-control/",
-      "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=67800830&width=1200&height=600&coordinates=0%2C417%2C0%2C418",
-      "publishedAt": "2026-09-21T10:54:01Z",
-      "content": "The Trump administration is rolling out an experimental air traffic control system\r\n on Monday that uses AI to assist with recommending flight routes and predicting traffic flows, and would-be travel\u2026 [+1790 chars]"
-    },
     {
       "source": {
         "id": null,
         "name": "Crypto Briefing"
       },
       "author": "Estefano Gomez",
-      "title": "Iran conflict drives oil prices up, boosts EV demand and battery metals",
-      "description": "Geopolitical tensions are reshaping energy markets, accelerating the shift to EVs and increasing demand for critical battery metals.\nThe post Iran conflict drives oil prices up, boosts EV demand and battery metals appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/iran-conflict-drives-oil-prices-up-boosts-ev-demand-and-battery-metals/",
-      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/08093645/pexels-photo-16862261-699x457.jpeg",
-      "publishedAt": "2026-09-21T10:52:34Z",
-      "content": "The ongoing conflict involving Iran has caused a surge in oil prices, which in turn has accelerated the demand for electric vehicles (EVs) and the metals required for their batteries. Brent crude has\u2026 [+1968 chars]"
+      "title": "Trump opts out of joint military strikes with Saudi Arabia in Yemen",
+      "description": "The U.S. decision may signal a cautious stance on Middle Eastern conflicts, potentially affecting diplomatic relations and market expectations.\nThe post Trump opts out of joint military strikes with Saudi Arabia in Yemen appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/trump-opts-out-of-joint-military-strikes-with-saudi-arabia-in-yemen/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/21170527/cb-card-geo-168-800x420.png",
+      "publishedAt": "2026-09-21T21:05:28Z",
+      "content": "President Donald Trump has decided not to participate in joint military strikes with Saudi Arabia against the Houthis in Yemen, according to a report by Jonathan Swan. This decision follows intense l\u2026 [+1475 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Newser"
+        "name": "Freerepublic.com"
       },
-      "author": "John Johnson with Newser.AI",
-      "title": "Big Question Looms for Trump on Another Aspect of Iran War",
-      "description": "President Trump keeps edging toward\u2014and then backing away from\u2014what could amount to a significant escalation in the war with Iran, the New York Times reports. For weeks, he has been weighing urgent Saudi requests to hit Iran-backed Houthi forces that have res\u2026",
-      "url": "https://www.newser.com/story/396758/big-question-looms-for-trump-on-another-aspect-of-iran-war.html",
-      "urlToImage": "https://cdn.newser.com/image/1712843-12-20260921055124.jpeg",
-      "publishedAt": "2026-09-21T10:51:24Z",
-      "content": "President Trump keeps edging toward\u2014and then backing away from\u2014what could amount to a significant escalation in the war with Iran, the New York Times reports. For weeks, he has been weighing urgent S\u2026 [+529 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "By Mike Dolan",
-      "title": "Morning Bid: Summiteering",
-      "description": "By Mike Dolan Sept 21 (Reuters) - After a turbulent week of central bank tightening, markets now turn to diplomacy - or at least top-level summits - as world...",
-      "url": "https://finance.yahoo.com/economy/policy/articles/morning-bid-summiteering-104146934.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/28aa6791d92164e36cfb5576d5396d9a74ba4b96a997888831e0b3a20c482478/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F405dfb9f9d520d88eba9d5632dfb4813.jpg",
-      "publishedAt": "2026-09-21T10:41:46Z",
-      "content": "By Mike Dolan\r\nSept 21 (Reuters) - After a turbulent week of central bank tightening, markets now turn to diplomacy - or at least top-level summits - as world leaders gather at the United Nations Gen\u2026 [+3812 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Reuters",
-      "title": "Trump's favorite 2026 campaign target is Biden: nearly 900 mentions and counting",
-      "description": "Donald Trump has invoked Joe Biden nearly 900 times this year as Republicans head into the November midterms, repeatedly blaming his predecessor for problems ranging from inflation and immigration to foreign policy, according to a Reuters review. The strategy\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/trumps-favorite-2026-campaign-target-is-biden-nearly-900-mentions-and-counting/articleshow/134387342.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134387339,width-1200,height-630,imgsize-125854,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-21T10:39:34Z",
-      "content": "WASHINGTON: US President Donald Trump has invoked Joe Biden's name almost 900 times this year, a Reuters review shows, keeping his predecessor at the center of debate as Republicans fight to hold the\u2026 [+7994 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Usaid Siddiqui",
-      "title": "How oil, gas losses have shrunk Iran\u2019s GDP by 10 percent during war",
-      "description": "The oil and gas sector shrank 26 percent, new official data shows, pointing to the costs of the US-Israel war on Iran.",
-      "url": "https://www.aljazeera.com/news/2026/9/21/how-oil-gas-losses-have-shrunk-irans-gdp-by-10-percent-during-war",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6ab0e85b3c47-1789978715.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-09-21T10:38:41Z",
-      "content": "Amid the US-Israel war on Iran, the countrys economy has suffered a sharp contraction, with its crucial oil and gas sector taking the biggest hit as the United States tightens its economic and milita\u2026 [+5942 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "author": "Team BL, KS Badri Narayanan",
-      "title": "Sensex today | Stock Market Highlights: Sensex rises 564 pts, Nifty closes at 23,414; Rupee ends at 95.81 in subdued trade",
-      "description": "Sensex, Nifty, Stock Price Highlights: Indian shares edged higher on Monday, \u200baided by bargain-buying following recent losses, while elevated crude prices \u200cand heightened primary market activity limited the gains.",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-21st-september-2026/article71488721.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/wlus8d/article71487917.ece/alternates/LANDSCAPE_1200/PO20_Stockmarket_eyeglasses.jpg",
-      "publishedAt": "2026-09-21T10:38:06Z",
-      "content": "<li></li>\r\nSeptember 21, 2026 16:05This live blog is closed for the day.\r\n<li></li>\r\nSeptember 21, 2026 16:04Julius Baer appoints Jayesh Kothari as Chief Human Resources Officer as it accelerates gro\u2026 [+77950 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Standard"
-      },
-      "author": "Capital Market",
-      "title": "Sensex settles 564 pts higher; Nifty ends above 23,400 level",
-      "description": "As per provisional closing data, the S&P BSE Sensex jumped 564.03 points or 0.76% to 74,858.99. The Nifty 50 index added 67.90 points or 0.29% to 23,414.30.",
-      "url": "https://www.business-standard.com/markets/capital-market-news/sensex-settles-564-pts-higher-nifty-ends-above-23-400-level-126092100713_1.html",
-      "urlToImage": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
-      "publishedAt": "2026-09-21T10:34:50Z",
-      "content": "The key equity indices ended with modest gains on Monday, supported by value buying in select counters and a recovery in oil-sensitive stocks following a decline in crude prices. However, lingering g\u2026 [+7677 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rigzone"
-      },
-      "author": "Andreas Exarheas",
-      "title": "Has the Oil Market Changed Forever?",
-      "description": "Has the oil market changed forever following the U.S.-Iran conflict?",
-      "url": "https://www.rigzone.com/news/has_the_oil_market_changed_forever-21-sep-2026-184660-article/",
-      "urlToImage": "https://images.rigzone.com/images/news/articles/Has-the-Oil-Market-Changed-Forever-184660-1200x628.png",
-      "publishedAt": "2026-09-21T10:33:37Z",
-      "content": "Has the oil market changed forever following the U.S.-Iran conflict? If so, why?\r\nThese were the questions Rigzone posed to several oil and gas analysts to try and find out if the oil industry will u\u2026 [+8432 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Crypto Briefing"
-      },
-      "author": "Editorial Team",
-      "title": "Trump presses Zelenskyy to halt strikes on Russian refineries as US diesel tops $6 a gallon",
-      "description": "Trump's push for de-escalation highlights the complex interplay between international conflict and domestic economic pressures.\nThe post Trump presses Zelenskyy to halt strikes on Russian refineries as US diesel tops $6 a gallon appeared first on Crypto Brief\u2026",
-      "url": "https://cryptobriefing.com/trump-zelenskyy-russian-refinery-strikes/",
-      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/21063100/library-trump-presses-zelenskyy-to-halt-strikes-on-russian-refin-800x450.png",
-      "publishedAt": "2026-09-21T10:31:07Z",
-      "content": "The US president is linking Ukrainian drone attacks on Russian oil infrastructure to record fuel prices at home, adding a new pressure point to an already fraught diplomatic relationship. President D\u2026 [+2867 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nakedcapitalism.com"
-      },
-      "author": "Yves Smith",
-      "title": "Fundraiser 2026: Finding the High Ground in the Informational Fog",
-      "description": "Fundraiser 2026 begins! Please give generously to back wide-ranging, penetrating news coverage, analysis, and a great commentariat.",
-      "url": "https://www.nakedcapitalism.com/2026/09/fundraiser-2026-finding-the-high-ground-in-the-informational-fog.html",
-      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2026/09/00-fog-300x244.jpg",
-      "publishedAt": "2026-09-21T10:30:25Z",
-      "content": "It\u2019s fundraiser time! If you love Naked Capitalism and know you intend to give, get this campaign off to a fast start. Proceed directly to the Tip Jar and give bigly! \r\nOver the past year, readers ha\u2026 [+15404 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nakedcapitalism.com"
-      },
-      "author": "Yves Smith",
-      "title": "Fundraiser 2026: What We Did for You in the Past Year",
-      "description": "Naked Capitalism rose to the challenge of 2026 breakdowns with steely-eyed coverage. Give generously to keep us unbought and unbossed.",
-      "url": "https://www.nakedcapitalism.com/2026/09/fundraiser-2026-what-we-did-for-you-in-the-past-year.html",
+      "author": "Tousi TV",
+      "title": "Armed Iranians Assassinate IRGC Police Captain - Trump Shuts Down Iran Airlines",
+      "description": "IRGC police captain assassinated. Balluchi insurgents 86 another mass murderer. \"Gas leaks\" abound. Trump is ending Iranian civilian airlines. Unidentified objects in skies.",
+      "url": "https://freerepublic.com/focus/f-chat/4396376/posts",
       "urlToImage": null,
-      "publishedAt": "2026-09-21T10:29:04Z",
-      "content": "As we describe in our fundraiser kickoff post, 2026 has spun well out of \u201cold normal\u201d bounds. Yet we\u2019ve risen to the task of providing even more extensive and in-depth coverage of a world roiled by T\u2026 [+14564 chars]"
+      "publishedAt": "2026-09-21T21:03:58Z",
+      "content": "Skip to comments.\r\nArmed Iranians Assassinate IRGC Police Captain - Trump Shuts Down Iran AirlinesTousi TV ^\r\n | 21/9/26\r\n | Mahyar Tousi\r\nPosted on 09/21/2026 2:03:58 PM PDT by Eleutheria5\r\nIRGC pol\u2026 [+4637 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "The Local Germany"
+        "name": "Biztoc.com"
       },
-      "author": "Imogen Goodman",
-      "title": "What does Germany's fuel price cut mean for drivers?",
-      "description": "Energy prices have been soaring in Germany in the wake of the Iran war. The government will soon bring in new measure to cut prices at the pump \u2013 but will motorists notice a difference?",
-      "url": "https://www.thelocal.de/20260921/what-does-germanys-fuel-price-cut-mean-for-drivers",
-      "urlToImage": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/03/watermarks-logo-AFP__20260313__A36F7ZY__v1__MidRes__GermanyIranIsraelUsWarEconomyEnergyPetrol.jpg@webp",
-      "publishedAt": "2026-09-21T10:18:04Z",
-      "content": "Energy prices have been soaring in Germany in the wake of the Iran war. The government will soon bring in new measure to cut prices at the pump but will motorists notice a difference?\r\n What's going \u2026 [+5096 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cointelegraph"
-      },
-      "author": "Cointelegraph by William Suberg",
-      "title": "BTC price nears eight-month high above $85K: Five things to know in Bitcoin this week",
-      "description": "Bitcoin price momentum sees fresh strength as BTC returns to $85,000 for the first time since January.",
-      "url": "https://cointelegraph.com/markets/btc-price-nears-eight-month-high-above-85k-five-things-to-know-in-bitcoin-this-week",
-      "urlToImage": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M31Q8BFZ8GX28390FWKSDR14/hi-why-i-am-cynically-bullish-about-the-bitcoin-4.jpg",
-      "publishedAt": "2026-09-21T10:15:51Z",
-      "content": "Bitcoin (BTC) starts a new week at its highest levels in nearly eight months as bulls propel the market to $85,000.\r\nKey points:\r\n<ul><li>Bitcoin hit $85,248 on Monday, marking its highest levels sin\u2026 [+7364 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "author": "feedfeeder",
-      "title": "Tech leads shares higher in Asia as oil slips - Reuters",
-      "description": "Tech leads shares higher in Asia as oil slipsReuters Global Stocks Rally, Yields Lower as Oil Prices Extend FallsWSJ Houthi-Saudi tensions rise; U.S.-China AI safety plan - what\u2019s moving marketsInvesting.com Stock Market Today: Dow, S&P 500 and Nasdaq set to \u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185727062",
-      "urlToImage": null,
-      "publishedAt": "2026-09-21T10:12:59Z",
-      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Al Jazeera Staff",
-      "title": "A simple guide to the Yemen conflict",
-      "description": "Here\u2019s a brief history of Yemen\u2019s war - from the Houthi takeover in 2014 to the latest escalation.",
-      "url": "https://www.aljazeera.com/news/2026/9/21/a-brief-history-of-the-yemen-conflict",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26261533909909-1789981257.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-09-21T10:01:30Z",
-      "content": "Yemen is back in the global spotlight after the Iran-aligned Houthi group earlier this month made military gains against the forces loyal to the internationally recognised government, tightening its \u2026 [+10042 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "China \u2018wiretapped Red Sea\u2019 with spy hub 6 miles from US base: ex Pentagon official warns",
-      "description": "China's upgraded base near Camp Lemonnier features new antennas and signals intelligence assets turning the Red Sea into a surveillance hub.",
-      "url": "https://www.foxnews.com/world/china-wiretapped-red-sea-spy-hub-6-miles-us-base-ex-pentagon-official-warns",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/trump-chi-djibouti-1.jpg",
-      "publishedAt": "2026-09-21T10:00:50Z",
-      "content": "Beijing has transformed the Red Sea into a dangerous surveillance hub, a former Pentagon official warned Sunday, after a new report revealed upgrades to Chinas military footprint just six miles from \u2026 [+7888 chars]"
-    },
-    {
-      "source": {
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "author": "James Rose",
-      "title": "Canadian oil and gas industry on track for biggest dealmaking boom in a decade, analysts say",
-      "description": "Canada's oilpatch made $30 billion worth of deals so far. Analysts say it could surpass the previous peak of $53 billion from 2017. Read on.",
-      "url": "https://financialpost.com/commodities/energy/oil-gas/canada-oilpatch-track-biggest-dealmaking-boom-decade",
-      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/09/no0918oil.jpg",
-      "publishedAt": "2026-09-21T10:00:45Z",
-      "content": "Shares of oil and gas companies tend to rise and fall with oil prices, which have been on a wild ride since the Iran war started in late February.\r\nBefore the conflict, West Texas Intermediate, North\u2026 [+3143 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Inside a camp for Yemeni refugees who have fled to Djibouti",
-      "description": "Fighting on Yemen's west coast has prompted thousands of people to flee by boat across the Bab al-Mandab Strait.",
-      "url": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e60f/live/da3d9d40-b59d-11f1-abe6-535e7b14de4c.jpg",
-      "publishedAt": "2026-09-21T10:00:31Z",
-      "content": "Fighting on Yemen's west coast has prompted thousands of people to flee by boat across the Bab al-Mandab Strait to Djibouti over the last ten days.\r\nThe BBC's Frank Gardner visited a refugee camp in \u2026 [+422 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Raw Story"
-      },
-      "author": "Thom Hartmann",
-      "title": "A tsunami of jailings will drown Trump and his gang \u2014 his latest acts signed the warrants",
-      "description": "A new Economist/YouGov poll of registered voters that just came out this week found that the top two words that Americans across the board endorse to describe Donald Trump are \u201ccorrupt\u201d (53%) and \u201cdangerous\u201d (51%). Not even half of registered Republican voter\u2026",
-      "url": "https://www.rawstory.com/raw-investigates/trump-jail/",
-      "urlToImage": "https://www.rawstory.com/media-library/president-donald-trump-secretary-of-state-marco-rubio-and-defense-secretary-pete-hegseth-attend-a-cabinet-meeting-at-the-white.jpg?id=61734622&width=1200&height=600&coordinates=0%2C459%2C0%2C459",
-      "publishedAt": "2026-09-21T10:00:06Z",
-      "content": "A new Economist/YouGov poll of registered voters that just came out this week found that the top two words that Americans across the board endorse to describe Donald Trump are corrupt (53%) and dange\u2026 [+13418 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "World leaders descend on New York for UNGA \u2014 but who really has America\u2019s ear?",
-      "description": "Over 100 world leaders descend on the United Nations General Assembly as wars in the Middle East and Ukraine dominate the diplomatic agenda.",
-      "url": "https://www.foxnews.com/world/world-leaders-descend-new-york-unga-who-really-has-americas-ear",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/donald-trump-un-general-assembly-speech-2.jpg",
-      "publishedAt": "2026-09-21T10:00:05Z",
-      "content": "UNITED NATIONS, NEW YORK More than 100 presidents and prime ministers will descend on New York this week for one of the busiest gatherings on the diplomatic calendar, arriving at a United Nations con\u2026 [+6333 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Atlantic"
-      },
-      "author": "Eliot A. Cohen",
-      "title": "Don\u2019t Ask How This War Ends",
-      "description": "It is, unfortunately, the wrong question.",
-      "url": "https://www.theatlantic.com/ideas/2026/09/dont-ask-how-the-iran-war-ends/688724/",
-      "urlToImage": "https://cdn.theatlantic.com/thumbor/6PvPqxg4hhAVa5b2bM9rW_YgF0k=/0x187:4382x2469/1200x625/media/img/mt/2026/09/GettyImages_2264384567/original.jpg",
-      "publishedAt": "2026-09-21T10:00:00Z",
-      "content": "During the 2003 Iraq War, thenMajor General David Petraeus famously said to the journalist and historian Rick Atkinson, Tell me how this ends. It is the obvious query to be posed about the conflict w\u2026 [+7286 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The New Republic"
-      },
-      "author": "Michael Tomasky",
-      "title": "If the Democrats Win These Three Senate Seats, an Earthquake Happened",
-      "description": "If I said to you, \u201cQuick, name three states with competitive Senate races,\u201d I\u2019m guessing you\u2019d probably say Texas, Michigan, and Maine. Those are the three that get the most consistent media attention. Then, under those three, there are a number of races in r\u2026",
-      "url": "https://newrepublic.com/article/215629/nixon-andrews-hamilton-democrats-2026",
-      "urlToImage": "https://images.newrepublic.com/fe77637ab0c5060da0dcf29b112705d1c6abe65f.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
-      "publishedAt": "2026-09-21T10:00:00Z",
-      "content": "Lets start with, believe it or not, South Carolina. A poll came out in early September showing Democrat Annie Andrews narrowly leading Darline Graham, who was named to the seat when brother Lindsey d\u2026 [+1644 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Variety"
-      },
-      "author": "Nvivarelli",
-      "title": "Red Sea Film Festival Cancels 2026 Edition, Will Return Next Year",
-      "description": "Saudi Arabia\u2019s Red Sea Film Festival, the most prominent film event and market in the Arab world, has canceled its sixth edition that was scheduled to take place from Dec. 3 to 12. The event will return in the fourth quarter of 2027 with a \u201crenewed vision and\u2026",
-      "url": "https://variety.com/2026/film/festivals/red-sea-film-festival-cancels-2026-edition-1236865126/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/09/RedSeaFF.jpg?w=1000&h=563&crop=1",
-      "publishedAt": "2026-09-21T10:00:00Z",
-      "content": "Saudi Arabia\u2019s Red Sea Film Festival, the most prominent film event and market in the Arab world, has canceled its sixth edition that was scheduled to take place from Dec. 3 to 12.\r\nThe event will re\u2026 [+5477 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rand.org"
-      },
-      "author": "Alexandra Stark",
-      "title": "Never Underestimate the Houthis",
-      "description": "Yemen's Houthi rebels are in a position to shape the next phase of the conflict between the United States and Iran if they attempt to renew their blockade of the Bab al-Mandab Strait. And no one should assume that a deal with Iran will bind what the Houthis d\u2026",
-      "url": "https://www.rand.org/pubs/commentary/2026/09/never-underestimate-the-houthis.html",
-      "urlToImage": "https://www.rand.org/content/rand/pubs/commentary/2026/09/never-underestimate-the-houthis/jcr:content/par/teaser.crop.1200x900.cm.jpeg/1788302061074.jpeg",
-      "publishedAt": "2026-09-21T10:00:00Z",
-      "content": "Just a few years ago, Yemen's Houthi rebels were second- or third-tier members of Iran's \u201cAxis of Resistance,\u201d prompting policymakers to treat them as a subsidiary of Tehran. But while they benefit f\u2026 [+6382 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Anupam Nagar",
-      "title": "Global Market: Euro area bond yields fall as oil prices ease",
-      "description": "Euro area government bond yields fell Monday as lower oil prices eased inflation concerns. Germany\u2019s 10-year Bund yield dropped 4.5 basis points to 3.48%. Investors focused on potential diplomatic progress over Iran and recovering Saudi oil shipments. German \u2026",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-euro-area-bond-yields-fall-as-oil-prices-ease/articleshow/134386398.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134386419,width-1200,height-630,imgsize-174210,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-21T09:59:20Z",
-      "content": "Euro area benchmark government bond yields fell on Monday, tracking a decline in oil prices as investors focused on the potential for easing inflation pressures from lower energy costs. The move came\u2026 [+1798 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Simon Speakman Cordall",
-      "title": "Do Israelis feel any safer now than they did on October 6, 2023?",
-      "description": "Despite having rarely been more secure, public concerns about security continue to dominate the election.",
-      "url": "https://www.aljazeera.com/news/2026/9/21/do-israelis-feel-any-safer-now-than-they-did-on-october-6-2023",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-08-20T145841Z_1031858955_RC2B2NA7QERE_RTRMADP_3_ISRAEL-SYRIA-1789093690.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-09-21T09:54:05Z",
-      "content": "Israels upcoming general election coincides with the third anniversary of the October 7, 2023 attacks, and the issues that concern voters relate, directly or indirectly, to the wars this event trigge\u2026 [+6679 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Yang Xiaotong",
-      "title": "Can the US win the AI cold war with China?",
-      "description": "US attempts to slow down Chinese progress on AI through economic restrictions could backfire.",
-      "url": "https://www.aljazeera.com/opinions/2026/9/21/can-the-us-win-the-ai-cold-war-with-china",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-07-18T093020Z_949791791_RC26GMA04V8Z_RTRMADP_3_CHINA-AI-1789984076.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-09-21T09:50:16Z",
-      "content": "The success of Chinas cheap AI technology has clearly worried American AI companies. Industry leaders have openly called on the US government to take action on competition from the Chinese AI industr\u2026 [+6099 chars]"
+      "author": "tippinsights.com",
+      "title": "Trump Offers No Military Pledge To Yemen In Call Over Houthi Gains",
+      "description": "President Donald Trump spoke by phone Sunday with Yemeni President Rashad Alimi as Iran-backed Houthi forces made territorial gains near the Bab el-Mandeb Strait, a strategically important waterway linking the Red Sea with the Gulf of Aden. \nFour sources fami\u2026",
+      "url": "https://biztoc.com/x/f6c713be79f098b6",
+      "urlToImage": "https://biztoc.com/cdn/f6c713be79f098b6_s.webp",
+      "publishedAt": "2026-09-21T20:59:25Z",
+      "content": "President Donald Trump spoke by phone Sunday with Yemeni President Rashad Alimi as Iran-backed Houthi forces made territorial gains near the Bab el-Mandeb Strait, a strategically important waterway l\u2026 [+150 chars]"
     },
     {
       "source": {
@@ -411,454 +47,168 @@
         "name": "The Times of India"
       },
       "author": "TOI World Desk",
-      "title": "Dubai ruler\u2019s brother Sheikh Ahmed bin Rashid dies at 76, 10-day mourning declared",
-      "description": "Middle East News: Dubai has declared 10 days of official mourning following the death of Sheikh Ahmed bin Rashid Al Maktoum, younger brother of Dubai\u2019s Ruler Sheikh Moh.",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/dubai-rulers-brother-sheikh-ahmed-bin-rashid-dies-at-76-10-day-mourning-declared/articleshow/134385863.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134385867,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-21T09:49:39Z",
-      "content": "Follow Us On Social Media\r\nNvidia CEO Jensen Huang says paying an $8 billion in Californias billionaire tax would be a privilege, but reveals what really scares himRailway accident victims to get ful\u2026 [+1653 chars]"
+      "title": "MrBeast hits back at criticism over $10 million Ghana village project to combat child labour, says he \u2018literally\u2019 supports hometown Greenville after being questioned over overseas spending",
+      "description": "MrBeast has defended his $10 million Ghana village project aimed at combating child labour after being questioned over spending overseas. The YouTuber said he \u201cliterally\u201d supports his hometown of Greenville, North Carolina, highlighting his local philanthropy\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/mrbeast-hits-back-at-criticism-over-10-million-ghana-village-project-to-combat-child-labour-says-he-literally-supports-hometown-greenville-after-being-questioned-over-overseas-spending/articleshow/134397551.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397558,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T20:58:32Z",
+      "content": "<ul><li>News</li>\r\n<li>World News</li>\r\n<li>Rest of World News</li>\r\n<li>MrBeast hits back at criticism over $10 million Ghana village project to combat child labour, says he literally supports homet\u2026 [+3581 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Slashdot.org"
+        "name": "Abcnews.com"
       },
-      "author": "feedfeeder",
-      "title": "Trump Gets Caught in a Dilemma Over a Saudi Plea for Military Help - The New York Times",
-      "description": "Trump Gets Caught in a Dilemma Over a Saudi Plea for Military HelpThe New York Times Trump\u2019s Secret White House Flip-Flopping Chaos on Joining Saudi Attacks on Houthi Rebels in Yemen Is LeakedThe Daily Beast Iran-backed Houthi rebels warn against joining Saud\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185726686",
-      "urlToImage": null,
-      "publishedAt": "2026-09-21T09:33:00Z",
-      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "author": "Reuters",
-      "title": "Gold eases on firmer dollar, profit-taking; Mideast conflict in focus",
-      "description": "Gold prices dip as a stronger dollar and profit-taking weigh in, amid rising tensions in the Middle East.",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-eases-on-firmer-dollar-profit-taking-mideast-conflict-in-focus/article71490843.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/g7qjoq/article71490875.ece/alternates/LANDSCAPE_1200/CorpFile_lead_GGQVGH9OBU.4.jpg.jpg",
-      "publishedAt": "2026-09-21T09:31:59Z",
-      "content": "Gold edged lower on Monday, weighed\r\ndown by a stronger dollar and profit-taking after a rally late\r\nlast week, while market participants kept a close watch on\r\nescalating tensions in the Middle East\u2026 [+1932 chars]"
+      "author": "Michelle Stoddart",
+      "title": "Trump to address UN General Assembly as Iran war looms large",
+      "description": "The president is also set to meet with Gulf leaders impacted by the war with Iran during his trip to New York City.",
+      "url": "https://abcnews.com/Politics/trump-address-general-assembly-iran-war-looms-large/story?id=136621201",
+      "urlToImage": "https://i.abcnewsfe.com/a/fe266d54-3348-48fe-8776-9c6bd3730063/iran-2-ap-gmh-260921_1790015274347_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-09-21T20:52:05Z",
+      "content": "As the war with Iran nears its eighth month -- impacting global oil prices and stability in the Middle East -- President Donald Trump is set to travel to New York City to address global leaders at th\u2026 [+6364 chars]"
     },
     {
       "source": {
         "id": "the-times-of-india",
         "name": "The Times of India"
       },
-      "author": "Vivek Dubey",
-      "title": "'We'll change geography of war': Iran warns US of new weapons, targets",
-      "description": "Middle East News: Iran's Islamic Revolutionary Guard Corps (IRGC) on Monday warned that any fresh escalation with the United States could see Tehran deploy new weapons,.",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/well-change-geography-of-war-iran-warns-us-of-new-weapons-targets/articleshow/134385268.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134385436,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-21T09:11:08Z",
-      "content": "Follow Us On Social Media\r\nPsychology says teenagers who stop sharing everything with parents aren't necessarily losing their bond: Understanding growing independenceMeloni plans burqa, niqab ban in \u2026 [+1943 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Frank  Andrews, Tucker  Reals",
-      "title": "Iran warns new U.S. assault would see it expand \"geography of the war\"",
-      "description": "As President Trump touts a looming decision on his next move in the war, Tehran says any \"new aggression\" would be met with different weapons in new places.",
-      "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-decision-tehran-warns-of-expansion/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/21/3d9fda31-f68d-4b92-b0de-fc9970c6592e/thumbnail/1200x630/b7dce7e223fd7b41360345316625321d/gettyimages-2295730025.jpg",
-      "publishedAt": "2026-09-21T09:05:22Z",
-      "content": "U.S. embassies across the Middle East early Sunday morning local time issued security alerts for American citizens in the region.\u00a0\r\n\"Due to tensions in the Middle East, the security environment remai\u2026 [+1379 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": null,
-      "title": "Aliko Dangote: Refining Nigeria\u2019s oil, helping Africa, and creating wealth",
-      "description": "The world\u2019s richest Black man says he aims to make Africa more self-sufficient and less reliant on imports.",
-      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/9/21/aliko-dangote-refining-nigerias-oil-helping-africa-and-creating-wealth",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1789980871.jpg?resize=1920%2C1080&quality=80",
-      "publishedAt": "2026-09-21T09:02:25Z",
-      "content": "The worlds richest Black man says he aims to make Africa more self-sufficient and less reliant on imports.Nigerian billionaire businessman Aliko Dangote says building his refinery was the hardest cha\u2026 [+868 chars]"
+      "author": "TOI World Desk",
+      "title": "Oregon student remains stuck in South Korea over mental health episode that caused damage worth $170; he is out of prison but country bans his exit",
+      "description": "US News: A 20-year-old engineering student from Portland, Oregon, remained stuck in South Korea months after he was arrested during what his family described a.",
+      "url": "https://timesofindia.indiatimes.com/world/us/oregon-student-remains-stuck-in-south-korea-over-mental-health-episode-that-caused-damage-worth-170-he-is-out-of-prison-but-country-bans-his-exit/articleshow/134397544.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397548,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T20:44:06Z",
+      "content": "<ul><li>News</li>\r\n<li>World News</li>\r\n<li>US News</li>\r\n<li>Oregon student remains stuck in South Korea over mental health episode that caused damage worth $170; he is out of prison but country ban\u2026 [+3469 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Dailymail.com"
+        "name": "The New Republic"
       },
-      "author": "Riath Al-samarrai",
-      "title": "Golf bosses consider moving Tour Championship finale from Dubai to Spain with Middle East war spiralling as Trump considers 'blowing up the entire nation' of Iran",
-      "description": "The DP World Tour is exploring a contingency option in Spain in the unlikely event that they have to relocate their season-ending championship due to the conflict in the Middle East.",
-      "url": "https://www.dailymail.com/sport/golf/article-16147701/golf-tour-championship-dubai-spain-relocation.html",
-      "urlToImage": "https://i.dailymail.com/1s/2026/09/21/09/111372463-0-image-m-11_1789979848677.jpg",
-      "publishedAt": "2026-09-21T09:01:32Z",
-      "content": "The DP World Tour is exploring a contingency option in Spain in the unlikely event that they have to relocate their season-ending championship due to the conflict in the Middle East.\r\nBosses at the c\u2026 [+3070 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "After 6 months of war, US must prepare for a future after Iran\u2019s government falls",
-      "description": "The IRGC, Mojtaba Khamenei and Masoud Pezeshkian compete for power as Iran's Islamic Republic fights for survival amid escalating war and sanctions.",
-      "url": "https://www.foxnews.com/opinion/after-6-months-war-us-must-prepare-future-after-irans-government-falls",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/reza-pahlavi-regime-change-fox-news-001.jpg",
-      "publishedAt": "2026-09-21T09:00:55Z",
-      "content": "Six months into the war, the central question about Irans regime is no longer its missile arsenal, the Islamic Revolutionary Guard Corps (IRGC) ability to menace the Strait of Hormuz, or how long the\u2026 [+9234 chars]"
-    },
-    {
-      "source": {
-        "id": "new-york-magazine",
-        "name": "New York Magazine"
-      },
-      "author": "Jonah Shepp",
-      "title": "The New World Order Is Here",
-      "description": "Former allies are creating a global order in which the U.S. not only no longer leads but cannot even be expected to behave predictably.",
-      "url": "http://nymag.com/intelligencer/article/canada-eu-united-nations-global-order.html",
-      "urlToImage": "https://pyxis.nymag.com/v1/imgs/d42/f44/68010aa823d92a6cf4de29e8026d1820a9-lede-worldorder.1x.rsocial.w1200.jpg",
-      "publishedAt": "2026-09-21T09:00:08Z",
-      "content": "In her annual address in France last week, European Commission president Ursula von der Leyen unveiled a proposal that would have been hard to imagine even a few years ago: a plan to make Canada the \u2026 [+7946 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "anicoll@businessinsider.com (Alex Nicoll)",
-      "title": "A $750 million hedge fund manager shares the 4 things he\u2019s watching as energy markets teeter",
-      "description": "With no clear roadmap for how the Iran war, and pending oil crisis could resolve, here's four things an expert is watching.",
-      "url": "https://markets.businessinsider.com/news/commodities/commodities-fund-manager-oil-prices-iran-war-strategic-reserves-energy-2026-9#article",
-      "urlToImage": "https://i.insider.com/6aad81e56794a2984cfca987?width=1200&format=jpeg",
-      "publishedAt": "2026-09-21T09:00:01Z",
-      "content": "Shortly after the US military's late February strike on Iran and the following Strait of Hormuz blockade, oil seemed poised to reach record heights if the war continued.\r\nInstead, the oil markets hav\u2026 [+7495 chars]"
+      "author": "Hafiz Rashid",
+      "title": "Republican Senate Nominee Who Backed Trump\u2019s War Now Eating Her Words",
+      "description": "The Republican Senate nominee in Iowa is trying to criticize the Iran war\u2019s effect on ordinary people\u2014without mentioning President Trump or her own voting history.\u201cIowans are being squeezed and shouldn\u2019t have to foot the bill at the pump or the checkout line \u2026",
+      "url": "https://newrepublic.com/post/215682/republican-senate-nominee-hinson-criticize-trump-iran-war",
+      "urlToImage": "https://images.newrepublic.com/62c3789605cdfaf7e16d595168d31f847855925a.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2026-09-21T20:41:07Z",
+      "content": "In July, about 16,000 people who were arrested and processed into detention by ICE were given final removal orders, the AP reported, citing data collected by UCLA and U.C. Berkeley as part of the Dep\u2026 [+818 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "NPR"
+        "name": "Freerepublic.com"
       },
-      "author": "Michele Kelemen",
-      "title": "What to know as world leaders converge at the United Nations this week",
-      "description": "United Nations head Ant\u00f3nio Guterres returns to New York for his final U.N. General Assembly as diplomacy falters over wars in Ukraine and the Middle East, and the global body faces deep divisions.",
-      "url": "https://www.npr.org/2026/09/21/nx-s1-5971262/united-nations-general-assembly",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4853x2728+0+206/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F36%2Fa2%2Fb8513b0c4408b983f61eee13d8e9%2Fgettyimages-2293714469.jpg",
-      "publishedAt": "2026-09-21T09:00:00Z",
-      "content": "World leaders are gathering at the United Nations headquarters in New York this week \"in an era of deep uncertainty,\" says U.N. Secretary-General Ant\u00f3nio Guterres.\r\nThis is Guterres' final General As\u2026 [+6137 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PitchBook News & Analysis"
-      },
-      "author": "Kristie Neo",
-      "title": "Brookfield eyes small tickets, high returns with its $5B Catalytic Transition Fund",
-      "description": "Clean energy investment has long had a complicated reputation, but Brookfield believes the sector is showing seeds of promise in India and Southeast Asia. It...",
-      "url": "https://pitchbook.com/news/articles/brookfield-eyes-small-tickets-high-returns-with-its-5b-catalytic-transition-fund",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/27e02f2a278c5d6e4fb500429b3c578afdecfd70dd83b3e9987fa289cd497938/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpitchbook_790%2F99aed542b416f0c7d04340f674ee819f.jpg",
-      "publishedAt": "2026-09-21T09:00:00Z",
-      "content": "Clean energy investment has long had a complicated reputation, but Brookfield believes the sector is showing seeds of promise in India and Southeast Asia. Its Catalytic Transition Fund (CTF) is a dep\u2026 [+5278 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "author": "feedfeeder",
-      "title": "Oil prices slide on hopes of diplomacy in Iran war - Reuters",
-      "description": "Oil prices slide on hopes of diplomacy in Iran warReuters Oil falls as crude flows remain 'surprisingly strong'CNBC Brent Set for Longest Losing Run Since June, Focus on DiplomacyBloomberg.com Oil rises after Houthi attack on Saudi capitalYahoo Finance Saudi \u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185726346",
+      "author": "Tousi TV / YouTube",
+      "title": "Skip navigation\nSearch or ask a question\n\n\n\n\nCreate\n\n\nAvatar image\nLIVE: Armed Iranians Assassinate IRGC Police Captain - Trump Shuts Down Iran Airlines",
+      "description": "Ali Lazar Mehrahbi (probably misspelled/misheard) - IRGC leader in Balushestan assassinated by armed civilians. Video from within Iran of IRGC using the campus of a girls' school for military training. Video of more explosions in Tehran - more \"gas leaks\". Vi\u2026",
+      "url": "https://freerepublic.com/focus/f-news/4396374/posts",
       "urlToImage": null,
-      "publishedAt": "2026-09-21T08:53:13Z",
-      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+      "publishedAt": "2026-09-21T20:38:53Z",
+      "content": "Skip to comments.\r\nSkip navigationSearch or ask a questionCreateAvatar imageLIVE: Armed Iranians Assassinate IRGC Police Captain - Trump Shuts Down Iran AirlinesTousi TV / YouTube ^\r\n | 21 September \u2026 [+2162 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Dailymail.com"
+        "name": "Freerepublic.com"
       },
-      "author": "Eliana Silver",
-      "title": "Trump rejected personal plea by Saudi's Crown Prince Mohammed bin Salman to bomb Houthis, report claims",
-      "description": "Trump had met with advisers the previous day and told them he did not favour launching strikes.",
-      "url": "https://www.dailymail.com/news/article-16147639/Trump-rejected-personal-plea-Saudis-Crown-Prince-Mohammed-bin-Salman-bomb-Houthis-report-claims.html",
-      "urlToImage": "https://i.dailymail.com/1s/2026/09/21/09/111372639-0-image-a-8_1789980574432.jpg",
-      "publishedAt": "2026-09-21T08:52:35Z",
-      "content": "Donald Trump\u00a0rejected a personal plea from\u00a0Saudi Arabia's Crown Prince Mohammed bin Salman to bomb the Houthis, a report has claimed.\r\nAccording to the\u00a0New York Times, Trump had spent weeks undecided\u2026 [+5012 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "InfoQ.com"
-      },
-      "author": "Steef-Jan Wiggers",
-      "title": "AWS Cannot Restore Data Held Only in Damaged Middle East Availability Zones",
-      "description": "AWS has told customers it cannot restore resources and data hosted exclusively in the mec1-az2 availability zone in the UAE, or exclusively in the Bahrain region, after damage during the conflict with Iran. The company says the Bahrain damage spanned multiple\u2026",
-      "url": "https://www.infoq.com/news/2026/09/aws-middle-east-data-loss/",
-      "urlToImage": "https://res.infoq.com/news/2026/09/aws-middle-east-data-loss/en/card_header_image/generatedCard-1789757409960.jpg",
-      "publishedAt": "2026-09-21T08:43:00Z",
-      "content": "Amazon Web Services has told customers it cannot restore data held only in parts of its Middle East regions damaged during the conflict with Iran. In a status update this week covering Middle East (U\u2026 [+6551 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "author": "Michel Martin",
-      "title": "How a national farm leader is dealing with record diesel prices",
-      "description": "John Boyd Jr., president of the National Black Farmers Association, says soaring diesel costs are deepening a farm crisis as farmers face sharply higher fuel costs in the middle of harvest season.",
-      "url": "https://www.npr.org/2026/09/21/nx-s1-5973073/diesel-prices-american-farmers-fuel-costs",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x4608+0+856/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F9c%2F0f26200a44d2917f3556b11bb5de%2Fgettyimages-1793161237.jpg",
-      "publishedAt": "2026-09-21T08:40:54Z",
-      "content": "John Boyd Jr. filled up his tractor on Saturday. The bill was roughly $1,000.\r\nBoyd, a fourth-generation farmer in southwest Virginia, grows soybeans, corn and wheat and raises beef cattle. He is in \u2026 [+2039 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "author": "feedfeeder",
-      "title": "Iran vows 'painful' retaliation as Trump piles on pressure ahead of UN General Assembly meeting - CNBC",
-      "description": "Iran vows 'painful' retaliation as Trump piles on pressure ahead of UN General Assembly meetingCNBC Iran war live: Tehran warns US against new strikes; fighting rages in Yemenaljazeera.com Middle East braces for more violence as Iran claims US is planning to \u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185726164",
+      "author": "Tousi TV / YouTube",
+      "title": "Skip navigationSearch or ask a questionCreateAvatar imageLIVE: Armed Iranians Assassinate IRGC Police Captain - Trump Shuts Down Iran Airlines",
+      "description": "Ali Lazar Mehrahbi (probably misspelled/misheard) - IRGC leader in Balushestan assassinated by armed civilians. Video from within Iran of IRGC using the campus of a girls' school for military training. Video of more explosions in Tehran - more \"gas leaks\". Vi\u2026",
+      "url": "https://freerepublic.com/focus/f-chat/4396374/posts",
       "urlToImage": null,
-      "publishedAt": "2026-09-21T08:32:29Z",
-      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+      "publishedAt": "2026-09-21T20:38:53Z",
+      "content": "Skip to comments.\r\nSkip navigationSearch or ask a questionCreateAvatar imageLIVE: Armed Iranians Assassinate IRGC Police Captain - Trump Shuts Down Iran AirlinesTousi TV / YouTube ^\r\n | 21 September \u2026 [+2738 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Daily Caller"
+      },
+      "author": "Francis Kapper",
+      "title": "Chinese Ships Keep Appearing In America\u2019s Arctic Backyard",
+      "description": "Four Chinese research vessels have operated offshore in the U.S. Arctic so far this year, compared with five during all of 2025.",
+      "url": "https://dailycaller.com/2026/09/21/chinese-resarch-ships-spotted-arctic-us-coast-guard",
+      "urlToImage": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/09/GettyImages-136945530%20(1).jpg",
+      "publishedAt": "2026-09-21T20:32:24Z",
+      "content": "The United States is closely monitoring Chinese research vessels operating near Alaska over concerns that Beijings nominally scientific missions could help it exploit American seabed resources or gai\u2026 [+8535 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Rigzone"
       },
-      "author": "Andreas Exarheas",
-      "title": "JPM Analysts No Longer Have USA-Iran Conflict Baseline",
-      "description": "'We simply don't know how to model the endgame', the analysts said.",
-      "url": "https://www.rigzone.com/news/jpm_analysts_no_longer_have_usairan_conflict_baseline-21-sep-2026-184650-article/",
-      "urlToImage": "https://images.rigzone.com/images/news/articles/JPM-Analysts-No-Longer-Have-USAIran-Conflict-Baseline-184650-1200x628.png",
-      "publishedAt": "2026-09-21T08:28:48Z",
-      "content": "In an oil market report sent to Rigzone on Thursday by Natasha Kaneva, J.P. Morgan\u2019s Head of Global Commodities Strategy, analysts at the company, including Kaneva, conceded that, for the first time \u2026 [+11430 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Ben Werschkul",
-      "title": "Gas prices are higher than they've ever been at this point in recent election cycles",
-      "description": "Another leg up in gas prices to begin September underscores the political headwind that President Trump and Republicans face on the issue, with less than seven weeks left before the midterm elections.The average price of US regular gasoline was $4.32 per gall\u2026",
-      "url": "https://finance.yahoo.com/energy/article/gas-prices-are-higher-than-theyve-ever-been-at-this-point-in-recent-election-cycles-185840023.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/90f974319d70d3dd5e14917ee7324bef06f1aee6b7238a416f281640d4a6f8e7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F316147ab-7c85-4d1a-b1cb-2bf1f6764e5f",
-      "publishedAt": "2026-09-21T08:26:21Z",
-      "content": "Another leg up in gas prices to begin September underscores the political headwind that President Trump and Republicans face on the issue, with less than seven weeks left before the midterm elections\u2026 [+4326 chars]"
-    },
-    {
-      "source": {
-        "id": "rt",
-        "name": "RT"
-      },
-      "author": "RT",
-      "title": "Iran shuts down French cultural center over security concerns",
-      "description": "Tehran has accused the French Embassy-linked institution of operating without authorization and threatening national security",
-      "url": "https://www.rt.com/news/646020-iran-shuts-french-cultural-center/",
-      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6ab0b93885f5406c4f5d3bb6.jpg",
-      "publishedAt": "2026-09-21T08:25:45Z",
-      "content": "Iran has shut down a French-language center in Tehran, accusing the embassy-affiliated institution of operating illegally and engaging in activities which threaten the country\u2019s national security.\r\nR\u2026 [+1982 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Standard"
-      },
-      "author": "Capital Market",
-      "title": "Nifty hovers above 23,400 level; European mrkt advance",
-      "description": "Realty, FMCG and pharma shares advanced while metal, PSU Bank and IT shares declined.",
-      "url": "https://www.business-standard.com/markets/capital-market-news/nifty-hovers-above-23-400-level-european-mrkt-advance-126092100481_1.html",
-      "urlToImage": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
-      "publishedAt": "2026-09-21T08:20:02Z",
-      "content": "The benchmark indices traded with major gains in afternoon trade, supported by easing crude oil prices and positive global cues. Nifty hovered above 23,400 level. \r\nRealty, FMCG and pharma shares adv\u2026 [+4969 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalsecurity.org"
-      },
-      "author": "John Pike",
-      "title": "Iran calls for immediate action to halt Israeli genocide of Palestinians",
-      "description": "Iran has called on the international community to take serious and decisive action to put an end to the Israeli genocide, war crimes, and crimes against humanity against Palestinians in the Gaza Strip and the West Bank.",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260921-irna01.htm",
-      "urlToImage": null,
-      "publishedAt": "2026-09-21T08:09:57Z",
-      "content": "IRNA - Islamic Republic News Agency\r\nSep 21, 2026, 9:40 AMNews ID: 86269640\r\nTehran, IRNA -- Iran has called on the international community to take serious and decisive action to put an end to the Is\u2026 [+2291 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Grace O'Donnell",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise as oil falls, anticipation builds for Trump-Xi summit",
-      "description": "Stocks have largely powered through a wall of worry this month, though rising bond yields, geopolitical risk in the Middle East, and AI jitters have given in...",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/7c0a34c774870ad5dcd498e599fcf05f9079c6aa63c9d45e1c6f3d3293658135/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F1a4ea8f1-64b0-427d-b36c-c68aabcebd16",
-      "publishedAt": "2026-09-21T08:02:14Z",
-      "content": "US stock futures drifted higher on Monday as oil prices fell and investors continued to assess the Fed's rate hike and geopolitical uncertainty.\r\nFutures on the Dow Jones Industrial Average (YM=F\r\n) \u2026 [+2516 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nakedcapitalism.com"
-      },
-      "author": "Yves Smith",
-      "title": "CalPERS Awards Marcie Frost Nearly $1.8 Million Total Compensation, for 18.33% CAGR in Increases Since Hiring in Violation of Her Pay Parameters; Board Dissenters Punished",
-      "description": "CalPERS' CEO Marcie Frost's pay is so high that it elicits pushback from retirees and casual observers and also violates comp structure rules",
-      "url": "https://www.nakedcapitalism.com/2026/09/calpers-awards-marcie-frost-nearly-1-8-million-total-compensation-for-18-33-cagr-in-increases-since-hiring-in-violation-of-her-pay-parameters-board-dissenters-punished.html",
-      "urlToImage": null,
-      "publishedAt": "2026-09-21T08:01:06Z",
-      "content": "We thought we would take advantage of the \u201cwaiting for the next Iran war shoe to drop\u201d (anxious) pause by returning to another regular topic, CalPERS. You will see much more in Links, but the short v\u2026 [+9723 chars]"
+      "author": null,
+      "title": "Crude Falls on Iran Diplomacy Hopes",
+      "description": "Oil fell as Saudi exports through Hormuz increased and hopes grew for diplomatic progress in the Iran war.",
+      "url": "https://www.rigzone.com/news/wire/crude_falls_on_iran_diplomacy_hopes-21-sep-2026-184667-article/?rss=true",
+      "urlToImage": "https://images.rigzone.com/images/rz-facebook.jpg",
+      "publishedAt": "2026-09-21T20:31:52Z",
+      "content": "Oil fell, settling near $100 a barrel, on signs Saudi Arabia is boosting exports via the key Strait of Hormuz and fresh hopes for diplomatic progress in the Iran war.\r\nBrent, the global benchmark, de\u2026 [+3401 chars]"
     },
     {
       "source": {
         "id": "the-times-of-india",
         "name": "The Times of India"
       },
-      "author": "ET Online",
-      "title": "Bombs were loaded, targets were set, then Trump changed his mind. Behind America\u2019s U-turn on Houthi strikes",
-      "description": "US President Donald Trump ordered preparations for airstrikes against Iran-backed Houthis in Yemen after Saudi Crown Prince Mohammed bin Salman urged US military intervention, but later put the strikes on hold. According to The New York Times, US military pre\u2026",
-      "url": "https://economictimes.indiatimes.com/news/defence/bombs-were-loaded-targets-were-set-then-trump-changed-his-mind-behind-americas-u-turn-on-houthi-strikes/articleshow/134383433.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134383715,width-1200,height-630,imgsize-128564,overlay-etdefence/articleshow.jpg",
-      "publishedAt": "2026-09-21T07:44:11Z",
-      "content": "US President Donald Trump had moved to launch airstrikes against Iran-backed Houthis in Yemen after Saudi Crown Prince Mohammed bin Salman (MBS) pressed him to intervene. But Trump abruptly halted th\u2026 [+3409 chars]"
+      "author": "Poulomi Ghosh",
+      "title": "I didn't go to war so...: Hindu American Army veteran Ruchir Bakshi pushes back hatred, slams call to 'tear down' Texas Hanuman statue",
+      "description": "US News: US Army veteran Ruchir Bakshi strongly reacted to the nonstop hate mongering on social media targeting Hindus and Hindu religious figures and said he .",
+      "url": "https://timesofindia.indiatimes.com/world/us/i-didnt-go-to-war-so-hindu-american-army-veteran-ruchir-bakshi-pushes-back-hatred-slams-call-to-tear-down-texas-hanuman-statue/articleshow/134397507.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397522,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T20:27:55Z",
+      "content": "<ul><li>News</li>\r\n<li>World News</li>\r\n<li>US News</li>\r\n<li>I didn't go to war so...: Hindu American Army veteran Ruchir Bakshi pushes back hatred, slams call to 'tear down' Texas Hanuman statue</l\u2026 [+1775 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Abcnews.com"
+        "name": "Wnd.com"
       },
-      "author": "JILL LAWLESS Associated Press",
-      "title": "Britain\u2019s Burnham is set to meet Trump for the first time at the UN in New York",
-      "description": "Britain's Prime Minister Andy Burnham is set to meet U.S. President Donald Trump for the first time",
-      "url": "https://abcnews.com/International/wireStory/britains-burnham-set-meet-trump-time-new-york-136611594",
-      "urlToImage": "https://i.abcnewsfe.com/a/b2ccc144-2312-4ed4-9af3-a093d3b94489/wirestory_78aad1d7f8539927a33aa4d2bf59f935_16x9.jpg?w=1600",
-      "publishedAt": "2026-09-21T07:41:29Z",
-      "content": "LONDON -- LONDON (AP) Andy Burnham once said he would refuse to meet Donald Trump.\r\nNow Britains prime minister is about to hold his first meeting with the U.S. president, with Ukraine and the soarin\u2026 [+4035 chars]"
+      "author": "Daily Caller News Foundation",
+      "title": "\u2018No slack\u2019 left in U.S. refineries as diesel tops $6.50 a gallon, could go even higher",
+      "description": "'When families spend more at the pump, they have less to spend elsewhere, and that can translate into weaker demand for the goods trucks move'",
+      "url": "https://www.wnd.com/2026/09/no-slack-left-u-s-refineries-as-diesel/",
+      "urlToImage": "https://www.wnd.com/wp-content/uploads/2022/09/trucks-truckers-diesel-towing-patriotic-americans-flag-nyc-new-york-city-roads-driving-traffic-unsplash-1200x630.jpg",
+      "publishedAt": "2026-09-21T20:16:42Z",
+      "content": "U.S. refineries have little room to absorb another supply shock as diesel prices keep climbing, an energy analyst told the Daily Caller News Foundation.\r\nThe national average price of diesel reached \u2026 [+8572 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Dailymail.com"
+        "id": "the-times-of-india",
+        "name": "The Times of India"
       },
-      "author": "James Tapsfield",
-      "title": "Burnham braces for Trump turbulence in first meeting tomorrow - with president set to swipe at allies who are not helping with Iran war in UN speech",
-      "description": "Andy Burnham is due to hold talks with Donald Trump as they both attend the UN General Assembly tomorrow.",
-      "url": "https://www.dailymail.com/news/article-16147529/Burnham-Trump-meeting-president-allies-Iran-war-speech-UN.html",
-      "urlToImage": "https://i.dailymail.com/1s/2026/09/21/08/111371267-0-image-a-10_1789975508968.jpg",
-      "publishedAt": "2026-09-21T07:31:47Z",
-      "content": "Andy Burnham is gearing up for a potentially stormy first encounter with Donald Trump as he heads for New York.\r\nThe PM is due to hold talks with the turbulent US president as they both attend the UN\u2026 [+2982 chars]"
+      "author": "Reuters",
+      "title": "US stocks: US market ends sharply higher as AI optimism reignites and Treasury yields retreat",
+      "description": "Stock markets surged on Monday, driven by impressive gains from leading AI companies such as Advanced Micro Devices. Meanwhile, Treasury yields pulled back from their recent highs and crude oil prices fell to an eleven-day low. Meta's shares skyrocketed after\u2026",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-sharply-higher-as-ai-optimism-reignites-and-treasury-yields-retreat/articleshow/134397491.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134397491,width-1200,height-630,imgsize-1246653,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-21T20:14:34Z",
+      "content": "The S&amp;P 500 and Nasdaq ended sharply higher on Monday, lifted by gains in Advanced Micro Devices and other AI heavyweights, while Treasury yields retreated from recent highs and crude prices tumb\u2026 [+2967 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Biztoc.com"
+        "id": "the-times-of-india",
+        "name": "The Times of India"
       },
-      "author": "benzinga.com",
-      "title": "Volodymyr Zelenskyy Touts Major Oil Strike in Russia Despite Trump Warning: \u2018Glory to Ukraine\u2019",
-      "description": "Zelenskyy hails Ukrainian strikes on Russian oil and logistics facilities despite Trump\u2019s warning, as Iran tensions fuel global oil concerns.",
-      "url": "https://biztoc.com/x/890786264b6c5128",
-      "urlToImage": "https://biztoc.com/cdn/890786264b6c5128_s.webp",
-      "publishedAt": "2026-09-21T07:26:50Z",
-      "content": "Zelenskyy hails Ukrainian strikes on Russian oil and logistics facilities despite Trumps warning, as Iran tensions fuel global oil concerns.\r\nThis story appeared on benzinga.com, 2026-09-21 07:11:25."
+      "author": "Pervez Iqbal Siddiqui",
+      "title": "\u2018Parties which oppose Owaisi, AIMIM don\u2019t want any semblance of political agency for Muslims\u2019",
+      "description": "Owaisi says UP parties target AIMIM to deny Muslims political agency, faults SP-Cong for past riots and inaction, and signals openness to alliances to stop BJP.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/parties-which-oppose-owaisi-aimim-dont-want-any-semblance-of-political-agency-for-muslims/articleshow/134397497.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397496,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T20:14:31Z",
+      "content": "Follow Us On Social Media\r\nAOC Gone Crazy!: JD Vance Takes Brutal Swipe At Ocasio-Cortezs Egg Freezing; Then Breakup BombHouthi Leaders Warn Of Strikes Deep Inside Saudi Arabia, Threaten Energy Infra\u2026 [+1567 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Abcnews.com"
-      },
-      "author": "CHAN HO-HIM AP business writer",
-      "title": "Stocks advance after Bessent says talks with China were successful before Trump-Xi meeting",
-      "description": "Asian shares are mostly advancing as investors monitor updates ahead of the expected meeting between U.S. President Donald Trump and Chinese leader Xi Jinping this week in Washington",
-      "url": "https://abcnews.com/Business/wireStory/stocks-advance-after-bessent-talks-china-successful-trump-136611052",
-      "urlToImage": "https://i.abcnewsfe.com/a/5f75c61e-cb70-4e2c-ab19-2c49cfae75a9/wirestory_1f1a267bf4556c01513f506914eb6359_16x9.jpg?w=1600",
-      "publishedAt": "2026-09-21T07:15:32Z",
-      "content": "HONG KONG -- Asian shares mostly advanced Monday as investors monitor updates ahead of the expected meeting between U.S. President Donald Trump and Chinese leader Xi Jinping this week in Washington w\u2026 [+2739 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abcnews.com"
+        "name": "Yahoo Entertainment"
       },
       "author": "The Associated Press",
-      "title": "Houthis say they won't attack US vessels in Red Sea, and other Mideast developments",
-      "description": "A senior Houthi official says the group has assured the Trump administration it won\u2019t attack U.S. vessels in the Red Sea",
-      "url": "https://abcnews.com/International/wireStory/houthis-attack-us-vessels-red-sea-mideast-developments-136597035",
-      "urlToImage": "https://i.abcnewsfe.com/a/b2f77f6c-1d45-47b3-8252-ee3c10e9b817/wirestory_4ca7f5b7d7b4a6658909b7c92764973a_16x9.jpg?w=1600",
-      "publishedAt": "2026-09-21T07:15:27Z",
-      "content": "A senior official with the Iran-backed Houthi rebels said the group has assured U.S. President Donald Trump's administration that it wont attack U.S. vessels in the Red Sea, even as he warned countri\u2026 [+5378 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WhatCulture"
-      },
-      "author": "noreply@whatculture.com (Scott Carlson)",
-      "title": "US Travel Advisory to Saudi Arabia Raises New Questions About WWE Crown Jewel (WWE News)",
-      "description": "US government urges \"reconsider travel\" to kingdom amid ongoing Middle East conflict; WWE discussing situation.",
-      "url": "https://whatculture.com/wwe/us-travel-advisory-to-saudi-arabia-raises-new-questions-about-wwe-crown-jewel-wwe-news",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/f80745feae8884f482426f5804628b362fbc99839f77042aa4d4c62cdad2bed2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwhatculture_853%2F73d36cd288497fc7e47ffe03d6aedaa2.jpg",
-      "publishedAt": "2026-09-21T07:12:41Z",
-      "content": "WWE is full steam ahead for Money in the Bank in less than three weeks, but their subsequent PLE has been called into question amid global concerns.\r\nWWE is scheduled to hold Crown Jewel in Riyadh, S\u2026 [+2195 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Reuters",
-      "title": "Vessels trickle through Strait of Hormuz as Middle East conflict persists",
-      "description": "Only 12 commodity vessels transited the Strait of Hormuz over the weekend, down from 35, as tensions persist between the US and Iran.",
-      "url": "https://nypost.com/2026/09/21/world-news/vessels-trickle-through-strait-of-hormuz-as-middle-east-conflict-persists/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/Hormuz-transit.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-09-21T07:10:35Z",
-      "content": "A dozen commodity vessels transited the Strait of Hormuz on the weekend, down from 35 the prior weekend, shipping data showed on Monday, as tension in the Gulf persisted with the US and Iran in stale\u2026 [+2348 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TIMESOFINDIA.COM",
-      "title": "Banish despair",
-      "description": "No one who is financially or culturally disadvantaged should feel himself irrevocably the prisoner of his circumstances. He should banish despair, for there is no end to possibilities in this world. It is simply a question of his being determined to make the \u2026",
-      "url": "https://timesofindia.indiatimes.com/speaking-tree/daily-ecstasy/banish-despair/articleshow/134383014.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134383042,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-21T07:09:58Z",
-      "content": "Follow Us On Social Media\r\nNot In My House: Mamdani Fires Shots At Trumps Media Ban; Awkward Exchange On Cam | WatchFart Left, Not Far-Left: JD Vances Awkward Mid-Speech Gaffe On Cam; Then Pivots To \u2026 [+3202 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Reuters",
-      "title": "Hormuz shuttles keep oil flowing, but at a high cost",
-      "description": "Middle East oil producers are increasingly using ship-to-ship (STS) transfers off Oman to keep crude exports moving despite disruptions from the Iran conflict and risks around the Strait of Hormuz.",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/hormuz-shuttles-keep-oil-flowing-but-at-a-high-cost/articleshow/134382146.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134382621,width-1200,height-630,imgsize-190144,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-21T06:54:54Z",
-      "content": "A new shuttling system is reshaping the Middle East oil market, as producers seek to keep exports flowing despite the escalating regional conflict. The question now is whether this complex, expensive\u2026 [+5537 chars]"
-    },
-    {
-      "source": {
-        "id": "rte",
-        "name": "RTE"
-      },
-      "author": "RT\u00c9 News",
-      "title": "UK to provide military support to Saudi Arabia, says PM",
-      "description": "UK Prime Minister Andy Burnham has agreed to give military support to Saudi Arabia in its conflict with Houthi rebels in Yemen.",
-      "url": "https://www.rte.ie/news/middle-east/2026/0921/1592301-saudi-houthi-iran/",
-      "urlToImage": "https://www.rte.ie/images/00250bf7-1600.jpg",
-      "publishedAt": "2026-09-21T06:48:49Z",
-      "content": "UK Prime Minister Andy Burnham has agreed to give military support to Saudi Arabia in its conflict with Houthi rebels in Yemen.\r\nThe prime minister said British planes will provide \"defensive\" air-to\u2026 [+7013 chars]"
+      "title": "Iran recalls star striker Azmoun following controversial World Cup omission",
+      "description": "Iran\u2019s star striker Sardar Azmoun was recalled to the national team Monday, four months after being controversially left out of the World Cup roster. Azmoun was omitted by coach Amir Ghalenoei in May, reportedly because of a social media post that angered Ira\u2026",
+      "url": "https://sports.yahoo.com/articles/iran-recalls-star-striker-azmoun-200954897.html",
+      "urlToImage": null,
+      "publishedAt": "2026-09-21T20:09:54Z",
+      "content": "Iran's star striker Sardar Azmoun was recalled to the national team Monday, four months after being controversially left out of the World Cup roster.\r\nAzmoun was omitted by coach Amir Ghalenoei in Ma\u2026 [+1324 chars]"
     },
     {
       "source": {
@@ -866,298 +216,493 @@
         "name": "The Times of India"
       },
       "author": "TOI Science Desk",
-      "title": "Actor Rob Riggle explores ancient mysteries with archaeologists, from shipwrecks to lost civilisations, and brings the unknown to the screen",
-      "description": "Archaeology & Ancient World News: Actor, comedian and retired Marine Rob Riggle is travelling to locations connected to some of history\u2019s most persistent mysteries, working with archae.",
-      "url": "https://timesofindia.indiatimes.com/science/archaeology/actor-rob-riggle-explores-ancient-mysteries-with-archaeologists-from-shipwrecks-to-lost-civilisations-and-brings-the-unknown-to-the-screen/articleshow/134382089.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134382373,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-21T06:43:02Z",
-      "content": "<ul><li>News</li>\r\n<li>Science News</li>\r\n<li>Actor Rob Riggle explores ancient mysteries with archaeologists, from shipwrecks to lost civilisations, and brings the unknown to the screen</li></ul>\r\nF\u2026 [+2950 chars]"
-    },
-    {
-      "source": {
-        "id": "rte",
-        "name": "RTE"
-      },
-      "author": "RT\u00c9 News",
-      "title": "Oil at 1 week low on hopes of boost to diplomacy in war",
-      "description": "Oil prices slid to their lowest in more than a week on hopes diplomacy in the Iran war will get a chance this week amid a UN meet and as investors eyed a partial recovery in shipments from Saudi Arabia despite ongoing attacks by Yemen's Houthis.",
-      "url": "https://www.rte.ie/news/business/2026/0921/1592297-world-oil-prices/",
-      "urlToImage": "https://www.rte.ie/images/00246b47-1600.jpg",
-      "publishedAt": "2026-09-21T06:26:03Z",
-      "content": "Oil prices slid to their lowest in more than a week today on hopes diplomacy in the Iran war will get a chance this week amid a UN meet and as investors eyed a partial recovery in shipments from Saud\u2026 [+2782 chars]"
+      "title": "Human brain may have evolved from two ancient nervous systems, Stanford study finds; forebrain and hindbrain develop from separate cells in 550-million-year-old pattern",
+      "description": "A Stanford Medicine study has challenged the traditional understanding of brain development, finding that the forebrain and hindbrain arise from separate progenitor cells. Researchers traced this two-system pattern across 550 million years of evolution, inclu\u2026",
+      "url": "https://timesofindia.indiatimes.com/science/human-brain-may-have-evolved-from-two-ancient-nervous-systems-stanford-study-finds-forebrain-and-hindbrain-develop-from-separate-cells-in-550-million-year-old-pattern/articleshow/134397474.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397482,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T20:09:16Z",
+      "content": "<ul><li>News</li>\r\n<li>Science News</li>\r\n<li>Human brain may have evolved from two ancient nervous systems, Stanford study finds; forebrain and hindbrain develop from separate cells in 550-million-y\u2026 [+1793 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Business Standard"
+        "name": "Snopes.com"
       },
-      "author": "Capital Market",
-      "title": "Nifty above 23,350; FMCG shares advance",
-      "description": "At 11:30 IST, the barometer index, the S&P BSE Sensex, jumped 443.60 points or 0.60% to 74,738.56. The Nifty 50 index rose 46.20 points or 0.20% to 23,394.00.",
-      "url": "https://www.business-standard.com/markets/capital-market-news/nifty-above-23-350-fmcg-shares-advance-126092100304_1.html",
-      "urlToImage": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
-      "publishedAt": "2026-09-21T06:20:01Z",
-      "content": "The key equity benchmarks continued to trade with modest gains in mid-morning trade, aided by cooling crude oil prices, fresh foreign fund inflows and positive global cues. The Nifty traded above the\u2026 [+4771 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Amin Saikal, Emeritus Professor of Middle Eastern Studies, Australian National University; The University of Western Australia; Victoria University",
-      "title": "As war in the Middle East widens, Saudi Arabia\u2019s new defence pact could face a major test",
-      "description": "Saudi Arabia\u2019s escalating conflict with the Houthis in Yemen will force its new defence partners Turkey and Pakistan to confront some difficult questions.",
-      "url": "https://theconversation.com/as-war-in-the-middle-east-widens-saudi-arabias-new-defence-pact-could-face-a-major-test-292357",
-      "urlToImage": "https://images.theconversation.com/files/761036/original/file-20260921-50-io0jd4.jpg?ixlib=rb-4.1.1&rect=0%2C104%2C5339%2C2669&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2026-09-21T06:18:43Z",
-      "content": "Last Thursday, US President Donald Trump said he had a \u201cbig decision\u201d coming up about Iran\u2019s regime: \n\n\nDo I want to go in and annihilate them or do I not? [\u2026] Anything could happen with me. \r\n\n\n\nThi\u2026 [+6828 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "author": "My Catholic Life! (YouTube)",
-      "title": "[Catholic Caucus Devotional] My Catholic Life! Catholic Daily Reflections: From Sinner to Saint - Monday, September 21, 2026",
-      "description": "Daily Readings from the USCCBFeast of Saint Matthew, Apostle and evangelistAs Jesus passed by, he saw a man named Matthew sitting at the customs post. He said to him, \u201cFollow me.\u201d And he got up and followed him.\u201d Matthew 9:9Saint Matthew, whom we honor today,\u2026",
-      "url": "https://freerepublic.com/focus/f-religion/4396304/posts",
-      "urlToImage": null,
-      "publishedAt": "2026-09-21T06:14:09Z",
-      "content": "As Jesus passed by, he saw a man named Matthew sitting at the customs post. He said to him, Follow me. And he got up and followed him.Matthew 9:9Saint Matthew, whom we honor today, makes following Ch\u2026 [+26016 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hurriyet Daily News"
-      },
-      "author": "hurriyetdailynews.com",
-      "title": "Iran economy contracts during US war: Official statistics",
-      "description": "Iran's economy contracted by more than 10 percent during the Middle East war, which began with U.S.-Israeli attacks in late February.",
-      "url": "https://www.hurriyetdailynews.com/iran-economy-contracts-during-us-war-official-statistics-227113",
-      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6ab0ca5029066eaba7b37699.jpg",
-      "publishedAt": "2026-09-21T06:11:02Z",
-      "content": "TEHRAN\r\n(FILES) Shopkeepers arrange dried fruits and nuts in front of their shop at a market in Tehran on August 24, 2026. Iran's economy contracted by more than 10 percent during the Middle East war\u2026 [+1012 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Garrison Vance",
-      "title": "Israel Presses Georgia to Drop Neutral Policy Toward Iran",
-      "description": "Israel has conducted a targeted public diplomacy campaign urging Georgia to abandon its neutral foreign policy toward Iran, according to a report published by The New Arab on May 25. The report stated that the Israeli embassy in Tbilisi has openly rebuked Geo\u2026",
-      "url": "https://www.naturalnews.com/2026-09-21-israel-presses-georgia-drop-neutral-policy-iran.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/israel-georgia-relations-iran-neutrality-public-diplomacy-4241-original.jpg",
-      "publishedAt": "2026-09-21T06:00:00Z",
-      "content": "Israel has conducted a targeted public diplomacy campaign urging Georgia to abandon its neutral foreign policy toward Iran, according to a report published by The New Arab on May 25.\r\nThe report stat\u2026 [+6886 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Belle Carter",
-      "title": "UK Electricity Grid Expansion Estimated to Cost More Than \u00c2\u00a3150 Billion",
-      "description": "Britain may need to spend more than \u00a3150 billion on new transmission infrastructure to connect a rapidly expanding pipeline of wind and solar projects to the national grid, according to estimates attributed to the National Energy System Operator (NESO). The f\u2026",
-      "url": "https://www.naturalnews.com/2026-09-21-uk-electricity-grid-expansion-estimated-to-cost-more.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/grid-overhaul-renewable-energy-transmission-investment-4329-original.jpg",
-      "publishedAt": "2026-09-21T06:00:00Z",
-      "content": "Britain may need to spend more than \u00a3150 billion on new transmission infrastructure to connect a rapidly expanding pipeline of wind and solar projects to the national grid, according to estimates att\u2026 [+9349 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Cassie B.",
-      "title": "Saudi Arabia scrambles for allies as Houthi missiles reach Riyadh",
-      "description": "Houthi rebels have seized key Red Sea territory and struck deep into Saudi Arabia, exposing gaps in Riyadh\u2019s defenses. The U.S. has limited its role to intelligence sharing while pursuing a separate ceasefire with the Houthis through Oman. A Houthi ballistic \u2026",
-      "url": "https://www.naturalnews.com/2026-09-21-saudi-arabia-allies-houthi-missiles-riyadh.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/missile-interceptors-saudi-arabia-air-defense-yemeni-armed-forces-4261-original.jpg",
-      "publishedAt": "2026-09-21T06:00:00Z",
-      "content": "<ul><li>Houthi rebels have seized key Red Sea territory and struck deep into Saudi Arabia, exposing gaps in Riyadh's defenses.</li><li>The U.S. has limited its role to intelligence sharing while purs\u2026 [+4312 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Mike Adams",
-      "title": "Drone Warfare Is Coming to America \u2026 And We\u2019re Dangerously Unprepared",
-      "description": "If It Sits Above Ground, It Can Be Destroyed by Drones The drone revolution has quietly ended the era when America\u2019s above-ground infrastructure could be considered safe. The same precision-strike capability that hit Saudi pipelines and Qatari gas trains can \u2026",
-      "url": "https://www.naturalnews.com/2026-09-21-drone-warfare-coming-to-america-dangerously-unprepared.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/drone-warfare-critical-infrastructure-unmanned-aerial-vehicles-4332-original.jpg",
-      "publishedAt": "2026-09-21T06:00:00Z",
-      "content": "If It Sits Above Ground, It Can Be Destroyed by Drones\r\nThe drone revolution has quietly ended the era when America's above-ground infrastructure could be considered safe. The same precision-strike c\u2026 [+12564 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Garrison Vance",
-      "title": "Houthis and Saudi Arabia Exchange Strikes as Yemen Fighting Spreads",
-      "description": "Saudi Arabia and Iran-backed Houthi rebels in Yemen traded cross-border strikes Thursday, Sept. 17, according to Houthi-controlled television and Saudi civil defense said. Houthi-controlled television reported Saudi airstrikes in Yemen\u2019s Hajjah province near \u2026",
-      "url": "https://www.naturalnews.com/2026-09-21-houthis-saudi-exchange-strikes-yemen-fighting-spreads.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/yemen-conflict-houthi-forces-saudi-arabia-airstrikes-4271-original.jpg",
-      "publishedAt": "2026-09-21T06:00:00Z",
-      "content": "Saudi Arabia and Iran-backed Houthi rebels in Yemen traded cross-border strikes Thursday, Sept. 17, according to Houthi-controlled television and Saudi civil defense said.\r\nHouthi-controlled televisi\u2026 [+7754 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Mike Adams",
-      "title": "The Cheapest Food You\u2019ll Ever See: Why I Believe a Global Food Shock Is Coming by 2027",
-      "description": "The Global Food Shock Is Already Baked In I just walked out of a product acquisition meeting with my staff at Health Ranger Store, and the numbers on the table were worse than anything I expected to see this year. The cost of shipping a single unit of freeze-\u2026",
-      "url": "https://www.naturalnews.com/2026-09-21-global-food-shock-is-coming-by-2027.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/global-food-shock-food-inflation-fertilizer-shortage-4333-original.jpg",
-      "publishedAt": "2026-09-21T06:00:00Z",
-      "content": "The Global Food Shock Is Already Baked In\r\nI just walked out of a product acquisition meeting with my staff at Health Ranger Store, and the numbers on the table were worse than anything I expected to\u2026 [+11524 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Garrison Vance",
-      "title": "NATO 3.0 Concept Discussed as Military Committee Meets in Copenhagen",
-      "description": "NATO Military Committee Meets in Copenhagen NATO\u2019s Military Committee is scheduled to meet in Copenhagen on Friday and Saturday, according to the alliance. The committee, chaired by Italian Admiral Giuseppe Cavo Dragone, is NATO\u2019s highest military authority a\u2026",
-      "url": "https://www.naturalnews.com/2026-09-21-nato-3-concept-discussed-military-committee-meets.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/nato-30-military-committee-copenhagen-4292-original.jpg",
-      "publishedAt": "2026-09-21T06:00:00Z",
-      "content": "NATO Military Committee Meets in Copenhagen\r\nNATO's Military Committee is scheduled to meet in Copenhagen on Friday and Saturday, according to the alliance. The committee, chaired by Italian Admiral \u2026 [+7845 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Edison Reed",
-      "title": "Trump Signs Russia Sanctions Bill Into Law, Authorizing Tariffs on Russian Energy Buyers",
-      "description": "President Donald Trump signed the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 into law on Friday, according to White House statements and public records. The legislation authorizes new sanctions on Russia and extends existing sanctions on Iran, \u2026",
-      "url": "https://www.naturalnews.com/2026-09-21-trumps-signs-russia-law-tariffs-energy-buyers.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/russia-sanctions-bill-trump-signing-tariffs-on-russian-energy-4288-original.jpg",
-      "publishedAt": "2026-09-21T06:00:00Z",
-      "content": "President Donald Trump signed the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 into law on Friday, according to White House statements and public records. The legislation authorizes new \u2026 [+7817 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Standard"
-      },
-      "author": "The Conversation",
-      "title": "Iran war pushes diesel to record high prices, with no relief on the horizon",
-      "description": "The inflation-adjusted price of diesel in late August was about as high as it was in 2022 and has likely risen further",
-      "url": "https://www.business-standard.com/world-news/iran-war-pushes-diesel-to-record-high-prices-with-no-relief-on-the-horizon-126092100286_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/21/thumb/fitandfill/1200X628/1787278148-9945.JPG",
-      "publishedAt": "2026-09-21T05:58:11Z",
-      "content": "Diesel fuel prices in the US continue to break all-time records, hitting $6.28 a gallon as a national average on Sept. 14, 2026, and they arent likely to come down anytime soon. Because diesel is the\u2026 [+6368 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Lurion De Mello, Senior Lecturer in Finance, Macquarie University",
-      "title": "As renewed chaos grips the oil market, one country is keeping global prices down \u2013 by reducing demand",
-      "description": "As renewed chaos grips the oil market, China is reaping the benefits of electric vehicles. But Australia\u2019s reliance on diesel leaves it exposed",
-      "url": "https://theconversation.com/as-renewed-chaos-grips-the-oil-market-one-country-is-keeping-global-prices-down-by-reducing-demand-292218",
-      "urlToImage": "https://images.theconversation.com/files/761049/original/file-20260921-60-nce6l.jpg?ixlib=rb-4.1.1&rect=0%2C1140%2C6832%2C3416&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2026-09-21T05:55:16Z",
-      "content": "Cheng Xin/Getty\r\nOil markets are in turmoil amid renewed tensions in the Middle East. Prices have risen past US$100 (A$140) a barrel for the first time since May. \n\nThe biggest trigger is the bombing\u2026 [+5626 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hurriyet Daily News"
-      },
-      "author": "hurriyetdailynews.com",
-      "title": "Wars and AI risks top UN General Assembly agenda",
-      "description": "World leaders are gathering in New York for the 81st U.N. General Assembly, with wars in the Middle East and Ukraine, climate change and the risks of artificial intelligence expected to dominate discussions.",
-      "url": "https://www.hurriyetdailynews.com/wars-and-ai-risks-top-un-general-assembly-agenda-227109",
-      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6ab0c69f242e1cf6f86a418f.jpg",
-      "publishedAt": "2026-09-21T05:54:47Z",
-      "content": "NEW YORK\r\nImage: U.S. Department of State \r\nWorld leaders are gathering in New York for the 81st U.N. General Assembly, with wars in the Middle East and Ukraine, climate change and the risks of artif\u2026 [+2753 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "OilPrice.com"
-      },
-      "author": "Irina Slav",
-      "title": "Oil Prices Slide as Traders Bet on Iran Diplomacy",
-      "description": "Crude oil prices started the week with a slide, moving down to the lowest in a week on renewed hopes about a diplomatic resolution of the war in the Middle East, despite the absence of any evidence that there is willingness for negotiations on either side. At\u2026",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Slide-as-Traders-Bet-on-Iran-Diplomacy.html",
-      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-21_z9lmsg52da.jpg",
-      "publishedAt": "2026-09-21T05:45:00Z",
-      "content": "Kazakhstans membership in competing U.S.-\u2026\r\nCentral banks are responding to\u2026\r\nBy Irina Slav - Sep 21, 2026, 12:45 AM CDTCrude oil prices started the week with a slide, moving down to the lowest in a \u2026 [+1794 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Foreign Policy"
-      },
-      "author": "Mohamed Elgohari",
-      "title": "Why Iran\u2019s Lego Clips Are Anything but \u2018Stupid\u2019",
-      "description": "Marco Rubio should not dismiss this new and highly effective form of propaganda.",
-      "url": "http://foreignpolicy.com/2026/09/21/iran-lego-videos-propaganda-rubio/",
-      "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2026/09/Lego-meme-iran-united-states-trump-rubio-hegseth.jpg",
-      "publishedAt": "2026-09-21T05:25:55Z",
-      "content": "While answering a question in July about the prospects for negotiations with Iran, U.S. Secretary of State Marco Rubio made a dismissive reference to an ongoing series of AI-generated Lego animation \u2026 [+11446 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "breakingthenews.net",
-      "title": "Oil falls 2% with Saudi export recovery in focus",
-      "description": "Crude oil prices fell on Monday as traders monitored the potential recovery of Saudi oil shipments following missile and drone attacks by Iran-backed Houthi forces on Saturday.JPMorgan analysts said i...",
-      "url": "https://biztoc.com/x/9dcae80b16a0d98b",
-      "urlToImage": "https://biztoc.com/cdn/9dcae80b16a0d98b_s.webp",
-      "publishedAt": "2026-09-21T05:25:48Z",
-      "content": "Crude oil prices fell on Monday as traders monitored the potential recovery of Saudi oil shipments following missile and drone attacks by Iran-backed Houthi forces on Saturday.JPMorgan analysts said \u2026 [+69 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Al Jazeera Staff",
-      "title": "Iran\u2019s military says US preparing to resume strikes",
-      "description": "Tehran threatens retaliation as Trump weighs military action while Qatar pushes to revive talks.",
-      "url": "https://www.aljazeera.com/news/2026/9/21/irans-military-says-us-preparing-to-resume-strikes",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2295730026-1789929183.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-09-21T05:21:41Z",
-      "content": "Irans central military command says it has received information that the United States is preparing to resume strikes on the country.\r\nThe warning, issued on Sunday by the Khatam al-Anbiya Central He\u2026 [+2812 chars]"
+      "author": "Joey Esposito",
+      "title": "Did Trump call Iran war 'small potatoes'?",
+      "description": "Trump downplayed the magnitude of the conflict while voicing support for Vice President JD Vance, who said he didn't consider it a war.",
+      "url": "https://www.snopes.com//fact-check/trump-iran-war-small-potatoes-quote/",
+      "urlToImage": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2026/09/trump_2.png",
+      "publishedAt": "2026-09-21T20:05:00Z",
+      "content": "Gambrell, Jon, et al. \"War Between Iran and Israel and the US Widens.\" AP News, 2 Mar. 2026, https://apnews.com/article/iran-israel-us-03-02-2026-cb42936de1d8c261be8f30f11c6665fa. Accessed 21 Sept. 2\u2026 [+1612 chars]"
     },
     {
       "source": {
         "id": "the-times-of-india",
         "name": "The Times of India"
       },
-      "author": "Debaroti Adhikary",
-      "title": "Sensex jumps 400 points, Nifty nears 23,400 as oil prices cool down despite Middle East tensions. What lies ahead?",
-      "description": "Indian equities gained in early trade as lower crude prices lifted sentiment, with Sensex rising 0.6% and Nifty 0.2%. Analysts expect volatility to persist amid geopolitical risks, elevated yields and sectoral rotation.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-jumps-400-points-nifty-nears-23400-as-oil-prices-cool-down-despite-middle-east-tensions-what-lies-ahead/articleshow/134380591.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134380641,width-1200,height-630,imgsize-234612,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-21T05:20:09Z",
-      "content": "The Indian stock market traded on a positive note, with Sensex rising more than 0.6% while Nifty recorded 0.2% gains as both benchmark indices closed in on the divergence seen in the previous few ses\u2026 [+3431 chars]"
+      "author": "TOI Science Desk",
+      "title": "In 1999, just 15 island foxes remained on each of two California islands; captive breeding and ecosystem restoration pulled the species back from extinction",
+      "description": "On San Miguel and Santa Rosa islands, the island fox population faced a dire threat of extinction due to predation by golden eagles. The successful removal of these eagles, combined with dedicated captive breeding and habitat restoration programs, allowed the\u2026",
+      "url": "https://timesofindia.indiatimes.com/science/wildlife/in-1999-just-15-island-foxes-remained-on-each-of-two-california-islands-captive-breeding-and-ecosystem-restoration-pulled-the-species-back-from-extinction/articleshow/134397440.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397469,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T20:04:00Z",
+      "content": "<ul><li>News</li>\r\n<li>Science News</li>\r\n<li>In 1999, just 15 island foxes remained on each of two California islands; captive breeding and ecosystem restoration pulled the species back from extinct\u2026 [+1798 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "Oppn should verify facts before making statements on Jagga Singh case: Sisodia",
+      "description": "Manish Sisodia criticises BJP over Jagga Singh case in Sangrur, urging opposition to verify facts and support Punjab\u2019s anti-drug \u2018Yudh Nasheyan Virudh\u2019 drive.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/oppn-should-verify-facts-before-making-statements-on-jagga-singh-case-sisodia/articleshow/134397466.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397465,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T20:02:25Z",
+      "content": "Follow Us On Social Media\r\nIndia's KAL Drone Flies: 1,000 Km Strike Range, Shahed-Style Loitering Weapon Built In NoidaTehrans Mystery Lights: Shiny, Multi-Coloured Objects Seen 50 Years After 1976 '\u2026 [+1584 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "The Times Of India",
+      "title": "Uttarakhand students visit UP Assembly",
+      "description": "Uttarakhand\u2019s Devprayag students visit UP Assembly, learn legislative procedures, Question Hour and lawmaking, and see digital modernization via e-Vidhan.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/uttarakhand-students-visit-up-assembly/articleshow/134397468.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397467,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T20:02:05Z",
+      "content": "Follow Us On Social Media\r\nIndia's KAL Drone Flies: 1,000 Km Strike Range, Shahed-Style Loitering Weapon Built In NoidaTehrans Mystery Lights: Shiny, Multi-Coloured Objects Seen 50 Years After 1976 '\u2026 [+1584 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Vinod Bihari Verma\u2019s life, works inspiration for all: Neeraj Singh",
+      "description": "Neeraj Singh unveiled a tribute magazine for Vinod Bihari Verma in Lucknow; Chitransh Mahasabha announced Sept 27 conference and aid fund plans.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/vinod-bihari-vermas-life-works-inspiration-for-all-neeraj-singh/articleshow/134397464.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397463,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T20:01:09Z",
+      "content": "Follow Us On Social Media\r\nIndia's KAL Drone Flies: 1,000 Km Strike Range, Shahed-Style Loitering Weapon Built In NoidaTehrans Mystery Lights: Shiny, Multi-Coloured Objects Seen 50 Years After 1976 '\u2026 [+1584 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Dy CM hears public grievances at Janata Darshan",
+      "description": "UP Deputy CM Brajesh Pathak heard public grievances at Janata Darshan in Lucknow, directing officials to ensure time-bound, transparent action on complaints.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/dy-cm-hears-public-grievances-at-janata-darshan/articleshow/134397461.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397460,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T20:00:14Z",
+      "content": "Follow Us On Social Media\r\nIndia's KAL Drone Flies: 1,000 Km Strike Range, Shahed-Style Loitering Weapon Built In NoidaTehrans Mystery Lights: Shiny, Multi-Coloured Objects Seen 50 Years After 1976 '\u2026 [+1584 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "OilPrice.com"
       },
-      "author": "CHAN HO-HIM",
-      "title": "Stocks advance after Bessent says talks with China were successful before Trump-Xi meeting",
-      "description": "Asian shares advanced Monday ahead of the expected meeting between U.S. President Donald Trump and Chinese leader Xi Jinping this week in Washington, which c...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-advance-bessent-says-talks-051936845.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/19988618923bf9f241fe72a165c61ef39345c0ee9fe3ab799f1da5cf670afcd2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F61c0acbb8e48d982119f8aff7530dbac.jpg",
-      "publishedAt": "2026-09-21T05:19:36Z",
-      "content": "HONG KONG (AP) Asian shares advanced Monday ahead of the expected meeting between U.S. President Donald Trump and Chinese leader Xi Jinping this week in Washington, which could cover trade, artificia\u2026 [+3198 chars]"
+      "author": "Cyril Widdershoven",
+      "title": "Where Is OPEC+? Riyadh and Moscow\u2019s Silence Is Becoming Deafening",
+      "description": "\u201cThe roar of the engines does not herald true dominance, but the absolute silence that precedes the strike.\" \u201cLet your plans be dark and impenetrable as night, and when you move, fall like a thunderbolt.\" The last decades of silence from the world\u2019s leading o\u2026",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Where-Is-OPEC-Riyadh-and-Moscows-Silence-Is-Becoming-Deafening.html",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-21_rmlvega73v.jpg",
+      "publishedAt": "2026-09-21T20:00:00Z",
+      "content": "Saudi Arabia suspends Yanbu oil\u2026\r\nRosneft has launched the giant\u2026\r\nCrude oil inventories in the\u2026\r\nSet us as your preferred Google source\r\nBy Cyril Widdershoven - Sep 21, 2026, 3:00 PM CDTThe roar of \u2026 [+10563 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Arvind Chauhan",
+      "title": "Ram Temple\u2019s first CEO takes charge: \u2018Trust makes policy; I execute it on the ground\u2019",
+      "description": "Retired Air Marshal Jeetendra Mishra assumes charge as Ram Temple Trust\u2019s first CEO in Ayodhya, focusing on reorganising departments and improving efficiency.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/ram-temples-first-ceo-takes-charge-trust-makes-policy-i-execute-it-on-the-ground/articleshow/134397457.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397456,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:58:59Z",
+      "content": "Follow Us On Social Media\r\nIndia's KAL Drone Flies: 1,000 Km Strike Range, Shahed-Style Loitering Weapon Built In NoidaTehrans Mystery Lights: Shiny, Multi-Coloured Objects Seen 50 Years After 1976 '\u2026 [+1584 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Vibhor Mohan",
+      "title": "Over 150 vehicles detained for suspected GST violations: Cheema",
+      "description": "Punjab excise & taxation dept detained 152 vehicles carrying Rs 4.5 crore goods in Mandi Gobindgarh-Khanna over suspected GST violations, says Cheema.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/over-150-vehicles-detained-for-suspected-gst-violations-cheema/articleshow/134397454.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397453,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:58:51Z",
+      "content": "Follow Us On Social Media\r\nIndia's KAL Drone Flies: 1,000 Km Strike Range, Shahed-Style Loitering Weapon Built In NoidaTehrans Mystery Lights: Shiny, Multi-Coloured Objects Seen 50 Years After 1976 '\u2026 [+1584 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Onam spirit comes alive with song, dance & tradition",
+      "description": "Onam at Lucknow\u2019s Ravindralaya featured folk and Bollywood dance, Thiruvathirakali, Pulikali, Mahabali welcome, and scholarships for toppers.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/onam-spirit-comes-alive-with-song-dance-tradition/articleshow/134397452.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397450,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:58:22Z",
+      "content": "Follow Us On Social Media\r\nIndia's KAL Drone Flies: 1,000 Km Strike Range, Shahed-Style Loitering Weapon Built In NoidaTehrans Mystery Lights: Shiny, Multi-Coloured Objects Seen 50 Years After 1976 '\u2026 [+1584 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Gov Pritzker dodges questions on Hasan Piker, says focus should be on stopping Trump",
+      "description": "Gov. JB Pritzker dodged questions about Hasan Piker's controversial stances and influence in the party, insisting Democrats should focus on stopping Trump.",
+      "url": "https://www.foxnews.com/media/gov-pritzker-dodges-questions-hasan-piker-says-focus-stopping-trump",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/PRITZKER-PIKER-ABC.gif",
+      "publishedAt": "2026-09-21T19:57:04Z",
+      "content": "Gov. JB Pritzker, D-Ill., avoided multiple questions about far-left streamer Hasan Piker on Sunday as he insisted his focus was on stopping President Donald Trump in his \"tracks.\"\r\n\"Im not focused on\u2026 [+4138 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "Suicide bid over drugs sparks political storm in Punjab",
+      "description": "Suicide attempt by Sangrur villager Jagga Singh over alleged intimidation after anti-drug video sparks Punjab political storm; AAP cites his past drug conviction.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/suicide-bid-over-drugs-sparks-political-storm-in-punjab/articleshow/134397428.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134396827,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:55:29Z",
+      "content": "Follow Us On Social Media\r\nIndia's KAL Drone Flies: 1,000 Km Strike Range, Shahed-Style Loitering Weapon Built In NoidaTehrans Mystery Lights: Shiny, Multi-Coloured Objects Seen 50 Years After 1976 '\u2026 [+1584 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network   Filed by Manu",
+      "title": "14yrs on, SC orders fresh probe into Dharmasthala rape-murder",
+      "description": "Supreme Court orders Karnataka police SIT to reinvestigate 2012 Dharmasthala rape-murder of 17-year-old, citing lapses; compliance report due in 3 months.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/14yrs-on-sc-orders-fresh-probe-into-dharmasthala-rape-murder/articleshow/134397435.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-21T19:54:48Z",
+      "content": "Follow Us On Social Media\r\nIndia's KAL Drone Flies: 1,000 Km Strike Range, Shahed-Style Loitering Weapon Built In NoidaTehrans Mystery Lights: Shiny, Multi-Coloured Objects Seen 50 Years After 1976 '\u2026 [+1584 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Rajiv Kalkod",
+      "title": "12cr spurious drugs sold since Feb 2025: SIT",
+      "description": "SIT probes Bengaluru fake drug scam: Rs 12 crore in spurious Pfizer-labelled medicines sold since Feb 2025; 8 arrested incl kingpin Veeresh Kumar Jain.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/12cr-spurious-drugs-sold-since-feb-2025-sit/articleshow/134397434.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397433,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:54:40Z",
+      "content": "Follow Us On Social Media\r\nIndia's KAL Drone Flies: 1,000 Km Strike Range, Shahed-Style Loitering Weapon Built In NoidaTehrans Mystery Lights: Shiny, Multi-Coloured Objects Seen 50 Years After 1976 '\u2026 [+1584 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Bharat Khanna",
+      "title": "Goyal takes AAP membership drive door-to-door in Khanauri",
+      "description": "Punjab minister Brinder Kumar Goyal led AAP\u2019s door-to-door membership drive in Khanauri, visiting Ward 9 homes and shops to share govt achievements and gather feedback.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/goyal-takes-aap-membership-drive-door-to-door-in-khanauri/articleshow/134397417.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-132864420,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:52:02Z",
+      "content": "Follow Us On Social Media\r\nIndia's KAL Drone Flies: 1,000 Km Strike Range, Shahed-Style Loitering Weapon Built In NoidaTehrans Mystery Lights: Shiny, Multi-Coloured Objects Seen 50 Years After 1976 '\u2026 [+1584 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Bharat Khanna",
+      "title": "AAP takes Punjab govt \u2018report card\u2019 to every household in statewide outreach",
+      "description": "AAP launches Punjab-wide door-to-door drive to deliver Mann govt report card, promote membership, and highlight savings from power, health, education and welfare schemes.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/aap-takes-punjab-govt-report-card-to-every-household-in-statewide-outreach/articleshow/134397416.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397415,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:51:56Z",
+      "content": "Follow Us On Social Media\r\nIndia's KAL Drone Flies: 1,000 Km Strike Range, Shahed-Style Loitering Weapon Built In NoidaTehrans Mystery Lights: Shiny, Multi-Coloured Objects Seen 50 Years After 1976 '\u2026 [+1584 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "youtube.com",
+      "title": "Iran rebuilding nuclear-linked military site",
+      "description": "On today's episode of Iran: the Latest, Venetia Rainey speaks to Bahraini analyst Ahmed Khuzaie about Turkey and Pakistan's ...",
+      "url": "https://biztoc.com/x/cdb855fcc2dedf64",
+      "urlToImage": "https://biztoc.com/cdn/cdb855fcc2dedf64_s.webp",
+      "publishedAt": "2026-09-21T19:51:36Z",
+      "content": "On today's episode of Iran: the Latest, Venetia Rainey speaks to Bahraini analyst Ahmed Khuzaie about Turkey and Pakistan's ...\r\nThis story appeared on youtube.com, 2026-09-21 19:45:22."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crooksandliars.com"
+      },
+      "author": "David Edwards",
+      "title": "Fox News Host Advising Trump Pushes White House Press Ban Over Report On His Stepson",
+      "description": "Fox News host Mark Levin backed President Donald Trump's ban on Politico at the White House, citing the outlet's report on his stepson.\n\n\nLevin made his case Monday in a post on X, hours after Politico's Playbook newsletter reported that his stepson had solic\u2026",
+      "url": "https://crooksandliars.com/2026/09/fox-news-host-advising-trump-pushes-white",
+      "urlToImage": "https://crooksandliars.com/files/primary_image/26/09/49270613228_1a2971fdfd_z.jpg",
+      "publishedAt": "2026-09-21T19:48:53Z",
+      "content": "Fox News host Mark Levin backed President Donald Trump's ban on Politico at the White House, citing the outlet's report on his stepson.\r\nLevin made his case Monday in a post on X, hours after Politic\u2026 [+3386 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Repertwahr returns for season 14: Festival set for Dec 17\u201325",
+      "description": "Repertwahr returns to Lucknow for season 14 on Dec 17\u201325, with events at Janeshwar Mishra Park and theatre shows at Sangeet Natak Akademi.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/repertwahr-returns-for-season-14-festival-set-for-dec-1725/articleshow/134397399.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-21T19:47:00Z",
+      "content": "Follow Us On Social Media\r\nIndias KAL Drone Takes Flight At Pokhran, Gives 1,000-Km Kamikaze Capability To Match Iran's ShahedTrumps CNN Ban SPARKS Media Showdown As Five Major TV Networks Strike Bac\u2026 [+2817 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Home Guards aspirant\u2019s death takes murder angle as post-mortem reveals asphyxia",
+      "description": "Lucknow Home Guards aspirant Yogendra Singh dies during recruitment race; post-mortem finds asphyxia from lodged water bottle and injuries, police probe murder claim.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/home-guards-aspirants-death-takes-murder-angle-as-post-mortem-reveals-asphyxia/articleshow/134397398.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397396,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:46:51Z",
+      "content": "Follow Us On Social Media\r\nIndias KAL Drone Takes Flight At Pokhran, Gives 1,000-Km Kamikaze Capability To Match Iran's ShahedTrumps CNN Ban SPARKS Media Showdown As Five Major TV Networks Strike Bac\u2026 [+2817 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Munieshwer A Sagar",
+      "title": "UT plans split option for large industrial plots",
+      "description": "Chandigarh UT drafts fragmentation policy to split 4-kanal+ industrial plots into up to 3, with road width, frontage, access, parking and utility checks.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/ut-plans-split-option-for-large-industrial-plots/articleshow/134397394.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397393,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:46:46Z",
+      "content": "Follow Us On Social Media\r\nIndias KAL Drone Takes Flight At Pokhran, Gives 1,000-Km Kamikaze Capability To Match Iran's ShahedTrumps CNN Ban SPARKS Media Showdown As Five Major TV Networks Strike Bac\u2026 [+2817 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Vijender Kumar",
+      "title": "Jind shooter Himanshu wins 2 Asian Games silvers on birthday",
+      "description": "Jind shooter Himanshu Dhillon wins two silver medals in 10m air rifle individual and team events at Asian Games 2026 in Nagoya, Japan, on his birthday.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/jind-shooter-himanshu-wins-2-asian-games-silvers-on-birthday/articleshow/134397392.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397391,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:46:36Z",
+      "content": "Follow Us On Social Media\r\nIndias KAL Drone Takes Flight At Pokhran, Gives 1,000-Km Kamikaze Capability To Match Iran's ShahedTrumps CNN Ban SPARKS Media Showdown As Five Major TV Networks Strike Bac\u2026 [+2817 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "The Times Of India",
+      "title": "Wanted accused killed in exchange of fire with Tarn Taran police",
+      "description": "Wanted criminal Kashmir Singh killed and Gursewak Singh injured in encounter with Tarn Taran police near Bath village; two pistols recovered, probe ongoing.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/wanted-accused-killed-in-exchange-of-fire-with-tarn-taran-police/articleshow/134397381.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397379,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:46:31Z",
+      "content": "Follow Us On Social Media\r\nIndias KAL Drone Takes Flight At Pokhran, Gives 1,000-Km Kamikaze Capability To Match Iran's ShahedTrumps CNN Ban SPARKS Media Showdown As Five Major TV Networks Strike Bac\u2026 [+2817 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "Sangrur suicide bid: AAP asks why oppn defending man with 9 cases",
+      "description": "AAP questions opposition over defending Jagga Singh after Sangrur suicide bid, citing nine cases since 2018 and four convictions, including NDPS and excise.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/sangrur-suicide-bid-aap-asks-why-oppn-defending-man-with-9-cases/articleshow/134397360.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134396827,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:46:25Z",
+      "content": "Follow Us On Social Media\r\nIndias KAL Drone Takes Flight At Pokhran, Gives 1,000-Km Kamikaze Capability To Match Iran's ShahedTrumps CNN Ban SPARKS Media Showdown As Five Major TV Networks Strike Bac\u2026 [+2817 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Sonal Mansingh brings Natyashastra insights and stagecraft training to Bhatkhande University",
+      "description": "Padma Vibhushan Sonal Mansingh led a Natyashastra discourse and stagecraft workshop at Bhatkhande University, guiding students on discipline and expression.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/sonal-mansingh-brings-natyashastra-insights-and-stagecraft-training-to-bhatkhande-university/articleshow/134397388.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397386,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:45:13Z",
+      "content": "Follow Us On Social Media\r\nIndias KAL Drone Takes Flight At Pokhran, Gives 1,000-Km Kamikaze Capability To Match Iran's ShahedTrumps CNN Ban SPARKS Media Showdown As Five Major TV Networks Strike Bac\u2026 [+2817 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Soumitra Bose",
+      "title": "12-Yr-Old Girl Molested by Kin, Pocso Case Registered Against 58-Year-Old",
+      "description": "Nagpur\u2019s Old Kamptee police registered a POCSO case against a 58-year-old for allegedly molesting his 12-year-old relative; probe underway, no arrest yet.",
+      "url": "https://timesofindia.indiatimes.com/city/nagpur/12-yr-old-girl-molested-by-kin-pocso-case-registered-against-58-year-old/articleshow/134397384.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-21T19:44:55Z",
+      "content": "Follow Us On Social Media\r\nIndias KAL Drone Takes Flight At Pokhran, Gives 1,000-Km Kamikaze Capability To Match Iran's ShahedTrumps CNN Ban SPARKS Media Showdown As Five Major TV Networks Strike Bac\u2026 [+2817 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Akashdeep Virk",
+      "title": "11 years on, PU\u2019s ISSER relies on guest faculty, research scholars",
+      "description": "11 years after PU launched ISSER, the institute still has no regular faculty and relies on guest teachers and research scholars for much of its teaching.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/11-years-on-pus-isser-relies-on-guest-faculty-research-scholars/articleshow/134397383.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397382,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:44:52Z",
+      "content": "Follow Us On Social Media\r\nIndias KAL Drone Takes Flight At Pokhran, Gives 1,000-Km Kamikaze Capability To Match Iran's ShahedTrumps CNN Ban SPARKS Media Showdown As Five Major TV Networks Strike Bac\u2026 [+2817 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "ABVP protest at LU over hostel and admin issues",
+      "description": "ABVP members protest at Lucknow University over hostel conditions, classroom and library upgrades, admin issues, digital IDs, and PhD admission concerns.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/abvp-protest-at-lu-over-hostel-and-admin-issues/articleshow/134397377.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397371,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:44:39Z",
+      "content": "Follow Us On Social Media\r\nIndias KAL Drone Takes Flight At Pokhran, Gives 1,000-Km Kamikaze Capability To Match Iran's ShahedTrumps CNN Ban SPARKS Media Showdown As Five Major TV Networks Strike Bac\u2026 [+2817 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Shimona Kanwar",
+      "title": "PGI to offer low cost confirmatory test for Alzheimer\u2019s",
+      "description": "PGI Chandigarh to launch low-cost Alzheimer\u2019s confirmatory CSF biomarker test in 2\u20133 weeks; 3-panel test at Rs 10,000 vs Rs 25,000\u201330,000 privately.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/pgi-to-offer-low-cost-confirmatory-test-for-alzheimers/articleshow/134397363.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397362,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:42:24Z",
+      "content": "Follow Us On Social Media\r\nIndias KAL Drone Takes Flight At Pokhran, Gives 1,000-Km Kamikaze Capability To Match Iran's ShahedTrumps CNN Ban SPARKS Media Showdown As Five Major TV Networks Strike Bac\u2026 [+2817 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "CM to launch LDA housing schemes",
+      "description": "CM Yogi Adityanath to launch LDA Varun Vihar and Naimish Nagar schemes on Sept 24; online registration opens for 3,105 residential plots.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/cm-to-launch-lda-housing-schemes/articleshow/134397358.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397357,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:41:50Z",
+      "content": "Follow Us On Social Media\r\nIndias KAL Drone Takes Flight At Pokhran, Gives 1,000-Km Kamikaze Capability To Match Iran's ShahedTrumps CNN Ban SPARKS Media Showdown As Five Major TV Networks Strike Bac\u2026 [+2817 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Blogspot.com"
+      },
+      "author": "noreply@blogger.com (Unknown)",
+      "title": "RUSI: The Battle for Bab Al-Mandeb is Becoming a Contest for Regional Power",
+      "description": "Dr Burcu Ozcelik, 21 September 2026Houthi gains around Bab Al-Mandeb have exposed rival visions of Gulf security, as Saudi Arabia, Israel, Turkey, Pakistan and the US weigh competing responses.Over the course of a few fateful days, Yemen\u2019s Ansar Allah movemen\u2026",
+      "url": "https://i-epikaira.blogspot.com/2026/09/rusi-battle-for-bab-al-mandeb-is.html",
+      "urlToImage": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_ukbiq0JmuA0TC3nU5eWKi_PotmFaBT_UxtbOP83rCZDyGpTp_6Q_aSdLt_ugIMA-i415wcpRL8EvcsyVW4dvBVDPQaoYEE-SypK7Gx0p9F1bmCv7TKhsRoxmor2pnJFVz8OiFWaNBGDALagKl9JdMHEtN3F0gkf9e2FEXLZ2SQ_oWYiVs",
+      "publishedAt": "2026-09-21T19:41:31Z",
+      "content": "LIVE GEOPOLITICAL ANALYSIS\r\nLAUNCH INDEX\r\nMonitoring for analysts, investors, journalists, and geopolitical observers by iEpikaira."
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Rajendra Prasad Sharma",
+      "title": "16-hr jungle chase through Hry ends in Congress victory in Tijara",
+      "description": "Rajasthan HC extends Tijara chairperson voting after 18 councillors allegedly detained in Haryana; Congress-backed Ramavatar Saini wins 18-16.",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/16-hr-jungle-chase-through-hry-ends-in-congress-victory-in-tijara/articleshow/134397345.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397344,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:40:23Z",
+      "content": "Follow Us On Social Media\r\nIndias KAL Drone Takes Flight At Pokhran, Gives 1,000-Km Kamikaze Capability To Match Iran's ShahedTrumps CNN Ban SPARKS Media Showdown As Five Major TV Networks Strike Bac\u2026 [+2817 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "The Times Of India",
+      "title": "LU, planetarium hold hands-on session on photographing Jupiter and the Moon",
+      "description": "Lucknow University and Indira Gandhi Planetarium held hands-on astrophotography training, teaching students to photograph Jupiter and the Moon using stacking tools.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/lu-planetarium-hold-hands-on-session-on-photographing-jupiter-and-the-moon/articleshow/134397343.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397342,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:40:17Z",
+      "content": "Follow Us On Social Media\r\nIndias KAL Drone Takes Flight At Pokhran, Gives 1,000-Km Kamikaze Capability To Match Iran's ShahedTrumps CNN Ban SPARKS Media Showdown As Five Major TV Networks Strike Bac\u2026 [+2817 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Pathikrit.Chakraborty",
+      "title": "Forensics challenged cop\u2019s self defence story",
+      "description": "Forensic reconstruction in Vivek Tiwari murder case challenged constable\u2019s self-defence claim, citing shot distance, trajectory and minor bike contact.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/forensics-challenged-cops-self-defence-story/articleshow/134397335.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397333,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:39:14Z",
+      "content": "Follow Us On Social Media\r\nIndias KAL Drone Takes Flight At Pokhran, Gives 1,000-Km Kamikaze Capability To Match Iran's ShahedTrumps CNN Ban SPARKS Media Showdown As Five Major TV Networks Strike Bac\u2026 [+2817 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Pathikrit.Chakraborty",
+      "title": "Bullet was fired in self defence: Court",
+      "description": "Lucknow sessions court says Prashant Chaudhary fired in self-defence in Vivek Tiwari case, convicting him under IPC 304 Part II, not 302 murder.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/bullet-was-fired-in-self-defence-court/articleshow/134397320.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-21T19:37:22Z",
+      "content": "Follow Us On Social Media\r\nIndias KAL Drone Takes Flight At Pokhran, Gives 1,000-Km Kamikaze Capability To Match Iran's ShahedTrumps CNN Ban SPARKS Media Showdown As Five Major TV Networks Strike Bac\u2026 [+2817 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Ajay Singh Ugras",
+      "title": "BJP overcomes ward-level poll math to win 6 of 7 mayor posts",
+      "description": "BJP wins 6 of 7 Rajasthan mayor posts, including unopposed wins in Bhilwara and Bharatpur; Congress wins only Bikaner. Jaipur, Jodhpur, Kota polls Sept 25.",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/bjp-overcomes-ward-level-poll-math-to-win-6-of-7-mayor-posts/articleshow/134397315.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397314,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:36:13Z",
+      "content": "Follow Us On Social Media\r\nIndias KAL Drone Takes Flight At Pokhran, Gives 1,000-Km Kamikaze Capability To Match Iran's ShahedTrumps CNN Ban SPARKS Media Showdown As Five Major TV Networks Strike Bac\u2026 [+2817 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Intercept"
+      },
+      "author": "Noah Hurowitz",
+      "title": "Immigration Roulette: Husband Granted Asylum, Wife Locked Up Awaiting Deportation",
+      "description": "An Iranian couple seeking refuge in the United States faces a cruel new form of family separation.\nThe post Immigration Roulette: Husband Granted Asylum, Wife Locked Up Awaiting Deportation appeared first on The Intercept.",
+      "url": "https://theintercept.com/2026/09/21/asylum-iranian-couple-detention-deport/",
+      "urlToImage": "https://theintercept.com/wp-content/uploads/2026/09/signal-2026-09-21-07-50-21-854_005-e1790015269100.jpg?fit=1204%2C602&w=1200&h=800",
+      "publishedAt": "2026-09-21T19:36:03Z",
+      "content": "An Iranian couple seeking refuge in the U.S. has been separated for nearly two years after separate immigration judges issued sharply diverging rulings on their nearly identical asylum applications.\r\u2026 [+12200 chars]"
     },
     {
       "source": {
@@ -1165,77 +710,597 @@
         "name": "Crypto Briefing"
       },
       "author": "Estefano Gomez",
-      "title": "IRGC spokesman claims US military bases near Iran disabled by missile and drone attacks",
-      "description": "Increased regional instability and heightened military tensions could lead to significant disruptions in airspace security and operations.\nThe post IRGC spokesman claims US military bases near Iran disabled by missile and drone attacks appeared first on Crypt\u2026",
-      "url": "https://cryptobriefing.com/irgc-spokesman-claims-us-military-bases-near-iran-disabled-by-missile-and-drone/",
-      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/21010510/commons-picker-govcommons8b674ec4d70b3f81-2-800x450.jpg",
-      "publishedAt": "2026-09-21T05:05:11Z",
-      "content": "On Monday, the spokesman for Iran\u2019s Islamic Revolutionary Guard Corps (IRGC), Hossein Mohabbi, announced that most US military bases surrounding Iran have been rendered inoperative due to Iranian mis\u2026 [+1418 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New Zealand Herald"
-      },
-      "author": "Vaughn Davis",
-      "title": "Is Air NZ\u2019s dominance of domestic routes costing consumers and its bottom line, too much? \u2013 Vaughn Davis",
-      "description": "OPINION: The airline lost $242 million after tax in the last financial year.",
-      "url": "https://www.nzherald.co.nz/nz/is-air-nzs-dominance-of-domestic-routes-costing-consumers-and-its-bottom-line-too-much-vaughn-davis/premium/3SBWISS6N5ETLJNNMO366RUKWA/",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/HNW6MQE3RRK5ND2Z63ZOBSRRUE.jpg?auth=d66bf62b76c6c1c8082a585585081794b1a793189a1d45f490564561626d5744&width=1200&height=675&quality=70&smart=true",
-      "publishedAt": "2026-09-21T05:00:00Z",
-      "content": "More money upfront (and depreciation), more to insure, more to maintain, more on fuel ... even more garage space needed, which means you could pay more for your home.\r\nAll these principles apply to r\u2026 [+4432 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New Zealand Herald"
-      },
-      "author": "Derek Cheng",
-      "title": "Winston Peters on the state of the world and realism over idealism",
-      "description": "Peters says NZ's 'anti-nuclear' stance built national identity but not without cost.",
-      "url": "https://www.nzherald.co.nz/nz/politics/winston-peters-says-on-the-state-of-the-world-and-realism-over-idealism/HXDHBVMVZRA65LEKWFVM3DUNP4/",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/V3DAFE4KHRDJXC3QNHVEEJ2MGU.jpg?auth=608806263bac97bf5e2f13594cb9d19611148ed5b46b4a66d6f898bb8147b126&width=1200&height=675&quality=70&focal=974%2C558&smart=false",
-      "publishedAt": "2026-09-21T04:45:00Z",
-      "content": "Some New Zealanders conflated independent foreign policy with their own version of national identity at the expense of the national interest, he said.\r\nAt its core, it reacts only in one direction, a\u2026 [+4860 chars]"
+      "title": "UN General Assembly 2026: US-Israeli conflict with Iran takes center stage",
+      "description": "Heightened UNGA focus on US-Israeli-Iran tensions may hinder diplomatic progress, impacting regional stability and global market confidence.\nThe post UN General Assembly 2026: US-Israeli conflict with Iran takes center stage appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/un-general-assembly-2026-us-israeli-conflict-with-iran-takes-center-stage/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/21153304/cb-card-geo-167-800x420.png",
+      "publishedAt": "2026-09-21T19:33:05Z",
+      "content": "The upcoming 2026 session of the United Nations General Assembly will prominently feature discussions centered around the ongoing US-Israeli conflict with Iran. This focus aligns with the broader reg\u2026 [+1419 chars]"
     },
     {
       "source": {
         "id": "the-times-of-india",
         "name": "The Times of India"
       },
-      "author": "Veer Sharma",
-      "title": "Gold prices fall Rs 1,331/10 gram, silver dips Rs 1,600/kg as Mideast tensions outweigh oil fall: Key levels to track",
-      "description": "Gold and silver prices snapped a two-day rally on Monday, dropping on the MCX amid escalating US-Iran geopolitical tensions and central bank rate hikes. Gold dropped Rs 1,331 per 10 grams while silver fell Rs 1,600 per kg. Experts share key trading levels and\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-fall-rs-1331/10-gram-silver-dips-rs-1600/kg-as-mideast-tensions-outweigh-oil-fall-key-levels-to-track/articleshow/134379699.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134379785,width-1200,height-630,imgsize-2443225,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-21T04:25:34Z",
-      "content": "Gold and silver prices opened lower on the Multi Commodity Exchange on Monday to snap a two-day rally as investors weighed fresh tensions between Iran and the US, developments in the Middle East and \u2026 [+3478 chars]"
+      "author": "Ankur Tewari",
+      "title": "No orchestra? Just tap: IIT-Kanpur makes music follow your fingers",
+      "description": "IIT Kanpur researchers developed a patented, low-cost Smart Virtual Orchestra that tracks finger taps to generate real-time percussion accompaniment with tempo control.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/no-orchestra-just-tap-iit-kanpur-makes-music-follow-your-fingers/articleshow/134397300.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397298,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:31:38Z",
+      "content": "Follow Us On Social Media\r\nUS Completes Iraq Base Handover After 23 Years; Troops Relocate To Jordan | ReportNot Banning: JD Vances Big Admission After Media Outlets Sue Trump; MS NOW, Politico &amp;\u2026 [+2752 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Pathikrit.Chakraborty",
+      "title": "10 years jail to cop for Apple executive\u2019s murder in Lucknow",
+      "description": "Lucknow court sentences constable Prashant Chaudhary to 10 years jail for 2018 killing of Apple executive Vivek Tiwari; family to appeal.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/10-years-jail-to-cop-for-apple-executives-murder-in-lucknow/articleshow/134397295.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397294,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:31:13Z",
+      "content": "Follow Us On Social Media\r\nUS Completes Iraq Base Handover After 23 Years; Troops Relocate To Jordan | ReportNot Banning: JD Vances Big Admission After Media Outlets Sue Trump; MS NOW, Politico &amp;\u2026 [+2752 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Business Standard"
+        "name": "Israelnationalnews.com"
       },
-      "author": "Capital Market",
-      "title": "Nifty trade above 23,350 in early trade; breadth positive",
-      "description": "At 09:30 IST, the barometer index, the S&P BSE Sensex, jumped 461.30 points or 0.61% to 74,748.70. The Nifty 50 index rose 47.65 points or 0.21% to 23,398.",
-      "url": "https://www.business-standard.com/markets/capital-market-news/nifty-trade-above-23-350-in-early-trade-breadth-positive-126092100142_1.html",
-      "urlToImage": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
-      "publishedAt": "2026-09-21T04:20:01Z",
-      "content": "The key equity benchmarks traded with modest gains in early trade. The Nifty traded above the 23,350 mark. Pharma, FMCG and realty shares advanced, while IT and PUS bank stocks declined on the NSE.\r\n\u2026 [+4868 chars]"
+      "author": "Amine Ayoub",
+      "title": "Why Is Tehran terrified of French verbs?",
+      "description": "On the same day Iran warned of US missile strikes, it shut down a French language institute. Here\u2019s the sinister reason why-and why Europe can no longer play neutral. Opinion.",
+      "url": "https://www.israelnationalnews.com/news/433454",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1216827.jpg",
+      "publishedAt": "2026-09-21T19:30:15Z",
+      "content": "On September 20, Iranian authorities delivered two distinct signals that highlight how Tehran's security doctrine is evolving. Iran's military command publicly announced that it had intelligence indi\u2026 [+5260 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "BusinessLine"
+        "name": "Freerepublic.com"
       },
-      "author": "BL Mangaluru Bureau",
-      "title": "Brent crude falls below $102 on hopes of easing West Asia tensions",
-      "description": "Diplomatic overtures between the US and Iran spark optimism in oil markets, despite ongoing Houthi attacks on Saudi Arabia, contributing to a notable drop in crude prices.",
-      "url": "https://www.thehindubusinessline.com/markets/commodities/brent-crude-falls-below-102-on-hopes-of-easing-west-asia-tensions/article71490084.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/bvayo7/article71490087.ece/alternates/LANDSCAPE_1200/PO01_Oil.jpg",
-      "publishedAt": "2026-09-21T04:19:09Z",
-      "content": "Brent crude oil futures traded below $102 a barrel on Monday morning on hopes that diplomatic efforts could help ease tensions in West Asia.\r\nAt 9.41 am on Monday, November Brent oil futures were at \u2026 [+1347 chars]"
+      "author": "PJ Media",
+      "title": "This Might Be Trump's Most Magnificent Troll of All Time",
+      "description": "A funny thing happened on the Iranian President's way to the U.N... But before we get to President Donald Trump's newest and latest and most magnificent troll, please let me take a moment to remind you of just how high he set the bar for himself. Rep. Wesley \u2026",
+      "url": "https://freerepublic.com/focus/f-news/4396364/posts",
+      "urlToImage": null,
+      "publishedAt": "2026-09-21T19:29:40Z",
+      "content": "Skip to comments.\r\nThis Might Be Trump's Most Magnificent Troll of All TimePJ Media ^\r\n | 21 Sep 2026\r\n | Stephen Green\r\nPosted on 09/21/2026 12:29:40 PM PDT by Rummyfan\r\nA funny thing happened on th\u2026 [+4069 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Vijender Kumar",
+      "title": "Daughter born, stereotypes torn: Drums, flowers and cheers welcome girl child\u2019s birth after 45 yrs",
+      "description": "Jind\u2019s Shadipur village celebrates birth of baby girl Saanvi after 45 years in the family, with drums and flowers, highlighting support for daughters and gender equality.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/daughter-born-stereotypes-torn-drums-flowers-and-cheers-welcome-girl-childs-birth-after-45-yrs/articleshow/134397272.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397270,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:29:25Z",
+      "content": "Follow Us On Social Media\r\nUS Completes Iraq Base Handover After 23 Years; Troops Relocate To Jordan | ReportNot Banning: JD Vances Big Admission After Media Outlets Sue Trump; MS NOW, Politico &amp;\u2026 [+2752 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "breakingthenews.net",
+      "title": "US said to plan $5B Middle East energy fund",
+      "description": "The Trump administration is reportedly planning to invest $5 billion to help rebuild Middle East energy infrastructure damaged during the war with Iran, The Wall Street Journal reported Monday, citing...",
+      "url": "https://biztoc.com/x/4618491ebd7d1d53",
+      "urlToImage": "https://biztoc.com/cdn/4618491ebd7d1d53_s.webp",
+      "publishedAt": "2026-09-21T19:29:09Z",
+      "content": "The Trump administration is reportedly planning to invest $5 billion to help rebuild Middle East energy infrastructure damaged during the war with Iran, The Wall Street Journal reported Monday, citin\u2026 [+69 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Youth gets 20-yearRI for raping minor",
+      "description": "Bahraich POCSO court sentences 20-year RI to youth who raped 15-year-old, caused pregnancy; fined Rs 50,000; to stay in place of safety until 21.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/youth-gets-20-yearri-for-raping-minor/articleshow/134397285.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-21T19:27:58Z",
+      "content": "Follow Us On Social Media\r\nUS Completes Iraq Base Handover After 23 Years; Troops Relocate To Jordan | ReportNot Banning: JD Vances Big Admission After Media Outlets Sue Trump; MS NOW, Politico &amp;\u2026 [+2752 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Woman scales tower near zooover land row",
+      "description": "Woman from Agra climbs tower near Lucknow zoo to protest land dispute; police and fire services rescue her safely after she alleges encroachment and threats.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/woman-scales-tower-near-zooover-land-row/articleshow/134397284.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-21T19:27:44Z",
+      "content": "Follow Us On Social Media\r\nUS Completes Iraq Base Handover After 23 Years; Troops Relocate To Jordan | ReportNot Banning: JD Vances Big Admission After Media Outlets Sue Trump; MS NOW, Politico &amp;\u2026 [+2752 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Connectivity hit as Mehndi Ghat pontoon bridge shifts riverward",
+      "description": "Mehndi Ghat pontoon bridge in Lucknow shifted as Gomti swelled, disrupting travel for 1 lakh+ residents; boat crossings, detours; permanent bridge due next year.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/connectivity-hit-as-mehndi-ghat-pontoon-bridge-shifts-riverward/articleshow/134397281.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397280,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:26:52Z",
+      "content": "Follow Us On Social Media\r\nUS Completes Iraq Base Handover After 23 Years; Troops Relocate To Jordan | ReportNot Banning: JD Vances Big Admission After Media Outlets Sue Trump; MS NOW, Politico &amp;\u2026 [+2752 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Newborn\u2019s body found in hospital toilet",
+      "description": "Newborn boy\u2019s body found in RMLIMS hospital toilet in Lucknow; police reviewing CCTV. Postmortem to determine time and cause of death.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/newborns-body-found-in-hospital-toilet/articleshow/134397279.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-21T19:26:40Z",
+      "content": "Follow Us On Social Media\r\nUS Completes Iraq Base Handover After 23 Years; Troops Relocate To Jordan | ReportNot Banning: JD Vances Big Admission After Media Outlets Sue Trump; MS NOW, Politico &amp;\u2026 [+2752 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "Sikh group to protest outside Dhami's house over handling of rape allegations",
+      "description": "Alliance of Sikh Organisations to protest outside SGPC chief Harjinder Singh Dhami\u2019s Hoshiarpur home on Sep 24, seeking resignation over rape case handling.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/sikh-group-to-protest-outside-dhamis-house-over-handling-of-rape-allegations/articleshow/134397257.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-133330468,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:26:38Z",
+      "content": "Follow Us On Social Media\r\nUS Completes Iraq Base Handover After 23 Years; Troops Relocate To Jordan | ReportNot Banning: JD Vances Big Admission After Media Outlets Sue Trump; MS NOW, Politico &amp;\u2026 [+2752 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Running late for duty, Dial 112 SI dies after speeding car crashes with dumper",
+      "description": "Dial 112 SI Satyendra Singh, 51, died after his speeding WagonR hit a stationary dumper in Sarojini Nagar, Lucknow; probe underway.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/running-late-for-duty-dial-112-si-dies-after-speeding-car-crashes-with-dumper/articleshow/134397278.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397276,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:26:34Z",
+      "content": "Follow Us On Social Media\r\nUS Completes Iraq Base Handover After 23 Years; Troops Relocate To Jordan | ReportNot Banning: JD Vances Big Admission After Media Outlets Sue Trump; MS NOW, Politico &amp;\u2026 [+2752 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "AIIMS Patna founding director duped in cyber fraud; \u20b93.22 lakh siphoned",
+      "description": "AIIMS Patna founding director Dr Girish Kumar Singh duped in Lucknow cyber fraud; \u20b93.22 lakh siphoned via unauthorised bank transactions from July\u2013Sept.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/aiims-patna-founding-director-duped-in-cyber-fraud-3-22-lakh-siphoned/articleshow/134397269.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397268,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:26:13Z",
+      "content": "Follow Us On Social Media\r\nUS Completes Iraq Base Handover After 23 Years; Troops Relocate To Jordan | ReportNot Banning: JD Vances Big Admission After Media Outlets Sue Trump; MS NOW, Politico &amp;\u2026 [+2752 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "14 UP dists get new DMs",
+      "description": "UP govt transfers 34 IAS officers, appoints 14 new district magistrates in late-night reshuffle; new DMs named for Amethi, Moradabad, Hardoi and more.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/14-up-dists-get-new-dms/articleshow/134397266.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-21T19:25:37Z",
+      "content": "Follow Us On Social Media\r\nUS Completes Iraq Base Handover After 23 Years; Troops Relocate To Jordan | ReportNot Banning: JD Vances Big Admission After Media Outlets Sue Trump; MS NOW, Politico &amp;\u2026 [+2752 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Sat Singh",
+      "title": "From wrestling mats to hockey record: Deepika\u2019s 8-goal Asian Games feat",
+      "description": "Rohtak\u2019s Deepika Sehrawat scores record 8 goals as India crushes Uzbekistan 19-0 at Asian Games 2026, after switching from wrestling to hockey.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/from-wrestling-mats-to-hockey-record-deepikas-8-goal-asian-games-feat/articleshow/134397238.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397237,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:24:05Z",
+      "content": "Follow Us On Social Media\r\nUS Completes Iraq Base Handover After 23 Years; Troops Relocate To Jordan | ReportNot Banning: JD Vances Big Admission After Media Outlets Sue Trump; MS NOW, Politico &amp;\u2026 [+2752 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Nisha Nambiar",
+      "title": "9.31L notices for verification ready, just 3,157 delivered",
+      "description": "Pune SIR: 9.31 lakh voter verification notices generated, only 3,157 delivered; 4.01 lakh pending. Hearings to start after Ganeshotsav; Form 6 applications surge.",
+      "url": "https://timesofindia.indiatimes.com/city/pune/9-31l-notices-for-verification-ready-just-3157-delivered/articleshow/134397240.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397239,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:21:17Z",
+      "content": "Follow Us On Social Media\r\nUS Completes Iraq Base Handover After 23 Years; Troops Relocate To Jordan | ReportNot Banning: JD Vances Big Admission After Media Outlets Sue Trump; MS NOW, Politico &amp;\u2026 [+2752 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI World Desk",
+      "title": "Mill Brook Crossing: Athol daylightes buried stream and rips up parking lot; new wetlands cool downtown",
+      "description": "This month, Athol, Massachusetts, proudly marked the successful completion of Mill Brook Crossing. This innovative project not only restored a vital stream but also established new wetlands right in the heart of downtown. With over 53,000 square feet of pavem\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/us/for-half-a-century-massachusetts-mill-brook-ran-beneath-a-downtown-parking-lot-athol-has-now-uncovered-it-created-12000-sq-ft-of-wetlands-and-turned-53000-sq-ft-of-pavement-into-vegetation/articleshow/134382536.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134383361,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:20:00Z",
+      "content": "<ul><li>News</li>\r\n<li>World News</li>\r\n<li>US News</li>\r\n<li>For half a century, Massachusetts' Mill Brook ran beneath a downtown parking lot; Athol has now uncovered it, created 12,000 sq ft of wet\u2026 [+3020 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "author": "Estefano Gomez",
+      "title": "Trump proposes $5B fund to rebuild Middle East energy infrastructure",
+      "description": "The proposed fund could enhance regional stability and energy security, potentially influencing market dynamics and geopolitical relations.\nThe post Trump proposes $5B fund to rebuild Middle East energy infrastructure appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/trump-proposes-5b-fund-to-rebuild-middle-east-energy-infrastructure/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/21151853/library-trump-proposes-5b-fund-to-rebuild-middle-east-energy-inf-1-800x450.png",
+      "publishedAt": "2026-09-21T19:18:54Z",
+      "content": "The Trump administration has put forward a proposal to invest $5 billion in a new fund aimed at rebuilding energy infrastructure in Middle Eastern countries affected by conflicts with Iran. This init\u2026 [+2000 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "Pune techie kills wife, cooks up robbery story; jumps from 2nd floor",
+      "description": "Pune: Techie Akash Baraskar accused of killing pregnant wife in Dehugaon, staging robbery and jumping from 2nd floor; booked for murder under BNS.",
+      "url": "https://timesofindia.indiatimes.com/city/pune/pune-techie-kills-wife-cooks-up-robbery-story-jumps-from-2nd-floor/articleshow/134397228.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397226,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:18:54Z",
+      "content": "Follow Us On Social Media\r\nUS Completes Iraq Base Handover After 23 Years; Troops Relocate To Jordan | ReportNot Banning: JD Vances Big Admission After Media Outlets Sue Trump; MS NOW, Politico &amp;\u2026 [+2752 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AutoExpress"
+      },
+      "author": "Alastair Crooks",
+      "title": "Diesel prices predicted to soar into 2027, and they're quite high now",
+      "description": "Record low diesel reserves mean prices are sharply rising, with no respite in sight",
+      "url": "https://www.autoexpress.co.uk/news/370481/diesel-prices-predicted-soar-2027-and-theyre-quite-high-now",
+      "urlToImage": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1662458534/autoexpress/2022/09/Diesel pump.jpg",
+      "publishedAt": "2026-09-21T19:18:38Z",
+      "content": "The cost of filling up your tank has dramatically increased this year thanks mainly to\u00a0ongoing conflict in Iran and the Middle East. Now, new data from the US Energy Information Administration (EIA) \u2026 [+3108 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Ashutosh.Sahoo",
+      "title": "Pune residents show the eco-friendly way with shadu clay idol donations, reusing decorations and composting festival waste",
+      "description": "Pune promotes sustainable Ganeshotsav with shadu clay idol donations, reused decorations and composting; Punaravartan and PMC recycle clay to cut mining.",
+      "url": "https://timesofindia.indiatimes.com/city/pune/pune-residents-show-the-eco-friendly-way-with-shadu-clay-idol-donations-reusing-decorations-and-composting-festival-waste/articleshow/134397220.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397218,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:17:53Z",
+      "content": "<ul><li>News</li>\r\n<li>City News</li>\r\n<li>pune News</li>\r\n<li>Pune residents show the eco-friendly way with shadu clay idol donations, reusing decorations and composting festival waste</li></ul>\r\nFo\u2026 [+2949 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Sarang Dastane",
+      "title": "More than 8.77 lakh use Pune Metro services for Ganapati darshan over the weekend",
+      "description": "Pune Metro sees Ganeshotsav rush: 8.77 lakh riders over weekend; trains every 5 minutes at peak. Mandai, Civil Court, Kasba Peth busiest.",
+      "url": "https://timesofindia.indiatimes.com/city/pune/more-than-8-77-lakh-use-pune-metro-services-for-ganapati-darshan-over-the-weekend/articleshow/134397214.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397213,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:17:39Z",
+      "content": "Follow Us On Social Media\r\nUS Completes Iraq Base Handover After 23 Years; Troops Relocate To Jordan | ReportNot Banning: JD Vances Big Admission After Media Outlets Sue Trump; MS NOW, Politico &amp;\u2026 [+2752 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Blogspot.com"
+      },
+      "author": "noreply@blogger.com (Unknown)",
+      "title": "CSIS: Iran and the Emerging Security Order in the Middle East",
+      "description": "Commentary by Vali NasrPublished September 14, 2026Part of the Middle East Program\u2019s Middle East Futures Project, this Commentary series will analyze the Middle East\u2019s current period of disequilibrium, explore future scenarios for the region, and identify pot\u2026",
+      "url": "https://i-epikaira.blogspot.com/2026/09/csis-iran-and-emerging-security-order.html",
+      "urlToImage": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tCTakXNMo34MWjyUOc5TMHRDaV6H832feKHSPIn_cYllqP0py1dUOOQTEYNV3OF-TCUk0lpFyKYIosLc1vvVU9_fQbYKFPRGEckQF5eOxo_xAmD3n_fLCbFH-bHU4tCwYLuAZEbk831UgYnJ-Z88M226yI_VpJ7kBAKxHXkHUB_xe6Yc7nSc_U_C7UxZq_-a26vOHSiwsnObMYF-cd0saqd_Mh8imyCb1hnfMhUZl5wEmfsAPnNFKRDvmZZiYl1tqKAtlm4n7dwwz_pBSMxoC9Zgn3_dp445IVnSHT",
+      "publishedAt": "2026-09-21T19:16:57Z",
+      "content": "LIVE GEOPOLITICAL ANALYSIS\r\nLAUNCH INDEX\r\nMonitoring for analysts, investors, journalists, and geopolitical observers by iEpikaira."
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Alim Shaikh",
+      "title": "Court orders to register criminal case over 9-year-old girl\u2019s death in private hospital in 2022",
+      "description": "Pune JMFC orders FIR in Ruby Hall Clinic 2022 death of 9-year-old; summons to 10 accused under IPC sections after expert panel cites prima facie negligence.",
+      "url": "https://timesofindia.indiatimes.com/city/pune/court-orders-to-register-criminal-case-over-9-year-old-girls-death-in-private-hospital-in-2022/articleshow/134397211.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397210,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:16:06Z",
+      "content": "<ul><li>News</li>\r\n<li>City News</li>\r\n<li>pune News</li>\r\n<li>Court orders to register criminal case over 9-year-old girls death in private hospital in 2022</li></ul>\r\nFollow Us On Social Media\r\nNot\u2026 [+2887 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Anurag.Bende",
+      "title": "Won\u2019t allow ministers to roam freely in Maharashtra if drought not declared soon: Sapkal",
+      "description": "Maharashtra Congress chief Harshwardhan Sapkal warns ministers won\u2019t move freely if drought isn\u2019t declared soon; opposition demands relief, waiver.",
+      "url": "https://timesofindia.indiatimes.com/city/pune/wont-allow-ministers-to-roam-freely-in-maharashtra-if-drought-not-declared-soon-sapkal/articleshow/134397209.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397208,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:15:18Z",
+      "content": "Follow Us On Social Media\r\nNot Banning: JD Vances Big Admission After Media Outlets Sue Trump; MS NOW, Politico &amp; CNNTrumps War, Hegseths Fall: Iran War Impeachment Explodes; Mark Kelly &amp; Mas\u2026 [+2718 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "Man flees with Rs10,000 cash belonging to person with disability",
+      "description": "Unidentified man in Pune\u2019s Aundh bank allegedly dupes wheelchair user, takes Rs10,000 to deposit, returns slip without deposit and flees; police probe.",
+      "url": "https://timesofindia.indiatimes.com/city/pune/man-flees-with-rs10000-cash-belonging-to-person-with-disability/articleshow/134397207.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397205,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:15:11Z",
+      "content": "Follow Us On Social Media\r\nNot Banning: JD Vances Big Admission After Media Outlets Sue Trump; MS NOW, Politico &amp; CNNTrumps War, Hegseths Fall: Iran War Impeachment Explodes; Mark Kelly &amp; Mas\u2026 [+2718 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "\u2018Tax evasion\u2019 FIR against two CAs over Rs 4,427.9cr overseas remittances",
+      "description": "Pune police EOW filed an FIR against two CAs for alleged fake Form 15CB/15CA filings enabling Rs 4,427.92 crore overseas remittances via shell firms.",
+      "url": "https://timesofindia.indiatimes.com/city/pune/tax-evasion-fir-against-two-cas-over-rs-4427-9cr-overseas-remittances/articleshow/134397203.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-132868867,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:14:55Z",
+      "content": "Follow Us On Social Media\r\nNot Banning: JD Vances Big Admission After Media Outlets Sue Trump; MS NOW, Politico &amp; CNNTrumps War, Hegseths Fall: Iran War Impeachment Explodes; Mark Kelly &amp; Mas\u2026 [+2718 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Shashank Didmishe",
+      "title": "Pune natural choice for GCC hub, says CM Fadnavis",
+      "description": "CM Devendra Fadnavis says Pune is a natural GCC hub; Maharashtra targets 400 new GCCs and 4 lakh high-skill jobs, boosting metro and connectivity.",
+      "url": "https://timesofindia.indiatimes.com/city/pune/pune-natural-choice-for-gcc-hub-says-cm-fadnavis/articleshow/134397202.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397201,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:14:52Z",
+      "content": "Follow Us On Social Media\r\nNot Banning: JD Vances Big Admission After Media Outlets Sue Trump; MS NOW, Politico &amp; CNNTrumps War, Hegseths Fall: Iran War Impeachment Explodes; Mark Kelly &amp; Mas\u2026 [+2718 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Six nations to joinUP trade show \u201926",
+      "description": "UP International Trade Show 2026 (Sept 25-29, Greater Noida) hosts delegations from six nations, boosting B2B trade, investment, and MSME exports.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/six-nations-to-joinup-trade-show-26/articleshow/134397200.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-21T19:14:45Z",
+      "content": "Follow Us On Social Media\r\nNot Banning: JD Vances Big Admission After Media Outlets Sue Trump; MS NOW, Politico &amp; CNNTrumps War, Hegseths Fall: Iran War Impeachment Explodes; Mark Kelly &amp; Mas\u2026 [+2718 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "Wakad police arrest three for murder of daily wage worker",
+      "description": "Wakad police in Pune arrested three men for the murder of 35-year-old daily wage worker Maruti Bansode, allegedly killed over harassment claims.",
+      "url": "https://timesofindia.indiatimes.com/city/pune/wakad-police-arrest-three-for-murder-of-daily-wage-worker/articleshow/134397199.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397198,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:14:43Z",
+      "content": "Follow Us On Social Media\r\nNot Banning: JD Vances Big Admission After Media Outlets Sue Trump; MS NOW, Politico &amp; CNNTrumps War, Hegseths Fall: Iran War Impeachment Explodes; Mark Kelly &amp; Mas\u2026 [+2718 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "Congress retains Bikaner civic body, Anil Kalla wins 50-30",
+      "description": "Congress retains Bikaner Municipal Corporation as Anil Kalla defeats BJP\u2019s Surendra Singh Shekhawat 50-30 in mayoral poll, gaining support beyond party strength.",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/congress-retains-bikaner-civic-body-anil-kalla-wins-50-30/articleshow/134397194.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397193,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:14:37Z",
+      "content": "Follow Us On Social Media\r\nNot Banning: JD Vances Big Admission After Media Outlets Sue Trump; MS NOW, Politico &amp; CNNTrumps War, Hegseths Fall: Iran War Impeachment Explodes; Mark Kelly &amp; Mas\u2026 [+2718 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Swati Shinde Gole",
+      "title": "Pollution reshapes Mula-Mutha river life despite monsoon flows, finds Agharkar Research Institute study",
+      "description": "Agharkar Research Institute study finds pollution, not monsoon flows, drives diatom shifts in Pune\u2019s Mula-Mutha river, favoring tolerant species downstream.",
+      "url": "https://timesofindia.indiatimes.com/city/pune/pollution-reshapes-mula-mutha-river-life-despite-monsoon-flows-finds-agharkar-research-institute-study/articleshow/134397191.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397190,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:14:19Z",
+      "content": "<ul><li>News</li>\r\n<li>City News</li>\r\n<li>pune News</li>\r\n<li>Pollution reshapes Mula-Mutha river life despite monsoon flows, finds Agharkar Research Institute study</li></ul>\r\nFollow Us On Social M\u2026 [+2896 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "UPITS \u201926 to give global stage to Gkp terracotta",
+      "description": "UPITS 2026 to spotlight Gorakhpur terracotta with four stalls at Greater Noida (Sept 25-29), connecting artisans to global buyers and export markets under ODOP.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/upits-26-to-give-global-stage-to-gkp-terracotta/articleshow/134397189.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397188,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:14:13Z",
+      "content": "Follow Us On Social Media\r\nNot Banning: JD Vances Big Admission After Media Outlets Sue Trump; MS NOW, Politico &amp; CNNTrumps War, Hegseths Fall: Iran War Impeachment Explodes; Mark Kelly &amp; Mas\u2026 [+2718 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "UP RERA pays \u20b973.84L interest to complainants",
+      "description": "UP RERA paid \u20b973.84 lakh interest to 430 complainants on funds recovered from developers via recovery certificates and held in banks before disbursal.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/up-rera-pays-73-84l-interest-to-complainants/articleshow/134397186.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-21T19:13:54Z",
+      "content": "Follow Us On Social Media\r\nNot Banning: JD Vances Big Admission After Media Outlets Sue Trump; MS NOW, Politico &amp; CNNTrumps War, Hegseths Fall: Iran War Impeachment Explodes; Mark Kelly &amp; Mas\u2026 [+2718 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Man abducted after Ganesh immersion clash; rescued in 12 hours, four held",
+      "description": "Man abducted after Ganesh immersion clash in Sant Kabir Nagar; police rescued him within 12 hours and arrested four suspects, booked under BNS and SC/ST Act.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/man-abducted-after-ganesh-immersion-clash-rescued-in-12-hours-four-held/articleshow/134397185.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397183,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:13:45Z",
+      "content": "Follow Us On Social Media\r\nNot Banning: JD Vances Big Admission After Media Outlets Sue Trump; MS NOW, Politico &amp; CNNTrumps War, Hegseths Fall: Iran War Impeachment Explodes; Mark Kelly &amp; Mas\u2026 [+2718 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Bhaskar Mehare",
+      "title": "Yavatmal in shock, IIT-B boy\u2019s kin for CID probe",
+      "description": "IIT Bombay student Sahil Wakode, 19, found dead in hostel; Yavatmal family rejects suicide theory, alleges foul play, seeks CID probe, claims harassment.",
+      "url": "https://timesofindia.indiatimes.com/city/nagpur/yavatmal-in-shock-iit-b-boys-kin-for-cid-probe/articleshow/134397182.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397181,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:13:38Z",
+      "content": "Follow Us On Social Media\r\nNot Banning: JD Vances Big Admission After Media Outlets Sue Trump; MS NOW, Politico &amp; CNNTrumps War, Hegseths Fall: Iran War Impeachment Explodes; Mark Kelly &amp; Mas\u2026 [+2718 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "The Times Of India",
+      "title": "UP excise exports jump 45.4% in Q1, share in national tally rises to 12.6%",
+      "description": "UP excise exports rose 45.4% to $12.78M in Q1 2026-27, lifting its national share to 12.6% and ranking third; new units and policy drove growth.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/up-excise-exports-jump-45-4-in-q1-share-in-national-tally-rises-to-12-6/articleshow/134397179.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-21T19:13:29Z",
+      "content": "Follow Us On Social Media\r\nNot Banning: JD Vances Big Admission After Media Outlets Sue Trump; MS NOW, Politico &amp; CNNTrumps War, Hegseths Fall: Iran War Impeachment Explodes; Mark Kelly &amp; Mas\u2026 [+2718 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Alim Shaikh",
+      "title": "PCMC detects 13,500 unauthorised water connections, begins regularisation with smart meters",
+      "description": "PCMC finds 13,500 illegal water connections, starts regularisation with smart meters; citywide rollout planned via World Bank/PPP, project cost Rs 667 crore.",
+      "url": "https://timesofindia.indiatimes.com/city/pune/pcmc-detects-13500-unauthorised-water-connections-begins-regularisation-with-smart-meters/articleshow/134397178.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397177,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:13:15Z",
+      "content": "<ul><li>News</li>\r\n<li>City News</li>\r\n<li>pune News</li>\r\n<li>PCMC detects 13,500 unauthorised water connections, begins regularisation with smart meters</li></ul>\r\nFollow Us On Social Media\r\nNot Ba\u2026 [+2884 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "Three specialised healthcare centres inaugurated at D Y Patil Hospital",
+      "description": "D Y Patil Hospital, Pimpri inaugurated three centres for multi-organ transplants, mother & child care, and IVF/endoscopy, offering specialised care under one roof.",
+      "url": "https://timesofindia.indiatimes.com/city/pune/three-specialised-healthcare-centres-inaugurated-at-d-y-patil-hospital/articleshow/134397169.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397168,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:12:32Z",
+      "content": "Follow Us On Social Media\r\nNot Banning: JD Vances Big Admission After Media Outlets Sue Trump; MS NOW, Politico &amp; CNNTrumps War, Hegseths Fall: Iran War Impeachment Explodes; Mark Kelly &amp; Mas\u2026 [+2718 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "Dhruv Global School students win national classical dance competitions",
+      "description": "Dhruv Global School, Pune students win national Bharatanatyam and Odissi dance titles, securing top ranks and Best Performance awards in Mumbai contests.",
+      "url": "https://timesofindia.indiatimes.com/city/pune/dhruv-global-school-students-win-national-classical-dance-competitions/articleshow/134397166.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397165,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:12:14Z",
+      "content": "Follow Us On Social Media\r\nNot Banning: JD Vances Big Admission After Media Outlets Sue Trump; MS NOW, Politico &amp; CNNTrumps War, Hegseths Fall: Iran War Impeachment Explodes; Mark Kelly &amp; Mas\u2026 [+2718 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Sumit Roy",
+      "title": "Moogdayo face reveal sparks huge X debate after CDawgVA and Ironmouse meeting, MariaGrace joins controversy",
+      "description": "Moogdayo, also known as Moog, went viral after sharing a face reveal following her meeting with CDawgVA and Ironmouse at VeXpo. Her post crossed 20 million views and received both support and appearance-based mockery. CDawgVA defended her, while fellow VTuber\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/us-streamers/moogdayo-face-reveal-sparks-huge-x-debate-after-cdawgva-and-ironmouse-meeting-mariagrace-joins-controversy/articleshow/134397054.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397133,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:12:11Z",
+      "content": "Follow Us On Social Media\r\nUS Completes Iraq Base Handover After 23 Years; Troops Relocate To Jordan | ReportNot Banning: JD Vances Big Admission After Media Outlets Sue Trump; MS NOW, Politico &amp;\u2026 [+2752 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "Rohit Pawar to join MPSC aspirants\u2019 protest in Pune from Sept 26",
+      "description": "Rohit Pawar backs MPSC aspirants\u2019 Pune protest from Sept 26, seeking action on exam irregularities, recruitment delays and resignation of chairman Vivek Bhimanwar.",
+      "url": "https://timesofindia.indiatimes.com/city/pune/rohit-pawar-to-join-mpsc-aspirants-protest-in-pune-from-sept-26/articleshow/134397164.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397163,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:12:05Z",
+      "content": "Follow Us On Social Media\r\nNot Banning: JD Vances Big Admission After Media Outlets Sue Trump; MS NOW, Politico &amp; CNNTrumps War, Hegseths Fall: Iran War Impeachment Explodes; Mark Kelly &amp; Mas\u2026 [+2718 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "Stressful living among youth a growing concern, says Sachin Itkar",
+      "description": "Pune summit flags rising stress among youth; Sachin Itkar urges early school counselling. WeLearn app launches with 25+ support services for students.",
+      "url": "https://timesofindia.indiatimes.com/city/pune/stressful-living-among-youth-a-growing-concern-says-sachin-itkar/articleshow/134397162.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397160,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:11:55Z",
+      "content": "Follow Us On Social Media\r\nNot Banning: JD Vances Big Admission After Media Outlets Sue Trump; MS NOW, Politico &amp; CNNTrumps War, Hegseths Fall: Iran War Impeachment Explodes; Mark Kelly &amp; Mas\u2026 [+2718 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "Mann invited to Asian Games hockey semis, finals in Japan",
+      "description": "AHF invites Punjab CM Bhagwant Mann and delegation to Japan for Asian Games Aichi-Nagoya 2026 hockey semis and finals as Punjab prepares to host 2026 Asian Champions Trophy.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/mann-invited-to-asian-games-hockey-semis-finals-in-japan/articleshow/134397146.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134272663,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:11:47Z",
+      "content": "Follow Us On Social Media\r\nNot Banning: JD Vances Big Admission After Media Outlets Sue Trump; MS NOW, Politico &amp; CNNTrumps War, Hegseths Fall: Iran War Impeachment Explodes; Mark Kelly &amp; Mas\u2026 [+2718 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "FUEL SkillTech University signs MoU with JIT",
+      "description": "FUEL SkillTech & Entrepreneurship University signs MoU with JIT College in Nagpur, expands AWS Cloud skilling, and highlights new Maharashtra Act 23 of 2026 status.",
+      "url": "https://timesofindia.indiatimes.com/city/pune/fuel-skilltech-university-signs-mou-with-jit/articleshow/134397159.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134397153,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-21T19:11:39Z",
+      "content": "Follow Us On Social Media\r\nNot Banning: JD Vances Big Admission After Media Outlets Sue Trump; MS NOW, Politico &amp; CNNTrumps War, Hegseths Fall: Iran War Impeachment Explodes; Mark Kelly &amp; Mas\u2026 [+2718 chars]"
     }
   ]
 }

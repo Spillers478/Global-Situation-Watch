@@ -1,7 +1,46 @@
 {
   "status": "ok",
-  "totalResults": 11,
+  "totalResults": 16,
   "articles": [
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Frances Martel",
+      "title": "Disgraced Ex-U.N. Human Rights Chief Michelle Bachelet Exits Secretary-General Race",
+      "description": "Socialist former president of Chile and former U.N. High Commissioner for Human Rights Michelle Bachelet announced on Sunday she would no longer campaign to replace Antonio Guterres as secretary-general of the United Nations.\nThe post Disgraced Ex-U.N. Human \u2026",
+      "url": "https://www.breitbart.com/politics/2026/09/21/disgraced-ex-u-n-human-rights-chief-michelle-bachelet-exits-secretary-general-race/",
+      "urlToImage": "https://media.breitbart.com/media/2026/03/Michelle-Bachelet-in-touch-640x335.jpg",
+      "publishedAt": "2026-09-21T16:08:55Z",
+      "content": "Socialist former president of Chile and former U.N. High Commissioner for Human Rights Michelle Bachelet announced on Sunday she would no longer campaign to replace Antonio Guterres as secretary-gene\u2026 [+5253 chars]"
+    },
+    {
+      "source": {
+        "id": "rt",
+        "name": "RT"
+      },
+      "author": "RT",
+      "title": "Unelected EU official fumes over Russian election",
+      "description": "The EU\u2019s top diplomat Kaja Kallas, who was not elected to her office, has lashed out at the results of Russia\u2019s parliamentary election Read Full Article at RT.com",
+      "url": "https://www.rt.com/news/646051-unelected-eu-official-fumes-russia-election/",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6ab143c885f5406e663079eb.jpg",
+      "publishedAt": "2026-09-21T15:04:12Z",
+      "content": "EU foreign policy chief Kaja Kallas has lashed out at the results of Russia\u2019s parliamentary election, dismissing it as a \u201cveneer of democracy.\u201d The senior EU official, a noted Russia hawk who was app\u2026 [+2853 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalresearch.ca"
+      },
+      "author": "Jos\u00e9 Luis Preciado",
+      "title": "The Chancay-Ilh\u00e9us Bi-Oceanic Atlantic-Pacific Railway Corridor: An Alternative to the Imperial Plunder of the Americas",
+      "description": "The bi-oceanic corridor that will link Chancay with Ilh\u00e9us is not just an engineering project: it is the backbone of a new era for Ibero-America that redefines its sovereignty in the face of the Monroe Doctrine and forges a new \u2026\nThe post The Chancay-Ilh\u00e9us B\u2026",
+      "url": "https://www.globalresearch.ca/chancay-ilheus-bi-oceanic-corridor-alternative-imperial-plunder-americas/5941197",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2026/09/BiOceanicCorridor-chancay-ilheus.jpg",
+      "publishedAt": "2026-09-21T13:36:37Z",
+      "content": "The bi-oceanic corridor that will link Chancay with Ilh\u00e9us is not just an engineering project: it is the backbone of a new era for Ibero-America that redefines its sovereignty in the face of the Monr\u2026 [+14388 chars]"
+    },
     {
       "source": {
         "id": "australian-financial-review",

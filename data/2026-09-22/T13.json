@@ -1,7 +1,111 @@
 {
   "status": "ok",
-  "totalResults": 17,
+  "totalResults": 27,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theleadsm.com"
+      },
+      "author": "Easton Stauffer",
+      "title": "Should the Utah Mammoth Pursue Connor Hellebuyck?",
+      "description": "The sports landscape continues to change, perpetually generating news in this country. In the NBA, scandals of owners cheating dominate the headlines. In NHL land, the stories are a bit different. Teams are ravaging payrolls to keep star players, but somethin\u2026",
+      "url": "https://theleadsm.com/should-the-utah-mammoth-pursue-connor-hellebuyck/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=should-the-utah-mammoth-pursue-connor-hellebuyck",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/7274a9db7f31d963a3cb3d1b8980f66cb9ed8d0032bb5e498c06f1ff5ee7d7d4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_lead_articles_184%2F1fc23d2ad09fc2c7cc854f315ff1d3fe.jpg",
+      "publishedAt": "2026-09-21T20:37:06Z",
+      "content": "The sports landscape continues to change, perpetually generating news in this country. In the NBA, scandals of owners cheating dominate the headlines. In NHL land, the stories are a bit different. Te\u2026 [+3355 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Foreign Policy"
+      },
+      "author": "David Miliband",
+      "title": "The U.N. Sustainable Development Goals Are Outdated",
+      "description": "Countries committed to end poverty. They never accounted for forever wars.",
+      "url": "http://foreignpolicy.com/2026/09/21/united-nations-sustainable-development-goals-sdgs-conflict-aid/",
+      "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2026/09/gaza-war-SDG-middle-east-GettyImages-2281798625.jpg",
+      "publishedAt": "2026-09-21T19:44:50Z",
+      "content": "World leaders are about to choose a new United Nations secretary-general. Whoever gets the job will inherit an uncomfortable truth: The world bodys promise to end poverty, hunger, and disease is in r\u2026 [+6440 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "Photos: Gaza\u2019s children return to class in tents and ruins",
+      "description": "Gaza children return to classrooms after three years, facing challenges of damaged schools, tents, and scarce supplies.",
+      "url": "https://www.aljazeera.com/gallery/2026/9/21/photos-gazas-children-return-to-class-in-tents-and-ruins",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-21T105641Z_1837995358_RC26MNANRITI_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-SCHOOLS-1790006582.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-21T18:47:33Z",
+      "content": "Hundreds of thousands of children returned to in-person classes in Gaza on Saturday for the first time in nearly three years, filing into damaged school buildings, makeshift classrooms and tents amid\u2026 [+1715 chars]"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Denis McClean",
+      "title": "At the \u2018Art Olympics\u2019 in Venice, the horrors of Gaza have not been forgotten",
+      "description": "Prize jury of the Venice Biennale resigned before the doors opened in a protest over the participation of Russia and Israel",
+      "url": "https://www.irishtimes.com/opinion/an-irish-diary/2026/09/21/at-the-art-olympics-in-venice-the-horrors-of-gaza-have-not-been-forgotten/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/CJDNTUTJZFDKTHUI63YX43IVVU.jpeg?smart=true&auth=87e645b6d455979c86ff2f6fcce86b8c0ad1033125cce92488dd4b009ef80c63&width=1200&height=630",
+      "publishedAt": "2026-09-21T18:00:00Z",
+      "content": "On my way to the Venice Biennale, I was standing on the port side of the crowded vaporetto as we passed under the Rialto Bridge. I recognised ahead of me the imposing facade of the Mayor of Venices o\u2026 [+4753 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Google's $899 Googlebook is a bet that you'll buy a new laptop for Gemini | TechCrunch",
+      "description": "Google\u2019s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience.",
+      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/09/intelligence_hero.width-2200.format-webp.webp?resize=1200,675",
+      "publishedAt": "2026-09-21T15:23:34Z",
+      "content": "After first unveiling its new AI-powered laptop, dubbed Googlebook, in May, Google on Monday said the new device is now available for pre-order for $899. \r\nMeant to offer a step up from traditional C\u2026 [+3905 chars]"
+    },
+    {
+      "source": {
+        "id": "rte",
+        "name": "RTE"
+      },
+      "author": "RT\u00c9 News",
+      "title": "Gaza students return to in-person schooling",
+      "description": "Hundreds of thousands of children in Gaza returned to in-person teaching \u2060for the first time in nearly three years, albeit in damaged or makeshift school buildings and tents, and with uniforms, notebooks and pens unaffordable for many families.",
+      "url": "https://www.rte.ie/news/middle-east/2026/0921/1592389-gaza-children-return-school/",
+      "urlToImage": "https://www.rte.ie/images/00250acb-1600.jpg",
+      "publishedAt": "2026-09-21T14:38:45Z",
+      "content": "Hundreds of thousands of children in Gaza returned to in-person teaching for the first time in nearly three years, albeit in damaged or makeshift school buildings and tents, and with uniforms, notebo\u2026 [+2369 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Foreign Policy"
+      },
+      "author": "Nigel Purvis and Rick Duke",
+      "title": "What Comes After the 1.5 Degree Era",
+      "description": "A single global number asked the world to do everything everywhere all at once\u2014and delivered too little.",
+      "url": "http://foreignpolicy.com/2026/09/21/climate-week-change-after-paris/",
+      "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2026/09/Purvis-1-GettyImages-2291468021.jpg",
+      "publishedAt": "2026-09-21T12:55:27Z",
+      "content": "The United Nations reported recently that global warming will soon exceed 1.5 degrees Celsius, the goal nations agreed to strive toward in the 2015 Paris Agreement. The best plausible outcome now is \u2026 [+14471 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": "HuffPost",
+      "title": "Gaza Students Return To In-Person Schooling For First Time In Three Years",
+      "description": "Nearly every school in Gaza has been destroyed or damaged during the war and uniforms, notebooks and pens are unaffordable for many families.",
+      "url": "https://www.huffpost.com/entry/gaza-students-return-school-war_n_6ab118e0e4b000f12fc812c3",
+      "urlToImage": "https://img.huffingtonpost.com/asset/6ab11bcb180000662cf14955.jpeg?cache=3F3WIWp9QE&ops=1200_630",
+      "publishedAt": "2026-09-21T12:06:23Z",
+      "content": "Hundreds of thousands of children in Gaza returned to in-person teaching on Saturday for the first time in nearly three years, albeit in damaged or makeshift school buildings and tents, and with unif\u2026 [+4207 chars]"
+    },
     {
       "source": {
         "id": null,

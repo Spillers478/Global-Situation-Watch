@@ -1,7 +1,33 @@
 {
   "status": "ok",
-  "totalResults": 9,
+  "totalResults": 11,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Rediff.com"
+      },
+      "author": "sports@rediff.co.in (Rediff Sports Desk)",
+      "title": "Chess Olympiad: India Men's Team Stumbles Against Uzbekistan",
+      "description": "The reigning champions Indian men's chess team suffered a significant 1.5-2.5 defeat against Uzbekistan in the sixth round of the 46th Chess Olympiad, losing their lead. While key players like Praggnanandhaa, Erigaisi, and Gukesh drew their matches, Nihal Sar\u2026",
+      "url": "https://www.rediff.com/sports/report/indian-men-lose-to-uzbekistan-in-chess-olympiad/20260921.htm",
+      "urlToImage": "https://im.rediff.com/1200-630/sports/2025/aug/10nihal.jpg",
+      "publishedAt": "2026-09-21T16:28:35Z",
+      "content": "The reigning champion Indian men's chess team faced a significant setback at the 46th Chess Olympiad, losing their lead after a crucial defeat to a spirited Uzbekistan side.\r\nPhotograph: Kind Courtes\u2026 [+2565 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Why do Sudan\u2019s humanitarian truces keep failing and who is to blame?",
+      "description": "Efforts to bring about humanitarian truces in Sudan hit a dead end as warring factions prioritise battlefield victories.",
+      "url": "https://www.aljazeera.com/news/2026/9/21/why-do-sudans-humanitarian-truces-keep-failing-and-who-is-to-blame",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a8e94f0461f-1787729136.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-21T11:22:40Z",
+      "content": "Efforts to bring about truces in Sudan are continuing to hit a dead end, with fighting continuing and worsening the countrys dire humanitarian situation.\r\nRenewed efforts, including by the United Sta\u2026 [+5497 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",

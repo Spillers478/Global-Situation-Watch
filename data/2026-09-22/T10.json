@@ -1,7 +1,111 @@
 {
   "status": "ok",
-  "totalResults": 15,
+  "totalResults": 23,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "TheStreet"
+      },
+      "author": "Peace Longe",
+      "title": "Industrial CEO drops staggering take on AI energy",
+      "description": "Paulo Ruiz used Morgan Stanley\u2019s Laguna Conference to reset how Wall Street sees Eaton\u2019s AI power role.",
+      "url": "https://www.thestreet.com/investing/stocks/eaton-ceo-drops-staggering-take-on-ai-energy",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/d0508170a9663dea9487c08282ce7bc292b634aedea2ac745aa5da4d9c6e7b05/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2Ff2fa3add8978e86a6708690a0e38a0f5.jpg",
+      "publishedAt": "2026-09-21T16:03:00Z",
+      "content": "Eaton Corporation's (ETN) stock rose last week. Shares of the Dublin-based power management company closed at $424.77 on September 18, a gain of about 7.9% over five trading days. The stock is now up\u2026 [+5851 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "What spooked Europe last week? The rumbles of Russia war grow louder",
+      "description": "European nations now discuss potential Russian conflict in new terms.  Intelligence suggests hybrid drone and missile strikes could target Ukraine supporters.  Leaders are planning for sabotage and cyberattacks below traditional war thresholds.  This shift re\u2026",
+      "url": "https://economictimes.indiatimes.com/news/defence/what-spooked-europe-last-week-the-rumbles-of-russia-war-grow-louder/articleshow/134392871.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134393019,width-1200,height-630,imgsize-84956,overlay-etdefence/articleshow.jpg",
+      "publishedAt": "2026-09-21T15:43:15Z",
+      "content": "Europe suddenly began talking about war with Russia last week in terms that would have been unthinkable a few months ago. What has changed in Europe is not simply the assessment of Russia but the bel\u2026 [+10915 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Protothema.gr"
+      },
+      "author": "Newsroom",
+      "title": "The \u2018Achilles Shield\u2019 and the cable: The next crash tests with Turkey in the Aegean",
+      "description": "Erdogan is now linking Greek-Turkish disputes with the strategic relationship between Greece and Israel and is renewing his demand for the demilitarisation of the islands \u2013 Athens invokes the right of self-defence and is preparing to issue a NAVTEX for the la\u2026",
+      "url": "https://en.protothema.gr/2026/09/21/the-achilles-shield-and-the-cable-the-next-crash-tests-with-turkey-in-the-aegean/",
+      "urlToImage": "https://en.protothema.gr/wp-content/uploads/2026/09/maketa-gerapetritis.webp",
+      "publishedAt": "2026-09-21T14:12:00Z",
+      "content": "Ankara is removing any remaining room for understanding in Greek-Turkish relations, opening up the full range of its demands, which it is now also tying to its broader ambitions in the region and its\u2026 [+12501 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PRNewswire"
+      },
+      "author": null,
+      "title": "Mohr Partners Expands Brokerage Presence in Washington Metro Area",
+      "description": "Industry veterans Andrew Genova and Justin Barker bolster Mohr Partners' presence in the capital region DALLAS, Sept. 21, 2026 /PRNewswire/ -- Mohr Partners, Inc., a leading global occupier-focused corporate real estate advisory firm, has added Andrew Genova \u2026",
+      "url": "https://www.prnewswire.com/news-releases/mohr-partners-expands-brokerage-presence-in-washington-metro-area-302884243.html",
+      "urlToImage": "https://mmx.prnewswire.com/media/MS1991892/MPI_4318.jpg?id=OA2958553&p=facebook",
+      "publishedAt": "2026-09-21T14:00:00Z",
+      "content": "Industry veterans Andrew Genova and Justin Barker bolster Mohr Partners' presence in the capital region\r\nDALLAS, Sept. 21, 2026 /PRNewswire/ -- Mohr Partners, Inc., a leading global occupier-focused \u2026 [+4105 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Activistpost.com"
+      },
+      "author": "Editor",
+      "title": "Will WAR Bankrupt the West?",
+      "description": "War and sovereign debt are merging into a vicious spiral that will determine which nations survive the coming monetary crisis. Governments entered the conflicts in Ukraine and Iran, along with the escalating confrontation between the United States and China, \u2026",
+      "url": "https://activistpost.com/will-war-bankrupt-the-west/",
+      "urlToImage": "https://activistpost.com/wp-content/uploads/2026/09/shutterstock_2744950941.webp",
+      "publishedAt": "2026-09-21T13:01:00Z",
+      "content": "War and sovereign debt are merging into a vicious spiral that will determine which nations survive the coming monetary crisis. Governments entered the conflicts in Ukraine and Iran, along with the es\u2026 [+5549 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "finance.yahoo.com",
+      "title": "Boeing and Lockheed Martin Both Cash In on the Pentagon\u2019s Contract Calendar",
+      "description": "On September 14, the Pentagon announced nearly $1.9 billion in contract awards and potential contract value involving two of its largest prime contractors, showing how the US defense budget continues to provide recurring funding to both uncrewed systems and l\u2026",
+      "url": "https://biztoc.com/x/2604fae11d0d3ce7",
+      "urlToImage": "https://biztoc.com/cdn/2604fae11d0d3ce7_s.webp",
+      "publishedAt": "2026-09-21T12:14:19Z",
+      "content": "On September 14, the Pentagon announced nearly $1.9 billion in contract awards and potential contract value involving two of its largest prime contractors, showing how the US defense budget continues\u2026 [+151 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "24/7 Wall St."
+      },
+      "author": "Chris Lange",
+      "title": "Lockheed Martin vs. RTX: Which Defense Dividend Is the Better Income Buy",
+      "description": "Both Lockheed Martin and RTX raised their dividends in 2026, both carry massive backlogs, and both generate serious free cash flow, but only one of them belo...",
+      "url": "https://247wallst.com/investing/2026/09/21/lockheed-martin-vs-rtx-which-defense-dividend-is-the-better-income-buy/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/46994c45174dac0bc1575d3a54f433bf2ce765c7887186e0c83472d60abc6082/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F97d61d571db72ed5304f73b79a597b86.jpg",
+      "publishedAt": "2026-09-21T11:57:21Z",
+      "content": "Quick Read\r\n<ul><li>LMT wins on yield ($13.80 annualized) and 23 consecutive years of dividend hikes, making it the stronger income pick for retirees today.\r\n</li><li>RTX's $8.5B+ FCF guidance and $2\u2026 [+5251 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Sheryar Siddiq",
+      "title": "Boeing and Lockheed Martin Both Cash In on the Pentagon\u2019s Contract Calendar",
+      "description": "On September 14, the Pentagon announced nearly $1.9 billion in contract awards and potential contract value involving two of its largest prime contractors, s...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/boeing-lockheed-martin-both-cash-114654499.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/abea6584835fb587a800ae3488565400d92b25cc039f2ec7ff0432e10bc87c03/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fad32e889e163b3a7c5fc1c720624cf38.jpg",
+      "publishedAt": "2026-09-21T11:46:54Z",
+      "content": "On September 14, the Pentagon announced nearly $1.9 billion in contract awards and potential contract value involving two of its largest prime contractors, showing how the US defense budget continues\u2026 [+5161 chars]"
+    },
     {
       "source": {
         "id": "fox-news",
