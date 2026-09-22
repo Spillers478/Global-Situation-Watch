@@ -10,9 +10,13 @@ empty (e.g. ANTHROPIC_API_KEY wasn't set), the page falls back to
 headline-only display -- this script never depends on synthesis having
 run.
 
-Retrieval itself is still keyword-only (see topics.py) -- the synthesis
-layer makes the output more readable, it doesn't fix false positives in
-what got retrieved. See README "Known limitations."
+Retrieval-level noise control (tighter queries, title-only matching,
+excluded domains) lives in topics.py / fetch_news.py -- see topics.py
+"Noise-control tools". This script's job is layout only: a jump-to-topic
+nav bar (the page can easily be 500+ articles across 16 sections), and
+per-topic article lists capped to a preview count with the rest tucked
+behind a native <details> "show more" toggle, so the page reads as a
+dashboard you scan rather than a feed you scroll through top to bottom.
 """
 import json
 import sys
@@ -23,6 +27,13 @@ from html import escape
 from topics import TIER1, TOPICS, TOPIC_SWEEP_ENABLED
 
 ROOT = Path(__file__).resolve().parent.parent
+
+# Main topic sections show this many articles by default; the rest are
+# tucked behind a native <details> "show more" toggle rather than either
+# dumping the full list (unreadable on a noisy/high-volume topic) or
+# silently dropping them (loses real signal on a quiet day when the
+# reader does want to scan everything).
+ARTICLE_PREVIEW_LIMIT = 12
 
 
 def load_articles(data_dir, key):
@@ -60,12 +71,23 @@ def render_article(a):
     </article>"""
 
 
-def render_section(section_id, label, articles, badge=None, limit=None, narrative=None):
-    shown = articles[:limit] if limit else articles
-    if not shown:
+def render_section(section_id, label, articles, badge=None, limit=None, narrative=None, preview_limit=None):
+    shown_all = articles[:limit] if limit else articles
+
+    if not shown_all:
         body = '<p class="empty">No matching articles in this window.</p>'
+    elif preview_limit and len(shown_all) > preview_limit:
+        visible, rest = shown_all[:preview_limit], shown_all[preview_limit:]
+        visible_html = "\n".join(render_article(a) for a in visible)
+        rest_html = "\n".join(render_article(a) for a in rest)
+        body = f"""{visible_html}
+    <details class="more">
+      <summary>Show {len(rest)} more article{"s" if len(rest) != 1 else ""}</summary>
+      {rest_html}
+    </details>"""
     else:
-        body = "\n".join(render_article(a) for a in shown)
+        body = "\n".join(render_article(a) for a in shown_all)
+
     badge_html = f'<span class="badge badge-{badge}">{escape(badge)}</span>' if badge else ""
     narrative_html = f'<p class="narrative">{escape(narrative)}</p>' if narrative else ""
     return f"""
@@ -74,6 +96,19 @@ def render_section(section_id, label, articles, badge=None, limit=None, narrativ
     {narrative_html}
     {body}
   </section>"""
+
+
+def render_nav(nav_items):
+    """A jump-to-topic bar so a 16-section page is a dashboard you scan,
+    not a wall you scroll. nav_items: list of (anchor_id, label, badge, count)."""
+    links = []
+    for anchor_id, label, badge, count in nav_items:
+        badge_class = f" nav-{badge}" if badge else ""
+        links.append(
+            f'<a class="nav-link{badge_class}" href="#{escape(anchor_id)}">'
+            f'{escape(label)} <span class="nav-count">{count}</span></a>'
+        )
+    return f'<nav class="topic-nav">{"".join(links)}</nav>'
 
 
 def load_synthesis(data_dir):
@@ -96,14 +131,16 @@ def main():
     bluf = synthesis.get("bluf")
 
     sections = []
+    nav_items = []  # (anchor_id, label, badge, count) -- drives the jump-to-topic bar
 
     # Tier 1 flagships get top billing
     for flagship in TIER1:
         arts = dedupe(load_articles(data_dir, flagship["id"]))
         sections.append(render_section(
             flagship["id"], flagship["label"], arts, badge="flagship",
-            narrative=topic_narratives.get(flagship["id"]),
+            narrative=topic_narratives.get(flagship["id"]), preview_limit=ARTICLE_PREVIEW_LIMIT,
         ))
+        nav_items.append((flagship["id"], flagship["label"], "flagship", len(arts)))
         us_lens = dedupe(load_articles(data_dir, f"{flagship['id']}-us-lens"))
         if us_lens:
             sections.append(render_section(
@@ -122,8 +159,11 @@ def main():
             label = f"{topic['id']} — {topic['label']}"
             sections.append(render_section(
                 topic["id"], label, arts, badge=badge,
-                narrative=topic_narratives.get(topic["id"]),
+                narrative=topic_narratives.get(topic["id"]), preview_limit=ARTICLE_PREVIEW_LIMIT,
             ))
+            nav_items.append((topic["id"], topic["id"], badge, len(arts)))
+
+    nav_html = render_nav(nav_items)
 
     bluf_html = ""
     if bluf:
@@ -133,7 +173,7 @@ def main():
     <p>{escape(bluf)}</p>
   </section>"""
 
-    html = TEMPLATE.format(date=today, bluf=bluf_html, sections="\n".join(sections))
+    html = TEMPLATE.format(date=today, nav=nav_html, bluf=bluf_html, sections="\n".join(sections))
 
     docs_dir = ROOT / "docs"
     docs_dir.mkdir(exist_ok=True)
@@ -266,6 +306,47 @@ TEMPLATE = """<!DOCTYPE html>
     line-height: 1.4;
   }}
   .empty {{ color: var(--muted); font-size: 0.85rem; font-style: italic; }}
+  .topic-nav {{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: var(--bg);
+    border-bottom: 1px solid var(--border);
+    padding: 0.6rem 1.5rem;
+    max-width: 860px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+  }}
+  .nav-link {{
+    color: var(--muted);
+    text-decoration: none;
+    font-size: 0.75rem;
+    padding: 0.25rem 0.55rem;
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    white-space: nowrap;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+  }}
+  .nav-link:hover {{ color: var(--text); border-color: var(--accent); }}
+  .nav-link.nav-tripwire {{ border-color: rgba(255,90,90,0.35); color: var(--tripwire); }}
+  .nav-link.nav-flagship {{ border-color: rgba(255,181,69,0.35); color: var(--flagship); }}
+  .nav-count {{ color: var(--muted); font-size: 0.7rem; }}
+  details.more {{ margin-top: 0.5rem; }}
+  details.more summary {{
+    cursor: pointer;
+    color: var(--accent);
+    font-size: 0.85rem;
+    padding: 0.4rem 0;
+    list-style: none;
+  }}
+  details.more summary::-webkit-details-marker {{ display: none; }}
+  details.more summary:before {{ content: "+ "; }}
+  details.more[open] summary:before {{ content: "− "; }}
+  details.more[open] summary {{ margin-bottom: 0.5rem; }}
 </style>
 </head>
 <body>
@@ -273,6 +354,7 @@ TEMPLATE = """<!DOCTYPE html>
   <h1>Global Situation Watch</h1>
   <p>{date} &middot; keyword-retrieval build &middot; NewsAPI Developer tier &middot; refreshed daily via GitHub Actions</p>
 </header>
+{nav}
 <main>
 {bluf}
 {sections}

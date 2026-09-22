@@ -10,6 +10,13 @@ Request budget: ~18 requests/run (2 flagship /everything + 2 flagship
 US-lens top-headlines + 14 topic sweeps), well under the Developer
 plan's 100/day cap. Set TOPIC_SWEEP_ENABLED to False in topics.py to
 scope back down to flagships-only (4 requests/run) if needed.
+
+Noise control: every /everything call excludes the domains in
+EXCLUDE_DOMAINS (topics.py), and any topic that sets "search_in" in its
+dict restricts NewsAPI's keyword matching to the article title only
+(via the `searchIn` param) instead of title+description+content. Both
+are configured per-topic in topics.py, not here -- see that file's
+"Noise-control tools" section for what each one is for and why.
 """
 import os
 import sys
@@ -20,7 +27,7 @@ from pathlib import Path
 
 import requests
 
-from topics import TIER1, TOPICS, TOPIC_SWEEP_ENABLED
+from topics import TIER1, TOPICS, TOPIC_SWEEP_ENABLED, EXCLUDE_DOMAINS
 
 API_KEY = os.environ.get("NEWSAPI_KEY")
 BASE_URL = "https://newsapi.org/v2"
@@ -62,15 +69,22 @@ def _get(endpoint, params):
     return data
 
 
-def fetch_everything(query, from_date, to_date):
-    return _get("everything", {
+def fetch_everything(query, from_date, to_date, search_in=None):
+    params = {
         "q": query,
         "from": from_date,
         "to": to_date,
         "language": "en",
         "sortBy": "publishedAt",
         "pageSize": PAGE_SIZE,
-    })
+        "excludeDomains": EXCLUDE_DOMAINS,
+    }
+    if search_in:
+        # Restricts q-matching to the given field(s) (e.g. "title") instead
+        # of title+description+content -- see topics.py "Noise-control
+        # tools" for why specific topics opt into this.
+        params["searchIn"] = search_in
+    return _get("everything", params)
 
 
 def fetch_us_lens(query):
@@ -96,7 +110,9 @@ def main():
 
     for flagship in TIER1:
         print(f"Fetching flagship: {flagship['label']}")
-        results[flagship["id"]] = fetch_everything(flagship["query"], from_date, to_date)
+        results[flagship["id"]] = fetch_everything(
+            flagship["query"], from_date, to_date, search_in=flagship.get("search_in")
+        )
         time.sleep(REQUEST_PAUSE_SECONDS)
         results[f"{flagship['id']}-us-lens"] = fetch_us_lens(flagship["us_lens_query"])
         time.sleep(REQUEST_PAUSE_SECONDS)
@@ -104,7 +120,9 @@ def main():
     if TOPIC_SWEEP_ENABLED:
         for topic in TOPICS:
             print(f"Fetching topic: {topic['id']} - {topic['label']}")
-            results[topic["id"]] = fetch_everything(topic["query"], from_date, to_date)
+            results[topic["id"]] = fetch_everything(
+                topic["query"], from_date, to_date, search_in=topic.get("search_in")
+            )
             time.sleep(REQUEST_PAUSE_SECONDS)
     else:
         print("Topic sweep disabled (TOPIC_SWEEP_ENABLED=False in topics.py) -- flagships only.")

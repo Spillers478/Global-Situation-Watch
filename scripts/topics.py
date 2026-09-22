@@ -10,10 +10,10 @@ Two layers:
 
 Everything here is a *keyword* boolean query against NewsAPI's /v2/everything
 endpoint (see https://newsapi.org/docs/endpoints/everything for syntax).
-No semantic filtering or LLM classification is applied in this version --
-see README "Known limitations" for the planned next iteration (a relevance
-pass to cut noise like "strike" matching labor disputes as well as
-airstrikes).
+No semantic/LLM filtering happens at retrieval time -- synthesize.py's BLUF
+pass can flag a topic's results as noise, but it can't un-retrieve them.
+This file is the actual noise-control lever; see "Noise-control tools"
+below for the mechanics.
 
 Editing this file is the primary way to tune the product: add/remove
 topics, tighten/loosen a query, or change severity/tier labels. Nothing
@@ -23,50 +23,111 @@ SCOPE: the two TIER1 flagships plus the full 14-topic TOPICS sweep are
 both fetched/rendered daily. Set TOPIC_SWEEP_ENABLED to False to scope
 back down to flagships-only (useful if noise/budget ever becomes a
 problem) without touching fetch_news.py or build_brief.py.
+
+-- Noise-control tools --
+
+NewsAPI's /everything is boolean keyword search over article text, not a
+semantic index, so any common English word in the query set will pick up
+homonyms and metaphor: "offensive" matches an NFL "offensive line" as
+readily as a "military offensive"; "nuclear" matches cell biology
+("nuclear DNA") as readily as weapons; "displacement" matches a buoy's
+water displacement or a bird pushed out of its nest as readily as a
+refugee crisis; "epidemic"/"pandemic" get used loosely as adjectives
+("loneliness epidemic," "COVID-era funding") far more often than they
+describe an actual outbreak. This file leans on three levers to fight
+that, applied per-topic where the noise was worst in practice (see the
+comments on each topic below for what was actually observed):
+
+1. Phrase-anchoring: prefer multi-word phrases ("military offensive")
+   over bare words ("offensive") wherever the bare word is a common
+   homonym. Cuts recall a little, cuts false positives a lot.
+2. search_in="title": for topics that were dominated by body-text-only
+   matches (the keyword never appeared in the actual headline), restrict
+   matching to the title via NewsAPI's `searchIn` param. Trades recall
+   for a big precision gain -- reserved for topics where that trade was
+   clearly worth it based on real output.
+3. NOT clauses: exclude specific noise categories seen in practice
+   (sports scoring language, comic-book/video-game previews, TV listings,
+   generic local-crime-blotter language) rather than guessing in advance.
+
+EXCLUDE_DOMAINS below removes a small number of whole sources that turned
+out to be pure noise generators for this taxonomy, applied to every
+/everything call. Revert or trim this list any time by editing it --
+nothing else needs to change.
 """
 
 TOPIC_SWEEP_ENABLED = True  # False = flagships only; True = flagships + full 14-topic sweep
+
+# Domains excluded from every /everything call (see fetch_news.py). Picked
+# from actual noise observed in a live run, not guessed in advance:
+#   - lifesciencesworld.com: a generic animal/science-trivia content mill;
+#     its articles on bird/animal behavior were matching "displacement"
+#     and "exodus" under T13 (Migration/Refugee Crisis) via literal bird-
+#     migration and nest-displacement content.
+#   - rlsbb.cc: a torrent/release-listing site, not a news source; its
+#     TV-episode listings were matching "American hostage" (T09) because
+#     that's also a TV show's literal title.
+#   - timesofindia.indiatimes.com: a very high-volume wire aggregator whose
+#     hyper-local India city-desk content (crime blotter, civic-works
+#     notices, festival planning) was the single largest source of noise
+#     across nearly every topic below, via bare words like "attack,"
+#     "conflict," "crisis," and "offensive" appearing in unrelated local
+#     stories. International/India-relevant conflict or security stories
+#     are almost always also carried by wire services (Reuters, AP, Al
+#     Jazeera, BBC) that remain in scope, so the recall loss here is
+#     expected to be small relative to the noise cut. Remove this entry
+#     if that trade-off turns out to be wrong for your use case.
+EXCLUDE_DOMAINS = "lifesciencesworld.com,rlsbb.cc,timesofindia.indiatimes.com"
+
+# Cheap, reusable NOT-suffix for topics that were getting flooded by NFL/
+# sports-scoring language and entertainment previews sharing vocabulary
+# with conflict/security terms ("offensive," "strike," "attack," "war").
+_SPORTS_ENT_EXCLUSION = (
+    ' NOT (NFL OR NBA OR NHL OR MLB OR quarterback OR touchdown OR "box office" OR '
+    'playoff OR esports OR "video game" OR movie OR film OR TVLine OR Hulu OR "season finale")'
+)
 
 TIER1 = [
     {
         "id": "flagship-ru-ua",
         "label": "Russia / Ukraine",
         "query": 'Ukraine AND Russia AND (strike OR offensive OR missile OR drone OR ceasefire OR '
-                  'negotiation OR invasion OR shelling OR "front line" OR Kursk OR Donbas)',
+                  'negotiation OR invasion OR shelling OR "front line" OR Kursk OR Donbas) NOT '
+                  '(TVLine OR Hulu OR "season finale" OR "TV series")',
         "us_lens_query": "Ukraine",
     },
     {
         "id": "flagship-ir-il",
         "label": "Iran / Israel / Middle East",
         "query": 'Iran AND (Israel OR strike OR nuclear OR missile OR "Middle East" OR Hezbollah '
-                  'OR "Red Sea" OR Houthi)',
+                  'OR "Red Sea" OR Houthi) NOT (TVLine OR Hulu OR "season finale" OR "TV series")',
         "us_lens_query": "Iran",
     },
 ]
 
 # tier: "tripwire" | "slow" | "event"  (mirrors the mil-awareness-brief taxonomy)
 # severity: 1-10, kept from the original taxonomy for later use in ranking/sorting
-#
-# Query design note: each query below is widened with synonyms/related terms
-# to improve recall ("enough data"), while keeping the most obvious false-
-# positive sources out with NOT clauses where that was a known problem
-# (e.g. "strike" matching labor disputes, "outbreak" matching unrelated
-# sports/entertainment usage). This is still keyword search, not semantic
-# understanding -- wider recall means MORE noise to review, not less; see
-# README "Known limitations." All queries are kept under NewsAPI's 500-char
-# limit for the q parameter.
+# search_in: None (default -- title+description+content) or "title" -- see
+#   "Noise-control tools" above. Only set on topics where body-only matches
+#   were the dominant noise source in a real run.
 TOPICS = [
     {
+        # Was the single worst offender in practice: bare "war," "offensive,"
+        # and "clashes" matched NFL/NBA game recaps almost exclusively
+        # (~95% of results were sports, not conflict). Fixed by dropping the
+        # bare homonyms in favor of phrases, restricting to title matches,
+        # and excluding sports/entertainment vocabulary.
         "id": "T01", "label": "Military Conflict", "tier": "event", "severity": 7,
-        "query": '(war OR invasion OR offensive OR "armed conflict" OR "military conflict" OR '
-                 '"military operation" OR clashes OR airstrike OR bombardment OR "front line" OR '
-                 'shelling) NOT ("video game" OR movie OR film OR esports)',
+        "search_in": "title",
+        "query": '"armed conflict" OR "military conflict" OR "military offensive" OR '
+                 '"ground offensive" OR invasion OR airstrike OR "air strikes" OR bombardment OR '
+                 '"front line" OR shelling OR "armed clashes"' + _SPORTS_ENT_EXCLUSION,
     },
     {
         "id": "T02", "label": "Humanitarian Crisis", "tier": "slow", "severity": 8,
         "query": '"humanitarian crisis" OR "humanitarian emergency" OR famine OR "mass starvation" '
                  'OR "food insecurity" OR malnutrition OR "aid blocked" OR "internally displaced" '
-                 'OR "humanitarian access"',
+                 'OR "humanitarian access" NOT (concert OR "world tour" OR "box office")',
     },
     {
         "id": "T03", "label": "Bio/Chemical Attack", "tier": "tripwire", "severity": 10,
@@ -74,60 +135,100 @@ TOPICS = [
                  '"nerve agent" OR sarin OR anthrax OR "toxic gas attack" OR "chemical weapons use"',
     },
     {
+        # Bare "epidemic"/"pandemic"/"contagion" are used loosely as
+        # adjectives far more often than they describe a real outbreak
+        # ("loneliness epidemic," "COVID-era funding windfall," "market
+        # contagion") -- in practice this was near-100% noise. Restricting
+        # to title matches cuts almost all of it, since that loose usage
+        # showed up in body text, not headlines.
         "id": "T04", "label": "Infectious Outbreak / Pandemic", "tier": "slow", "severity": 7,
+        "search_in": "title",
         "query": '"disease outbreak" OR epidemic OR pandemic OR "public health emergency" OR '
-                 'quarantine OR "novel virus" OR "mystery illness" OR contagion',
+                 'quarantine OR "novel virus" OR "mystery illness" OR contagion NOT '
+                 '(funding OR stimulus OR relief OR economy OR market OR stock)',
     },
     {
         "id": "T05", "label": "Political Instability / Coup Risk", "tier": "tripwire", "severity": 8,
         "query": 'coup OR "coup attempt" OR "coup d\'etat" OR "government collapse" OR '
-                 '"military takeover" OR "state of emergency" OR "regime change" OR "power vacuum"',
+                  '"military takeover" OR "state of emergency" OR "regime change" OR "power vacuum" '
+                  'NOT ("board game" OR "card game" OR boardgame)',
     },
     {
+        # "uprising"/"insurrection" were matching comic-book and video-game
+        # preview coverage (rebellion/regime-change plot points share the
+        # vocabulary). Title-only + a comics/games exclusion cut this.
         "id": "T06", "label": "Mass Uprising / Regime-Threatening Unrest", "tier": "slow", "severity": 6,
+        "search_in": "title",
         "query": '(uprising OR insurrection OR "mass protests" OR "anti-government protests" OR '
-                 '"civil unrest" OR "nationwide protests" OR riots) NOT (labor OR union OR sports '
-                 'OR strikers)',
+                  '"civil unrest" OR "nationwide protests" OR riots) NOT (labor OR union OR sports '
+                  'OR strikers OR comic OR Marvel OR DC OR superhero OR "video game")',
     },
     {
+        # "nuclear" alone is a homonym minefield: cell biology ("nuclear
+        # DNA"), astrophysics, and "nuclear family" all matched here
+        # alongside real weapons/proliferation stories. Added an explicit
+        # exclusion for the biology/astronomy senses rather than
+        # restricting to title (title-only was cutting too many real NK/
+        # Iran missile headlines that don't literally say "nuclear").
         "id": "T07", "label": "Nuclear Weaponry / Attack", "tier": "tripwire", "severity": 10,
         "query": 'nuclear AND (weapon OR missile OR warhead OR enrichment OR test OR strike OR '
-                 '"nuclear facility" OR "nuclear program" OR proliferation)',
+                  '"nuclear facility" OR "nuclear program" OR proliferation) NOT (biology OR genetic '
+                  'OR DNA OR cell OR "nuclear family" OR astronomy OR telescope OR planet)',
     },
     {
+        # Bare "attack" and "offensive" were pulling in generic local-crime
+        # items (dog/bee/pepper-spray "attacks," unrelated "offensive"
+        # usage) alongside real terrorism/insurgency coverage.
         "id": "T08", "label": "VEO / Regional Insecurity", "tier": "event", "severity": 7,
+        "search_in": "title",
         "query": '(terrorist OR "extremist group" OR insurgency OR militant OR jihadist OR '
-                 '"armed group") AND (attack OR offensive OR ambush OR bombing)',
+                  '"armed group") AND (attack OR offensive OR ambush OR bombing) NOT (pitbull OR dog '
+                  'OR bee OR sting OR "heart attack" OR "cardiac arrest" OR pepper OR robbery)',
     },
     {
+        # The literal phrase "American hostage" is also a TV show's title;
+        # torrent-listing and TV-recap sites were the entire result set.
+        # EXCLUDE_DOMAINS drops the torrent site; this NOT clause drops the
+        # TV-recap language.
         "id": "T09", "label": "American Hostage / Kidnapping", "tier": "tripwire", "severity": 9,
         "query": '"American hostage" OR "US citizen kidnapped" OR "American detained" OR '
-                 '"US citizen held" OR "American captured" OR "US national kidnapped"',
+                  '"US citizen held" OR "American captured" OR "US national kidnapped" NOT '
+                  '(season OR episode OR "S01E" OR TVLine OR streaming OR premiere OR renewed)',
     },
     {
         "id": "T10", "label": "Military Modernization", "tier": "slow", "severity": 5,
         "query": '"military modernization" OR "defense budget" OR "new weapons system" OR '
-                 'rearmament OR "arms buildup" OR "weapons procurement" OR "defense spending"',
+                  'rearmament OR "arms buildup" OR "weapons procurement" OR "defense spending"',
     },
     {
+        # Bare "maneuvers"/"drill" picked up a dog-behavior article and a
+        # video-game character comparison.
         "id": "T11", "label": "Military Exercise", "tier": "event", "severity": 4,
+        "search_in": "title",
         "query": '"military exercise" OR "joint exercise" OR "war games" OR "military drill" OR '
-                 'maneuvers OR "naval exercise" OR "joint military drill"',
+                  'maneuvers OR "naval exercise" OR "joint military drill" NOT (dog OR puppy OR pet '
+                  'OR Kratos OR "video game")',
     },
     {
         "id": "T12", "label": "Large-Scale Cyber Attack / Internet Blackout", "tier": "tripwire", "severity": 8,
         "query": '(cyberattack OR "cyber attack" OR "internet blackout" OR ransomware OR '
-                 '"infrastructure hack" OR "grid hack" OR "state-sponsored hack") AND '
-                 '(government OR infrastructure OR critical)',
+                  '"infrastructure hack" OR "grid hack" OR "state-sponsored hack") AND '
+                  '(government OR infrastructure OR critical)',
     },
     {
+        # Bare "displacement" and "exodus" were matching animal-behavior
+        # trivia (a bird "displaced" from its nest, a titanium buoy's water
+        # displacement) almost entirely via lifesciencesworld.com, which is
+        # now in EXCLUDE_DOMAINS. Also tightened the phrasing itself.
         "id": "T13", "label": "Migration / Refugee Crisis", "tier": "event", "severity": 6,
-        "query": '"refugee crisis" OR "migrant crisis" OR "mass migration" OR displacement OR '
-                 'exodus OR "asylum seekers surge" OR "border crossing surge"',
+        "query": '"refugee crisis" OR "migrant crisis" OR "mass migration" OR "population '
+                  'displacement" OR "displaced families" OR "displaced persons" OR "mass exodus" OR '
+                  '"asylum seekers surge" OR "border crossing surge" NOT (bird OR wildlife OR animal '
+                  'OR species OR nest OR buoy)',
     },
     {
         "id": "T14", "label": "Threats to US Embassies / Diplomats", "tier": "tripwire", "severity": 9,
         "query": '("US embassy" OR "American consulate" OR diplomat OR "diplomatic mission") AND '
-                 '(threat OR attack OR evacuation OR breach OR stormed)',
+                  '(threat OR attack OR evacuation OR breach OR stormed)',
     },
 ]

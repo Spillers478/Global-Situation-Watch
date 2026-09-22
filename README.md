@@ -22,9 +22,11 @@ Every day, a GitHub Actions workflow:
 3. Sends the day's headlines to Claude (Haiku) in one batched call to
    write a BLUF (Bottom-Line-Up-Front) overview plus a short narrative
    summary for each topic -- `scripts/synthesize.py`.
-4. Renders a static briefing page to `docs/index.html`: the BLUF up
-   top, then each topic's AI summary with its supporting headlines
-   underneath.
+4. Renders a static briefing page to `docs/index.html`: a jump-to-topic
+   nav bar, the BLUF up top, then each topic's AI summary with its
+   supporting headlines underneath (capped to a preview per topic, with
+   the rest behind a "show more" toggle -- see "Known limitations" for
+   why noisier topics can still run long).
 5. Commits everything back to the repo. GitHub Pages (configured to
    serve from `/docs`) picks up the change automatically.
 
@@ -83,16 +85,29 @@ display automatically -- the pipeline never breaks because of this step.
 ## Known limitations
 
 - **Retrieval noise.** NewsAPI's `/everything` is a boolean keyword
-  search over raw article text, not a semantic index. A query like
-  `strike` will match both "Israeli airstrike" and "postal workers'
-  strike." Some queries in `topics.py` use `NOT` clauses to cut the most
-  obvious false positives, but this isn't a full fix. `synthesize.py`'s
-  prompt tells the model to say plainly when a topic's articles look
-  unrelated or too sparse to summarize, rather than inventing a
-  coherent narrative from noise -- so a bad topic query tends to show up
-  as an honest "these results don't look related" note instead of a
-  misleadingly confident paragraph. It doesn't fix the underlying
-  retrieval, it just avoids compounding it.
+  search over raw article text, not a semantic index. A bare word like
+  `offensive` or `nuclear` will match an NFL "offensive line" or "nuclear
+  DNA" in cell biology just as readily as a military offensive or a
+  weapons story -- in an early live run this made `T01 Military Conflict`
+  and `T04 Infectious Outbreak / Pandemic` almost entirely sports/
+  metaphor noise. `topics.py` now fights this on three fronts per topic
+  (see its "Noise-control tools" section for the full reasoning): phrase-
+  anchoring instead of bare homonyms, restricting NewsAPI's `searchIn`
+  param to the article title for the worst-offending topics (a big
+  precision gain, some recall cost), and topic-specific `NOT` exclusions
+  for observed noise categories. `fetch_news.py` also excludes a short
+  list of domains (`EXCLUDE_DOMAINS` in `topics.py`) that turned out to
+  be pure noise generators -- including `timesofindia.indiatimes.com`,
+  whose very-high-volume local India city-desk wire was the single
+  largest noise source across almost every topic; international/India-
+  relevant stories are expected to still surface via other wire services,
+  but that's a real recall trade-off worth knowing about and reverting if
+  it doesn't hold for your use case. None of this makes it semantic
+  understanding -- it's still keyword search, just with the worst-known
+  false-positive patterns fenced off. `synthesize.py`'s prompt is the
+  remaining backstop: it tells the model to say plainly when a topic's
+  articles still look unrelated or too sparse rather than inventing a
+  coherent narrative from noise.
 - Articles carry ~24h delay and the search window is capped at ~1 month
   on this plan -- this is a daily-digest product, not a live/real-time
   feed, which is intentional (matches a "brief you're handed" format
