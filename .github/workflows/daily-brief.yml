@@ -29,6 +29,11 @@ jobs:
           NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
         run: python scripts/fetch_news.py
 
+      - name: Fetch newsdata.io data (second source, merged by topic)
+        env:
+          NEWSDATA_KEY: ${{ secrets.NEWSDATA_KEY }}
+        run: python scripts/fetch_newsdata.py
+
       - name: Red team - verify article relevance, reassign topics, tag COCOM
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}

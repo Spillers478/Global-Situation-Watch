@@ -1,7 +1,8 @@
 # Global Situation Watch
 
 A daily, automated geopolitical/military awareness briefing built on the
-[NewsAPI](https://newsapi.org) free "Developer" tier and the
+[NewsAPI](https://newsapi.org) free "Developer" tier, [newsdata.io](https://newsdata.io)'s
+free tier as a second retrieval source, and the
 [Claude API](https://console.anthropic.com), running unattended on
 GitHub Actions and published as a static site via GitHub Pages.
 
@@ -17,8 +18,17 @@ Every day, a GitHub Actions workflow:
 1. Queries NewsAPI for the two flagship flashpoints (Russia/Ukraine,
    Iran/Israel/Middle East) plus the full 14-topic taxonomy sweep
    (humanitarian crisis, nuclear activity, coups, cyberattacks,
-   migration, etc. -- see `scripts/topics.py`).
-2. Writes the raw results to `data/<date>/`.
+   migration, etc. -- see `scripts/topics.py`) -- `scripts/fetch_news.py`.
+1b. Runs the same 16 queries against newsdata.io's `/latest` endpoint --
+   `scripts/fetch_newsdata.py` -- normalizes its article schema to match
+   NewsAPI's, and merges the result into the *same* per-topic files from
+   step 1, deduped by article URL. This is a second retrieval source
+   layered onto the same taxonomy, not a separate pipeline: everything
+   downstream (red team, synthesis, page rendering) sees one merged
+   article list per topic and doesn't know or care which provider a
+   given article came from. Raw newsdata.io payloads are also kept at
+   `data/<date>/newsdata/<topic_id>.json` for audit/debugging.
+2. Writes the raw/merged results to `data/<date>/`.
 3. Sends every retrieved article to Claude (Sonnet) in one batched
    "red team" call that checks it actually belongs to the topic it was
    retrieved under, reassigns it to a better-fitting topic when it
@@ -89,6 +99,26 @@ on high-volume days, or adding topics later. `scripts/fetch_news.py`
 also has a hardcoded safety ceiling (`MAX_REQUESTS`) so a scheduling
 mistake (e.g. an accidental duplicate run) can never silently blow
 through the daily cap.
+
+**newsdata.io** (`scripts/fetch_newsdata.py`) runs the same 16 queries
+(2 flagships + 14-topic sweep, no separate "US lens" equivalent -- see
+below) against the `/latest` endpoint:
+
+| Query | Requests (credits) |
+|---|---|
+| 2 flagship topics | 2 |
+| 14-topic taxonomy sweep | 14 |
+| **Total per run** | **16** |
+
+newsdata's free plan allows **200 credits/day** and **30 credits per 15
+minutes**, so one run at 16 credits (paced ~1.5s apart, well under the
+15-minute window) uses a small fraction of both caps -- plenty of
+headroom for manual re-runs. `fetch_newsdata.py` has its own
+`MAX_REQUESTS` safety ceiling, same rationale as NewsAPI's. Each
+newsdata request returns up to 10 articles on the free tier (vs.
+NewsAPI's 100/page), so it contributes a modest, complementary slice of
+coverage per topic rather than a full second haul -- its value is
+catching stories NewsAPI's index missed, not duplicating volume.
 
 ## Cost
 
@@ -202,6 +232,17 @@ narrative summaries.
   It's a meaningful precision improvement over raw keyword retrieval,
   not a guarantee.
 
+- **newsdata.io's free tier is narrower than NewsAPI's on a few axes.**
+  `/latest` on the free plan only looks back ~48 hours (no ~1-month
+  lookback like NewsAPI's `/everything`) and returns at most 10
+  articles/request (vs. NewsAPI's 100/page) with `content` frequently
+  null since full-text requires a paid plan. It's included as a
+  complementary source to catch stories NewsAPI's index doesn't carry,
+  not as a like-for-like doubling of volume -- see "Request budget"
+  above for the credit math. Articles from both providers are merged
+  and deduped by URL, so build_brief.py, redteam.py, and synthesize.py
+  never need to know which source an article came from.
+
 ## Roadmap idea: regional coverage / bias comparison
 
 The "US Media Lens" subsection under each flagship (a `/top-headlines`
@@ -220,12 +261,28 @@ flagship topic, generalizing the existing `us_lens_query` pattern in
 
 1. **Rotate your NewsAPI key** before using it here if it's ever been
    shown on screen/shared -- get a fresh one at
-   [newsapi.org/register](https://newsapi.org/register).
+   [newsapi.org/register](https://newsapi.org/register). The same rule
+   applies to the newsdata.io key in step 4 -- rotate it at
+   [newsdata.io/register](https://newsdata.io/register) if it's ever
+   been shown on screen or shared anywhere, including in a chat.
 2. Create a new GitHub repo and push this project to it.
 3. In the repo's **Settings > Secrets and variables > Actions**, add a
    repository secret named `NEWSAPI_KEY` with your key. Never commit the
    key directly to any file in this repo.
-4. Add a second repository secret named `ANTHROPIC_API_KEY` (same
+4. Add a repository secret named `NEWSDATA_KEY` with your newsdata.io
+   key (same Settings > Secrets and variables > Actions page). Get a
+   free key at [newsdata.io/register](https://newsdata.io/register).
+   This step has to be done by hand in the GitHub UI (or via `gh secret
+   set NEWSDATA_KEY --repo <owner>/<repo>` from a machine you trust with
+   the key) -- GitHub's Actions-secrets API requires client-side sealed-
+   box encryption of the value before it's sent, which isn't something
+   an automated assistant should be doing on your behalf with a live
+   key. If you'd rather not use this source yet, skip this step and
+   don't add the `fetch_newsdata.py` step to the workflow (or just leave
+   the secret unset -- `fetch_newsdata.py` will raise a clear error if
+   the workflow step runs without it, unlike the graceful degradation
+   `redteam.py`/`synthesize.py` have for a missing `ANTHROPIC_API_KEY`).
+5. Add a third repository secret named `ANTHROPIC_API_KEY` (same
    Settings > Secrets and variables > Actions page). Get a key from
    [console.anthropic.com](https://console.anthropic.com) -- note this
    is a paid API, so it requires a billing method on the account (see
@@ -233,18 +290,20 @@ flagship topic, generalizing the existing `us_lens_query` pattern in
    this yet, you can skip this step: `synthesize.py` will fail
    gracefully and the page will fall back to headline-only display
    automatically.
-5. In **Settings > Pages**, set the source to "Deploy from a branch,"
+6. In **Settings > Pages**, set the source to "Deploy from a branch,"
    branch `main`, folder `/docs`.
-6. The workflow in `.github/workflows/daily-brief.yml` runs on a daily
+7. The workflow in `.github/workflows/daily-brief.yml` runs on a daily
    cron schedule and can also be triggered manually from the Actions
    tab (`workflow_dispatch`).
-7. To generate the first page before waiting for the schedule, run
+8. To generate the first page before waiting for the schedule, run
    locally:
    ~~~
    export NEWSAPI_KEY=your_key_here
+   export NEWSDATA_KEY=your_key_here
    export ANTHROPIC_API_KEY=your_key_here
    pip install -r requirements.txt
    python scripts/fetch_news.py
+   python scripts/fetch_newsdata.py
    python scripts/redteam.py
    python scripts/synthesize.py
    python scripts/build_brief.py
@@ -254,8 +313,9 @@ flagship topic, generalizing the existing `us_lens_query` pattern in
 ## Project layout
 
 ~~~
-scripts/topics.py        topic taxonomy + NewsAPI query definitions (edit this to tune scope)
+scripts/topics.py        topic taxonomy + query definitions, shared by both providers (edit this to tune scope)
 scripts/fetch_news.py     pulls raw article JSON from NewsAPI, writes to data/<date>/
+scripts/fetch_newsdata.py pulls raw article JSON from newsdata.io, normalizes + merges into data/<date>/ (dedup by URL); raw payloads also kept in data/<date>/newsdata/
 scripts/redteam.py        Claude red-team pass: verifies relevance, reassigns topics, tags COCOM, writes data/<date>/redteam/
 scripts/synthesize.py     sends the day's (vetted) headlines to Claude for a BLUF + per-topic narrative, writes data/<date>/synthesis.json
 scripts/build_brief.py    renders data/<date>/ (preferring data/<date>/redteam/) into docs/index.html
