@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 47,
+  "totalResults": 48,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "Team BL, KS Badri Narayanan",
+      "title": "Sensex today | Stock Market Live: Stock to buy today: K.P.R. Mill",
+      "description": "Sensex, Nifty, Stock Price Live Updates: The stock of K.P.R. Mill has been in an uptrend since April. Back then, it found support at \u20b9800 and established an uptrend. Recently though, the stock has been witnessing higher volatility, particularly since second h\u2026",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-21st-september-2026/article71488721.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/wlus8d/article71487917.ece/alternates/LANDSCAPE_1200/PO20_Stockmarket_eyeglasses.jpg",
+      "publishedAt": "2026-09-21T01:00:51Z",
+      "content": "KSBs nuclear opportunity appears execution- and qualification-constrained rather than demand-constrained, with testing infrastructure the key near-term bottleneck. KSB has a potential first-mover adv\u2026 [+3413 chars]"
+    },
     {
       "source": {
         "id": null,

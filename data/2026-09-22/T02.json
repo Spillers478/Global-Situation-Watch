@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 27,
+  "totalResults": 28,
   "articles": [
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "The Sahel and the UN: a smaller footprint, a different role",
+      "description": "As UNGA 81 begins, the UN faces a changing Sahel demanding greater sovereignty.",
+      "url": "https://www.aljazeera.com/news/2026/9/21/the-sahel-and-the-un-a-smaller-footprint-a-different-role",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/08/2024-07-06T181508Z_1249496886_RC2PP8AXR1TZ_RTRMADP_3_WESTAFRICA-SECURITY-SAHEL-1720621774-1724745432.jpg?resize=1200%2C630&quality=80",
+      "publishedAt": "2026-09-21T00:53:15Z",
+      "content": "For a decade, the United Nationss most visible role in the Sahel was its peacekeeping mission in Mali.\r\nThe United Nations Multidimensional Integrated Stabilization Mission in Mali (MINUSMA) was esta\u2026 [+7493 chars]"
+    },
     {
       "source": {
         "id": null,

@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 5,
+  "totalResults": 6,
   "articles": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ANI",
+      "title": "US issues Iran travel warning, urges citizens to leave country amid rising West Asia tensions",
+      "description": "US Iran war: The United States has issued a fresh travel warning for Iran, urging citizens to leave immediately.  Rising regional tensions and potential escalations prompted the security alert from the US Embassy.  The alert warned of potential flight cancell\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-issues-iran-travel-warning-urges-citizens-to-leave-country-amid-rising-west-asia-tensions/articleshow/134377489.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134377492,width-1200,height-630,imgsize-56384,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-21T00:59:30Z",
+      "content": "Tehran: The United States has issued a fresh travel warning for Iran, urging American citizens not to travel to the country \"for any reason\" and asking those already there to leave immediately amid r\u2026 [+3172 chars]"
+    },
     {
       "source": {
         "id": null,
