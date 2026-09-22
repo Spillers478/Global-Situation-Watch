@@ -76,7 +76,13 @@ def _get(params):
         print(f"  ERROR: non-JSON response from newsdata.io (HTTP {resp.status_code})", file=sys.stderr)
         return {"status": "error", "results": []}
     if data.get("status") != "success":
+        # On error, newsdata puts a {"message": ..., "code": ...} dict in
+        # "results" (not a list of articles) -- iterating that dict below
+        # would hand normalize() a bare string key and blow up with
+        # AttributeError. Sanitize the shape here so every caller can
+        # always assume raw["results"] is a list, empty on failure.
         print(f"  WARNING: newsdata.io returned {data.get('status')}: {data.get('results')}", file=sys.stderr)
+        return {"status": "error", "results": []}
     return data
 
 
@@ -164,16 +170,44 @@ def main():
     raw_dir = out_dir / "newsdata"
     raw_dir.mkdir(parents=True, exist_ok=True)
 
-    targets = [(t["id"], t["label"], t["query"], t.get("search_in")) for t in TIER1]
+    # Prefer each topic's newsdata_query (hand-shortened to fit newsdata's
+    # 100-char q/qInTitle cap -- see topics.py "newsdata_query" section);
+    # fall back to the full NewsAPI-tuned query for any topic that hasn't
+    # gotten a shortened version yet.
+    def _target(t):
+        return (t["id"], t["label"], t.get("newsdata_query", t["query"]), t.get("search_in"))
+
+    targets = [_target(t) for t in TIER1]
     if TOPIC_SWEEP_ENABLED:
-        targets += [(t["id"], t["label"], t["query"], t.get("search_in")) for t in TOPICS]
+        targets += [_target(t) for t in TOPICS]
     else:
         print("Topic sweep disabled (TOPIC_SWEEP_ENABLED=False in topics.py) -- flagships only.")
 
     total_added = 0
     for key, label, query, search_in in targets:
         print(f"Fetching (newsdata.io): {key} - {label}")
-        raw = fetch_latest(query, search_in=search_in)
+        if len(query) > 100:
+            # Safety net, not the primary control -- topics.py's
+            # newsdata_query values are hand-checked to stay under
+            # newsdata's 100-char cap. If one ever creeps over (an edit
+            # to topics.py, a topic missing its override), fail that one
+            # topic's fetch loudly rather than send a request newsdata
+            # will reject anyway.
+            print(f"  WARNING: query is {len(query)} chars (newsdata's cap is 100) -- skipping {key}. "
+                  f"Add/shorten its newsdata_query in topics.py.", file=sys.stderr)
+            continue
+        try:
+            raw = fetch_latest(query, search_in=search_in)
+        except RuntimeError:
+            raise  # the MAX_REQUESTS / missing-key ceilings are meant to stop the whole run
+        except Exception as e:
+            # Any other failure (network blip, unexpected response shape)
+            # shouldn't take down NewsAPI's already-fetched data for every
+            # other topic -- log it and move on, same graceful-degradation
+            # spirit as redteam.py/synthesize.py.
+            print(f"  ERROR fetching {key} from newsdata.io: {e}", file=sys.stderr)
+            continue
+
         with open(raw_dir / f"{key}.json", "w") as f:
             json.dump(raw, f, indent=2)
 

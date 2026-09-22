@@ -54,6 +54,22 @@ EXCLUDE_DOMAINS below removes a small number of whole sources that turned
 out to be pure noise generators for this taxonomy, applied to every
 /everything call. Revert or trim this list any time by editing it --
 nothing else needs to change.
+
+-- newsdata_query: a second, shorter query per topic --
+
+newsdata.io (see fetch_newsdata.py) enforces a hard 100-character cap on
+its `q`/`qInTitle` parameter on this plan -- discovered by a live 400
+error ("UnsupportedQueryLength"), not documented up front. Every `query`
+string below is tuned for NewsAPI's much larger limit (~500 chars) and
+routinely exceeds 100, so each topic also carries a `newsdata_query`:
+a hand-shortened equivalent that keeps the strongest phrase-anchored
+terms from `query` and drops most NOT-exclusion clauses (there wasn't
+room) and secondary OR terms. This trades some of the precision tuning
+described above for newsdata's results specifically -- redteam.py's
+relevance pass and EXCLUDE_DOMAINS (via `excludedomain`) are the
+remaining backstops for that source. fetch_newsdata.py falls back to
+`query` if a topic has no `newsdata_query`, so this field is additive,
+not required.
 """
 
 TOPIC_SWEEP_ENABLED = True  # False = flagships only; True = flagships + full 14-topic sweep
@@ -94,6 +110,7 @@ TIER1 = [
         "query": 'Ukraine AND Russia AND (strike OR offensive OR missile OR drone OR ceasefire OR '
                   'negotiation OR invasion OR shelling OR "front line" OR Kursk OR Donbas) NOT '
                   '(TVLine OR Hulu OR "season finale" OR "TV series")',
+        "newsdata_query": 'Ukraine AND Russia AND (strike OR missile OR ceasefire OR invasion OR Kursk OR Donbas)',
         "us_lens_query": "Ukraine",
     },
     {
@@ -101,6 +118,7 @@ TIER1 = [
         "label": "Iran / Israel / Middle East",
         "query": 'Iran AND (Israel OR strike OR nuclear OR missile OR "Middle East" OR Hezbollah '
                   'OR "Red Sea" OR Houthi) NOT (TVLine OR Hulu OR "season finale" OR "TV series")',
+        "newsdata_query": 'Iran AND (Israel OR strike OR nuclear OR missile OR Hezbollah OR Houthi)',
         "us_lens_query": "Iran",
     },
 ]
@@ -122,17 +140,20 @@ TOPICS = [
         "query": '"armed conflict" OR "military conflict" OR "military offensive" OR '
                  '"ground offensive" OR invasion OR airstrike OR "air strikes" OR bombardment OR '
                  '"front line" OR shelling OR "armed clashes"' + _SPORTS_ENT_EXCLUSION,
+        "newsdata_query": '"armed conflict" OR "military offensive" OR airstrike OR bombardment OR shelling',
     },
     {
         "id": "T02", "label": "Humanitarian Crisis", "tier": "slow", "severity": 8,
         "query": '"humanitarian crisis" OR "humanitarian emergency" OR famine OR "mass starvation" '
                  'OR "food insecurity" OR malnutrition OR "aid blocked" OR "internally displaced" '
                  'OR "humanitarian access" NOT (concert OR "world tour" OR "box office")',
+        "newsdata_query": '"humanitarian crisis" OR famine OR "mass starvation" OR "food insecurity" OR malnutrition',
     },
     {
         "id": "T03", "label": "Bio/Chemical Attack", "tier": "tripwire", "severity": 10,
         "query": '"chemical attack" OR "chemical weapons" OR "biological attack" OR bioweapon OR '
                  '"nerve agent" OR sarin OR anthrax OR "toxic gas attack" OR "chemical weapons use"',
+        "newsdata_query": '"chemical attack" OR "chemical weapons" OR "biological attack" OR bioweapon OR sarin OR anthrax',
     },
     {
         # Bare "epidemic"/"pandemic"/"contagion" are used loosely as
@@ -146,12 +167,14 @@ TOPICS = [
         "query": '"disease outbreak" OR epidemic OR pandemic OR "public health emergency" OR '
                  'quarantine OR "novel virus" OR "mystery illness" OR contagion NOT '
                  '(funding OR stimulus OR relief OR economy OR market OR stock)',
+        "newsdata_query": '"disease outbreak" OR "public health emergency" OR quarantine OR "novel virus"',
     },
     {
         "id": "T05", "label": "Political Instability / Coup Risk", "tier": "tripwire", "severity": 8,
         "query": 'coup OR "coup attempt" OR "coup d\'etat" OR "government collapse" OR '
                   '"military takeover" OR "state of emergency" OR "regime change" OR "power vacuum" '
                   'NOT ("board game" OR "card game" OR boardgame)',
+        "newsdata_query": 'coup OR "coup attempt" OR "government collapse" OR "military takeover" OR "regime change"',
     },
     {
         # "uprising"/"insurrection" were matching comic-book and video-game
@@ -162,6 +185,7 @@ TOPICS = [
         "query": '(uprising OR insurrection OR "mass protests" OR "anti-government protests" OR '
                   '"civil unrest" OR "nationwide protests" OR riots) NOT (labor OR union OR sports '
                   'OR strikers OR comic OR Marvel OR DC OR superhero OR "video game")',
+        "newsdata_query": 'uprising OR "mass protests" OR "anti-government protests" OR "civil unrest" OR riots',
     },
     {
         # "nuclear" alone is a homonym minefield: cell biology ("nuclear
@@ -174,6 +198,7 @@ TOPICS = [
         "query": 'nuclear AND (weapon OR missile OR warhead OR enrichment OR test OR strike OR '
                   '"nuclear facility" OR "nuclear program" OR proliferation) NOT (biology OR genetic '
                   'OR DNA OR cell OR "nuclear family" OR astronomy OR telescope OR planet)',
+        "newsdata_query": 'nuclear AND (weapon OR warhead OR enrichment OR "nuclear facility" OR proliferation)',
     },
     {
         # Bare "attack" and "offensive" were pulling in generic local-crime
@@ -184,6 +209,7 @@ TOPICS = [
         "query": '(terrorist OR "extremist group" OR insurgency OR militant OR jihadist OR '
                   '"armed group") AND (attack OR offensive OR ambush OR bombing) NOT (pitbull OR dog '
                   'OR bee OR sting OR "heart attack" OR "cardiac arrest" OR pepper OR robbery)',
+        "newsdata_query": '(terrorist OR insurgency OR militant OR jihadist) AND (attack OR ambush OR bombing)',
     },
     {
         # The literal phrase "American hostage" is also a TV show's title;
@@ -194,11 +220,13 @@ TOPICS = [
         "query": '"American hostage" OR "US citizen kidnapped" OR "American detained" OR '
                   '"US citizen held" OR "American captured" OR "US national kidnapped" NOT '
                   '(season OR episode OR "S01E" OR TVLine OR streaming OR premiere OR renewed)',
+        "newsdata_query": '"American hostage" OR "US citizen kidnapped" OR "American detained" OR "US citizen held"',
     },
     {
         "id": "T10", "label": "Military Modernization", "tier": "slow", "severity": 5,
         "query": '"military modernization" OR "defense budget" OR "new weapons system" OR '
                   'rearmament OR "arms buildup" OR "weapons procurement" OR "defense spending"',
+        "newsdata_query": '"military modernization" OR "defense budget" OR rearmament OR "arms buildup"',
     },
     {
         # Bare "maneuvers"/"drill" picked up a dog-behavior article and a
@@ -208,12 +236,14 @@ TOPICS = [
         "query": '"military exercise" OR "joint exercise" OR "war games" OR "military drill" OR '
                   'maneuvers OR "naval exercise" OR "joint military drill" NOT (dog OR puppy OR pet '
                   'OR Kratos OR "video game")',
+        "newsdata_query": '"military exercise" OR "joint exercise" OR "war games" OR "naval exercise"',
     },
     {
         "id": "T12", "label": "Large-Scale Cyber Attack / Internet Blackout", "tier": "tripwire", "severity": 8,
         "query": '(cyberattack OR "cyber attack" OR "internet blackout" OR ransomware OR '
                   '"infrastructure hack" OR "grid hack" OR "state-sponsored hack") AND '
                   '(government OR infrastructure OR critical)',
+        "newsdata_query": '(cyberattack OR ransomware OR "infrastructure hack") AND (government OR infrastructure)',
     },
     {
         # Bare "displacement" and "exodus" were matching animal-behavior
@@ -225,10 +255,12 @@ TOPICS = [
                   'displacement" OR "displaced families" OR "displaced persons" OR "mass exodus" OR '
                   '"asylum seekers surge" OR "border crossing surge" NOT (bird OR wildlife OR animal '
                   'OR species OR nest OR buoy)',
+        "newsdata_query": '"refugee crisis" OR "migrant crisis" OR "displaced persons" OR "mass exodus"',
     },
     {
         "id": "T14", "label": "Threats to US Embassies / Diplomats", "tier": "tripwire", "severity": 9,
         "query": '("US embassy" OR "American consulate" OR diplomat OR "diplomatic mission") AND '
                   '(threat OR attack OR evacuation OR breach OR stormed)',
+        "newsdata_query": '("US embassy" OR "American consulate" OR diplomat) AND (threat OR attack OR evacuation)',
     },
 ]
