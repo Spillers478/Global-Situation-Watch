@@ -1,7 +1,13 @@
 """
-Reads today's raw NewsAPI JSON from data/<date>/ and generates a BLUF
-(Bottom Line Up Front) overview plus a short narrative summary per topic,
-using Claude Haiku. Writes the result to data/<date>/synthesis.json.
+Reads today's article set and generates a BLUF (Bottom Line Up Front)
+overview plus a short narrative summary per topic, using Claude Haiku.
+Writes the result to data/<date>/synthesis.json.
+
+Reads data/<date>/redteam/<topic_id>.json when redteam.py has produced
+it (relevance-vetted, cross-topic-reassigned, COCOM-tagged), and falls
+back to the raw data/<date>/<topic_id>.json otherwise -- so this script
+behaves the same whether or not the red team pass ran. See redteam.py
+for what that pass actually does.
 
 Requires ANTHROPIC_API_KEY in the environment -- separate from
 NEWSAPI_KEY, and a PAID API (see README "Cost"). If this step fails or
@@ -14,12 +20,10 @@ Design note: this makes ONE batched API call covering every topic (BLUF
 keeps cost and latency down, and lets the BLUF be informed by everything
 else in a single pass. See README for the cost estimate at this volume.
 
-Honesty note: this still summarizes keyword-retrieved articles, which
-can include false positives (see topics.py). The prompt instructs the
-model to say so plainly when a topic's articles look unrelated or too
-sparse to summarize, rather than inventing a coherent narrative -- this
-doesn't fix the underlying retrieval noise, it just avoids compounding
-it with a confident-sounding fabricated summary.
+Honesty note: even with the red team pass, this is model judgment, not
+verified fact. The prompt instructs the model to say so plainly when a
+topic's articles still look unrelated or too sparse to summarize, rather
+than inventing a coherent narrative.
 """
 import json
 import os
@@ -35,7 +39,11 @@ MAX_ARTICLES_PER_TOPIC = 12  # caps prompt size; NewsAPI results are already sor
 
 
 def load_articles(data_dir, key):
-    path = data_dir / f"{key}.json"
+    """Prefers the red-teamed article set for this topic (data_dir/redteam/
+    <key>.json) when it exists, falling back to the raw retrieval
+    (data_dir/<key>.json) otherwise."""
+    redteam_path = data_dir / "redteam" / f"{key}.json"
+    path = redteam_path if redteam_path.exists() else data_dir / f"{key}.json"
     if not path.exists():
         return []
     with open(path) as f:

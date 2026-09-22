@@ -19,25 +19,47 @@ Every day, a GitHub Actions workflow:
    (humanitarian crisis, nuclear activity, coups, cyberattacks,
    migration, etc. -- see `scripts/topics.py`).
 2. Writes the raw results to `data/<date>/`.
-3. Sends the day's headlines to Claude (Haiku) in one batched call to
-   write a BLUF (Bottom-Line-Up-Front) overview plus a short narrative
-   summary for each topic -- `scripts/synthesize.py`.
-4. Renders a static briefing page to `docs/index.html`: a jump-to-topic
+3. Sends every retrieved article to Claude (Sonnet) in one batched
+   "red team" call that checks it actually belongs to the topic it was
+   retrieved under, reassigns it to a better-fitting topic when it
+   doesn't, discards it if it isn't genuinely relevant to the taxonomy
+   at all (sports/entertainment/homonym noise that slipped past the
+   query-level filtering), and tags whichever it keeps with the
+   geographic combatant command (USEUCOM, USCENTCOM, USINDOPACOM,
+   USAFRICOM, USSOUTHCOM, USNORTHCOM, or "Transregional") the story is
+   contextually about -- `scripts/redteam.py`. Writes the vetted,
+   tagged result to `data/<date>/redteam/`, plus a `_report.json` audit
+   summary of what got kept/reassigned/discarded per topic.
+4. Sends the day's (now vetted) headlines to Claude (Haiku) in one
+   batched call to write a BLUF (Bottom-Line-Up-Front) overview plus a
+   short narrative summary for each topic -- `scripts/synthesize.py`.
+5. Renders a static briefing page to `docs/index.html`: a jump-to-topic
    nav bar (plain-language topic names, not internal codes), the BLUF up
    top, then each topic's AI summary with its supporting articles
-   underneath -- source name, description, and (when NewsAPI's truncated
-   `content` field adds anything beyond the description) a second
-   paragraph of extra detail. Articles from recognized wire services and
-   national broadcasters (Reuters, AP, BBC, Al Jazeera, etc.) are sorted
-   to the front of each list and tagged "wire service" -- see
-   `TRUSTED_SOURCES` in `build_brief.py`. Each section is capped to a
-   preview per topic, with the rest behind a "show more" toggle -- see
-   "Known limitations" for why noisier topics can still run long.
-5. Commits everything back to the repo. GitHub Pages (configured to
+   underneath -- source name, description, a combatant-command tag, a
+   "reassigned from <topic>" note when the red team pass moved it, and
+   (when NewsAPI's truncated `content` field adds anything beyond the
+   description) a second paragraph of extra detail. Articles from
+   recognized wire services and national broadcasters (Reuters, AP, BBC,
+   Al Jazeera, etc.) are sorted to the front of each list and tagged
+   "wire service" -- see `TRUSTED_SOURCES` in `build_brief.py`. Each
+   section is capped to a preview per topic, with the rest behind a
+   "show more" toggle -- see "Known limitations" for why noisier topics
+   can still run long.
+6. Commits everything back to the repo. GitHub Pages (configured to
    serve from `/docs`) picks up the change automatically.
 
 No server or database required. NewsAPI is free at this volume; the
 Claude API calls are paid but inexpensive -- see "Cost" below.
+
+Both the red team pass and the synthesis pass degrade gracefully:
+if `ANTHROPIC_API_KEY` isn't set, either call fails, or the response
+can't be parsed, that stage is skipped rather than breaking the
+pipeline -- `synthesize.py` falls back to headline-only display, and
+`build_brief.py` falls back to the raw (unvetted, untagged) retrieval
+whenever `data/<date>/redteam/` doesn't exist. See `redteam.py`'s
+module docstring for the full reasoning on why this step uses Sonnet
+rather than Haiku.
 
 ## Scope
 
@@ -70,11 +92,16 @@ through the daily cap.
 
 ## Cost
 
-NewsAPI is free at this volume. The Claude API is **not** free, but it's
-cheap here: `synthesize.py` makes exactly **one** batched API call per
-day (not one per topic) using Claude Haiku, capped at 12 articles/topic
-to control prompt size. Rough estimate at this scope (16 topics,
-~15K input tokens, ~1.5K output tokens per run):
+NewsAPI is free at this volume. The Claude API is **not** free -- there
+are now two paid calls per day, and they're not the same size. Both are
+estimates, not guarantees: actual cost scales with how many articles
+NewsAPI actually returns each day, and this project's own live testing
+has seen topic counts range from zero to dozens depending on the news
+cycle.
+
+**Synthesis** (`synthesize.py`, Claude Haiku) makes exactly **one**
+batched call per day, capped at 12 articles/topic. Rough estimate at
+this scope (16 topics, ~15K input tokens, ~1.5K output tokens per run):
 
 | | Rate | Per run | Per month |
 |---|---|---|---|
@@ -82,11 +109,39 @@ to control prompt size. Rough estimate at this scope (16 topics,
 | Output | $5 / MTok | ~$0.0075 | ~$0.23 |
 | **Total** | | **~$0.02/day** | **~$0.70/month** |
 
-That's an estimate, not a guarantee -- actual cost scales with how many
-articles NewsAPI actually returns each day. If `ANTHROPIC_API_KEY` isn't
-set (or the call fails for any reason), `synthesize.py` writes an empty
-result instead of raising, and the page falls back to headline-only
-display automatically -- the pipeline never breaks because of this step.
+**Red team classification** (`redteam.py`, Claude Sonnet) also makes
+**one** batched call per day, but it's a bigger one -- it sends every
+retrieved article (not a summary), capped at 25/topic, and Sonnet costs
+more per token than Haiku. Two scenarios:
+
+| | Typical day (~100-150 articles total) | Worst case (all 16 topics maxed, 400 articles) |
+|---|---|---|
+| Input tokens | ~6-8K | ~20K |
+| Output tokens | ~2-3K | ~7-8K |
+| Input cost ($2/MTok) | ~$0.01-0.02 | ~$0.04 |
+| Output cost ($10/MTok) | ~$0.02-0.03 | ~$0.07-0.08 |
+| **Total** | **~$0.04/day (~$1.10/month)** | **~$0.11/day (~$3.40/month)** |
+
+Realistically, expect something between those two rows most days --
+the noise-reduction work in `topics.py` means most topics return far
+fewer than 25 articles/day in practice, so the typical-day column is
+the more likely one, but a genuinely high-volume news day (e.g. an
+active flagship crisis) can push several topics toward the cap at
+once, which is what the worst-case column models. The worst case also
+sits close to `redteam.py`'s `max_tokens=8192` output ceiling; if real
+usage regularly approaches 400 articles/day, that ceiling may need
+raising (the JSON response would otherwise truncate and fail to
+parse -- which is handled gracefully, see below, but would mean losing
+that day's classification).
+
+**Combined**, that's roughly **$0.06/day (~$1.80/month) typical**, up
+to **~$0.13/day (~$4.10/month) worst case** for the full pipeline. If
+`ANTHROPIC_API_KEY` isn't set, or either call fails or returns
+something that can't be parsed, that stage is skipped rather than
+raising -- `redteam.py` leaves the raw retrieval untouched and
+`synthesize.py` writes an empty result, so the page still builds, just
+without relevance filtering/COCOM tags and/or without the BLUF and
+narrative summaries.
 
 ## Known limitations
 
@@ -130,12 +185,22 @@ display automatically -- the pipeline never breaks because of this step.
   tops out there without either a paid NewsAPI plan or scraping each
   article's URL directly (not implemented -- scraping arbitrary news
   sites is fragile and has its own ToS/legal considerations per site).
-- The Claude model ID in `synthesize.py` (`claude-haiku-4-5-20251001`)
-  is current as of when this was built -- Anthropic's model lineup
-  changes over time, so check
+- The Claude model IDs in `synthesize.py` (`claude-haiku-4-5-20251001`)
+  and `redteam.py` (`claude-sonnet-5`) are current as of when this was
+  built -- Anthropic's model lineup changes over time, so check
   [platform.claude.com/docs/en/models/overview](https://platform.claude.com/docs/en/models/overview)
-  if the synthesis step ever starts failing with a model-not-found
-  error.
+  if either step ever starts failing with a model-not-found error.
+- **Red team classification is model judgment, not verified ground
+  truth.** `redteam.py` reads each article's title and description
+  (not the full article -- see the article-detail limitation above) and
+  makes a relevance/topic/COCOM call from that alone. It will
+  occasionally discard something that was actually relevant, reassign
+  something to a less-ideal topic, or tag the wrong COCOM -- particularly
+  for genuinely ambiguous or Transregional stories. The `_report.json`
+  audit file in `data/<date>/redteam/` records every kept/reassigned/
+  discarded decision per topic if you want to spot-check its judgment.
+  It's a meaningful precision improvement over raw keyword retrieval,
+  not a guarantee.
 
 ## Roadmap idea: regional coverage / bias comparison
 
@@ -175,27 +240,29 @@ flagship topic, generalizing the existing `us_lens_query` pattern in
    tab (`workflow_dispatch`).
 7. To generate the first page before waiting for the schedule, run
    locally:
-   ```
+   ~~~
    export NEWSAPI_KEY=your_key_here
    export ANTHROPIC_API_KEY=your_key_here
    pip install -r requirements.txt
    python scripts/fetch_news.py
+   python scripts/redteam.py
    python scripts/synthesize.py
    python scripts/build_brief.py
-   ```
+   ~~~
    then commit and push `data/` and `docs/`.
 
 ## Project layout
 
-```
+~~~
 scripts/topics.py        topic taxonomy + NewsAPI query definitions (edit this to tune scope)
 scripts/fetch_news.py     pulls raw article JSON from NewsAPI, writes to data/<date>/
-scripts/synthesize.py     sends the day's headlines to Claude for a BLUF + per-topic narrative, writes data/<date>/synthesis.json
-scripts/build_brief.py    renders data/<date>/ into docs/index.html
+scripts/redteam.py        Claude red-team pass: verifies relevance, reassigns topics, tags COCOM, writes data/<date>/redteam/
+scripts/synthesize.py     sends the day's (vetted) headlines to Claude for a BLUF + per-topic narrative, writes data/<date>/synthesis.json
+scripts/build_brief.py    renders data/<date>/ (preferring data/<date>/redteam/) into docs/index.html
 .github/workflows/        daily scheduled run
 docs/                     published site (GitHub Pages source)
 data/                     raw daily snapshots (also serves as a running history/ledger)
-```
+~~~
 
 ## Background
 

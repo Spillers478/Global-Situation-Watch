@@ -1,14 +1,17 @@
 """
-Reads today's raw NewsAPI JSON from data/<date>/ and renders a static
-HTML briefing page to docs/index.html (served via GitHub Pages, which is
-configured to publish from /docs on the main branch -- see README).
+Reads today's article set and renders a static HTML briefing page to
+docs/index.html (served via GitHub Pages, which is configured to publish
+from /docs on the main branch -- see README).
 
-If data/<date>/synthesis.json exists (written by synthesize.py), its BLUF
-overview is rendered at the top of the page and each topic section gets a
-short AI-written summary above its headlines. If that file is missing or
-empty (e.g. ANTHROPIC_API_KEY wasn't set), the page falls back to
-headline-only display -- this script never depends on synthesis having
-run.
+Reads data/<date>/redteam/<topic_id>.json when redteam.py has produced
+it (relevance-vetted, cross-topic-reassigned, COCOM-tagged articles),
+falling back to the raw data/<date>/<topic_id>.json otherwise -- see
+redteam.py and this file's load_articles(). If data/<date>/synthesis.json
+also exists (written by synthesize.py), its BLUF overview is rendered at
+the top of the page and each topic section gets a short AI-written
+summary above its headlines. Either or both can be missing (e.g.
+ANTHROPIC_API_KEY wasn't set) and this script still renders a full page,
+just without those layers.
 
 Retrieval-level noise control (tighter queries, title-only matching,
 excluded domains) lives in topics.py / fetch_news.py -- see topics.py
@@ -29,6 +32,9 @@ excluded domains) lives in topics.py / fetch_news.py -- see topics.py
   national broadcasters (Reuters, AP, BBC, Al Jazeera, etc. -- see
   TRUSTED_SOURCES) surface before blogs/aggregators covering the same
   story, without hiding anything.
+- When redteam.py tagged an article with a combatant command (see that
+  file's VALID_COCOMS) or reassigned it from a different topic, that
+  shows as a small tag in the article's byline.
 """
 import json
 import re
@@ -89,7 +95,11 @@ def rank_articles(articles):
 
 
 def load_articles(data_dir, key):
-    path = data_dir / f"{key}.json"
+    """Prefers the red-teamed article set for this topic (data_dir/redteam/
+    <key>.json) when redteam.py has produced it, falling back to the raw
+    retrieval (data_dir/<key>.json) otherwise -- see redteam.py."""
+    redteam_path = data_dir / "redteam" / f"{key}.json"
+    path = redteam_path if redteam_path.exists() else data_dir / f"{key}.json"
     if not path.exists():
         return []
     with open(path) as f:
@@ -129,10 +139,20 @@ def render_article(a):
         if source_name in TRUSTED_SOURCES else ""
     )
 
+    # Set by redteam.py when it ran: which combatant command's AOR the
+    # article is contextually about, and -- if it moved the article here
+    # from a different topic -- a small transparency note about that.
+    cocom = a.get("cocom")
+    cocom_html = f'<span class="cocom-tag">{escape(cocom)}</span>' if cocom else ""
+    moved_from = a.get("_original_topic_id")
+    moved_html = (
+        f'<span class="moved-tag">reassigned from {escape(moved_from)}</span>' if moved_from else ""
+    )
+
     return f"""
     <article class="item">
       <a class="item-title" href="{url}" target="_blank" rel="noopener">{title}</a>
-      <div class="item-meta">{escape(source_name)} {trusted_html}&middot; {published}</div>
+      <div class="item-meta">{escape(source_name)} {trusted_html}{cocom_html}{moved_html}&middot; {published}</div>
       <p class="item-desc">{escape(desc)}</p>
       {extra_html}
     </article>"""
@@ -387,6 +407,22 @@ TEMPLATE = """<!DOCTYPE html>
     border: 1px solid rgba(77,159,255,0.35);
     border-radius: 3px;
     padding: 0.05rem 0.35rem;
+    margin-right: 0.35rem;
+  }}
+  .cocom-tag {{
+    color: var(--flagship);
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    border: 1px solid rgba(255,181,69,0.35);
+    border-radius: 3px;
+    padding: 0.05rem 0.35rem;
+    margin-right: 0.35rem;
+  }}
+  .moved-tag {{
+    color: var(--muted);
+    font-size: 0.65rem;
+    font-style: italic;
     margin-right: 0.35rem;
   }}
   .empty {{ color: var(--muted); font-size: 0.85rem; font-style: italic; }}
