@@ -1,7 +1,33 @@
 {
   "status": "ok",
-  "totalResults": 305,
+  "totalResults": 353,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNA"
+      },
+      "author": null,
+      "title": "Tech leads shares higher in Asia, oil eases",
+      "description": "SYDNEY, Sept 21 : Share markets edged higher in Asia on Monday as AI's insatiable demand for data buoyed chipmakers, and oil eased as hopes Saudi Arabia could boost supplies offset news of a Houthi attack on Riyadh.Trade was thin with Japan on its Silver Week\u2026",
+      "url": "https://www.channelnewsasia.com/business/tech-leads-shares-higher-in-asia-oil-eases-6398351",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--REAyo9oS--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-21T004028Z_2_LYNXMPEM8K00O_RTROPTP_3_JAPAN-ECONOMY-BOJ.JPG?itok=guVlW6Ho",
+      "publishedAt": "2026-09-21T00:40:28Z",
+      "content": "SYDNEY, Sept 21 : Share markets edged higher in Asia on Monday as AI's insatiable demand for data buoyed chipmakers, and oil eased as hopes Saudi Arabia could boost supplies offset news of a Houthi a\u2026 [+3457 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNA"
+      },
+      "author": null,
+      "title": "Tech leads shares higher in Asia as oil slips",
+      "description": "SYDNEY, Sept 21 : Share markets edged higher in Asia on Monday as AI's insatiable demand for data buoyed chipmakers, and oil eased on reports more oil was finding its way out of the Middle East than previously thought despite the ongoing conflict in the Gulf.\u2026",
+      "url": "https://www.channelnewsasia.com/business/tech-leads-shares-higher-in-asia-oil-slips-6398351",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--REAyo9oS--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-21T004028Z_2_LYNXMPEM8K00O_RTROPTP_3_JAPAN-ECONOMY-BOJ.JPG?itok=guVlW6Ho",
+      "publishedAt": "2026-09-21T00:40:28Z",
+      "content": "SYDNEY, Sept 21 : Share markets edged higher in Asia on Monday as AI's insatiable demand for data buoyed chipmakers, and oil eased on reports more oil was finding its way out of the Middle East than \u2026 [+4199 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -66,6 +92,19 @@
       "urlToImage": "https://elroy.twit.tv/sites/default/files/images/episodes/2026/09/863079/hero/TWIT1102_thumbnail.jpg",
       "publishedAt": "2026-09-21T00:16:49Z",
       "content": "AI hallucinations nearly sparked an international crisis, Google dodged a breakup but faces new rules, and Metas personal AI agent might be about to run your life. This week's episode ponders whats p\u2026 [+1257 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "author": "Estefano Gomez",
+      "title": "Tehran warns US against new strikes as Yemen conflict escalates",
+      "description": "Tehran's warning to the US heightens geopolitical tensions, affecting market perceptions of Iranian stability without immediate regime change.\nThe post Tehran warns US against new strikes as Yemen conflict escalates appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/tehran-warns-us-against-new-strikes-as-yemen-conflict-escalates/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/20201143/cb-card-geo-154-800x420.png",
+      "publishedAt": "2026-09-21T00:11:44Z",
+      "content": "Tehran has issued a warning to the United States against any further military strikes, threatening retaliation amidst ongoing conflict in Yemen. This development was reported by Al Jazeera, highlight\u2026 [+1733 chars]"
     },
     {
       "source": {
@@ -264,6 +303,32 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "semafor.com",
+      "title": "Houthis hit Saudia Arabia, threatening further escalation",
+      "description": "Yemen\u2019s Iran-backed Houthi fighters struck Saudi Arabia over the weekend as Iran warned against new US attacks, threatening to ignite another round of regional escalation.\nAccording to Fox News\u2019 Trey Yingst, US President Donald Trump is in \u201cdeciding mode\u201d on \u2026",
+      "url": "https://biztoc.com/x/2469d81d078c5a76",
+      "urlToImage": "https://biztoc.com/cdn/2469d81d078c5a76_s.webp",
+      "publishedAt": "2026-09-20T22:40:43Z",
+      "content": "Yemens Iran-backed Houthi fighters struck Saudi Arabia over the weekend as Iran warned against new US attacks, threatening to ignite another round of regional escalation.According to Fox News Trey Yi\u2026 [+140 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "gcaptain.com"
+      },
+      "author": "Bloomberg",
+      "title": "Qatar Energy Chief Says Bessent \u2018Wrong\u2019 About Hormuz Future",
+      "description": "By\u00a0Kevin Whitelaw and Annmarie Hordern Sep 20, 2026 (Bloomberg) \u2014Qatari Energy Minister Saad Al-Kaabi said Treasury Secretary Scott Bessent is \u201cwrong\u201d when he said that the strategic Strait of Hormuz...",
+      "url": "https://gcaptain.com/qatar-energy-chief-says-bessent-wrong-about-hormuz-future/",
+      "urlToImage": "https://gcaptain.com/wp-content/uploads/2026/09/2026-09-11T150156Z_1227186291_RC2EWJAUHNHV_RTRMADP_3_IRAN-CRISIS-QATAR-LNG-800x533.jpg",
+      "publishedAt": "2026-09-20T22:39:11Z",
+      "content": "By\u00a0Kevin Whitelaw and Annmarie Hordern\r\nSep 20, 2026 (Bloomberg) \u2014Qatari Energy Minister Saad Al-Kaabi said Treasury Secretary Scott Bessent is wrong when he said that the strategic Strait of Hormuz \u2026 [+2034 chars]"
+    },
+    {
+      "source": {
         "id": "nbc-news",
         "name": "NBC News"
       },
@@ -319,19 +384,6 @@
         "id": null,
         "name": "Israelnationalnews.com"
       },
-      "author": "Elad Benari, Canada",
-      "title": "Iran vows to keep Strait of Hormuz closed until US meets its conditions",
-      "description": "Iran says the Strait of Hormuz will remain closed until its demands are met, as Trump weighs military action.",
-      "url": "https://www.israelnationalnews.com/news/433441",
-      "urlToImage": "https://2.a7.org/files/pictures/000/1212390.jpg",
-      "publishedAt": "2026-09-20T21:30:13Z",
-      "content": "Iranian Parliament Speaker Mohammad Bagher Ghalibaf said Sunday that Tehran will not reopen the Strait of Hormuz unless its demands are fulfilled and the United States meets its commitments.\r\nSpeakin\u2026 [+4239 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Israelnationalnews.com"
-      },
       "author": "Israel National News",
       "title": "Iran vows to keep Strait of Hormuz closed until US meets its conditions",
       "description": "Iran says the Strait of Hormuz will remain closed until its demands are met, as Trump weighs military action.(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Yom Kippur in New York. The time posted automatically\u2026",
@@ -339,6 +391,19 @@
       "urlToImage": "https://2.a7.org/files/pictures/000/1075218.jpg",
       "publishedAt": "2026-09-20T21:30:13Z",
       "content": "Iran says the Strait of Hormuz will remain closed until its demands are met, as Trump weighs military action.\r\n(Arutz Sheva-Israel National News' North American desk is keeping you updated until the \u2026 [+126 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Israelnationalnews.com"
+      },
+      "author": "Elad Benari, Canada",
+      "title": "Iran vows to keep Strait of Hormuz closed until US meets its conditions",
+      "description": "Iran says the Strait of Hormuz will remain closed until its demands are met, as Trump weighs military action.",
+      "url": "https://www.israelnationalnews.com/news/433441",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1212390.jpg",
+      "publishedAt": "2026-09-20T21:30:13Z",
+      "content": "Iranian Parliament Speaker Mohammad Bagher Ghalibaf said Sunday that Tehran will not reopen the Strait of Hormuz unless its demands are fulfilled and the United States meets its commitments.\r\nSpeakin\u2026 [+4239 chars]"
     },
     {
       "source": {
@@ -469,6 +534,19 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/GettyImages-2258978956-1-1787810131.jpg?resize=1920%2C1389",
       "publishedAt": "2026-09-20T20:13:18Z",
       "content": "Qatars Prime Minister Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani has called on states to respect sovereignty as a condition for security in the Middle East, warning against cycles of escalat\u2026 [+2258 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Daily Caller"
+      },
+      "author": "Simon August",
+      "title": "Why Europe Losing Saudi Oil Could Become America\u2019s Problem",
+      "description": "European refiners are turning to American crude and diesel just as the United States holds its lowest level of emergency oil reserves since 1982.",
+      "url": "https://dailycaller.com/2026/09/20/saudi-arabia-oil-europe-us-ellen-wald-andrew-lipow-caleb-jasso-stuart-turley-jason-hayes-david-blackmon",
+      "urlToImage": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2024/06/Indian_Oil_Petrol_Bunk_06122016.jpg",
+      "publishedAt": "2026-09-20T20:11:01Z",
+      "content": "European refiners are turning to American crude and diesel just as the United States holds its lowest level of emergency oil reserves in more than 40 years.\r\nSaudi Aramco told at least two European r\u2026 [+14511 chars]"
     },
     {
       "source": {
@@ -615,6 +693,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Haaretz"
+      },
+      "author": "The Associated Press",
+      "title": "Houthis warn countries against joining Saudi Arabia in renewed Yemen fighting",
+      "description": "A senior Houthi official said the group assured Washington it would not target U.S. vessels in the Red Sea, as rebels consolidate gains along Yemen's western coast",
+      "url": "https://www.haaretz.com/middle-east-news/2026-09-20/ty-article/houthis-warn-countries-against-joining-saudi-arabia-in-renewed-yemen-fighting/000001a0-c01e-d1d5-a1f5-cfbec2a90000",
+      "urlToImage": "https://img.haarets.co.il/bs/000001a0-c01e-d1d5-a1f5-cfbec2a90000/b2/91/053c0bc146608ece44ad4c7e1740/472994.jpg?&width=1200&height=630&cmsprod",
+      "publishedAt": "2026-09-20T18:50:28Z",
+      "content": "A senior official with Yemen's Iran-backed Houthis warned countries against joining Saudi Arabia in the country's renewed fighting, telling the Associated Press on Sunday that the group has assured t\u2026 [+70 chars]"
+    },
+    {
+      "source": {
         "id": "rt",
         "name": "RT"
       },
@@ -664,6 +755,19 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-134373843,width-1200,height-630,imgsize-226846,overlay-etdefence/articleshow.jpg",
       "publishedAt": "2026-09-20T18:20:16Z",
       "content": "New Delhi: Months before it inked a deal to sell armed drones to Pakistan, an American autonomous systems company, with close links to the sons of President Donald Trump, signed an agreement to manuf\u2026 [+3355 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "pbs.org",
+      "title": "Iran-backed Houthi rebels warn against joining Saudi Arabia in Yemen's growing civil war",
+      "description": "Mohamed al-Bukhaiti, a member of the Houthis' political bureau, said Washington reached out to the rebels after their rapid advance down Yemen's western coast to the Bab el-Mandeb Strait earlier this month.",
+      "url": "https://biztoc.com/x/fd3b4529cb18f09d",
+      "urlToImage": "https://biztoc.com/cdn/fd3b4529cb18f09d_s.webp",
+      "publishedAt": "2026-09-20T18:09:40Z",
+      "content": "Mohamed al-Bukhaiti, a member of the Houthis' political bureau, said Washington reached out to the rebels after their rapid advance down Yemen's western coast to the Bab el-Mandeb Strait earlier this\u2026 [+60 chars]"
     },
     {
       "source": {
@@ -836,6 +940,136 @@
     },
     {
       "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "RPSC successfully conducts re-test of SI-2021 exam",
+      "description": "RPSC held the SI & Platoon Commander re-exam 2021 across 666 centres in 11 districts; 2.18 lakh registered with ~69% attendance, strict checks.",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/rpsc-successfully-conducts-re-test-of-si-2021-exam/articleshow/134372189.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134372132,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-20T16:58:23Z",
+      "content": "Follow Us On Social Media\r\nTrumps Biggest Nightmare: Mark Carney Flips The Script Amid 51st State Row; Canada Gets EU BoostDare To Impeach Me?: Pete Hegseth Rubbishes Iran War Death Numbers; Defeat W\u2026 [+3362 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Pearl D'souza",
+      "title": "Parties go into overdrive to help voters with SIR notices",
+      "description": "Congress and BJP ramp up booth-level support in Karnataka as lakhs receive SIR electoral roll notices, helping voters file Form 6, submit documents and attend hearings.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/parties-go-into-overdrive-to-help-voters-with-sir-notices/articleshow/134372139.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134372137,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-20T16:56:54Z",
+      "content": "Follow Us On Social Media\r\nTrumps Biggest Nightmare: Mark Carney Flips The Script Amid 51st State Row; Canada Gets EU BoostDare To Impeach Me?: Pete Hegseth Rubbishes Iran War Death Numbers; Defeat W\u2026 [+3362 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "UP govt transfers 10 senior IAS officers; health, energy departments see key changes",
+      "description": "In a significant administrative shake-up, the state government transferred ten senior IAS officers on Saturday. Amit Kumar Ghosh has been reassigned from his role in health to lead higher education, while Ashish Kumar Goel transitions from energy to labour an\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/up-govt-transfers-10-senior-ias-officers-health-energy-departments-see-key-changes/articleshow/134372040.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134372098,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-20T16:56:37Z",
+      "content": "Follow Us On Social Media\r\nTrumps Biggest Nightmare: Mark Carney Flips The Script Amid 51st State Row; Canada Gets EU BoostDare To Impeach Me?: Pete Hegseth Rubbishes Iran War Death Numbers; Defeat W\u2026 [+3362 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Samdani MN",
+      "title": "Madanapalle set to emerge as global horticulture hub",
+      "description": "Andhra Pradesh plans a Global Horticulture Hub in Madanapalle by early Oct, boosting cold-chain, processing, exports, tech and investment linkages.",
+      "url": "https://timesofindia.indiatimes.com/city/vijayawada/madanapalle-set-to-emerge-as-global-horticulture-hub/articleshow/134372124.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134372122,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-20T16:55:57Z",
+      "content": "Follow Us On Social Media\r\nTrumps Biggest Nightmare: Mark Carney Flips The Script Amid 51st State Row; Canada Gets EU BoostDare To Impeach Me?: Pete Hegseth Rubbishes Iran War Death Numbers; Defeat W\u2026 [+3362 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "3 suspects turn up for SI re-exam, arrested",
+      "description": "Rajasthan SOG arrested three wanted suspects who came to take the RPSC SI re-exam; 50 candidates flagged for discrepancies as security tightened statewide.",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/3-suspects-turn-up-for-si-re-exam-arrested/articleshow/134372121.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-20T16:55:48Z",
+      "content": "Follow Us On Social Media\r\nTrumps Biggest Nightmare: Mark Carney Flips The Script Amid 51st State Row; Canada Gets EU BoostDare To Impeach Me?: Pete Hegseth Rubbishes Iran War Death Numbers; Defeat W\u2026 [+3362 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Jaipur Police arrest man for raping 17-year-old neighbour",
+      "description": "Jaipur Police arrested a 27-year-old man for allegedly raping his 17-year-old neighbour; booked under POCSO and remanded to judicial custody.",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/jaipur-police-arrest-man-for-raping-17-year-old-neighbour/articleshow/134372111.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-20T16:55:04Z",
+      "content": "Follow Us On Social Media\r\nTrumps Biggest Nightmare: Mark Carney Flips The Script Amid 51st State Row; Canada Gets EU BoostDare To Impeach Me?: Pete Hegseth Rubbishes Iran War Death Numbers; Defeat W\u2026 [+3362 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Anjali Singh",
+      "title": "46-year-old man found dead inside luxury car parked on Koramangala road in Bengaluru",
+      "description": "A 46-year-old man was found dead in a high-end vehicle on Sunday morning. Identified as Salim Akbar from Kodagu, he was discovered unresponsive. Initial investigations and security camera footage revealed the car had been parked near a restaurant around 2:30 \u2026",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/46-year-old-man-found-dead-inside-luxury-car-parked-on-koramangala-road-in-bengaluru/articleshow/134372028.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134372049,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-20T16:53:08Z",
+      "content": "Follow Us On Social Media\r\nTrumps Biggest Nightmare: Mark Carney Flips The Script Amid 51st State Row; Canada Gets EU BoostDare To Impeach Me?: Pete Hegseth Rubbishes Iran War Death Numbers; Defeat W\u2026 [+3362 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Sandeep Moudgal",
+      "title": "Govt scraps Indira food kits tender, to rework scheme",
+      "description": "Karnataka govt scraps Indira food kits tender under Anna Bhagya, plans revamped scheme in 45 days; finance dept raised procurement, quality concerns.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/govt-scraps-indira-food-kits-tender-to-rework-scheme/articleshow/134372055.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134372050,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-20T16:53:05Z",
+      "content": "Follow Us On Social Media\r\nTrumps Biggest Nightmare: Mark Carney Flips The Script Amid 51st State Row; Canada Gets EU BoostDare To Impeach Me?: Pete Hegseth Rubbishes Iran War Death Numbers; Defeat W\u2026 [+3362 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Suhas Birhade",
+      "title": "Mira Road Metro work: Man seriously injured after cement block falls from bridge",
+      "description": "A 23-year-old man sustained severe head injuries after a cement block fell from a Metro bridge. He was standing to answer a phone call when the incident occurred near Akshit Bar. The injured man underwent surgery at Wockhardt Hospital after lying on the road \u2026",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/mira-road-metro-work-man-seriously-injured-after-cement-block-falls-from-bridge/articleshow/134372027.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134372030,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-20T16:53:04Z",
+      "content": "Follow Us On Social Media\r\nTrumps Biggest Nightmare: Mark Carney Flips The Script Amid 51st State Row; Canada Gets EU BoostDare To Impeach Me?: Pete Hegseth Rubbishes Iran War Death Numbers; Defeat W\u2026 [+3362 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Ranjith Kandya",
+      "title": "Govt & oppn to face off over drought, Kasturirangan panel report",
+      "description": "Karnataka to hold 3-day special legislature session as Congress and BJP-JD(S) clash over drought relief, Kasturirangan Western Ghats report and Vande Mataram order.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/govt-oppn-to-face-off-over-drought-kasturirangan-panel-report/articleshow/134372033.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134372032,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-20T16:50:47Z",
+      "content": "Follow Us On Social Media\r\nTrumps Biggest Nightmare: Mark Carney Flips The Script Amid 51st State Row; Canada Gets EU BoostDare To Impeach Me?: Pete Hegseth Rubbishes Iran War Death Numbers; Defeat W\u2026 [+3362 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Israelnationalnews.com"
       },
@@ -875,6 +1109,188 @@
     },
     {
       "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Siddhi Dharmadhikari",
+      "title": "MPSC row: Abhijeet Dipke demands chairman\u2019s resignation over \u2018corruption\u2019 allegations; targets CM Devendra Fadnavis",
+      "description": "Abhijeet Dipke of CJP demanded reforms within the Maharashtra Public Service Commission. He called for the resignation of its chairman, Vivek Bhimanwar, due to corruption allegations. Dipke also highlighted the growing unemployment crisis affecting the state'\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/aurangabad/mpsc-row-abhijeet-dipke-demands-chairmans-resignation-over-corruption-allegations-targets-cm-devendra-fadnavis/articleshow/134371874.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134371934,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-20T16:44:17Z",
+      "content": "Follow Us On Social Media\r\nDare To Impeach Me?: Pete Hegseth Rubbishes Iran War Death Numbers; Defeat Will Be Your EndBrian Evans UNLOADS On Carrot Top EXTORTION Allegations; New Video Turns Up The H\u2026 [+3179 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Rohit Khanna,Sanjib Chakraborty",
+      "title": "Birla meets Samik, to meet CM tomorrow; plans Bengal expansion",
+      "description": "Aditya Birla Group may expand investment in West Bengal after Kumar Mangalam Birla meets BJP\u2019s Samik Bhattacharya, ahead of talks with CM Suvendu Adhikari.",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/birla-meets-samik-to-meet-cm-tomorrow-plans-bengal-expansion/articleshow/134371972.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134371971,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-20T16:42:43Z",
+      "content": "Follow Us On Social Media\r\nDare To Impeach Me?: Pete Hegseth Rubbishes Iran War Death Numbers; Defeat Will Be Your EndBrian Evans UNLOADS On Carrot Top EXTORTION Allegations; New Video Turns Up The H\u2026 [+3179 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI World Desk",
+      "title": "A Wyoming-to-Canada wildlife project has supported 204 crossings and helped protect 59 million acres; 33 years after it began, it is a finalist for Prince William's Earthshot Prize",
+      "description": "A conservation project connecting wild habitats from Wyoming to Canada's Yukon is a finalist for Prince William's Earthshot Prize. The Yellowstone to Yukon initiative protects 59 million acres and supports 204 wildlife crossings. This project brings together \u2026",
+      "url": "https://timesofindia.indiatimes.com/world/us/a-wyoming-to-canada-wildlife-project-has-supported-204-crossings-and-helped-protect-59-million-acres-33-years-after-it-began-it-is-a-finalist-for-prince-williams-earthshot-prize/articleshow/134371660.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134371952,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-20T16:41:51Z",
+      "content": "<ul><li>News</li>\r\n<li>World News</li>\r\n<li>US News</li>\r\n<li>A Wyoming-to-Canada wildlife project has supported 204 crossings and helped protect 59 million acres; 33 years after it began, it is a fi\u2026 [+3433 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Chief minister V D Satheesan helps accident victim reach hospital in pilot vehicle",
+      "description": "Kerala CM V D Satheesan helped an injured biker on Kochi\u2019s Container Road, sending him to Aster Medcity in his pilot vehicle; victim stable.",
+      "url": "https://timesofindia.indiatimes.com/city/kochi/chief-minister-v-d-satheesan-helps-accident-victim-reach-hospital-in-pilot-vehicle/articleshow/134371889.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134371888,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-20T16:41:24Z",
+      "content": "Follow Us On Social Media\r\nDare To Impeach Me?: Pete Hegseth Rubbishes Iran War Death Numbers; Defeat Will Be Your EndBrian Evans UNLOADS On Carrot Top EXTORTION Allegations; New Video Turns Up The H\u2026 [+3179 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "B Sridhar",
+      "title": "Babulal Marandi demands CBI probe into Jharkhand JSSC-CGL Scam",
+      "description": "BJP\u2019s Babulal Marandi seeks CBI probe into alleged JSSC-CGL recruitment scam, citing state affidavit; demands removal of JSSC officials, questions CM, CID.",
+      "url": "https://timesofindia.indiatimes.com/city/ranchi/babulal-marandi-demands-cbi-probe-into-jharkhand-jssc-cgl-scam/articleshow/134371906.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134371905,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-20T16:39:38Z",
+      "content": "Follow Us On Social Media\r\nDare To Impeach Me?: Pete Hegseth Rubbishes Iran War Death Numbers; Defeat Will Be Your EndBrian Evans UNLOADS On Carrot Top EXTORTION Allegations; New Video Turns Up The H\u2026 [+3179 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "\u2018Hands off our lakes\u2019: Citizens oppose Bengaluru\u2019s Hebbal short tunnel",
+      "description": "Citizens protest Bengaluru\u2019s Rs 1,140-crore, 2.2-km Hebbal short tunnel, citing lake buffer use, flood risk, tree loss and ecological damage; HC seeks impact details.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/hands-off-our-lakes-citizens-oppose-bengalurus-hebbal-short-tunnel/articleshow/134371903.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134371902,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-20T16:39:28Z",
+      "content": "Follow Us On Social Media\r\nTrumps Biggest Nightmare: Mark Carney Flips The Script Amid 51st State Row; Canada Gets EU BoostDare To Impeach Me?: Pete Hegseth Rubbishes Iran War Death Numbers; Defeat W\u2026 [+3362 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Priyangi Agarwal",
+      "title": "Robust policy framework for climate change, says president",
+      "description": "President Murmu urges robust climate policy framework, community-led adaptation and biodiversity-focused afforestation at NGT conference; India cites 55% non-fossil capacity.",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/robust-policy-framework-for-climate-change-says-president/articleshow/134371901.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-20T16:38:48Z",
+      "content": "Follow Us On Social Media\r\nDare To Impeach Me?: Pete Hegseth Rubbishes Iran War Death Numbers; Defeat Will Be Your EndBrian Evans UNLOADS On Carrot Top EXTORTION Allegations; New Video Turns Up The H\u2026 [+3179 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "V.Narayan",
+      "title": "Mumbai couple\u2019s search on to find their missing mother with dementia",
+      "description": "Mumbai Andheri East couple search for 65-year-old mother with dementia missing since Friday; Sahar police file abduction FIR and review CCTV footage.",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-couples-search-on-to-find-their-missing-mother-with-dementia/articleshow/134371900.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134371899,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-20T16:38:43Z",
+      "content": "Follow Us On Social Media\r\nDare To Impeach Me?: Pete Hegseth Rubbishes Iran War Death Numbers; Defeat Will Be Your EndBrian Evans UNLOADS On Carrot Top EXTORTION Allegations; New Video Turns Up The H\u2026 [+3179 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Abhinav Rajput",
+      "title": "Burari road, drainage network to get Rs 125cr upgrade",
+      "description": "Delhi PWD to upgrade 7.1-km Burari Road and build 9.3-km drainage network in Rs 125 crore project to improve connectivity and curb waterlogging.",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/burari-road-drainage-network-to-get-rs-125cr-upgrade/articleshow/134371895.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-20T16:38:16Z",
+      "content": "Follow Us On Social Media\r\nDare To Impeach Me?: Pete Hegseth Rubbishes Iran War Death Numbers; Defeat Will Be Your EndBrian Evans UNLOADS On Carrot Top EXTORTION Allegations; New Video Turns Up The H\u2026 [+3179 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Delhi Metro International Limited to Debut at InnoTrans 2026 Berlin",
+      "description": "Delhi Metro International Limited, DMRC\u2019s subsidiary, to debut at InnoTrans 2026 Berlin, showcasing O&M and consultancy as it expands global bids and partnerships.",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/delhi-metro-international-limited-to-debut-at-innotrans-2026-berlin/articleshow/134371893.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-20T16:38:10Z",
+      "content": "Follow Us On Social Media\r\nDare To Impeach Me?: Pete Hegseth Rubbishes Iran War Death Numbers; Defeat Will Be Your EndBrian Evans UNLOADS On Carrot Top EXTORTION Allegations; New Video Turns Up The H\u2026 [+3179 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Two labourers trapped, injured after shuttering collapses in Alipur",
+      "description": "Two labourers, Naresh Pajwan (28) and Sunil (20), were injured after shuttering collapsed at an under-construction godown in Alipur, Delhi; rescued.",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/two-labourers-trapped-injured-after-shuttering-collapses-in-alipur/articleshow/134371892.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-20T16:38:02Z",
+      "content": "Follow Us On Social Media\r\nDare To Impeach Me?: Pete Hegseth Rubbishes Iran War Death Numbers; Defeat Will Be Your EndBrian Evans UNLOADS On Carrot Top EXTORTION Allegations; New Video Turns Up The H\u2026 [+3179 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Sharad Chandra",
+      "title": "Governor urges sustainable living to address environment, health challenges",
+      "description": "Jharkhand Governor Santosh Gangwar urges sustainable living, yoga and preventive healthcare; calls for research and citizen action to tackle pollution and climate change.",
+      "url": "https://timesofindia.indiatimes.com/city/ranchi/governor-urges-sustainable-living-to-address-environment-health-challenges/articleshow/134371891.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134371890,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-20T16:37:56Z",
+      "content": "Follow Us On Social Media\r\nDare To Impeach Me?: Pete Hegseth Rubbishes Iran War Death Numbers; Defeat Will Be Your EndBrian Evans UNLOADS On Carrot Top EXTORTION Allegations; New Video Turns Up The H\u2026 [+3179 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Chaitanya Marpakwar",
+      "title": "Maharashtra sets up sustainable public finance committee",
+      "description": "Maharashtra forms Sustainable Public Finance Committee led by Vijay Kelkar to boost tax and non-tax revenues and strengthen fiscal position for Viksit Maharashtra @2047.",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/maharashtra-sets-up-sustainable-public-finance-committee/articleshow/134371886.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134371885,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-20T16:37:18Z",
+      "content": "Follow Us On Social Media\r\nDare To Impeach Me?: Pete Hegseth Rubbishes Iran War Death Numbers; Defeat Will Be Your EndBrian Evans UNLOADS On Carrot Top EXTORTION Allegations; New Video Turns Up The H\u2026 [+3179 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "1 dies as van crashes into median pole in Bengaluru",
+      "description": "Bengaluru: 26-year-old dies, 6 injured as Tempo Traveller hits median pole on Nagarabhavi ORR; driver booked for rash driving and drunk driving.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/1-dies-as-van-crashes-into-median-pole-in-bengaluru/articleshow/134371881.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134371879,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-20T16:36:17Z",
+      "content": "Follow Us On Social Media\r\nDare To Impeach Me?: Pete Hegseth Rubbishes Iran War Death Numbers; Defeat Will Be Your EndBrian Evans UNLOADS On Carrot Top EXTORTION Allegations; New Video Turns Up The H\u2026 [+3179 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Yahoo Entertainment"
       },
@@ -885,422 +1301,6 @@
       "urlToImage": "https://s.yimg.com/lo/mysterio/api/c8892a42239bee9434b7c95dff7fd08fb8200286ad743c83930a1cc91c554ebf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F266da5880c0e679d3611df6c50fcd082.jpg",
       "publishedAt": "2026-09-20T16:35:23Z",
       "content": "Phillips 66 (NYSE:PSX) has been on a strong rally this year, posting gains of over 110% since the beginning of 2026. The outperformance has been driven by an unusually sharp surge in global refining \u2026 [+4261 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "V.Narayan",
-      "title": "Mumbai Police Investigate Rs 32,800 Theft at International Airport",
-      "description": "Mumbai Sahar police probe Rs 32,800 cash theft at Mumbai airport T2 security check; CCTV sought to identify suspect seen pocketing envelope.",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-police-investigate-rs-32800-theft-at-international-airport/articleshow/134371599.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134371598,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-20T16:21:28Z",
-      "content": "Follow Us On Social Media\r\nBrian Evans UNLOADS On Carrot Top EXTORTION Allegations; New Video Turns Up The HeatWhat If I Banned Fox News?: Obama Rips Trump Over CNN, MS NOW White House PurgeSack Your\u2026 [+3461 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TNN",
-      "title": "Satheesan govt facilitating Sangh Parivar\u2019s growth in Keralam, says P Jayarajan",
-      "description": "CPM leader P Jayarajan accuses Kerala CM V D Satheesan-led UDF govt of aiding Sangh Parivar growth, claiming no steps taken to displease RSS.",
-      "url": "https://timesofindia.indiatimes.com/city/kozhikode/satheesan-govt-facilitating-sangh-parivars-growth-in-keralam-says-p-jayarajan/articleshow/134371597.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134371596,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-20T16:21:20Z",
-      "content": "Follow Us On Social Media\r\nBrian Evans UNLOADS On Carrot Top EXTORTION Allegations; New Video Turns Up The HeatWhat If I Banned Fox News?: Obama Rips Trump Over CNN, MS NOW White House PurgeSack Your\u2026 [+3461 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Sanjay Sahay",
-      "title": "Nine persons arrested for cattle smuggling, van set ablaze",
-      "description": "Mob in Ranchi torches pickup van at Piska More over alleged cattle smuggling; police arrest nine, rescue animals, and launch investigation.",
-      "url": "https://timesofindia.indiatimes.com/city/ranchi/nine-persons-arrested-for-cattle-smuggling-van-set-ablaze/articleshow/134371594.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134371593,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-20T16:20:45Z",
-      "content": "Follow Us On Social Media\r\nBrian Evans UNLOADS On Carrot Top EXTORTION Allegations; New Video Turns Up The HeatWhat If I Banned Fox News?: Obama Rips Trump Over CNN, MS NOW White House PurgeSack Your\u2026 [+3461 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Rahul Singh",
-      "title": "Woman, 65, found dead after \u2018setting son, grandson ablaze\u2019",
-      "description": "Meerut: 65-year-old woman allegedly set son and 14-year-old grandson on fire; both hospitalized. She was later found hanging as police probe suicide or murder.",
-      "url": "https://timesofindia.indiatimes.com/city/meerut/woman-65-found-dead-after-setting-son-grandson-ablaze/articleshow/134371591.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-131882392,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-20T16:20:38Z",
-      "content": "Follow Us On Social Media\r\nBrian Evans UNLOADS On Carrot Top EXTORTION Allegations; New Video Turns Up The HeatWhat If I Banned Fox News?: Obama Rips Trump Over CNN, MS NOW White House PurgeSack Your\u2026 [+3461 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI World Desk",
-      "title": "In 1992, Elton John began buying Atlanta apartments and eventually combined six into a 13,000-square-foot home; three decades later, it sold for $7.225 million",
-      "description": "Sir Elton John's expansive Atlanta residence has been sold for $7.225 million. This high-rise property was strategically priced to attract multiple competitive offers. The combined six apartments were developed over thirty years into a luxurious sky mansion. \u2026",
-      "url": "https://timesofindia.indiatimes.com/world/us/in-1992-elton-john-began-buying-atlanta-apartments-and-eventually-combined-six-into-a-13000-square-foot-home-three-decades-later-it-sold-for-7-225-million/articleshow/134370230.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134371579,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-20T16:20:14Z",
-      "content": "<ul><li>News</li>\r\n<li>World News</li>\r\n<li>US News</li>\r\n<li>In 1992, Elton John began buying Atlanta apartments and eventually combined six into a 13,000-square-foot home; three decades later, it s\u2026 [+3694 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Riyan Ramanath V",
-      "title": "Debrigarh dholes thrive as pups expand their range in sanctuary",
-      "description": "Debrigarh Wildlife Sanctuary\u2019s endangered Indian dholes are thriving as two pups mature, expand range near tourism zones, marking first recorded breeding in Odisha.",
-      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/debrigarh-dholes-thrive-as-pups-expand-their-range-in-sanctuary/articleshow/134371585.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134371583,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-20T16:19:34Z",
-      "content": "Follow Us On Social Media\r\nBrian Evans UNLOADS On Carrot Top EXTORTION Allegations; New Video Turns Up The HeatWhat If I Banned Fox News?: Obama Rips Trump Over CNN, MS NOW White House PurgeSack Your\u2026 [+3461 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Santosh Sonawane",
-      "title": "Nashik Road bus stand closure alters city bus routes for 3 months",
-      "description": "Nashik Road bus stand closed for repairs until Dec 20; city bus routes diverted, dedicated bays for Trimbakeshwar/Dindori, plus night services for trains.",
-      "url": "https://timesofindia.indiatimes.com/city/nashik/nashik-road-bus-stand-closure-alters-city-bus-routes-for-3-months/articleshow/134371582.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134371581,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-20T16:19:26Z",
-      "content": "Follow Us On Social Media\r\nBrian Evans UNLOADS On Carrot Top EXTORTION Allegations; New Video Turns Up The HeatWhat If I Banned Fox News?: Obama Rips Trump Over CNN, MS NOW White House PurgeSack Your\u2026 [+3461 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Siddhi Dharmadhikari",
-      "title": "From Nepal to Jodhpur: 2 Lawrence gang shooters, carrying Rs 5 lakh reward each, arrested during hotel check-in",
-      "description": "Rajasthan Police arrested two alleged sharpshooters linked to a notorious gang. These individuals were apprehended while checking into a hotel in Jodhpur city. They were reportedly using fake identities and carrying weapons and opium. The arrested men were wa\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/jodhpur/from-nepal-to-jodhpur-2-lawrence-gang-shooters-carrying-rs-5-lakh-reward-each-arrested-during-hotel-check-in/articleshow/134371410.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134371511,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-20T16:18:34Z",
-      "content": "<ul><li>News</li>\r\n<li>City News</li>\r\n<li>jodhpur News</li>\r\n<li>From Nepal to Jodhpur: 2 Lawrence gang shooters, carrying Rs 5 lakh reward each, arrested during hotel check-in</li></ul>\r\nFollow Us \u2026 [+3650 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Rahul.R.",
-      "title": "Work on 74 MLD Aruvikkara plant upgrade to begin in 3 months",
-      "description": "Kerala Water Authority to start Aruvikkara 74 MLD plant upgrade in 3 months, adding 10 MLD to ease Thiruvananthapuram water shortages in high areas.",
-      "url": "https://timesofindia.indiatimes.com/city/thiruvananthapuram/work-on-74-mld-aruvikkara-plant-upgrade-to-begin-in-3-months/articleshow/134371571.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134371570,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-20T16:18:15Z",
-      "content": "Follow Us On Social Media\r\nBrian Evans UNLOADS On Carrot Top EXTORTION Allegations; New Video Turns Up The HeatWhat If I Banned Fox News?: Obama Rips Trump Over CNN, MS NOW White House PurgeSack Your\u2026 [+3461 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TNN",
-      "title": "\u200bBeed college students learn traditional art of making Vida",
-      "description": "Beed\u2019s Savarkar College held a workshop teaching students 10 traditional betel leaf Vida types, linking Ayurveda, digestion benefits and festival offerings.",
-      "url": "https://timesofindia.indiatimes.com/city/aurangabad/beed-college-students-learn-traditional-art-of-making-vida/articleshow/134371569.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134371568,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-20T16:17:45Z",
-      "content": "Follow Us On Social Media\r\nBrian Evans UNLOADS On Carrot Top EXTORTION Allegations; New Video Turns Up The HeatWhat If I Banned Fox News?: Obama Rips Trump Over CNN, MS NOW White House PurgeSack Your\u2026 [+3461 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Abhijeet Patil",
-      "title": "Kolhapur residents donate 62,000 Ganesh idols in city",
-      "description": "Kolhapur\u2019s 25-hour eco-friendly Ganesh immersion saw 62,000 idols donated in the city; KMC collected nirmalya for compost and immersed idols at Irani Quarry.",
-      "url": "https://timesofindia.indiatimes.com/city/kolhapur/kolhapur-residents-donate-62000-ganesh-idols-in-city/articleshow/134371567.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134371565,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-20T16:17:40Z",
-      "content": "Follow Us On Social Media\r\nBrian Evans UNLOADS On Carrot Top EXTORTION Allegations; New Video Turns Up The HeatWhat If I Banned Fox News?: Obama Rips Trump Over CNN, MS NOW White House PurgeSack Your\u2026 [+3461 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Times News Network",
-      "title": "Two die, woman injured in Hubballi house fire",
-      "description": "Two men died and a pregnant woman was critically injured in a house fire in Ayodhya Nagar, Hubballi; police are investigating the cause.",
-      "url": "https://timesofindia.indiatimes.com/city/hubballi/two-die-woman-injured-in-hubballi-house-fire/articleshow/134371564.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134371563,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-20T16:17:31Z",
-      "content": "Follow Us On Social Media\r\nBrian Evans UNLOADS On Carrot Top EXTORTION Allegations; New Video Turns Up The HeatWhat If I Banned Fox News?: Obama Rips Trump Over CNN, MS NOW White House PurgeSack Your\u2026 [+3461 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI World Desk",
-      "title": "Israel President pardons soldier who shot wounded Palestinian attacker dead in West Bank",
-      "description": "Middle East News: Israel\u2019s President Isaac Herzog has pardoned former combat medic Elor Azaria, who was convicted of manslaughter for shooting dead a badly wounded Pale.",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/israel-president-pardons-soldier-who-shot-wounded-palestinian-attacker-dead-in-west-bank/articleshow/134371455.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134371515,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-20T16:16:54Z",
-      "content": "Follow Us On Social Media\r\nBrian Evans UNLOADS On Carrot Top EXTORTION Allegations; New Video Turns Up The HeatWhat If I Banned Fox News?: Obama Rips Trump Over CNN, MS NOW White House PurgeSack Your\u2026 [+3461 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Divy Khare",
-      "title": "CISF pairs raids with awareness drives to curb illegal coal in Bokaro",
-      "description": "CISF steps up Bokaro illegal coal crackdown with 30+ raids, seizing tonnes of coal and vehicles, alongside MMDR Act awareness drives and green initiatives.",
-      "url": "https://timesofindia.indiatimes.com/city/ranchi/cisf-pairs-raids-with-awareness-drives-to-curb-illegal-coal-in-bokaro/articleshow/134371536.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134371524,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-20T16:16:44Z",
-      "content": "Follow Us On Social Media\r\nBrian Evans UNLOADS On Carrot Top EXTORTION Allegations; New Video Turns Up The HeatWhat If I Banned Fox News?: Obama Rips Trump Over CNN, MS NOW White House PurgeSack Your\u2026 [+3461 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Vriti Jain",
-      "title": "Delhi district court lawyers to abstain from work on Monday over amended traffic challan rules",
-      "description": "On September 21, lawyers from Delhi district court will refuse to work in protest against amended regulations that allow non-judicial officers to handle traffic challan cases. Their objections are centered around the transfer of judicial responsibilities and \u2026",
-      "url": "https://timesofindia.indiatimes.com/city/delhi/delhi-district-court-lawyers-to-abstain-from-work-on-monday-over-amended-traffic-challan-rules/articleshow/134371194.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134371464,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-20T16:16:03Z",
-      "content": "<ul><li>News</li>\r\n<li>City News</li>\r\n<li>delhi News</li>\r\n<li>Delhi district court lawyers to abstain from work on Monday over amended traffic challan rules</li></ul>\r\nFollow Us On Social Media\r\nBr\u2026 [+3631 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Krishnendu Bandyopadhyay,Dwaipayan Ghosh",
-      "title": "Police, Customs crack down on illegal trade at Galiff Street pet market",
-      "description": "Kolkata Police and Customs inspected Galiff Street\u2019s Sunday pet market to enforce a HC order, curb protected wildlife sales, and require valid KMC trade licences.",
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/police-customs-crack-down-on-illegal-trade-at-galiff-street-pet-market/articleshow/134371513.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134371510,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-20T16:15:40Z",
-      "content": "Follow Us On Social Media\r\nBrian Evans UNLOADS On Carrot Top EXTORTION Allegations; New Video Turns Up The HeatWhat If I Banned Fox News?: Obama Rips Trump Over CNN, MS NOW White House PurgeSack Your\u2026 [+3461 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Anjali Singh",
-      "title": "3 dead after landslide hits Kerala's Idukki",
-      "description": "In a heartbreaking incident, a landslide in Kottakamboor, Kerala's Idukki district, has claimed three lives. The victims' bodies were located post a flash flood event. The India Meteorological Department has raised a rainfall alert for seven districts, includ\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/kochi/3-dead-after-landslide-hits-keralas-idukki/articleshow/134371135.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134371466,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-20T16:15:00Z",
-      "content": "Follow Us On Social Media\r\nBrian Evans UNLOADS On Carrot Top EXTORTION Allegations; New Video Turns Up The HeatWhat If I Banned Fox News?: Obama Rips Trump Over CNN, MS NOW White House PurgeSack Your\u2026 [+3461 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TNN",
-      "title": "Spurious drug racket busted at Bidadi farmhouse, Rs 5 crore stock seized",
-      "description": "Karnataka FDA busts spurious drug racket at Bidadi farmhouse, seizes Rs 5 crore fake medicines and machinery; case filed, licences cancelled, supply chain probed.",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/spurious-drug-racket-busted-at-bidadi-farmhouse-rs-5-crore-stock-seized/articleshow/134371462.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-      "publishedAt": "2026-09-20T16:13:51Z",
-      "content": "Follow Us On Social Media\r\nBrian Evans UNLOADS On Carrot Top EXTORTION Allegations; New Video Turns Up The HeatWhat If I Banned Fox News?: Obama Rips Trump Over CNN, MS NOW White House PurgeSack Your\u2026 [+3461 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TNN",
-      "title": "Man shot during quarrel at petrol bunk",
-      "description": "Man shot and injured during quarrel at Mattihal village petrol bunk in Vijayapura; owner Sangappa Poojary accused of firing licensed pistol, police investigate.",
-      "url": "https://timesofindia.indiatimes.com/city/hubballi/man-shot-during-quarrel-at-petrol-bunk/articleshow/134371459.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134371457,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-20T16:13:18Z",
-      "content": "Follow Us On Social Media\r\nBrian Evans UNLOADS On Carrot Top EXTORTION Allegations; New Video Turns Up The HeatWhat If I Banned Fox News?: Obama Rips Trump Over CNN, MS NOW White House PurgeSack Your\u2026 [+3461 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "author": "feedfeeder",
-      "title": "Iran-US war latest: Trump cuts short Camp David visit amid Middle East tensions - The Independent",
-      "description": "Iran-US war latest: Trump cuts short Camp David visit amid Middle East tensionsThe Independent Trump returns to White House as State Department issues security alerts for Middle EastThe Hill US issues Middle East alerts after Houthi attacks; Trump cuts short \u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185718834",
-      "urlToImage": null,
-      "publishedAt": "2026-09-20T16:13:08Z",
-      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Vijay Singh",
-      "title": "Dmart Employee Booked for Injuring Stray Dog With Scissors in Mulund",
-      "description": "FIR filed against Dmart employee Sameer Thakur for allegedly injuring a stray dog with scissors outside Mulund (West) store; complaint cites PCA Act, 1960.",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/dmart-employee-booked-for-injuring-stray-dog-with-scissors-in-mulund/articleshow/134371456.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-133074804,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-20T16:12:50Z",
-      "content": "Follow Us On Social Media\r\nBrian Evans UNLOADS On Carrot Top EXTORTION Allegations; New Video Turns Up The HeatWhat If I Banned Fox News?: Obama Rips Trump Over CNN, MS NOW White House PurgeSack Your\u2026 [+3461 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TNN",
-      "title": "Bhadra Upper Project priority, Tunga water lifting by Dec: Min",
-      "description": "Karnataka prioritises Upper Bhadra Project; minister says 17 TMC Tunga water lifting to Bhadra reservoir due by Dec, DK Shivakumar to visit Chitradurga Sept 24.",
-      "url": "https://timesofindia.indiatimes.com/city/hubballi/bhadra-upper-project-priority-tunga-water-lifting-by-dec-min/articleshow/134371444.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134371443,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-20T16:11:54Z",
-      "content": "Follow Us On Social Media\r\nBrian Evans UNLOADS On Carrot Top EXTORTION Allegations; New Video Turns Up The HeatWhat If I Banned Fox News?: Obama Rips Trump Over CNN, MS NOW White House PurgeSack Your\u2026 [+3461 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Times News Network",
-      "title": "Traffic police crack whip on irregular parking at markets",
-      "description": "Prayagraj traffic police target irregular market parking, summoning shop owners to create customer parking slots, deploy guards, and face action for violations.",
-      "url": "https://timesofindia.indiatimes.com/city/allahabad/traffic-police-crack-whip-on-irregular-parking-at-markets/articleshow/134371441.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134371440,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-20T16:11:47Z",
-      "content": "Follow Us On Social Media\r\nBrian Evans UNLOADS On Carrot Top EXTORTION Allegations; New Video Turns Up The HeatWhat If I Banned Fox News?: Obama Rips Trump Over CNN, MS NOW White House PurgeSack Your\u2026 [+3461 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Kapil Dixit",
-      "title": "NGO celebrates decade of empowering slum youth",
-      "description": "Shuruaat NGO marks 10 years empowering Prayagraj slum youth with free education and sports, 500+ students, top exam results, jobs, and medals.",
-      "url": "https://timesofindia.indiatimes.com/city/allahabad/ngo-celebrates-decade-of-empowering-slum-youth/articleshow/134371439.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134371438,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-20T16:11:41Z",
-      "content": "Follow Us On Social Media\r\nBrian Evans UNLOADS On Carrot Top EXTORTION Allegations; New Video Turns Up The HeatWhat If I Banned Fox News?: Obama Rips Trump Over CNN, MS NOW White House PurgeSack Your\u2026 [+3461 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Times News Network",
-      "title": "56 kids participate in painting competition",
-      "description": "Prayagraj: CORE Women\u2019s Welfare Organization held an All-India on-the-spot drawing and painting contest at Aarohi auditorium; 56 kids joined.",
-      "url": "https://timesofindia.indiatimes.com/city/allahabad/56-kids-participate-in-painting-competition/articleshow/134371437.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134371436,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-20T16:11:33Z",
-      "content": "Follow Us On Social Media\r\nBrian Evans UNLOADS On Carrot Top EXTORTION Allegations; New Video Turns Up The HeatWhat If I Banned Fox News?: Obama Rips Trump Over CNN, MS NOW White House PurgeSack Your\u2026 [+3461 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Times News Network",
-      "title": "16 criminals on police radar in Fatehpur",
-      "description": "Fatehpur police open history sheets for 16 criminals across 11 stations, including Kotwali, Khaga and Hathgav, citing multiple pending criminal cases.",
-      "url": "https://timesofindia.indiatimes.com/city/allahabad/16-criminals-on-police-radar-in-fatehpur/articleshow/134371432.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134320548,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-20T16:11:16Z",
-      "content": "Follow Us On Social Media\r\nBrian Evans UNLOADS On Carrot Top EXTORTION Allegations; New Video Turns Up The HeatWhat If I Banned Fox News?: Obama Rips Trump Over CNN, MS NOW White House PurgeSack Your\u2026 [+3461 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Suman Mandal",
-      "title": "Another warrant against Milan, Cong to move HC",
-      "description": "Congress says it will move Calcutta High Court for Nandigram bypoll candidate Milan Pradhan\u2019s bail after a fifth case; he remains in custody till Oct 3.",
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/another-warrant-against-milan-cong-to-move-hc/articleshow/134371430.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134371428,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-20T16:11:08Z",
-      "content": "Follow Us On Social Media\r\nBrian Evans UNLOADS On Carrot Top EXTORTION Allegations; New Video Turns Up The HeatWhat If I Banned Fox News?: Obama Rips Trump Over CNN, MS NOW White House PurgeSack Your\u2026 [+3461 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Kapil Dixit",
-      "title": "Prayagraj\u2019s famous samosas, rasgullas get ODOD boost for business expansion",
-      "description": "Prayagraj\u2019s samosas, rasgullas and puri-kachoris get ODOD boost with subsidies, training and financing aid to expand units, create 1,500+ jobs.",
-      "url": "https://timesofindia.indiatimes.com/city/allahabad/prayagrajs-famous-samosas-rasgullas-get-odod-boost-for-business-expansion/articleshow/134371420.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134371419,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-20T16:10:35Z",
-      "content": "Follow Us On Social Media\r\nBrian Evans UNLOADS On Carrot Top EXTORTION Allegations; New Video Turns Up The HeatWhat If I Banned Fox News?: Obama Rips Trump Over CNN, MS NOW White House PurgeSack Your\u2026 [+3461 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Rajeev Mani",
-      "title": "52-day Magh Mela 2027 from Jan 14, Kalpwas to begin on Jan 22",
-      "description": "Magh Mela 2027 in Prayagraj to run 52 days from Jan 14 to March 6; Kalpwas starts Jan 22. Officials expect higher turnout and early works tenders.",
-      "url": "https://timesofindia.indiatimes.com/city/allahabad/52-day-magh-mela-2027-from-jan-14-kalpwas-to-begin-on-jan-22/articleshow/134371418.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134371417,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-20T16:10:28Z",
-      "content": "Follow Us On Social Media\r\nBrian Evans UNLOADS On Carrot Top EXTORTION Allegations; New Video Turns Up The HeatWhat If I Banned Fox News?: Obama Rips Trump Over CNN, MS NOW White House PurgeSack Your\u2026 [+3461 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Kapil Dixit",
-      "title": "Digital libraries in gram panchayats to help competitive exam aspirants in rural areas",
-      "description": "UP govt sets up digital libraries in Gram Panchayats to support rural competitive exam aspirants with free books, computers, Wi\u2011Fi and e-learning resources.",
-      "url": "https://timesofindia.indiatimes.com/city/allahabad/digital-libraries-in-gram-panchayats-to-help-competitive-exam-aspirants-in-rural-areas/articleshow/134371416.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134371414,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-20T16:10:22Z",
-      "content": "Follow Us On Social Media\r\nBrian Evans UNLOADS On Carrot Top EXTORTION Allegations; New Video Turns Up The HeatWhat If I Banned Fox News?: Obama Rips Trump Over CNN, MS NOW White House PurgeSack Your\u2026 [+3461 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Rajeev Mani",
-      "title": "Mahakaushal Distillery to start ethanol production by Nov",
-      "description": "Mahakaushal Distillery in Shankargarh to begin ethanol production by Nov, aiming for 1 lakh litres/day, creating 200+ jobs and supporting local horticulture.",
-      "url": "https://timesofindia.indiatimes.com/city/allahabad/mahakaushal-distillery-to-start-ethanol-production-by-nov/articleshow/134371411.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-      "publishedAt": "2026-09-20T16:10:13Z",
-      "content": "Follow Us On Social Media\r\nBrian Evans UNLOADS On Carrot Top EXTORTION Allegations; New Video Turns Up The HeatWhat If I Banned Fox News?: Obama Rips Trump Over CNN, MS NOW White House PurgeSack Your\u2026 [+3461 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Rajeev Mani",
-      "title": "NCR to raise height of 55 platforms at 39 stations for safe boarding",
-      "description": "NCR Prayagraj division is raising 55 platform heights at 39 stations to improve safe boarding for MEMU and express trains, with completion by July 2027.",
-      "url": "https://timesofindia.indiatimes.com/city/allahabad/ncr-to-raise-height-of-55-platforms-at-39-stations-for-safe-boarding/articleshow/134371409.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134371408,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-20T16:10:11Z",
-      "content": "Follow Us On Social Media\r\nBrian Evans UNLOADS On Carrot Top EXTORTION Allegations; New Video Turns Up The HeatWhat If I Banned Fox News?: Obama Rips Trump Over CNN, MS NOW White House PurgeSack Your\u2026 [+3461 chars]"
     }
   ]
 }
