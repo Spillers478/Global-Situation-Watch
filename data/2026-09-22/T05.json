@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 31,
+  "totalResults": 32,
   "articles": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "AP",
+      "title": "18 suspects accused in 2021 killing of Haiti president Jovenel Moise being extradited to US",
+      "description": "Eighteen suspects arrested for President Jovenel Moise's assassination are now extradited to the United States. These individuals will face justice in Florida for their alleged roles in the killing. The US Attorney for Southern Florida stated this marks a maj\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/18-suspects-accused-in-2021-killing-of-haiti-president-jovenel-moise-being-extradited-to-us/articleshow/134377570.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134377669,width-1200,height-630,imgsize-152748,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-21T01:24:26Z",
+      "content": "Port-au-Prince: Eighteen suspects who were arrested in the July 2021 killing of Haitian President Jovenel Moise were being extradited to the US on Sunday, marking the end of a drawn-out judicial proc\u2026 [+5133 chars]"
+    },
     {
       "source": {
         "id": null,

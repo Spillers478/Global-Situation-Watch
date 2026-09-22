@@ -1,7 +1,33 @@
 {
   "status": "ok",
-  "totalResults": 12,
+  "totalResults": 14,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Joanna Mendelssohn, Honorary Senior Fellow, School of Culture and Communication, The University of Melbourne",
+      "title": "From Mumbai to Perth and beyond, Neha Kale considers, art, colonialism and ideas of home",
+      "description": "Neha Kale\u2019s A Foreign Return: on art and habitation is an unusual blend of memoir and art criticism, spanning continents and time.",
+      "url": "https://theconversation.com/from-mumbai-to-perth-and-beyond-neha-kale-considers-art-colonialism-and-ideas-of-home-288905",
+      "urlToImage": "https://images.theconversation.com/files/759847/original/file-20260915-60-2i98s0.jpg?ixlib=rb-4.1.1&rect=0%2C558%2C4368%2C2184&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-09-21T01:46:35Z",
+      "content": "New South Publishing\r\nNeha Kale\u2019s A Foreign Return: On Art and Inhabitation seamlessly entwines memoir with art criticism. It\u2019s a long consideration of art, colonisation, nostalgia and the places we \u2026 [+11063 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Nicholas Comino, Will Nicholas",
+      "title": "Anthony Albanese hits record-low popularity as Labor vote crashes to its worst level in 15 years",
+      "description": "Alarm bells are ringing inside Labor after its primary vote crashed to its lowest level in more than a decade, reaching depths not seen since Julia Gillard was leader.",
+      "url": "https://www.dailymail.com/news/article-16146905/anthony-albanese-labor-poll-one-nation-newspoll.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/09/21/00/111366241-0-image-a-11_1789947450921.jpg",
+      "publishedAt": "2026-09-21T01:39:33Z",
+      "content": "Anthony Albanese is the most unpopular he has been since becoming Prime Minister in 2022, a new poll shows.\r\nThe Australian's closely watched Newspoll has slugged the Prime Minister with a net satisf\u2026 [+2773 chars]"
+    },
     {
       "source": {
         "id": null,

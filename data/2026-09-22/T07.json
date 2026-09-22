@@ -1,7 +1,33 @@
 {
   "status": "ok",
-  "totalResults": 48,
+  "totalResults": 50,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Crikey"
+      },
+      "author": "Kevin Rudd",
+      "title": "Kevin Rudd on AUKUS, his past remarks and how to avoid war",
+      "description": "Deterrence and international collaboration have served our region, and the world, well since the end of World War II. Let's try and keep it that way.\nThe post Kevin Rudd on AUKUS, his past remarks and how to avoid war appeared first on Crikey.",
+      "url": "http://www.crikey.com.au/2026/09/21/kevin-rudd-aukus/",
+      "urlToImage": "https://assets.crikey.com.au/wp-content/uploads/sites/3/2026/09/20260910129717506679-original-copy.jpg?quality=70&w=1312",
+      "publishedAt": "2026-09-21T01:34:39Z",
+      "content": "My guiding principles for Australian foreign and security policy have been consistent throughout my professional life. They are pretty simple:\u00a0\r\nI support universal human rights as defined in the UN \u2026 [+9631 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": "HuffPost",
+      "title": "Trump Eyes Busy Week Of Meetings As UN General Assembly Gathers",
+      "description": "His two days attending the gathering will include a series of meetings with notable political figures and world leaders.",
+      "url": "https://www.huffpost.com/entry/trump-un-general-assembly_n_6ab07ffbe4b02be6d959e3f3",
+      "urlToImage": "https://img.huffingtonpost.com/asset/6ab082e11c0000121e95ed70.jpeg?cache=L0OH2tlKHm&ops=1200_630",
+      "publishedAt": "2026-09-21T01:08:04Z",
+      "content": "WASHINGTON, Sept 20 (Reuters) - US President Donald Trumps two days attending the United Nations General Assembly will include a series of bilateral meetings and events with notable political figures\u2026 [+3198 chars]"
+    },
     {
       "source": {
         "id": null,

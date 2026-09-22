@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 6,
+  "totalResults": 7,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "author": "Editorial Team",
+      "title": "US Virtual Embassy urges American citizens to leave Iran immediately",
+      "description": "The advisory underscores heightened geopolitical tensions and the precarious situation for Americans abroad, highlighting diplomatic limitations.\nThe post US Virtual Embassy urges American citizens to leave Iran immediately appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/us-virtual-embassy-iran-leave-immediately/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg",
+      "publishedAt": "2026-09-21T01:10:05Z",
+      "content": "The alert cites rising regional security risks, recommends land routes to Armenia or Turkey as safer exit options. The US Virtual Embassy Iran issued a security alert on September 19, 2026, telling A\u2026 [+2415 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",

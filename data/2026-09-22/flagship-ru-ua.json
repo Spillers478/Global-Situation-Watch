@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 103,
+  "totalResults": 104,
   "articles": [
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "Carney touts Arctic alliance with Norway during PM's visit to Ottawa, amid Russia threat",
+      "description": "Prime Minister Mark Carney is courting deeper defence ties with Norway, as well as investment from its massive, petroleum-based sovereign wealth fund.",
+      "url": "https://www.cbc.ca/news/politics/carney-norway-arctic-9.7351679",
+      "urlToImage": "https://i.cbc.ca/ais/7b56cc5e-c930-428f-a0ac-558df4aae638,1789952125796/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C375%2C5746%2C3232%29%3BResize%3D620",
+      "publishedAt": "2026-09-21T01:36:21Z",
+      "content": "Prime Minister Mark Carney says his focus on building international relationships, including with Norway, is part of the answer to renewed threats from Russia.\r\nDuring a news conference with Norwegia\u2026 [+3269 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1262,19 +1275,6 @@
       "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/719d/live/40d8a330-b4ac-11f1-bc1f-3f186ca4140c.jpg",
       "publishedAt": "2026-09-20T05:04:54Z",
       "content": "At least two people have been killed and six injured in a \"massive\" overnight Ukrainian drone attack on the Moscow region, Governor Andrei Vorobyev has said.\r\nVorobyev said 249 drones had been shot d\u2026 [+1892 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wattsupwiththat.com"
-      },
-      "author": "Guest Blogger",
-      "title": "As a Former Head of MI6 it\u2019s Clear That Britain\u2019s Climate Policy is Leaving Us Dangerously Exposed to Our Enemies",
-      "description": "The UK's climate policy is undermining national security, says former MI6 head Sir Richard Dearlove. \"As a country we have been drifting and we are dangerously exposed.\"\nThe post As a Former Head of MI6 it\u2019s Clear That Britain\u2019s Climate Policy is Leaving Us D\u2026",
-      "url": "https://wattsupwiththat.com/2026/09/19/as-a-former-head-of-mi6-its-clear-that-britains-climate-policy-is-leaving-us-dangerously-exposed-to-our-enemies/",
-      "urlToImage": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/09/richard-dearlove-GWPF.webp?fit=1024%2C512&quality=75&ssl=1",
-      "publishedAt": "2026-09-20T05:00:00Z",
-      "content": "The UK\u2019s climate policy is undermining national security, says former MI6 head Sir Richard Dearlove. \u201cAs a country we have been drifting and we are dangerously exposed.\u201d Read his full lecture on the \u2026 [+20308 chars]"
     }
   ]
 }

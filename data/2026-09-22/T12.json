@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Activistpost.com"
+      },
+      "author": "Editor",
+      "title": "\u201cRogue AI Agents\u201d Aren\u2019t Rogue, They\u2019re Fulfilling Their Functional Goal: Automating Sociopathology",
+      "description": "Add all this up and what we\u2019re hyper-hurriedly \u201cmanufacturing\u201d is an automated army of self-cloaking digital sociopaths. Since the status quo is characterized by self-serving PR, misdirection and delusions, it shouldn\u2019t surprise us that \u201crogue AI agents\u201d aren\u2026",
+      "url": "https://activistpost.com/rogue-ai-agents-arent-rogue-theyre-fulfilling-their-functional-goal-automating-sociopathology/",
+      "urlToImage": "https://activistpost.com/wp-content/uploads/2026/09/istockphoto-2265889718-612x612-1.jpg",
+      "publishedAt": "2026-09-21T01:19:00Z",
+      "content": "Add all this up and what we\u2019re hyper-hurriedly \u201cmanufacturing\u201d is an automated army of self-cloaking digital sociopaths.\r\nSince the status quo is characterized by self-serving PR, misdirection and de\u2026 [+6664 chars]"
+    },
     {
       "source": {
         "id": null,
