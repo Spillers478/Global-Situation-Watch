@@ -29,6 +29,11 @@ jobs:
           NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
         run: python scripts/fetch_news.py
 
+      - name: Generate BLUF + per-topic narrative synthesis
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/synthesize.py
+
       - name: Build briefing page
         run: python scripts/build_brief.py
 

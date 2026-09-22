@@ -3,10 +3,16 @@ Reads today's raw NewsAPI JSON from data/<date>/ and renders a static
 HTML briefing page to docs/index.html (served via GitHub Pages, which is
 configured to publish from /docs on the main branch -- see README).
 
-Keyword-retrieval only in this version -- no LLM relevance filtering or
-narrative synthesis is applied yet. Expect some noise (e.g. "strike"
-pulling in labor-action articles alongside airstrikes). See README
-"Known limitations" for the planned next iteration.
+If data/<date>/synthesis.json exists (written by synthesize.py), its BLUF
+overview is rendered at the top of the page and each topic section gets a
+short AI-written summary above its headlines. If that file is missing or
+empty (e.g. ANTHROPIC_API_KEY wasn't set), the page falls back to
+headline-only display -- this script never depends on synthesis having
+run.
+
+Retrieval itself is still keyword-only (see topics.py) -- the synthesis
+layer makes the output more readable, it doesn't fix false positives in
+what got retrieved. See README "Known limitations."
 """
 import json
 import sys
@@ -54,18 +60,28 @@ def render_article(a):
     </article>"""
 
 
-def render_section(section_id, label, articles, badge=None, limit=None):
+def render_section(section_id, label, articles, badge=None, limit=None, narrative=None):
     shown = articles[:limit] if limit else articles
     if not shown:
         body = '<p class="empty">No matching articles in this window.</p>'
     else:
         body = "\n".join(render_article(a) for a in shown)
     badge_html = f'<span class="badge badge-{badge}">{escape(badge)}</span>' if badge else ""
+    narrative_html = f'<p class="narrative">{escape(narrative)}</p>' if narrative else ""
     return f"""
   <section class="topic" id="{escape(section_id)}">
     <h2>{escape(label)} {badge_html}<span class="count">{len(articles)}</span></h2>
+    {narrative_html}
     {body}
   </section>"""
+
+
+def load_synthesis(data_dir):
+    path = data_dir / "synthesis.json"
+    if not path.exists():
+        return {"bluf": None, "topics": {}}
+    with open(path) as f:
+        return json.load(f)
 
 
 def main():
@@ -75,12 +91,19 @@ def main():
         print(f"No data directory for {today} -- run fetch_news.py first.", file=sys.stderr)
         sys.exit(1)
 
+    synthesis = load_synthesis(data_dir)
+    topic_narratives = synthesis.get("topics") or {}
+    bluf = synthesis.get("bluf")
+
     sections = []
 
     # Tier 1 flagships get top billing
     for flagship in TIER1:
         arts = dedupe(load_articles(data_dir, flagship["id"]))
-        sections.append(render_section(flagship["id"], flagship["label"], arts, badge="flagship"))
+        sections.append(render_section(
+            flagship["id"], flagship["label"], arts, badge="flagship",
+            narrative=topic_narratives.get(flagship["id"]),
+        ))
         us_lens = dedupe(load_articles(data_dir, f"{flagship['id']}-us-lens"))
         if us_lens:
             sections.append(render_section(
@@ -97,9 +120,20 @@ def main():
             arts = dedupe(load_articles(data_dir, topic["id"]))
             badge = "tripwire" if topic["tier"] == "tripwire" else None
             label = f"{topic['id']} — {topic['label']}"
-            sections.append(render_section(topic["id"], label, arts, badge=badge))
+            sections.append(render_section(
+                topic["id"], label, arts, badge=badge,
+                narrative=topic_narratives.get(topic["id"]),
+            ))
 
-    html = TEMPLATE.format(date=today, sections="\n".join(sections))
+    bluf_html = ""
+    if bluf:
+        bluf_html = f"""
+  <section class="bluf">
+    <h2>BLUF</h2>
+    <p>{escape(bluf)}</p>
+  </section>"""
+
+    html = TEMPLATE.format(date=today, bluf=bluf_html, sections="\n".join(sections))
 
     docs_dir = ROOT / "docs"
     docs_dir.mkdir(exist_ok=True)
@@ -155,6 +189,26 @@ TEMPLATE = """<!DOCTYPE html>
     margin: 0 auto;
     padding: 0 1.5rem;
   }}
+  section.bluf {{
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-left: 3px solid var(--accent);
+    border-radius: 6px;
+    padding: 1.25rem 1.5rem;
+    margin: 1.75rem 0;
+  }}
+  section.bluf h2 {{
+    margin: 0 0 0.6rem;
+    font-size: 0.75rem;
+    letter-spacing: 0.08em;
+    color: var(--accent);
+    text-transform: uppercase;
+  }}
+  section.bluf p {{
+    margin: 0;
+    font-size: 0.95rem;
+    line-height: 1.55;
+  }}
   section.topic {{
     border-top: 1px solid var(--border);
     padding: 1.75rem 0;
@@ -165,6 +219,16 @@ TEMPLATE = """<!DOCTYPE html>
     display: flex;
     align-items: center;
     gap: 0.5rem;
+  }}
+  .narrative {{
+    font-size: 0.9rem;
+    line-height: 1.5;
+    color: var(--text);
+    background: var(--panel);
+    border-left: 2px solid var(--accent);
+    padding: 0.6rem 0.9rem;
+    margin: 0 0 1.1rem;
+    border-radius: 0 4px 4px 0;
   }}
   .count {{
     margin-left: auto;
@@ -210,6 +274,7 @@ TEMPLATE = """<!DOCTYPE html>
   <p>{date} &middot; keyword-retrieval build &middot; NewsAPI Developer tier &middot; refreshed daily via GitHub Actions</p>
 </header>
 <main>
+{bluf}
 {sections}
 </main>
 </body>
