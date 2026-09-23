@@ -121,6 +121,37 @@ TIER1 = [
         "newsdata_query": 'Iran AND (Israel OR strike OR nuclear OR missile OR Hezbollah OR Houthi)',
         "us_lens_query": "Iran",
     },
+    {
+        # Two-gate design (hazard AND access/infrastructure effect) instead
+        # of a flat keyword-OR list like the other flagships: a bare
+        # "earthquake" or "flood" query would be almost entirely routine
+        # weather/disaster reporting. Gating on an infrastructure-access
+        # term (airport/port closure, grid/pipeline/bridge disruption,
+        # evacuation) narrows this to disasters that actually deny access
+        # or degrade infrastructure -- the operationally relevant subset,
+        # not disaster news in general.
+        "id": "T15",
+        "label": "Disaster / Access Denial",
+        "severity": 7,
+        "query": '(earthquake OR quake OR volcano OR eruption OR typhoon OR cyclone OR hurricane OR '
+                  'tsunami OR flood OR flooding OR landslide OR mudslide OR wildfire) AND '
+                  '("airport closed" OR "airspace closed" OR "port closed" OR "port suspended" OR '
+                  'runway OR airfield OR seaport OR harbor OR strait OR "shipping lane" OR '
+                  '"power grid" OR refinery OR pipeline OR "bridge collapse" OR "rail line" OR '
+                  '"flights suspended" OR "road severed" OR evacuation)',
+        "search_in": "title,description",
+        # Hand-shortened for newsdata's 100-char q cap (see topics.py's
+        # "newsdata_query" docs above) -- keeps the strongest hazard/access
+        # terms from each gate rather than the full list.
+        "newsdata_query": '(earthquake OR hurricane OR tsunami) AND (runway OR "power grid" OR evacuation)',
+        # Disaster-access stories are far more time-perishable than most
+        # other topics here (an airport reopens or a grid comes back in
+        # hours, not days) -- narrows newsdata's lookback window from its
+        # 48h free-tier default to 24h. NewsAPI has no equivalent per-query
+        # knob; its own ~24h article delay already limits how fresh a
+        # /everything result can be regardless.
+        "newsdata_timeframe": 24,
+    },
 ]
 
 # tier: "tripwire" | "slow" | "event"  (mirrors the mil-awareness-brief taxonomy)

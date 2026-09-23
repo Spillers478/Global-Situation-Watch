@@ -15,11 +15,12 @@ automated publishing) using only publicly available data.
 
 Every day, a GitHub Actions workflow:
 
-1. Queries NewsAPI for the two flagship flashpoints (Russia/Ukraine,
-   Iran/Israel/Middle East) plus the full 14-topic taxonomy sweep
-   (humanitarian crisis, nuclear activity, coups, cyberattacks,
-   migration, etc. -- see `scripts/topics.py`) -- `scripts/fetch_news.py`.
-1b. Runs the same 16 queries against newsdata.io's `/latest` endpoint --
+1. Queries NewsAPI for the three flagship flashpoints (Russia/Ukraine,
+   Iran/Israel/Middle East, Disaster/Access Denial) plus the full
+   14-topic taxonomy sweep (humanitarian crisis, nuclear activity, coups,
+   cyberattacks, migration, etc. -- see `scripts/topics.py`) --
+   `scripts/fetch_news.py`.
+1b. Runs the same 17 queries against newsdata.io's `/latest` endpoint --
    `scripts/fetch_newsdata.py` -- normalizes its article schema to match
    NewsAPI's, and merges the result into the *same* per-topic files from
    step 1, deduped by article URL. This is a second retrieval source
@@ -85,7 +86,7 @@ rather than Haiku.
 
 ## Scope
 
-Both the two flagship topics and the full 14-topic taxonomy are fetched
+Both the three flagship topics and the full 14-topic taxonomy are fetched
 and rendered daily by default (`TOPIC_SWEEP_ENABLED = True` in
 `scripts/topics.py`). Since this is keyword-only retrieval (see "Known
 limitations" below), expect the broader/vaguer topics -- things like
@@ -101,29 +102,29 @@ allowance. One full daily run uses:
 
 | Query | Requests |
 |---|---|
-| 2 flagship topics via `/everything` | 2 |
-| 2 flagship "US media lens" via `/top-headlines` | 2 |
+| 3 flagship topics via `/everything` | 3 |
+| 2 flagship "US media lens" via `/top-headlines` (T15 has none -- see topics.py) | 2 |
 | 14-topic taxonomy sweep via `/everything` | 14 |
-| **Total per run** | **18** |
+| **Total per run** | **19** |
 
-That leaves ~82 requests/day of headroom for manual testing, pagination
+That leaves ~81 requests/day of headroom for manual testing, pagination
 on high-volume days, or adding topics later. `scripts/fetch_news.py`
 also has a hardcoded safety ceiling (`MAX_REQUESTS`) so a scheduling
 mistake (e.g. an accidental duplicate run) can never silently blow
 through the daily cap.
 
-**newsdata.io** (`scripts/fetch_newsdata.py`) runs the same 16 queries
-(2 flagships + 14-topic sweep, no separate "US lens" equivalent -- see
+**newsdata.io** (`scripts/fetch_newsdata.py`) runs the same 17 queries
+(3 flagships + 14-topic sweep, no separate "US lens" equivalent -- see
 below) against the `/latest` endpoint:
 
 | Query | Requests (credits) |
 |---|---|
-| 2 flagship topics | 2 |
+| 3 flagship topics | 3 |
 | 14-topic taxonomy sweep | 14 |
-| **Total per run** | **16** |
+| **Total per run** | **17** |
 
 newsdata's free plan allows **200 credits/day** and **30 credits per 15
-minutes**, so one run at 16 credits (paced ~1.5s apart, well under the
+minutes**, so one run at 17 credits (paced ~1.5s apart, well under the
 15-minute window) uses a small fraction of both caps -- plenty of
 headroom for manual re-runs. `fetch_newsdata.py` has its own
 `MAX_REQUESTS` safety ceiling, same rationale as NewsAPI's. Each
@@ -135,7 +136,7 @@ catching stories NewsAPI's index missed, not duplicating volume.
 ### Testing without spending a sweep
 
 `fetch_newsdata.py` has two flags so you never have to burn a full
-16-credit sweep (or a CI run) to find out something is misconfigured:
+17-credit sweep (or a CI run) to find out something is misconfigured:
 
 ~~~
 python scripts/fetch_newsdata.py --dry-run       # 0 credits
@@ -152,8 +153,8 @@ plan) without guessing.
 The script also aborts the sweep after 3 consecutive API errors
 (`MAX_CONSECUTIVE_ERRORS`). Every topic sends a structurally identical
 request, so a systemic problem -- bad key, a param this plan doesn't
-allow, rate limit, API outage -- would otherwise fail 16 times and spend
-16 credits to learn the same thing once.
+allow, rate limit, API outage -- would otherwise fail 17 times and spend
+17 credits to learn the same thing once.
 
 ### Re-running a failed workflow
 
@@ -177,7 +178,9 @@ cycle.
 
 **Synthesis** (`synthesize.py`, Claude Haiku) makes exactly **one**
 batched call per day, capped at 12 articles/topic. Rough estimate at
-this scope (16 topics, ~15K input tokens, ~1.5K output tokens per run):
+this scope (17 topics, ~15K input tokens, ~1.5K output tokens per run --
+one more topic than when this was first estimated, not large enough to
+move these numbers meaningfully):
 
 | | Rate | Per run | Per month |
 |---|---|---|---|
@@ -190,7 +193,7 @@ this scope (16 topics, ~15K input tokens, ~1.5K output tokens per run):
 retrieved article (not a summary), capped at 25/topic, and Sonnet costs
 more per token than Haiku. Two scenarios:
 
-| | Typical day (~100-150 articles total) | Worst case (all 16 topics maxed, 400 articles) |
+| | Typical day (~100-150 articles total) | Worst case (all 17 topics maxed, ~425 articles) |
 |---|---|---|
 | Input tokens | ~6-8K | ~20K |
 | Output tokens | ~2-3K | ~7-8K |

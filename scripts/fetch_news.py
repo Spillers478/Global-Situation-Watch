@@ -114,8 +114,14 @@ def main():
             flagship["query"], from_date, to_date, search_in=flagship.get("search_in")
         )
         time.sleep(REQUEST_PAUSE_SECONDS)
-        results[f"{flagship['id']}-us-lens"] = fetch_us_lens(flagship["us_lens_query"])
-        time.sleep(REQUEST_PAUSE_SECONDS)
+        # us_lens_query is optional -- not every flagship has a meaningful
+        # "US media attention" angle (T15 Disaster/Access Denial doesn't;
+        # it's not a foreign-policy story the way Russia/Ukraine or
+        # Iran/Israel are). Skip the -us-lens fetch entirely when absent
+        # rather than requiring every flagship to define one.
+        if flagship.get("us_lens_query"):
+            results[f"{flagship['id']}-us-lens"] = fetch_us_lens(flagship["us_lens_query"])
+            time.sleep(REQUEST_PAUSE_SECONDS)
 
     if TOPIC_SWEEP_ENABLED:
         for topic in TOPICS:

@@ -96,7 +96,7 @@ def _get(params):
     return data
 
 
-def fetch_latest(query, search_in=None):
+def fetch_latest(query, search_in=None, timeframe=None):
     params = {
         "language": "en",
         "excludedomain": _EXCLUDE_DOMAINS,
@@ -105,11 +105,20 @@ def fetch_latest(query, search_in=None):
     }
     # newsdata uses a dedicated qInTitle param instead of a searchIn flag
     # alongside q -- see topics.py "search_in" comments (same per-topic
-    # decision NewsAPI's searchIn="title" encodes).
+    # decision NewsAPI's searchIn="title" encodes). Anything other than
+    # exactly "title" (e.g. NewsAPI's "title,description" combo, which
+    # newsdata has no equivalent narrower param for) falls back to a plain
+    # q search across all fields -- the closest available approximation.
     if search_in == "title":
         params["qInTitle"] = query
     else:
         params["q"] = query
+    # Optional per-topic override of newsdata's lookback window (free tier
+    # defaults to 48h). Time-perishable topics (see topics.py's T15
+    # "newsdata_timeframe" comment) can narrow this; most topics omit it
+    # and get the plan default.
+    if timeframe:
+        params["timeframe"] = timeframe
     return _get(params)
 
 
@@ -217,7 +226,8 @@ def main(argv=None):
     # fall back to the full NewsAPI-tuned query for any topic that hasn't
     # gotten a shortened version yet.
     def _target(t):
-        return (t["id"], t["label"], t.get("newsdata_query", t["query"]), t.get("search_in"))
+        return (t["id"], t["label"], t.get("newsdata_query", t["query"]), t.get("search_in"),
+                t.get("newsdata_timeframe"))
 
     targets = [_target(t) for t in TIER1]
     if TOPIC_SWEEP_ENABLED:
@@ -234,17 +244,18 @@ def main(argv=None):
 
     if dry_run:
         print("DRY RUN -- no requests sent, no credits spent.\n")
-        for key, label, query, search_in in targets:
+        for key, label, query, search_in, timeframe in targets:
             field = "qInTitle" if search_in == "title" else "q"
             status = "OK" if len(query) <= 100 else "TOO LONG (cap 100)"
+            tf_note = f", timeframe={timeframe}h" if timeframe else ""
             print(f"{key} - {label}")
-            print(f"  {field} ({len(query)} chars, {status}): {query}")
+            print(f"  {field} ({len(query)} chars, {status}{tf_note}): {query}")
         print(f"\n{len(targets)} topic(s) would be fetched = {len(targets)} credit(s).")
         return
 
     total_added = 0
     consecutive_errors = 0
-    for idx, (key, label, query, search_in) in enumerate(targets):
+    for idx, (key, label, query, search_in, timeframe) in enumerate(targets):
         print(f"Fetching (newsdata.io): {key} - {label}")
         if len(query) > 100:
             # Safety net, not the primary control -- topics.py's
@@ -257,7 +268,7 @@ def main(argv=None):
                   f"Add/shorten its newsdata_query in topics.py.", file=sys.stderr)
             continue
         try:
-            raw = fetch_latest(query, search_in=search_in)
+            raw = fetch_latest(query, search_in=search_in, timeframe=timeframe)
         except RuntimeError:
             raise  # the MAX_REQUESTS / missing-key ceilings are meant to stop the whole run
         except Exception as e:
