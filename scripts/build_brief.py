@@ -44,6 +44,7 @@ from pathlib import Path
 from html import escape
 
 from topics import TIER1, TOPICS, TOPIC_SWEEP_ENABLED
+from sources import SOURCE_ORIGIN
 
 ROOT = Path(__file__).resolve().parent.parent
 
@@ -142,6 +143,8 @@ def render_article(a):
     # Set by redteam.py when it ran: which combatant command's AOR the
     # article is contextually about, and -- if it moved the article here
     # from a different topic -- a small transparency note about that.
+    # This is "what region is this story about," independent of who wrote
+    # it -- see origin_html below for the separate "who wrote it" signal.
     cocom = a.get("cocom")
     cocom_html = f'<span class="cocom-tag">{escape(cocom)}</span>' if cocom else ""
     moved_from = a.get("_original_topic_id")
@@ -149,10 +152,27 @@ def render_article(a):
         f'<span class="moved-tag">reassigned from {escape(moved_from)}</span>' if moved_from else ""
     )
 
+    # Hand-maintained metadata about the outlet itself (sources.py) --
+    # where it's edited from, and separately, where its audience actually
+    # sits when that's been looked up. Distinct from cocom_html above:
+    # that tag is about the story, this one is about the outlet.
+    origin = SOURCE_ORIGIN.get(source_name)
+    origin_html = ""
+    if origin:
+        origin_label = origin["country"]
+        if origin["cocom"] != "Global":
+            origin_label += f" · {origin['cocom']}"
+        origin_html = f'<span class="origin-tag" title="Where this outlet is edited from">{escape(origin_label)}</span>'
+        if origin.get("audience"):
+            origin_html += (
+                f'<span class="audience-tag" title="Where this outlet\'s readership actually sits '
+                f'(may differ from where it\'s published)">audience: {escape(origin["audience"])}</span>'
+            )
+
     return f"""
     <article class="item">
       <a class="item-title" href="{url}" target="_blank" rel="noopener">{title}</a>
-      <div class="item-meta">{escape(source_name)} {trusted_html}{cocom_html}{moved_html}&middot; {published}</div>
+      <div class="item-meta">{escape(source_name)} {trusted_html}{origin_html}{cocom_html}{moved_html}&middot; {published}</div>
       <p class="item-desc">{escape(desc)}</p>
       {extra_html}
     </article>"""
@@ -285,6 +305,7 @@ TEMPLATE = """<!DOCTYPE html>
     --accent: #4d9fff;
     --tripwire: #ff5a5a;
     --flagship: #ffb545;
+    --origin: #4ddb9e;
   }}
   * {{ box-sizing: border-box; }}
   body {{
@@ -425,6 +446,33 @@ TEMPLATE = """<!DOCTYPE html>
     font-style: italic;
     margin-right: 0.35rem;
   }}
+  .origin-tag {{
+    color: var(--origin);
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    border: 1px solid rgba(77,219,158,0.35);
+    border-radius: 3px;
+    padding: 0.05rem 0.35rem;
+    margin-right: 0.35rem;
+    cursor: help;
+  }}
+  .audience-tag {{
+    color: var(--muted);
+    font-size: 0.65rem;
+    font-style: italic;
+    margin-right: 0.35rem;
+    cursor: help;
+  }}
+  .legend {{
+    max-width: 860px;
+    margin: 0.9rem auto 0;
+    padding: 0 1.5rem;
+    font-size: 0.75rem;
+    color: var(--muted);
+    line-height: 1.6;
+  }}
+  .legend span {{ white-space: nowrap; margin-right: 0.9rem; }}
   .empty {{ color: var(--muted); font-size: 0.85rem; font-style: italic; }}
   .topic-nav {{
     position: sticky;
@@ -474,6 +522,12 @@ TEMPLATE = """<!DOCTYPE html>
   <h1>Global Situation Watch</h1>
   <p>{date} &middot; keyword-retrieval build &middot; NewsAPI Developer tier &middot; refreshed daily via GitHub Actions</p>
 </header>
+<div class="legend">
+  <span><span class="trusted-tag" style="margin-right:0.3rem">wire service</span>recognized wire/broadcast source</span>
+  <span><span class="origin-tag" style="margin-right:0.3rem">country · AOR</span>where the outlet is edited from</span>
+  <span><span class="cocom-tag" style="margin-right:0.3rem">AOR</span>what region the story is about</span>
+  <span><span class="audience-tag" style="margin-right:0.3rem">audience: ...</span>where the outlet's readers actually are, when known</span>
+</div>
 {nav}
 <main>
 {bluf}

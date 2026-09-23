@@ -52,7 +52,8 @@ Every day, a GitHub Actions workflow:
    description) a second paragraph of extra detail. Articles from
    recognized wire services and national broadcasters (Reuters, AP, BBC,
    Al Jazeera, etc.) are sorted to the front of each list and tagged
-   "wire service" -- see `TRUSTED_SOURCES` in `build_brief.py`. Each
+   "wire service" -- see `TRUSTED_SOURCES` in `build_brief.py`. A page
+   legend under the header explains what each badge means. Each
    section is capped to a preview per topic, with the rest behind a
    "show more" toggle -- see "Known limitations" for why noisier topics
    can still run long.
@@ -288,19 +289,49 @@ narrative summaries.
   and deduped by URL, so build_brief.py, redteam.py, and synthesize.py
   never need to know which source an article came from.
 
-## Roadmap idea: regional coverage / bias comparison
+## Source origin and audience-reach tagging
 
-The "US Media Lens" subsection under each flagship (a `/top-headlines`
-pull scoped to `country=us`) is a narrow version of a bigger idea: pulling
-the same story from multiple regional press pools (e.g. Western, African,
-Chinese, Middle Eastern outlets) side by side to make editorial framing
-differences visible -- a real signal for spotting bias or propaganda, not
-just "what happened." Not built yet. The main blocker is that NewsAPI
-doesn't expose a source's country/region as queryable metadata, so this
-would need a hand-maintained domain-to-region mapping (similar in spirit
-to `TRUSTED_SOURCES` in `build_brief.py`) plus a region-scoped query per
-flagship topic, generalizing the existing `us_lens_query` pattern in
-`topics.py`. Worth prioritizing once the core taxonomy is stable.
+Every article carries a `cocom` tag already (see above) for what region
+the *story* is about. `scripts/sources.py` adds a second, independent
+tag for what country the *outlet* is published out of -- e.g. an
+Iran/Israel story (content COCOM: USCENTCOM) reported by Al Jazeera
+(origin: Qatar, also USCENTCOM) reads differently than the same story
+picked up by RT (origin: Russia, USEUCOM). Neither NewsAPI nor
+newsdata.io exposes a source's home country as queryable metadata, so
+`SOURCE_ORIGIN` is a hand-maintained `{source name: {country, cocom}}`
+table, same pattern and same key space as `TRUSTED_SOURCES` in
+`build_brief.py` (both keyed on the exact `source.name` string the
+article carries). It ships with ~40 entries: the global wires already in
+`TRUSTED_SOURCES`, plus the most common bylines actually observed in a
+real day's data across both providers. A source with no entry just shows
+no origin badge -- adding one is additive, never a gate. See
+`sources.py`'s module docstring for the full reasoning, including why
+global wires (Reuters, AP, AFP, Bloomberg) get tagged `"Global"` rather
+than their HQ country's regional AOR.
+
+A third field, `audience`, is separate again and answers a different
+question: not where an outlet is edited, but where its *readers*
+actually are -- useful for spotting an outlet with outsized reach into a
+region its own newsroom isn't based in. There's no free API for this
+(SimilarWeb doesn't offer one), so it's populated by hand, opportunistically,
+from whatever's been looked up (SimilarWeb or similar), and renders as a
+distinct "audience: ..." badge only when present -- most entries won't
+have it, and nothing blocks on filling it in. `sources.py`'s `TechRadar`
+entry is a worked example, and thepaperboy.com or world-newspapers.com
+(both browseable by country) are useful references for looking up an
+unfamiliar outlet's home country when adding new entries.
+
+## Roadmap idea: COCOM-first page layout
+
+The page is currently organized topic-first (Military Conflict, then
+Humanitarian Crisis, etc.), each section mixing stories from every
+region. A COCOM-first layout -- one BLUF per COCOM with its supporting
+articles underneath, using the per-article `cocom` tag redteam.py
+already computes -- would read more like a regional watch than a topic
+index. Not built yet; it's a real restructuring of `build_brief.py`'s
+page generation (and probably `synthesize.py`'s narrative pass, to write
+a per-COCOM BLUF instead of a per-topic one), deliberately deferred until
+source-origin tagging has been seen on a real page.
 
 ## Setup
 
