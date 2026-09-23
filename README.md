@@ -47,17 +47,19 @@ Every day, a GitHub Actions workflow:
 5. Renders a static briefing page to `docs/index.html`: a jump-to-topic
    nav bar (plain-language topic names, not internal codes), the BLUF up
    top, then each topic's AI summary with its supporting articles
-   underneath -- source name, description, a combatant-command tag, a
-   "reassigned from <topic>" note when the red team pass moved it, and
-   (when NewsAPI's truncated `content` field adds anything beyond the
-   description) a second paragraph of extra detail. Articles from
-   recognized wire services and national broadcasters (Reuters, AP, BBC,
-   Al Jazeera, etc.) are sorted to the front of each list and tagged
-   "wire service" -- see `TRUSTED_SOURCES` in `build_brief.py`. A page
-   legend under the header explains what each badge means. Each
-   section is capped to a preview per topic, with the rest behind a
-   "show more" toggle -- see "Known limitations" for why noisier topics
-   can still run long.
+   underneath -- source name, description, a "reassigned from <topic>"
+   note when the red team pass moved it, and (when NewsAPI's truncated
+   `content` field adds anything beyond the description) a second
+   paragraph of extra detail. Articles from recognized wire services and
+   national broadcasters (Reuters, AP, BBC, Al Jazeera, etc.) are sorted
+   to the front of each list -- see `TRUSTED_SOURCES` in
+   `build_brief.py` -- but the page itself keeps that, the COCOM tag,
+   and the source-origin/audience metadata (below) as backing data only,
+   not visible badges: readers care more about the story than that
+   categorization, as long as the topics themselves and the supporting
+   articles behind each BLUF are still there. Each section is capped to
+   a preview per topic, with the rest behind a "show more" toggle -- see
+   "Known limitations" for why noisier topics can still run long.
 6. Commits everything back to the repo. GitHub Pages (configured to
    serve from `/docs`) picks up the change automatically.
 
@@ -188,39 +190,51 @@ move these numbers meaningfully):
 | Output | $5 / MTok | ~$0.0075 | ~$0.23 |
 | **Total** | | **~$0.02/day** | **~$0.70/month** |
 
-**Red team classification** (`redteam.py`, Claude Sonnet) also makes
-**one** batched call per day, but it's a bigger one -- it sends every
-retrieved article (not a summary), capped at 25/topic, and Sonnet costs
-more per token than Haiku. Two scenarios:
+**Red team classification** (`redteam.py`, Claude Sonnet) makes **one
+call per topic** (up to ~17/day), not one big batched call -- see the
+top of `redteam.py` for why. Each call sends only that topic's own
+retrieved articles (capped at 25), plus a fixed ~600-700 token block
+(the full topic list + COCOM definitions) repeated on every call so
+cross-topic reassignment still works. Sonnet costs more per token than
+Haiku. Two scenarios:
 
 | | Typical day (~100-150 articles total) | Worst case (all 17 topics maxed, ~425 articles) |
 |---|---|---|
-| Input tokens | ~6-8K | ~20K |
+| Input tokens | ~16-19K (incl. ~10-12K of repeated per-call overhead) | ~32K (incl. ~12K overhead) |
 | Output tokens | ~2-3K | ~7-8K |
-| Input cost ($2/MTok) | ~$0.01-0.02 | ~$0.04 |
+| Input cost ($2/MTok) | ~$0.03-0.04 | ~$0.06 |
 | Output cost ($10/MTok) | ~$0.02-0.03 | ~$0.07-0.08 |
-| **Total** | **~$0.04/day (~$1.10/month)** | **~$0.11/day (~$3.40/month)** |
+| **Total** | **~$0.06/day (~$1.70/month)** | **~$0.14/day (~$4.20/month)** |
 
 Realistically, expect something between those two rows most days --
 the noise-reduction work in `topics.py` means most topics return far
 fewer than 25 articles/day in practice, so the typical-day column is
 the more likely one, but a genuinely high-volume news day (e.g. an
 active flagship crisis) can push several topics toward the cap at
-once, which is what the worst-case column models. The worst case also
-sits close to `redteam.py`'s `max_tokens=8192` output ceiling; if real
-usage regularly approaches 400 articles/day, that ceiling may need
-raising (the JSON response would otherwise truncate and fail to
-parse -- which is handled gracefully, see below, but would mean losing
-that day's classification).
+once, which is what the worst-case column models. Splitting the single
+batched call into one call per topic costs a bit more in repeated
+overhead (the ~$0.02-0.03/day delta above), but each call's own output
+is now capped at 25 articles' worth of JSON no matter how busy the
+overall day is -- a `max_tokens=8192` ceiling was previously a real
+truncation risk on a 425-article day (~10,900 tokens needed against an
+8,192 ceiling), silently discarding *every* topic's classification at
+once. That failure mode is gone: `MAX_TOKENS_PER_CALL=4096` in
+`redteam.py` now has roughly 4x headroom over any single topic's real
+output, and a truncation or any other failure on one topic's call only
+falls that one topic back to raw retrieval (recorded in
+`data/<date>/redteam/_errors.json`, including the model's `stop_reason`
+when truncation is the cause) -- it can no longer take every other
+topic down with it.
 
-**Combined**, that's roughly **$0.06/day (~$1.80/month) typical**, up
-to **~$0.13/day (~$4.10/month) worst case** for the full pipeline. If
-`ANTHROPIC_API_KEY` isn't set, or either call fails or returns
-something that can't be parsed, that stage is skipped rather than
-raising -- `redteam.py` leaves the raw retrieval untouched and
-`synthesize.py` writes an empty result, so the page still builds, just
-without relevance filtering/COCOM tags and/or without the BLUF and
-narrative summaries.
+**Combined**, that's roughly **$0.08/day (~$2.40/month) typical**, up
+to **~$0.16/day (~$4.90/month) worst case** for the full pipeline. If
+`ANTHROPIC_API_KEY` isn't set, that stage is skipped entirely rather
+than raising. If it is set: `synthesize.py`'s one call failing or
+returning something unparseable makes it write an empty result, so the
+page still builds without the BLUF and narrative summaries;
+`redteam.py`'s per-topic calls fail independently of each other, so a
+failure only leaves that one topic's raw retrieval unfiltered/untagged
+(see above) -- the rest of the page is unaffected either way.
 
 ## Known limitations
 
@@ -292,7 +306,7 @@ narrative summaries.
   and deduped by URL, so build_brief.py, redteam.py, and synthesize.py
   never need to know which source an article came from.
 
-## Source origin and audience-reach tagging
+## Source origin and audience-reach tagging (backing data, not shown on the page)
 
 Every article carries a `cocom` tag already (see above) for what region
 the *story* is about. `scripts/sources.py` adds a second, independent
@@ -306,23 +320,31 @@ table, same pattern and same key space as `TRUSTED_SOURCES` in
 `build_brief.py` (both keyed on the exact `source.name` string the
 article carries). It ships with ~40 entries: the global wires already in
 `TRUSTED_SOURCES`, plus the most common bylines actually observed in a
-real day's data across both providers. A source with no entry just shows
-no origin badge -- adding one is additive, never a gate. See
-`sources.py`'s module docstring for the full reasoning, including why
-global wires (Reuters, AP, AFP, Bloomberg) get tagged `"Global"` rather
-than their HQ country's regional AOR.
+real day's data across both providers. See `sources.py`'s module
+docstring for the full reasoning, including why global wires (Reuters,
+AP, AFP, Bloomberg) get tagged `"Global"` rather than their HQ country's
+regional AOR.
 
 A third field, `audience`, is separate again and answers a different
 question: not where an outlet is edited, but where its *readers*
 actually are -- useful for spotting an outlet with outsized reach into a
 region its own newsroom isn't based in. There's no free API for this
 (SimilarWeb doesn't offer one), so it's populated by hand, opportunistically,
-from whatever's been looked up (SimilarWeb or similar), and renders as a
-distinct "audience: ..." badge only when present -- most entries won't
-have it, and nothing blocks on filling it in. `sources.py`'s `TechRadar`
-entry is a worked example, and thepaperboy.com or world-newspapers.com
-(both browseable by country) are useful references for looking up an
-unfamiliar outlet's home country when adding new entries.
+from whatever's been looked up (SimilarWeb or similar). `sources.py`'s
+`TechRadar` entry is a worked example, and thepaperboy.com or
+world-newspapers.com (both browseable by country) are useful references
+for looking up an unfamiliar outlet's home country when adding new
+entries.
+
+The COCOM tag, source origin, and audience-reach data are all still
+computed and stored the same way (`cocom` on each article,
+`SOURCE_ORIGIN` in `sources.py`) -- `build_brief.py` just doesn't render
+any of it as a visible badge on the page anymore (nor a "wire service"
+badge for `TRUSTED_SOURCES`). The page kept getting busier with tags
+that mattered more to how this pipeline classifies a story than to a
+reader trying to read it; the underlying data is still there for
+anything built on top of it later (COCOM-first grouping, a future filter
+UI, etc.), it's just not printed on every article by default anymore.
 
 ## Roadmap idea: COCOM-first page layout
 

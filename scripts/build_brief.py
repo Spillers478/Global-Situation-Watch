@@ -31,10 +31,17 @@ excluded domains) lives in topics.py / fetch_news.py -- see topics.py
 - Articles are re-sorted (rank_articles) so recognized wire services and
   national broadcasters (Reuters, AP, BBC, Al Jazeera, etc. -- see
   TRUSTED_SOURCES) surface before blogs/aggregators covering the same
-  story, without hiding anything.
-- When redteam.py tagged an article with a combatant command (see that
-  file's VALID_COCOMS) or reassigned it from a different topic, that
-  shows as a small tag in the article's byline.
+  story, without hiding anything. This ordering is silent -- no "wire
+  service" badge is shown; it just changes which article a reader sees
+  first within a topic.
+- redteam.py's COCOM tag, and the source-origin/audience metadata in
+  sources.py, are still computed and still drive filtering and cross-
+  topic reassignment (see redteam.py) -- they're just not surfaced as
+  visible badges on the page. Readers said the topic itself and the
+  underlying story matter more than that categorization; when a redteam
+  pass reassigns an article from a different topic, that's still noted
+  in the byline (moved_html below), since it's directly relevant to
+  why the article appears where it does.
 """
 import json
 import re
@@ -44,7 +51,6 @@ from pathlib import Path
 from html import escape
 
 from topics import TIER1, TOPICS, TOPIC_SWEEP_ENABLED
-from sources import SOURCE_ORIGIN
 
 ROOT = Path(__file__).resolve().parent.parent
 
@@ -135,44 +141,21 @@ def render_article(a):
     if content and content != desc and content[:60] not in desc:
         extra_html = f'<p class="item-extra">{escape(content)}</p>'
 
-    trusted_html = (
-        '<span class="trusted-tag">wire service</span>'
-        if source_name in TRUSTED_SOURCES else ""
-    )
-
-    # Set by redteam.py when it ran: which combatant command's AOR the
-    # article is contextually about, and -- if it moved the article here
-    # from a different topic -- a small transparency note about that.
-    # This is "what region is this story about," independent of who wrote
-    # it -- see origin_html below for the separate "who wrote it" signal.
-    cocom = a.get("cocom")
-    cocom_html = f'<span class="cocom-tag">{escape(cocom)}</span>' if cocom else ""
+    # redteam.py may have moved this article here from a different topic --
+    # that's still worth a small transparency note in the byline, since it
+    # directly explains why the article shows up under this topic. The
+    # COCOM tag, wire-service tag, and source-origin/audience metadata are
+    # still computed upstream (they drive filtering and ranking) but aren't
+    # surfaced as reader-facing badges -- see the module docstring.
     moved_from = a.get("_original_topic_id")
     moved_html = (
         f'<span class="moved-tag">reassigned from {escape(moved_from)}</span>' if moved_from else ""
     )
 
-    # Hand-maintained metadata about the outlet itself (sources.py) --
-    # where it's edited from, and separately, where its audience actually
-    # sits when that's been looked up. Distinct from cocom_html above:
-    # that tag is about the story, this one is about the outlet.
-    origin = SOURCE_ORIGIN.get(source_name)
-    origin_html = ""
-    if origin:
-        origin_label = origin["country"]
-        if origin["cocom"] != "Global":
-            origin_label += f" · {origin['cocom']}"
-        origin_html = f'<span class="origin-tag" title="Where this outlet is edited from">{escape(origin_label)}</span>'
-        if origin.get("audience"):
-            origin_html += (
-                f'<span class="audience-tag" title="Where this outlet\'s readership actually sits '
-                f'(may differ from where it\'s published)">audience: {escape(origin["audience"])}</span>'
-            )
-
     return f"""
     <article class="item">
       <a class="item-title" href="{url}" target="_blank" rel="noopener">{title}</a>
-      <div class="item-meta">{escape(source_name)} {trusted_html}{origin_html}{cocom_html}{moved_html}&middot; {published}</div>
+      <div class="item-meta">{escape(source_name)} {moved_html}&middot; {published}</div>
       <p class="item-desc">{escape(desc)}</p>
       {extra_html}
     </article>"""
@@ -305,7 +288,6 @@ TEMPLATE = """<!DOCTYPE html>
     --accent: #4d9fff;
     --tripwire: #ff5a5a;
     --flagship: #ffb545;
-    --origin: #4ddb9e;
   }}
   * {{ box-sizing: border-box; }}
   body {{
@@ -420,66 +402,12 @@ TEMPLATE = """<!DOCTYPE html>
     border-top: 1px dashed var(--border);
     line-height: 1.45;
   }}
-  .trusted-tag {{
-    color: var(--accent);
-    font-size: 0.65rem;
-    text-transform: uppercase;
-    letter-spacing: 0.04em;
-    border: 1px solid rgba(77,159,255,0.35);
-    border-radius: 3px;
-    padding: 0.05rem 0.35rem;
-    margin-right: 0.35rem;
-  }}
-  .cocom-tag {{
-    color: var(--flagship);
-    font-size: 0.65rem;
-    text-transform: uppercase;
-    letter-spacing: 0.04em;
-    border: 1px solid rgba(255,181,69,0.35);
-    border-radius: 3px;
-    padding: 0.05rem 0.35rem;
-    margin-right: 0.35rem;
-  }}
   .moved-tag {{
     color: var(--muted);
     font-size: 0.65rem;
     font-style: italic;
     margin-right: 0.35rem;
   }}
-  .origin-tag {{
-    color: var(--origin);
-    font-size: 0.65rem;
-    text-transform: uppercase;
-    letter-spacing: 0.04em;
-    border: 1px solid rgba(77,219,158,0.35);
-    border-radius: 3px;
-    padding: 0.05rem 0.35rem;
-    margin-right: 0.35rem;
-    cursor: help;
-  }}
-  .audience-tag {{
-    color: var(--muted);
-    font-size: 0.65rem;
-    font-style: italic;
-    margin-right: 0.35rem;
-    cursor: help;
-  }}
-  .legend {{
-    max-width: 860px;
-    margin: 0.9rem auto 0;
-    padding: 0 1.5rem;
-    font-size: 0.75rem;
-    color: var(--muted);
-    line-height: 1.6;
-  }}
-  .legend span {{ white-space: nowrap; margin-right: 0.9rem; }}
-  .legend-example {{
-    margin: 0.6rem 0 0;
-    padding-top: 0.6rem;
-    border-top: 1px dashed var(--border);
-    line-height: 1.7;
-  }}
-  .legend-example em {{ color: var(--text); font-style: normal; font-weight: 600; }}
   .empty {{ color: var(--muted); font-size: 0.85rem; font-style: italic; }}
   .topic-nav {{
     position: sticky;
@@ -529,17 +457,6 @@ TEMPLATE = """<!DOCTYPE html>
   <h1>Global Situation Watch</h1>
   <p>{date} &middot; keyword-retrieval build &middot; NewsAPI Developer tier &middot; refreshed daily via GitHub Actions</p>
 </header>
-<div class="legend">
-  <div>
-    <span><span class="trusted-tag" style="margin-right:0.3rem">wire service</span>recognized wire/broadcast source</span>
-    <span><span class="origin-tag" style="margin-right:0.3rem">country · AOR</span>where the outlet is edited from</span>
-    <span><span class="cocom-tag" style="margin-right:0.3rem">AOR</span>what region the story is about</span>
-    <span><span class="audience-tag" style="margin-right:0.3rem">audience: ...</span>where the outlet's readers actually are, when known</span>
-  </div>
-  <p class="legend-example"><em>Illustrative example, not a real data point:</em> a Turkish outlet (<span class="origin-tag">Turkey &middot; USEUCOM</span>) reporting on an
-  Iran/Israel story (<span class="cocom-tag">USCENTCOM</span>) read mostly by an American audience
-  (<span class="audience-tag">audience: ~70% US</span>) would show all three &mdash; three separate facts about one article, not one.</p>
-</div>
 {nav}
 <main>
 {bluf}
