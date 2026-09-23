@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "totalResults": 1,
+  "articles": [
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Michael Birnbaum",
+      "title": "Trump seeks fertilizer deal with Russia ally Belarus amid Canadian tensions - The Washington Post",
+      "description": "The proposed potash purchases would expand trade with a country that helped Moscow launch its invasion of Ukraine.",
+      "url": "https://www.washingtonpost.com/politics/2026/09/21/trump-seeks-fertilizer-deal-with-russia-ally-belarus-amid-canadian-tensions/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4NDGJNJN3BLPC5G6F5KCJDXCE4_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-09-22T03:15:00Z",
+      "content": "The United States is seeking to broker a deal to purchase fertilizer from Belarus and rely less on Canada, the U.S. ally with which the White House has repeatedly tangled, President Donald Trump said\u2026 [+7 chars]"
+    }
+  ]
+}

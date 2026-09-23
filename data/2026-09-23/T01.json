@@ -1,0 +1,110 @@
+{
+  "status": "ok",
+  "totalResults": 8,
+  "articles": [
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "Kristian Silva",
+      "title": "Teen jailed over home invasion that traumatised Melbourne family",
+      "description": "A teenager linked to an aggravated home invasion in Melbourne's east that left a man with 11 stab wounds and permanent eye damage has been jailed for nearly three years.",
+      "url": "https://www.abc.net.au/news/2026-09-22/teenager-jailed-over-violent-kew-home-invasion/107181004",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/5110969c1807f052d50a66c8ade010f5?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-09-22T08:34:26Z",
+      "content": "Last August, Kai Li and his family were jolted awake just before 4am.\r\nIntruders had jumped the fence and were using garden shears to smash a downstairs window.\r\nSeconds later, Mr Li was face-to-face\u2026 [+3349 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "breakingthenews.net",
+      "title": "6 dead, 8 injured in airstrike reported in Yemen",
+      "description": "Saudi airstrike on residential areas in the Mokha district of Taiz governorate resulted in 14 casualties, Iranian news agency Tasnim reported, citing Yemeni sources.The airstrikes targeted a residenti...",
+      "url": "https://biztoc.com/x/0e9bdba6a934926a",
+      "urlToImage": "https://biztoc.com/cdn/0e9bdba6a934926a_s.webp",
+      "publishedAt": "2026-09-22T01:14:42Z",
+      "content": "Saudi airstrike on residential areas in the Mokha district of Taiz governorate resulted in 14 casualties, Iranian news agency Tasnim reported, citing Yemeni sources.The airstrikes targeted a resident\u2026 [+69 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Atozsports.com"
+      },
+      "author": "Ellie Williamson",
+      "title": "Tennessee's Front Line of Tension: Elite Potential Meets a Texas-Sized Test",
+      "description": "Tennessee's return to the ABC noon window at Neyland carries some history with it. The Vols haven't played this network in this slot at home since 1982, when they beat Florida. Now, with the spotlight back on Knoxville, Vol Nation is looking to show up in for\u2026",
+      "url": "https://atozsports.com/college-football/tennessee-vs-texas-sec-opener-heupel-preview/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c6928276d080ad375657dfa5d1e3f682a90fdfcbafb205abc8ae4b9839e95d46/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fatoz_sports_articles_485%2F2dea5c3b107d2f423f690f5ed7371085.jpg",
+      "publishedAt": "2026-09-22T00:29:29Z",
+      "content": "Tennessee's return to the ABC noon window at Neyland carries some history with it. The Vols haven't played this network in this slot at home since 1982, when they beat Florida. Now, with the spotligh\u2026 [+9819 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": null,
+      "title": "Two men assaulted following home invasion in Sydney's west",
+      "description": "Two men are in a serious condition after sustaining head injuries following a home invasion in Sydney's west.",
+      "url": "https://www.abc.net.au/news/2026-09-22/men-hospitalised-home-invasion-lalor-park-sydney/107180134",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/99694aece6c9164d841ac880d707d25f?impolicy=wcms_watermark_news&cropH=2592&cropW=4608&xPos=0&yPos=269&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-09-21T23:42:44Z",
+      "content": "Two men are in a serious condition after sustaining head injuries following a home invasion in Sydney's west.\r\nEmergency services were called to a Lalor Park property about 7:30am on Tuesday followin\u2026 [+446 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Ru Zhang, Yao Zhang, Xin Zhuo Zhang, Pei Kun Cong, Jin Yi Wu, Shao Rong Long, Ruo Dan Liu, Jia Xu, Jing Cui, Zhong Quan Wang",
+      "title": "Trichinella spiralis galectin disrupts gut epithelial integrity and mediates larval invasion via acting MUC13- ROCK2/MAPK pathway",
+      "description": "Author summary Intestinal epithelium is a crucial barrier to defense Trichinella spiralis larva invasion, but the mechanism of larval penetration of gut epithelium remains unclear. Galectin is widely distributed in parasites, and plays a significant act in th\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014684",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0014684.g009&size=inline",
+      "publishedAt": "2026-09-21T14:00:00Z",
+      "content": "Citation: Zhang R, Zhang Y, Zhang XZ, Cong PK, Wu JY, Long SR, et al. (2026) Trichinella spiralis galectin disrupts gut epithelial integrity and mediates larval invasion via acting MUC13- ROCK2/MAPK \u2026 [+62805 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Daniel Austin",
+      "title": "'Constant bombardment' - Fans shown 65,000 junk food ads at World Cup",
+      "description": "New data shows fans were shown more than 28 hours of adverts for unhealthy food and drinks during World Cup matches this summer.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq4g528drx79o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5d9e/live/b22d0eb0-b293-11f1-9b18-ad61bef6e34f.jpg",
+      "publishedAt": "2026-09-21T05:19:38Z",
+      "content": "Football fans were shown a \"constant bombardment\" of advertisements promoting junk food and drinks during matches at the 2026 Fifa World Cup, according to a new study.\r\nResearchers at the University \u2026 [+2019 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Reuters",
+      "title": "At least three killed in Pakistani airstrike on Afghanistan: Report",
+      "description": "A Pakistani airstrike in Afghanistan's Kunar province killed three people. Several others sustained injuries during the aerial attack on Monday. This incident follows a recent attack on a police facility in Pakistan. The strike threatens to reignite tensions \u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/at-least-three-killed-in-pakistani-airstrike-on-afghanistan-report/articleshow/134379204.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134379307,width-1200,height-630,imgsize-107828,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-21T03:53:21Z",
+      "content": "Alpha Trade\r\nGet daily trade ideas from SEBI-registered research analysts.\r\nInvestment Ideas\r\nGrow your wealth with stock ideas &amp; sectoral trends.\r\nStock Reports Plus\r\nAll-in-one stock research w\u2026 [+512 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Peter Frankopan",
+      "title": "How the Arctic became the new front line in a VERY cold war: As Trump signs Greenland deal and Russia fortifies its Siberian bases, Oxford historian PETER FRANKOPAN warns melting ice could lead to a global conflict in the High North",
+      "description": "At the end of May, a ship named the Christophe de Margerie slipped out of Utrenneye, a port on the flat, treeless Siberian coast of the Kara Sea in the Arctic",
+      "url": "https://www.dailymail.com/news/article-16146443/Arctic-cold-war-Trump-signs-Greenland-deal-PETER-FRANKOPAN.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/09/20/18/111361535-0-image-a-91_1789925825229.jpg",
+      "publishedAt": "2026-09-21T00:01:05Z",
+      "content": "At the end of May, a ship named the Christophe de Margerie slipped out of Utrenneye, a port on the flat, treeless Siberian coast of the Kara Sea in the Arctic. At 299 metres roughly the length of thr\u2026 [+14106 chars]"
+    }
+  ]
+}

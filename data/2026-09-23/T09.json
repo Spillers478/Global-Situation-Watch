@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "totalResults": 1,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Thenationaldesk.com"
+      },
+      "author": "Elizabeth Stanton",
+      "title": "'American Hostage' recreates a thrilling 70s crime that pulled attention from the Oscars",
+      "description": "'American Hostage' recreates a thrilling 70s crime that pulled attention from the Oscarsthenationaldesk.com",
+      "url": "https://thenationaldesk.com/news/entertainment/american-hostage-recreates-a-thrilling-70s-crime-that-pulled-attention-from-the-oscars",
+      "urlToImage": "https://thenationaldesk.com/resources/media2/16x9/3000/986/0x118/90/db9afa67-d84b-4268-97ff-e2469b9723ad-AMHS_S1_UT_102_251120_ACKSTE_2008_R_3000.jpg",
+      "publishedAt": "2026-09-21T22:20:08Z",
+      "content": "In 1977, Tony Kiritsis took Dick Hall hostage for 63 hours, spending much of that time calling into the local Indianapolis radio station WIBC and speaking with journalist Fred Heckman.\r\nThe crime was\u2026 [+4294 chars]"
+    }
+  ]
+}

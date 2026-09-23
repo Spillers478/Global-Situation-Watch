@@ -1,0 +1,110 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "\u2018We need to stop the contagion\u2019: GOP ramps up midterms defense in Trump states - Politico",
+      "description": "\u2018We need to stop the contagion\u2019: GOP ramps up midterms defense in Trump statesPolitico \u2018We\u2019re gonna get crushed\u2019: Republicans privately say they\u2019re doomed in the midtermsMS NOW Senate GOP sees battleground map widen amid voter anger over economyThe Hill Opini\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185738926",
+      "urlToImage": null,
+      "publishedAt": "2026-09-22T11:12:36Z",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Raw Story"
+      },
+      "author": "Tom Boggioni",
+      "title": "'It's crushing us': Trump 'contagion' has GOP insiders running scared",
+      "description": "Republican Party insiders are hitting the panic button, now having to pour millions into midterm races they once considered safe, including deep red states.President Donald Trump and his policies have cast what one official described as an inescapable, plague\u2026",
+      "url": "https://www.rawstory.com/trump-gop-contagion/",
+      "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=67808397&width=1200&height=600&coordinates=0%2C26%2C0%2C26",
+      "publishedAt": "2026-09-22T10:42:06Z",
+      "content": "Republican Party insiders are hitting the panic button, now having to pour millions into midterm races they once considered safe, including deep red states.\r\nPresident Donald Trump and his policies h\u2026 [+1784 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Aps.org"
+      },
+      "author": "Santiago Lamata-Ot\u00edn, Alex Arenas, Jes\u00fas G\u00f3mez-Garde\u00f1es, and David Soriano-Pa\u00f1os",
+      "title": "Interplay between Evolutionary and Epidemic Timescales Challenges the Outcome of Control Policies",
+      "description": "The classical SIR model, assuming constant viral traits, represents the cornerstone model for computing key indicators during epidemic outbreaks, such as the expected peak of infections or the impact of control policies. Viral evolution has been reported to c\u2026",
+      "url": "https://link.aps.org/doi/10.1103/56yd-sfks",
+      "urlToImage": null,
+      "publishedAt": "2026-09-22T10:00:00Z",
+      "content": "The classical SIR model, assuming constant viral traits, represents the cornerstone model for computing key indicators during epidemic outbreaks, such as the expected peak of infections or the impact\u2026 [+1000 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Www.gov.uk"
+      },
+      "author": "UK Health Security Agency",
+      "title": "UKHSA and University of Oxford scientists uncover genetic changes in the bacteria causing severe Kent meningococcal disease outbreak",
+      "description": "Scientists used genome sequencing to identify genetic changes that may explain the severity of the Kent meningococcal disease outbreak earlier this year.",
+      "url": "https://www.gov.uk/government/news/ukhsa-and-university-of-oxford-scientists-uncover-genetic-changes-in-the-bacteria-causing-severe-kent-meningococcal-disease-outbreak",
+      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "publishedAt": "2026-09-22T08:30:02Z",
+      "content": "Scientists from UKHSA, the University of Oxford and a collaboration of academic institutions have used bacterial genome sequencing to understand why the meningococcal disease outbreak in Kent earlier\u2026 [+4963 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "Drinking finally slows after pandemic spike, but not for every age group - NBC News",
+      "description": "Drinking finally slows after pandemic spike, but not for every age groupNBC News Younger adults are drinking less alcohol for the first time since Covid-19, but that\u2019s not true for older generationsCNN Why Older Americans Are Drinking More Alcohol\u2014Not LessTim\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185733170",
+      "urlToImage": null,
+      "publishedAt": "2026-09-21T21:52:05Z",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Kaitlin Sullivan",
+      "title": "Drinking finally slows after pandemic spike, but not for every age group",
+      "description": "Americans are drinking less for the first time since the pandemic, but alcohol use remains higher than it was before 2020, according to a study published Monday in the journal Annals of Internal Medicine.",
+      "url": "https://www.nbcnews.com/health/health-news/drinking-alcohol-down-after-pandemic-age-generation-gender-rcna598414",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260917-drinks-at-bar-stock-ch-1609-7bef00.jpg",
+      "publishedAt": "2026-09-21T21:00:00Z",
+      "content": "Americans are drinking less for the first time since the pandemic, but alcohol use remains higher than it was before 2020, according to a study published Monday in the journal Annals of Internal Medi\u2026 [+3957 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Medical Daily"
+      },
+      "author": "Joseph James",
+      "title": "Autism Rates Held Steady Across 12 Birth Cohorts in South Korean Study, Pointing to Better Detection Over Epidemic",
+      "description": "A JAMA Pediatrics study of 62,000+ Korean children found autism rates stable across 12 birth cohorts. What it means and its limits for U.S. families.",
+      "url": "https://www.medicaldaily.com/autism-rates-stable-12-birth-cohorts-jama-pediatrics-study-478859",
+      "urlToImage": "https://d.medicaldaily.com/en/full/486182/guillermo-arias-afp-via-getty-images.jpg",
+      "publishedAt": "2026-09-21T10:30:07Z",
+      "content": "A new study that screened children in one South Korean city every year for more than a decade found that autism rates stayed flat across 12 consecutive birth cohorts. The researchers concluded that r\u2026 [+6179 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": "Sara Jokar, Seyed Ehsan Sadooghi, Mohammad Taleai",
+      "title": "Developing an epidemic-adjusted walkability index to analyze pandemic-resilient urban areas: a data driven GIS-based multi-criteria approach",
+      "description": "Scientific Reports - Developing an epidemic-adjusted walkability index to analyze pandemic-resilient urban areas: a data driven GIS-based multi-criteria approach",
+      "url": "https://www.nature.com/articles/s41598-026-69063-8.pdf",
+      "urlToImage": null,
+      "publishedAt": "2026-09-21T00:00:00Z",
+      "content": "The infectious disease pandemic highlighted the critical role of the spatial structure of cities in shaping infectious-disease transmission dynamics. This study develops a health-oriented framework t\u2026 [+1453 chars]"
+    }
+  ]
+}
