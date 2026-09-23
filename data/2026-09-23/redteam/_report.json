@@ -1,0 +1,109 @@
+{
+  "topics": {
+    "flagship-ru-ua": {
+      "retrieved": 25,
+      "kept_here": 15,
+      "moved_out": 7,
+      "discarded": 3
+    },
+    "flagship-ir-il": {
+      "retrieved": 25,
+      "kept_here": 2,
+      "moved_out": 0,
+      "discarded": 23
+    },
+    "T15": {
+      "retrieved": 12,
+      "kept_here": 7,
+      "moved_out": 2,
+      "discarded": 3
+    },
+    "T01": {
+      "retrieved": 13,
+      "kept_here": 1,
+      "moved_out": 6,
+      "discarded": 6
+    },
+    "T02": {
+      "retrieved": 25,
+      "kept_here": 7,
+      "moved_out": 4,
+      "discarded": 14
+    },
+    "T03": {
+      "retrieved": 22,
+      "kept_here": 0,
+      "moved_out": 3,
+      "discarded": 19
+    },
+    "T04": {
+      "retrieved": 10,
+      "kept_here": 3,
+      "moved_out": 0,
+      "discarded": 7
+    },
+    "T05": {
+      "retrieved": 25,
+      "kept_here": 7,
+      "moved_out": 8,
+      "discarded": 10
+    },
+    "T06": {
+      "retrieved": 6,
+      "kept_here": 5,
+      "moved_out": 1,
+      "discarded": 0
+    },
+    "T07": {
+      "retrieved": 25,
+      "kept_here": 0,
+      "moved_out": 14,
+      "discarded": 11
+    },
+    "T09": {
+      "retrieved": 1,
+      "kept_here": 0,
+      "moved_out": 0,
+      "discarded": 1
+    },
+    "T10": {
+      "retrieved": 25,
+      "kept_here": 8,
+      "moved_out": 4,
+      "discarded": 13
+    },
+    "T11": {
+      "retrieved": 2,
+      "kept_here": 2,
+      "moved_out": 0,
+      "discarded": 0
+    },
+    "T12": {
+      "retrieved": 25,
+      "kept_here": 18,
+      "moved_out": 1,
+      "discarded": 6
+    },
+    "T13": {
+      "retrieved": 25,
+      "kept_here": 7,
+      "moved_out": 9,
+      "discarded": 9
+    },
+    "T14": {
+      "retrieved": 22,
+      "kept_here": 0,
+      "moved_out": 0,
+      "discarded": 0
+    }
+  },
+  "totals": {
+    "kept": 82,
+    "reassigned": 59,
+    "discarded": 125,
+    "unclassified": 0
+  },
+  "failed_topics": [
+    "T14"
+  ]
+}

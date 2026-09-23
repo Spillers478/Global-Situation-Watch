@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 11,
+  "totalResults": 12,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Rachel Sacks",
+      "title": "Neuroscientist warns common household item is a \u2018public health emergency\u2019 on the same level as asbestos",
+      "description": "Many of us have them in our homes and at offices \u2014 but a neuroscientist is warning that one household staple may be a major threat to your health.",
+      "url": "https://nypost.com/2026/09/22/health/neuroscientist-warns-common-household-item-is-a-public-health-emergency/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/crop-40936561.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-09-22T18:24:42Z",
+      "content": "Many of us have them in our homes and at offices but a neuroscientist is warning that one household staple may be a major threat to your health.\r\n Glen Jeffery, a professor of neuroscience at Univers\u2026 [+3341 chars]"
+    },
     {
       "source": {
         "id": null,

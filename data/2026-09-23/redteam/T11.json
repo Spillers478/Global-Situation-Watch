@@ -1,0 +1,47 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Australia joins ASEAN-led Exercise Trident Resolve in Indonesia",
+      "description": "A contingent of 30 Australian Defence Force and Defence civilian members have deployed to Indonesia for Exercise Trident Resolve from 21 to 25 September 2026.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/australia/2026/australia-260922-audod02.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-22T12:00:00Z",
+      "content": "Issued by Defence Media22 September 2026\r\nA contingent of 30 Australian Defence Force and Defence civilian members have deployed to Indonesia for Exercise Trident Resolve from 21 to 25 September 2026\u2026 [+2972 chars]",
+      "cocom": "USINDOPACOM",
+      "_original_topic_id": "T02"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "\"Power of Unity - 2026\" Joint Military Exercise commences",
+      "description": "The opening ceremony of the \"Power of Unity - 2026\" joint military exercise, involving military personnel from Azerbaijan, T\u00fcrkiye, and Uzbekistan, was held, the Ministry of Defense told AZERTAC.",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260922-azertac03.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-22T12:00:00Z",
+      "content": "Azerbaijan State News Agency - (AZERTAC)\r\n22.09.2026 [19:03] Baku, September 22, AZERTAC\r\nThe opening ceremony of the \"Power of Unity - 2026\" joint military exercise, involving military personnel fro\u2026 [+1099 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "INDIA- MONGOLIA JOINT MILITARY EXERCISE NOMADIC ELEPHANT COMMENCES AT PITHORAGARH",
+      "description": "The 18th edition of the India - Mongolia Joint Military Exercise NOMADIC ELEPHANT, an annual platoon-level exercise conducted alternately in India and Mongolia, commenced today at the Foreign Training Node, Pithoragarh, Uttarakhand. The exercise is scheduled \u2026",
+      "url": "https://www.globalsecurity.org/wmd/library/news/india/2026/india-260921-india-pib01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-21T12:00:00Z",
+      "content": "India - Press Information Bureau\r\nMinistry of Defence\r\nPosted On: 21 SEP 2026 4:52PM by PIB Delhi \r\nThe 18th edition of the India - Mongolia Joint Military Exercise NOMADIC ELEPHANT, an annual platoo\u2026 [+1505 chars]",
+      "cocom": "USINDOPACOM"
+    }
+  ]
+}

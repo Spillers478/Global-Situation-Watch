@@ -1,7 +1,33 @@
 {
   "status": "ok",
-  "totalResults": 153,
+  "totalResults": 155,
   "articles": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Rajani.Yadav",
+      "title": "NIPER staff to intensify protest, launch hunger strike over service issues",
+      "description": "NIPER Mohali non-teaching staff to intensify 22-day protest with assemblies, candle marches and hunger strike, seeking PPS restoration and fair promotions.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/niper-staff-to-intensify-protest-launch-hunger-strike-over-service-issues/articleshow/134419056.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-22T18:29:42Z",
+      "content": "Follow Us On Social Media\r\nTrump TV Launches As White House Media Ban Silences Traditional News PoolShame On You Mamdani: Netanyahu Fires At NYC Mayor Ahead Of UN Speech; Arrest Threat Looms'India Ne\u2026 [+2704 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Trump ally skips UNGA for first time \u2014 months after face-to-face with president gave way to bitter clash",
+      "description": "Giorgia Meloni's decision to skip the United Nations General Assembly follows an escalating public feud with Trump over G7 and NATO encounters.",
+      "url": "https://www.foxnews.com/politics/trump-ally-skips-unga-first-time-months-after-face-to-face-president-gave-way-bitter-clash",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/meloni-trump-split-2.jpeg",
+      "publishedAt": "2026-09-22T18:27:38Z",
+      "content": "Italian Prime Minister Giorgia Meloni is not attending the United Nations General Assembly this week, an official confirmed to Fox News Digital.\r\nMelonis decision not to attend breaks with a roughly \u2026 [+4107 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -1236,32 +1262,6 @@
       "urlToImage": "https://thoughtcatalog.com/wp-content/uploads/2026/09/days-after-calling-denuclearization-hopefuls-idiots-north-korea-fired-two-ballis.jpg?w=1536&h=768&crop=1",
       "publishedAt": "2026-09-21T19:13:24Z",
       "content": "North Korea test-fired two short-range ballistic missiles on Sunday, just days after publicly ridiculing anyone who hopes to see the country give up its nuclear arsenal.\r\nNorth Korea launched the two\u2026 [+1372 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dailymail.com"
-      },
-      "author": "Chris Melore, Jon Michael Raasch, Elina Shirazi",
-      "title": "Secret war above our heads: Grainy photos of mysterious mega-weapons, shadowy rocket launches into orbit and a $1.2 trillion battle between superpowers",
-      "description": "After a string of mysterious rocket launches by SpaceX this month, the United States military has finally confirmed what many had suspected.",
-      "url": "https://www.dailymail.com/sciencetech/article-16136185/space-force-battle-orbit-weapons-mystery.html",
-      "urlToImage": "https://i.dailymail.com/1s/2026/09/18/22/111309359-0-image-m-53_1789767835941.jpg",
-      "publishedAt": "2026-09-21T19:11:10Z",
-      "content": "After a string of mysterious rocket launches by SpaceX this month, the US military has finally confirmed what many suspected: space-based weapons have been placed into Earth's orbit.\r\nThe unprecedent\u2026 [+6996 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Pypi.org"
-      },
-      "author": "mtynes@lanl.gov",
-      "title": "minervachem added to PyPI",
-      "description": "Machine learning for Cheminformatics",
-      "url": "https://pypi.org/project/minervachem/",
-      "urlToImage": null,
-      "publishedAt": "2026-09-21T19:06:28Z",
-      "content": "MinervaChem - a python library for cheminformatics and machine learning\r\nMinervachem implements Graphlet Fingerprints and other utilities cheminformatics and chemical machine learning.\r\nThis is an al\u2026 [+6137 chars]"
     }
   ]
 }

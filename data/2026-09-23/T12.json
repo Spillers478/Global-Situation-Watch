@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 40,
+  "totalResults": 41,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Digital Journal"
+      },
+      "author": "David Potter",
+      "title": "When the IT job becomes the risk job",
+      "description": "Jennifer Hutton came to Steele Auto Group with a narrow cybersecurity brief that grew until she owned risk across the business\nThe post When the IT job becomes the risk job appeared first on Digital Journal.",
+      "url": "https://www.digitaljournal.com/article/when-the-it-job-becomes-the-risk-job/",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2026/09/Photo-by-Enis-Yavuz-on-Unsplash-1200x675.png",
+      "publishedAt": "2026-09-22T18:07:56Z",
+      "content": "\u201cI\u2019m the sort of person if I get 24 out of 25 on a test, I will challenge it because that\u2019s just not acceptable,\u201d says Jennifer Hutton, vice-president of information technology and risk and chief pri\u2026 [+8339 chars]"
+    },
     {
       "source": {
         "id": null,

@@ -1,7 +1,33 @@
 {
   "status": "ok",
-  "totalResults": 287,
+  "totalResults": 289,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Amy McAuliffe, Visiting Distinguished Professor of the Practice, University of Notre Dame",
+      "title": "Russia-Ukraine war is accelerating the dangerous race toward fully autonomous drones",
+      "description": "Drones with autonomous functions reduce dependence on communications links and can escape attempts at jamming. But they come with huge ethical risks.",
+      "url": "https://theconversation.com/russia-ukraine-war-is-accelerating-the-dangerous-race-toward-fully-autonomous-drones-290877",
+      "urlToImage": "https://images.theconversation.com/files/761235/original/file-20260921-50-m4wsl8.jpg?ixlib=rb-4.1.1&rect=0%2C504%2C4032%2C2016&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-09-22T18:29:41Z",
+      "content": "A battlefield dominated by fully autonomous drones capable of selecting and engaging targets without human intervention sounds like a dystopian sci-fi plot. And while that scenario has not yet arrive\u2026 [+7202 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": null,
+      "title": "EU to lift sanctions on two Russian oligarchs",
+      "description": "Kyiv has argued the bloc should be ratcheting up pressure on Moscow after Alisher Usmanov and Mikhail Fridman were removed from a blacklist.",
+      "url": "https://www.abc.net.au/news/2026-09-23/brk-eu-sanctions-lifted-on-oligarchs/107183784",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/6075ba6b164c6288cefc3d7af406fa35?impolicy=wcms_watermark_news&cropH=450&cropW=800&xPos=0&yPos=75&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-09-22T18:06:11Z",
+      "content": "EU countries have agreed a compromise deal to prolong sanctions on Russia that will see oligarchs Alisher Usmanov and Mikhail Fridman removed from the blacklist, diplomats say.\r\nAs time ticked down t\u2026 [+3042 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1236,32 +1262,6 @@
       "urlToImage": "https://images.americanthinker.com/t4/t4m1b7biuk0ekpcfsbuk_1200.jpg",
       "publishedAt": "2026-09-22T04:00:00Z",
       "content": "Russian president Vladimir Putin\u2019s United Russia Party easily retained its overwhelming majority in the state Duma in Russia\u2019s election held over the weekend.\u00a0\u00a0It was the first Russian parliamentary \u2026 [+5345 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Americanthinker.com"
-      },
-      "author": null,
-      "title": "Combat-Trained AI Is Leaving Ukraine Faster Than The Rules Can Follow",
-      "description": "Photo Credit:\n \n ChatGPT for American ThinkerBy Oliver MartinMilitary AI is being minted faster than export law can follow it, and that the copies, the trainers, and the chips are already in motion.",
-      "url": "https://www.americanthinker.com/articles/2026/09/combat-trained-ai-is-leaving-ukraine-faster-than-the-rules-can-follow/",
-      "urlToImage": "https://images.americanthinker.com/q0/q0sfsvvanxnul7jlhqhh_1200.jpg",
-      "publishedAt": "2026-09-22T04:00:00Z",
-      "content": "Western governments and technology firms have spent four years pouring targeting software, combat data, and cheap autonomous drones into Ukraine. The war has made the country the world\u2019s largest live\u2026 [+7012 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Education",
-      "title": "School Holidays on September 22 and 23: Are schools closed in your state? Check the closure status here",
-      "description": "School Holidays September 2026: Schools in Jharkhand, West Bengal and Haryana will observe regional holidays on September 22 and 23, 2026. Jharkhand has scheduled a two-day break for Karma Puja, while government and government-aided educational institutions i\u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/school-holidays-on-september-22-and-23-are-schools-closed-in-your-state-check-the-closure-status-here/articleshow/134401728.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134401796,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-22T03:58:55Z",
-      "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>School Holidays on September 22 and 23: Are schools closed in your state? Check the closure status here</li></ul>\r\nFollow Us On Social M\u2026 [+1577 chars]"
     }
   ]
 }

@@ -1,0 +1,271 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Cisa.gov"
+      },
+      "author": "CISA",
+      "title": "Vulnerability Summary for the Week of September 14, 2026",
+      "description": "High Vulnerabilities\r\n\n<table>\n\n<tr>\n<th>PrimaryVendor -- Product</th>\n<th>Description</th>\n<th>Published</th>\n<th>CVSS Score</th>\n<th>Source Info</th>\n</tr>\n\r\n\n\n<tr>\n<td>03-lovepreetSingh--MCP</td>\n<td>A vulnerability was identified in 03-lovepreetSingh MCP \u2026",
+      "url": "https://www.cisa.gov/news-events/bulletins/sb26-264",
+      "urlToImage": null,
+      "publishedAt": "2026-09-21T11:58:01Z",
+      "content": "The CISA Vulnerability Bulletin provides a summary of new vulnerabilities that have been recorded in the past week. In some cases, the vulnerabilities in the bulletin may not yet have assigned CVSS s\u2026 [+899 chars]",
+      "cocom": "Transregional",
+      "_original_topic_id": "T15"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Sergiu Gatlan",
+      "title": "Check Point warns of Management Server zero-day exploited in attacks",
+      "description": "Check Point Software released emergency hotfixes to address a critical Security Management Server vulnerability that could let attackers run\u00a0arbitrary scripts. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/09/18/Check-Point.jpg",
+      "publishedAt": "2026-09-22T16:32:47Z",
+      "content": "Check Point Software released emergency hotfixes to address a critical Security Management Server vulnerability that could let attackers run arbitrary scripts.\r\nThe Security Management Server is a ce\u2026 [+3212 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Sergiu Gatlan",
+      "title": "D-Link warns of max severity zero-day bug in DIR-822A routers",
+      "description": "D-Link warned customers of a maximum-severity vulnerability (CVE-2026-86296) with public proof-of-concept (PoC) exploit code and no patch, affecting legacy DIR-822A dual-band Wi-Fi routers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/09/22/D-Link.jpg",
+      "publishedAt": "2026-09-22T12:48:06Z",
+      "content": "D-Link warned customers of a maximum-severity vulnerability (CVE-2026-86296) with public proof-of-concept (PoC) exploit code and no patch, affecting legacy DIR-822A dual-band Wi-Fi routers.\r\nThis sec\u2026 [+2647 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Greenbone.net"
+      },
+      "author": "Joseph Lee",
+      "title": "GreenboneOS: Patch Now! Heightened Risk Across Cisco Products in September 2026",
+      "description": "So far, Cisco has published 97 new CVE IDs affecting its products this month. Although cyber security experts have noted that raw CVE count is not a direct measure of risk, the total makes September Cisco\u2019s largest-ever month for coordinated CVE disclosures. \u2026",
+      "url": "https://www.greenbone.net/en/blog/cisco-vulnerabilities-september-2026/",
+      "urlToImage": "https://www.greenbone.net/wp-content/uploads/EN_cisco-record-97-cves-september-2026.jpeg",
+      "publishedAt": "2026-09-22T12:34:33Z",
+      "content": "So far, Cisco has published 97 new CVE IDs affecting its products this month. Although cyber security experts have noted that raw CVE count is not a direct measure of risk, the total makes September \u2026 [+8354 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "AI malware can rewrite itself to evade detection",
+      "description": "Google's Threat Intelligence Group found PROMPTFLUX malware that uses Gemini to rewrite its own code every hour, raising urgent cybersecurity alarms.",
+      "url": "https://www.foxnews.com/tech/ai-malware-rewrite-itself-evade-detection",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/software-engineers-coding.jpg",
+      "publishedAt": "2026-09-22T12:17:54Z",
+      "content": "Google's Threat Intelligence Group found experimental malware called PROMPTFLUX that could ask Gemini to rewrite its own code. One version was designed to do that every hour. Why would malware keep r\u2026 [+15735 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Jon Martindale",
+      "title": "US and China propose hotline to de-escalate AI threats ahead of Washington summit \u2014 comms channel between both nations to be left open in case of national security threats posed by autonomous artificial intelligence",
+      "description": "The U.S. and China have proposed implementing AI red lines that will not be crossed, as well as a hotline between the two countries to provide rapid communication and opportunities for joint responses to rogue AI actions.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-and-china-propose-hotline-to-de-escalate-ai-threats-ahead-of-washington-summit-comms-channel-between-both-nations-to-be-left-open-in-case-of-national-security-threats-posed-by-autonomous-artificial-intelligence",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/wSrDYk9S7kb9r5UmgxXo7D-1920-80.jpg",
+      "publishedAt": "2026-09-22T12:13:41Z",
+      "content": "The U.S. and China have proposed developing a hotline for AI incident reports to address the risk of a rogue AI model getting out of control and to prevent misinterpretations of attacks that could tr\u2026 [+4312 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Sead Fadilpa\u0161i\u0107",
+      "title": "BigCommerce warns customers of potential data leaks following cyber incident",
+      "description": "Hackers broke into a third-party app and stole customer data, including personally identifiable information.",
+      "url": "https://www.techradar.com/pro/security/bigcommerce-warns-customers-of-potential-data-leaks-following-cyber-incident",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/VGPtSi99Vy7pCWeNLEcT5c-2560-80.jpg",
+      "publishedAt": "2026-09-22T12:00:00Z",
+      "content": "<ul><li>BigCommerce confirms supply\u2011chain breach via compromised Ribon app credentials affecting merchant storefronts</li><li>Master of Malt notified customers: names, emails, phone numbers, and addr\u2026 [+4664 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Infosecurity Magazine"
+      },
+      "author": "Phil Muncaster",
+      "title": "Network Segmentation Failures Are Expanding the Corporate Attack Surface",
+      "description": "Forescout warns that incomplete network segmentation is widening the potential blast radius of attacks",
+      "url": "https://www.infosecurity-magazine.com/news/segmentation-failures-expanding/",
+      "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/79276955-d219-4f3a-8974-7fddf5756677.jpg",
+      "publishedAt": "2026-09-22T12:00:00Z",
+      "content": "Nearly half of network segments with OT or medical devices (IoMT) also contain IT and IoT, broadening the attack surface and raising the risk of lateral movement, according to Forescout.\r\nThe securit\u2026 [+2893 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityweek.com"
+      },
+      "author": "Ionut Arghire",
+      "title": "WordPress Patches \u2018Click2Shell\u2019 Vulnerability",
+      "description": "The bug lets attackers automatically install and preview themes and could lead to remote code execution.\nThe post WordPress Patches \u2018Click2Shell\u2019 Vulnerability appeared first on SecurityWeek.",
+      "url": "https://www.securityweek.com/wordpress-patches-click2shell-vulnerability/",
+      "urlToImage": "https://www.securityweek.com/wp-content/uploads/2024/08/WordPress.jpeg",
+      "publishedAt": "2026-09-22T10:22:27Z",
+      "content": "WordPress last week released patches for 11 vulnerabilities, including a flaw that could potentially lead to remote code execution (RCE).\r\nDubbed Click2Shell, the flaw does not have a CVE identifier \u2026 [+2414 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PRNewswire"
+      },
+      "author": null,
+      "title": "Object First Survey: Nearly Two-Thirds of UK IT Professionals Say AI-Powered Cyber Threats Increase Workplace Stress",
+      "description": "Results show 91% report AI improves productivity, yet only 31% feel their organisation is well-equipped to respond to rising cyber threats LONDON, Sept. 22, 2026 /PRNewswire/ -- Object First, the ransomware-proof on-premises backup storage company, today rele\u2026",
+      "url": "https://www.prnewswire.com/news-releases/object-first-survey-nearly-two-thirds-of-uk-it-professionals-say-ai-powered-cyber-threats-increase-workplace-stress-302871462.html",
+      "urlToImage": "https://mmx.prnewswire.com/media/MS1982895/Object-First-Logo-Primary-1.jpg?id=OA2933567&p=facebook",
+      "publishedAt": "2026-09-22T10:00:00Z",
+      "content": "Results show 91% report AI improves productivity, yet only 31% feel their organisation is well-equipped to respond to rising cyber threats\r\nLONDON, Sept. 22, 2026 /PRNewswire/ -- Object First, the ra\u2026 [+5483 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Megan  Cerullo",
+      "title": "What is an \"AI swarm,\" and why it giving tech experts nightmares?",
+      "description": "AI \"agents\" show a remarkable ability to share information and knowledge with other bots. That should worry us.",
+      "url": "https://www.cbsnews.com/news/ai-agent-swarm-hugging-face-openai-harm/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/17/8cf8ad8d-412e-494f-bdc6-94210b72f741/thumbnail/1200x630/69ace4b219fa2bb4a6e5187758618084/gettyimages-2224634463.jpg",
+      "publishedAt": "2026-09-22T09:00:01Z",
+      "content": "Central to the dire warnings about artificial intelligence's potential danger to humanity is the risk that a \"swarm\" of AI agents could collaborate in nefarious ways, like hordes of digital extras fr\u2026 [+6371 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hackmageddon.com"
+      },
+      "author": "Paolo Passeri",
+      "title": "August 2026 Cyber Attacks Statistics Infographic",
+      "description": "A one-page visual briefing on August 2026's global cyber attack landscape: 218 confirmed incidents, a rising four-in-five share driven by profit-motivated crime, and a back-to-back spike that delivered 34 attacks in just two days.",
+      "url": "https://www.hackmageddon.com/2026/09/22/august-2026-cyber-attacks-statistics-infographic/",
+      "urlToImage": "https://i0.wp.com/www.hackmageddon.com/wp-content/uploads/2026/09/featured-image-august-2026.png?fit=1200%2C675&ssl=1",
+      "publishedAt": "2026-09-22T08:09:50Z",
+      "content": "Threat Intelligence Briefing\r\nWho\u2019s Behind ItProfit Over Politics, Again\r\nFinancially motivated crime crushed every other driver combined, climbing to four in five attacks. Espionage remained the onl\u2026 [+1709 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "War on the Rocks"
+      },
+      "author": "Justin Hardy",
+      "title": "Missed the Marque: Cyber Privateers Wanted, Compensation to Be Determined",
+      "description": "Coverage of the new White House memorandum on combating cybercrime quickly reached the privateer label. CNN called the participants \u201ccyber privateers,\u201d invoking the image of government-sanctioned raiders working the high seas of cyberspace, hauling in digital\u2026",
+      "url": "https://warontherocks.com/missed-the-marque-cyber-privateers-wanted-compensation-to-be-determined/",
+      "urlToImage": "https://warontherocks.com/wp-content/uploads/wotr-og-images/wotr-og-46952-2c67e66ed192.jpg",
+      "publishedAt": "2026-09-22T07:30:08Z",
+      "content": "Coverage of the new White House memorandum on combating cybercrime quickly reached the privateer label. CNN called the participants \u201ccyber privateers,\u201d invoking the image of government-sanctioned rai\u2026 [+21982 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Contagious Interview: 30,000 devices infected by a fake job interview",
+      "description": "North Korea-linked WaterPlum runs the Contagious Interview campaign, infecting over 30,000 devices using a fake job interview. On September 18, Japan\u2019s National Police Agency, the FBI, the US Department of Defense\u2019s Cyber Crime Center, and intelligence agenci\u2026",
+      "url": "https://securityaffairs.com/199506/uncategorized/contagious-interview-30000-devices-infected-by-a-fake-job-interview.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2025/07/image-41.png",
+      "publishedAt": "2026-09-22T06:44:46Z",
+      "content": "Contagious Interview: 30,000 devices infected by a fake job interview\r\nOn September 18, Japan\u2019s National Police Agency, the FBI, the US Department of Defense\u2019s Cyber Crime Center, and intelligence ag\u2026 [+6347 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Blogspot.com"
+      },
+      "author": "noreply@blogger.com (Unknown)",
+      "title": "Middle East Council on Global Affairs: The Gulf\u2019s New, Evolving Layers of Security",
+      "description": "The \u2018Forty-Day War\u2019 has revealed that Gulf security can no longer depend on external guarantees, but requires indigenous capabilities and multi-layered deterrence.September 16, 2026Zafer Muhammad AlajmiGulf security has entered a new era that has exposed the \u2026",
+      "url": "https://i-epikaira.blogspot.com/2026/09/middle-east-council-on-global-affairs.html",
+      "urlToImage": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vBqOZU5IYdwBZ60sHXl7x3oEO3SX7pMNf01n2uZ-Xd6AYm2BPr1p0A6lHmZml534ZqhM6mlfp-HMZHO0ttBvMaBstpMk2DlGP_aq99LdI4Wrdmf2s_VM2pXFtShf7qif6BYON8HuO4BBXsK33WiUMma7xxuqUQh3mI8c4xJwZSk-gvwcFpdWVg0hzZWIW_SPXuUlIPi8Bh81Om0oC_4lvV2j8IQBRvJLbUQc4H6f1b-0GodV43FVqyrleEiUsfeiEukLXlMQ9MI8g6jpHsEg",
+      "publishedAt": "2026-09-22T06:36:03Z",
+      "content": "LIVE GEOPOLITICAL ANALYSIS\r\nLAUNCH INDEX\r\nMonitoring for analysts, investors, journalists, and geopolitical observers by iEpikaira.",
+      "cocom": "USCENTCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Peoplesreview.com.np"
+      },
+      "author": "team1",
+      "title": "NEPSE trading resumes after ransomware attack",
+      "description": "Kathmandu, Sept 22: Share trading will resume as usual on Tuesday after a ransomware attack forced the Nepal Stock Exchange to suspend the market on Monday. NEPSE said the technical problem at Data Hub Pvt Ltd, which stores backups of the Trade Management Sys\u2026",
+      "url": "https://peoplesreview.com.np/2026/09/22/nepse-trading-resumes-after-ransomware-attack/",
+      "urlToImage": "https://peoplesreview.com.np/wp-content/uploads/2025/08/STOCK-MARKET.jpg",
+      "publishedAt": "2026-09-22T06:20:00Z",
+      "content": "Kathmandu, Sept 22: Share trading will resume as usual on Tuesday after a ransomware attack forced the Nepal Stock Exchange to suspend the market on Monday.\r\nNEPSE said the technical problem at Data \u2026 [+1662 chars]",
+      "cocom": "USINDOPACOM"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "John Power",
+      "title": "20 countries propose global oversight body to manage AI dangers",
+      "description": "Countries including Germany, South Africa and Canada suggest international institution to set and enforce standards.",
+      "url": "https://www.aljazeera.com/economy/2026/9/22/20-countries-propose-global-oversight-body-to-manage-ai-dangers",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-21T161851Z_11785766_RC2SNNA174UA_RTRMADP_3_UN-ASSEMBLY-SECURITY-1790035742_58a1b5-1790042361.jpg?resize=1200%2C630&quality=80",
+      "publishedAt": "2026-09-22T03:42:02Z",
+      "content": "Twenty countries and the European Union have issued a call for international cooperation to ensure AI remains under human control, including the potential creation of a global oversight body to set a\u2026 [+3416 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Bill Toulas",
+      "title": "CISA alerts of active exploitation of three Linux kernel flaws",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting three Linux kernel vulnerabilities, one of them rated critical. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2025/01/13/CISA.jpg",
+      "publishedAt": "2026-09-21T20:12:17Z",
+      "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting three Linux kernel vulnerabilities, one of them rated critical.\r\nThe three security issues were\u2026 [+2551 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Sead Fadilpa\u0161i\u0107",
+      "title": "Cybercrime civil war brewing? ShinyHunters reportedly hacks Cl0p ransomware gang and threatens further damage",
+      "description": "Attack is a response to Cl0p's threats of violence and doxxing",
+      "url": "https://www.techradar.com/pro/security/cybercrime-civil-war-brewing-shinyhunters-reportedly-hacks-cl0p-ransomware-gang-and-threatens-further-damage",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/zTH6vPrB4yxX7dzdy29Xga-2560-80.jpg",
+      "publishedAt": "2026-09-21T16:05:00Z",
+      "content": "<ul><li>ShinyHunters hacked rival gang Cl0p, stealing source code, logs, and onion service keys</li><li>The gang defaced Cl0p\u2019s site via Grav CMS flaw, posting their logo and taunts about past threat\u2026 [+4446 chars]",
+      "cocom": "Transregional"
+    }
+  ]
+}

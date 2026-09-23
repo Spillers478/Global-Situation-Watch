@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 36,
+  "totalResults": 37,
   "articles": [
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Hannah Knudsen",
+      "title": "Trump to U.N. General Assembly: There Is 'No Human Right to Illegal Immigration'",
+      "description": "There is \"no human right to illegal immigration,\" President Donald Trump said during his address to the United Nations General Assembly in New York City on Tuesday.\nThe post Trump to U.N. General Assembly: There Is \u2018No Human Right to Illegal Immigration\u2019 appe\u2026",
+      "url": "https://www.breitbart.com/politics/2026/09/22/trump-to-u-n-general-assembly-there-is-no-human-right-to-illegal-immigration/",
+      "urlToImage": "https://media.breitbart.com/media/2026/09/AP25266776113703-640x335.jpg",
+      "publishedAt": "2026-09-22T18:15:30Z",
+      "content": "There is \u201cno human right to illegal immigration,\u201d President Donald Trump said during his address to the United Nations General Assembly in New York City on Tuesday.\r\nPresident Trump drew a line in th\u2026 [+2730 chars]"
+    },
     {
       "source": {
         "id": null,

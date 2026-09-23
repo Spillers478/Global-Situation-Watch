@@ -1,7 +1,33 @@
 {
   "status": "ok",
-  "totalResults": 104,
+  "totalResults": 106,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The New Yorker"
+      },
+      "author": "Jon Allsop",
+      "title": "Is Trump\u2019s Latest Press Attack Just Another Distraction?",
+      "description": "Jon Allsop reports on the perilous next steps after CNN, Politico, and MSNOW were barred from the White House, and, in retaliation, the entire TV press pool announced a boycott of the President.",
+      "url": "https://www.newyorker.com/news/the-lede/is-trumps-latest-press-attack-just-another-distraction",
+      "urlToImage": "https://media.newyorker.com/photos/6ab27a9d4d709d79ae533591/16:9/w_1280,c_limit/Allsop_GettyImages-2275316233.jpg",
+      "publishedAt": "2026-09-22T18:29:05Z",
+      "content": "In November, 2018, the day after midterm elections that went badly for the Republican Party, Jim Acosta, then a White House correspondent at CNN, questioned President Donald Trump about his messaging\u2026 [+4012 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "author": "Estefano Gomez",
+      "title": "US leaves Middle Eastern ally hanging after halting air strikes on Yemen\u2019s Houthis",
+      "description": "The U.S. decision to halt air strikes may enhance regional stability, reducing the perceived risk of regime change in Iran and affecting markets.\nThe post US leaves Middle Eastern ally hanging after halting air strikes on Yemen\u2019s Houthis appeared first on Cry\u2026",
+      "url": "https://cryptobriefing.com/us-leaves-middle-eastern-ally-hanging-after-halting-air-strikes-on-yemens/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/22141247/commons-picker-govcommonsa0aaadd09e4bd30a-13-800x450.jpg",
+      "publishedAt": "2026-09-22T18:12:48Z",
+      "content": "The United States has reportedly halted plans to conduct air strikes against the Houthi movement in Yemen, a decision that marks a shift from earlier considerations of military action. This developme\u2026 [+1984 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1249,32 +1275,6 @@
       "urlToImage": "https://images.americanthinker.com/imported/2024-03/252851_1200.jpeg",
       "publishedAt": "2026-09-21T04:00:00Z",
       "content": "Consider these recent news headlines: (1) \u201cNYC Turns Back to Gas Buses After Finding Out the Hard Way That the Electric Versions Have Big Problems,\u201d (2) \u201cAs a Former Head of MI6 it\u2019s Clear That Brita\u2026 [+8279 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "Haiti extradites 18 suspects in assassination of president to US",
-      "description": "The suspects were flown to Miami to stand trial over the murder of Haitian President Jovenel Moise five years ago.",
-      "url": "https://www.bbc.co.uk/news/articles/cvwyz2jr4r7eo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/25df/live/be8d63d0-b559-11f1-9ca7-a18634eccc53.jpg",
-      "publishedAt": "2026-09-21T02:44:57Z",
-      "content": "Eighteen people have been flown from Haiti to the US state of Florida to stand trial for their alleged involvement in the assassination of Haitian President Jovenel Moise five years ago. \r\nMoise was \u2026 [+2685 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ComicBook.com"
-      },
-      "author": "Spencer Perry",
-      "title": "Lanterns Just Confirmed a Major Villain Storyline for the Final Episodes, With Big DCU Implications",
-      "description": "When Lanterns started to come together for the DCU, there was a question about not only how the story would play out but how it might expand this galactic side of the franchise in ways that hadn\u2019t been done before. Add to that the addition of actor Ulrich Tho\u2026",
-      "url": "http://comicbook.com/tv-shows/feature/lanterns-just-confirmed-a-major-villain-storyline-for-the-final-episodes-with-big-dcu-implications/",
-      "urlToImage": "https://comicbook.com/wp-content/uploads/sites/4/2026/09/sinestro-lanterns-jail.jpg?resize=2000,1125",
-      "publishedAt": "2026-09-21T02:01:12Z",
-      "content": "When Lanterns started to come together for the DCU, there was a question about not only how the story would play out but how it might expand this galactic side of the franchise in ways that hadn\u2019t be\u2026 [+4866 chars]"
     }
   ]
 }

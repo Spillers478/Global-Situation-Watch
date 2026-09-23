@@ -1,0 +1,76 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "El Nino health warning: Dengue, malaria & cholera threat grows as UN and WHO call climate cycle a 'risk multiplier'",
+      "description": "El Nino health risks: The UN has warned that the current El Nino could pose a significant global health threat, with the climate phenomenon forecast to be among the strongest on record. Rising temperatures, extreme drought and heavy rainfall could increase th\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/el-nino-health-warning-dengue-malaria-cholera-threat-grows-as-un-and-who-call-climate-cycle-a-risk-multiplier/articleshow/134413540.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134413736,width-1200,height-630,imgsize-1640574,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-22T13:37:17Z",
+      "content": "The United Nations has warned that El Nino poses a \"significant\" threat to global health as the world prepares for a climate cycle that is forecast to be among the strongest on record.The natural wea\u2026 [+3415 chars]",
+      "cocom": "Transregional",
+      "_original_topic_id": "T02"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Manman Chen, Wanzhou Wang, Feng Sha, Zichen Ye, Yuankai Zhao, Chao Yang, Ze Liang, Yu Jiang, Xijie Wang, Jinling Tang",
+      "title": "Global, regional, and national impact of epidemic disasters on health workforce equality between 1990 and 2019: An ecological and modeling study",
+      "description": "Manman Chen, Wanzhou Wang and colleagues examined how infectious disease epidemics were associated with changes in the health workforce across 194 countries and territories from 1990 to 2019. Their findings suggest that epidemic events were linked to health w\u2026",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005134",
+      "urlToImage": "https://journals.plos.org/plosmedicine/article/figure/image?id=10.1371/journal.pmed.1005134.g005&size=inline",
+      "publishedAt": "2026-09-22T14:00:00Z",
+      "content": "Citation: Chen M, Wang W, Sha F, Ye Z, Zhao Y, Yang C, et al. (2026) Global, regional, and national impact of epidemic disasters on health workforce equality between 1990 and 2019: An ecological and \u2026 [+43454 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Aps.org"
+      },
+      "author": "Santiago Lamata-Ot\u00edn, Alex Arenas, Jes\u00fas G\u00f3mez-Garde\u00f1es, and David Soriano-Pa\u00f1os",
+      "title": "Interplay between Evolutionary and Epidemic Timescales Challenges the Outcome of Control Policies",
+      "description": "The classical SIR model, assuming constant viral traits, represents the cornerstone model for computing key indicators during epidemic outbreaks, such as the expected peak of infections or the impact of control policies. Viral evolution has been reported to c\u2026",
+      "url": "https://link.aps.org/doi/10.1103/56yd-sfks",
+      "urlToImage": null,
+      "publishedAt": "2026-09-22T10:00:00Z",
+      "content": "The classical SIR model, assuming constant viral traits, represents the cornerstone model for computing key indicators during epidemic outbreaks, such as the expected peak of infections or the impact\u2026 [+1000 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Www.gov.uk"
+      },
+      "author": "UK Health Security Agency",
+      "title": "UKHSA and University of Oxford scientists uncover genetic changes in the bacteria causing severe Kent meningococcal disease outbreak",
+      "description": "Scientists used genome sequencing to identify genetic changes that may explain the severity of the Kent meningococcal disease outbreak earlier this year.",
+      "url": "https://www.gov.uk/government/news/ukhsa-and-university-of-oxford-scientists-uncover-genetic-changes-in-the-bacteria-causing-severe-kent-meningococcal-disease-outbreak",
+      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "publishedAt": "2026-09-22T08:30:02Z",
+      "content": "Scientists from UKHSA, the University of Oxford and a collaboration of academic institutions have used bacterial genome sequencing to understand why the meningococcal disease outbreak in Kent earlier\u2026 [+4963 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Manman Chen, Wanzhou Wang, Feng Sha, Zichen Ye, Yuankai Zhao, Chao Yang, Ze Liang, Yu Jiang, Xijie Wang, Jinling Tang",
+      "title": "Global, regional, and national impact of epidemic disasters on health workforce equality between 1990 and 2019: An ecological and modeling study",
+      "description": "Manman Chen, Wanzhou Wang and colleagues examined how infectious disease epidemics were associated with changes in the health workforce across 194 countries and territories from 1990 to 2019. Their findings suggest that epidemic events were linked to health w\u2026",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005134",
+      "urlToImage": "https://journals.plos.org/plosmedicine/article/figure/image?id=10.1371/journal.pmed.1005134.g005&size=inline",
+      "publishedAt": "2026-09-22T14:00:00Z",
+      "content": "Citation: Chen M, Wang W, Sha F, Ye Z, Zhao Y, Yang C, et al. (2026) Global, regional, and national impact of epidemic disasters on health workforce equality between 1990 and 2019: An ecological and \u2026 [+43454 chars]",
+      "cocom": "Transregional",
+      "_original_topic_id": "T05"
+    }
+  ]
+}

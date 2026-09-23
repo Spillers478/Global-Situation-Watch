@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 12,
+  "totalResults": 13,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "author": "Estefano Gomez",
+      "title": "US leaves Middle Eastern ally hanging after halting air strikes on Yemen\u2019s Houthis",
+      "description": "The U.S. decision to halt air strikes may enhance regional stability, reducing the perceived risk of regime change in Iran and affecting markets.\nThe post US leaves Middle Eastern ally hanging after halting air strikes on Yemen\u2019s Houthis appeared first on Cry\u2026",
+      "url": "https://cryptobriefing.com/us-leaves-middle-eastern-ally-hanging-after-halting-air-strikes-on-yemens/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/22141247/commons-picker-govcommonsa0aaadd09e4bd30a-13-800x450.jpg",
+      "publishedAt": "2026-09-22T18:12:48Z",
+      "content": "The United States has reportedly halted plans to conduct air strikes against the Houthi movement in Yemen, a decision that marks a shift from earlier considerations of military action. This developme\u2026 [+1984 chars]"
+    },
     {
       "source": {
         "id": null,

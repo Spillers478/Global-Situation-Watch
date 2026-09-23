@@ -1,7 +1,33 @@
 {
   "status": "ok",
-  "totalResults": 108,
+  "totalResults": 110,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Truthout"
+      },
+      "author": "Chris Walker",
+      "title": "Trump Compares AI Warnings to Past Climate Fears He Wrongly Says Were a \u201cHoax\u201d",
+      "description": "Millions of people have died as a direct result of the climate crisis.",
+      "url": "https://truthout.org/articles/trump-compares-ai-warnings-to-past-climate-fears-he-wrongly-says-were-a-hoax/",
+      "urlToImage": "https://truthout.org/app/uploads/2026/09/2026-0922-trump.jpg",
+      "publishedAt": "2026-09-22T18:32:16Z",
+      "content": "Support justice-driven, accurate and transparent news make a quick donation to Truthout today!\u00a0\r\nPresident Donald Trump has dismissed legitimate concerns about the growth of artificial intelligence (\u2026 [+4333 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "X.com",
+      "title": "\"Trump shows you the wiring on purpose, and now he's ripping out the faulty wiring. That's the difference between policy built to manage a population in the dark versus policy built to benefit a country in the light.\" (video and TRANSCRIPT)",
+      "description": "Farm Girl Carrie\u2122\ufe0f\u200d@FarmGirlCarrie\u00b715hWhy did Trump ban certain members of the press? @sjkokinda of @PrometheanActn does an excellent job summarizing why Trump threw three news organizations out of the White House, and the reason why they were put there i\u2026",
+      "url": "https://freerepublic.com/focus/f-chat/4396482/posts",
+      "urlToImage": null,
+      "publishedAt": "2026-09-22T18:15:16Z",
+      "content": "Farm Girl Carrie@FarmGirlCarrie\u00b715hWhy did Trump ban certain members of the press? @sjkokinda of @PrometheanActn does an excellent job summarizing why Trump threw three news organizations out of the \u2026 [+4779 chars]"
+    },
     {
       "source": {
         "id": "al-jazeera-english",
@@ -1119,19 +1145,6 @@
       "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/global-food-shock-food-inflation-fertilizer-shortage-4333-original.jpg",
       "publishedAt": "2026-09-21T06:00:00Z",
       "content": "The Global Food Shock Is Already Baked In\r\nI just walked out of a product acquisition meeting with my staff at Health Ranger Store, and the numbers on the table were worse than anything I expected to\u2026 [+11524 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TheJournal.ie"
-      },
-      "author": "Jane Matthews",
-      "title": "Taoiseach and ministers travel to New York for UN General Assembly week",
-      "description": "Everything you need to know about this year\u2019s high level week at the UN headquarters in New York.",
-      "url": "https://www.thejournal.ie/un-general-assembly-2-7165663-Sep2026/",
-      "urlToImage": "https://img2.thejournal.ie/article/7165663/river/?height=400&version=7165708",
-      "publishedAt": "2026-09-21T05:00:55Z",
-      "content": "AN IRISH DELEGATION led by Taoiseach Miche\u00e1l Martin will this week represent Ireland in New York for the 81st annual United Nations General Assembly high-level week.\r\n\u00a0Martin arrives in New York toda\u2026 [+3752 chars]"
     }
   ]
 }
