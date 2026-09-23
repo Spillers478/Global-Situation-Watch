@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 11,
+  "totalResults": 12,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "newsweek.com",
+      "title": "How Putin's Invasion of NATO Could Unfold as Estonia Border Closed",
+      "description": "Russia could stage a limited incursion into Estonia to test NATO's resilience, according to a scenario from the Institute for the Study of War (ISW), which comes amid heightened tensions between Moscow and Tallinn.\nRussia's FSB intelligence services imposed r\u2026",
+      "url": "https://biztoc.com/x/7a2e37775f8e9447",
+      "urlToImage": "https://biztoc.com/cdn/7a2e37775f8e9447_s.webp",
+      "publishedAt": "2026-09-22T15:58:37Z",
+      "content": "Russia could stage a limited incursion into Estonia to test NATO's resilience, according to a scenario from the Institute for the Study of War (ISW), which comes amid heightened tensions between Mosc\u2026 [+145 chars]"
+    },
     {
       "source": {
         "id": null,

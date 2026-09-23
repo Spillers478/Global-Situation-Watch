@@ -1,1111 +1,32 @@
 {
   "status": "ok",
-  "totalResults": 1054,
+  "totalResults": 1240,
   "articles": [
-    {
-      "source": {
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "author": "Paran Balakrishnan",
-      "title": "Will Pakistan fight for Saudi Arabia?",
-      "description": "Houthi missiles are hitting deep inside Saudi Arabia, forcing Islamabad to confront its new collective-security pledge",
-      "url": "https://www.thehindubusinessline.com/opinion/will-pakistan-fight-for-saudi-arabia/article71496550.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/eoi4s5/article71496546.ece/alternates/LANDSCAPE_1200/2026-08-07T111512Z_1220276664_RC2NTMAJX0MH_RTRMADP_3_SAUDI-DEFENCE-AGREEMENT.JPG",
-      "publishedAt": "2026-09-22T15:39:34Z",
-      "content": "Pakistan could hardly have dreamt when it signed the tripartite Makkah Defence Pact that it could be called on to honour its commitments barely six weeks later.\r\nYemens Houthis have emerged much stro\u2026 [+4583 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Punch"
-      },
-      "author": "Punch Newspapers",
-      "title": "Trump says deciding between deal or driving Iran \u2018into hell\u2019",
-      "description": "US President Donald Trump told the UN General Assembly he must decide whether to make a deal with Iran or to \u201cannihilate\u201d the Islamic Republic.\n\nRead More: https://punchng.com/trump-says-deciding-between-deal-or-driving-iran-into-hell/",
-      "url": "https://punchng.com/trump-says-deciding-between-deal-or-driving-iran-into-hell/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2026/09/22162503/AFP__20260922__C8ZV3EG__v1__MidRes__DonaldTrumpSSpeechBeforeUnGeneralAssembly_1790090703-1200x630.webp",
-      "publishedAt": "2026-09-22T15:37:18Z",
-      "content": "US President Donald Trump told the United Nations General Assembly Tuesday that he had to choose whether to \u201cannihilate\u201d Iran if it fails to make a deal to end the Middle East war.\r\n\u201cI have a big dec\u2026 [+935 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI World Desk",
-      "title": "South Africa launched a \u20ac15-million programme to restore grasslands, savannas and thickets, with 100,000 hectares targeted by 2030",
-      "description": "Rest of World News: South Africa has launched ReLISA, or Restoring Landscapes in South Africa, a 5-year, \u20ac15-million programme aimed at restoring degraded grassland, sava.",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/south-africa-launched-a-15-million-programme-to-restore-grasslands-savannas-and-thickets-with-100000-hectares-targeted-by-2030/articleshow/134415658.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134415714,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-22T15:36:24Z",
-      "content": "<ul><li>News</li>\r\n<li>World News</li>\r\n<li>Rest of World News</li>\r\n<li>South Africa launched a 15-million programme to restore grasslands, savannas and thickets, with 100,000 hectares targeted by 2\u2026 [+1747 chars]"
-    },
-    {
-      "source": {
-        "id": "new-york-magazine",
-        "name": "New York Magazine"
-      },
-      "author": "Intelligencer Staff",
-      "title": "Trump Promotes War and \u2018Super Intelligence\u2019 at U.N.: As It Happened",
-      "description": "In his big U.N. speech, President Trump promoted his wars, threatened Cuba, celebrated taking Venezuela\u2019s oil, and called for renaming AI \u2018Super Intelligence.\u2019 Here\u2019s what happened as it happened.",
-      "url": "http://nymag.com/intelligencer/article/trump-addresses-un-general-assembly-live-updates.html",
-      "urlToImage": "https://pyxis.nymag.com/v1/imgs/da5/890/a1b5ed3eb944a5d987abf5b8a028fc14e2-trump-shrug.1x.rsocial.w1200.jpg",
-      "publishedAt": "2026-09-22T15:34:00Z",
-      "content": "Its been quite a tumultuous year for this planet of ours, particularly when it comes to the impact of a single American president in the world. President Donald Trump addressed the United Nations Gen\u2026 [+12639 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newser"
-      },
-      "author": "Arden Dier with Newser.AI",
-      "title": "Saudi Arabia Forced Back to Perilous Hormuz",
-      "description": "Saudi Arabia's detours around the Strait of Hormuz aren't quite working out. After months of pushing oil west via pipelines and the Red Sea, Riyadh is again sending millions of barrels a day through Hormuz in what the Wall Street Journal calls a \"risky\" move \u2026",
-      "url": "https://www.newser.com/story/396846/saudi-arabia-forced-back-to-perilous-hormuz.html",
-      "urlToImage": "https://cdn.newser.com/image/1713172-12-20260922105503.jpeg",
-      "publishedAt": "2026-09-22T15:34:00Z",
-      "content": "That's left state giant Saudi Aramco leaning on a precarious workaround: loading crude at Ras Tanura in the Persian Gulf, running tankers through Hormuz, then transferring oil to ships off Oman for c\u2026 [+443 chars]"
-    },
-    {
-      "source": {
-        "id": "rte",
-        "name": "RTE"
-      },
-      "author": "RT\u00c9 News",
-      "title": "Donald Trump's UN speech was a tale of war and peace",
-      "description": "The US President opened his speech by getting what he sees as the obvious out of the way. That the United States was the strongest country in the world.",
-      "url": "https://www.rte.ie/news/2026/0922/1592556-trump-un-speech/",
-      "urlToImage": "https://www.rte.ie/images/00246ff9-1600.jpg",
-      "publishedAt": "2026-09-22T15:30:40Z",
-      "content": "The US President opened his speech by getting what he sees as the obvious out of the way.\r\nThat the United States was the strongest country in the world.\r\n\"America is back,\" he declared, with the gre\u2026 [+3251 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Raw Story"
-      },
-      "author": "John Casey",
-      "title": "Trump just openly told the UN he's cornered \u2014 and a deranged attack is imminent",
-      "description": "Today Donald Trump asked a seemingly rhetorical question to the UN General Assembly: Do I annihilate the Islamic Republic of Iran? Do I drive them into hell?But if you\u2019ve been watching Trump especially close lately, you should not categorize those as rhetoric\u2026",
-      "url": "https://www.rawstory.com/raw-investigates/trump-un-iran/",
-      "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=67811490&width=1200&height=600&coordinates=0%2C416%2C0%2C417",
-      "publishedAt": "2026-09-22T15:30:25Z",
-      "content": "Today Donald Trump asked a seemingly rhetorical question to the UN General Assembly: Do I annihilate the Islamic Republic of Iran? Do I drive them into hell?\r\nBut if youve been watching Trump especia\u2026 [+5810 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Josh Christenson, Steven Nelson",
-      "title": "Trump warns Iran at UN he may \u2018drive them into hell,\u2019 says US \u2018settling years of unfinished business\u2019",
-      "description": "Trump received applause from foreign dignitaries for his pledge to stop Iran from building a nuclear weapon after delivering the shocking threat.",
-      "url": "https://nypost.com/2026/09/22/us-news/trump-warns-iran-at-un-he-may-drive-them-into-hell-says-us-settling-years-of-unfinished-business/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-n5dry7nky-1790090131603.jpg?quality=75&strip=all&1790075740&w=1200",
-      "publishedAt": "2026-09-22T15:29:44Z",
-      "content": "UNITED NATIONS President Trump called on United Nations members to support the US war effort against Iran as he floated a dramatic military escalation that would \u201cdrive them into hell.\u201d\r\nTrump receiv\u2026 [+8487 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "Trump threatens to \u2018annihilate\u2019 Iran, says deal will come after US midterms",
-      "description": "US President Donald Trump delivered a sharply worded warning to Iran at the UN General Assembly, saying Tehran faces a choice between reaching a deal with Washington and being \u201cannihilated\u201d. At the same time, Trump said he believed the two sides would strike \u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-threatens-to-annihilate-iran-says-deal-will-come-after-us-midterms/articleshow/134415444.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134415460,width-1200,height-630,imgsize-75200,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-22T15:18:59Z",
-      "content": "US President Donald Trump on Tuesday threatened to annihilate Iran if Tehran refuses to reach a deal with Washington, while saying he believed an agreement would be done right after the election as h\u2026 [+4137 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The New Republic"
-      },
-      "author": "Hafiz Rashid",
-      "title": "Brazil\u2019s Lula Warns U.N. About U.S. and Israel Ahead of Trump Speech",
-      "description": "Brazilian President Luiz In\u00e1cio Lula da Silva called out the failure of the United Nations to prevent war, mentioning Israel\u2019s genocide in Gaza and repeatedly criticizing President Trump\u2019s policies during his speech at the U.N. General Assembly in New York Tu\u2026",
-      "url": "https://newrepublic.com/post/215707/brazil-lula-warns-un-us-israel-before-trump-speech",
-      "urlToImage": "https://images.newrepublic.com/4015e892dcb91f5423edcbcae959946ce5fa3886.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
-      "publishedAt": "2026-09-22T15:18:21Z",
-      "content": "About 90 minutes after that, viewership declined to 4,000. By 9 p.m. on Monday, its audience had sunk to 3,000 viewersa paltry percentage of the channels 3,220,000 subscribers. \r\nTrump announced Frid\u2026 [+571 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Ryan King",
-      "title": "Iran offers to reopen Strait of Hormuz if US ends blockade: \u2018Golden opportunity\u2019",
-      "description": "\u201cCommon sense tells you there's no harm in engaging and talking to someone,'' US Secretary of State Marco Rubio said Tuesday.",
-      "url": "https://nypost.com/2026/09/22/us-news/iran-offers-to-reopen-strait-of-hormuz-if-us-ends-blockade-golden-opportunity/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-xiayzfrog-1790088545900.jpg?quality=75&strip=all&1790074172&w=1200",
-      "publishedAt": "2026-09-22T15:16:45Z",
-      "content": "WASHINGTON Iran has offered to reopen the Strait of Hormuz within a seven-day period if the US agrees to end its blockade and military pressure campaign, according to a report.\r\nThe pitch was conveye\u2026 [+3659 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hurriyet Daily News"
-      },
-      "author": "hurriyetdailynews.com",
-      "title": "Trump says deciding between deal or driving Iran \u2018into hell\u2019",
-      "description": "U.S. President Donald Trump told the United Nations General Assembly on Sept. 22 that he had to choose whether to \u201cannihilate\u201d Iran if it fails to make a deal to end the Middle East war.",
-      "url": "https://www.hurriyetdailynews.com/trump-says-deciding-between-deal-or-driving-iran-into-hell-227211",
-      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6ab29b19242e1cf6f86a4a9b.jpg",
-      "publishedAt": "2026-09-22T15:13:32Z",
-      "content": "TEHRAN\r\nU.S. President Donald Trump told the United Nations General Assembly on Sept. 22 that he had to choose whether to annihilate Iran if it fails to make a deal to end the Middle East war.\r\nDo I \u2026 [+2462 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Punch"
-      },
-      "author": "Punch Newspapers",
-      "title": "Trump at UN threatens \u2018military might\u2019 in Latin America",
-      "description": "President Donald Trump will vow to use US military power to secure interests in Latin America during his speech at the UN General Assembly, says the White\n\nRead More: https://punchng.com/trump-at-un-threatens-military-might-in-latin-america/",
-      "url": "https://punchng.com/trump-at-un-threatens-military-might-in-latin-america/",
-      "urlToImage": "https://punchng.com/wp-content/uploads/2026/07/Trump-writes_1784740041.webp",
-      "publishedAt": "2026-09-22T15:05:02Z",
-      "content": "President Donald Trump will vow at the UN General Assembly Tuesday to use \u201cunmatched\u201d US military power to secure Washington\u2019s interests in Latin America, according to extracts of his speech released\u2026 [+864 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mediaite"
-      },
-      "author": "Alex Griffing",
-      "title": "\u2018Do I Annihilate the Islamic Republic?\u2019 Trump Issues Shocking Threat to Iran in UN Speech",
-      "description": "\"Do I annihilate the Islamic Republic, and do it quickly, never giving them a chance to kill and destroy people and countries again? Do I drive them into hell\"\nThe post \u2018Do I Annihilate the Islamic Republic?\u2019 Trump Issues Shocking Threat to Iran in UN Speech \u2026",
-      "url": "https://www.mediaite.com/media/news/do-i-annihilate-the-islamic-republic-trump-issues-shocking-threat-to-iran-in-un-speech/",
-      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2026/09/trump-14.jpg",
-      "publishedAt": "2026-09-22T15:02:38Z",
-      "content": "President Donald Trump addressed the United Nations General Assembly on Tuesday and told the worlds diplomats he had a big decision to make, whether or not to annihilate Iran.\r\nTrump listed many of t\u2026 [+3033 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Science Desk",
-      "title": "Meet Kelvin Doe: The 13-year-old who turned discarded materials into a battery, generator and transmitter before receiving an invitation to MIT at 15",
-      "description": "Experiments & Discoveries News: At 13, Kelvin Doe was searching through piles of discarded materials in Freetown for things most people would have left behind. Acid, soda, scrap meta.",
-      "url": "https://timesofindia.indiatimes.com/science/discovery/meet-kelvin-doe-the-13-year-old-who-turned-discarded-materials-into-a-battery-generator-and-transmitter-before-receiving-an-invitation-to-mit-at-15/articleshow/134415094.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134415233,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-22T15:02:19Z",
-      "content": "<ul><li>News</li>\r\n<li>Science News</li>\r\n<li>Meet Kelvin Doe: The 13-year-old who turned discarded materials into a battery, generator and transmitter before receiving an invitation to MIT at 15</li\u2026 [+1792 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Raw Story"
-      },
-      "author": "Alexander Willis",
-      "title": "Trump stared down as he threatens to 'drive Iran into hell with no chance of survival\u2019",
-      "description": "An Iranian United Nations representative stared down President Donald Trump Tuesday as he threatened to \u201cannihilate the Islamic Republic\u201d and \u201cdrive them into hell with no chance of survival.\u201dDelivering his remarks to the United Nations General Assembly, Trum\u2026",
-      "url": "https://www.rawstory.com/trump-iran-2677915283/",
-      "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=67811361&width=1200&height=600&coordinates=0%2C166%2C0%2C167",
-      "publishedAt": "2026-09-22T15:02:18Z",
-      "content": "An Iranian United Nations representative stared down President Donald Trump Tuesday as he threatened to annihilate the Islamic Republic and drive them into hell with no chance of survival.\r\nDeliverin\u2026 [+806 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Jezebel"
-      },
-      "author": "Danielle Han",
-      "title": "That Marks at Least Three Times Trump\u2019s Dreamed Out Loud About Wiping Out Iran",
-      "description": "Speaking to the UN on Tuesday, Trump floated two options. One was to \u201cannihilate the Islamic Republic, and do it quickly, never giving them a chance to kill and destroy countries again.\u201d",
-      "url": "https://www.jezebel.com/that-marks-at-least-three-times-trumps-dreamed-out-loud-about-wiping-out-iran",
-      "urlToImage": "https://www.jezebel.com/wp-content/uploads/2026/09/22/trump-UN-speech.jpg",
-      "publishedAt": "2026-09-22T15:02:18Z",
-      "content": "The UN General Assembly commenced its first day of the high-level General Debate for the 81st session in New York on\u00a0Tuesdaya time for world leaders to share their priorities, as well as discuss majo\u2026 [+2901 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Crypto Briefing"
-      },
-      "author": "Editorial Team",
-      "title": "Oil prices drop as Iran offers to reopen Strait of Hormuz if US lifts blockade",
-      "description": "The potential reopening of the Strait of Hormuz could stabilize global oil markets, but hinges on complex US-Iran diplomatic negotiations.\nThe post Oil prices drop as Iran offers to reopen Strait of Hormuz if US lifts blockade appeared first on Crypto Briefin\u2026",
-      "url": "https://cryptobriefing.com/oil-prices-drop-iran-strait-hormuz/",
-      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/22110117/library-oil-prices-drop-as-iran-offers-to-reopen-strait-of-hormu-800x450.png",
-      "publishedAt": "2026-09-22T15:01:20Z",
-      "content": "Iran's conditional proposal to restore traffic through the world's most critical oil chokepoint sent crude futures sliding, but traders aren't popping champagne yet Brent crude futures fell to $99.45\u2026 [+2583 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The New Republic"
-      },
-      "author": "Ellie Quinlan Houghtaling",
-      "title": "Trump Casually Mulls Sending Iran \u201cInto Hell\u201d in Deranged U.N. Speech",
-      "description": "Donald Trump openly mused about Iran\u2019s potential annihilation before the United Nations General Assembly Tuesday.Speaking before representatives of 193 countries, Trump painted two pictures for a potential peace deal with Iran, offering the country the chance\u2026",
-      "url": "https://newrepublic.com/post/215709/donald-trump-mulls-sending-iran-into-hell-un-speech",
-      "urlToImage": "https://images.newrepublic.com/c4994ca2b88875aad7d3fb2410bf5f1294019f32.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
-      "publishedAt": "2026-09-22T14:59:02Z",
-      "content": "I am never ever, ever, ever, ever doing this event again, former Kentucky GOP gubernatorial candidate and event host Eric Deters, who throws the event on his farm, said on Facebook Monday. When I put\u2026 [+1135 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Caitlinjohnst.one"
-      },
-      "author": "Caitlin Johnstone",
-      "title": "The Real Danger of AI is That It is Run by Evil Warmongers",
-      "description": "\u2026\nThe post The Real Danger of AI is That It is Run by Evil Warmongers appeared first on Global Research.",
-      "url": "https://www.caitlinjohnst.one/p/the-real-danger-of-ai-is-that-it",
-      "urlToImage": "https://substackcdn.com/image/fetch/$s_!4KYm!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F227b0ed1-f713-42a6-9fda-7a47f24b4344_1080x565.jpeg",
-      "publishedAt": "2026-09-22T14:58:12Z",
-      "content": "Video reading by Tim Foley:\r\nThe biggest AI threat isnt artificial superintelligence wiping out humanity in a fit of mechanical vengeance like some digital Old Testament God, its the same oligarchs a\u2026 [+4009 chars]"
-    },
-    {
-      "source": {
-        "id": "rte",
-        "name": "RTE"
-      },
-      "author": "Liam Nolan",
-      "title": "The ups and downs of Trump and Zelensky meetings",
-      "description": "Volodymyr Zelensky has learned how to deal with Donald Trump the hard way during that first Oval Office meeting.",
-      "url": "https://www.rte.ie/news/analysis-and-comment/2026/0922/1592552-trump-zelensky-meeting-preview/",
-      "urlToImage": "https://www.rte.ie/images/00250ce8-1600.jpg",
-      "publishedAt": "2026-09-22T14:56:45Z",
-      "content": "Ukrainian President Volodymyr Zelensky and US President Donald Trump have had their ups and downs since Mr Trump returned to the White House almost two years ago.\r\nTheir meeting later today on the si\u2026 [+3978 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Israelnationalnews.com"
-      },
-      "author": "Israel National News",
-      "title": "Trump at the UN: \"Iran developed a missile that would enable them to strike Europe\"",
-      "description": "US President Donald Trump warned in his address to the UN that \"Iran has developed a missile that would enable them to strike Europe.\"He said, \"Their goal was to complete their mad race to nuclear weapons behind the protection of ballistic missiles.\"",
-      "url": "https://www.israelnationalnews.com/flashes/693919",
-      "urlToImage": "https://2.a7.org/files/pictures/000/1075218.jpg",
-      "publishedAt": "2026-09-22T14:54:27Z",
-      "content": "US President Donald Trump warned in his address to the UN that \"Iran has developed a missile that would enable them to strike Europe.\"\r\nHe said, \"Their goal was to complete their mad race to nuclear \u2026 [+52 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Israelnationalnews.com"
-      },
-      "author": "Israel National News",
-      "title": "Trump at UN: \"I will never allow Iran to obtain nuclear weapons\"",
-      "description": "US President Donald Trump addressed Iran in his speech at the UN, saying: \"Iran used to be the bully of the Middle East, but they are no longer the bully. I will never allow Iran to obtain nuclear weapons.\"",
-      "url": "https://www.israelnationalnews.com/flashes/693918",
-      "urlToImage": "https://2.a7.org/files/pictures/000/1075218.jpg",
-      "publishedAt": "2026-09-22T14:53:27Z",
-      "content": "US President Donald Trump addressed Iran in his speech at the UN, saying: \"Iran used to be the bully of the Middle East, but they are no longer the bully. I will never allow Iran to obtain nuclear we\u2026 [+6 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Crypto Briefing"
-      },
-      "author": "Estefano Gomez",
-      "title": "Trump hints at critical decision on Iran deal or military action",
-      "description": "Trump hints at a critical decision on the Iran deal or military action. Deal including reconstruction funding by 2026 at 18.5% YES.\nThe post Trump hints at critical decision on Iran deal or military action appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/trump-hints-at-critical-decision-on-iran-deal-or-military-action/",
-      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/22105206/cb-card-geo-182-800x420.png",
-      "publishedAt": "2026-09-22T14:52:07Z",
-      "content": "President Donald Trump has tweeted about a critical decision regarding Iran, hinting at either negotiating a deal that could lead to rebuilding the nation or taking military action to potentially des\u2026 [+1638 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Trump defends US interventions abroad ahead of 'big decision' on Iran: 'Settling years of unfinished business'",
-      "description": "At the UN General Assembly in New York City on Tuesday morning, President Donald Trump delivered a speech on America's role in global leadership.",
-      "url": "https://www.foxnews.com/politics/trump-defends-us-interventions-abroad-ahead-big-decision-iran-settling-years-unfinished-business",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/trump-addresses-unga.jpg",
-      "publishedAt": "2026-09-22T14:51:58Z",
-      "content": "President Donald Trump issued a stern warning Tuesday for Iran to make a deal soon or face severe consequences for its pursuit of a nuclear weapon.\r\n\"I have a big decision to make: Will a deal be mad\u2026 [+737 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Crypto Briefing"
-      },
-      "author": "Estefano Gomez",
-      "title": "Biden warns of Iran terror threat amid nuclear tensions",
-      "description": "Biden's warning underscores escalating geopolitical risks, complicating diplomatic efforts and reducing market confidence in a U.S.-Iran deal.\nThe post Biden warns of Iran terror threat amid nuclear tensions appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/biden-warns-of-iran-terror-threat-amid-nuclear-tensions/",
-      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/22104916/cb-card-geo-181-800x420.png",
-      "publishedAt": "2026-09-22T14:49:17Z",
-      "content": "President Joe Biden\u2019s remarks highlight concerns over potential large-scale terror attacks by Iran if the regime is empowered by nuclear weapons. He drew parallels between past terrorist events and t\u2026 [+2071 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Crypto Briefing"
-      },
-      "author": "Estefano Gomez",
-      "title": "Trump predicts oil prices will plummet after Iran conflict ends",
-      "description": "A resolution in the Iran conflict could stabilize oil markets, reducing volatility and impacting global economic forecasts and energy policies.\nThe post Trump predicts oil prices will plummet after Iran conflict ends appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/trump-predicts-oil-prices-will-plummet-after-iran-conflict-ends/",
-      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/08093645/pexels-photo-16862261-699x457.jpeg",
-      "publishedAt": "2026-09-22T14:48:48Z",
-      "content": "Former President Donald Trump has claimed that oil prices will decline once the ongoing conflict with Iran concludes. Trump\u2019s remarks have been consistent in suggesting that the resolution of the Ira\u2026 [+1860 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNA"
-      },
-      "author": null,
-      "title": "Houthis say Saudi Arabia conducts deadly strike on key port city",
-      "description": "SANAA: Yemen's Houthis said Saudi Arabia carried out a deadly strike on a key port city on Tuesday (Sep 22), over a week into the Houthi offensive that has seen them seize control of a strait that is crucial to global energy flows.G7 nations",
-      "url": "https://www.channelnewsasia.com/world/houthis-saudi-arabia-strike-yemen-key-port-city-6402761",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--r2LwAyJ3--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-22T125649Z_1_LYNXMPEM8L0Y3_RTROPTP_3_IRAN-CRISIS-SAUDI-YEMEN.JPG?itok=DGYGbPE3",
-      "publishedAt": "2026-09-22T14:48:00Z",
-      "content": "SANAA: Yemen's Houthis said Saudi Arabia carried out a deadly strike on a key port city on Tuesday (Sep 22), over a week into the Houthi offensive that has seen them seize control of a strait that is\u2026 [+2319 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Caol\u00e1n Magee",
-      "title": "Why are the Houthis fighting for Yemen\u2019s Kahboub Mountains?",
-      "description": "Kahboub could help the Houthis consolidate control near one of the world\u2019s busiest shipping routes.",
-      "url": "https://www.aljazeera.com/news/2026/9/22/why-are-the-houthis-fighting-for-yemens-kahboub-mountains",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab27647e500-1790080583.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-09-22T14:47:25Z",
-      "content": "The Houthis are attempting to push into the Kahboub Mountains after seizing much of Yemens Red Sea coast in a lightning offensive this month an advance that experts say could dramatically shift the b\u2026 [+7474 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Crypto Briefing"
-      },
-      "author": "Estefano Gomez",
-      "title": "Trump urges global unity on Iran, hints at post-election deal negotiations",
-      "description": "Trump's call for unity may boost diplomatic efforts, impacting market perceptions and increasing the likelihood of future U.S.-Iran deals.\nThe post Trump urges global unity on Iran, hints at post-election deal negotiations appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/trump-urges-global-unity-on-iran-hints-at-post-election-deal-negotiations/",
-      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/22104445/library-trump-urges-global-unity-on-iran-hints-at-post-election--1-800x450.png",
-      "publishedAt": "2026-09-22T14:44:47Z",
-      "content": "At the United Nations, U.S. President Donald Trump urged global unity in applying pressure on Iran, asserting that the United States would negotiate a deal with Iran following the upcoming election. \u2026 [+2285 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dailymail.com"
-      },
-      "author": "Jon Michael Raasch",
-      "title": "Trump scolds world leaders face-to-face in explosive speech at the UN saying only HE 'acted' to confront Iran threat",
-      "description": "Speaking to world leaders assembled in Manhattan for the UN General Assembly meeting, President Donald Trump argued the nobility of his Iran war while condemning other global conflicts.",
-      "url": "https://www.dailymail.com/news/article-16151189/Trump-scolds-world-leaders-face-face-explosive-speech-saying-acted-confront-Iran-threat.html",
-      "urlToImage": "https://i.dailymail.com/1s/2026/09/22/15/111399137-0-image-m-24_1790087587035.jpg",
-      "publishedAt": "2026-09-22T14:44:36Z",
-      "content": "Speaking to world leaders assembled in Manhattan for the UN General Assembly meeting, President Donald Trump\u00a0scolded the crowd for forcing him to go alone in the US war on Iran.\u00a0\r\nFrom behind the ico\u2026 [+2209 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Daily Caller"
-      },
-      "author": "Geoffrey Ingersoll",
-      "title": "INGERSOLL: NEW POLL \u2014 We Love Mr. Rogers, And We Want You Dead",
-      "description": "Around 1 in 3 Democrats would love to see Trump\u2019s presidency end in an assassination, 59% support a coup, 68% believe we need \u201cmore immigrants.\u201d",
-      "url": "https://dailycaller.com/2026/09/22/center-strategic-politics-poll-democrats-liberals-coup-assassination-trump-mr-rogers-newsom-kamala",
-      "urlToImage": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/09/sotd92226.jpg",
-      "publishedAt": "2026-09-22T14:43:42Z",
-      "content": "Below is State of the Day, a morning newsletter by Daily Caller Editor-at-Large Geoff Ingersoll. Sign up here.\r\n__________\r\nGreetings, Dear Reader,\r\nYou will be surprised by none of this.\r\nWE LOVE MR\u2026 [+2974 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "breakingthenews.net",
-      "title": "Trump: Iran made missile capable of hitting Europe",
-      "description": "United States President Donald Trump denounced Iran in his speech before the United Nations on Tuesday, proclaiming that the Middle Eastern nation \"made a missile that was capable of hitting Europe an...",
-      "url": "https://biztoc.com/x/204db0b9329d5d90",
-      "urlToImage": "https://biztoc.com/cdn/204db0b9329d5d90_s.webp",
-      "publishedAt": "2026-09-22T14:43:27Z",
-      "content": "United States President Donald Trump denounced Iran in his speech before the United Nations on Tuesday, proclaiming that the Middle Eastern nation \"made a missile that was capable of hitting Europe a\u2026 [+69 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Israelnationalnews.com"
-      },
-      "author": "Israel National News",
-      "title": "Live: Trump presents his 'choice' on Iran to the UN General Assembly",
-      "description": "US President vows that he will not allow Iran to build a nuclear weapon in speech to the UN.",
-      "url": "https://www.israelnationalnews.com/news/433491",
-      "urlToImage": "https://2.a7.org/files/pictures/000/1226398.jpg",
-      "publishedAt": "2026-09-22T14:43:00Z",
-      "content": "LIVE: Trump speaks at UN General Assembly 2026\r\nUS President Donald Trump referred to the war against Iran in his speech at the UN General Assembly today (Tuesday) and said: \"There is no better examp\u2026 [+4100 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Daily Caller"
-      },
-      "author": "Simon August",
-      "title": "Saudi Arabia Reportedly Restarts Pipeline That Moved Oil Around Hormuz After Drone Attacks Knocked It Offline",
-      "description": "Saudi Arabia has reportedly restarted its pipeline that bypasses the Strait of Hormuz after drone attacks forced it offline earlier in September.",
-      "url": "https://dailycaller.com/2026/09/22/saudi-arabia-east-west-pipeline-restart-yanbu-hormuz-oil",
-      "urlToImage": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2021/10/GettyImages-1229760380.jpg",
-      "publishedAt": "2026-09-22T14:29:55Z",
-      "content": "Saudi Arabia has reportedly restarted its pipeline that bypasses the Strait of Hormuz after drone attacks forced it offline earlier in September.\r\nThe kingdom could resume crude exports from its Red \u2026 [+2259 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Crypto Briefing"
-      },
-      "author": "Editorial Team",
-      "title": "US Central Command overhauls AI targeting protocols after deadly school strike killed 156 in Iran",
-      "description": "The overhaul of AI targeting protocols highlights the critical need for balancing technological efficiency with ethical responsibility in military operations.\nThe post US Central Command overhauls AI targeting protocols after deadly school strike killed 156 i\u2026",
-      "url": "https://cryptobriefing.com/centcom-updates-ai-targeting-after-strike/",
-      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/22102526/library-us-central-command-overhauls-ai-targeting-protocols-afte-800x450.png",
-      "publishedAt": "2026-09-22T14:25:30Z",
-      "content": "CENTCOM's updated process includes upgrades to Palantir's Maven Smart System and new civilian tracking measures following the deadliest incident of Operation Epic Fury US Central Command has rewritte\u2026 [+2852 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Antiwar.com"
-      },
-      "author": "Len D. Pozeram",
-      "title": "Charles Goyette\u2019s Empire of Lies: Restoring the History the Warlords Need US To Forget",
-      "description": "Charles Goyette, Empire of Lies: Fragments from the Memory Hole. Edited by Mike Dworski and Ben Parker. Austin, Texas: The Libertarian Institute, 2025. 275 numbered pages, plus preliminary matter. ISBN 979-8-9942002-0-9. What happens to a republic when its go\u2026",
-      "url": "https://www.antiwar.com/blog/2026/09/22/empire-of-lies-restoring-the-history-the-warlords-need-us-to-forget/",
-      "urlToImage": "https://d27srd8s9736cr.cloudfront.net/2026/09/goyette-x.jpg",
-      "publishedAt": "2026-09-22T14:22:20Z",
-      "content": "Charles Goyette, Empire of Lies: Fragments from the Memory Hole. Edited by Mike Dworski and Ben Parker. Austin, Texas: The Libertarian Institute, 2025. 275 numbered pages, plus preliminary matter. IS\u2026 [+18998 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "John Kingston",
-      "title": "Benchmark diesel sets new record; futures signaling relief?",
-      "description": "The benchmark diesel price used for most fuel surcharges is up almost $2/gal since early July. The post Benchmark diesel sets new record; futures signaling r...",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/benchmark-diesel-sets-record-futures-142020903.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/0e7acf7d66d074e38a6eadbd15c782436dbc213b76793d573a588108942096cc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffreightwaves_373%2Fcded958c1e9602777685c2fd51985807.jpg",
-      "publishedAt": "2026-09-22T14:20:20Z",
-      "content": "If you're a diesel user and you don't know whether you're coming or going, you've got plenty of company.\r\nThe volatility in the market was evident just in the past few days. On Tuesday, the Departmen\u2026 [+5754 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fair Observer"
-      },
-      "author": "Tom Engelhardt",
-      "title": "Once Upon a Time: My Tale of How the War on Terror Came Home in the Age of Donald J. Trump",
-      "description": "Okay, here\u2019s what this old man remembers nearly a quarter of a century later: I was living in New York City when, on September 11, 2001, two hijacked planes full of passengers hit the Twin Towers of the World Trade Center, killing almost 3,000 innocent people\u2026",
-      "url": "https://www.fairobserver.com/politics/once-upon-a-time-my-tale-of-how-the-war-on-terror-came-home-in-the-age-of-donald-j-trump/",
-      "urlToImage": "https://www.fairobserver.com/wp-content/uploads/2026/09/911.jpg",
-      "publishedAt": "2026-09-22T14:15:04Z",
-      "content": "Okay, heres what this old man remembers nearly a quarter of a century later:\r\nI was living in New York City when, on September 11, 2001, two hijacked planes full of passengers hit the Twin Towers of \u2026 [+9803 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "author": "feedfeeder",
-      "title": "\u2018MBS will not forget\u2019: Donald Trump\u2019s reluctance to fight Houthis rattles Saudi Arabia - Financial Times",
-      "description": "\u2018MBS will not forget\u2019: Donald Trump\u2019s reluctance to fight Houthis rattles Saudi ArabiaFinancial Times As US steers clear of Yemen fight, the Iran-backed Houthis launch next phase of campaignCNN Trump Gets Caught in a Dilemma Over a Saudi Plea for Military Hel\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185739888",
-      "urlToImage": null,
-      "publishedAt": "2026-09-22T14:13:21Z",
-      "content": "\"Love is an ideal thing, marriage a real thing; a confusion of the real with \r\nthe ideal never goes unpunished.\"\r\n-- Goethe"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ibtimes.com.au"
-      },
-      "author": "Anthony Will",
-      "title": "Iran Offers to Reopen Strait of Hormuz Within Seven Days if US Eases Military Pressure, Lifts Blockade",
-      "description": "Iran has offered to reopen the Strait of Hormuz within seven days if Washington eases military pressure and lifts its blockade, while attacks and shipping disruptions continue.",
-      "url": "https://www.ibtimes.com.au/iran-offers-reopen-strait-hormuz-seven-days-1875762",
-      "urlToImage": "https://d.ibtimes.com.au/en/full/1892869/satellite-image-strait-hormuz.jpg",
-      "publishedAt": "2026-09-22T14:11:13Z",
-      "content": "DUBAI \u2014 Iran has offered to reopen the Strait of Hormuz within seven days if the United States eases military pressure and lifts its blockade on Iranian ports, a senior Iranian official told Reuters \u2026 [+5631 chars]"
-    },
-    {
-      "source": {
-        "id": "rt",
-        "name": "RT"
-      },
-      "author": "RT",
-      "title": "West has \u2018misunderstood\u2019 depth of India-Russia ties \u2013 ex-foreign secretary (VIDEO)",
-      "description": "Former Foreign Secretary Ranjan Mathai says Western focus on oil ignores the wider geopolitical and economic ties between India and Russia Read Full Article at RT.com",
-      "url": "https://www.rt.com/india/646096-ranjan-mathai-interview/",
-      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6ab28be085f540045908f0b0.png",
-      "publishedAt": "2026-09-22T14:09:39Z",
-      "content": "The West has \u201ccompletely\u201d misread India\u2019s relationship with Russia by reducing it largely to one over oil, and overlooking the wider geopolitical, economic, and strategic ties between New Delhi and M\u2026 [+2761 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNA"
-      },
-      "author": null,
-      "title": "Iran, US hint at revival of talks as Trump, Pezeshkian due to attend UN",
-      "description": "Iran could reopen the Strait of Hormuz to Gulf shipping within seven days if the US fulfilled Tehran's demands to ease military pressure and lift the blockade on Iranian ports, says an Iranian official.",
-      "url": "https://www.channelnewsasia.com/world/iran-us-peace-talk-revival-trump-un-general-assembly-6402351",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--LhfzQVYc--/c_crop,h_449,w_799,x_1,y_42/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-22T122001Z_2_LYNXMPEM8L0VR_RTROPTP_3_IRAN-CRISIS.JPG?itok=GNTd_l1z",
-      "publishedAt": "2026-09-22T14:08:00Z",
-      "content": "DUBAI: Iran and the United States hinted on Tuesday (Sep 22) at the prospect of reviving negotiations to end their conflict, with the presidents of both countries due at the UN General Assembly in Ne\u2026 [+2724 chars]"
-    },
-    {
-      "source": {
-        "id": "rt",
-        "name": "RT"
-      },
-      "author": "RT",
-      "title": "You still don\u2019t have the cards: Is Zelensky still bringing a bluff to Trump?",
-      "description": "Zelensky will meet Trump at the UN while being trailed by a $27 billion defense hole, Patriot shortages, and corruption scandals Read Full Article at RT.com",
-      "url": "https://www.rt.com/news/646079-zelensky-trump-card-bluff-un/",
-      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6ab25cea85f5407f856c3575.jpg",
-      "publishedAt": "2026-09-22T14:06:57Z",
-      "content": "\u201cYou don\u2019t have the cards.\u201d\r\nThat was the message US President Donald Trump famously delivered to Vladimir Zelensky during their fiery Oval Office showdown in February 2025. Trump accused the Ukraini\u2026 [+9485 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Atlantic"
-      },
-      "author": "Adam Harris",
-      "title": "The Trump-Xi Summit",
-      "description": "A high-stakes week unfolds among Trump, Xi, and other global leaders.",
-      "url": "https://www.theatlantic.com/podcasts/2026/09/ra-us-china/688731/",
-      "urlToImage": "https://cdn.theatlantic.com/thumbor/sOKa-9vxsGFU5HX85I7z3hIjHsQ=/0x85:3994x2165/1200x625/media/img/mt/2026/09/2026_09_21_RA_Xi_Trump_Radio_Atlantic_Horizontal/original.jpg",
-      "publishedAt": "2026-09-22T14:04:55Z",
-      "content": "Subscribe here: Apple Podcasts | Spotify | YouTube | Overcast | Pocket CastsIt\u2019s a big week on the global stage. More than 100 world leaders and their senior representatives will meet in New York Cit\u2026 [+27059 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Crypto Briefing"
-      },
-      "author": "Editorial Team",
-      "title": "Donald Trump to defend Iran war at UN General Assembly as conflict reaches seventh month",
-      "description": "Trump's UN speech may escalate geopolitical tensions, impacting global markets and diplomacy, while highlighting US unilateralism in conflict.\nThe post Donald Trump to defend Iran war at UN General Assembly as conflict reaches seventh month appeared first on \u2026",
-      "url": "https://cryptobriefing.com/trump-defends-iran-war-un-general-assembly/",
-      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/22100347/library-donald-trump-to-defend-iran-war-at-un-general-assembly-a-800x450.png",
-      "publishedAt": "2026-09-22T14:03:56Z",
-      "content": "The president is expected to frame ongoing military operations as essential to global security while criticizing the UN's ability to manage international conflicts. President Donald Trump is set to t\u2026 [+3610 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TheJournal.ie"
-      },
-      "author": "AFP",
-      "title": "Trump expected to claim he is 'winning' both on battlefield and as a peacemaker in UN speech",
-      "description": "The keynote speech at the start of the UN General Assembly High-level week will provide Trump with a platform to renew his frequent assaults on the global body.",
-      "url": "https://www.thejournal.ie/trump-expected-to-claim-he-is-winning-both-on-the-battlefield-and-as-a-peacemaker-in-un-speech-7169663-Sep2026/",
-      "urlToImage": "https://img2.thejournal.ie/article/7169663/river/?height=400&version=7169682",
-      "publishedAt": "2026-09-22T14:03:09Z",
-      "content": "US PRESIDENT DONALD Trump is expected to claim he is winning both on the battlefield and as a peacemaker in a speech to the United Nations overshadowed by growing spillover from his stalled war again\u2026 [+4663 chars]"
-    },
-    {
-      "source": {
-        "id": "rte",
-        "name": "RTE"
-      },
-      "author": "RT\u00c9 News",
-      "title": "Trump to defend Iran war in UN speech, talk peace efforts",
-      "description": "US President Donald Trump will use a UN General Assembly address to argue that the war with Iran prevented Tehran from obtaining a nuclear weapon and to tout what he sees as progress toward peace and a global order increasingly aligned with American interests\u2026",
-      "url": "https://www.rte.ie/news/us/2026/0922/1592545-trump-un-meetings/",
-      "urlToImage": "https://www.rte.ie/images/00250cea-1600.jpg",
-      "publishedAt": "2026-09-22T14:00:49Z",
-      "content": "US President Donald Trump has opened his UN General Assembly address by touting the strength of the US economy, kicking off a speech in which he was expected to argue that the war with Iran prevented\u2026 [+3893 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "OilPrice.com"
-      },
-      "author": "RFE/RL staff",
-      "title": "Yemen Escalation Raises New Risks for Global Oil Markets",
-      "description": "A conflict that has simmered in Yemen for years has flared in recent weeks, with consequences that could reach far beyond the Middle East. The Houthi rebels have seized nearly all of Yemen\u2019s Red Sea coastline, giving the Iran-aligned militant group control of\u2026",
-      "url": "https://oilprice.com/Geopolitics/Middle-East/Yemen-Escalation-Raises-New-Risks-for-Global-Oil-Markets.html",
-      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-21_m3jl5basn6.jpg",
-      "publishedAt": "2026-09-22T14:00:00Z",
-      "content": "The Houthis are pursuing their\u2026\r\nTrump's meeting with Gulf leaders\u2026\r\nThe United States sanctioned a\u2026\r\nBy RFE/RL staff - Sep 22, 2026, 9:00 AM CDTA conflict that has simmered in Yemen for years has fl\u2026 [+4625 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wnd.com"
-      },
-      "author": "Joe Kovacs",
-      "title": "\u2018Not true\u2019: Trump blasts \u2018cowards and traitors\u2019 who claim U.S. is low on munitions",
-      "description": "'We have more munitions than we could ever possibly think of using, and are building them up now at levels we have never seen before'",
-      "url": "https://www.wnd.com/2026/09/not-true-trump-blasts-cowards-traitors-who-claim/",
-      "urlToImage": "https://www.wnd.com/wp-content/uploads/2026/09/cool-lights-red-green-war-aircraft-carrier-weapons-military-pentagon-jpg-1200x630.jpg",
-      "publishedAt": "2026-09-22T13:58:51Z",
-      "content": "A sailor signals to a Navy MH-60R Sea Hawk helicopter on the flight deck aboard the aircraft carrier USS George Washington in the U.S. 5th Fleet area of operations, Sept. 18, 2026. (U.S. Navy photo)\r\u2026 [+4355 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fair Observer"
-      },
-      "author": "Hollie McKay",
-      "title": "As Iran\u2019s War Drains Its Arsenal, Egypt, Turkey and Pakistan Rearm Sudan\u2019s Army",
-      "description": "Last year, Sudan\u2019s army was flying drones with a clear origin. Satellite images caught Mohajer-6 airframes parked on the runway at Wadi Sayyidna \u2014 an Iranian-designed platform the Rapid Support Forces (RSF) said it had shot down over Omdurman for the third ti\u2026",
-      "url": "https://www.fairobserver.com/region/middle_east_north_africa/as-irans-war-drains-its-arsenal-egypt-turkey-and-pakistan-rearm-sudans-army/",
-      "urlToImage": "https://www.fairobserver.com/wp-content/uploads/2026/09/Sudan-2.jpg",
-      "publishedAt": "2026-09-22T13:58:39Z",
-      "content": "Last year, Sudans army was flying drones with a clear origin. Satellite images caught Mohajer-6 airframes parked on the runway at Wadi Sayyidna an Iranian-designed platform the Rapid Support Forces (\u2026 [+5017 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Military.com"
-      },
-      "author": "MLT Staff",
-      "title": "Russia and Ukraine Trade Deadly Strikes as Zelenskyy Prepares to Meet Trump",
-      "description": "The repeated attacks on Russian refineries, following Moscow\u2019s strikes on\u00a0Ukraine\u2019s power grid, have caused international shortages of diesel.",
-      "url": "https://military.com/russia-and-ukraine-trade-deadly-strikes-as-zelenskyy-prepares-to-meet-trump",
-      "urlToImage": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/09/ap26265337419531.jpg?w=1600&h=900&fit=crop",
-      "publishedAt": "2026-09-22T13:58:20Z",
-      "content": "KYIV, Ukraine (AP) Russia bombarded at least four Ukrainian regions overnight with missiles and drones, killing five people, officials said Tuesday, and Ukraines forces damaged another Russian oil re\u2026 [+5725 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalresearch.ca"
-      },
-      "author": "Ret Admiral Cem G\u00fcrdeniz",
-      "title": "From 1453 to 2026: As the West\u2019s 500-Year World System Comes to an End",
-      "description": "As the post-colonial era ends, the key question is no longer how the West will rule the world, but how it will live in a world it cannot rule alone.\n***\nCertain turning points in world history produce consequences that \u2026\nThe post From 1453 to 2026: As the Wes\u2026",
-      "url": "https://www.globalresearch.ca/west-500-year-world-system-comes-end/5941350",
-      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2026/09/multipolar.jpeg",
-      "publishedAt": "2026-09-22T13:51:22Z",
-      "content": "As the post-colonial era ends, the key question is no longer how the West will rule the world, but how it will live in a world it cannot rule alone.\r\n***\r\nCertain turning points in world history prod\u2026 [+33178 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "pbs.org",
-      "title": "WATCH LIVE: Trump addresses 2026 United Nations General Assembly",
-      "description": "President Donald Trump returns to the General Assembly nearing the seven-month mark of a new war against Iran that he insists is necessary to address a nuclear threat posed by Iran.",
-      "url": "https://biztoc.com/x/1faa56b6fe11d7d4",
-      "urlToImage": "https://biztoc.com/cdn/1faa56b6fe11d7d4_s.webp",
-      "publishedAt": "2026-09-22T13:42:52Z",
-      "content": "President Donald Trump returns to the General Assembly nearing the seven-month mark of a new war against Iran that he insists is necessary to address a nuclear threat posed by Iran.\r\nThis story appea\u2026 [+35 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Crypto Briefing"
-      },
-      "author": "Editorial Team",
-      "title": "Federal Reserve\u2019s Collins warns of persistent inflation risks above 2%",
-      "description": "Persistent inflation above 2% could lead to prolonged economic tightening, impacting growth and increasing the risk of financial instability.\nThe post Federal Reserve\u2019s Collins warns of persistent inflation risks above 2% appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/fed-collins-warns-persistent-inflation-risks/",
-      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/22094209/library-federal-reserve-s-collins-warns-of-persistent-inflation--2-800x450.png",
-      "publishedAt": "2026-09-22T13:42:12Z",
-      "content": "Boston Fed president flags geopolitical supply shocks and strong consumer spending as forces keeping price pressures elevated well beyond the central bank's comfort zone Boston Federal Reserve Presid\u2026 [+2445 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalresearch.ca"
-      },
-      "author": "Katie Bo Lillis",
-      "title": "US Military Had Close Call After Using AI for False Intelligence Report, \u201cAlmost Started a War\u201d",
-      "description": "The intelligence report, circulated across the US military this spring in the midst of the war with Iran, immediately set off alarm bells: A Chinese ship in the Middle East was transporting components of a nuclear weapons program.\nThe US \u2026\nThe post US Militar\u2026",
-      "url": "https://www.globalresearch.ca/us-military-close-call-using-ai-false-intelligence-report-sources-say/5941275",
-      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2026/09/us-military-ai-report.jpg",
-      "publishedAt": "2026-09-22T13:41:03Z",
-      "content": "The intelligence report, circulated across the US military this spring in the midst of the war with Iran, immediately set off alarm bells: A Chinese ship in the Middle East was transporting component\u2026 [+1531 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dailyreckoning.com"
-      },
-      "author": "Byron King",
-      "title": "The World Has Oil, but Not Enough Refining",
-      "description": "This post The World Has Oil, but Not Enough Refining appeared first on Daily Reckoning.\n\u201cThe world runs on diesel,\u201d goes the saying. And \u201cHouston, we have a problem,\u201d goes another saying. So today, we\u2019ll discuss diesel (and its molecular cousin jet fuel). But\u2026",
-      "url": "https://dailyreckoning.com/the-world-has-oil-but-not-enough-refining/",
-      "urlToImage": "https://dailyreckoning.com/wp-content/uploads/2026/09/mr-issue-09-22-26-img-1.jpg",
-      "publishedAt": "2026-09-22T13:40:35Z",
-      "content": "The world runs on diesel, goes the saying.\r\nAnd Houston, we have a problem, goes another saying.\r\nSo today, well discuss diesel (and its molecular cousin jet fuel). But first well talk about oil. And\u2026 [+11404 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newser"
-      },
-      "author": "Arden Dier with Newser.AI",
-      "title": "Inside the Exclusive Club for Ejected Pilots",
-      "description": "Ron Bath's initiation into one of aviation's strangest clubs began with a bird strike at nearly 700mph over Nevada and ended with him rocketing through his Phantom's canopy, breaking his back and neck on impact. As Marcus Weisgerber reports in the Wall Street\u2026",
-      "url": "https://www.newser.com/story/396695/inside-the-exclusive-club-for-ejected-pilots.html",
-      "urlToImage": "https://cdn.newser.com/image/1713147-12-20260922090019.jpeg",
-      "publishedAt": "2026-09-22T13:40:00Z",
-      "content": "Ron Bath's initiation into one of aviation's strangest clubs began with a bird strike at nearly 700mph over Nevada and ended with him rocketing through his Phantom's canopy, breaking his back and nec\u2026 [+1041 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalresearch.ca"
-      },
-      "author": "Helena Glass",
-      "title": "Food Shortages Worldwide: Trump the \u201cVisionary Leader\u201d, Heritage Foundation and Proxies Dictate Project 2025 for America and Argentina",
-      "description": "We have now progressed from simple oil shortages as a result of Trump\u2019s War with Iran, to the potential for food shortages, not just in the US \u2013 but globally. The catch?Fertilizer. A commodity that was plentiful and is now \u2026\nThe post Food Shortages Worldwide:\u2026",
-      "url": "https://www.globalresearch.ca/heritage-foundation-proxies-dictate-project-2025-america-argentina/5941332",
-      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2026/09/heritage-foundation.jpg",
-      "publishedAt": "2026-09-22T13:37:36Z",
-      "content": "We have now progressed from simple oil shortages as a result of Trumps War with Iran, to the potential for food shortages, not just in the US but globally. The catch?Fertilizer. A commodity that was \u2026 [+5838 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rigzone"
-      },
-      "author": "Salma El Wardany, Anthony Di Paola",
-      "title": "Saudis in Process of Starting Vital Oil Pipeline",
-      "description": "Saudi Arabia is in the early stages of starting up a key oil pipeline, people familiar with the matter said.",
-      "url": "https://www.rigzone.com/news/wire/saudis_in_process_of_starting_vital_oil_pipeline-22-sep-2026-184674-article/",
-      "urlToImage": "https://images.rigzone.com/images/news/articles/Saudis-in-Process-of-Starting-Vital-Oil-Pipeline-184674-1200x628.png",
-      "publishedAt": "2026-09-22T13:34:37Z",
-      "content": "Saudi Arabia is in the early stages of starting up a key oil pipeline that has enabled Riyadh to bypass the Strait of Hormuz after the conduit was halted earlier this month, people familiar with the \u2026 [+4026 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "author": "feedfeeder",
-      "title": "Trump to address U.N. General Assembly and meet with world leaders as he navigates Iran, Gaza, Ukraine conflicts - CBS News",
-      "description": "Trump to address U.N. General Assembly and meet with world leaders as he navigates Iran, Gaza, Ukraine conflictsCBS News Trump\u2019s bizarre social media blitz leaves world guessing ahead of UN addressThe Guardian UN General Assembly live: Donald Trump to address\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185739700",
-      "urlToImage": null,
-      "publishedAt": "2026-09-22T13:34:15Z",
-      "content": "C Code. C Code Run. Run, Code, RUN!\r\nPLEASE!!!!"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Military.com"
-      },
-      "author": "MLT Staff",
-      "title": "Trump Returns to UN at a Moment of Anxiety About Iran, AI and the Future of the World Body Itself",
-      "description": "Trump intends to underscore that \u201che is using American power to confront longstanding challenges and reshape the world to America\u2019s benefit.\"",
-      "url": "https://military.com/trump-returns-to-un-at-a-moment-of-anxiety-about-iran-ai-and-the-future-of-the-world-body-itself",
-      "urlToImage": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/09/ap26265040356675.jpg?w=1600&h=900&fit=crop",
-      "publishedAt": "2026-09-22T13:30:07Z",
-      "content": "NEW YORK (AP) President Donald Trump is set to address the U.N. General Assembly on Tuesday at a tumultuous moment for the world and for his presidency.\r\nThe global economy has been shaken by his dec\u2026 [+7533 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dailykos.com"
-      },
-      "author": "kos",
-      "title": "Ukraine is ignoring Trump\u2014as it should",
-      "description": "Trump made the ridiculous demand for Ukraine to stop attacking Russian oil facilities.",
-      "url": "http://www.dailykos.com/stories/2026/9/22/800101396/world/ukraine-ignoring-trump/",
-      "urlToImage": "https://www.dailykos.com/wp-content/uploads/sites/2/2026/03/AP26055135342637.jpg?w=1500",
-      "publishedAt": "2026-09-22T13:30:00Z",
-      "content": "A little over a week ago, President Donald Trump demanded that Ukraine stop attacking Russian oil facilities.\u00a0\r\nPresident Donald Trump sits beside Ukraine\u2019s President Volodymyr Zelenskyy in the Oval \u2026 [+2989 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Maziar Motamedi",
-      "title": "Iran delegation to present narrative of resilience, diplomacy at UNGA",
-      "description": "Iran\u2019s delegation has arrived to New York for the UNGA where the war with the United States will be raised.",
-      "url": "https://www.aljazeera.com/news/2026/9/22/iran-delegation-to-present-narrative-of-resilience-diplomacy-at-unga",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab272ec1b2ac-1790079724.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-09-22T13:29:53Z",
-      "content": "Tehran, Iran \u00a0Iranian President Masoud Pezeshkian and his team are heading to New York for the United Nations General Assembly (UNGA), where they are expected to express grievances about the United S\u2026 [+6131 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Reuters",
-      "title": "India\u2019s Russian oil imports fall 16.5% in August as Middle East supplies rise",
-      "description": "India\u2019s Russian oil imports fell 16.5% month-on-month to about 2.1 million bpd in August, while purchases from Iraq rose sharply and Saudi Arabia increased supplies. The shift comes as Middle Eastern producers use storage and export terminals outside the Stra\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/indias-russian-oil-imports-fall-16-5-in-august-as-middle-east-supplies-rise/articleshow/134413634.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134413690,width-1200,height-630,imgsize-74688,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-22T13:27:04Z",
-      "content": "New Delhi: Russia's share in India's oil imports fell in August, while supplies from the Middle East increased as Abu Dhabi National Oil Co (ADNOC) sold oil from the region from outside the Strait of\u2026 [+1873 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI World Desk",
-      "title": "Philippine forests are being restored without planting every tree; scientists use natural regeneration to bring degraded land back",
-      "description": "Researchers in the Philippines are innovating with assisted natural regeneration as a strategy for forest recovery, which prioritizes the management of returning trees. The adoption of these practices by communities relies heavily on socioeconomic and environ\u2026",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/philippine-forests-are-being-restored-without-planting-every-tree-scientists-use-natural-regeneration-to-bring-degraded-land-back/articleshow/134413026.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134413537,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-22T13:20:12Z",
-      "content": "<ul><li>News</li>\r\n<li>World News</li>\r\n<li>Rest of World News</li>\r\n<li>Philippine forests are being restored without planting every tree; scientists use natural regeneration to bring degraded land \u2026 [+1609 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Diplomat"
-      },
-      "author": "Daeyeon Lee",
-      "title": "Why South Korea Has Little Room to Send Troops to Hormuz",
-      "description": "Seoul has previously sent troops to support U.S. military operations in the Middle East. Today, both the external and domestic environments make that much harder to do.",
-      "url": "https://thediplomat.com/2026/09/why-south-korea-has-little-room-to-send-troops-to-hormuz/",
-      "urlToImage": "https://thediplomat.com/wp-content/uploads/2025/10/sizes/td-story-s-2/thediplomat_2025-10-29-221703.jpg",
-      "publishedAt": "2026-09-22T13:20:00Z",
-      "content": "Last month, U.S. President Donald Trump posted on Truth Social that I recently asked the President of South Korea if they would like to join us in the Denuclearization of the Islamic Republic of Iran\u2026 [+14017 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": null,
-      "title": "Iran war looms over Trump at U.N. General Assembly",
-      "description": "President Trump will address world leaders at the U.N. General Assembly with the Iran war and instability in the Middle East looming over the annual gathering. CBS News' Olivia Rinaldi and Holly Williams report.",
-      "url": "https://www.cbsnews.com/video/trump-war-looms-trump-u-n-general-assembly/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/22/f5642680-d3de-4478-8c7f-91b5925247d9/thumbnail/1200x630/0911c07ce5ce7114319439e514f4c66a/cbsn-fusion-trump-and-world-leaders-meet-as-iran-war-continues-thumbnail.jpg",
-      "publishedAt": "2026-09-22T13:17:16Z",
-      "content": "Copyright \u00a92026 CBS Interactive Inc. All rights reserved."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "author": "feedfeeder",
-      "title": "Houthis try to push deeper into western Yemen, upending life, witnesses tell NPR - NPR",
-      "description": "Houthis try to push deeper into western Yemen, upending life, witnesses tell NPRNPR Houthis pound Yemen\u2019s Mokha port for 4th day, officials say Iran behind escalationarabnews.com Looting reported in Yemen\u2019s Mocha after city was seized by Houthis \u2014 Asharq Al-A\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185739572",
-      "urlToImage": null,
-      "publishedAt": "2026-09-22T13:14:17Z",
-      "content": "C Code. C Code Run. Run, Code, RUN!\r\nPLEASE!!!!"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "author": "EditorDavid",
-      "title": "Pentagon Investigators Say Overreliance on Palantir AI Contributed to US Strike That Killed 123 Iranian Children",
-      "description": "Two U.S. missiles hit an elementary school in Iran, killing over 150 people including 123 children on the first day of the Iran War. But Gizmodo notes that a new Bloomberg investigation cites U.S. officials involved in an unreleased internal Pentagon review w\u2026",
-      "url": "https://news.slashdot.org/story/26/09/22/0614238/pentagon-investigators-say-overreliance-on-palantir-ai-contributed-to-us-strike-that-killed-123-iranian-children",
-      "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
-      "publishedAt": "2026-09-22T13:04:00Z",
-      "content": "According to the officials who spoke to Bloomberg, some personnel inside U.S. Central Command leaned too hard on the AI inside the Maven Smart System, an AI-powered data integration and targeting pla\u2026 [+2119 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Raw Story"
-      },
-      "author": "Tom Boggioni",
-      "title": "Trump has UN officials on edge before speech after flurry of social media rants",
-      "description": "Diplomats filing into the UN General Assembly hall Tuesday have no idea which version of Trump they're about to get, according to a report from The Guardian.President Donald Trump has spent the days before his address flooding Truth Social with a \"bizarre' mi\u2026",
-      "url": "https://www.rawstory.com/trump-un-fears/",
-      "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=67810497&width=1200&height=600&coordinates=0%2C29%2C0%2C29",
-      "publishedAt": "2026-09-22T13:02:04Z",
-      "content": "Diplomats filing into the UN General Assembly hall Tuesday have no idea which version of Trump they're about to get, according to a report from The Guardian.\r\nPresident Donald Trump has spent the day\u2026 [+1643 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Fox News Power Rankings: For the Democrats, where could it possibly go wrong?",
-      "description": "Democrats hold an 11-point generic ballot lead as Trump's Iran war drives gas prices up 50%, dragging down Republican midterm prospects nationwide.",
-      "url": "https://www.foxnews.com/politics/fox-news-power-rankings-democrats-where-could-go-wrong",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/ELEC26_FS_PWRRNK_HOUSE_COMP_SHIFTS_0921.png",
-      "publishedAt": "2026-09-22T13:00:03Z",
-      "content": "From the moment President Trump completed his comeback in 2024, voters had good reason to think that the Democrats would retake the House this November.\r\nThe presidents party has lost ground in all b\u2026 [+8896 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": null,
-      "title": "UN warns of rising Yemen displacement as thousands flee to Djibouti",
-      "description": "Renewed fighting could drive 10,000 across the Red Sea and displace more than 230,000 internally, UNHCR says.",
-      "url": "https://www.aljazeera.com/news/2026/9/22/un-warns-of-rising-yemen-displacement-as-thousands-flee-to-djibouti",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-19T183952Z_1011159295_RC2IMNAFO7DU_RTRMADP_3_IRAN-CRISIS-YEMEN-DJIBOUTI-DISPLACED-1790078544.jpg?resize=1200%2C675",
-      "publishedAt": "2026-09-22T12:58:29Z",
-      "content": "The number of refugees fleeing Yemen across the Red Sea to Djibouti could reach 10,000 as result of renewed fighting in the country, while internal displacement inside Yemen could swell to more than \u2026 [+2309 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Why is the Bab al-Mandab Strait so important?",
-      "description": "The BBC's Frank Gardner explains why the narrow waterway is key to oil transportation and the world economy.",
-      "url": "https://www.bbc.co.uk/news/videos/c6kgw4xklvx3o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0e7a/live/0791d660-b690-11f1-a430-4d16ee157c41.jpg",
-      "publishedAt": "2026-09-22T12:57:59Z",
-      "content": "Thousands of refugees have fled Yemen in recent days after Iran-backed Houthis seized territory along the country's Red Sea coastline, including near the Bab al-Mandab Strait. \r\nYemen has been devast\u2026 [+488 chars]"
-    },
     {
       "source": {
         "id": null,
         "name": "Freerepublic.com"
       },
-      "author": "The Hill",
-      "title": "Proposed diesel export ban pits GOP senators against each other",
-      "description": "Senate Republicans are clashing over a proposal endorsed by Sen. Chuck Grassley (Iowa) and other farm-state Republicans to embargo the export of diesel to increase supply and lower prices at home, something U.S. leaders last implemented during the 1970s energ\u2026",
-      "url": "https://freerepublic.com/focus/f-chat/4396427/posts",
+      "author": "Arutz Sheva",
+      "title": "Report: Iran's offer to reopen the Strait of Hormuz",
+      "description": "A senior Iranian official told Reuters on Tuesday that Iran could reopen the Strait of Hormuz within seven days if the United States reduces military pressure and ends its blockade of Iranian ports. The official said Tehran is seeking a formal indication from\u2026",
+      "url": "https://freerepublic.com/focus/f-news/4396480/posts",
       "urlToImage": null,
-      "publishedAt": "2026-09-22T12:37:59Z",
-      "content": "Skip to comments.\r\nProposed diesel export ban pits GOP senators against each otherThe Hill ^\r\n | September 22, 2026\r\n | Alexander Bolton\r\nPosted on 09/22/2026 5:37:59 AM PDT by Miami Rebel\r\nSenate Re\u2026 [+9133 chars]"
+      "publishedAt": "2026-09-22T18:04:28Z",
+      "content": "Skip to comments.\r\nReport: Iran's offer to reopen the Strait of HormuzArutz Sheva ^\r\n | 22/9/26\r\nPosted on 09/22/2026 11:04:28 AM PDT by Eleutheria5\r\nA senior Iranian official told Reuters on Tuesday\u2026 [+6143 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Haaretz"
+        "id": "the-times-of-india",
+        "name": "The Times of India"
       },
-      "author": "Reuters",
-      "title": "Trump to address UN General Assembly amid war with Iran",
-      "description": "The U.S. president is expected to discuss Iran and meet Gulf leaders as the region grapples with the war and renewed Houthi attacks",
-      "url": "https://www.haaretz.com/us-news/2026-09-22/ty-article/trump-to-address-un-general-assembly-amid-war-with-iran/000001a0-c91b-d52e-a7f4-ff1f11990000",
-      "urlToImage": "https://img.haarets.co.il/bs/000001a0-c91b-d52e-a7f4-ff1f11990000/18/b5/cd6d4d39418fae7c49376a984086/511513.jpg?&width=1200&height=630&cmsprod",
-      "publishedAt": "2026-09-22T12:36:51Z",
-      "content": "U.S. President Donald Trump is set to address the UN General Assembly in New York on Tuesday, with the ongoing U.S.-Israeli war against Iran and mounting instability across the Middle East expected t\u2026 [+71 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Diplomat"
-      },
-      "author": "Reed Chervin",
-      "title": "BRICS 2026 Reveals Ambition, Contradictions, and Uncertain Futures",
-      "description": "BRICS\u2019 New Delhi Summit expanded the grouping\u2019s ambitions, but geopolitical divisions and weak institutional clarity continue to challenge its future.",
-      "url": "https://thediplomat.com/2026/09/brics-2026-reveals-ambition-contradictions-and-uncertain-futures/",
-      "urlToImage": "https://thediplomat.com/wp-content/uploads/2026/09/sizes/td-story-s-2/thediplomat_2026-09-22-213610.jpg",
-      "publishedAt": "2026-09-22T12:33:00Z",
-      "content": "Much fanfare accompanied the two-day (September 12-13) 2026 BRICS Summit in New Delhi. The Indian government shut down the capital through road closures, dignitaries made grand statements including, \u2026 [+10610 chars]"
-    },
-    {
-      "source": {
-        "id": "rt",
-        "name": "RT"
-      },
-      "author": "RT",
-      "title": "Macron urges von der Leyen to relax EU fuel rules as energy crunch bites",
-      "description": "French President Emmanuel Macron has urged the European Commission to relax diesel and kerosene standards to boost refinery output as prices and shortages hit France",
-      "url": "https://www.rt.com/business/646083-macron-fuel-rules/",
-      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6ab2675f2030274d5a607e97.jpg",
-      "publishedAt": "2026-09-22T12:29:06Z",
-      "content": "French President Emmanuel Macron has urged the European Commission to temporarily lower EU quality requirements for diesel and kerosene as record prices and growing fuel shortages hit France, broadca\u2026 [+2780 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Haaretz"
-      },
-      "author": "Noa Shpigel",
-      "title": "Defense Minister: Gaza City will be evacuated if another Israeli is abducted",
-      "description": "Defense minister Israel Katz said Israel won't withdraw from Gaza's Yellow Line while Hamas remains in power; threatened third round of strikes on Iran",
-      "url": "https://www.haaretz.com/israel-news/israel-security/2026-09-22/ty-article/.premium/gaza-city-will-be-evacuated-if-another-israeli-abducted-defense-minister-says/000001a0-c87a-de5d-a5fa-d97bbcf00000",
-      "urlToImage": "https://img.haarets.co.il/bs/000001a0-c87a-de5d-a5fa-d97bbcf00000/47/f0/146d9ebd4b138892b1f415e28edd/513009-2.jpg?precrop=2400,1395,x0,y82&width=1200&height=630&cmsprod",
-      "publishedAt": "2026-09-22T12:25:43Z",
-      "content": "Israel will not withdraw from the so-called Yellow Line in Gaza to new positions inside the Strip as long as Hamas remains in power and the enclave has not been demilitarized, including its tunnel ne\u2026 [+48 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Raw Story"
-      },
-      "author": "Travis Gettys",
-      "title": "'Abysmal' polling looms over Trump's 'big day' at the UN: 'Hail Mary diplomacy?'",
-      "description": "President Donald Trump is set to address the United Nations General Assembly on Tuesday as public support collapses for his handling of foreign policy.Only 36 percent of Americans believe the U.S. is winning the war, compared with 64 percent who say it is not\u2026",
-      "url": "https://www.rawstory.com/donald-trump-foreign-policy-2677913952/",
-      "urlToImage": "https://www.rawstory.com/media-library/rage-as-trump-s-bizarre-rain-tax-ruling-roils-waters-on-chesapeake-bay.jpg?id=67792994&width=1200&height=600&coordinates=0%2C166%2C0%2C167",
-      "publishedAt": "2026-09-22T12:22:02Z",
-      "content": "President Donald Trump is set to address the United Nations General Assembly on Tuesday as public support collapses for his handling of foreign policy.\r\nOnly 36 percent of Americans believe the U.S. \u2026 [+2072 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "gcaptain.com"
-      },
-      "author": "Bruce Kimbrell",
-      "title": "The Wartime Secretary of the Navy",
-      "description": "What Hung Cao\u2019s First Five Months Tell Us About the Job Ahead By Bruce Kimbrell (Policy Op-Ed) Cao paired his leadership selections with what he called \u201cleadership by presence\u201d: placing...",
-      "url": "https://gcaptain.com/the-wartime-secretary-of-the-navy/",
-      "urlToImage": "https://gcaptain.com/wp-content/uploads/2026/05/Acting-secretary-Hung-Cao.jpg",
-      "publishedAt": "2026-09-22T12:19:10Z",
-      "content": "What Hung Cao\u2019s First Five Months Tell Us About the Job Ahead\r\nBy Bruce Kimbrell\r\n (Policy Op-Ed)\r\nCao paired his leadership selections with what he called leadership by presence\r\n: placing acquisiti\u2026 [+16972 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "HuffPost"
-      },
-      "author": "HuffPost",
-      "title": "Laura Ingraham Turns On Trump \u2014 And Her Guest James Carville Eats It Up",
-      "description": "The Fox News host also appeared to stretch the truth in her criticism.",
-      "url": "https://www.huffpost.com/entry/laura-ingraham-turns-on-trump-and-james-carville-eats-it-up_n_6ab245d8e4b043d6b568698d",
-      "urlToImage": "https://img.huffingtonpost.com/asset/6ab25d401800007d42f14ad5.jpeg?cache=A91fRPoz5l&ops=1200_630",
-      "publishedAt": "2026-09-22T12:12:58Z",
-      "content": "Laura Ingraham gave one of her stronger rebukes of President Donald Trump on Monday during an interview with Democratic strategist James Carville. But it wasnt totally the truth.\r\nThe Fox News host n\u2026 [+1419 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "semafor.com",
-      "title": "Saudi issues new warnings, as Houthi attacks intensify",
-      "description": "Saudi authorities issued a new alert over attacks from Yemen, where fighting intensified, as fears grew of the Middle East conflict expanding. Saudi Arabia warned residents in a province bordering Yemen of potential danger after Iran-backed Houthi fighters ma\u2026",
-      "url": "https://biztoc.com/x/bf9b747e80bc3a43",
-      "urlToImage": "https://biztoc.com/cdn/bf9b747e80bc3a43_s.webp",
-      "publishedAt": "2026-09-22T12:12:46Z",
-      "content": "Saudi authorities issued a new alert over attacks from Yemen, where fighting intensified, as fears grew of the Middle East conflict expanding. Saudi Arabia warned residents in a province bordering Ye\u2026 [+141 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thelocal.com"
-      },
-      "author": "The Local Europe",
-      "title": "COMPARE: How expensive are fuel prices around Europe right now?",
-      "description": "Fuel prices are rocketing around Europe but in some countries the cost of filling a tank is far higher than in others, partly because governments are taking different measures to tackle the crisis.",
-      "url": "https://www.thelocal.com/20260922/compare-how-expensive-are-fuel-prices-around-europe-right-now",
-      "urlToImage": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20260916__C8GF39E__v1__MidRes__FranceEnergyOilEconomy.jpg@webp",
-      "publishedAt": "2026-09-22T12:07:14Z",
-      "content": "Fuel prices are rocketing around Europe but in some countries the cost of filling a tank is far higher than in others, partly because governments are taking different measures to tackle the crisis.\r\n\u2026 [+8580 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thelocal.com"
-      },
-      "author": "The Local Europe",
-      "title": "COMPARE: How expensive are fuel prices around Europe right now?",
-      "description": "Fuel prices are rocketing around Europe but in some countries the cost of filling a tank is far higher than in others, partly because governments are taking different measures to tackle the crisis.",
-      "url": "https://www.thelocal.com/20260922/compare-how-expensive-are-fuel-prices-around-europe-right-now",
-      "urlToImage": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20260916__C8GF39E__v1__MidRes__FranceEnergyOilEconomy.jpg@webp",
-      "publishedAt": "2026-09-22T12:07:14Z",
-      "content": "Fuel prices are rocketing around Europe but in some countries the cost of filling a tank is far higher than in others, partly because governments are taking different measures to tackle the crisis.\r\n\u2026 [+8580 chars]"
+      "author": "Times News Network",
+      "title": "Estate workers protest after woman staffer found dead",
+      "description": "Estate workers at Harrison Malayalam\u2019s Palappilly estate strike after staffer Manjusha, 41, is found dead; note alleges workplace harassment by superiors.",
+      "url": "https://timesofindia.indiatimes.com/city/kochi/estate-workers-protest-after-woman-staffer-found-dead/articleshow/134418573.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134270712,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T18:02:59Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
     },
     {
       "source": {
@@ -1113,155 +34,1260 @@
         "name": "The Times of India"
       },
       "author": "Pranjal Pandey",
-      "title": "Iran ready reopen Hormuz within 7 days, negotiate if the US lifts blockade",
-      "description": "Middle East News: Iran on Tuesday reportedly offered to reopen the Hormuz Strait within seven days if the United States takes initial steps toward easing military press.",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-ready-reopen-hormuz-within-7-days-negotiate-if-the-us-lifts-blockade/articleshow/134411572.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134411872,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-22T12:01:43Z",
-      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
+      "title": "Trump signs security agreement with Denmark, Greenland to increase presence with two \u2018very big\u2019 military bases",
+      "description": "US News: US President Donald Trump on Tuesday signed an agreement with Denmark and Greenland aimed at strengthening security in the Arctic and North Atlantic, .",
+      "url": "https://timesofindia.indiatimes.com/world/us/trump-signs-security-agreement-with-denmark-greenland-to-increase-presence-with-two-very-big-military-bases/articleshow/134418453.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418565,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T18:02:52Z",
+      "content": "<ul><li>News</li>\r\n<li>World News</li>\r\n<li>US News</li>\r\n<li>Trump signs security agreement with Denmark, Greenland to increase presence with two very big military bases</li></ul>\r\nFollow Us On Soci\u2026 [+2893 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Rohit Mullick",
+      "title": "FIR against NHPC after tech glitch floods Kullu village",
+      "description": "FIR filed against NHPC after valve glitch at 800-MW Parbati Stage-II flooded Kullu\u2019s Raila village; probe ordered as damage estimated at \u20b91\u20131.5 crore.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/fir-against-nhpc-after-tech-glitch-floods-kullu-village/articleshow/134418455.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418452,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T18:02:41Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Kannur Police arrest two foreign nationals involved in MDMA case",
+      "description": "Kannur Police arrested Nigerian and Cameroonian women in Delhi for allegedly manufacturing and supplying MDMA to Kerala; probes linked 0.6g, 185g and 800g seizures.",
+      "url": "https://timesofindia.indiatimes.com/city/kochi/kannur-police-arrest-two-foreign-nationals-involved-in-mdma-case/articleshow/134418567.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418562,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T18:02:17Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Globalsecurity.org"
+        "name": "Business Standard"
       },
-      "author": "John Pike",
-      "title": "Pezeshkian Flies To US Aboard Obscure, Unsanctioned Airline",
-      "description": "Iran's President Masud Pezeshkian is on his way to New York to attend the 81st UN General Assembly, but he's flying on a plane operated by a little-known airline called Ashianeh.",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260922-rferl05.htm",
-      "urlToImage": null,
-      "publishedAt": "2026-09-22T12:00:00Z",
-      "content": "By Kian Sharifi 14:25 22.9.2026\r\nIran's President Masud Pezeshkian is on his way to New York to attend the 81st UN General Assembly, but he's flying on a plane operated by a little-known airline call\u2026 [+1776 chars]"
+      "author": "Reuters",
+      "title": "Saudi Arabia restarts East-West pipeline, may resume Yanbu oil exports",
+      "description": "The resumption of supplies \u200bon Tuesday helped to drive selling on global \u200boil markets. Global oil benchmark Brent crude fell by more than $2 a barrel towards $97, its lowest since September 8.",
+      "url": "https://www.business-standard.com/world-news/saudi-arabia-restarts-east-west-pipeline-may-resume-yanbu-oil-exports-126092201527_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-02/26/thumb/fitandfill/1200X628/1772074640-8034.jpg",
+      "publishedAt": "2026-09-22T18:02:02Z",
+      "content": "The resumption of supplies on Tuesday helped to drive selling on global oil markets. Global oil benchmark Brent crude fell by more than $2 a barrel towards $97, its lowest since September 8.\r\nReprese\u2026 [+2608 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Neha Shukla",
+      "title": "Mayawati\u2019s kin conundrum rekindles BSP power debate",
+      "description": "Mayawati\u2019s shifting stance on nephews Akash and Ishan sparks BSP power debate, reshuffles leadership roles, and revives concerns over nepotism and control.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/mayawatis-kin-conundrum-rekindles-bsp-power-debate/articleshow/134418544.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418542,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T18:01:56Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Tamaghna Banerjee",
+      "title": "Undertrial dies in judicial custody",
+      "description": "Undertrial Shubhajit Chakraborty, arrested in a Sector V fake call centre cyber fraud case, dies in Dum Dum jail custody; magistrate inquiry ordered.",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/undertrial-dies-in-judicial-custody/articleshow/134418534.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-22T18:01:39Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Mukut Das",
+      "title": "All starts with \u2018Mainao\u2018; once lost to poaching, rhinos breeding again in Manas",
+      "description": "Manas National Park\u2019s rhinos rebound from zero in 1993 to 50+ today after 2006 reintroduction; three years with no known poaching, Assam says.",
+      "url": "https://timesofindia.indiatimes.com/city/guwahati/all-starts-with-mainao-once-lost-to-poaching-rhinos-breeding-again-in-manas/articleshow/134418533.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418532,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T18:01:36Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Kangkan Kalita",
+      "title": "Assam BJP MLA, wife pledge organs for donation",
+      "description": "Assam BJP MLA Rupjyoti Kurmi and wife pledge organ donation at GMCH under Seva Sankalp Abhiyan, marking PM Modi\u2019s 76th birthday; doctors urge more pledges.",
+      "url": "https://timesofindia.indiatimes.com/city/guwahati/assam-bjp-mla-wife-pledge-organs-for-donation/articleshow/134418531.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418530,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T18:01:30Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Mukut Das",
+      "title": "BJP denies involvement, cites Cong in-fighting",
+      "description": "Assam Samaguri: Congress convoy hit by stone-pelting; BJP denies role, blames Congress in-fighting. Police, paramilitary used lathi charge to disperse crowd.",
+      "url": "https://timesofindia.indiatimes.com/city/guwahati/bjp-denies-involvement-cites-cong-in-fighting/articleshow/134418529.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-22T18:01:25Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Prabin Kalita",
+      "title": "Assam shelters nearly 80% of world\u2019s greater one-horned rhinos",
+      "description": "Assam shelters nearly 80% of the world\u2019s greater one-horned rhinos; Kaziranga hosts 2,600+. India, Nepal report zero poaching in 2025; Project Rhino launched.",
+      "url": "https://timesofindia.indiatimes.com/city/guwahati/assam-shelters-nearly-80-of-worlds-greater-one-horned-rhinos/articleshow/134418528.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418523,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T18:01:22Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Rupak Banerjee",
+      "title": "Over Rs 90 lakh recovered from 2 passengers at Howrah Station",
+      "description": "Over Rs 90 lakh in unaccounted cash was seized from two passengers at Howrah Station; RPF and GRP arrested them and income tax began investigating.",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/over-rs-90-lakh-recovered-from-2-passengers-at-howrah-station/articleshow/134418521.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-22T18:00:48Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Globalsecurity.org"
+        "name": "BusinessLine"
       },
-      "author": "John Pike",
-      "title": "Trump Expects Peace Deal With Iran After US November Elections",
-      "description": "US President Donald Trump said he expects his administration will strike a peace agreement with Iran after voters in the United States head to the polls in November for midterm elections.",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260922-rferl04.htm",
-      "urlToImage": null,
-      "publishedAt": "2026-09-22T12:00:00Z",
-      "content": "17:33 22.9.2026\r\nUS President Donald Trump said he expects his administration will strike a peace agreement with Iran after voters in the United States head to the polls in November for midterm elect\u2026 [+1563 chars]"
+      "author": "ANI",
+      "title": "Trump says Iran deal could come after midterm election, warns of \u2018annihilation\u2019",
+      "description": "Speaking at the UN, Trump discussed Iran\u2019s nuclear programme, maritime security, military operations and the expansion of US munitions production",
+      "url": "https://www.thehindubusinessline.com/news/world/trump-says-iran-deal-could-come-after-midterm-election-warns-of-annihilation/article71497068.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/jeuyqg/article71497081.ece/alternates/LANDSCAPE_1200/2026-09-22T153519Z_1282932333_RC2FONAFJW0B_RTRMADP_3_USA-TRUMP-GREENLAND.JPG",
+      "publishedAt": "2026-09-22T18:00:43Z",
+      "content": "US President Donald Trump on Tuesday addressed various global issues in his address to the United Nations General Assembly at its 81st session addressing , saying he could annihilate Iran if a peace \u2026 [+5525 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Kangkan Kalita",
+      "title": "2 Cong functionaries injured after stones pelted at Convoy in Samaguri",
+      "description": "Assam\u2019s Samaguri: AICC secretary Manoj Chouhan and Mahila Congress chief Mira Borthakur injured as stones hit Congress convoy; FIR filed, BJP denies role.",
+      "url": "https://timesofindia.indiatimes.com/city/guwahati/2-cong-functionaries-injured-after-stones-pelted-at-convoy-in-samaguri/articleshow/134418515.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-22T18:00:35Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Bijoy Sharma",
+      "title": "No patient, three cattle: Ambulance seizure exposes new smuggling tactic in Assam",
+      "description": "Assam police in Dhubri seized an ambulance carrying three cows and no patient, exposing a new cattle-smuggling tactic using village roads toward the Bangladesh border.",
+      "url": "https://timesofindia.indiatimes.com/city/guwahati/no-patient-three-cattle-ambulance-seizure-exposes-new-smuggling-tactic-in-assam/articleshow/134418513.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418497,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T18:00:32Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Globalsecurity.org"
+        "name": "Yahoo Entertainment"
       },
-      "author": "John Pike",
-      "title": "Why China Is Unlikely To Pressure Iran Ahead Of Trump-Xi Summit",
-      "description": "Ahead of a high-stakes US-China summit planned for September 24 at the White House, Beijing appears to be spotlighting its influence over Iran to gain leverage during negotiations with its chief geopolitical rival.",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260922-rferl01.htm",
-      "urlToImage": null,
-      "publishedAt": "2026-09-22T12:00:00Z",
-      "content": "By Matthew Fulco September 22, 2026\r\nAhead of a high-stakes US-China summit planned for September 24 at the White House, Beijing appears to be spotlighting its influence over Iran to gain leverage du\u2026 [+8848 chars]"
+      "author": "By Gram Slattery, Parisa Hafezi and Antoni Slodkowski",
+      "title": "Trump says U.S.-Iran ties are 'developing' as Tehran offers path to reopen Hormuz",
+      "description": "By Gram Slattery, Parisa Hafezi and Antoni Slodkowski UNITED NATIONS, Sept 22 (Reuters) - President Donald Trump said on Tuesday that Washington and Tehran were moving toward a settlement, while a senior Iranian official said Tehran could reopen the Strait of\u2026",
+      "url": "https://www.yahoo.com/news/articles/tehran-hints-hormuz-talks-us-122001507.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c75f065fea5f220692d3dad08f945be247bc7ffe7f168ca71b4acf7c209db4ef/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvideo.cbsboston.com%2F9d1de45854cb9f84620a09058ac9b29f.jpg",
+      "publishedAt": "2026-09-22T18:00:04Z",
+      "content": "By Gram Slattery, Parisa Hafezi and Antoni Slodkowski\r\nUNITED NATIONS, Sept 22 (Reuters) - President Donald Trump said on Tuesday that Washington and Tehran were moving toward a settlement, while a s\u2026 [+5158 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "U Tejonmayam",
+      "title": "Chennai metro phase-2 inauguration awaits PM Modi\u2019s confirmation",
+      "description": "Chennai Metro Phase-2\u2019s 14.64km Poonamallee Bypass\u2013Vadapalani stretch remains unopened 7 months after safety clearance, awaiting PM Modi\u2019s inauguration date.",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/chennai-metro-phase-2-inauguration-awaits-pm-modis-confirmation/articleshow/134418462.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418460,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T18:00:02Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Tathagata Bhattacharjee",
+      "title": "City\u2019s cleanliness contest ends on a high, but waste remains a challenge",
+      "description": "Guwahati cleanliness contest sees 95% participation, but only 50% households segregate waste; GMC plans more bins, composting, and Boragaon cleanup.",
+      "url": "https://timesofindia.indiatimes.com/city/guwahati/citys-cleanliness-contest-ends-on-a-high-but-waste-remains-a-challenge/articleshow/134418458.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418457,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:59:54Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Globalsecurity.org"
+        "name": "New York Post"
       },
-      "author": "John Pike",
-      "title": "G7 Statement on Bab al-Mandab and Navigational Rights and Freedoms",
-      "description": "Foreign Ministers of Canada, France, Germany, Italy, Japan, the United Kingdom and the United States of America, and the High Representative of the European Union condemn continued strikes carried out by the Houthis in Yemen and against the Kingdom of Saudi A\u2026",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260922-ukfcdo01.htm",
-      "urlToImage": null,
-      "publishedAt": "2026-09-22T12:00:00Z",
-      "content": "Press release\r\nForeign Ministers of Canada, France, Germany, Italy, Japan, the United Kingdom and the United States of America, and the High Representative of the European Union condemn continued str\u2026 [+2330 chars]"
+      "author": "Christopher Edwards",
+      "title": "Depressing new map shows how far $20 of gas gets you in LA after price hikes",
+      "description": "Wherever you need to go, it's going to be expensive.",
+      "url": "https://nypost.com/2026/09/22/lifestyle/new-la-map-shows-how-far-20-of-gas-gets-drivers-after-price-hikes/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/142050578.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-09-22T17:59:38Z",
+      "content": "Drive across town? In this economy? \r\nA depressing new map reveals just how far Los Angeles drivers can go on $20 worth of gas today and the results are beyond pathetic.\r\nUsing metro-area average pum\u2026 [+3221 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Manosh Das",
+      "title": "Move foreign natl\u2019s who completed sentences to detention centre by Sept 28: HC to Meghalaya",
+      "description": "Meghalaya HC orders state to shift foreign nationals who finished sentences from jails to a temporary detention centre in Shillong by Sept 28; deportations underway.",
+      "url": "https://timesofindia.indiatimes.com/city/guwahati/move-foreign-natls-who-completed-sentences-to-detention-centre-by-sept-28-hc-to-meghalaya/articleshow/134418451.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-22T17:59:24Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Manosh Das",
+      "title": "659 Meghalaya electors found ineligible for final roll",
+      "description": "Meghalaya SIR: 659 voters found ineligible for final electoral roll; 17,97,168 eligible. Hearings ongoing till Oct 17; final roll due Oct 21, 2026.",
+      "url": "https://timesofindia.indiatimes.com/city/guwahati/659-meghalaya-electors-found-ineligible-for-final-roll/articleshow/134418450.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-22T17:59:18Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Manosh Das",
+      "title": "Conrad calls for positive alternatives in fight against drug abuse",
+      "description": "Meghalaya CM Conrad K Sangma urges positive alternatives to curb drug abuse, inaugurates DREAM rehab centre in Garo Hills and launches SOP for rehab standards.",
+      "url": "https://timesofindia.indiatimes.com/city/guwahati/conrad-calls-for-positive-alternatives-in-fight-against-drug-abuse/articleshow/134418449.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-22T17:59:14Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Joken Ete",
+      "title": "From nearly 8.9 lakh registrations, Arunachal final rolls list 6.96 lakh electors",
+      "description": "Arunachal Pradesh published final 2026 SIR electoral rolls for 60 constituencies: electors cut to 6,96,026 from 8.9 lakh; verification, appeals open.",
+      "url": "https://timesofindia.indiatimes.com/city/guwahati/from-nearly-8-9-lakh-registrations-arunachal-final-rolls-list-6-96-lakh-electors/articleshow/134418448.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418447,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:59:11Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Man held for setting woman on fire in Kakkanad",
+      "description": "Man held in Kakkanad after allegedly pouring petrol on a woman and setting her on fire; victim hospitalized with severe burns as police probe and review CCTV.",
+      "url": "https://timesofindia.indiatimes.com/city/kochi/man-held-for-setting-woman-on-fire-in-kakkanad/articleshow/134418444.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-132057514,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:59:01Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "HC Vanlalruata",
+      "title": "6 sent to judicial custody over killing of soldier in Mizoram",
+      "description": "Six arrested, including one woman, sent to judicial custody over killing of Assam Regiment soldier Zakaria Lalhriattluanga in Mizoram\u2019s Kolasib district.",
+      "url": "https://timesofindia.indiatimes.com/city/guwahati/6-sent-to-judicial-custody-over-killing-of-soldier-in-mizoram/articleshow/134418439.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-22T17:58:54Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Faiz Rahman Siddiqui",
+      "title": "Millet festival held at CSA University of Agriculture to promote millet production",
+      "description": "District-level Millets Festival at CSA University Kanpur promoted millet production, nutrition, processing and marketing under NFSM and UP Millets Revival Scheme.",
+      "url": "https://timesofindia.indiatimes.com/city/kanpur/millet-festival-held-at-csa-university-of-agriculture-to-promote-millet-production/articleshow/134418438.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-22T17:58:48Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Santosh Sonawane",
+      "title": "Chemical factory catches fire in Bhusawal",
+      "description": "Chemical factory fire in Bhusawal MIDC, Jalgaon, likely due to short circuit; no injuries reported, but two cows died; blaze controlled by 6:30 am.",
+      "url": "https://timesofindia.indiatimes.com/city/nashik/chemical-factory-catches-fire-in-bhusawal/articleshow/134418436.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418435,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:58:46Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Rajib Dutta",
+      "title": "Dibrugarh cops arrest 2 in Kerala over Rs 50L \u2018Boss Scam\u2019",
+      "description": "Dibrugarh Police arrest two Kerala youths in Rs 50 lakh \u201cBoss Scam\u201d cyber fraud; interstate network linked to multiple Assam cases under investigation.",
+      "url": "https://timesofindia.indiatimes.com/city/guwahati/dibrugarh-cops-arrest-2-in-kerala-over-rs-50l-boss-scam/articleshow/134418434.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418433,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:58:39Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Prasad Joshi",
+      "title": "\u200b\u200b\u200bAurangabad Division Graduates\u2019 constituency poll on Oct 23",
+      "description": "ECI announces Maharashtra MLC biennial polls: Aurangabad Division Graduates\u2019 seat votes Oct 23; nominations till Oct 6, withdrawal Oct 9, counting Oct 27.",
+      "url": "https://timesofindia.indiatimes.com/city/aurangabad/aurangabad-division-graduates-constituency-poll-on-oct-23/articleshow/134418431.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134359431,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:58:31Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "Mahendra Singh Tanwar appointed as Kanpur DM",
+      "description": "Mahendra Singh Tanwar, 2015-batch UP cadre IAS, appointed Kanpur DM, replacing Jitendra Pratap Singh, now director at UP Mandi Council.",
+      "url": "https://timesofindia.indiatimes.com/city/kanpur/mahendra-singh-tanwar-appointed-as-kanpur-dm/articleshow/134418430.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418428,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:58:24Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Rajib Dutta",
+      "title": "2nd accused in ex-CRPF jawan\u2019s murder injured in cop firing",
+      "description": "Assam\u2019s Sivasagar police shot murder accused Rubul Khan in the leg during a weapon recovery in ex-CRPF jawan Biman Baruah\u2019s killing; hospitalized.",
+      "url": "https://timesofindia.indiatimes.com/city/guwahati/2nd-accused-in-ex-crpf-jawans-murder-injured-in-cop-firing/articleshow/134418426.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418425,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:58:18Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Pathikrit Chakraborty",
+      "title": "CCTV shows UP home guard candidate staggering before collapse; probe examines his final moments",
+      "description": "CCTV footage shows 25-year-old home guard recruitment candidate Yogendra Singh staggering and struggling to run before collapsing during a physical test in Lucknow on September 15. His family has alleged murder after the autopsy found asphyxia, a plastic bott\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/cctv-shows-up-home-guard-candidate-staggering-before-collapse-probe-examines-his-final-moments/articleshow/134417614.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418364,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:58:08Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "Bombay HC seeks response in portrait controversy case in Malegaon",
+      "description": "Bombay High Court seeks police, MMC replies on petition challenging removal of Tipu Sultan portrait from Malegaon deputy mayor\u2019s office; next hearing Oct 5.",
+      "url": "https://timesofindia.indiatimes.com/city/nashik/bombay-hc-seeks-response-in-portrait-controversy-case-in-malegaon/articleshow/134418423.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-133689342,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:57:53Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "UP legislative council polls for 11 graduate, teacher seats on Oct 23",
+      "description": "UP Legislative Council biennial polls for 11 graduate and teacher seats will be held Oct 23, with counting on Oct 27; nominations open till Oct 6.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/up-legislative-council-polls-for-11-graduate-teacher-seats-on-oct-23/articleshow/134418422.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-22T17:57:47Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "The Times Of India",
+      "title": "Car hits people in Jhansi, 9 injured",
+      "description": "Speeding car rams into crowd near temple in Mathurapura village, Jhansi; 9 injured including 5 children. Driver detained, vehicle seized; probe underway.",
+      "url": "https://timesofindia.indiatimes.com/city/kanpur/car-hits-people-in-jhansi-9-injured/articleshow/134418420.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-22T17:57:26Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Faiz Rahman Siddiqui",
+      "title": "Police commissioner informs girls about police functioning, ops of Mahila Help Desk",
+      "description": "Police Commissioner Raghubir Lal met GGIC Chunniganj students in Kanpur, explaining police work, Mahila Help Desk, cyber safety, AI, privacy and helplines.",
+      "url": "https://timesofindia.indiatimes.com/city/kanpur/police-commissioner-informs-girls-about-police-functioning-ops-of-mahila-help-desk/articleshow/134418382.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418381,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:57:16Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Sindhu Kannan",
+      "title": "Pocso case: Granite baron Veeramani\u2019s aide arrested",
+      "description": "CCB arrests Ganesan, aide of granite baron R Veeramani, in POCSO case; video found on phone, probe expands to source and possible financial influence.",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/pocso-case-granite-baron-veeramanis-aide-arrested/articleshow/134418411.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134392113,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:56:54Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Tushar Pawar",
+      "title": "Civic body destroys 3,200 mosquito breeding spots as dengue cases rise across Nashik",
+      "description": "Nashik Municipal Corporation destroyed 3,200 mosquito breeding spots, issued 145 notices as dengue cases rose to 151 in 2024; swine flu cases hit 280.",
+      "url": "https://timesofindia.indiatimes.com/city/nashik/civic-body-destroys-3200-mosquito-breeding-spots-as-dengue-cases-rise-across-nashik/articleshow/134418379.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418378,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:56:14Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Model code ends in 304 civic bodies, continues in Jaipur, 4 others",
+      "description": "Rajasthan State Election Commission lifts model code of conduct in 304 urban local bodies; MCC continues in Jaipur, Jodhpur, Kota, Suket and Khatu Shyamji.",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/model-code-ends-in-304-civic-bodies-continues-in-jaipur-4-others/articleshow/134418370.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-22T17:55:21Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Bharat Khanna",
+      "title": "Drugs ruining families, say Nabha villagers during \u2018Swaal Sabha\u2019",
+      "description": "Nabha villagers at a \u201cSwaal Sabha\u201d raised drug addiction, unemployment and poor healthcare, dedicating the meet to Gulzar Singh after alleged harassment.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/drugs-ruining-families-say-nabha-villagers-during-swaal-sabha/articleshow/134418336.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-133891903,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:55:15Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Faiz Rahman Siddiqui",
+      "title": "World Rhinoceros Day celebrated at Kanpur Zoo",
+      "description": "World Rhinoceros Day was celebrated at Kanpur Zoo, highlighting its multi-generation rhino breeding success since the 1970s and transfers to Indian and Japan zoos.",
+      "url": "https://timesofindia.indiatimes.com/city/kanpur/world-rhinoceros-day-celebrated-at-kanpur-zoo/articleshow/134418345.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-22T17:55:03Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Prasad Joshi",
+      "title": "Poor rain push Marathwada towards fodder crisis; stocks may run out from Dec",
+      "description": "Poor monsoon pushes Marathwada toward fodder crisis; stocks may run low from Dec, with Jalna worst hit as districts track fodder and water supplies.",
+      "url": "https://timesofindia.indiatimes.com/city/aurangabad/poor-rain-push-marathwada-towards-fodder-crisis-stocks-may-run-out-from-dec/articleshow/134418340.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418338,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:55:01Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Abhijeet Patil",
+      "title": "87-year-old farmer in Solapur accuses eldest son of denying water from well",
+      "description": "87-year-old Solapur farmer alleges eldest son abused him and blocked access to a shared well amid drought; police file non-cognisable case, seek restraining order.",
+      "url": "https://timesofindia.indiatimes.com/city/kolhapur/87-year-old-farmer-in-solapur-accuses-eldest-son-of-denying-water-from-well/articleshow/134418335.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418334,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:54:39Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Five mild-intensity earthquakes recorded around Koyna dam in Satara district",
+      "description": "Five mild earthquakes (2.1\u20132.5 magnitude) hit near Koyna dam in Satara early Tuesday; Satara station recorded them as Koyna station was non-operational.",
+      "url": "https://timesofindia.indiatimes.com/city/kolhapur/five-mild-intensity-earthquakes-recorded-around-koyna-dam-in-satara-district/articleshow/134418332.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418331,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:54:05Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Vriti Jain",
+      "title": "Hyderabad NIMS additional medical superintendent booked in DA case, assets worth Rs 6.13 crore found",
+      "description": "The Anti-Corruption Bureau has initiated a Disproportionate Assets case against N Lakshmi Bhasker, who serves as an Additional Medical Superintendent at Nizam's Institute of Medical Sciences. Assets exceeding Rs 6.13 crore were uncovered at his home and assoc\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/hyderabad-nims-additional-medical-superintendent-booked-in-da-case-assets-worth-rs-6-13-crore-found/articleshow/134418148.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418310,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:54:04Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "The Times Of India",
+      "title": "Devotees celebrate Budhwa Mangal",
+      "description": "Kanpur devotees celebrated Budhwa Mangal with prayers to Lord Hanuman; Panki temple saw highest footfall, aarti at 1am, bhajans and bhandaras.",
+      "url": "https://timesofindia.indiatimes.com/city/kanpur/devotees-celebrate-budhwa-mangal/articleshow/134418330.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418328,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:53:50Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Car rams into tree in Chakkaraparambu",
+      "description": "Car veered off NH near Chakkraparambu, Kochi around 5.30am, hit trees and crashed; no major injuries, police found no foul play.",
+      "url": "https://timesofindia.indiatimes.com/city/kochi/car-rams-into-tree-in-chakkaraparambu/articleshow/134418326.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418325,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:53:04Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "Entrepreneur signs MoU to buy Juhu tower for Rs 711 crore",
+      "description": "Embassy Developments signs MoU to sell entire 7-storey Juhu tower at Embassy Terazza to Angel One founder Dinesh Thakkar for Rs 711 crore.",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/entrepreneur-signs-mou-to-buy-juhu-tower-for-rs-711-crore/articleshow/134418276.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-22T17:51:39Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ManuAiyappa Kanathanda",
+      "title": "Reconsider Vande Mataram order, guv urges chief minister",
+      "description": "Karnataka Governor Gehlot urges CM DK Shivakumar to reconsider limiting Vande Mataram to two stanzas, citing MHA guidelines and 2026 Act amendment.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/reconsider-vande-mataram-order-guv-urges-chief-minister/articleshow/134418263.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418260,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:51:01Z",
+      "content": "Follow Us On Social Media\r\nRent Your Face: Chinas New AI Side Hustle Pays, But Raises Identity Theft Fears, Deepfake ThreatsOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Co\u2026 [+2711 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Globalsecurity.org"
+        "name": "Business Standard"
       },
-      "author": "John Pike",
-      "title": "The President discussed Middle East security with Kuwait's Crown Prince",
-      "description": "President Gitanas Naus\u0117da met with Crown Prince of Kuwait Sheikh Sabah Khaled Al-Hamad Al-Sabah. The meeting focused on the security situation in the Middle East, Iran's attacks against countries on the Arabian Peninsula, ensuring freedom of navigation, and t\u2026",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260922-lithuania-pres03.htm",
-      "urlToImage": null,
-      "publishedAt": "2026-09-22T12:00:00Z",
-      "content": "President of the Republic of Lithuania\r\nSeptember 22, 2026\r\nPresident Gitanas Nausda met with Crown Prince of Kuwait Sheikh Sabah Khaled Al-Hamad Al-Sabah. The meeting focused on the security situati\u2026 [+1213 chars]"
+      "author": "Agencies",
+      "title": "Donald Trump defends his call on Iran war, taunts globalists who only talk",
+      "description": "\"As president of the most extraordinary nation in history, I have no interest in leaving dangers to grow for another day,\" Trump said.",
+      "url": "https://www.business-standard.com/world-news/donald-trump-defends-his-call-on-iran-war-taunts-globalists-who-only-talk-126092201497_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/06/thumb/fitandfill/1200X628/1785993597-0998.jpg",
+      "publishedAt": "2026-09-22T17:49:56Z",
+      "content": "\"As president of the most extraordinary nation in history, I have no interest in leaving dangers to grow for another day,\" Trump said.\r\nUS President Donald Trump (Photo: PTI\r\nAgencies2 min read Last \u2026 [+1588 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI World Desk",
+      "title": "Former news anchor working for California Democrat arrested by ICE at Las Vegas airport",
+      "description": "US News: A staffer working for California Democratic Assemblywoman Catherine Stefani was arrested by US immigration authorities at an airport in Las Vegas over.",
+      "url": "https://timesofindia.indiatimes.com/world/us/former-news-anchor-working-for-california-democrat-arrested-by-ice-at-las-vegas-airport/articleshow/134418098.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418211,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:49:49Z",
+      "content": "<ul><li>News</li>\r\n<li>World News</li>\r\n<li>US News</li>\r\n<li>Former news anchor working for California Democrat arrested by ICE at Las Vegas airport</li></ul>\r\nFollow Us On Social Media\r\nRent Your F\u2026 [+2872 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Bella Jaisinghani",
+      "title": "Kamathipura is Mumbai\u2019s largest Ganeshotsav cluster",
+      "description": "Discover Kamathipura, Mumbai\u2019s largest Ganeshotsav cluster with 45 historic mandals across 16 lanes, as residents use social media to reshape its old red-light image.",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/kamathipura-is-mumbais-largest-ganeshotsav-cluster/articleshow/134418200.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418199,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:49:18Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Globalsecurity.org"
+        "name": "Business Standard"
       },
-      "author": "John Pike",
-      "title": "Shaheen, Coons, Reed, Warner, Warren, Kim Statement Ahead of President Xi Jinping's State Visit",
-      "description": "Today, U.S. Senators Jeanne Shaheen (D-NH), Ranking Member of the Senate Foreign Relations Committee, Chris Coons (D-DE), Ranking Member for Senate Defense appropriations, Patty Murray (D-WA), Vice Chair of the Senate Appropriations Committee, Jack Reed (D-RI\u2026",
-      "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/09/china-260922-sfrc01.htm",
-      "urlToImage": null,
-      "publishedAt": "2026-09-22T12:00:00Z",
-      "content": "Senate Foreign Relations Committee\r\nSeptember 22, 2026\r\nWASHINGTON -- Today, U.S. Senators Jeanne Shaheen (D-NH), Ranking Member of the Senate Foreign Relations Committee, Chris Coons (D-DE), Ranking\u2026 [+2743 chars]"
+      "author": "Press Trust of India",
+      "title": "In UNGA, Trump repeats claim he settled war between India and Pakistan",
+      "description": "US President Donald Trump on Tuesday repeated his claim that he settled the war between India and Pakistan last year, as he addressed world leaders at the UN General Assembly here.\n\"Since I took office, it has been my great honour to settle eight wars, and in\u2026",
+      "url": "https://www.business-standard.com/world-news/in-unga-trump-repeats-claim-he-settled-war-between-india-and-pakistan-126092201358_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/05/thumb/fitandfill/1200X628/1785916002-933.JPG",
+      "publishedAt": "2026-09-22T17:48:26Z",
+      "content": "US President Donald Trump on Tuesday repeated his claim that he settled the war between India and Pakistan last year, as he addressed world leaders at the UN General Assembly here.\r\n\"Since I took off\u2026 [+3842 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Sandeep Moudgal",
+      "title": "Cash crunch: FD flags fiscal stress, warns CM of budget cuts",
+      "description": "Karnataka FD warns CM DK Shivakumar of fiscal stress as liabilities near FRBM cap; drought costs may force budget cuts, with pending bills at Rs 36,136 crore.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/cash-crunch-fd-flags-fiscal-stress-warns-cm-of-budget-cuts/articleshow/134418197.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418187,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:47:57Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "times news network",
+      "title": "Traffic police register 5,000+ drunk driving cases in Mumbai in first nine months of 2026",
+      "description": "Mumbai traffic police booked 5,181 drunk driving cases in Jan\u2013Sept 2026, surpassing 2025\u2019s 3,728; RTOs suspended 2,399 licences amid stricter action.",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/traffic-police-register-5000-drunk-driving-cases-in-mumbai-in-first-nine-months-of-2026/articleshow/134418168.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418166,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:47:51Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "Homebuyer funds row: Karnataka HC declines relief for developer",
+      "description": "Karnataka HC refuses to quash FIRs and ED PMLA probe against Ozone Urbana over alleged diversion of homebuyer funds; quashes one dues complaint case.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/homebuyer-funds-row-karnataka-hc-declines-relief-for-developer/articleshow/134418162.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134342953,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:47:03Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "SC stays HC\u2019s inquiry order against official",
+      "description": "Supreme Court stays Karnataka HC order for departmental inquiry against additional chief secretary Mohammed Mohsin in Dr Ashwin Hebbar case; Hebbar\u2019s suspension continues.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/sc-stays-hcs-inquiry-order-against-official/articleshow/134418151.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-133938254,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:46:37Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "Illegal racket busted, 7 arrested with 5 pistols",
+      "description": "Bengaluru police busted an illegal pistol racket in Anekal, arresting 7 and seizing 5 country-made pistols and 10 live bullets; KCOCA invoked.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/illegal-racket-busted-7-arrested-with-5-pistols/articleshow/134418149.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418147,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:46:32Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "Shantinagar launches dementia-friendly initiative",
+      "description": "Shantinagar in Bengaluru launches a 2-year dementia-friendly initiative with MLA NA Haris, DIA and Nimhans to raise awareness, train workers and support caregivers.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/shantinagar-launches-dementia-friendly-initiative/articleshow/134418144.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418141,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:46:22Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "Drought list likely to touch 200, Gadag inclusion gives oppn fresh ammunition",
+      "description": "Karnataka drought-hit taluks rise to 177; deputy CM Parameshwara says count may cross 200. Gadag inclusion sparks political row; Rs 3,500 crore sought.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/drought-list-likely-to-touch-200-gadag-inclusion-gives-oppn-fresh-ammunition/articleshow/134418140.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418138,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:46:14Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "e-Aasthi 2.0: Online khata bifurcation from Sept 28, owners must ensure road connectivity",
+      "description": "Bengaluru launches e-Aasthi 2.0: online khata bifurcation from Sept 28 for properties up to 20,000 sqft; road access required; NRI digital signatures enabled.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/e-aasthi-2-0-online-khata-bifurcation-from-sept-28-owners-must-ensure-road-connectivity/articleshow/134418136.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418134,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:46:04Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Sanjay R Murty",
+      "title": "Commuters struggle as road awaits whitetopping for 6 months",
+      "description": "Bengaluru\u2019s Dr Vishnuvardhan Road (Banashankari\u2013Uttarahalli) has been left potholed for 6 months as white-topping is stalled amid road-widening plans.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/commuters-struggle-as-road-awaits-whitetopping-for-6-months/articleshow/134418111.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418110,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:45:18Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Niranjan Kaggere",
+      "title": "Karnataka lake desilting scam? CAG finds \u20b93.22 crore paid for works using bikes, autos and cars instead of JCBs",
+      "description": "CAG flags Karnataka lake desilting irregularities: \u20b93.22 crore paid as JCB/excavator work, but records list bikes, autos and cars; probe urged.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/karnataka-lake-desilting-scam-cag-finds-3-22-crore-paid-for-works-using-bikes-autos-and-cars-instead-of-jcbs/articleshow/134418101.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418099,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:44:36Z",
+      "content": "<ul><li>News</li>\r\n<li>City News</li>\r\n<li>bengaluru News</li>\r\n<li>Karnataka lake desilting scam? CAG finds 3.22 crore paid for works using bikes, autos and cars instead of JCBs</li></ul>\r\nFollow Us\u2026 [+1710 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "2 chain-snatching cases cracked, 3 held",
+      "description": "Bengaluru police solved two chain-snatching cases, arresting three and recovering 129g gold jewellery and two bikes worth Rs 15.5 lakh in north Bengaluru.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/2-chain-snatching-cases-cracked-3-held/articleshow/134418097.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418096,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:44:26Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Faiz Rahman Siddiqui",
+      "title": "Man beats 15-yr-old son to death over Rs 900 theft suspicion",
+      "description": "Auraiya: Farmer Ummed Singh arrested after allegedly beating his 15-year-old son to death over suspected Rs 900 theft; police await postmortem report.",
+      "url": "https://timesofindia.indiatimes.com/city/kanpur/man-beats-15-yr-old-son-to-death-over-rs-900-theft-suspicion/articleshow/134418095.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418094,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:44:20Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Chidanand Rajghatta",
+      "title": "Trump threatens to 'annihilate' Iran: Make a deal or get destroyed",
+      "description": "US President Donald Trump delivered a speech at the United Nations General Assembly stressing the need for confronting Iran. He indicated a choice between reaching a deal with Tehran or military action against the country. Trump's address included remarks on \u2026",
+      "url": "https://timesofindia.indiatimes.com/world/us/trump-threatens-to-annihilate-iran-make-a-deal-or-get-destroyed/articleshow/134417865.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418057,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:44:17Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Faiz Rahman Siddiqui",
+      "title": "Truck driver found hanging at home; family cites marital dispute",
+      "description": "27-year-old truck driver found hanging in Kanpur village home; family cites marital dispute and stress. Police sent body for postmortem, probe underway.",
+      "url": "https://timesofindia.indiatimes.com/city/kanpur/truck-driver-found-hanging-at-home-family-cites-marital-dispute/articleshow/134418088.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418087,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:44:08Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Faiz Rahman Siddiqui",
+      "title": "Golden Baba files FIR after caller demands 10% of gold",
+      "description": "Golden Baba (Golden Giri Baba) files FIR in Kanpur after an unidentified caller demanded 10% of his gold and threatened to kill him or harm his family; police tracing number.",
+      "url": "https://timesofindia.indiatimes.com/city/kanpur/golden-baba-files-fir-after-caller-demands-10-of-gold/articleshow/134418085.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418083,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:44:02Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "K'taka targets 30% cut in salt intake by 2030",
+      "description": "Karnataka launches plan to cut population salt intake 30% by 2030, targeting home cooking, eateries and processed foods; promotes low-salt cooking and substitutes.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/ktaka-targets-30-cut-in-salt-intake-by-2030/articleshow/134418078.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418077,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:43:56Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Faiz Rahman Siddiqui",
+      "title": "45-yr-old man found beheaded on roadside",
+      "description": "Kanpur police probe possible murder after a 45-year-old man was found beheaded on Bilhaur-Makanpur Road; head recovered nearby, body sent for postmortem.",
+      "url": "https://timesofindia.indiatimes.com/city/kanpur/45-yr-old-man-found-beheaded-on-roadside/articleshow/134418075.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418074,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:43:49Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Faiz Rahman Siddiqui",
+      "title": "Chargesheet against Pappu Chhuri in Rs 773cr illegal deals case",
+      "description": "Kanpur police file 3,013-page chargesheet in nine cases against Mahfooz Alam alias Pappu Chhuri for alleged Rs 773 crore illegal transactions; ED probes.",
+      "url": "https://timesofindia.indiatimes.com/city/kanpur/chargesheet-against-pappu-chhuri-in-rs-773cr-illegal-deals-case/articleshow/134418072.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-22T17:43:41Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Faiz Rahman Siddiqui",
+      "title": "BJP functionary forced to perform \u2018naagin dance\u2019 at PS, probe ordered",
+      "description": "BJP functionary Dinesh Mishra alleges Rampura police inspector demanded 20 cement sacks and forced a 10\u2011minute \u2018naagin dance\u2019; SP orders probe.",
+      "url": "https://timesofindia.indiatimes.com/city/kanpur/bjp-functionary-forced-to-perform-naagin-dance-at-ps-probe-ordered/articleshow/134418068.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-22T17:43:35Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "The Times Of India",
+      "title": "FSDA conducts inspection of fast-food chains, restaurants in 5 cities",
+      "description": "FSDA inspects 180+ food outlets in 5 cities; 110 notices issued, 12 outlets and a food court shut, licences suspended for hygiene and safety violations.",
+      "url": "https://timesofindia.indiatimes.com/city/kanpur/fsda-conducts-inspection-of-fast-food-chains-restaurants-in-5-cities/articleshow/134418062.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-22T17:43:22Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Globalsecurity.org"
+        "name": "Crypto Briefing"
       },
-      "author": "John Pike",
-      "title": "Trump defends military action against Iran, Venezuela, and calls for rebrand of AI",
-      "description": "US President Donald Trump used his address to the UN General Assembly on Tuesday to defend recent military action against Iran, urging countries to maintain economic pressure on Tehran - and declaring that he now faces a choice between making a deal, or takin\u2026",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260922-unnews02.htm",
-      "urlToImage": null,
-      "publishedAt": "2026-09-22T12:00:00Z",
-      "content": "General Assembly coverage\r\n 22 September 2026 - US President Donald Trump used his address to the UN General Assembly on Tuesday to defend recent military action against Iran, urging countries to mai\u2026 [+5087 chars]"
+      "author": "Estefano Gomez",
+      "title": "Trump optimistic about US-Iran settlement amid ongoing talks",
+      "description": "A potential US-Iran settlement could reshape diplomatic relations and influence geopolitical dynamics in the Middle East region.\nThe post Trump optimistic about US-Iran settlement amid ongoing talks appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/trump-optimistic-about-us-iran-settlement-amid-ongoing-talks/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/22134320/cb-card-geo-185-800x420.png",
+      "publishedAt": "2026-09-22T17:43:21Z",
+      "content": "U.S. President Donald Trump stated that ongoing discussions with Iran may lead to a settlement, according to a recent report by Reuters. This statement comes amid efforts to negotiate a diplomatic me\u2026 [+1342 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Sandeep Moudgal",
+      "title": "RDPR circular of removing illegal houses from property tax rolls in Karnataka creates panic, protests",
+      "description": "A recent circular has caused panic among forest and revenue land dwellers in Karnataka. BJP legislators raised concerns that properties might be deemed illegal for tax purposes. People fear eviction after receiving door numbers without full documentation. Sou\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/rdpr-circular-of-removing-illegal-houses-from-property-tax-rolls-in-karnataka-creates-panic-protests/articleshow/134417821.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134417920,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:43:00Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Bharat Khanna",
+      "title": "Punjabi University menstrual hygiene project reaches 1.5k rural women",
+      "description": "Punjabi University\u2019s Project Pehchan report shows menstrual, reproductive and nutrition awareness drive reached nearly 1,500 rural women and girls across Punjab.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/punjabi-university-menstrual-hygiene-project-reaches-1-5k-rural-women/articleshow/134418013.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-132862774,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:42:56Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Vinod Kumar",
+      "title": "Punjab worst-hit on jobs, youth participation in region: Report",
+      "description": "NSO report: Punjab has region\u2019s highest unemployment (5.3%) and NEET rate (27.7%); Gurdaspur worst-hit, Patiala leads participation.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/punjab-worst-hit-on-jobs-youth-participation-in-region-report/articleshow/134417980.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134417976,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:42:49Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Kapil Dixit",
+      "title": "Village woman\u2019s SHG turns into Rs 2.2 cr company",
+      "description": "Rural women\u2019s SHG in Prayagraj led by Rajkumari Singh becomes Rs 2.21 crore FPC, making bio-fertilizers and launching Sonachur, Kalanamak rice brands.",
+      "url": "https://timesofindia.indiatimes.com/city/allahabad/village-womans-shg-turns-into-rs-2-2-cr-company/articleshow/134418021.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418020,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:42:45Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Ajay Parmar",
+      "title": "AIIMS resident doctor dies by suspected suicide after injecting himself",
+      "description": "AIIMS Jodhpur anaesthesia PG resident Dr Raj Nilesh Yadav, 31, found dead in doctors\u2019 rest room; police suspect suicide by injection, probe underway.",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/aiims-resident-doctor-dies-by-suspected-suicide-after-injecting-himself/articleshow/134418019.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418017,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:42:39Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Vriti Jain",
+      "title": "Singer Simanta Sekhar quits BJP, resigns as Assam film corporation chairman",
+      "description": "Prominent singer Simanta Sekhar resigned from his ASFFDC chairman post. He also quit the BJP's state executive committee and primary membership. Sekhar cited personal reasons for his sudden departure from both positions. He thanked Chief Minister Himanta Bisw\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/guwahati/singer-simanta-sekhar-quits-bjp-resigns-as-assam-film-corporation-chairman/articleshow/134417916.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134417986,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:42:39Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Venu Lanka",
+      "title": "AP Police turn to AI, digital tools for safer policing",
+      "description": "Andhra Pradesh Police launch AI Centralised Drone Monitoring Portal and SafeStay app for real-time hotel/PG guest data, faster response, and safer policing.",
+      "url": "https://timesofindia.indiatimes.com/city/vijayawada/ap-police-turn-to-ai-digital-tools-for-safer-policing/articleshow/134418015.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134418014,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:42:29Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Writersdigest.com"
+        "name": "TheJournal.ie"
       },
-      "author": "Robert Lee Brewer",
-      "title": "Tanaz Bhathena: Have Faith in Your Work",
-      "description": "In this interview, author Tanaz Bhathena discusses how growing up on myths and legends led to her new historical fantasy, Witch Daughter.\nThe post Tanaz Bhathena: Have Faith in Your Work appeared first on Writer's Digest.",
-      "url": "https://www.writersdigest.com/tanaz-bhathena-have-faith-in-your-work#article",
-      "urlToImage": "https://www.writersdigest.com/uploads/2026/09/WD-Web-Images-4.png?auto=webp",
-      "publishedAt": "2026-09-22T12:00:00Z",
-      "content": "Tanaz\u00a0Bhathena\u00a0is an award-winning Zoroastrian author of contemporary and fantasy fiction. Her books include\u00a0Of Light and Shadow,\u00a0Hunted by the Sky, which won the White Pine Award and the Bapsi Sidhw\u2026 [+4114 chars]"
+      "author": "Jane Matthews",
+      "title": "Taoiseach refuses to say if Trump banning press from White House is authoritarian",
+      "description": "He said he was not going to \u201cembroil\u201d himself in a US issue.",
+      "url": "https://www.thejournal.ie/unga-taoiseach-trump-cnn-7170059-Sep2026/",
+      "urlToImage": "https://img2.thejournal.ie/article/7170059/river/?height=400&version=7170104",
+      "publishedAt": "2026-09-22T17:41:27Z",
+      "content": "THE TAOISEACH HAD little to say this afternoon when asked about US President Donald Trumps decision to ban a number of news outlets from the White House.\r\nAsked if he thought the move was anti-democr\u2026 [+2906 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Ajay Singh Ugras",
+      "title": "BJP wins 6 deputy mayor posts, Congress wiped out",
+      "description": "BJP wins 6 of 7 deputy mayor posts in Rajasthan civic polls; one goes to an independent in Pali, leaving Congress with none across 10 corporations.",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/bjp-wins-6-deputy-mayor-posts-congress-wiped-out/articleshow/134417981.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-22T17:41:13Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Suresh Kumar",
+      "title": "Party chief not liable for social media posts of its IT wing, Stalin tells HC",
+      "description": "MK Stalin tells Madras HC he isn\u2019t liable for DMK IT wing social media posts, in response to Aadhav Arjuna\u2019s Rs 1 crore defamation suit.",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/party-chief-not-liable-for-social-media-posts-of-its-it-wing-stalin-tells-hc/articleshow/134417974.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134417973,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:41:00Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "The Times Of India",
+      "title": "Sheo MLA seeks overhaul of EWS norms, plans yatra from Sept 25",
+      "description": "Sheo MLA Ravindra Singh Bhati to launch Sept 25 yatra seeking EWS norm overhaul, easier certificates, revised eligibility, income rules, and relaxations.",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/sheo-mla-seeks-overhaul-of-ews-norms-plans-yatra-from-sept-25/articleshow/134417971.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134417967,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:40:55Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "HC bars Bharatpur cricket official from taking decisions",
+      "description": "Rajasthan HC restrains Bharatpur District Cricket Association secretary Shatrudhan Tiwari from key decisions amid sexual misconduct probe; notices issued.",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/hc-bars-bharatpur-cricket-official-from-taking-decisions/articleshow/134417972.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134395110,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:40:55Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Sandeep Raghavan",
+      "title": "Leopard spotted on tree on Alipiri route to Tirumala, pilgrims told to trek in groups",
+      "description": "Leopard sighted on Alipiri footpath to Tirumala near step 2,754; TTD, forest and police \u0443\u0441\u0438\u043b patrolling, advise pilgrims to trek in groups.",
+      "url": "https://timesofindia.indiatimes.com/city/vijayawada/leopard-spotted-on-tree-on-alipiri-route-to-tirumala-pilgrims-told-to-trek-in-groups/articleshow/134417966.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134417965,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:40:34Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Police arrest man in Thengode apartment fraud case",
+      "description": "Kochi Infopark Police arrested Sarath K G in Thengode apartment fraud case, accused of cheating a 65-year-old by collecting Rs 40.67 lakh and doing partial work.",
+      "url": "https://timesofindia.indiatimes.com/city/kochi/police-arrest-man-in-thengode-apartment-fraud-case/articleshow/134417964.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134342444,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:40:26Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Ashish Mehta",
+      "title": "In chaotic ULB polls, HC turns emergency forum for candidates",
+      "description": "Rajasthan HC held special holiday benches in Jaipur and Jodhpur for urgent ULB poll petitions, granting interim protections, voting-hour extensions and key orders.",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/in-chaotic-ulb-polls-hc-turns-emergency-forum-for-candidates/articleshow/134417962.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134417960,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:40:22Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Ajay Parmar",
+      "title": "HC disposes habeas corpus plea linked to Srivijaynagar civic polls, another one pending",
+      "description": "Rajasthan HC disposes habeas corpus plea after missing Srivijaynagar councillor traced and voted; stay on chairperson election result continues till Sept 28.",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/hc-disposes-habeas-corpus-plea-linked-to-srivijaynagar-civic-polls-another-one-pending/articleshow/134417957.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-130838415,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:40:09Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Globalsecurity.org"
+        "name": "Quartz India"
       },
-      "author": "John Pike",
-      "title": "Displacement on the rise in Yemen as fighting continues",
-      "description": "As hostilities worsen in Yemen, more people have been fleeing their homes, further intensifying the humanitarian crisis within the region, the UN Refugee Agency (UNHCR) warned on Tuesday.",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260922-unnews01.htm",
-      "urlToImage": null,
-      "publishedAt": "2026-09-22T12:00:00Z",
-      "content": "By Dominika Tomaszewska-Mortimer in Geneva22 September 2026 - As hostilities worsen in Yemen, more people have been fleeing their homes, further intensifying the humanitarian crisis within the region\u2026 [+2357 chars]"
+      "author": "Cris Tolomia",
+      "title": "Saudi Arabia East-West Pipeline restarts after drone attacks",
+      "description": "A full return to the pipeline's 4 million barrels-per-day rate could take up to 6 to 8 weeks, sources say",
+      "url": "https://qz.com/saudi-arabia-east-west-pipeline-restart-drone-attacks-092226",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/cb8013c6233b3755efc3d20ce09cd8c364bec109864eccb966ef5031f979d841/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2F19e05c959ebf3d321606a27c4afb0dee.jpg",
+      "publishedAt": "2026-09-22T17:39:53Z",
+      "content": "Saudi Arabia restarted operations at its East-West Pipeline on Tuesday and could resume crude exports from the Red Sea port of Yanbu later in the day, according to Reuters, citing three sources brief\u2026 [+2365 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Globalsecurity.org"
+        "id": "the-times-of-india",
+        "name": "The Times of India"
       },
-      "author": "John Pike",
-      "title": "Vance Says Iran Could Not Build A Nuclear Weapon Tomorrow Or Even In A Year",
-      "description": "US Vice President JD Vance has said Iran could not build a nuclear weapon tomorrow, in six months, or within a year, even if it tried.",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260922-rferl07.htm",
-      "urlToImage": null,
-      "publishedAt": "2026-09-22T12:00:00Z",
-      "content": "08:01 22.9.2026\r\nUS Vice President JD Vance has said Iran could not build a nuclear weapon tomorrow, in six months, or within a year, even if it tried.\r\nIn an interview with Newsmax, Vance said that \u2026 [+1327 chars]"
+      "author": "Julie Mariappan",
+      "title": "El Nino effect: TN govt panel calls for multi-hazard preparedness",
+      "description": "Tamil Nadu panel urges multi-hazard preparedness as strong El Nino may last till early 2027; plan for floods, drought, heat, water scarcity; cyclone risk normal.",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/el-nino-effect-tn-govt-panel-calls-for-multi-hazard-preparedness/articleshow/134417948.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134417947,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:39:41Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Globalsecurity.org"
+        "id": "the-times-of-india",
+        "name": "The Times of India"
       },
-      "author": "John Pike",
-      "title": "US Treasury Chief: All Iranian Airlines Will Be Shut Down From September 23",
-      "description": "All Iranian airlines will be shut down around the world from September 23, US Treasury Secretary Scott Bessent said.",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260922-rferl06.htm",
-      "urlToImage": null,
-      "publishedAt": "2026-09-22T12:00:00Z",
-      "content": "08:15 22.9.2026\r\nAll Iranian airlines will be shut down around the world from September 23, US Treasury Secretary Scott Bessent said.\r\nSpeaking to CNBC on September 21, Bessent outlined measures rela\u2026 [+1489 chars]"
+      "author": "Times News Network",
+      "title": "FIR against girl\u2019s kin, cops after abduction accused dies by suicide at PS",
+      "description": "FIR filed against minor girl\u2019s father, brother and unidentified cops after Dalit abduction accused dies by suicide in Patti police station; SHO, SI suspended.",
+      "url": "https://timesofindia.indiatimes.com/city/allahabad/fir-against-girls-kin-cops-after-abduction-accused-dies-by-suicide-at-ps/articleshow/134417944.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134320548,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:39:13Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "J Abbas Mulla",
+      "title": "Hubballi Jamat moves to cut wedding expenses, ease burden on brides\u2019 families",
+      "description": "Hubballi Sunni Bagban Jamat to end lavish engagements, require mosque nikahs from Jan 2027, aiming to cut wedding costs and ease burden on brides\u2019 families.",
+      "url": "https://timesofindia.indiatimes.com/city/hubballi/hubballi-jamat-moves-to-cut-wedding-expenses-ease-burden-on-brides-families/articleshow/134417938.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134417936,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:38:45Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Vidya Dusi",
+      "title": "Focus on common devotees during Dasara at Kanaka Durga temple",
+      "description": "Kanaka Durga temple, Vijayawada, to prioritize common devotees during Dasara, regulate protocol darshans, use AI queue tech; ghat road repairs underway.",
+      "url": "https://timesofindia.indiatimes.com/city/vijayawada/focus-on-common-devotees-during-dasara-at-kanaka-durga-temple/articleshow/134417929.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134417928,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:38:36Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Jai Narain Pandey",
+      "title": "My \u2018moral policing\u2019 remark misquoted: Shreyasi",
+      "description": "Jamui MLA-minister Shreyasi Singh says her \u201cmoral policing\u201d remark was quoted out of context, stressing strict action against those harassing a minor girl.",
+      "url": "https://timesofindia.indiatimes.com/city/patna/my-moral-policing-remark-misquoted-shreyasi/articleshow/134417927.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134417926,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:38:30Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Soldier arrested by Sikar police in organised crime, arms case",
+      "description": "Sikar police arrested Army Lance Naik Bhopal Singh in an organised crime and Arms Act case after illegal pistols and 43 cartridges were seized from a flat.",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/soldier-arrested-by-sikar-police-in-organised-crime-arms-case/articleshow/134417923.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134417922,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:38:23Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Sandeep Raghavan",
+      "title": "CM Naidu launches Rs 11,359 crore urban works across AP",
+      "description": "CM Chandrababu Naidu launches \u20b911,359 crore urban works across 123 Andhra Pradesh municipalities and GVMC, covering roads, parks, lighting, sewerage and housing.",
+      "url": "https://timesofindia.indiatimes.com/city/vijayawada/cm-naidu-launches-rs-11359-crore-urban-works-across-ap/articleshow/134417921.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134417919,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T17:38:12Z",
+      "content": "Follow Us On Social Media\r\nOnly Akhilesh Can Beat BJP: SP Leader Iqra Hasan's Remark Triggers Fresh Congress-SP Face-OffTrump Media War Explodes: CNN, MS NOW, Politico Banned; White House Launches Tr\u2026 [+1520 chars]"
     }
   ]
 }

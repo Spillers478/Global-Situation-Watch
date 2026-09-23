@@ -1,7 +1,85 @@
 {
   "status": "ok",
-  "totalResults": 38,
+  "totalResults": 44,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "OilPrice.com"
+      },
+      "author": "OilPrice.com",
+      "title": "Beijing Tightens Rare Earth Flow Ahead Of Washington Summit With Trump",
+      "description": "Chinese President Xi Jinping and President Donald Trump are scheduled to meet in Washington on Thursday. UBS analysts quoted chief China economist Yu Song as saying the meeting between the leaders of the two global superpowers is largely about strategic stabi\u2026",
+      "url": "https://oilprice.com/Metals/Commodities/Beijing-Tightens-Rare-Earth-Flow-Ahead-Of-Washington-Summit-With-Trump.html",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-22_lhorboge6d.jpg",
+      "publishedAt": "2026-09-22T17:00:00Z",
+      "content": "Copper futures in London reached\u2026\r\nBrazil's new minerals law lets\u2026\r\nChinas enormous lead remains difficult\u2026\r\nBy ZeroHedge - Sep 22, 2026, 12:00 PM CDTChinese President Xi Jinping and President Donald\u2026 [+2935 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "North Korea touts new weapons system described as hypersonic - AP News",
+      "description": "North Korea touts new weapons system described as hypersonicAP News See more headlines &amp; perspectives on Google News ...",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185740694",
+      "urlToImage": null,
+      "publishedAt": "2026-09-22T16:32:57Z",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The New Republic"
+      },
+      "author": "Malcolm Ferguson",
+      "title": "Trump\u2019s Crazed U.N. Speech Met With Silence and Walkouts",
+      "description": "President Trump\u2019s confrontational, campaign-style speech at the United Nations General Assembly on Tuesday was met with silence and rejection, and both the Cuban and Iranian delegations walked out while he attacked them. The beginning of Trump\u2019s speech was me\u2026",
+      "url": "https://newrepublic.com/post/215711/trump-un-speech-silence-walkouts",
+      "urlToImage": "https://images.newrepublic.com/06a24f83473852c5a23b77b39b9a8e6e3b698942.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2026-09-22T16:31:25Z",
+      "content": "This is yet another instance in which the Trump administration turned a blind eye to corruption. This had the potential to be one of the biggest probes in recent history. Now we may never know the ex\u2026 [+848 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The New Republic"
+      },
+      "author": "Ellie Quinlan Houghtaling",
+      "title": "JD Vance Rips Health Care Away From Hundreds of Thousands of People",
+      "description": "Hundreds of thousands of Americans are about to lose their Obamacare coverage.While the president was busy threatening Iran, Cuba, and Mexico during a protracted speech at the United Nations General Assembly Tuesday morning, the rest of his administration was\u2026",
+      "url": "https://newrepublic.com/post/215713/jd-vance-health-care-obamacare-one-million-fraud",
+      "urlToImage": "https://images.newrepublic.com/9f16af564b3ada31110fbcd210bf6bda15b7baf3.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2026-09-22T16:21:32Z",
+      "content": "This is yet another instance in which the Trump administration turned a blind eye to corruption. This had the potential to be one of the biggest probes in recent history. Now we may never know the ex\u2026 [+848 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The New Republic"
+      },
+      "author": "Edith Olmsted",
+      "title": "Trump\u2019s Approval Rating Tanks Further Just Weeks Ahead of Midterms",
+      "description": "Even Republicans are abandoning President Donald Trump over his disastrous handling of the war against Iran. CNN Washington bureau chief David Chalian joined anchor Pamela Brown Tuesday morning to discuss the damning results of a recent CNN survey taking the \u2026",
+      "url": "https://newrepublic.com/post/215716/donald-trump-approval-rating-iran-midterms",
+      "urlToImage": "https://images.newrepublic.com/bb47c6f7853883512692701a838c4ce6b62fca08.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2026-09-22T16:14:12Z",
+      "content": "This is yet another instance in which the Trump administration turned a blind eye to corruption. This had the potential to be one of the biggest probes in recent history. Now we may never know the ex\u2026 [+848 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Foreign Policy"
+      },
+      "author": "Ravi Agrawal",
+      "title": "How Canada Is Navigating Trump\u2019s Threats",
+      "description": "A conversation with Foreign Minister Anita Anand.",
+      "url": "http://foreignpolicy.com/2026/09/22/canada-united-states-trade-economics-trump-threats-anita-anand/",
+      "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2026/09/CAN_USA_GettyImages-2293432394.jpg",
+      "publishedAt": "2026-09-22T16:08:53Z",
+      "content": "U.S. President Donald Trump has upended relations with several traditional allies but none perhaps more so than Canada, the worlds 11th-largest economy and a country with which the United States shar\u2026 [+10809 chars]"
+    },
     {
       "source": {
         "id": null,

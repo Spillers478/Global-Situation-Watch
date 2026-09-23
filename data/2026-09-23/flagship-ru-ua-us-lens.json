@@ -1,19 +1,5 @@
 {
   "status": "ok",
-  "totalResults": 1,
-  "articles": [
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Kathryn  Watson",
-      "title": "Trump to address U.N. General Assembly and meet with world leaders as he navigates Iran, Gaza, Ukraine conflicts - CBS News",
-      "description": "President Trump is addressing the United Nations General Assembly as the war with Iran approaches its seventh month.",
-      "url": "https://www.cbsnews.com/news/trump-address-united-nations-general-assembly-meetings-world-leaders-iran-ukraine/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/21/f864aec9-66cf-4888-a3ee-7995199aaeec/thumbnail/1200x630/96b53a7fb24a0740446587bc9d07acb6/gettyimages-2237050929.jpg",
-      "publishedAt": "2026-09-22T11:12:28Z",
-      "content": "Washington \u2014 President Trump will address the United Nations General Assembly Tuesday morning and meet with other world leaders as he makes the case for his handling of the war with Iran and other fo\u2026 [+5146 chars]"
-    }
-  ]
+  "totalResults": 0,
+  "articles": []
 }

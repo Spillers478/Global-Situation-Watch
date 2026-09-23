@@ -1,7 +1,46 @@
 {
   "status": "ok",
-  "totalResults": 37,
+  "totalResults": 40,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Digital Journal"
+      },
+      "author": "Jennifer Friesen",
+      "title": "The case for new tech starts with the cost of the old",
+      "description": "Helen Knight has spent a decade finding ways to modernize nonprofit technology on tight budgets.\nThe post The case for new tech starts with the cost of the old appeared first on Digital Journal.",
+      "url": "https://www.digitaljournal.com/article/the-case-for-new-tech-starts-with-the-cost-of-the-old/",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2026/09/Photo-by-Digital-Journal-3-1200x675.png",
+      "publishedAt": "2026-09-22T18:00:26Z",
+      "content": "Five months into a new job at the Calgary Drop-In Centre in 2016, Helen Knight stood barefoot in a flooded server room with a mop, trying to save the servers and at real risk of electrocuting herself\u2026 [+9020 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Sergiu Gatlan",
+      "title": "Check Point warns of Management Server zero-day exploited in attacks",
+      "description": "Check Point Software released emergency hotfixes to address a critical Security Management Server vulnerability that could let attackers run\u00a0arbitrary scripts. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/09/18/Check-Point.jpg",
+      "publishedAt": "2026-09-22T16:32:47Z",
+      "content": "Check Point Software released emergency hotfixes to address a critical Security Management Server vulnerability that could let attackers run arbitrary scripts.\r\nThe Security Management Server is a ce\u2026 [+3212 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PRNewswire"
+      },
+      "author": null,
+      "title": "IDrive Secures Educational Data with Cloud-to-Cloud Data Protection for Academic Institutions",
+      "description": "LOS ANGELES, Sept. 22, 2026 /PRNewswire/ -- IDrive, a leading provider of cloud backup and storage solutions, extends its cloud-to-cloud data protection offerings for educational institutions with Google Workspace Backup and Google Classroom, helping schools,\u2026",
+      "url": "https://www.prnewswire.com/news-releases/idrive-secures-educational-data-with-cloud-to-cloud-data-protection-for-academic-institutions-302886462.html",
+      "urlToImage": null,
+      "publishedAt": "2026-09-22T16:32:00Z",
+      "content": "LOS ANGELES, Sept. 22, 2026 /PRNewswire/ -- IDrive, a leading provider of cloud backup\u00a0and storage solutions, extends its cloud-to-cloud data protection offerings for educational institutions with Go\u2026 [+4248 chars]"
+    },
     {
       "source": {
         "id": null,

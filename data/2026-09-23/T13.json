@@ -1,7 +1,59 @@
 {
   "status": "ok",
-  "totalResults": 32,
+  "totalResults": 36,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNA"
+      },
+      "author": null,
+      "title": "Trump warns in UN speech he could 'annihilate' Iran without peace deal",
+      "description": "US President Donald Trump said the US may make a deal with Iran after the midterm elections, but warned that he could take stronger military action if Iran does not agree.",
+      "url": "https://www.channelnewsasia.com/world/iran-us-un-trump-speech-peace-deal-6402951",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--WWbm6EII--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-22T164839Z_1_LYNXMPEM8L1EH_RTROPTP_3_UN-ASSEMBLY-TRUMP.JPG?itok=GYN905Y2",
+      "publishedAt": "2026-09-22T17:00:41Z",
+      "content": "In addition to defending the decision to attack Iran, Trump was expected to use his speech to criticize the UN, highlighting his administration's efforts to prevent the organization and other interna\u2026 [+1553 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "He was a stockbroker by day and a child rescuer by night: Meet Nicholas Winton, the man who secretly saved 669 children",
+      "description": "London stockbroker Nicholas Winton took on a rescue mission in 1938 after witnessing the worsening plight of refugees in Prague. He helped organise the escape of 669 children, most of them Jewish, to Britain before the outbreak of World War II. Despite the sc\u2026",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/he-was-a-stockbroker-by-day-and-a-child-rescuer-by-night-meet-nicholas-winton-the-man-who-secretly-saved-669-children/articleshow/134416728.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134416933,width-1200,height-630,imgsize-97687,overlay-etpanache/articleshow.jpg",
+      "publishedAt": "2026-09-22T16:55:55Z",
+      "content": "Nicholas Winton was working a London stockbroker in the year 1938 when a visit to Prague changed the course of his life forever. He saw there Jewish families and other refugees struggling to survive \u2026 [+3990 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Midmajormadness.com"
+      },
+      "author": "Jake Copestick",
+      "title": "Caleb Lundy becomes the highest-rated recruit in Drexel history",
+      "description": "The three-star recruit said the school felt like home.",
+      "url": "https://www.midmajormadness.com/coastal-athletic-association/36562/caleb-lundy-becomes-the-highest-rated-recruit-in-drexel-history",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/5a0baa76d298f35e6fee31471ecd3f0fd1c0b054f88be975ed4912dcaac33a4f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F9b0510b7506e9c1c1df1d055129c6286.jpg",
+      "publishedAt": "2026-09-22T16:36:20Z",
+      "content": "The Drexel men's basketball program secured a commitment from the highest-rated recruit in its history when Archbishop Wood combo guard Caleb Lundy verbally committed to play for head coach Zach Spik\u2026 [+7466 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Bikash Singh",
+      "title": "Manipur CM urges unity to restore peace, secure future generations",
+      "description": "Manipur Chief Minister Yumnam Khemchand Singh urged people to set aside differences for peace. He spoke at an inauguration event for five development projects in Imphal East district. The Chief Minister assured displaced persons of efforts to facilitate their\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/manipur-cm-urges-unity-to-restore-peace-secure-future-generations/articleshow/134416601.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134416627,width-1200,height-630,imgsize-60554,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-22T16:35:32Z",
+      "content": "Guwahati: Manipur Chief Minister Yumnam Khemchand Singh called upon people to set aside political differences and work together as one towards restoring peace in Manipur, keeping in mind the future o\u2026 [+2318 chars]"
+    },
     {
       "source": {
         "id": null,
