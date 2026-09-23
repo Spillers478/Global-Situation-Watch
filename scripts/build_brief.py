@@ -455,7 +455,7 @@ TEMPLATE = """<!DOCTYPE html>
 <body>
 <header>
   <h1>Global Situation Watch</h1>
-  <p>{date} &middot; keyword-retrieval build &middot; NewsAPI Developer tier &middot; refreshed daily via GitHub Actions</p>
+  <p>{date}</p>
 </header>
 {nav}
 <main>
