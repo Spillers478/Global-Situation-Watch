@@ -23,6 +23,36 @@ outlet shaping opinion somewhere its own newsroom isn't" question --
 relevant to influence/reach analysis), so it gets its own field,
 `audience`, kept deliberately separate from `country`/`cocom`.
 
+-- Worked example: three separate facts about one article --
+
+Say Hurriyet Daily News (Turkey, USEUCOM -- see the table below) runs a
+story about an Iran/Israel strike. On the rendered page that one
+article would carry (up to) three independent tags, each answering a
+different question and each capable of disagreeing with the other two:
+
+  origin-tag:   "Turkey · USEUCOM"     -- where the outlet is EDITED from
+  cocom-tag:    "USCENTCOM"            -- what the STORY is about
+  audience-tag: "audience: ~70% US"    -- where the outlet's READERS are
+                                            (hypothetical -- see caveat below)
+
+A Turkish-edited outlet, reporting on a Middle East story, read mostly
+by an American audience: three facts, three tags, none of them implied
+by either of the others. That's the whole reason these are separate
+fields instead of one "region" label -- collapsing them would hide
+exactly the kind of mismatch (an outlet's editorial home vs. who it's
+actually reaching) that's most worth noticing.
+
+The audience figure above is illustrative only -- there's no real
+lookup behind it, and Hurriyet's entry in the table below intentionally
+has no `audience` field. Looking up real audience-geography numbers
+(SimilarWeb, comparable tools) source-by-source doesn't scale by hand
+across an entire table like this one; `audience` stays populated only
+for whichever handful of sources you've actually looked up yourself,
+same as the TechRadar entry below, and every other source just renders
+without that badge. That's a real limitation, not a placeholder to fill
+in later on principle -- there's no plan to backfill it for all ~40
+entries.
+
 There's no free API for audience geography (SimilarWeb doesn't offer
 one), so `audience` is populated by hand, opportunistically, from
 whatever you've looked up yourself (SimilarWeb, comparable tools) --

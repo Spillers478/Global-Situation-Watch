@@ -473,6 +473,13 @@ TEMPLATE = """<!DOCTYPE html>
     line-height: 1.6;
   }}
   .legend span {{ white-space: nowrap; margin-right: 0.9rem; }}
+  .legend-example {{
+    margin: 0.6rem 0 0;
+    padding-top: 0.6rem;
+    border-top: 1px dashed var(--border);
+    line-height: 1.7;
+  }}
+  .legend-example em {{ color: var(--text); font-style: normal; font-weight: 600; }}
   .empty {{ color: var(--muted); font-size: 0.85rem; font-style: italic; }}
   .topic-nav {{
     position: sticky;
@@ -523,10 +530,15 @@ TEMPLATE = """<!DOCTYPE html>
   <p>{date} &middot; keyword-retrieval build &middot; NewsAPI Developer tier &middot; refreshed daily via GitHub Actions</p>
 </header>
 <div class="legend">
-  <span><span class="trusted-tag" style="margin-right:0.3rem">wire service</span>recognized wire/broadcast source</span>
-  <span><span class="origin-tag" style="margin-right:0.3rem">country · AOR</span>where the outlet is edited from</span>
-  <span><span class="cocom-tag" style="margin-right:0.3rem">AOR</span>what region the story is about</span>
-  <span><span class="audience-tag" style="margin-right:0.3rem">audience: ...</span>where the outlet's readers actually are, when known</span>
+  <div>
+    <span><span class="trusted-tag" style="margin-right:0.3rem">wire service</span>recognized wire/broadcast source</span>
+    <span><span class="origin-tag" style="margin-right:0.3rem">country · AOR</span>where the outlet is edited from</span>
+    <span><span class="cocom-tag" style="margin-right:0.3rem">AOR</span>what region the story is about</span>
+    <span><span class="audience-tag" style="margin-right:0.3rem">audience: ...</span>where the outlet's readers actually are, when known</span>
+  </div>
+  <p class="legend-example"><em>Illustrative example, not a real data point:</em> a Turkish outlet (<span class="origin-tag">Turkey &middot; USEUCOM</span>) reporting on an
+  Iran/Israel story (<span class="cocom-tag">USCENTCOM</span>) read mostly by an American audience
+  (<span class="audience-tag">audience: ~70% US</span>) would show all three &mdash; three separate facts about one article, not one.</p>
 </div>
 {nav}
 <main>
