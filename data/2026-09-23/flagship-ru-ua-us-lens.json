@@ -4,16 +4,16 @@
   "articles": [
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": "cbs-news",
+        "name": "CBS News"
       },
-      "author": "Michael Birnbaum",
-      "title": "Trump seeks fertilizer deal with Russia ally Belarus amid Canadian tensions - The Washington Post",
-      "description": "The proposed potash purchases would expand trade with a country that helped Moscow launch its invasion of Ukraine.",
-      "url": "https://www.washingtonpost.com/politics/2026/09/21/trump-seeks-fertilizer-deal-with-russia-ally-belarus-amid-canadian-tensions/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4NDGJNJN3BLPC5G6F5KCJDXCE4_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-09-22T03:15:00Z",
-      "content": "The United States is seeking to broker a deal to purchase fertilizer from Belarus and rely less on Canada, the U.S. ally with which the White House has repeatedly tangled, President Donald Trump said\u2026 [+7 chars]"
+      "author": "Kathryn  Watson",
+      "title": "Trump to address U.N. General Assembly and meet with world leaders as he navigates Iran, Gaza, Ukraine conflicts - CBS News",
+      "description": "President Trump is addressing the United Nations General Assembly as the war with Iran approaches its seventh month.",
+      "url": "https://www.cbsnews.com/news/trump-address-united-nations-general-assembly-meetings-world-leaders-iran-ukraine/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/21/f864aec9-66cf-4888-a3ee-7995199aaeec/thumbnail/1200x630/96b53a7fb24a0740446587bc9d07acb6/gettyimages-2237050929.jpg",
+      "publishedAt": "2026-09-22T11:12:28Z",
+      "content": "Washington \u2014 President Trump will address the United Nations General Assembly Tuesday morning and meet with other world leaders as he makes the case for his handling of the war with Iran and other fo\u2026 [+5146 chars]"
     }
   ]
 }

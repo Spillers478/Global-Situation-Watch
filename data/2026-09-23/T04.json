@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 10,
+  "totalResults": 11,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Manman Chen, Wanzhou Wang, Feng Sha, Zichen Ye, Yuankai Zhao, Chao Yang, Ze Liang, Yu Jiang, Xijie Wang, Jinling Tang",
+      "title": "Global, regional, and national impact of epidemic disasters on health workforce equality between 1990 and 2019: An ecological and modeling study",
+      "description": "Manman Chen, Wanzhou Wang and colleagues examined how infectious disease epidemics were associated with changes in the health workforce across 194 countries and territories from 1990 to 2019. Their findings suggest that epidemic events were linked to health w\u2026",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005134",
+      "urlToImage": "https://journals.plos.org/plosmedicine/article/figure/image?id=10.1371/journal.pmed.1005134.g005&size=inline",
+      "publishedAt": "2026-09-22T14:00:00Z",
+      "content": "Citation: Chen M, Wang W, Sha F, Ye Z, Zhao Y, Yang C, et al. (2026) Global, regional, and national impact of epidemic disasters on health workforce equality between 1990 and 2019: An ecological and \u2026 [+43454 chars]"
+    },
     {
       "source": {
         "id": null,

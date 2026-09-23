@@ -1,7 +1,59 @@
 {
   "status": "ok",
-  "totalResults": 2,
+  "totalResults": 6,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Perkin Amalaraj",
+      "title": "Ceuta braces for another migrant surge weeks after 'invasion' saw 80,000 storm border - as fresh riots break out in Spain's African enclave",
+      "description": "Ceuta is bracing for a potential new mass surge of migrants on Wednesday, weeks after an estimated 80,000 people stormed the border between the Spanish enclave and Morocco.",
+      "url": "https://www.dailymail.com/news/article-16150887/Ceuta-migrants-invasion-spain-morocco.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/09/22/16/111400403-0-image-m-25_1790090418560.jpg",
+      "publishedAt": "2026-09-22T15:43:24Z",
+      "content": "Ceuta is bracing for a potential new mass surge of migrants on Wednesday, weeks after an estimated 80,000 people stormed the border between the Spanish enclave and Morocco.\u00a0\r\nSocial media is now rife\u2026 [+4019 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Sabrina Penty",
+      "title": "Iranian woman, 23, facing execution for taking part in mass protests 'issues desperate appeal for help in voice message from her jail cell'",
+      "description": "An Iranian woman who faces execution for participating in anti-regime protests has begged for help from inside her prison cell.",
+      "url": "https://www.dailymail.com/news/article-16151505/Iranian-woman-execution-protests-help-voice-message-jail.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/09/22/15/111399677-0-image-m-15_1790089075024.jpg",
+      "publishedAt": "2026-09-22T14:59:30Z",
+      "content": "An Iranian woman who faces execution for participating in anti-regime protests has begged for help from inside her prison cell.\u00a0\r\nAccounting student Najmeh Amini, 23, was sentenced to death last week\u2026 [+4773 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Our Bureau",
+      "title": "Delhi riots case: Sharjeel Imam gets interim bail to attend a wedding",
+      "description": "Additional Sessions Judge Sameer Bajpai allowed the plea by Imam seeking interim bail for a week to attend his cousin's wedding",
+      "url": "https://www.business-standard.com/india-news/delhi-riots-case-sharjeel-imam-gets-interim-bail-to-attend-a-wedding-126092200972_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/22/thumb/fitandfill/1200X628/1790078883-9443.jpg",
+      "publishedAt": "2026-09-22T12:05:29Z",
+      "content": "Additional Sessions Judge Sameer Bajpai allowed the plea by Imam seeking interim bail for a week to attend his cousin's wedding\r\nSharjeel Imam | File Photo: PTI\r\nPress Trust of India1 min read Last U\u2026 [+1230 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Siddhi Dharmadhikari",
+      "title": "Delhi riots UAPA case: Sharjeel Imam gets 7-day interim bail to attend cousins\u2019 weddings",
+      "description": "Delhi\u2019s Karkardooma court on Tuesday granted Sharjeel Imam seven days\u2019 interim bail from October 4 to 10 to attend the marriages of his two cousins in Delhi and Bihar. The court imposed conditions including a Rs 50,000 bail bond and a direction not to contact\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/delhi-riots-uapa-case-sharjeel-imam-gets-7-day-interim-bail-to-attend-cousins-weddings/articleshow/134410753.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134410774,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T11:19:04Z",
+      "content": "Follow Us On Social Media\r\nArtist Sobha Singh's legacy to be celebrated with a special event in Mumbai'We are here for Article 370 and discuss about Dhurandhar hopefully next year': Aditya Dhar tease\u2026 [+1799 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",

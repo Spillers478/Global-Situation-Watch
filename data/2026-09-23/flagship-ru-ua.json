@@ -1,7 +1,384 @@
 {
   "status": "ok",
-  "totalResults": 237,
+  "totalResults": 267,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Nicholas Kerr",
+      "title": "Rubio says Ukraine unintentionally hit 'American-linked' oil infrastructure",
+      "description": "Secretary of State Marco Rubio alleged U.S.-linked oil infrastructure has been targeted in recent weeks by Ukraine amid its war with Russia in an interview with Fox News.",
+      "url": "https://abcnews.com/International/rubio-ukraine-unintentionally-hit-american-linked-oil-infrastructure/story?id=136648660",
+      "urlToImage": "https://i.abcnewsfe.com/a/0321b98a-a142-40b3-8130-38a932323038/marco-rubio-1-gty-gmh-260922_1790086827209_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-09-22T15:44:16Z",
+      "content": "Secretary of State Marco Rubio alleged that U.S.-linked oil infrastructure has been targeted in recent weeks by Ukraine amid its war with Russia during an interview with Fox News on Tuesday morning, \u2026 [+1668 chars]"
+    },
+    {
+      "source": {
+        "id": "rte",
+        "name": "RTE"
+      },
+      "author": "Liam Nolan",
+      "title": "The ups and downs of Trump and Zelensky meetings",
+      "description": "Volodymyr Zelensky has learned how to deal with Donald Trump the hard way during that first Oval Office meeting.",
+      "url": "https://www.rte.ie/news/analysis-and-comment/2026/0922/1592552-trump-zelensky-meeting-preview/",
+      "urlToImage": "https://www.rte.ie/images/00250ce8-1600.jpg",
+      "publishedAt": "2026-09-22T14:56:45Z",
+      "content": "Ukrainian President Volodymyr Zelensky and US President Donald Trump have had their ups and downs since Mr Trump returned to the White House almost two years ago.\r\nTheir meeting later today on the si\u2026 [+3978 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "author": "Editorial Team",
+      "title": "European Union removes Usmanov and Fridman from sanctions list in controversial deal",
+      "description": "The EU's decision may strain relations with Ukraine and highlight internal divisions, impacting future diplomatic and economic strategies.\nThe post European Union removes Usmanov and Fridman from sanctions list in controversial deal appeared first on Crypto B\u2026",
+      "url": "https://cryptobriefing.com/eu-removes-usmanov-fridman-sanctions/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg",
+      "publishedAt": "2026-09-22T14:52:33Z",
+      "content": "The EU agreed to delist two Russian-linked billionaires in exchange for extending sanctions on roughly 3,000 other entities for an unprecedented three years. The European Union lifted sanctions on tw\u2026 [+3021 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Doug Specht, Reader in Cultural Geography and Communication, University of Westminster, Rob Sharp, Assistant Professor in Media and Cultural Studies, University of Sussex",
+      "title": "As Ukraine rebuilds amid constant Russian attack, small towns and villages are being sidelined",
+      "description": "Lacking staff, Ukraine\u2019s rural communities are missing out on crucial reconstruction funding.",
+      "url": "https://theconversation.com/as-ukraine-rebuilds-amid-constant-russian-attack-small-towns-and-villages-are-being-sidelined-290483",
+      "urlToImage": "https://images.theconversation.com/files/760005/original/file-20260915-50-jm36bg.jpg?ixlib=rb-4.1.1&rect=0%2C1002%2C5369%2C2684&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-09-22T14:44:19Z",
+      "content": "Destroyed cars sit on the Zhytomyr highway, roughly 12 miles from Kyiv, in April 2022. Drop of Light / Shutterstock\r\nIn the early days of the full-scale invasion of Ukraine, Russian armoured columns \u2026 [+5204 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "Briar Stewart",
+      "title": "As Trump and Zelenskyy talk about potential energy truce, Russia and Ukraine unleash new wave of strikes",
+      "description": "Ukraine and Russia traded fresh strikes on their respective energy infrastructure overnight, underscoring the gap between the high-level talk of an energy ceasefire in the ongoing war and the reality on the ground.",
+      "url": "https://www.cbc.ca/news/world/ukraine-drone-attacks-energy-9.7353459",
+      "urlToImage": "https://i.cbc.ca/ais/e44ef9b5-18f9-457e-b126-6ec1a724f161,1790086026439/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C49%2C2000%2C1125%29%3BResize%3D620",
+      "publishedAt": "2026-09-22T14:44:12Z",
+      "content": "Ukraine and Russia traded fresh strikes on their respective energy infrastructure overnight, underscoring the gap between the high-level talk of an energy ceasefire in the ongoing war and the reality\u2026 [+6583 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "Briar Stewart",
+      "title": "As Trump and Zelenskyy talk about potential energy truce, Russia and Ukraine unleash new wave of strikes",
+      "description": "Ukraine and Russia traded fresh strikes on their respective energy infrastructure overnight, underscoring the gap between the high-level talk of an energy ceasefire in the ongoing war and the reality on the ground.",
+      "url": "https://www.cbc.ca/news/world/as-trump-and-zelenskyy-talk-about-potential-energy-truce-russia-and-ukraine-unleash-new-wave-of-strikes-9.7353459",
+      "urlToImage": "https://i.cbc.ca/ais/e44ef9b5-18f9-457e-b126-6ec1a724f161,1790086026439/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C49%2C2000%2C1125%29%3BResize%3D620",
+      "publishedAt": "2026-09-22T14:44:12Z",
+      "content": "Ukraine and Russia traded fresh strikes on their respective energy infrastructure overnight, underscoring the gap between the high-level talk of an energy ceasefire in the ongoing war and the reality\u2026 [+6371 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Antiwar.com"
+      },
+      "author": "Len D. Pozeram",
+      "title": "Charles Goyette\u2019s Empire of Lies: Restoring the History the Warlords Need US To Forget",
+      "description": "Charles Goyette, Empire of Lies: Fragments from the Memory Hole. Edited by Mike Dworski and Ben Parker. Austin, Texas: The Libertarian Institute, 2025. 275 numbered pages, plus preliminary matter. ISBN 979-8-9942002-0-9. What happens to a republic when its go\u2026",
+      "url": "https://www.antiwar.com/blog/2026/09/22/empire-of-lies-restoring-the-history-the-warlords-need-us-to-forget/",
+      "urlToImage": "https://d27srd8s9736cr.cloudfront.net/2026/09/goyette-x.jpg",
+      "publishedAt": "2026-09-22T14:22:20Z",
+      "content": "Charles Goyette, Empire of Lies: Fragments from the Memory Hole. Edited by Mike Dworski and Ben Parker. Austin, Texas: The Libertarian Institute, 2025. 275 numbered pages, plus preliminary matter. IS\u2026 [+18998 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "POLITICO.eu"
+      },
+      "author": "Gabriel Gavin",
+      "title": "Trump wants to be with the \u2018winners.\u2019 Europe should remember that.",
+      "description": "Getting the White House onside isn't about ideology \u2014 it's about popularity, said POLITICO's Jonathan Martin.",
+      "url": "https://www.politico.eu/article/donald-trump-winners-europe-remember/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/09/22/GettyImages-2296464776-scaled.jpg",
+      "publishedAt": "2026-09-22T14:16:33Z",
+      "content": "\u201cWhy is he at Gracie Mansion [the official mayoral residence] with a socialist mayor of New York City yesterday, whose views ostensibly are anathema to everything Trump and Trumpism is about? It\u2019s ve\u2026 [+737 chars]"
+    },
+    {
+      "source": {
+        "id": "rt",
+        "name": "RT"
+      },
+      "author": "RT",
+      "title": "You still don\u2019t have the cards: Is Zelensky still bringing a bluff to Trump?",
+      "description": "Zelensky will meet Trump at the UN while being trailed by a $27 billion defense hole, Patriot shortages, and corruption scandals Read Full Article at RT.com",
+      "url": "https://www.rt.com/news/646079-zelensky-trump-card-bluff-un/",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6ab25cea85f5407f856c3575.jpg",
+      "publishedAt": "2026-09-22T14:06:57Z",
+      "content": "\u201cYou don\u2019t have the cards.\u201d\r\nThat was the message US President Donald Trump famously delivered to Vladimir Zelensky during their fiery Oval Office showdown in February 2025. Trump accused the Ukraini\u2026 [+9485 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Military.com"
+      },
+      "author": "MLT Staff",
+      "title": "Russia and Ukraine Trade Deadly Strikes as Zelenskyy Prepares to Meet Trump",
+      "description": "The repeated attacks on Russian refineries, following Moscow\u2019s strikes on\u00a0Ukraine\u2019s power grid, have caused international shortages of diesel.",
+      "url": "https://military.com/russia-and-ukraine-trade-deadly-strikes-as-zelenskyy-prepares-to-meet-trump",
+      "urlToImage": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/09/ap26265337419531.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-09-22T13:58:20Z",
+      "content": "KYIV, Ukraine (AP) Russia bombarded at least four Ukrainian regions overnight with missiles and drones, killing five people, officials said Tuesday, and Ukraines forces damaged another Russian oil re\u2026 [+5725 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Military.com"
+      },
+      "author": "MLT Staff",
+      "title": "Trump Returns to UN at a Moment of Anxiety About Iran, AI and the Future of the World Body Itself",
+      "description": "Trump intends to underscore that \u201che is using American power to confront longstanding challenges and reshape the world to America\u2019s benefit.\"",
+      "url": "https://military.com/trump-returns-to-un-at-a-moment-of-anxiety-about-iran-ai-and-the-future-of-the-world-body-itself",
+      "urlToImage": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/09/ap26265040356675.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-09-22T13:30:07Z",
+      "content": "NEW YORK (AP) President Donald Trump is set to address the U.N. General Assembly on Tuesday at a tumultuous moment for the world and for his presidency.\r\nThe global economy has been shaken by his dec\u2026 [+7533 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailykos.com"
+      },
+      "author": "kos",
+      "title": "Ukraine is ignoring Trump\u2014as it should",
+      "description": "Trump made the ridiculous demand for Ukraine to stop attacking Russian oil facilities.",
+      "url": "http://www.dailykos.com/stories/2026/9/22/800101396/world/ukraine-ignoring-trump/",
+      "urlToImage": "https://www.dailykos.com/wp-content/uploads/sites/2/2026/03/AP26055135342637.jpg?w=1500",
+      "publishedAt": "2026-09-22T13:30:00Z",
+      "content": "A little over a week ago, President Donald Trump demanded that Ukraine stop attacking Russian oil facilities.\u00a0\r\nPresident Donald Trump sits beside Ukraine\u2019s President Volodymyr Zelenskyy in the Oval \u2026 [+2989 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "POLITICO.eu"
+      },
+      "author": "Mari Eccles, Nicholas Vinocur",
+      "title": "Ukraine open to grain truce with Russia, deputy PM says",
+      "description": "Vsevolod Chentsov tells POLITICO \"now is a good moment to sit and talk.\"",
+      "url": "https://www.politico.eu/article/ukraine-open-to-grain-truce-with-russia-deputy-pm-vsevolod-chentsov-says/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/09/22/GettyImages-2162271481.jpg",
+      "publishedAt": "2026-09-22T13:12:27Z",
+      "content": "Russia first launched attacks on port infrastructure and vessels anchored in Ukrainian Black Sea ports in the months after its full-scale invasion in 2022, stopping Kyiv from exporting grain.\r\nThey [\u2026 [+1227 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "breakingthenews.net",
+      "title": "Rubio calls for Russia-Ukraine energy ceasefire",
+      "description": "US Secretary of State Marco Rubio called on Tuesday for an immediate energy infrastructure ceasefire between Russia and Ukraine, echoing President Donald Trump's previous calls to halt attacks on ener...",
+      "url": "https://biztoc.com/x/c0a8e3884ae9d0c8",
+      "urlToImage": "https://biztoc.com/cdn/c0a8e3884ae9d0c8_s.webp",
+      "publishedAt": "2026-09-22T12:13:58Z",
+      "content": "US Secretary of State Marco Rubio called on Tuesday for an immediate energy infrastructure ceasefire between Russia and Ukraine, echoing President Donald Trump's previous calls to halt attacks on ene\u2026 [+69 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Russia Rains Crushing Tsirkon Missile Barrage on Ukrainian Facilities",
+      "description": "The Russian armed forces pounded a facility in Kiev that manufactured components and warheads for long-range Flamingo cruise missiles, the Russian Defense Ministry said on Tuesday.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260922-sputnik07.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-22T12:00:00Z",
+      "content": "20260922\r\nMOSCOW (Sputnik) - The Russian armed forces pounded a facility in Kiev that manufactured components and warheads for long-range Flamingo cruise missiles, the Russian Defense Ministry said o\u2026 [+1546 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Russia Hits Ukraine's Industrial Plants, Defense Industry Objects Used by Army - Military",
+      "description": "The Russian armed forces carried out a massive overnight strike, hitting enterprises in the metallurgical and chemical industries, the fuel and energy sector, and the defense industry complex of Ukraine that are involved in supporting the army, the Russian De\u2026",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260922-sputnik09.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-22T12:00:00Z",
+      "content": "20260922\r\nMOSCOW (Sputnik) - The Russian armed forces carried out a massive overnight strike, hitting enterprises in the metallurgical and chemical industries, the fuel and energy sector, and the def\u2026 [+1464 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Trump defends military action against Iran, Venezuela, and calls for rebrand of AI",
+      "description": "US President Donald Trump used his address to the UN General Assembly on Tuesday to defend recent military action against Iran, urging countries to maintain economic pressure on Tehran - and declaring that he now faces a choice between making a deal, or takin\u2026",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260922-unnews02.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-22T12:00:00Z",
+      "content": "General Assembly coverage\r\n 22 September 2026 - US President Donald Trump used his address to the UN General Assembly on Tuesday to defend recent military action against Iran, urging countries to mai\u2026 [+5087 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "At UN General Assembly, the President focused on geopolitical conflicts, challenges posed by artificial intelligence, and historical memory",
+      "description": "President Gitanas Naus\u0117da addressed world leaders at the 81st session of the United Nations General Assembly (UNGA) in New York on Tuesday.",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260922-lithuania-pres02.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-22T12:00:00Z",
+      "content": "President of the Republic of Lithuania\r\nSeptember 22, 2026\r\nPresident Gitanas Nausda addressed world leaders at the 81st session of the United Nations General Assembly (UNGA) in New York on Tuesday.\r\u2026 [+2478 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Ukraine Knows What It Must Do for Sustainable Peace - Kremlin",
+      "description": "Ukraine is well aware of what decisions need to be made in order to set the path to sustainable peace in Ukraine, Kremlin spokesman Dmitry Peskov said on Tuesday.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260922-sputnik05.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-22T12:00:00Z",
+      "content": "20260922\r\nMOSCOW (Sputnik) - Ukraine is well aware of what decisions need to be made in order to set the path to sustainable peace in Ukraine, Kremlin spokesman Dmitry Peskov said on Tuesday.\r\nOn Ukr\u2026 [+3760 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "\"We are compelled to change the current understanding where international law is applied differently to the strong and the weak\"",
+      "description": "Addressing the 81st session of the United Nations General Assembly, President Erdo\u011fan said: \"We are compelled to change the current understanding where international law is applied differently to the strong and the weak. Let us not forget that an internationa\u2026",
+      "url": "https://www.globalsecurity.org/wmd/library/news/turkey/2026/turkey-260922-turkey-president02.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-22T12:00:00Z",
+      "content": "Presidency of The Republic of Turkey\r\n22.09.2026\r\n Addressing the 81st session of the United Nations General Assembly, President Erdoan said: \"We are compelled to change the current understanding whe\u2026 [+21325 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Joint Statement on the Canada-Nordic-Baltic Eight meeting",
+      "description": "Today, Margus Tsahkna, Minister of Foreign Affairs of Estonia, and Anita Anand, Minister of Foreign Affairs of Canada, convened the foreign ministers of Denmark, Finland, Iceland, Latvia, Lithuania, Norway and Sweden to the first Canada-Nordic-Baltic Eight (N\u2026",
+      "url": "https://www.globalsecurity.org/wmd/library/news/canada/2026/canada-260922-canada01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-22T12:00:00Z",
+      "content": "Global Affairs Canada\r\nSeptember 22, 2026 - New York City, New York - Global Affairs Canada\r\nToday, Margus Tsahkna, Minister of Foreign Affairs of Estonia, and Anita Anand, Minister of Foreign Affair\u2026 [+3217 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Zelenskyy Pushes To End The War Before Winter; Trump Thinks Both Sides Are Ready",
+      "description": "The US and Ukrainian presidents each expressed cautious optimism regarding a potential timeline for the end of the Russia-Ukraine war.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260922-rferl01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-22T12:00:00Z",
+      "content": "By RFE/RL's Ukrainian Service September 22, 2026\r\nThe US and Ukrainian presidents each expressed cautious optimism regarding a potential timeline for the end of the Russia-Ukraine war.\r\nDonald Trump \u2026 [+5599 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "breakingthenews.net",
+      "title": "Rubio calls for Russia-Ukraine energy sites ceasefire",
+      "description": "US Secretary of State Marco Rubio called on Tuesday for an immediate energy infrastructure ceasefire between Russia and Ukraine, echoing President Donald Trump's previous calls to halt attacks on ener...",
+      "url": "https://biztoc.com/x/e54fc7e70f9916fb",
+      "urlToImage": "https://biztoc.com/cdn/e54fc7e70f9916fb_s.webp",
+      "publishedAt": "2026-09-22T11:58:16Z",
+      "content": "US Secretary of State Marco Rubio called on Tuesday for an immediate energy infrastructure ceasefire between Russia and Ukraine, echoing President Donald Trump's previous calls to halt attacks on ene\u2026 [+69 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "sbaker@businessinsider.com (Sin\u00e9ad Baker)",
+      "title": "Ukrainian war robots with microphones and speakers are listening in and broadcasting surrender messages to Russian troops",
+      "description": "Ukraine's war robots are increasingly using speakers and microphones to collect intel and tell the enemy to give up.",
+      "url": "https://www.businessinsider.com/ukraine-robots-use-speakers-microphones-to-get-intel-and-surrender-2026-9#article",
+      "urlToImage": "https://i.insider.com/6ab116a716256d3825fe0085?width=899&format=jpeg",
+      "publishedAt": "2026-09-22T11:37:01Z",
+      "content": "Ukraine's developers are equipping war robots with microphones and speakers to allow them to serve as mobile spies against Russia, to urge Russian soldiers to surrender, and to talk with their own co\u2026 [+4253 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hurriyet Daily News"
+      },
+      "author": "hurriyetdailynews.com",
+      "title": "EU in showdown over Russian oligarch sanctions as deadline nears",
+      "description": "EU countries on Sept. 22 resumed their scramble for an agreement on prolonging sanctions on Russia, after Latvia held up a deal to take two oligarchs off the blacklist.",
+      "url": "https://www.hurriyetdailynews.com/eu-in-showdown-over-russian-oligarch-sanctions-as-deadline-nears-227194",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6ab266fd081ef476a8ca9737.jpg",
+      "publishedAt": "2026-09-22T11:32:28Z",
+      "content": "BRUSSELS\r\nUzbek-born Russian businessman Alisher Usmanov attends the Congress of the Russian Union of Industrialists and Entrepreneurs in Moscow on March 26, 2026 (AFP Photo)\r\nEU countries on Sept. 2\u2026 [+3797 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Inautonews.com"
+      },
+      "author": "Chris Wilson",
+      "title": "Volkswagen Launches Full Production at Kaluga Plant in Russia",
+      "description": "Volkswagen began full-scale vehicle production at its Kaluga facility in October 2009, marking a \u20ac570 million investment and a major step in localising its Russian operations.",
+      "url": "https://www.inautonews.com/vw-start-production-in-kaluga-russia",
+      "urlToImage": "https://www.inautonews.com/media/licensed/2026/09/volkswagen-launches-full-production-at-kaluga-plant-in-russi-8dacefc7.jpg?w=1536",
+      "publishedAt": "2026-09-22T11:29:13Z",
+      "content": "Volkswagen Group officially launched full vehicle production at its Kaluga plant in Russia in October 2009, after an initial phase of semi-knocked-down assembly that began in late 2007. The move foll\u2026 [+3800 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Radio Free Europe/ Radio Liberty"
+      },
+      "author": "RFE/RL's Ukrainian Service",
+      "title": "Russian Strike Kills 4 In Dnipro As Zelenskyy Set To Meet Trump",
+      "description": "Ukrainian President Volodymyr Zelenskyy has arrived in New York to attend the United Nations General Assembly as Russia launched a missile and drone attack on Ukraine, killing at least four people in Dnipro.",
+      "url": "https://www.rferl.org/a/ukraine-zelenskyy-trump-meeting-new-york-unga/33860971.html",
+      "urlToImage": "https://gdb.rferl.org/d231eed8-87a3-475d-bcf5-eec93dff42ad_cx0_cy1_cw0_w1200_h630.jpg",
+      "publishedAt": "2026-09-22T11:25:19Z",
+      "content": "Ukrainian President Volodymyr Zelenskyy has arrived in New York to attend the United Nations General Assembly as Russia launched a missile and drone attack on Ukraine, killing at least four people in\u2026 [+4158 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "John T Psaropoulos",
+      "title": "Why the world should care about the far right\u2019s rise in Germany",
+      "description": "The AfD has a far different vision on support for Ukraine, foreign aid and Russia than the governing coalition.",
+      "url": "https://www.aljazeera.com/news/2026/9/22/why-the-world-should-care-about-the-far-rights-rise-in-germany",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-21T085807Z_1372416255_RC2KNNA3XQFG_RTRMADP_3_GERMANY-ELECTION-AFD-1790073514.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-22T11:20:38Z",
+      "content": "The Alternative fur Deutschland (AfD) party won 43.8 percent of the popular vote in the eastern state of Saxony-Anhalt on September 6, trouncing the governing Christian Democratic Union (CDU).\r\nThat \u2026 [+6297 chars]"
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Oliver JJ Lane",
+      "title": "Presidents of Russian Satellite States Rush to Congratulate Putin After 'Election' Victory",
+      "description": "Pro-Putin parties will continue to dominate Russian Parliament after election Western observers say was engineered to give correct result.\u00a0\nThe post Presidents of Russian Satellite States Rush to Congratulate Putin After \u2018Election\u2019 Victory appeared first on B\u2026",
+      "url": "https://www.breitbart.com/europe/2026/09/22/russian-satellite-states-rush-to-congratulate-putin-after-election-victory/",
+      "urlToImage": "https://media.breitbart.com/media/2026/09/GettyImages-2296009513-e1790075613845-640x335.jpg",
+      "publishedAt": "2026-09-22T11:15:04Z",
+      "content": "Parties supporting Russian President Vladimir Putin will continue to dominate the national Parliament after an election most Western observers say was engineered to give the correct result.\r\nThe lead\u2026 [+4709 chars]"
+    },
     {
       "source": {
         "id": "rt",
@@ -885,396 +1262,6 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/crop-40926965_3bf43d.jpg?quality=75&strip=all&w=1200",
       "publishedAt": "2026-09-22T00:49:46Z",
       "content": "Cross your fingers that diplomats on the sidelines of this weeks UN confab make some progress on reaching a real cease-fire in Russias war on Ukraine, but the central issue is when Vladimir Putin dec\u2026 [+1676 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Ayush Pandey",
-      "title": "US plans to reopen two military sites in Greenland: Report",
-      "description": "US News: The United States plans to reopen a former Cold War-era military base in southern Greenland and establish a military presence at an eastern Greenland .",
-      "url": "https://timesofindia.indiatimes.com/world/us/us-plans-to-reopen-two-military-sites-in-greenland-report/articleshow/134399797.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134399831,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-22T00:31:17Z",
-      "content": "Follow Us On Social Media\r\nNot In My House: Mamdani Fires Shots At Trumps Media Ban; Awkward Exchange On Cam | WatchFart Left, Not Far-Left: JD Vances Awkward Mid-Speech Gaffe On Cam; Then Pivots To \u2026 [+3202 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Ayush Pandey",
-      "title": "Amid Trump\u2019s clash with CNN, Politico, MS NOW, White House launches \u2018Trump TV\u2019",
-      "description": "US News: The White House on Monday launched \u2018TRUMP TV: The Essentials Station\u2019, a 24/7 digital video stream featuring administration announcements, presidentia.",
-      "url": "https://timesofindia.indiatimes.com/world/us/amid-trumps-clash-with-cnn-politico-ms-now-white-house-launches-trump-tv/articleshow/134399824.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134399827,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-22T00:28:29Z",
-      "content": "Follow Us On Social Media\r\nNot In My House: Mamdani Fires Shots At Trumps Media Ban; Awkward Exchange On Cam | WatchFart Left, Not Far-Left: JD Vances Awkward Mid-Speech Gaffe On Cam; Then Pivots To \u2026 [+3202 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Sanjay Khajuria",
-      "title": "Lt Gen Mohit Seth to be new GOC of White Knight Corps",
-      "description": "India News: JAMMU: Lieutenant General Mohit Seth will take over as the new General Officer Commanding (GOC) of the Army\u2019s Nagrota-based White Knight Corps (16 Cor.",
-      "url": "https://timesofindia.indiatimes.com/india/lt-gen-mohit-seth-to-be-new-goc-of-white-knight-corps/articleshow/134399769.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134399782,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-22T00:10:26Z",
-      "content": "Follow Us On Social Media\r\nFart Left, Not Far-Left: JD Vances Awkward Mid-Speech Gaffe On Cam; Then Pivots To Media BanReason Behind Media Ban: Trump Aide Natalie Harp At Center Of CNN, Politico, MS \u2026 [+3220 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "The Times Of India",
-      "title": "El Nino, heat fuel destructive storms across Pacific",
-      "description": "Environment News: A strengthening El Nino is stirring up a dangerous mix of typhoons and hurricanes across the Pacific, fuelling storms that have killed hundreds, disru.",
-      "url": "https://timesofindia.indiatimes.com/home/environment/el-nino-heat-fuel-destructive-storms-across-pacific/articleshow/134399598.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134399744,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-22T00:02:39Z",
-      "content": "<ul><li>News</li>\r\n<li>El Nino, heat fuel destructive storms across Pacific</li></ul>\r\nFollow Us On Social Media\r\nFart Left, Not Far-Left: JD Vances Awkward Mid-Speech Gaffe On Cam; Then Pivots To Me\u2026 [+3307 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hoover.org"
-      },
-      "author": "September 22, 2026",
-      "title": "Russia: Repression, War, And Prospects For Freedom",
-      "description": "H.R. McMaster and Vladimir Kara-Murza discuss the state of the war in Ukraine, the prospects and perils facing Russia's opposition, the shifting currents of Russian domestic politics, the effort to organize the Russian diaspora into a coherent political force\u2026",
-      "url": "https://www.hoover.org/plus/research/russia-repression-war-and-prospects-freedom",
-      "urlToImage": "https://hoover-s3-website.s3.us-west-2.amazonaws.com/s3fs-public/2026-09/Battlegrounds_square-9-22.jpg",
-      "publishedAt": "2026-09-22T00:00:00Z",
-      "content": "Join Russian opposition leader, historian, and journalist Vladimir Kara-Murza and Hoover Senior Fellow H.R. McMaster as they discuss the state of the war in Ukraine, the prospects and perils facing R\u2026 [+2040 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Crypto Briefing"
-      },
-      "author": "Estefano Gomez",
-      "title": "Macron and Trump discuss pause on Ukraine-Russia energy strikes",
-      "description": "The Macron-Trump talks highlight ongoing diplomatic efforts to mitigate conflict impacts, though a comprehensive ceasefire remains elusive.\nThe post Macron and Trump discuss pause on Ukraine-Russia energy strikes appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/macron-and-trump-discuss-pause-on-ukraine-russia-energy-strikes/",
-      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/21195858/cb-card-geo-170-800x420.png",
-      "publishedAt": "2026-09-21T23:58:59Z",
-      "content": "French President Emmanuel Macron and U.S. President Donald Trump have reportedly held discussions regarding a potential pause on energy strikes between Ukraine and Russia. The conversation, covered b\u2026 [+1440 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thoughtcatalog.com"
-      },
-      "author": "Jerome London",
-      "title": "Ukraine Hit Moscow With Its New 6-Ton Flamingo Missile and Set One of Russia\u2019s Biggest Oil Refineries on Fire",
-      "description": "Ukraine unleashed a massive overnight assault on Moscow on September 20, pairing more than 1,000 drones with its new long-range Flamingo cruise missiles and igniting a major fire at one of Russia\u2019s largest oil refineries.",
-      "url": "https://thoughtcatalog.com/jeremy-london/2026/09/ukraine-hit-moscow-with-its-new-6-ton-flamingo-missile-and-set-one-of-russias-biggest-oil-refineries-on-fire/",
-      "urlToImage": "https://thoughtcatalog.com/wp-content/uploads/2026/09/ukraine-hit-moscow-with-its-new-6-ton-flamingo-missile-and-set-one-of-russia-s-b.jpg?w=1536&h=768&crop=1",
-      "publishedAt": "2026-09-21T23:56:07Z",
-      "content": "Ukraine unleashed a massive overnight assault on Moscow on September 20, pairing more than 1,000 drones with its new long-range Flamingo cruise missiles and igniting a major fire at one of Russia\u2019s l\u2026 [+2402 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news-au",
-        "name": "ABC News (AU)"
-      },
-      "author": null,
-      "title": "US torpedo test-fired from UK sea drone for first time as part of AUKUS",
-      "description": "The UK government says the launch of a heavyweight torpedo, jointly developed by the US and Australia, \"marks a major advance in the future of submarine technology\".",
-      "url": "https://www.abc.net.au/news/2026-09-22/aukus-us-uk-torpedo-test-fire-unmanned-submarine/107179898",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/eaa15687f2b4ba13aae5c981ab882b0b?impolicy=wcms_watermark_news&cropH=432&cropW=768&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-      "publishedAt": "2026-09-21T23:52:44Z",
-      "content": "Britain and the United States have for the first time test-fired a torpedo from an uncrewed undersea vessel, according to the British government.\r\nIt said in a statement on Monday, local time, the la\u2026 [+2567 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI World Desk",
-      "title": "Charles Barkley pledges $1 million after students make maths discovery",
-      "description": "US News: St. Mary\u2019s Academy in New Orleans received a $1 million pledge from former NBA star Charles Barkley after two of its students made a unique breakthrou.",
-      "url": "https://timesofindia.indiatimes.com/world/us/charles-barkley-pledged-1-million-to-a-new-orleans-high-school-after-two-students-made-a-historic-maths-discovery/articleshow/134394427.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134394806,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-21T23:50:00Z",
-      "content": "<ul><li>News</li>\r\n<li>World News</li>\r\n<li>US News</li>\r\n<li>Charles Barkley pledged $1 million to a New Orleans high school after two students made a historic maths discovery</li></ul>\r\nFollow Us O\u2026 [+3339 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Foreign Policy"
-      },
-      "author": "J. Alex Tarquinio",
-      "title": "UNGA Convenes With Uncertainty on the Horizon",
-      "description": "This year\u2019s high-level gathering takes place as the Guterres era approaches its end.",
-      "url": "http://foreignpolicy.com/2026/09/21/unga-conflict-trump-guterres-secretary-general-uncertainty/",
-      "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2026/09/un-unga-headquarters-GettyImages-2295911866.jpg",
-      "publishedAt": "2026-09-21T23:38:27Z",
-      "content": "As the United Nations General Assembly opens this year, happy talk about future goals has ceded ground to a survivalist mindset. Even the theme of the 81st session of UNGARestoring Trust, Managing Tr\u2026 [+12294 chars]"
-    },
-    {
-      "source": {
-        "id": "cbc-news",
-        "name": "CBC News"
-      },
-      "author": "Mayson Maharaj",
-      "title": "Norway PM 'prepared, but not afraid' of Russian incursion",
-      "description": "The Prime Minister of Norway says threats from Russia are part of the modern security picture and should be taken seriously.",
-      "url": "https://www.cbc.ca/news/politics/norway-pm-prepared-but-not-afraid-of-russian-incursion-9.7352556",
-      "urlToImage": "https://i.cbc.ca/ais/ffef7e5c-72e1-4474-b22d-c7dfd0bdbd14,1790028262597/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C182%2C6148%2C3458%29%3BResize%3D620",
-      "publishedAt": "2026-09-21T23:05:39Z",
-      "content": "The prime minister of Norway says threats from Russia are part of the modern security picture and should be taken seriously.\u00a0\r\nIn an interview with the CBC's Power &amp; Politics, Norwegian Prime Min\u2026 [+3969 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Global Sports Desk",
-      "title": "Twitch streamer Bonnie under fire over alleged sexual encounter with a 16-year-old and resurfaced racial slur clips",
-      "description": "Twitch streamer Bonnie has faced backlash over a resurfaced 2014 clip discussing a sexual encounter with a 16-year-old, which she said occurred when she was 18. She also denied allegations of using a racial slur during a livestream, with Cinna defending her. \u2026",
-      "url": "https://timesofindia.indiatimes.com/world/us-streamers/twitch-streamer-bonnie-under-fire-over-alleged-sexual-encounter-with-a-16-year-old-and-resurfaced-racial-slur-clips/articleshow/134399500.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134399519,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-21T23:04:45Z",
-      "content": "Follow Us On Social Media\r\nFart Left, Not Far-Left: JD Vances Awkward Mid-Speech Gaffe On Cam; Then Pivots To Media BanReason Behind Media Ban: Trump Aide Natalie Harp At Center Of CNN, Politico, MS \u2026 [+3220 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Dhananjay Mahapatra",
-      "title": "Animal shelters to cost 7,000 crore, can't build them, NHAI tells SC",
-      "description": "India News: New Delhi: National Highways Authority of India (NHAI) Monday moved SC seeking to absolve it from the court-assigned responsibility of creating infras.",
-      "url": "https://timesofindia.indiatimes.com/india/animal-shelters-to-cost-7000-crore-cant-build-them-nhai-tells-sc/articleshow/134399487.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134399516,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-21T22:58:06Z",
-      "content": "<ul><li>News</li>\r\n<li>India News</li>\r\n<li>Animal shelters to cost 7,000 crore, can't build them, NHAI tells SC</li></ul>\r\nFollow Us On Social Media\r\nWe Will Not Bow Down: Mamdani Takes Brutal Swipe\u2026 [+3160 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Real Estate Desk",
-      "title": "How Puducherry offers housing sites to homeless and underprivileged communities",
-      "description": "Puducherry is extending its generous initiative that provides free house plots to economically disadvantaged families and those belonging to scheduled caste communities. Since its inception in 1981, the scheme supports individuals who do not have land for hou\u2026",
-      "url": "https://timesofindia.indiatimes.com/real-estate/news/how-pudducherry-offers-housing-sites-to-homeless-and-underpivelaged-communities/articleshow/134395731.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134395923,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-21T22:55:31Z",
-      "content": "Follow Us On Social Media\r\nRussia Unleashes Deadly Barrage Across Ukraine; Drone &amp; Missile Onslaught Sparks Mayhem, Casualties'Turkey Next Target...': Houthis' War With Saudi Nears NATO State? Er\u2026 [+1399 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI World Desk",
-      "title": "Meet Roger Cettina, 59, the Hall of Fame horse racing fan who turned $2 teenage bets into nearly $500,000 and helped rebuild Belmont Park",
-      "description": "Meet Roger Cettina, 59, a Hall of Fame horseplayer who began with $2 teenage bets before winning nearly $500,000 in National Horseplayers Championship contests. After decades of loving Belmont Park as a fan, Cettina got the chance to help rebuild the legendar\u2026",
-      "url": "https://timesofindia.indiatimes.com/world/us/meet-roger-cettina-59-the-hall-of-fame-horse-racing-fan-who-turned-2-teenage-bets-into-nearly-500000-and-helped-rebuild-belmont-park/articleshow/134399454.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134399459,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-21T22:37:13Z",
-      "content": "<ul><li>News</li>\r\n<li>World News</li>\r\n<li>US News</li>\r\n<li>Meet Roger Cettina, 59, the Hall of Fame horse racing fan who turned $2 teenage bets into nearly $500,000 and helped rebuild Belmont Park\u2026 [+3303 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "author": "feedfeeder",
-      "title": "Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat",
-      "description": "Drone boat battle occurs as Ukraine and Russia target Black Sea ports and ships.",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185733652",
-      "urlToImage": null,
-      "publishedAt": "2026-09-21T22:32:44Z",
-      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Foreign Policy"
-      },
-      "author": "Maxine Davey and Maya Krainc",
-      "title": "Trump Announces Deal for \u2018Permanent Control\u2019 Over Greenland\u2019s Security",
-      "description": "What will the agreement mean for NATO?",
-      "url": "http://foreignpolicy.com/2026/09/21/greenland-security-trump-united-states-denmark-nato-ukraine-russia-pakistan-afghanistan-ethiopia/",
-      "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2026/09/GettyImages-2206765991-1.jpg",
-      "publishedAt": "2026-09-21T22:23:53Z",
-      "content": "Welcome back to World Brief, where were looking at a deal involving the United States, Denmark, and Greenland; Ukraines largest-ever attack on Moscow; and an armed rebel alliance against Ethiopian Pr\u2026 [+10477 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI World Desk",
-      "title": "Meet Joe Petraro-Hyppolite, 13-year-old Long Island genius with \u2018Einstein-level\u2019 IQ set to begin NYU master\u2019s programme after overcoming leukemia and Tourette syndrome",
-      "description": "Meet Joe Petraro-Hyppolite, a 13-year-old Long Island prodigy with a reported IQ of 168, who has been accepted into an NYU master\u2019s programme. He scored 1590 on the SAT at 10 and graduated high school at 11. After battling leukemia and Tourette syndrome, he c\u2026",
-      "url": "https://timesofindia.indiatimes.com/world/us/meet-joe-petraro-hyppolite-13-year-old-long-island-genius-with-einstein-level-iq-set-to-begin-nyu-masters-programme-after-overcoming-leukemia-and-tourette-syndrome/articleshow/134397827.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134397835,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-21T22:05:56Z",
-      "content": "<ul><li>News</li>\r\n<li>World News</li>\r\n<li>US News</li>\r\n<li>Meet Joe Petraro-Hyppolite, 13-year-old Long Island genius with Einstein-level IQ set to begin NYU masters programme after overcoming leu\u2026 [+3819 chars]"
-    },
-    {
-      "source": {
-        "id": "cbc-news",
-        "name": "CBC News"
-      },
-      "author": "Jeremy Warren",
-      "title": "U.S. shouldn't buy 'blood potash' from Belarus, Sask. premier says",
-      "description": "Saskatchewan Premier Scott Moe defended the province's potash industry as ethically and economically superior to other international exporters after U.S. President Donald Trump threatened to source more of his country's fertilizer from Belarus.",
-      "url": "https://www.cbc.ca/news/canada/saskatchewan/us-blood-potash-belarus-premier-9.7352852",
-      "urlToImage": "https://i.cbc.ca/ais/1.7586949,1790028128436/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C351%2C6720%2C3780%29%3BResize%3D620",
-      "publishedAt": "2026-09-21T22:03:14Z",
-      "content": "Saskatchewan Premier Scott Moe defended the province's potash industry as ethically and economically superior to other international exporters after U.S. President Donald Trump threatened to source m\u2026 [+2597 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Ayush Pandey",
-      "title": "\u2018Dangerous for our Country\u2019: Trump slams CNN, Politico, MS NOW over White House lawsuit",
-      "description": "US News: US President Donald Trump on Monday attacked CNN, MS NOW and Politico as \\\"Fake News\\\" outlets after the three news organisations sued his administratio.",
-      "url": "https://timesofindia.indiatimes.com/world/us/dangerous-for-our-country-trump-slams-cnn-politico-ms-now-over-white-house-lawsuit/articleshow/134397621.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134397622,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-21T21:33:02Z",
-      "content": "<ul><li>News</li>\r\n<li>World News</li>\r\n<li>US News</li>\r\n<li>Dangerous for our Country: Trump slams CNN, Politico, MS NOW over White House lawsuit</li></ul>\r\nFollow Us On Social Media\r\nTrump vs Fox \u2026 [+3888 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Crypto Briefing"
-      },
-      "author": "Estefano Gomez",
-      "title": "Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat",
-      "description": "The incident highlights the growing role of unmanned technology in warfare, potentially altering strategic dynamics in the Black Sea region.\nThe post Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat/",
-      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/21170918/cb-card-geo-169-800x420.png",
-      "publishedAt": "2026-09-21T21:09:20Z",
-      "content": "In a significant development in the ongoing Russia-Ukraine conflict, a Ukrainian naval drone has reportedly sunk a Russian kamikaze drone boat. This incident marks the first known clash between naval\u2026 [+1605 chars]"
-    },
-    {
-      "source": {
-        "id": "techradar",
-        "name": "TechRadar"
-      },
-      "author": "Rahimnoorali11@gmail.com (Rahim Amir) , Rahim Amir",
-      "title": "This NATO-backed drone AI picked its own target and struck it, but relied on a human-drawn map to do so",
-      "description": "Humans assigned the drone with its mission, but no one has explained whether it can be stopped if its links are jammed.",
-      "url": "https://www.techradar.com/pro/this-nato-backed-drone-ai-picked-its-own-target-and-struck-it-but-relied-on-a-human-drawn-map-to-do-so",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/mXSuzxM6LqjP3BH7Phzu4S-1920-80.jpg",
-      "publishedAt": "2026-09-21T21:05:00Z",
-      "content": "<ul><li>Scaleout's onboard AI let a BAE Systems ALMA drone rank, select, and strike an armored engineering vehicle in a January 2026 demo</li><li>Humans set the mission, started the system, and kept \u2026 [+3724 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newser"
-      },
-      "author": "Bob Cronin with Newser.AI",
-      "title": "Party Behind Putin Claims 58% Support in Election",
-      "description": "Russia's ruling party has claimed its strongest-ever showing in a national vote that outside critics widely distrust. Near-final results released Monday indicate that United Russia, loyal to President Vladimir Putin, took about 58% of the vote and is on track\u2026",
-      "url": "https://www.newser.com/story/396798/party-behind-putin-claims-58-support-in-election.html",
-      "urlToImage": "https://cdn.newser.com/image/1713019-12-20260921160200.jpeg",
-      "publishedAt": "2026-09-21T21:02:00Z",
-      "content": "Russia's ruling party has claimed its strongest-ever showing in a national vote that outside critics widely distrust. Near-final results released Monday indicate that United Russia, loyal to Presiden\u2026 [+1233 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vox"
-      },
-      "author": "Caitlin Dewey",
-      "title": "The United Nations looks broken. Is it?",
-      "description": "This story appeared in\u00a0Today, Explained,\u00a0a daily newsletter that helps you understand the most compelling news and stories of the day.\u00a0Subscribe here. It\u2019s time for yet another United Nations General Assembly meeting in Manhattan \u2014 just one year after Preside\u2026",
-      "url": "https://www.vox.com/today-explained-newsletter/503490/united-nations-general-assembly-2026",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2026/09/gettyimages-2295939706.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
-      "publishedAt": "2026-09-21T21:01:10Z",
-      "content": "Law enforcement officers outside the United Nations headquarters ahead of the UN General Assembly on September 21, 2026. | Angelina Katsanis/Bloomberg via Getty Images\r\n\n\nThis story appeared in\u00a0Today\u2026 [+4243 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI World Desk",
-      "title": "MrBeast hits back at criticism over $10 million Ghana village project to combat child labour, says he \u2018literally\u2019 supports hometown Greenville after being questioned over overseas spending",
-      "description": "MrBeast has defended his $10 million Ghana village project aimed at combating child labour after being questioned over spending overseas. The YouTuber said he \u201cliterally\u201d supports his hometown of Greenville, North Carolina, highlighting his local philanthropy\u2026",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/mrbeast-hits-back-at-criticism-over-10-million-ghana-village-project-to-combat-child-labour-says-he-literally-supports-hometown-greenville-after-being-questioned-over-overseas-spending/articleshow/134397551.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134397558,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-21T20:58:32Z",
-      "content": "<ul><li>News</li>\r\n<li>World News</li>\r\n<li>Rest of World News</li>\r\n<li>MrBeast hits back at criticism over $10 million Ghana village project to combat child labour, says he literally supports homet\u2026 [+3581 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abcnews.com"
-      },
-      "author": "Michelle Stoddart",
-      "title": "Trump to address UN General Assembly as Iran war looms large",
-      "description": "The president is also set to meet with Gulf leaders impacted by the war with Iran during his trip to New York City.",
-      "url": "https://abcnews.com/Politics/trump-address-general-assembly-iran-war-looms-large/story?id=136621201",
-      "urlToImage": "https://i.abcnewsfe.com/a/fe266d54-3348-48fe-8776-9c6bd3730063/iran-2-ap-gmh-260921_1790015274347_hpMain_16x9.jpg?w=1600",
-      "publishedAt": "2026-09-21T20:52:05Z",
-      "content": "As the war with Iran nears its eighth month -- impacting global oil prices and stability in the Middle East -- President Donald Trump is set to travel to New York City to address global leaders at th\u2026 [+6364 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI World Desk",
-      "title": "Oregon student remains stuck in South Korea over mental health episode that caused damage worth $170; he is out of prison but country bans his exit",
-      "description": "US News: A 20-year-old engineering student from Portland, Oregon, remained stuck in South Korea months after he was arrested during what his family described a.",
-      "url": "https://timesofindia.indiatimes.com/world/us/oregon-student-remains-stuck-in-south-korea-over-mental-health-episode-that-caused-damage-worth-170-he-is-out-of-prison-but-country-bans-his-exit/articleshow/134397544.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134397548,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-21T20:44:06Z",
-      "content": "<ul><li>News</li>\r\n<li>World News</li>\r\n<li>US News</li>\r\n<li>Oregon student remains stuck in South Korea over mental health episode that caused damage worth $170; he is out of prison but country ban\u2026 [+3469 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Poulomi Ghosh",
-      "title": "I didn't go to war so...: Hindu American Army veteran Ruchir Bakshi pushes back hatred, slams call to 'tear down' Texas Hanuman statue",
-      "description": "US News: US Army veteran Ruchir Bakshi strongly reacted to the nonstop hate mongering on social media targeting Hindus and Hindu religious figures and said he .",
-      "url": "https://timesofindia.indiatimes.com/world/us/i-didnt-go-to-war-so-hindu-american-army-veteran-ruchir-bakshi-pushes-back-hatred-slams-call-to-tear-down-texas-hanuman-statue/articleshow/134397507.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134397522,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-21T20:27:55Z",
-      "content": "<ul><li>News</li>\r\n<li>World News</li>\r\n<li>US News</li>\r\n<li>I didn't go to war so...: Hindu American Army veteran Ruchir Bakshi pushes back hatred, slams call to 'tear down' Texas Hanuman statue</l\u2026 [+1775 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Pervez Iqbal Siddiqui",
-      "title": "\u2018Parties which oppose Owaisi, AIMIM don\u2019t want any semblance of political agency for Muslims\u2019",
-      "description": "Owaisi says UP parties target AIMIM to deny Muslims political agency, faults SP-Cong for past riots and inaction, and signals openness to alliances to stop BJP.",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/parties-which-oppose-owaisi-aimim-dont-want-any-semblance-of-political-agency-for-muslims/articleshow/134397497.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134397496,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-21T20:14:31Z",
-      "content": "Follow Us On Social Media\r\nAOC Gone Crazy!: JD Vance Takes Brutal Swipe At Ocasio-Cortezs Egg Freezing; Then Breakup BombHouthi Leaders Warn Of Strikes Deep Inside Saudi Arabia, Threaten Energy Infra\u2026 [+1567 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Science Desk",
-      "title": "Human brain may have evolved from two ancient nervous systems, Stanford study finds; forebrain and hindbrain develop from separate cells in 550-million-year-old pattern",
-      "description": "A Stanford Medicine study has challenged the traditional understanding of brain development, finding that the forebrain and hindbrain arise from separate progenitor cells. Researchers traced this two-system pattern across 550 million years of evolution, inclu\u2026",
-      "url": "https://timesofindia.indiatimes.com/science/human-brain-may-have-evolved-from-two-ancient-nervous-systems-stanford-study-finds-forebrain-and-hindbrain-develop-from-separate-cells-in-550-million-year-old-pattern/articleshow/134397474.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134397482,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-21T20:09:16Z",
-      "content": "<ul><li>News</li>\r\n<li>Science News</li>\r\n<li>Human brain may have evolved from two ancient nervous systems, Stanford study finds; forebrain and hindbrain develop from separate cells in 550-million-y\u2026 [+1793 chars]"
     }
   ]
 }

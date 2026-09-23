@@ -1,7 +1,33 @@
 {
   "status": "ok",
-  "totalResults": 22,
+  "totalResults": 24,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Punch"
+      },
+      "author": "Punch Newspapers",
+      "title": "34-year-old Nigerian killed in South Africa, NUSA demands probe",
+      "description": "The Nigerian Union in South Africa has demanded a probe into the death of a 34-year-old Nigerian, Christian Nnaemeka, after an alleged attack in Johannesbu\n\nRead More: https://punchng.com/34-year-old-nigerian-killed-in-south-africa-nusa-demands-probe/",
+      "url": "https://punchng.com/34-year-old-nigerian-killed-in-south-africa-nusa-demands-probe/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2026/09/22163150/Nigerian-Union-in-South-Africa_1790091110.webp",
+      "publishedAt": "2026-09-22T15:37:18Z",
+      "content": "The Nigerian Union in South Africa has demanded an immediate and independent investigation into the death of a 34-year-old Nigerian, Christian Nnaemeka, following an alleged attack involving televisi\u2026 [+2850 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Substack.com"
+      },
+      "author": "Andrew Korybko",
+      "title": "The West Might Soon Ramp Up Its Pressure on India to Distance Itself From Russia",
+      "description": "\u2026\nThe post The West Might Soon Ramp Up Its Pressure on India to Distance Itself From Russia appeared first on Global Research.",
+      "url": "https://korybko.substack.com/p/the-west-might-soon-ramp-up-its-pressure",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!PC19!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F34be4c39-1cd3-4cd4-8469-506eabfc5c83_800x600.jpeg",
+      "publishedAt": "2026-09-22T13:37:57Z",
+      "content": "The US and France seem to be coordinating a concerted pressure operation against India.\r\nPopular Russian outlet Izvestia raised awareness of a paywalled Bloomberg report alleging that India might red\u2026 [+3485 chars]"
+    },
     {
       "source": {
         "id": "rt",

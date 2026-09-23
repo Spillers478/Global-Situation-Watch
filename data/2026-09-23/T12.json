@@ -1,7 +1,85 @@
 {
   "status": "ok",
-  "totalResults": 31,
+  "totalResults": 37,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Sergiu Gatlan",
+      "title": "D-Link warns of max severity zero-day bug in DIR-822A routers",
+      "description": "D-Link warned customers of a maximum-severity vulnerability (CVE-2026-86296) with public proof-of-concept (PoC) exploit code and no patch, affecting legacy DIR-822A dual-band Wi-Fi routers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/09/22/D-Link.jpg",
+      "publishedAt": "2026-09-22T12:48:06Z",
+      "content": "D-Link warned customers of a maximum-severity vulnerability (CVE-2026-86296) with public proof-of-concept (PoC) exploit code and no patch, affecting legacy DIR-822A dual-band Wi-Fi routers.\r\nThis sec\u2026 [+2647 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Greenbone.net"
+      },
+      "author": "Joseph Lee",
+      "title": "GreenboneOS: Patch Now! Heightened Risk Across Cisco Products in September 2026",
+      "description": "So far, Cisco has published 97 new CVE IDs affecting its products this month. Although cyber security experts have noted that raw CVE count is not a direct measure of risk, the total makes September Cisco\u2019s largest-ever month for coordinated CVE disclosures. \u2026",
+      "url": "https://www.greenbone.net/en/blog/cisco-vulnerabilities-september-2026/",
+      "urlToImage": "https://www.greenbone.net/wp-content/uploads/EN_cisco-record-97-cves-september-2026.jpeg",
+      "publishedAt": "2026-09-22T12:34:33Z",
+      "content": "So far, Cisco has published 97 new CVE IDs affecting its products this month. Although cyber security experts have noted that raw CVE count is not a direct measure of risk, the total makes September \u2026 [+8354 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "AI malware can rewrite itself to evade detection",
+      "description": "Google's Threat Intelligence Group found PROMPTFLUX malware that uses Gemini to rewrite its own code every hour, raising urgent cybersecurity alarms.",
+      "url": "https://www.foxnews.com/tech/ai-malware-rewrite-itself-evade-detection",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/software-engineers-coding.jpg",
+      "publishedAt": "2026-09-22T12:17:54Z",
+      "content": "Google's Threat Intelligence Group found experimental malware called PROMPTFLUX that could ask Gemini to rewrite its own code. One version was designed to do that every hour. Why would malware keep r\u2026 [+15735 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Jon Martindale",
+      "title": "US and China propose hotline to de-escalate AI threats ahead of Washington summit \u2014 comms channel between both nations to be left open in case of national security threats posed by autonomous artificial intelligence",
+      "description": "The U.S. and China have proposed implementing AI red lines that will not be crossed, as well as a hotline between the two countries to provide rapid communication and opportunities for joint responses to rogue AI actions.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-and-china-propose-hotline-to-de-escalate-ai-threats-ahead-of-washington-summit-comms-channel-between-both-nations-to-be-left-open-in-case-of-national-security-threats-posed-by-autonomous-artificial-intelligence",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/wSrDYk9S7kb9r5UmgxXo7D-1920-80.jpg",
+      "publishedAt": "2026-09-22T12:13:41Z",
+      "content": "The U.S. and China have proposed developing a hotline for AI incident reports to address the risk of a rogue AI model getting out of control and to prevent misinterpretations of attacks that could tr\u2026 [+4312 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Sead Fadilpa\u0161i\u0107",
+      "title": "BigCommerce warns customers of potential data leaks following cyber incident",
+      "description": "Hackers broke into a third-party app and stole customer data, including personally identifiable information.",
+      "url": "https://www.techradar.com/pro/security/bigcommerce-warns-customers-of-potential-data-leaks-following-cyber-incident",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/VGPtSi99Vy7pCWeNLEcT5c-2560-80.jpg",
+      "publishedAt": "2026-09-22T12:00:00Z",
+      "content": "<ul><li>BigCommerce confirms supply\u2011chain breach via compromised Ribon app credentials affecting merchant storefronts</li><li>Master of Malt notified customers: names, emails, phone numbers, and addr\u2026 [+4664 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Infosecurity Magazine"
+      },
+      "author": "Phil Muncaster",
+      "title": "Network Segmentation Failures Are Expanding the Corporate Attack Surface",
+      "description": "Forescout warns that incomplete network segmentation is widening the potential blast radius of attacks",
+      "url": "https://www.infosecurity-magazine.com/news/segmentation-failures-expanding/",
+      "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/79276955-d219-4f3a-8974-7fddf5756677.jpg",
+      "publishedAt": "2026-09-22T12:00:00Z",
+      "content": "Nearly half of network segments with OT or medical devices (IoMT) also contain IT and IoT, broadening the attack surface and raising the risk of lateral movement, according to Forescout.\r\nThe securit\u2026 [+2893 chars]"
+    },
     {
       "source": {
         "id": null,

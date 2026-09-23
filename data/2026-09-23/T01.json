@@ -1,7 +1,46 @@
 {
   "status": "ok",
-  "totalResults": 8,
+  "totalResults": 11,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Perkin Amalaraj",
+      "title": "Ceuta braces for another migrant surge weeks after 'invasion' saw 80,000 storm border - as fresh riots break out in Spain's African enclave",
+      "description": "Ceuta is bracing for a potential new mass surge of migrants on Wednesday, weeks after an estimated 80,000 people stormed the border between the Spanish enclave and Morocco.",
+      "url": "https://www.dailymail.com/news/article-16150887/Ceuta-migrants-invasion-spain-morocco.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/09/22/16/111400403-0-image-m-25_1790090418560.jpg",
+      "publishedAt": "2026-09-22T15:43:24Z",
+      "content": "Ceuta is bracing for a potential new mass surge of migrants on Wednesday, weeks after an estimated 80,000 people stormed the border between the Spanish enclave and Morocco.\u00a0\r\nSocial media is now rife\u2026 [+4019 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PRNewswire"
+      },
+      "author": null,
+      "title": "Front Line Infrastructure Services Appoints Matthew G. Simmons as Chief Executive Officer",
+      "description": "Simmons, who most recently led Agile Utility Partners and spent 19 years at Pike Corporation, joins Front Line as CEO HOUSTON, Sept. 22, 2026 /PRNewswire/ -- Front Line Infrastructure Services (\"Front Line\"), a leading provider of electrical infrastructure co\u2026",
+      "url": "https://www.prnewswire.com/news-releases/front-line-infrastructure-services-appoints-matthew-g-simmons-as-chief-executive-officer-302885260.html",
+      "urlToImage": "https://mmx.prnewswire.com/media/MS1990289/Front-Line-Logo.jpg?id=OA2954348&p=facebook",
+      "publishedAt": "2026-09-22T13:05:00Z",
+      "content": "Simmons, who most recently led Agile Utility Partners and spent 19 years at Pike Corporation, joins Front Line as CEO\r\nHOUSTON, Sept. 22, 2026/PRNewswire/ -- Front Line Infrastructure Services\u00a0(\"Fron\u2026 [+3555 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalresearch.ca"
+      },
+      "author": "Miguel Santos Garc\u00eda",
+      "title": "Washington\u2019s Nicaragua Strategy: More \u201cHybrid War Pressure\u201d Without Invasion",
+      "description": "The United States House Appropriations Committee has directed Secretary of State Marco Rubio to submit a report on efforts to support a democratic transition in Nicaragua within ninety days of the enactment of the fiscal year 2027 State Department appropriati\u2026",
+      "url": "https://www.globalresearch.ca/hybrid-war-pressure-without-invasion-washington-nicaragua-strategy/5941340",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2019/01/Nicaragua_USA_flags_rolfik123rf.jpg",
+      "publishedAt": "2026-09-22T12:58:13Z",
+      "content": "The United States House Appropriations Committee has directedSecretary of State Marco Rubio to submit a report on efforts to support a democratic transition in Nicaragua within ninety days of the ena\u2026 [+7886 chars]"
+    },
     {
       "source": {
         "id": "abc-news-au",

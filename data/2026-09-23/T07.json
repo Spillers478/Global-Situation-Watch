@@ -1,7 +1,449 @@
 {
   "status": "ok",
-  "totalResults": 102,
+  "totalResults": 138,
   "articles": [
+    {
+      "source": {
+        "id": "rte",
+        "name": "RTE"
+      },
+      "author": "RT\u00c9 News",
+      "title": "Donald Trump's UN speech was a tale of war and peace",
+      "description": "The US President opened his speech by getting what he sees as the obvious out of the way. That the United States was the strongest country in the world.",
+      "url": "https://www.rte.ie/news/2026/0922/1592556-trump-un-speech/",
+      "urlToImage": "https://www.rte.ie/images/00246ff9-1600.jpg",
+      "publishedAt": "2026-09-22T15:30:40Z",
+      "content": "The US President opened his speech by getting what he sees as the obvious out of the way.\r\nThat the United States was the strongest country in the world.\r\n\"America is back,\" he declared, with the gre\u2026 [+3251 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Josh Christenson, Steven Nelson",
+      "title": "Trump warns Iran at UN he may \u2018drive them into hell,\u2019 says US \u2018settling years of unfinished business\u2019",
+      "description": "Trump received applause from foreign dignitaries for his pledge to stop Iran from building a nuclear weapon after delivering the shocking threat.",
+      "url": "https://nypost.com/2026/09/22/us-news/trump-warns-iran-at-un-he-may-drive-them-into-hell-says-us-settling-years-of-unfinished-business/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-n5dry7nky-1790090131603.jpg?quality=75&strip=all&1790075740&w=1200",
+      "publishedAt": "2026-09-22T15:29:44Z",
+      "content": "UNITED NATIONS President Trump called on United Nations members to support the US war effort against Iran as he floated a dramatic military escalation that would \u201cdrive them into hell.\u201d\r\nTrump receiv\u2026 [+8487 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "Trump threatens to \u2018annihilate\u2019 Iran, says deal will come after US midterms",
+      "description": "US President Donald Trump delivered a sharply worded warning to Iran at the UN General Assembly, saying Tehran faces a choice between reaching a deal with Washington and being \u201cannihilated\u201d. At the same time, Trump said he believed the two sides would strike \u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-threatens-to-annihilate-iran-says-deal-will-come-after-us-midterms/articleshow/134415444.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134415460,width-1200,height-630,imgsize-75200,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-22T15:18:59Z",
+      "content": "US President Donald Trump on Tuesday threatened to annihilate Iran if Tehran refuses to reach a deal with Washington, while saying he believed an agreement would be done right after the election as h\u2026 [+4137 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hurriyet Daily News"
+      },
+      "author": "hurriyetdailynews.com",
+      "title": "Trump says deciding between deal or driving Iran \u2018into hell\u2019",
+      "description": "U.S. President Donald Trump told the United Nations General Assembly on Sept. 22 that he had to choose whether to \u201cannihilate\u201d Iran if it fails to make a deal to end the Middle East war.",
+      "url": "https://www.hurriyetdailynews.com/trump-says-deciding-between-deal-or-driving-iran-into-hell-227211",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6ab29b19242e1cf6f86a4a9b.jpg",
+      "publishedAt": "2026-09-22T15:13:32Z",
+      "content": "TEHRAN\r\nU.S. President Donald Trump told the United Nations General Assembly on Sept. 22 that he had to choose whether to annihilate Iran if it fails to make a deal to end the Middle East war.\r\nDo I \u2026 [+2462 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Foreign Policy"
+      },
+      "author": "Matthew Kroenig",
+      "title": "Washington Should Embrace Space Warfare",
+      "description": "Space is already becoming militarized. The U.S. shouldn\u2019t let adversaries take the lead.",
+      "url": "http://foreignpolicy.com/2026/09/22/space-force-washington-nuclear-china-russia-satellite/",
+      "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2026/09/space-force-washington-nuclear-china-russia-satellite-1213155435.jpg",
+      "publishedAt": "2026-09-22T15:12:13Z",
+      "content": "Earlier this month, U.S. President Donald Trump unveiled his vision for new next generation U.S. Space Force uniforms to critical reviews. Derek Guy, for example, the menswear guy on X, quipped, This\u2026 [+10335 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Punch"
+      },
+      "author": "Punch Newspapers",
+      "title": "Trump at UN threatens \u2018military might\u2019 in Latin America",
+      "description": "President Donald Trump will vow to use US military power to secure interests in Latin America during his speech at the UN General Assembly, says the White\n\nRead More: https://punchng.com/trump-at-un-threatens-military-might-in-latin-america/",
+      "url": "https://punchng.com/trump-at-un-threatens-military-might-in-latin-america/",
+      "urlToImage": "https://punchng.com/wp-content/uploads/2026/07/Trump-writes_1784740041.webp",
+      "publishedAt": "2026-09-22T15:05:02Z",
+      "content": "President Donald Trump will vow at the UN General Assembly Tuesday to use \u201cunmatched\u201d US military power to secure Washington\u2019s interests in Latin America, according to extracts of his speech released\u2026 [+864 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mediaite"
+      },
+      "author": "Alex Griffing",
+      "title": "\u2018Do I Annihilate the Islamic Republic?\u2019 Trump Issues Shocking Threat to Iran in UN Speech",
+      "description": "\"Do I annihilate the Islamic Republic, and do it quickly, never giving them a chance to kill and destroy people and countries again? Do I drive them into hell\"\nThe post \u2018Do I Annihilate the Islamic Republic?\u2019 Trump Issues Shocking Threat to Iran in UN Speech \u2026",
+      "url": "https://www.mediaite.com/media/news/do-i-annihilate-the-islamic-republic-trump-issues-shocking-threat-to-iran-in-un-speech/",
+      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2026/09/trump-14.jpg",
+      "publishedAt": "2026-09-22T15:02:38Z",
+      "content": "President Donald Trump addressed the United Nations General Assembly on Tuesday and told the worlds diplomats he had a big decision to make, whether or not to annihilate Iran.\r\nTrump listed many of t\u2026 [+3033 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Screen Rant"
+      },
+      "author": "Shaun Corley",
+      "title": "Godzilla's Bold New Era Is Entering An Exciting New Phase",
+      "description": "Feel the energy",
+      "url": "https://screenrant.com/godzilla-idw-kai-sei-era-new-phase/",
+      "urlToImage": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/09/godzilla-monsters.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-09-22T15:00:17Z",
+      "content": "Godzillas new Kai-Sei era got off to a grand start, and now it is entering an exciting new phase. For over 70 years, Godzilla has stomped his way across Japan as well as the rest of the world, and in\u2026 [+10139 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Israelnationalnews.com"
+      },
+      "author": "Israel National News",
+      "title": "Trump at the UN: \"Iran developed a missile that would enable them to strike Europe\"",
+      "description": "US President Donald Trump warned in his address to the UN that \"Iran has developed a missile that would enable them to strike Europe.\"He said, \"Their goal was to complete their mad race to nuclear weapons behind the protection of ballistic missiles.\"",
+      "url": "https://www.israelnationalnews.com/flashes/693919",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1075218.jpg",
+      "publishedAt": "2026-09-22T14:54:27Z",
+      "content": "US President Donald Trump warned in his address to the UN that \"Iran has developed a missile that would enable them to strike Europe.\"\r\nHe said, \"Their goal was to complete their mad race to nuclear \u2026 [+52 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "author": "Estefano Gomez",
+      "title": "Trump hints at critical decision on Iran deal or military action",
+      "description": "Trump hints at a critical decision on the Iran deal or military action. Deal including reconstruction funding by 2026 at 18.5% YES.\nThe post Trump hints at critical decision on Iran deal or military action appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/trump-hints-at-critical-decision-on-iran-deal-or-military-action/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/22105206/cb-card-geo-182-800x420.png",
+      "publishedAt": "2026-09-22T14:52:07Z",
+      "content": "President Donald Trump has tweeted about a critical decision regarding Iran, hinting at either negotiating a deal that could lead to rebuilding the nation or taking military action to potentially des\u2026 [+1638 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Trump defends US interventions abroad ahead of 'big decision' on Iran: 'Settling years of unfinished business'",
+      "description": "At the UN General Assembly in New York City on Tuesday morning, President Donald Trump delivered a speech on America's role in global leadership.",
+      "url": "https://www.foxnews.com/politics/trump-defends-us-interventions-abroad-ahead-big-decision-iran-settling-years-unfinished-business",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/trump-addresses-unga.jpg",
+      "publishedAt": "2026-09-22T14:51:58Z",
+      "content": "President Donald Trump issued a stern warning Tuesday for Iran to make a deal soon or face severe consequences for its pursuit of a nuclear weapon.\r\n\"I have a big decision to make: Will a deal be mad\u2026 [+737 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "author": "Estefano Gomez",
+      "title": "Biden warns of Iran terror threat amid nuclear tensions",
+      "description": "Biden's warning underscores escalating geopolitical risks, complicating diplomatic efforts and reducing market confidence in a U.S.-Iran deal.\nThe post Biden warns of Iran terror threat amid nuclear tensions appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/biden-warns-of-iran-terror-threat-amid-nuclear-tensions/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/22104916/cb-card-geo-181-800x420.png",
+      "publishedAt": "2026-09-22T14:49:17Z",
+      "content": "President Joe Biden\u2019s remarks highlight concerns over potential large-scale terror attacks by Iran if the regime is empowered by nuclear weapons. He drew parallels between past terrorist events and t\u2026 [+2071 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Israelnationalnews.com"
+      },
+      "author": "Israel National News",
+      "title": "Live: Trump presents his 'choice' on Iran to the UN General Assembly",
+      "description": "US President vows that he will not allow Iran to build a nuclear weapon in speech to the UN.",
+      "url": "https://www.israelnationalnews.com/news/433491",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1226398.jpg",
+      "publishedAt": "2026-09-22T14:43:00Z",
+      "content": "LIVE: Trump speaks at UN General Assembly 2026\r\nUS President Donald Trump referred to the war against Iran in his speech at the UN General Assembly today (Tuesday) and said: \"There is no better examp\u2026 [+4100 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Antiwar.com"
+      },
+      "author": "Len D. Pozeram",
+      "title": "Charles Goyette\u2019s Empire of Lies: Restoring the History the Warlords Need US To Forget",
+      "description": "Charles Goyette, Empire of Lies: Fragments from the Memory Hole. Edited by Mike Dworski and Ben Parker. Austin, Texas: The Libertarian Institute, 2025. 275 numbered pages, plus preliminary matter. ISBN 979-8-9942002-0-9. What happens to a republic when its go\u2026",
+      "url": "https://www.antiwar.com/blog/2026/09/22/empire-of-lies-restoring-the-history-the-warlords-need-us-to-forget/",
+      "urlToImage": "https://d27srd8s9736cr.cloudfront.net/2026/09/goyette-x.jpg",
+      "publishedAt": "2026-09-22T14:22:20Z",
+      "content": "Charles Goyette, Empire of Lies: Fragments from the Memory Hole. Edited by Mike Dworski and Ben Parker. Austin, Texas: The Libertarian Institute, 2025. 275 numbered pages, plus preliminary matter. IS\u2026 [+18998 chars]"
+    },
+    {
+      "source": {
+        "id": "rt",
+        "name": "RT"
+      },
+      "author": "RT",
+      "title": "You still don\u2019t have the cards: Is Zelensky still bringing a bluff to Trump?",
+      "description": "Zelensky will meet Trump at the UN while being trailed by a $27 billion defense hole, Patriot shortages, and corruption scandals Read Full Article at RT.com",
+      "url": "https://www.rt.com/news/646079-zelensky-trump-card-bluff-un/",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6ab25cea85f5407f856c3575.jpg",
+      "publishedAt": "2026-09-22T14:06:57Z",
+      "content": "\u201cYou don\u2019t have the cards.\u201d\r\nThat was the message US President Donald Trump famously delivered to Vladimir Zelensky during their fiery Oval Office showdown in February 2025. Trump accused the Ukraini\u2026 [+9485 chars]"
+    },
+    {
+      "source": {
+        "id": "rte",
+        "name": "RTE"
+      },
+      "author": "RT\u00c9 News",
+      "title": "Trump to defend Iran war in UN speech, talk peace efforts",
+      "description": "US President Donald Trump will use a UN General Assembly address to argue that the war with Iran prevented Tehran from obtaining a nuclear weapon and to tout what he sees as progress toward peace and a global order increasingly aligned with American interests\u2026",
+      "url": "https://www.rte.ie/news/us/2026/0922/1592545-trump-un-meetings/",
+      "urlToImage": "https://www.rte.ie/images/00250cea-1600.jpg",
+      "publishedAt": "2026-09-22T14:00:49Z",
+      "content": "US President Donald Trump has opened his UN General Assembly address by touting the strength of the US economy, kicking off a speech in which he was expected to argue that the war with Iran prevented\u2026 [+3893 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Military.com"
+      },
+      "author": "MLT Staff",
+      "title": "Trump Returns to UN at a Moment of Anxiety About Iran, AI and the Future of the World Body Itself",
+      "description": "Trump intends to underscore that \u201che is using American power to confront longstanding challenges and reshape the world to America\u2019s benefit.\"",
+      "url": "https://military.com/trump-returns-to-un-at-a-moment-of-anxiety-about-iran-ai-and-the-future-of-the-world-body-itself",
+      "urlToImage": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/09/ap26265040356675.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-09-22T13:30:07Z",
+      "content": "NEW YORK (AP) President Donald Trump is set to address the U.N. General Assembly on Tuesday at a tumultuous moment for the world and for his presidency.\r\nThe global economy has been shaken by his dec\u2026 [+7533 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Maziar Motamedi",
+      "title": "Iran delegation to present narrative of resilience, diplomacy at UNGA",
+      "description": "Iran\u2019s delegation has arrived to New York for the UNGA where the war with the United States will be raised.",
+      "url": "https://www.aljazeera.com/news/2026/9/22/iran-delegation-to-present-narrative-of-resilience-diplomacy-at-unga",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab272ec1b2ac-1790079724.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-22T13:29:53Z",
+      "content": "Tehran, Iran \u00a0Iranian President Masoud Pezeshkian and his team are heading to New York for the United Nations General Assembly (UNGA), where they are expected to express grievances about the United S\u2026 [+6131 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Anna  Coren",
+      "title": "North Korea's Kim lauds test of apparent new hypersonic missile",
+      "description": "Kim Jong Un says a new weapon tested by North Korea, likely a hypersonic missile, will be an \"irresistible force\" and \"incurable headache\" for adversaries.",
+      "url": "https://www.cbsnews.com/news/north-korea-kim-jong-un-hypersonic-missile-test-headache-foes/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/22/2e402ac6-bc16-4273-b59a-a39e7d1d73af/thumbnail/1200x630g2/5678f30b2d65f8dc538fee035682e1ed/kim-jong-un-daughter-hypersonic-missile-test.jpg",
+      "publishedAt": "2026-09-22T13:28:05Z",
+      "content": "Hong Kong \u2014\u00a0With his teenage daughter and possible successor by his side, North Korean leader Kim Jong Un watched on Sunday as his country tested a purported new hypersonic weapon designed to evade m\u2026 [+2471 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Diplomat"
+      },
+      "author": "Daeyeon Lee",
+      "title": "Why South Korea Has Little Room to Send Troops to Hormuz",
+      "description": "Seoul has previously sent troops to support U.S. military operations in the Middle East. Today, both the external and domestic environments make that much harder to do.",
+      "url": "https://thediplomat.com/2026/09/why-south-korea-has-little-room-to-send-troops-to-hormuz/",
+      "urlToImage": "https://thediplomat.com/wp-content/uploads/2025/10/sizes/td-story-s-2/thediplomat_2025-10-29-221703.jpg",
+      "publishedAt": "2026-09-22T13:20:00Z",
+      "content": "Last month, U.S. President Donald Trump posted on Truth Social that I recently asked the President of South Korea if they would like to join us in the Denuclearization of the Islamic Republic of Iran\u2026 [+14017 chars]"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Sheryl Estrada",
+      "title": "From $2 billion to $112 billion in annual profit: How Apple transformed its business",
+      "description": "Apple\u2019s financial evolution reveals the foundation CEO John Ternus inherits as he begins the company\u2019s next chapter.",
+      "url": "https://fortune.com/2026/09/22/from-2-billion-to-112-billion-annual-profit-how-apple-transformed-business-cfo/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2294352802.jpg?resize=1200,600",
+      "publishedAt": "2026-09-22T13:09:29Z",
+      "content": "Good morning. Half a century after its founding, Apples financial transformation is best told through data that captures how thoroughly the company has reinvented its business. And the numbers sugges\u2026 [+5808 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Futurism"
+      },
+      "author": "Victor Tangermann",
+      "title": "Wild New Website Lets You Shoot \u201cLess Lethal\u201d Ammunition From Gun Turrets in a Firing Range",
+      "description": "What could possibly go wrong?\nThe post Wild New Website Lets You Shoot \u201cLess Lethal\u201d Ammunition From Gun Turrets in a Firing Range appeared first on Futurism.",
+      "url": "https://futurism.com/artificial-intelligence/website-shoot-gun-turrets-firing-range",
+      "urlToImage": "https://futurism.com/wp-content/uploads/2026/09/deranged-website-shoot-gun-turrets-firing-range.jpg?w=1200",
+      "publishedAt": "2026-09-22T13:03:46Z",
+      "content": "Can\u2019t-miss innovations from the bleeding edge of science and tech\r\nI\u2019ve never shot a gun before and it\u2019s not an activity I\u2019d actively seek out, given the grim implications of trivializing an act of v\u2026 [+3569 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Shannon McGuigan",
+      "title": "Travellers are ordered to leave illegal site opposite Britain's biggest nuclear weapons factory after building 13 static homes",
+      "description": "The group had built 13 static homes on the land opposite the Atomic Weapons Establishment (AWE)'s Aldermaston site in Berkshire in 2025.",
+      "url": "https://www.dailymail.com/news/article-16150469/Travellers-weeks-leave-illegal-site-Britains-biggest-nuclear-weapons-factory.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/09/22/09/104041715-0-image-m-20_1790066270336.jpg",
+      "publishedAt": "2026-09-22T12:28:14Z",
+      "content": "A group of travellers must leave an illegal site opposite one of Britain's biggest\u00a0nuclear weapons factories in less than two weeks, a High Court judge has ruled.\u00a0 \u00a0\r\nThe group had built 13 static ho\u2026 [+7077 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Raw Story"
+      },
+      "author": "Travis Gettys",
+      "title": "'Abysmal' polling looms over Trump's 'big day' at the UN: 'Hail Mary diplomacy?'",
+      "description": "President Donald Trump is set to address the United Nations General Assembly on Tuesday as public support collapses for his handling of foreign policy.Only 36 percent of Americans believe the U.S. is winning the war, compared with 64 percent who say it is not\u2026",
+      "url": "https://www.rawstory.com/donald-trump-foreign-policy-2677913952/",
+      "urlToImage": "https://www.rawstory.com/media-library/rage-as-trump-s-bizarre-rain-tax-ruling-roils-waters-on-chesapeake-bay.jpg?id=67792994&width=1200&height=600&coordinates=0%2C166%2C0%2C167",
+      "publishedAt": "2026-09-22T12:22:02Z",
+      "content": "President Donald Trump is set to address the United Nations General Assembly on Tuesday as public support collapses for his handling of foreign policy.\r\nOnly 36 percent of Americans believe the U.S. \u2026 [+2072 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "gcaptain.com"
+      },
+      "author": "Bruce Kimbrell",
+      "title": "The Wartime Secretary of the Navy",
+      "description": "What Hung Cao\u2019s First Five Months Tell Us About the Job Ahead By Bruce Kimbrell (Policy Op-Ed) Cao paired his leadership selections with what he called \u201cleadership by presence\u201d: placing...",
+      "url": "https://gcaptain.com/the-wartime-secretary-of-the-navy/",
+      "urlToImage": "https://gcaptain.com/wp-content/uploads/2026/05/Acting-secretary-Hung-Cao.jpg",
+      "publishedAt": "2026-09-22T12:19:10Z",
+      "content": "What Hung Cao\u2019s First Five Months Tell Us About the Job Ahead\r\nBy Bruce Kimbrell\r\n (Policy Op-Ed)\r\nCao paired his leadership selections with what he called leadership by presence\r\n: placing acquisiti\u2026 [+16972 chars]"
+    },
+    {
+      "source": {
+        "id": "rt",
+        "name": "RT"
+      },
+      "author": "RT",
+      "title": "Ukraine attacks radiation monitoring post near Europe\u2019s largest nuclear power plant",
+      "description": "Read Full Article at RT.com",
+      "url": "https://www.rt.com/russia/646088-ukraine-attacks-radiation-zaporozhye/",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6ab2738820302742e92ced2a.jpg",
+      "publishedAt": "2026-09-22T12:15:43Z",
+      "content": "A Ukrainian drone strike has damaged a radiation monitoring post near the Zaporozhye Nuclear Power Plant, the facility said on Tuesday.\r\nThe station was located near the village of Ivanovka, around 1\u2026 [+1085 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Jon Martindale",
+      "title": "US and China propose hotline to de-escalate AI threats ahead of Washington summit \u2014 comms channel between both nations to be left open in case of national security threats posed by autonomous artificial intelligence",
+      "description": "The U.S. and China have proposed implementing AI red lines that will not be crossed, as well as a hotline between the two countries to provide rapid communication and opportunities for joint responses to rogue AI actions.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-and-china-propose-hotline-to-de-escalate-ai-threats-ahead-of-washington-summit-comms-channel-between-both-nations-to-be-left-open-in-case-of-national-security-threats-posed-by-autonomous-artificial-intelligence",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/wSrDYk9S7kb9r5UmgxXo7D-1920-80.jpg",
+      "publishedAt": "2026-09-22T12:13:41Z",
+      "content": "The U.S. and China have proposed developing a hotline for AI incident reports to address the risk of a rogue AI model getting out of control and to prevent misinterpretations of attacks that could tr\u2026 [+4312 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": "HuffPost",
+      "title": "Laura Ingraham Turns On Trump \u2014 And Her Guest James Carville Eats It Up",
+      "description": "The Fox News host also appeared to stretch the truth in her criticism.",
+      "url": "https://www.huffpost.com/entry/laura-ingraham-turns-on-trump-and-james-carville-eats-it-up_n_6ab245d8e4b043d6b568698d",
+      "urlToImage": "https://img.huffingtonpost.com/asset/6ab25d401800007d42f14ad5.jpeg?cache=A91fRPoz5l&ops=1200_630",
+      "publishedAt": "2026-09-22T12:12:58Z",
+      "content": "Laura Ingraham gave one of her stronger rebukes of President Donald Trump on Monday during an interview with Democratic strategist James Carville. But it wasnt totally the truth.\r\nThe Fox News host n\u2026 [+1419 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "North Korea reports new missile test designed to give enemy 'incurable headache'",
+      "description": "North Korea said it successfully tested a new weapon showcasing \"ultra-modern defence technology\" on Sunday, in a launch overseen by leader Kim Jong Un, who praised progress in strengthening the country's war readiness, Reuters reported citing state media on \u2026",
+      "url": "https://www.globalsecurity.org/wmd/library/news/dprk/2026/dprk-260922-azertac01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-22T12:00:00Z",
+      "content": "Azerbaijan State News Agency - (AZERTAC)\r\n22.09.2026 [16:47] Baku, September 22, AZERTAC\r\nNorth Korea said it successfully tested a new weapon showcasing \"ultra-modern defence technology\" on Sunday, \u2026 [+1978 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Trump defends military action against Iran, Venezuela, and calls for rebrand of AI",
+      "description": "US President Donald Trump used his address to the UN General Assembly on Tuesday to defend recent military action against Iran, urging countries to maintain economic pressure on Tehran - and declaring that he now faces a choice between making a deal, or takin\u2026",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260922-unnews02.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-22T12:00:00Z",
+      "content": "General Assembly coverage\r\n 22 September 2026 - US President Donald Trump used his address to the UN General Assembly on Tuesday to defend recent military action against Iran, urging countries to mai\u2026 [+5087 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Pentagon Showcases Dozens of Advanced Energy Projects",
+      "description": "On display at the Pentagon for three days are more than 100 exhibits related to energy innovation, including the Army's Tactical Microgrid Standard, the Navy's system to use microwaves to beam limitless power from space and the Air Force's Modular Energy for \u2026",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260922-dodnews01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-22T12:00:00Z",
+      "content": "Sept. 22, 2026\r\nBy C. Todd Lopez, Pentagon News\r\nOn display at the Pentagon for three days are more than 100 exhibits related to energy innovation, including the Army's Tactical Microgrid Standard, t\u2026 [+7181 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Jailed Iranian-American Journalist Reza Valizadeh Marks Two Years Behind Bars",
+      "description": "Reza Valizadeh, a dual US-Iranian citizen and former journalist for RFE/RL's Radio Farda, is marking two years behind bars in Iran.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260922-rferl02.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-22T12:00:00Z",
+      "content": "By RFE/RL's Radio Farda September 22, 2026\r\nReza Valizadeh, a dual US-Iranian citizen and former journalist for RFE/RL's Radio Farda, is marking two years behind bars in Iran.\r\nValizadeh was sentence\u2026 [+2778 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Vance Says Iran Could Not Build A Nuclear Weapon Tomorrow Or Even In A Year",
+      "description": "US Vice President JD Vance has said Iran could not build a nuclear weapon tomorrow, in six months, or within a year, even if it tried.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260922-rferl07.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-22T12:00:00Z",
+      "content": "08:01 22.9.2026\r\nUS Vice President JD Vance has said Iran could not build a nuclear weapon tomorrow, in six months, or within a year, even if it tried.\r\nIn an interview with Newsmax, Vance said that \u2026 [+1327 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Whyevolutionistrue.com"
+      },
+      "author": "whyevolutionistrue",
+      "title": "Tuesday: Hili dialogue",
+      "description": "Welcome to The Cruelest Day: September 22, 2026 and the day of my cataract surgery (I am iatrophobic). As you read this, I will be having the lens of my right eye emulsified and sucked out, then replaced with an artificial lens. I have to admit to some appreh\u2026",
+      "url": "https://whyevolutionistrue.com/2026/09/22/tuesday-hili-dialogue-598/",
+      "urlToImage": "https://whyevolutionistrue.com/wp-content/uploads/2026/09/P1080277.jpg",
+      "publishedAt": "2026-09-22T11:45:06Z",
+      "content": "Welcome to The Cruelest Day: September 22, 2026 and the day of my cataract surgery (I am iatrophobic). As you read this, I will be having the lens of my right eye emulsified and sucked out, then repl\u2026 [+18844 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -820,474 +1262,6 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/141943468.jpg?quality=75&strip=all&w=1200",
       "publishedAt": "2026-09-21T14:22:47Z",
       "content": "France will summon Iran\u2019s ambassador and take appropriate measures in response after Iranian authorities sealed a French language center affiliated with its embassy in Tehran, the Foreign Ministry sa\u2026 [+2532 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "24/7 Wall St."
-      },
-      "author": "David Moadel",
-      "title": "Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week\u2019s Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3%",
-      "description": "Nuclear reactor developers are bouncing back Monday after last week's brutal selloff, but the bid is landing in a very specific corner of the sector, and the...",
-      "url": "https://247wallst.com/investing/2026/09/21/oklo-climbs-5-as-nuclear-names-bounce-back-from-last-weeks-selloff-nuscale-power-gains-4-uranium-energy-rises-3/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/428cd7d95dd04722b38f27ae61cfceeb044c19c00bc9e3486b4105185f169e73/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F6dfe814410057610097dba6d3950c7f8.jpg",
-      "publishedAt": "2026-09-21T14:14:18Z",
-      "content": "Quick Read\r\n<ul><li>Oklo surged 5%, NuScale Power gained 4%, and Uranium Energy rose 3% Monday, all outpacing the sector on no new company news.\r\n</li><li>The Global X Uranium ETF's 2% gain versus SP\u2026 [+6383 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Diplomat"
-      },
-      "author": "Mitch Shin",
-      "title": "Ahead of Trump-Xi Summit, North Korea Launches More Missiles",
-      "description": "On September 20, North Korea fired two short-range ballistic missiles, its second launch in a little over a week.",
-      "url": "https://thediplomat.com/2026/09/ahead-of-trump-xi-summit-north-korea-launches-more-missiles/",
-      "urlToImage": "https://thediplomat.com/wp-content/uploads/2016/09/sizes/td-story-s-2/thediplomat_2016-09-06_22-58-17.jpg",
-      "publishedAt": "2026-09-21T14:09:00Z",
-      "content": "On September 20, North Korea fired two short-range ballistic missiles from the Wonsan area on its east coast, according to South Koreas Joint Chiefs of Staff. The first, detected around 3 p.m. KST, f\u2026 [+7741 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Plos.org"
-      },
-      "author": "Fukai Zhao, Zekun Pang, Haoran Guo, Yue Chen, Jiao Wang, Bailing Hsu, Jianming Li",
-      "title": "Quantitative [13N]ammonia/[18F]FDG PET/CT predicts left ventricular functional recovery after CABG in ischemic cardiomyopathy: An exploratory study",
-      "description": "Background In patients with ischemic cardiomyopathy (ICM), accurate preoperative identification of viable myocardium is clinically important to identify those who are likely to benefit from coronary artery bypass grafting (CABG). Although the PET perfusion\u2013me\u2026",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358657",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0358657.g005&size=inline",
-      "publishedAt": "2026-09-21T14:00:00Z",
-      "content": "Citation: Zhao F, Pang Z, Guo H, Chen Y, Wang J, Hsu B, et al. (2026) Quantitative [13N]ammonia/[18F]FDG PET/CT predicts left ventricular functional recovery after CABG in ischemic cardiomyopathy: An\u2026 [+28784 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalresearch.ca"
-      },
-      "author": "Jos\u00e9 Luis Preciado",
-      "title": "The Chancay-Ilh\u00e9us Bi-Oceanic Atlantic-Pacific Railway Corridor: An Alternative to the Imperial Plunder of the Americas",
-      "description": "The bi-oceanic corridor that will link Chancay with Ilh\u00e9us is not just an engineering project: it is the backbone of a new era for Ibero-America that redefines its sovereignty in the face of the Monroe Doctrine and forges a new \u2026\nThe post The Chancay-Ilh\u00e9us B\u2026",
-      "url": "https://www.globalresearch.ca/chancay-ilheus-bi-oceanic-corridor-alternative-imperial-plunder-americas/5941197",
-      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2026/09/BiOceanicCorridor-chancay-ilheus.jpg",
-      "publishedAt": "2026-09-21T13:36:37Z",
-      "content": "The bi-oceanic corridor that will link Chancay with Ilh\u00e9us is not just an engineering project: it is the backbone of a new era for Ibero-America that redefines its sovereignty in the face of the Monr\u2026 [+14388 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalsecurity.org"
-      },
-      "author": "John Pike",
-      "title": "Joint Statement from the Trilateral Meeting of the United States of America, Japan, and the Republic of Korea in New York City",
-      "description": "The text of the following statement was released by the Governments of the United States of America Japan, and Republic of Korea during the United Nations General Assembly.",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260921-state06.htm",
-      "urlToImage": null,
-      "publishedAt": "2026-09-21T12:00:00Z",
-      "content": "US Department of State\r\nMedia NoteOffice of the SpokesmanSeptember 21, 2026\r\nThe text of the following statement was released by the Governments of the United States of America Japan, and Republic of\u2026 [+5627 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalsecurity.org"
-      },
-      "author": "John Pike",
-      "title": "Warner, Reed, Coons Press Pentagon, DNI for Answers on Reported AI Failures in Military Operations",
-      "description": "U.S. Sens. Mark R. Warner (D-VA), Vice Chairman of the Senate Select Committee on Intelligence, Jack Reed (D-RI), Ranking Member of the Senate Armed Services Committee, and Chris Coons (D-DE), Ranking Member of the Senate Appropriations Committee Subcommittee\u2026",
-      "url": "https://www.globalsecurity.org/intell/library/news/2026/intell-260921-warner-va01.htm",
-      "urlToImage": null,
-      "publishedAt": "2026-09-21T12:00:00Z",
-      "content": "US Senator Mark R. Warner (D-VA)\r\nSeptember 21st, 2026\r\nWASHINGTON - U.S. Sens. Mark R. Warner (D-VA), Vice Chairman of the Senate Select Committee on Intelligence, Jack Reed (D-RI), Ranking Member o\u2026 [+4282 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalsecurity.org"
-      },
-      "author": "John Pike",
-      "title": "U.S. Strategic Command hosts Component Commanders Conference",
-      "description": "U.S. Navy Adm. Rich Correll, commander of U.S. Strategic Command, hosted a Component Commanders Conference with key leaders from the USSTRATCOM Joint Force air and maritime components, 16th Air Force (Air Forces Cyber), and U.S. Army Space and Missile Defense\u2026",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260921-stratcom01.htm",
-      "urlToImage": null,
-      "publishedAt": "2026-09-21T12:00:00Z",
-      "content": "News | Sept. 21, 2026By USSTRATCOM Public Affairs\r\nOFFUTT AIR FORCE BASE, Neb. -- U.S. Navy Adm. Rich Correll, commander of U.S. Strategic Command, hosted a Component Commanders Conference with key l\u2026 [+3691 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Common Dreams"
-      },
-      "author": "Phyllis Bennis",
-      "title": "Progressive Principles for a New US Foreign Policy",
-      "description": "For many years, progressive movements and activists have longed for the moment when we could imagine a real foreign policy rooted in true internationalism and solidarity.But in our efforts to influence actual policy decisions, we\u2019ve settled for important but \u2026",
-      "url": "https://www.commondreams.org/opinion/what-does-progressive-foreign-policy-look-like",
-      "urlToImage": "https://www.commondreams.org/media-library/image.jpg?id=67800902&width=1200&height=600&coordinates=0%2C416%2C0%2C417",
-      "publishedAt": "2026-09-21T11:23:22Z",
-      "content": "For many years, progressive movements and activists have longed for the moment when we could imagine a real foreign policy rooted in true internationalism and solidarity.\r\nBut in our efforts to influ\u2026 [+19070 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Military.com"
-      },
-      "author": "MLT Staff",
-      "title": "Explosion Injures 3 South Korean Military Officers Inside DMZ Bordering North Korea",
-      "description": "An explosion injured three South Korean military officers inside the heavily fortified Demilitarized Zone separating the Koreas, officials said.",
-      "url": "https://military.com/explosion-injures-3-south-korean-military-officers-inside-dmz-bordering-north-korea",
-      "urlToImage": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/09/ap26264188595875.jpg?w=1600&h=900&fit=crop",
-      "publishedAt": "2026-09-21T11:22:19Z",
-      "content": "SEOUL, South Korea (AP) An explosion injured three South Korean military officers Monday inside the heavily fortified Demilitarized Zone separating the Koreas, officials said.\r\nSouth Koreas Defense M\u2026 [+2958 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI World Desk",
-      "title": "A 6-year-old started saving empty sweet tubs; in one month, he collected 2,598 for a recycling scheme supporting a cancer charity",
-      "description": "UK News: Teddy Michaelides, a seven-year-old from Netley, Hampshire, has turned a local recycling problem into a campaign involving thousands of plastic confec.",
-      "url": "https://timesofindia.indiatimes.com/world/uk/a-6-year-old-started-saving-empty-sweet-tubs-in-one-month-he-collected-2598-for-a-recycling-scheme-supporting-a-cancer-charity/articleshow/134387849.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134388105,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-21T11:14:34Z",
-      "content": "<ul><li>News</li>\r\n<li>World News</li>\r\n<li>UK News</li>\r\n<li>A 6-year-old started saving empty sweet tubs; in one month, he collected 2,598 for a recycling scheme supporting a cancer charity</li></u\u2026 [+3322 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hurriyet Daily News"
-      },
-      "author": "hurriyetdailynews.com",
-      "title": "Trump \u2018open\u2019 to meeting with Pezeshkian in New York",
-      "description": "U.S. President Donald Trump has indicated that he would be willing to meet with Iranian President Masoud Pezeshkian in New York this week, as Washington considers its next military steps and Tehran sets out conditions for bringing the nearly seven-month-old w\u2026",
-      "url": "https://www.hurriyetdailynews.com/trump-open-to-meeting-with-pezeshkian-in-new-york-227130",
-      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6ab10cd829066eaba7b377a3.jpg",
-      "publishedAt": "2026-09-21T10:54:39Z",
-      "content": "WASHINGTON, DC\r\nU.S. President Donald Trump (DHA Photo)\r\nU.S. President Donald Trump has indicated that he would be willing to meet with Iranian President Masoud Pezeshkian in New York this week, as \u2026 [+2413 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Raw Story"
-      },
-      "author": "Alexander Willis",
-      "title": "Panic as Trump admin rolls out \u2018actually insane\u2019 flight tool: \u2018Isn\u2019t going to end well\u2019",
-      "description": "The Trump administration is rolling out an experimental air traffic control system\r\n on Monday that uses AI to assist with recommending flight routes and predicting traffic flows, and would-be travelers expressed outright panic.\u201cSo this isn't going to end wel\u2026",
-      "url": "https://www.rawstory.com/ai-air-traffic-control/",
-      "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=67800830&width=1200&height=600&coordinates=0%2C417%2C0%2C418",
-      "publishedAt": "2026-09-21T10:54:01Z",
-      "content": "The Trump administration is rolling out an experimental air traffic control system\r\n on Monday that uses AI to assist with recommending flight routes and predicting traffic flows, and would-be travel\u2026 [+1790 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "R-bloggers.com"
-      },
-      "author": "Giles Dickenson-Jones",
-      "title": "O*NET ratings, job descriptions and classification codes as measures of occupational similarity",
-      "description": "The last post identified potential transition pathways for truck drivers based on how closely other occupations matched them on skills, abilities and knowledge. This post follows the same basic approach across a wider range of occupations and asks whether two\u2026",
-      "url": "https://www.r-bloggers.com/2026/09/onet-ratings-job-descriptions-and-classification-codes-as-measures-of-occupational-similarity/",
-      "urlToImage": "https://www.gilesd-j.com/wp-content/uploads/2026/09/skill_heatmap.png",
-      "publishedAt": "2026-09-21T10:30:00Z",
-      "content": "TLDR:The last post identified potential transition pathways for truck drivers based on how closely other occupations matched them on skills, abilities and knowledge. This post follows the same basic \u2026 [+62938 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Trump\u2019s massive Greenland deal makes clear who controls the Arctic\u2019s strategic future",
-      "description": "President Donald Trump's Greenland deal blocks China from military bases and sensitive investments on the strategic Arctic island near the U.S.",
-      "url": "https://www.foxnews.com/opinion/trumps-massive-greenland-deal-makes-clear-who-controls-arctics-strategic-future",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/TRUMP-GREENLAND-FOX-NEWS-2.png",
-      "publishedAt": "2026-09-21T10:00:15Z",
-      "content": "Call it a win-win for Denmark and President Donald Trump. \"The United States will FOREVER have the complete ability to do what is necessary in Greenland in order to secure and defend the security of \u2026 [+4382 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Atlantic"
-      },
-      "author": "Eliot A. Cohen",
-      "title": "Don\u2019t Ask How This War Ends",
-      "description": "It is, unfortunately, the wrong question.",
-      "url": "https://www.theatlantic.com/ideas/2026/09/dont-ask-how-the-iran-war-ends/688724/",
-      "urlToImage": "https://cdn.theatlantic.com/thumbor/6PvPqxg4hhAVa5b2bM9rW_YgF0k=/0x187:4382x2469/1200x625/media/img/mt/2026/09/GettyImages_2264384567/original.jpg",
-      "publishedAt": "2026-09-21T10:00:00Z",
-      "content": "During the 2003 Iraq War, thenMajor General David Petraeus famously said to the journalist and historian Rick Atkinson, Tell me how this ends. It is the obvious query to be posed about the conflict w\u2026 [+7286 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The New Republic"
-      },
-      "author": "Timothy Noah",
-      "title": "Why Trump May Not Serve Out His Presidency",
-      "description": "\u201cIf something cannot go on forever,\u201d the economist Herbert Stein once said, \u201cit will stop.\u201d A logician would scorn this as a tautology, but it\u2019s a useful one for contemplating all sorts of problems that never seem to end. Some things that feel like they can\u2019t\u2026",
-      "url": "https://newrepublic.com/article/215634/trump-may-not-finish-presidency",
-      "urlToImage": "https://images.newrepublic.com/dfdd6b9d50ff39ff9909a58cf414e945a74eb11e.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
-      "publishedAt": "2026-09-21T10:00:00Z",
-      "content": "In 2024 a group of 225 mental health professionals said in a published open letter (bankrolled, granted, by an anti-Trump PAC created by George Conway) that Trump suffered from malignant narcissism a\u2026 [+2379 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Simon Speakman Cordall",
-      "title": "Do Israelis feel any safer now than they did on October 6, 2023?",
-      "description": "Despite having rarely been more secure, public concerns about security continue to dominate the election.",
-      "url": "https://www.aljazeera.com/news/2026/9/21/do-israelis-feel-any-safer-now-than-they-did-on-october-6-2023",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-08-20T145841Z_1031858955_RC2B2NA7QERE_RTRMADP_3_ISRAEL-SYRIA-1789093690.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-09-21T09:54:05Z",
-      "content": "Israels upcoming general election coincides with the third anniversary of the October 7, 2023 attacks, and the issues that concern voters relate, directly or indirectly, to the wars this event trigge\u2026 [+6679 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "wsj.com",
-      "title": "A Safer Way to Bet on Nuclear",
-      "description": "There are a lot of wild nuclear bets in the market. One enrichment company holds a strong hand.",
-      "url": "https://biztoc.com/x/fab21a7fd135f232",
-      "urlToImage": "https://biztoc.com/cdn/996/og.png",
-      "publishedAt": "2026-09-21T09:41:27Z",
-      "content": "There are a lot of wild nuclear bets in the market. One enrichment company holds a strong hand.\r\nThis story appeared on wsj.com, 2026-09-21 09:30:00."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thenation.com"
-      },
-      "author": "Ivana Nikoli\u0107 Hughes",
-      "title": "In the Age of AI, Nuclear Weapons Abolition Is a Renewed Imperative",
-      "description": "Ivana Nikoli\u0107 Hughes\n\n\n\nAs long as we have nuclear weapons, the job of ending humanity will continue to be as easy as the push of a button\u2014or an AI agent hacking into a nuclear command-and-control system.\r\n\n\r\n\n\nThe post In the Age of AI, Nuclear Weapons Aboli\u2026",
-      "url": "https://www.thenation.com/?post_type=article&p=610076",
-      "urlToImage": "https://www.thenation.com/wp-content/uploads/2019/10/nuclear-operation-upshot-cc-img.jpg",
-      "publishedAt": "2026-09-21T09:30:00Z",
-      "content": "Society / September 21, 2026\r\nAs long as we have nuclear weapons, the job of ending humanity will continue to be as easy as the push of a buttonor an AI agent hacking into a nuclear command-and-contr\u2026 [+6869 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "What kills Schr\u00f6dinger\u2019s cat? Gravity may not be the answer",
-      "description": "Physicists have put a decades-old idea about why the strange rules of quantum mechanics disappear in our everyday world to one of its toughest experimental tests yet. Deep beneath Italy\u2019s Gran Sasso mountain, researchers searched for an extremely faint radiat\u2026",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260920222350.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/schrodingers-cat-in-box.webp",
-      "publishedAt": "2026-09-21T09:24:50Z",
-      "content": "At some point between the tiny world of particles and atoms and the much larger world we experience every day, quantum behavior appears to fade away.Quantum mechanics allows particles to exist in com\u2026 [+5553 chars]"
-    },
-    {
-      "source": {
-        "id": "new-york-magazine",
-        "name": "New York Magazine"
-      },
-      "author": "Jonah Shepp",
-      "title": "The New World Order Is Here",
-      "description": "Former allies are creating a global order in which the U.S. not only no longer leads but cannot even be expected to behave predictably.",
-      "url": "http://nymag.com/intelligencer/article/canada-eu-united-nations-global-order.html",
-      "urlToImage": "https://pyxis.nymag.com/v1/imgs/d42/f44/68010aa823d92a6cf4de29e8026d1820a9-lede-worldorder.1x.rsocial.w1200.jpg",
-      "publishedAt": "2026-09-21T09:00:08Z",
-      "content": "In her annual address in France last week, European Commission president Ursula von der Leyen unveiled a proposal that would have been hard to imagine even a few years ago: a plan to make Canada the \u2026 [+7946 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slickdeals.net"
-      },
-      "author": "phoinix",
-      "title": "$1.99 | Command and Control: Nuclear Weapons, the Damascus Accident, and the Illusion of Safety (ALA Notable Books for Adults) (eBook) by Eric Schlosser",
-      "description": "Previous Frontpage Deal at $2.00 with 53 Deal Score and 28 comments\n\nAvailable Retailers:Amazon [amazon.com] (Kindle eBook)\niBooks [apple.com]\nGoogle Play Store [google.com]\nKobo [kobo.com]\nBookshop [",
-      "url": "https://slickdeals.net/f/20042370-1-99-command-and-control-nuclear-weapons-the-damascus-accident-and-the-illusion-of-safety-ala-notable-books-for-adults-ebook-by-eric-schlosser",
-      "urlToImage": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21660993.thumb",
-      "publishedAt": "2026-09-21T07:41:46Z",
-      "content": "Previous Frontpage Deal at $2.00 with 53 Deal Score and 28 commentsAvailable Retailers:\r\nAuthor: Eric SchlosserPublisher: Penguin BooksPublication date: September 17, 2013Print length: 640 pagesGreat\u2026 [+3081 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Amin Saikal, Emeritus Professor of Middle Eastern Studies, Australian National University; The University of Western Australia; Victoria University",
-      "title": "As war in the Middle East widens, Saudi Arabia\u2019s new defence pact could face a major test",
-      "description": "Saudi Arabia\u2019s escalating conflict with the Houthis in Yemen will force its new defence partners Turkey and Pakistan to confront some difficult questions.",
-      "url": "https://theconversation.com/as-war-in-the-middle-east-widens-saudi-arabias-new-defence-pact-could-face-a-major-test-292357",
-      "urlToImage": "https://images.theconversation.com/files/761036/original/file-20260921-50-io0jd4.jpg?ixlib=rb-4.1.1&rect=0%2C104%2C5339%2C2669&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2026-09-21T06:18:43Z",
-      "content": "Last Thursday, US President Donald Trump said he had a \u201cbig decision\u201d coming up about Iran\u2019s regime: \n\n\nDo I want to go in and annihilate them or do I not? [\u2026] Anything could happen with me. \r\n\n\n\nThi\u2026 [+6828 chars]"
-    },
-    {
-      "source": {
-        "id": "the-irish-times",
-        "name": "The Irish Times"
-      },
-      "author": "Denis Staunton",
-      "title": "Weapons in space",
-      "description": "The US, China and Russia have all developed anti-satellite systems, some of them ground based but others operating in orbit",
-      "url": "https://www.irishtimes.com/world/2026/09/21/the-us-declared-it-has-deployed-weapons-in-space-how-will-china-and-russia-react/",
-      "urlToImage": "https://www.irishtimes.com/resizer/v2/NIGFBPVMNFE2TDWLHXHFK5PWTQ.jpg?smart=true&auth=288aee17decbb41aad7af9c0ef4c8067b461d8fac52dcabb69ab78300a29c9a2&width=1200&height=630",
-      "publishedAt": "2026-09-21T06:03:08Z",
-      "content": "Washingtons declaration that it has deployed weapons in space was meant as a warning to China and Russia. It could backfire.\r\nLost in space\r\nWhen the United States announced last week that it had dep\u2026 [+3964 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Belle Carter",
-      "title": "UK Electricity Grid Expansion Estimated to Cost More Than \u00c2\u00a3150 Billion",
-      "description": "Britain may need to spend more than \u00a3150 billion on new transmission infrastructure to connect a rapidly expanding pipeline of wind and solar projects to the national grid, according to estimates attributed to the National Energy System Operator (NESO). The f\u2026",
-      "url": "https://www.naturalnews.com/2026-09-21-uk-electricity-grid-expansion-estimated-to-cost-more.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/grid-overhaul-renewable-energy-transmission-investment-4329-original.jpg",
-      "publishedAt": "2026-09-21T06:00:00Z",
-      "content": "Britain may need to spend more than \u00a3150 billion on new transmission infrastructure to connect a rapidly expanding pipeline of wind and solar projects to the national grid, according to estimates att\u2026 [+9349 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Willow Tohi",
-      "title": "Trump announces \u201cAI Force\u201d as industry leaders warn of unchecked risks",
-      "description": "President Donald Trump announced the creation of an \u201cAI Force\u201d and plans to appoint an AI czar to oversee artificial intelligence development, while simultaneously dismissing industry warnings about existential risks as a \u201choax.\u201d Leading tech executives inclu\u2026",
-      "url": "https://www.naturalnews.com/2026-09-21-trump-announces-ai-force-leaders-warn-of-risks.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/ai-safety-uncontrollable-ai-artificial-general-intelligence-4059-original.jpg",
-      "publishedAt": "2026-09-21T06:00:00Z",
-      "content": "<ul><li>President Donald Trump announced the creation of an \"AI Force\" and plans to appoint an AI czar to oversee artificial intelligence development, while simultaneously dismissing industry warning\u2026 [+5076 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Mike Adams",
-      "title": "Drone Warfare Is Coming to America \u2026 And We\u2019re Dangerously Unprepared",
-      "description": "If It Sits Above Ground, It Can Be Destroyed by Drones The drone revolution has quietly ended the era when America\u2019s above-ground infrastructure could be considered safe. The same precision-strike capability that hit Saudi pipelines and Qatari gas trains can \u2026",
-      "url": "https://www.naturalnews.com/2026-09-21-drone-warfare-coming-to-america-dangerously-unprepared.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/drone-warfare-critical-infrastructure-unmanned-aerial-vehicles-4332-original.jpg",
-      "publishedAt": "2026-09-21T06:00:00Z",
-      "content": "If It Sits Above Ground, It Can Be Destroyed by Drones\r\nThe drone revolution has quietly ended the era when America's above-ground infrastructure could be considered safe. The same precision-strike c\u2026 [+12564 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Garrison Vance",
-      "title": "Bucha Used by West to Derail Istanbul Peace Talks, Russian MFA Spokeswoman Says",
-      "description": "Russian Foreign Ministry spokeswoman Maria Zakharova said during a press conference in Moscow on Thursday that Western sponsors of Kyiv initiated the falsification of events in Bucha, according to statements reported by Russian state media on September 17, 20\u2026",
-      "url": "https://www.naturalnews.com/2026-09-21-bucha-derailed-istanbul-peace-talks-russian-spokeswoman.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/bucha-istanbul-peace-talks-maria-zakharova-4222-original.jpg",
-      "publishedAt": "2026-09-21T06:00:00Z",
-      "content": "Russian Foreign Ministry spokeswoman Maria Zakharova said during a press conference in Moscow on Thursday that Western sponsors of Kyiv initiated the falsification of events in Bucha, according to st\u2026 [+7708 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Edison Reed",
-      "title": "Trump Signs Russia Sanctions Bill Into Law, Authorizing Tariffs on Russian Energy Buyers",
-      "description": "President Donald Trump signed the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 into law on Friday, according to White House statements and public records. The legislation authorizes new sanctions on Russia and extends existing sanctions on Iran, \u2026",
-      "url": "https://www.naturalnews.com/2026-09-21-trumps-signs-russia-law-tariffs-energy-buyers.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/russia-sanctions-bill-trump-signing-tariffs-on-russian-energy-4288-original.jpg",
-      "publishedAt": "2026-09-21T06:00:00Z",
-      "content": "President Donald Trump signed the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 into law on Friday, according to White House statements and public records. The legislation authorizes new \u2026 [+7817 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Juancole.com"
-      },
-      "author": "Rooholamin Saeidi",
-      "title": "How Trump Violated the Tenets of Realism in Attacking Iran",
-      "description": "Never put yourself in a position from which you cannot retreat without losing face and from which you cannot advance without great risks",
-      "url": "https://www.juancole.com/2026/09/violated-realism-attacking.html",
-      "urlToImage": "https://media.juancole.com/images/2026/09/donald-trump-and-benjamin-netanyahu-at-white-house-2025-2-4618fe1.jpg",
-      "publishedAt": "2026-09-21T04:15:15Z",
-      "content": "Tehran (Special to Informed Comment; Feature) \u2013 The father of and the key figure in Classical Realism, Hans Morgenthau, has some pieces of practical advice for politicians. They include \u201cNever put yo\u2026 [+5728 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Americanthinker.com"
-      },
-      "author": null,
-      "title": "The Iran War and Managing the What-ifs",
-      "description": "By John ConlinThe public doesn\u2019t see and live in the \u201cwhat-if\u201d but rather lives in the here-and-now.",
-      "url": "https://www.americanthinker.com/blog/2026/09/the-iran-war-and-managing-the-what-ifs/",
-      "urlToImage": "https://images.americanthinker.com/0n/0ne6vbqlohhoeis1d5x5_1200.jpg",
-      "publishedAt": "2026-09-21T04:00:00Z",
-      "content": "One of the most difficult aspects of running a company -- or even a life -- is managing the what-ifs. What if we do this versus that? What if I take this path versus another? It is extremely difficul\u2026 [+4120 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Reuters",
-      "title": "Trump eyes busy week of meetings as UN General Assembly gathers",
-      "description": "US President Trump will attend the United Nations General Assembly in New York. He is scheduled to meet with leaders from Ukraine and the United Kingdom. The US President will also address the General Assembly on global issues. Discussions will likely include\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-eyes-busy-week-of-meetings-as-un-general-assembly-gathers/articleshow/134378376.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134378375,width-1200,height-630,imgsize-94834,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-21T02:58:17Z",
-      "content": "WASHINGTON: US President Donald Trump's two days attending the United Nations General Assembly will include a series of bilateral meetings and events with notable political figures such as the leader\u2026 [+2958 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Crikey"
-      },
-      "author": "Kevin Rudd",
-      "title": "Kevin Rudd on AUKUS, his past remarks and how to avoid war",
-      "description": "Deterrence and international collaboration have served our region, and the world, well since the end of World War II. Let's try and keep it that way.\nThe post Kevin Rudd on AUKUS, his past remarks and how to avoid war appeared first on Crikey.",
-      "url": "http://www.crikey.com.au/2026/09/21/kevin-rudd-aukus/",
-      "urlToImage": "https://assets.crikey.com.au/wp-content/uploads/sites/3/2026/09/20260910129717506679-original-copy.jpg?quality=70&w=1312",
-      "publishedAt": "2026-09-21T01:34:39Z",
-      "content": "My guiding principles for Australian foreign and security policy have been consistent throughout my professional life. They are pretty simple:\u00a0\r\nI support universal human rights as defined in the UN \u2026 [+9631 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "HuffPost"
-      },
-      "author": "HuffPost",
-      "title": "Trump Eyes Busy Week Of Meetings As UN General Assembly Gathers",
-      "description": "His two days attending the gathering will include a series of meetings with notable political figures and world leaders.",
-      "url": "https://www.huffpost.com/entry/trump-un-general-assembly_n_6ab07ffbe4b02be6d959e3f3",
-      "urlToImage": "https://img.huffingtonpost.com/asset/6ab082e11c0000121e95ed70.jpeg?cache=L0OH2tlKHm&ops=1200_630",
-      "publishedAt": "2026-09-21T01:08:04Z",
-      "content": "WASHINGTON, Sept 20 (Reuters) - US President Donald Trumps two days attending the United Nations General Assembly will include a series of bilateral meetings and events with notable political figures\u2026 [+3198 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "author": "Team BL, KS Badri Narayanan",
-      "title": "Sensex today | Stock Market Live: Stock to buy today: K.P.R. Mill",
-      "description": "Sensex, Nifty, Stock Price Live Updates: The stock of K.P.R. Mill has been in an uptrend since April. Back then, it found support at \u20b9800 and established an uptrend. Recently though, the stock has been witnessing higher volatility, particularly since second h\u2026",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-21st-september-2026/article71488721.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/wlus8d/article71487917.ece/alternates/LANDSCAPE_1200/PO20_Stockmarket_eyeglasses.jpg",
-      "publishedAt": "2026-09-21T01:00:51Z",
-      "content": "KSBs nuclear opportunity appears execution- and qualification-constrained rather than demand-constrained, with testing infrastructure the key near-term bottleneck. KSB has a potential first-mover adv\u2026 [+3413 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Bleeding Cool News"
-      },
-      "author": "Mark Seifert",
-      "title": "Doll Girl's Atomic-Age Debut in Doll Man #37, at Auction",
-      "description": "Amidst a real-life backdrop of atomic weapons testing and transmuting thorium into Uranium-233, Doll Girl undergoes a transformation of her own.",
-      "url": "https://bleedingcool.com/comics/doll-girls-atomic-age-debut-in-doll-man-37-at-auction/",
-      "urlToImage": "https://bleedingcool.com/wp-content/uploads/2026/09/doll-girl-featured-2000x1125.jpg",
-      "publishedAt": "2026-09-21T00:31:08Z",
-      "content": "Posted in: Comics, Heritage Sponsored | Tagged: quality comics, william woolfolk\r\nAmidst a real-life backdrop of atomic weapons testing and transmuting thorium into Uranium-233, Doll Girl undergoes a\u2026 [+4763 chars]"
     }
   ]
 }

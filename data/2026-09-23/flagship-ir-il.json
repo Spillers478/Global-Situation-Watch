@@ -1,734 +1,71 @@
 {
   "status": "ok",
-  "totalResults": 925,
+  "totalResults": 1054,
   "articles": [
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "By Trixie Yap, Nidhi Verma and Florence Tan",
-      "title": "Saudi Arabia restarts East-West oil pipeline, sources say",
-      "description": "By Trixie Yap, Nidhi Verma and Florence Tan SINGAPORE/NEW DELHI, Sept 22 (Reuters) - Saudi Arabia has restarted operations at its East-West Pipeline and coul...",
-      "url": "https://finance.yahoo.com/news/saudi-arabia-restarts-east-west-100845429.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/99b1991dfd759b4dfda5131ea208d314f0a2c9df4af02b5856ec820e32d56d39/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F07cb3be7ef56c3bc7da20200c0033360.jpg",
-      "publishedAt": "2026-09-22T11:09:40Z",
-      "content": "By Trixie Yap, Nidhi Verma and Florence Tan\r\nSINGAPORE/NEW DELHI, Sept 22 (Reuters) - Saudi Arabia has restarted operations at its East-West Pipeline and could resume exports from the Red Sea port of\u2026 [+1561 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Elizabeth Robinson",
-      "title": "Russia\u2019s forced POW videos and Trump to address U.N. assembly: Morning Rundown",
-      "description": "Russia has coerced thousands of Ukrainian prisoners to denounce their leaders and country in propaganda videos.",
-      "url": "https://www.nbcnews.com/news/us-news/russias-forced-pow-videos-trump-un-assembly-morning-rundown-rcna599153",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260921-ukranian-pow-video-comp-lr-06df32.jpg",
-      "publishedAt": "2026-09-22T11:06:23Z",
-      "content": "Russia has coerced thousands of Ukrainian prisoners to denounce their leaders and country in propaganda videos. An NBC News poll shows how Americans views of immigration are shifting. And the data ce\u2026 [+8204 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abcnews.com"
-      },
-      "author": "AAMER MADHANI Associated Press",
-      "title": "Trump returns to UN at a moment of anxiety about Iran, AI and the future of world body itself",
-      "description": "President Donald Trump addresses the U.N. General Assembly at a challenging moment for the world and his presidency",
-      "url": "https://abcnews.com/US/wireStory/trump-returns-moment-anxiety-iran-ai-future-world-136640108",
-      "urlToImage": "https://i.abcnewsfe.com/a/e056cbb9-89da-4197-8ad5-fdeb48883c0a/wirestory_f7cb0b3ebc492446c0be97ed3a6843aa_16x9.jpg?w=1600",
-      "publishedAt": "2026-09-22T11:05:24Z",
-      "content": "NEW YORK -- President Donald Trump is set to address the U.N. General Assembly on Tuesday at a tumultuous moment for the world and for his presidency.\r\nThe global economy has been shaken by his decis\u2026 [+7260 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Middle East takes center stage at UN as regional leaders confront Iran war, Gaza and Houthi threat",
-      "description": "Gulf leaders arrive at the United Nations General Assembly facing urgent questions about Iran, Houthi threats and Gaza's future amid shifting alliances.",
-      "url": "https://www.foxnews.com/world/middle-east-center-stage-un-regional-leaders-confront-iran-war-gaza-houthi-threat",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/united-nations-ga-009.jpg",
-      "publishedAt": "2026-09-22T11:00:52Z",
-      "content": "UNITED NATIONS The Middle East will take center stage when world leaders open the UN General Assembly's annual debate Tuesday, with some of Washington's most important regional partners arriving in N\u2026 [+5245 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Legalinsurrection.com"
-      },
-      "author": "Mary Chastain",
-      "title": "Report: Trump Admin Proposing $5 Billion to Rebuild Gulf Energy Sites",
-      "description": "\"Some Middle East officials said the initiative appeared to be Washington\u2019s attempt to cast the Strait of Hormuz as a less consequential energy route and show the U.S. and its allies as united in confronting Iran.\"\nThe post Report: Trump Admin Proposing $5 Bi\u2026",
-      "url": "https://legalinsurrection.com/2026/09/report-trump-admin-proposing-5-billion-to-rebuild-gulf-energy-sites/",
-      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2026/09/Saudi-Arabia-Houthi-Oil.jpg",
-      "publishedAt": "2026-09-22T11:00:17Z",
-      "content": "The Wall Street Journalreported that President Donald Trump\u2019s administration wants to invest $5 billion in a new fund to help rebuild energy sites in the Middle East that were destroyed or damaged in\u2026 [+2890 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Atlantic"
-      },
-      "author": "Graeme Wood",
-      "title": "Israel Can\u2019t Postpone Its Reckoning Forever",
-      "description": "Intractable divides between the secular and the religious pose a bigger problem for the country than any external threat.",
-      "url": "https://www.theatlantic.com/ideas/2026/09/israel-secular-religious-divide/688649/",
-      "urlToImage": "https://cdn.theatlantic.com/thumbor/hrHeJTr4inFRs0jCzGqNR3docmw=/0x85:3994x2165/1200x625/media/img/mt/2026/09/2026_09_22_Feature_The_Future_of_Israel_Graeme_Wood/original.jpg",
-      "publishedAt": "2026-09-22T11:00:00Z",
-      "content": "On October 13 of last year, Hamas released its last living Israeli hostages\u201420 Jews in various states of disrepair. And Israel, along with a remarkably small fraction of the rest of the world, allowe\u2026 [+60705 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PRNewswire"
-      },
-      "author": null,
-      "title": "Cognex to Acquire RealSense, Expanding Machine Vision Leadership into High-Growth Robotic Perception Market",
-      "description": "Acquisition adds leading 3D robotic perception platform, expands Cognex's served market, and supports long-term growth diversification NATICK, Mass. and CUPERTINO, Calif., Sept. 22, 2026 /PRNewswire/ -- Cognex Corporation (NASDAQ: CGNX), the global technology\u2026",
-      "url": "https://www.prnewswire.com/news-releases/cognex-to-acquire-realsense-expanding-machine-vision-leadership-into-high-growth-robotic-perception-market-302885738.html",
-      "urlToImage": "https://mmx.prnewswire.com/media/MS1515935/Cognex-Logo.jpg?id=OA2960570&p=facebook",
-      "publishedAt": "2026-09-22T11:00:00Z",
-      "content": "Acquisition adds leading 3D robotic perception platform, expands Cognex's served market, andsupports long-term growth diversification\r\nNATICK, Mass. and CUPERTINO, Calif., Sept. 22, 2026 /PRNewswire/\u2026 [+9418 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nakedcapitalism.com"
-      },
-      "author": "Yves Smith",
-      "title": "Links 9/22/2026",
-      "description": "Our dangerous daily links: Condom holes = baby boom? China buys energy from Canada, Trump press ban backfire, data centers run out of steel, airlines cut flighs over fuel scarcity, Europe climate risk, Japan new interest rate high, Himalayas risk to India, Is\u2026",
-      "url": "https://www.nakedcapitalism.com/2026/09/links-9-22-2026.html",
-      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2026/09/Screenshot-2026-09-22-at-1.52.30\u202fPM.png",
-      "publishedAt": "2026-09-22T10:59:40Z",
-      "content": "This is Naked Capitalism fundraising week. 14 donors have already invested in our efforts to combat corruption and predatory conduct, particularly in the financial realm. Please join us and participa\u2026 [+11382 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "author": "Aya Batrawy",
-      "title": "Houthis try to push deeper into western Yemen, upending life, witnesses tell NPR",
-      "description": "As the U.S. conflict with Iran drags, the Iranian-backed Houthis in Yemen have opened a new front, taking new territory and displacing more than 100,000 people.",
-      "url": "https://www.npr.org/2026/09/22/g-s1-144261/yemen-houthis-saudi-iran-humanitarian-crisis",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4797x2698+0+250/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8c%2F35%2Fcdbb657140d08b3fac8a54fa5add%2Fgettyimages-2294384290.jpg",
-      "publishedAt": "2026-09-22T10:59:37Z",
-      "content": "DUBAI, United Arab Emirates As Houthi fighters swept into the western Yemeni port city of Mokha earlier this month, Saudi-backed Yemeni government forces abandoned their armored vehicles and aid grou\u2026 [+8303 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Salon"
-      },
-      "author": "Jeff Cohen, Norman Solomon",
-      "title": "Democrats need a bold 2028 ticket: Ro Khanna and AOC should run",
-      "description": "The party can't afford to play it safe. These members of Congress offer a new vision",
-      "url": "https://www.salon.com/2026/09/22/democrats-need-a-bold-2028-ticket-ro-khanna-and-aoc-should-run/",
-      "urlToImage": "https://www.salon.com/app/uploads/2026/09/aoc-ro-khanna-2028.jpg",
-      "publishedAt": "2026-09-22T10:45:07Z",
-      "content": "Fifteen years ago, during President Barack Obamas first term, we co-founded RootsAction as an online progressive group challenging not only Republicans but also the corporatism and militarism of the \u2026 [+7591 chars]"
-    },
     {
       "source": {
         "id": null,
         "name": "BusinessLine"
       },
-      "author": "Team BL, KS Badri Narayanan",
-      "title": "Sensex today | Stock Market Highlights: Sensex falls 330 pts, Nifty closes at 23,329; oil fell to $98.9 ahead of potential US-Iran talks",
-      "description": "Sensex, Nifty, Stock Price Highlights: Indian shares reversed early gains on Tuesday, \u200bdragged by IT stocks on concerns around demand and earnings, offsetting \u200cpositive sentiment from a fall in oil prices \u200bfor a fifth session ahead of potential \u2060US-Iran talks\u2026",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-22nd-september-2026/article71492546.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/niyh65/article71492580.ece/alternates/LANDSCAPE_1200/PO30_Candlestick_graph.jpg",
-      "publishedAt": "2026-09-22T10:44:36Z",
-      "content": "<li></li>\r\nSeptember 22, 2026 16:14This live blog is closed for the day.\r\n<li></li>\r\nSeptember 22, 2026 16:10Rupee rises 20 paise to close at 95.58 against US dollar\r\nRupee rises 20 paise to close at\u2026 [+82693 chars]"
+      "author": "Paran Balakrishnan",
+      "title": "Will Pakistan fight for Saudi Arabia?",
+      "description": "Houthi missiles are hitting deep inside Saudi Arabia, forcing Islamabad to confront its new collective-security pledge",
+      "url": "https://www.thehindubusinessline.com/opinion/will-pakistan-fight-for-saudi-arabia/article71496550.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/eoi4s5/article71496546.ece/alternates/LANDSCAPE_1200/2026-08-07T111512Z_1220276664_RC2NTMAJX0MH_RTRMADP_3_SAUDI-DEFENCE-AGREEMENT.JPG",
+      "publishedAt": "2026-09-22T15:39:34Z",
+      "content": "Pakistan could hardly have dreamt when it signed the tripartite Makkah Defence Pact that it could be called on to honour its commitments barely six weeks later.\r\nYemens Houthis have emerged much stro\u2026 [+4583 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Business Standard"
+        "name": "The Punch"
       },
-      "author": "Capital Market",
-      "title": "Sensex settles 330 pts lower; Nifty ends below 23,350",
-      "description": "As per provisional closing data, the barometer index, the S&P BSE Sensex tanked 329.91 points or 0.44% to 74,529.08. The Nifty 50 index lost 85.30 points or 0.36% to 23,329.",
-      "url": "https://www.business-standard.com/markets/capital-market-news/sensex-settles-330-pts-lower-nifty-ends-below-23-350-126092200798_1.html",
-      "urlToImage": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
-      "publishedAt": "2026-09-22T10:34:12Z",
-      "content": "The key equity indices ended with modest losses on Tuesday, as early gains faded, dragged by weakness in IT, FMCG and banking stocks amid the F&amp;O expiry. The Nifty closed below the 23,350 mark. I\u2026 [+5731 chars]"
+      "author": "Punch Newspapers",
+      "title": "Trump says deciding between deal or driving Iran \u2018into hell\u2019",
+      "description": "US President Donald Trump told the UN General Assembly he must decide whether to make a deal with Iran or to \u201cannihilate\u201d the Islamic Republic.\n\nRead More: https://punchng.com/trump-says-deciding-between-deal-or-driving-iran-into-hell/",
+      "url": "https://punchng.com/trump-says-deciding-between-deal-or-driving-iran-into-hell/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2026/09/22162503/AFP__20260922__C8ZV3EG__v1__MidRes__DonaldTrumpSSpeechBeforeUnGeneralAssembly_1790090703-1200x630.webp",
+      "publishedAt": "2026-09-22T15:37:18Z",
+      "content": "US President Donald Trump told the United Nations General Assembly Tuesday that he had to choose whether to \u201cannihilate\u201d Iran if it fails to make a deal to end the Middle East war.\r\n\u201cI have a big dec\u2026 [+935 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Nakedcapitalism.com"
+        "id": "the-times-of-india",
+        "name": "The Times of India"
       },
-      "author": "Yves Smith",
-      "title": "Iran War: Trump Signs of Desperation Increase as Bessent Seeks to Bar Iran Airline Flights Right Before Official UN Visits; More on Strait of Hormuz Fuel Transits",
-      "description": "Today's Iran war news: Things are deceptively quiet as the fall UN General Assembly meetings and Xi's summit with Trump approach.",
-      "url": "https://www.nakedcapitalism.com/2026/09/iran-war-trump-signs-of-desperation-increase-as-bessent-seeks-to-bar-iran-airline-flights-right-before-official-un-visits-more-on-strait-of-hormuz-fuel-transits.html",
-      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2026/09/Screenshot-2026-09-22-at-3.19.52\u202fPM.png",
-      "publishedAt": "2026-09-22T10:20:27Z",
-      "content": "This is Naked Capitalism fundraising week. 101 donors have already invested in our efforts to combat corruption and predatory conduct, particularly in the financial realm. Please join us and particip\u2026 [+12679 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CoinDesk"
-      },
-      "author": "James Van Straten",
-      "title": "Live updates: Oil falls as Iran signals possible hormuz reopening, bitcoin holds near $86,000",
-      "description": "WTI crude oil drops to $89 as reports suggest Iran could reopen the Strait of Hormuz within seven days.",
-      "url": "https://www.coindesk.com/markets/2026/09/22/live-updates-oil-falls-as-iran-signals-possible-hormuz-reopening-bitcoin-holds-near-usd86-000",
-      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/3edc81a173ce9aaa81e86cdd5a3ca6555fb32fd8-1606x986.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "publishedAt": "2026-09-22T10:20:12Z",
-      "content": "Iran could reopen the Strait of Hormuz within seven days if the U.S. eases military pressure and lifts its port blockade, according to multiple reports citing a senior Iranian official.\r\nOil prices s\u2026 [+534 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": null,
-      "title": "Fishing boat reels in large U.S. military drone off Florida coast",
-      "description": "A photo posted on the Hot Spots Charters Facebook page shows the large gray drone next to a table of fish.",
-      "url": "https://www.cbsnews.com/news/fishing-boat-catches-us-military-drone-florida-coast/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/22/b66a5e16-fbd9-4040-9d50-89737e86ba36/thumbnail/1200x630/36edf62e78b21f6af23ce4f11adb0ff3/drone-816928994-2585181278569944-5835007600484470272-n.jpg",
-      "publishedAt": "2026-09-22T10:20:01Z",
-      "content": "A fishing boat's haul recently included mahi-mahi, snapper, grouper and something unexpected: a U.S. military drone.\r\n Daniel Arsenault, a 36-year-old charter captain, was fishing in Gulf waters off \u2026 [+2349 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hurriyet Daily News"
-      },
-      "author": "hurriyetdailynews.com",
-      "title": "US must use its influence on Israel for regional peace: Fidan",
-      "description": "The Turkish top diplomat has said the United States should use its influence on Israel in a more efficient way for the sake of regional peace and stability, reiterating Ankara\u2019s call for the full implementation of a Gaza peace deal led by U.S. President Donal\u2026",
-      "url": "https://www.hurriyetdailynews.com/us-must-use-its-influence-on-israel-for-regional-peace-fidan-227187",
-      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6ab2563b242e1cf6f86a4916.jpg",
-      "publishedAt": "2026-09-22T10:19:48Z",
-      "content": "NEW YORK \u00a0\r\nAA photo.\r\nThe Turkish top diplomat has said the United States should use its influence on Israel in a more efficient way for the sake of regional peace and stability, reiterating Ankaras\u2026 [+4170 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "newsweek.com",
-      "title": "Trump\u2019s AI Force Is Outnumbered 5 to 1",
-      "description": "In the first 24 hours of America\u2019s war with Iran this year, the United States used an artificial-intelligence system called Maven to help strike more than 1,000 targets. The system ingests data, helps commanders identify targets and thereby assists in the pro\u2026",
-      "url": "https://biztoc.com/x/d7a9c89131cc5af3",
-      "urlToImage": "https://biztoc.com/cdn/d7a9c89131cc5af3_s.webp",
-      "publishedAt": "2026-09-22T10:02:21Z",
-      "content": "In the first 24 hours of Americas war with Iran this year, the United States used an artificial-intelligence system called Maven to help strike more than 1,000 targets. The system ingests data, helps\u2026 [+144 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Foreign Policy"
-      },
-      "author": "Ali Ahmadi",
-      "title": "Trump\u2019s \u2018Economic D-Day\u2019 Against Iran Risks U.S. Ties With China",
-      "description": "The sanctions could trigger a trade war between Washington and Beijing.",
-      "url": "http://foreignpolicy.com/2026/09/22/operation-economic-outcast-trump-united-states-iran-china-sanctions-oil-markets-bessent/",
-      "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2026/09/Bessent_GettyImages-2292557259.jpg",
-      "publishedAt": "2026-09-22T10:00:15Z",
-      "content": "When U.S. Treasury Secretary Scott Bessent\u00a0announced\u00a0the launch of Operation Economic Outcast in late Augustan economic D-Day campaign to demolish Irans economy and war efforthe did not specifically \u2026 [+9268 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Military.com"
-      },
-      "author": "Haley Fuller",
-      "title": "US Sanctions Blocked Iranian LSAT Access for Law School Students",
-      "description": "Newly imposed sanctions blocked some Iranian applicants from the LSAT and other exams, raising concerns about overreach and civilian costs.",
-      "url": "https://military.com/us-sanctions-blocked-iranian-lsat-access-law-school-students",
-      "urlToImage": "https://static0.mltimages.com/wordpress/wp-content/uploads/2025-11/11_0.jpeg?w=1200&h=675&fit=crop",
-      "publishedAt": "2026-09-22T10:00:13Z",
-      "content": "Iranian law school applicants were abruptly locked out of testing and application services during the September LSAT administration after the Law School Admission Council interpreted new U.S. sanctio\u2026 [+9279 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Kathryn  Watson",
-      "title": "Trump to address U.N. General Assembly as he navigates Iran, Gaza, Ukraine conflicts",
-      "description": "President Trump is addressing the United Nations General Assembly as the war with Iran approaches its seventh month.",
-      "url": "https://www.cbsnews.com/news/trump-address-united-nations-general-assembly-meetings-world-leaders-iran-ukraine/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/21/f864aec9-66cf-4888-a3ee-7995199aaeec/thumbnail/1200x630/96b53a7fb24a0740446587bc9d07acb6/gettyimages-2237050929.jpg",
-      "publishedAt": "2026-09-22T10:00:07Z",
-      "content": "Washington \u2014 President Trump will address the United Nations General Assembly Tuesday morning and meet with other world leaders as he makes the case for his handling of the war with Iran and other fo\u2026 [+5146 chars]"
+      "author": "TOI World Desk",
+      "title": "South Africa launched a \u20ac15-million programme to restore grasslands, savannas and thickets, with 100,000 hectares targeted by 2030",
+      "description": "Rest of World News: South Africa has launched ReLISA, or Restoring Landscapes in South Africa, a 5-year, \u20ac15-million programme aimed at restoring degraded grassland, sava.",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/south-africa-launched-a-15-million-programme-to-restore-grasslands-savannas-and-thickets-with-100000-hectares-targeted-by-2030/articleshow/134415658.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134415714,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T15:36:24Z",
+      "content": "<ul><li>News</li>\r\n<li>World News</li>\r\n<li>Rest of World News</li>\r\n<li>South Africa launched a 15-million programme to restore grasslands, savannas and thickets, with 100,000 hectares targeted by 2\u2026 [+1747 chars]"
     },
     {
       "source": {
         "id": "new-york-magazine",
         "name": "New York Magazine"
       },
-      "author": "Nate Weisberg",
-      "title": "John Fetterman\u2019s Party of One",
-      "description": "John Fetterman, the embattled Pennsylvania senator, could soon hold enormous power in a closely divided Senate. How will he use it?",
-      "url": "http://nymag.com/intelligencer/article/will-john-fetterman-become-a-republican.html",
-      "urlToImage": "https://pyxis.nymag.com/v1/imgs/042/39b/60536bcd88c364f11b00efe49b1f7d065b-john-fetterman.1x.rsocial.w1200.jpg",
-      "publishedAt": "2026-09-22T10:00:04Z",
-      "content": "The GOPs first-ever midterm convention needed a Democrat. The two-night production at the American Airlines Center in Dallas in early September was built around the case that the Democratic Party has\u2026 [+8704 chars]"
+      "author": "Intelligencer Staff",
+      "title": "Trump Promotes War and \u2018Super Intelligence\u2019 at U.N.: As It Happened",
+      "description": "In his big U.N. speech, President Trump promoted his wars, threatened Cuba, celebrated taking Venezuela\u2019s oil, and called for renaming AI \u2018Super Intelligence.\u2019 Here\u2019s what happened as it happened.",
+      "url": "http://nymag.com/intelligencer/article/trump-addresses-un-general-assembly-live-updates.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/da5/890/a1b5ed3eb944a5d987abf5b8a028fc14e2-trump-shrug.1x.rsocial.w1200.jpg",
+      "publishedAt": "2026-09-22T15:34:00Z",
+      "content": "Its been quite a tumultuous year for this planet of ours, particularly when it comes to the impact of a single American president in the world. President Donald Trump addressed the United Nations Gen\u2026 [+12639 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Aps.org"
+        "name": "Newser"
       },
-      "author": "A. Hayrapetyan et al. (CMS Collaboration)",
-      "title": "Search for Electroweakinos in Compressed-Spectrum Scenarios with Low-Momentum Isolated Tracks in Proton-Proton Collisions at $\\sqrt{s}=13\\text{\u2009}\\text{\u2009}\\mathrm{TeV}$",
-      "description": "A search for supersymmetric electroweakinos is performed using events with a low-momentum (soft) isolated track and large missing transverse momentum, targeting nearly mass-degenerate higgsinolike charginos and neutralinos. For mass splittings of 0.3--1 GeV, \u2026",
-      "url": "https://link.aps.org/doi/10.1103/g4ym-rzkt",
-      "urlToImage": null,
-      "publishedAt": "2026-09-22T10:00:00Z",
-      "content": "C. Giordano2, P.S. Hussain2, M. Jeitler2,c, N. Krammer2, A. Li2, D. Liko2, M. Matthewman2, I. Mikulec2, J. Schieck2,c, R. Sch\u00f6fbeck2,c, D. Schwarz2, M. Shooshtari2, M. Sonawane2, W. Waltenberger2, C.\u2026 [+59269 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aps.org"
-      },
-      "author": "A. Hayrapetyan et al. (CMS Collaboration)",
-      "title": "Search for the Nonresonant Production of a Pair of Additional Higgs Bosons in the Type-X Two-Higgs-Doublet Model in Proton-Proton Collisions at $\\sqrt{s}=13\\text{\u2009}\\text{\u2009}\\mathrm{TeV}$",
-      "description": "A search is presented for the production of two additional Higgs bosons from an off-shell Z boson, where both additional particles decay to $\\ensuremath{\\tau}$ lepton pairs. The search is performed with a data sample collected with the CMS detector from proto\u2026",
-      "url": "https://link.aps.org/doi/10.1103/qydl-rlp7",
-      "urlToImage": null,
-      "publishedAt": "2026-09-22T10:00:00Z",
-      "content": "M. Dragicevic2, P.S. Hussain2, M. Jeitler2,c, N. Krammer2, A. Li2, D. Liko2, I. Mikulec2, J. Schieck2,c, R. Sch\u00f6fbeck2,c, D. Schwarz2, M. Sonawane2, W. Waltenberger2, C.-E. Wulz2,c, T. Janssen3, T. V\u2026 [+58523 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Reuters",
-      "title": "Saudi defence fund speeds up maritime sector push following Houthi advance",
-      "description": "Saudi Arabia\u2019s MASNA Ventures plans to raise its defence-focused venture capital fund to $150 million and invest more in local manufacturing of US and allied defence technology, including drones, autonomous systems and anti-drone systems.",
-      "url": "https://economictimes.indiatimes.com/news/defence/saudi-defence-fund-speeds-up-maritime-sector-push-following-houthi-advance/articleshow/134408932.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134409051,width-1200,height-630,imgsize-21720,overlay-etdefence/articleshow.jpg",
-      "publishedAt": "2026-09-22T09:59:37Z",
-      "content": "Beirut: Saudi Arabia's first defence-focused venture capital fund, MASNA Ventures, is seeking to plough more money into local manufacturing of US and allied defence technology as conflict in the Gulf\u2026 [+2739 chars]"
-    },
-    {
-      "source": {
-        "id": "breitbart-news",
-        "name": "Breitbart News"
-      },
-      "author": "Christian K. Caruzo",
-      "title": "E.U.\u2019s Top Diplomat Says Red Sea Mission Needs More Warships amid Rising Houthi Attacks",
-      "description": "The European Union\u2019s top diplomat, Kaja Kallas, said Monday the E.U.'s ongoing naval security mission across the Red Sea needs to boost its numbers and include more warships, deeming the current size of the deployment insufficient amid intensified attacks fro\u2026",
-      "url": "https://www.breitbart.com/europe/2026/09/22/eus-top-diplomat-says-red-sea-mission-need-more-warships-amid-rising-houthi-attacks/",
-      "urlToImage": "https://media.breitbart.com/media/2026/09/Kaja-Kallas-warns-EU-640x335.jpg",
-      "publishedAt": "2026-09-22T09:50:02Z",
-      "content": "The European Unions top diplomat, Kaja Kallas, said Monday the E.U.\u2019s ongoing naval security mission across the Red Sea needs to boost its numbers and include more warships, deeming the current size \u2026 [+3149 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Decrypt"
-      },
-      "author": "Decrypt Agent",
-      "title": "US Probes Whether Binance 'Knowingly' Let Iran-Linked Trades Through: Report",
-      "description": "Binance says it has a \"zero-tolerance policy\" for sanctions violations. Prosecutors are asking whether its 2023 compliance fixes held.",
-      "url": "https://decrypt.co/378902/us-probes-whether-binance-knowingly-let-iran-linked-trades-through-report",
-      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png",
-      "publishedAt": "2026-09-22T09:47:47Z",
-      "content": "In brief\r\n<ul><li>Federal prosecutors are examining whether Binance failed to stop trading that breached U.S. sanctions on Iran, Bloomberg reported Monday.</li><li>The Manhattan U.S. attorney's offic\u2026 [+3268 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Advfn.com"
-      },
-      "author": "Fiona Craig",
-      "title": "Gold Prices Fall as Stronger Dollar and Fed Rate Expectations Weigh on Bullion",
-      "description": "Gold prices declined on Tuesday as the US dollar strengthened and investors assessed the possibility of further interest rate increases by the Federal Reserv...",
-      "url": "https://investorshub.advfn.com/market-news/article/36672/gold-prices-fall-as-stronger-dollar-and-fed-rate-expectations-weigh-on-bullion",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/52efbcee57decead023927bdda1dd611023c463abca63e3c1544fc4bda87f3ce/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finvestorshub_458%2F9733c99b80258efab8aac3002d2b2a0d.png",
-      "publishedAt": "2026-09-22T09:44:01Z",
-      "content": "Large gold nugget \u00a9James St. John\r\nGold prices declined on Tuesday as the US dollar strengthened and investors assessed the possibility of further interest rate increases by the Federal Reserve follo\u2026 [+3061 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abcnews.com"
-      },
-      "author": "HANNA ARHIROVA Associated Press, BARRY HATTON Associated Press",
-      "title": "Russia and Ukraine trade deadly strikes as Zelenskyy prepares to meet Trump",
-      "description": "Officials say Russia has bombarded at least four Ukrainian regions with missiles and drones in that attacks that have killed four people",
-      "url": "https://abcnews.com/International/wireStory/russia-ukraine-trade-deadly-strikes-zelenskyy-prepares-meet-136642887",
-      "urlToImage": "https://i.abcnewsfe.com/a/892f4d67-410d-41a6-9fe6-48cd6ca0b09e/wirestory_9c3d38e7e97132884f915e157dbf9ef1_16x9.jpg?w=1600",
-      "publishedAt": "2026-09-22T09:42:48Z",
-      "content": "KYIV, Ukraine -- Russia bombarded at least four Ukrainian regions overnight with missiles and drones, killing four people, officials said Tuesday, and Ukraines forces damaged another Russian oil refi\u2026 [+4117 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Israelnationalnews.com"
-      },
-      "author": "Israel National News",
-      "title": "Defense Minister: 'If even one Israeli is captured, Gaza City will be emptied'",
-      "description": "Defense Minister Israel Katz issued a series of sharp warnings to Hamas and its supporters, including Iran and Turkish President Recep Tayyip Erdogan.",
-      "url": "https://www.israelnationalnews.com/news/433479",
-      "urlToImage": "https://2.a7.org/files/pictures/000/1183840.jpg",
-      "publishedAt": "2026-09-22T09:41:33Z",
-      "content": "At a memorial ceremony Tuesday for the fallen of the Yom Kippur War at the State Memorial Hall on Mount Herzl, Defense Minister Israel Katz issued a series of sharp warnings to Hamas and its supporte\u2026 [+1471 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Radio Free Europe/ Radio Liberty"
-      },
-      "author": "RFE/RL's Radio Farda",
-      "title": "Jailed Iranian-American Journalist Reza Valizadeh Marks Two Years Behind Bars",
-      "description": "Reza Valizadeh, a dual US-Iranian citizen and former journalist for RFE/RL's Radio Farda, is marking two years behind bars in Iran.",
-      "url": "https://www.rferl.org/a/reza-valizadeh-iran-journalist-political-prisoner/33860588.html",
-      "urlToImage": "https://gdb.rferl.org/1943d605-7ceb-434d-a647-63eef682d1ac_cx7_cy4_cw92_w1200_h630.jpg",
-      "publishedAt": "2026-09-22T09:41:23Z",
-      "content": "Reza Valizadeh, a dual US-Iranian citizen and former journalist for RFE/RL's Radio Farda, is marking two years behind bars in Iran.\r\nValizadeh was sentenced to 10 years in prison on charges of \"colla\u2026 [+2374 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Advfn.com"
-      },
-      "author": "Fiona Craig",
-      "title": "Oil Prices Rebound as Traders Monitor US-Iran Diplomacy and Saudi Supply Flows",
-      "description": "Oil prices rose on Tuesday after four consecutive sessions of losses, as investors assessed the possibility of renewed talks between the United States and Ir...",
-      "url": "https://investorshub.advfn.com/market-news/article/36670/oil-prices-rebound-as-traders-monitor-us-iran-diplomacy-and-saudi-supply-flows",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/d2f49a20864624de75ef85b91d1a6c73c734b7a7f77ea87879ce400acd506c47/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finvestorshub_458%2F3a2df1311b1913e0207a798096e0851e.png",
-      "publishedAt": "2026-09-22T09:40:21Z",
-      "content": "Oil pump at dusk \u00a9PickPik\r\nOil prices rose on Tuesday after four consecutive sessions of losses, as investors assessed the possibility of renewed talks between the United States and Iran alongside de\u2026 [+4265 chars]"
-    },
-    {
-      "source": {
-        "id": "rt",
-        "name": "RT"
-      },
-      "author": "RT",
-      "title": "\u2018Incurable headache\u2019 to enemies: North Korea tests new weapon system (PHOTOS)",
-      "description": "North Korea has tested what it described as a new type of short-range ballistic missile, which Supreme Leader Kim Jong-un said would be an \u201cincurable headache\u201d for the nation\u2019s enemies",
-      "url": "https://www.rt.com/news/646075-north-korea-new-missile/",
-      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6ab22b7a2030270e3033fa0c.jpg",
-      "publishedAt": "2026-09-22T09:30:20Z",
-      "content": "North Korea\u2019s missile agency has tested a \u201cnew-type weapon,\u201d according to Pyongyang\u2019s state media. Seoul said two short-range ballistic missiles were fired on Sunday toward the Sea of Japan.\r\nNorth K\u2026 [+2458 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Crypto Briefing"
-      },
-      "author": "Estefano Gomez",
-      "title": "Brent oil drops below $100 as Iran offers to reopen Strait of Hormuz",
-      "description": "Iran's offer could stabilize oil prices, impacting global markets and geopolitical dynamics, while reducing the likelihood of price surges.\nThe post Brent oil drops below $100 as Iran offers to reopen Strait of Hormuz appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/brent-oil-drops-below-100-as-iran-offers-to-reopen-strait-of-hormuz/",
-      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/08093645/pexels-photo-16862261-699x457.jpeg",
-      "publishedAt": "2026-09-22T09:28:09Z",
-      "content": "Brent crude oil prices have dipped below $100 per barrel following Iran\u2019s offer to reopen the Strait of Hormuz if the United States lifts its blockade and halts military actions. This development cou\u2026 [+2462 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "AP",
-      "title": "Andy Burnham seeks common ground with Trump at UN, pitches UK as major AI player",
-      "description": "British Prime Minister Andy Burnham meets President Trump and addresses the UN General Assembly.  He will urge increased US support for Ukraine and discuss Middle East conflicts.  Burnham also plans to signal Britain's move beyond Brexit-related discord with \u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/andy-burnham-meets-trump-uk-pm-promotes-ai-leadership-and-urges-us-support-for-ukraine-at-un/articleshow/134408159.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134408244,width-1200,height-630,imgsize-44966,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-22T09:20:00Z",
-      "content": "New York: British Prime Minister Andy Burnham faces a double test on the world stage Tuesday when he meets US President Donald Trump for the first time and addresses the United Nations General Assemb\u2026 [+3378 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Chloe Taylor",
-      "title": "U.S. Treasury yields ease as investors await fresh jobs data, Fed comments",
-      "description": "Economic data, the Iran war and looming UN meetings are in focus.",
-      "url": "https://www.cnbc.com/2026/09/22/treasury-yield-us-bond-market-trump.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108364036-17895893572026-09-16t200737z_126985946_rc2iknasv7pe_rtrmadp_0_usa-fed-stocks.jpeg?v=1789589422&w=1920&h=1080",
-      "publishedAt": "2026-09-22T09:16:10Z",
-      "content": "U.S. Treasury yields eased early Tuesday as investors awaited new clues on the state of the U.S. economy. \r\nShortly after 5 a.m. ET, the yield on the benchmark 10-year Treasury note was 2 basis point\u2026 [+1862 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The American Prospect"
-      },
-      "author": "Ryan Cooper",
-      "title": "War Has Never Been More Irrational",
-      "description": "Yet right-wing leaders like Trump and Putin keep starting them.\nThe post War Has Never Been More Irrational appeared first on The American Prospect.",
-      "url": "https://prospect.org/2026/09/22/irrational-war-trump-putin-russia-ukraine-iran-oil/",
-      "urlToImage": "https://i0.wp.com/prospect.org/wp-content/uploads/2026/09/Cooper-Russia-Ukraine-092226.jpg?fit=2000%2C1333&ssl=1",
-      "publishedAt": "2026-09-22T09:15:00Z",
-      "content": "In 1910, the British journalist Norman Angell published a book called The Great Illusion, in which he argued that recent economic developments had made war a senseless proposition. Economic relations\u2026 [+7165 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "OilPrice.com"
-      },
-      "author": "Tsvetana Paraskova",
-      "title": "India\u2019s Oil Import Bill Jumps 48% as Crude Prices Soar",
-      "description": "India paid $24.4 billion more on crude oil purchases between April and August compared to a year earlier as the spikes in international oil prices raised the import bill by 48% despite a 0.4% decline in volumes, government data showed on Tuesday. The oil pric\u2026",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Oil-Import-Bill-Jumps-48-as-Crude-Prices-Soar.html",
-      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-22_pyflxbaiuq.jpg",
-      "publishedAt": "2026-09-22T09:15:00Z",
-      "content": "Chinese solar panels have fallen\u2026\r\nOil above $100 is pushing\u2026\r\nSet us as your preferred Google source\r\nBy Tsvetana Paraskova - Sep 22, 2026, 4:15 AM CDTIndia paid $24.4 billion more on crude oil purc\u2026 [+1845 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Tsvetana Paraskova",
-      "title": "India\u2019s Oil Import Bill Jumps 48% as Crude Prices Soar",
-      "description": "India\u2019s crude oil import bill jumped 48.4% to $74.8 billion in April-August as higher oil and shipping costs overwhelmed a slight decline in import volumes.",
-      "url": "https://finance.yahoo.com/energy/articles/india-oil-import-bill-jumps-091500228.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/79885d6905f749e96c908b3a5e32914298a7e445cfabc448ca4c968ec60423c6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Foilprice.com%2Ff94b26c2c0dac655af65eaf360b7fcc2.jpg",
-      "publishedAt": "2026-09-22T09:15:00Z",
-      "content": "India paid $24.4 billion more on crude oil purchases between April and August compared to a year earlier as the spikes in international oil prices raised the import bill by 48% despite a 0.4% decline\u2026 [+2220 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "semafor.com",
-      "title": "Saudi-Houthi conflict poised to escalate",
-      "description": "The conflict between Saudi Arabia and the Iran-backed Houthis is \u201centering a new phase,\u201d one security expert warned, after Houthi fighters struck Riyadh and its airport over the weekend and the State Department issued a region-wide security alert for US citiz\u2026",
-      "url": "https://biztoc.com/x/207d20ce0638faf8",
-      "urlToImage": "https://biztoc.com/cdn/207d20ce0638faf8_s.webp",
-      "publishedAt": "2026-09-22T09:05:41Z",
-      "content": "The conflict between Saudi Arabia and the Iran-backed Houthis is entering a new phase, one security expert warned, after Houthi fighters struck Riyadh and its airport over the weekend and the State D\u2026 [+140 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "ms.now",
-      "title": "\u2018Pain for Trump\u2019: Iran is trying to escalate the war before the midterms",
-      "description": "President Donald Trump has hesitated in recent days to expand the war against Iran, even as Iranian-backed proxies in Yemen have driven up oil prices by escalating attacks against Saudi Arabia and threatening tanker traffic in the Red Sea.\nAt the same time, I\u2026",
-      "url": "https://biztoc.com/x/f224e114fce330ce",
-      "urlToImage": "https://biztoc.com/cdn/f224e114fce330ce_s.webp",
-      "publishedAt": "2026-09-22T09:05:24Z",
-      "content": "President Donald Trump has hesitated in recent days to expand the war against Iran, even as Iranian-backed proxies in Yemen have driven up oil prices by escalating attacks against Saudi Arabia and th\u2026 [+136 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Trump to zero-in on Iran nuclear threat, Gaza plan and UN overhaul in world stage speech",
-      "description": "President Donald Trump addresses the United Nations General Assembly amid Iran tensions before pivoting to White House talks with China's Xi Jinping.",
-      "url": "https://www.foxnews.com/politics/trump-zero-in-iran-nuclear-threat-gaza-plan-un-overhaul-world-stage-speech",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/trump-speak-un.jpg",
-      "publishedAt": "2026-09-22T09:00:51Z",
-      "content": "NEW YORK President Donald Trump will take the world stage Tuesday facing a convergence of wars and geopolitical challenges that could define his second-term foreign policy, from the conflict with Ira\u2026 [+3257 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "LIZ PEEK: Can Trump Make the UN Great Again despite its globalist agenda?",
-      "description": "A new Gallup poll shows 73% of Americans say the UN fails at maintaining peace and security as Trump prepares to address the General Assembly.",
-      "url": "https://www.foxnews.com/opinion/liz-peek-can-trump-make-un-great-again-despite-globalist-agenda",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/trump-speak-un.jpg",
-      "publishedAt": "2026-09-22T09:00:45Z",
-      "content": "Today, President Trump will address the UN General Assembly. As New Yorkers fume over traffic nightmares created by the president and by hordes of visiting diplomats, they may (again) question, as do\u2026 [+6321 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Jennifer Agiesta",
-      "title": "Republican support for Trump\u2019s handling of war in Iran shows cracks in new CNN poll | CNN Politics",
-      "description": "Americans\u2019 opposition to the war in Iran has hardened, according to a new CNN poll conducted by SSRS, with almost two-thirds saying the US is not winning the conflict and more saying President Donald Trump isn\u2019t doing enough to end it.",
-      "url": "https://www.cnn.com/2026/09/22/politics/cnn-poll-donald-trump-foreign-affairs-iran-war",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2026-07-31t161830z-140008250-rc24pmai8af7-rtrmadp-3-usa-trump.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-09-22T09:00:29Z",
-      "content": "Americans opposition to the war in Iran has hardened, according to a new CNN poll conducted by SSRS, with almost two-thirds saying the US is not winning the conflict and more saying President Donald \u2026 [+5027 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thenation.com"
-      },
-      "author": "Chris Lehmann",
-      "title": "Trump Wants to Keep Journalists Out of the White House. He Should Get His Wish.",
-      "description": "Chris Lehmann\n\n\n\nThe president has banned MS NOW, CNN, and Politico from attending press briefings. The rest of the media should respond with a boycott.\r\n\n\r\n\n\nThe post Trump Wants to Keep Journalists Out of the White House. He Should Get His Wish. appeared fi\u2026",
-      "url": "https://www.thenation.com/?post_type=article&p=610209",
-      "urlToImage": "https://www.thenation.com/wp-content/uploads/2026/09/GettyImages-2295495761.jpeg",
-      "publishedAt": "2026-09-22T09:00:00Z",
-      "content": "Politics / September 22, 2026\r\nThe president has banned MS NOW, CNN, and Politico from attending press briefings. The rest of the media should respond with a boycott.\r\nAd Policy\r\nThe White House Brie\u2026 [+7702 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Abigail Williams, Tara Prindiville, Raquel Coronell Uribe",
-      "title": "Trump to address the United Nations General Assembly as Iran war rumbles on",
-      "description": "President Donald Trump will deliver a speech to the United Nations General Assembly in New York City on Tuesday.",
-      "url": "https://www.nbcnews.com/politics/trump-administration/trump-address-united-nations-general-assembly-iran-war-rcna599085",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260921-president-trump-vsb-1621-1819ba.jpg",
-      "publishedAt": "2026-09-22T09:00:00Z",
-      "content": "President Donald Trump will deliver a speech to the United Nations General Assembly in New York City on Tuesday.\r\nU.N. Ambassador Mike Waltz told reporters that Trumps remarks would highlight peace d\u2026 [+2669 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thenation.com"
-      },
-      "author": "David Faris",
-      "title": "The GOP\u2019s Incredible Shrinking Senate Map",
-      "description": "David Faris\n\n\n\nTrump has so badly damaged the Republican Party\u2019s brand that strategists are contemplating bitter fights\u2014and losses\u2014in races they\u2019d been banking on as sure things. \r\n\n\r\n\n\nThe post The GOP\u2019s Incredible Shrinking Senate Map appeared first on The \u2026",
-      "url": "https://www.thenation.com/?post_type=article&p=610223",
-      "urlToImage": "https://www.thenation.com/wp-content/uploads/2026/09/TrumpPout.jpg",
-      "publishedAt": "2026-09-22T09:00:00Z",
-      "content": "Politics / September 22, 2026\r\nTrump has so badly damaged the Republican Partys brand that strategists are contemplating bitter fightsand lossesin races theyd been banking on as sure things. \r\nAd Pol\u2026 [+12155 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thenation.com"
-      },
-      "author": "Sophie Mann-Shafir",
-      "title": "As Morale Sags, More Military Service Members\u00a0Are Having a Crisis of Conscience",
-      "description": "Sophie Mann-Shafir\n\n\nAccording to multiple GI rights organizations, service members are inquiring about seeking conscientious objector status in unprecedented numbers. \r\n\n\r\n\n\nThe post As Morale Sags, More Military Service Members\u00a0Are Having a Crisis of Consci\u2026",
-      "url": "https://www.thenation.com/?post_type=article&p=610058",
-      "urlToImage": "https://www.thenation.com/wp-content/uploads/2026/09/peace-protest-iran-war-gt-img.jpg",
-      "publishedAt": "2026-09-22T09:00:00Z",
-      "content": "Politics / September 22, 2026\r\nAccording to multiple GI rights organizations, service members are inquiring about seeking conscientious objector status in unprecedented numbers. \r\nAd Policy\r\nIn April\u2026 [+21265 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DW (English)"
-      },
-      "author": "Mark Hallam, Felix Tamsut, Jon Shelton",
-      "title": "UN General Assembly opens with Macron, Trump, Erdogan, Lula, others in NYC",
-      "description": "Donald Trump hailed his own record and hinted at a chance for peace in Iran and Ukraine. Turkey's president called for more pressure on Israel. UN leaders called for more global interdependence. DW has the latest. UN Secretary General Antonio Guterres officia\u2026",
-      "url": "https://www.dw.com/en/un-general-assembly-opens-with-macron-trump-erdogan-lula-others-in-nyc/live-79366211",
-      "urlToImage": "https://static.dw.com/image/79381078_6.jpg",
-      "publishedAt": "2026-09-22T08:55:00Z",
-      "content": "Macron argued that respect for Palestinian rights and the sovereignty of neighboring countries also comprised a key pillar of Israeli securityImage: Mike Segar/REUTERS\r\nFrench President Emmanuel Macr\u2026 [+2399 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DW (English)"
-      },
-      "author": "Jon Shelton",
-      "title": "UNGA: Leaders gather as General Assembly kicks off",
-      "description": "World leaders have begun gathering in New York for the UN General Assembly. US President Trump will address the body on Tuesday, as will his Finnish, French and Turkish counterparts. Follow DW for the latest.",
-      "url": "https://www.dw.com/en/unga-leaders-gather-as-general-assembly-kicks-off/live-79366211",
-      "urlToImage": "https://static.dw.com/image/79365675_6.jpg",
-      "publishedAt": "2026-09-22T08:55:00Z",
-      "content": "United Nations Secretary General Antonio Guterres and Assembly President Khalilur Rahmanwill open the UN's 81st General Assembly (UNGA) in New York on Tuesday morning as world leaders gather for thei\u2026 [+927 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DW (English)"
-      },
-      "author": "Wesley Dockery, Mark Hallam, Felix Tamsut, Jon Shelton",
-      "title": "UNGA: Trump and world leaders discuss global conflicts",
-      "description": "Donald Trump hailed his own record and hinted at a chance for peace in Iran and Ukraine. Turkey's president called for more pressure on Israel. UN leaders called for more global interdependence. DW has the latest.",
-      "url": "https://www.dw.com/en/unga-trump-and-world-leaders-discuss-global-conflicts/live-79366211",
-      "urlToImage": "https://static.dw.com/image/79381078_6.jpg",
-      "publishedAt": "2026-09-22T08:55:00Z",
-      "content": "Macron argued that respect for Palestinian rights and the sovereignty of neighboring countries also comprised a key pillar of Israeli securityImage: Mike Segar/REUTERS\r\nFrench President Emmanuel Macr\u2026 [+2399 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Anupam Nagar",
-      "title": "Global Market: Eurozone bond yields rise as oil prices rebound above $100",
-      "description": "Eurozone government bond yields rose on Tuesday as Brent crude rebounded above $100 a barrel amid escalating Middle East tensions. German 10-year yields rose 3 basis points to 3.481%, while French and Italian yields climbed 4 basis points as investors weighed\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bond-yields-rise-as-oil-prices-rebound-above-100/articleshow/134407409.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134407477,width-1200,height-630,imgsize-40988,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-22T08:39:45Z",
-      "content": "Eurozone government bond yields rose on Tuesday, partly reversing the sharp declines seen in the previous session, as oil prices recovered after falling below $100 a barrel and renewed Middle East te\u2026 [+2669 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Standard"
-      },
-      "author": "Capital Market",
-      "title": "Benchmarks hit fresh intraday low; Europe opens in the green",
-      "description": "The benchmark indices tumbled further and hit fresh intraday low in afternoon trade as continuous foreign fund outflows and geopolitical concerns weighed on sentiment despite easing crude oil prices. The Nifty traded below the 23,350 level.",
-      "url": "https://www.business-standard.com/markets/capital-market-news/benchmarks-hit-fresh-intraday-low-europe-opens-in-the-green-126092200587_1.html",
-      "urlToImage": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
-      "publishedAt": "2026-09-22T08:34:02Z",
-      "content": "The benchmark indices tumbled further and hit fresh intraday low in afternoon trade as continuous foreign fund outflows and geopolitical concerns weighed on sentiment despite easing crude oil prices.\u2026 [+3555 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Michelle Grattan, Professorial Fellow, University of Canberra",
-      "title": "Politics with Michelle Grattan: Jim Chalmers warns rising debt bills are set to hit the budget",
-      "description": "The treasurer says there\u2019s \u2018likely to be billions of dollars extra\u2019 in higher bills on government debt in December\u2019s budget update.",
-      "url": "https://theconversation.com/politics-with-michelle-grattan-jim-chalmers-warns-rising-debt-bills-are-set-to-hit-the-budget-292589",
-      "urlToImage": "https://images.theconversation.com/files/761337/original/file-20260922-50-biitlf.jpg?ixlib=rb-4.1.1&rect=0%2C321%2C3000%2C1500&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2026-09-22T08:31:08Z",
-      "content": "Australia\u2019s next budget update, being delivered just before Christmas, is set to be hit by what\u2019s \u201clikely to be billions of dollars extra\u201d in higher interest bills on government borrowing, federal Tr\u2026 [+6847 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "By Anushree Mukherjee",
-      "title": "Oil prices climb ahead of potential US-Iran talks",
-      "description": "By Anushree Mukherjee LONDON, Sept 22 (Reuters) - Oil prices gained on Tuesday after declining for four consecutive sessions as investors awaited development...",
-      "url": "https://finance.yahoo.com/energy/articles/oil-rises-slightly-ahead-potential-003404571.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/2e392cb89efb9311e5095aff370ec5a7350b14313b61d0f1726098fc001718f2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fafb392ed45409715661e9fa2f1adcf8f.jpg",
-      "publishedAt": "2026-09-22T08:26:53Z",
-      "content": "By Anushree Mukherjee\r\nLONDON, Sept 22 (Reuters) - Oil prices gained on Tuesday after declining for four consecutive sessions as investors awaited developments on potential US-Iran talks at the Unite\u2026 [+2423 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abcnews.com"
-      },
-      "author": "JILL LAWLESS Associated Press",
-      "title": "Andy Burnham seeks common ground with Trump at the UN and pitches the UK as a major AI player",
-      "description": "British Prime Minister Andy Burnham is facing a big test on the world stage",
-      "url": "https://abcnews.com/US/wireStory/andy-burnham-seeks-common-ground-trump-pitches-uk-136642170",
-      "urlToImage": "https://i.abcnewsfe.com/a/72838d56-eb7d-4f0f-b9a6-0a839669e8b6/wirestory_4d8b92508638bd0db3f64e44779895aa_12x5.jpg?w=1600",
-      "publishedAt": "2026-09-22T08:16:24Z",
-      "content": "NEW YORK -- British Prime Minister Andy Burnham faces a double test on the world stage Tuesday when he meets U.S. President Donald Trump for the first time and addresses the United Nations General As\u2026 [+3282 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Israelnationalnews.com"
-      },
-      "author": "Israel National News",
-      "title": "Israeli sentenced to 4.5 years for spying on Defense Minister",
-      "description": "A Haifa court sentenced Pars Abu al-Hij'a to four and a half years in prison after he admitted to carrying out missions for an Iranian intelligence agent.",
-      "url": "https://www.israelnationalnews.com/news/433477",
-      "urlToImage": "https://2.a7.org/files/pictures/000/1131445.jpg",
-      "publishedAt": "2026-09-22T08:14:35Z",
-      "content": "The Haifa Magistrates Court on Tuesday sentenced Pars Abu al-Hij'a, a 32-year-old resident of Jisr az-Zarqa, to four and a half years in prison for offenses involving contact with an Iranian foreign \u2026 [+1190 chars]"
+      "author": "Arden Dier with Newser.AI",
+      "title": "Saudi Arabia Forced Back to Perilous Hormuz",
+      "description": "Saudi Arabia's detours around the Strait of Hormuz aren't quite working out. After months of pushing oil west via pipelines and the Red Sea, Riyadh is again sending millions of barrels a day through Hormuz in what the Wall Street Journal calls a \"risky\" move \u2026",
+      "url": "https://www.newser.com/story/396846/saudi-arabia-forced-back-to-perilous-hormuz.html",
+      "urlToImage": "https://cdn.newser.com/image/1713172-12-20260922105503.jpeg",
+      "publishedAt": "2026-09-22T15:34:00Z",
+      "content": "That's left state giant Saudi Aramco leaning on a precarious workaround: loading crude at Ras Tanura in the Persian Gulf, running tankers through Hormuz, then transferring oil to ships off Oman for c\u2026 [+443 chars]"
     },
     {
       "source": {
@@ -736,272 +73,38 @@
         "name": "RTE"
       },
       "author": "RT\u00c9 News",
-      "title": "TUI narrows its operating profit outlook for 2026",
-      "description": "Germany's TUI today narrowed its outlook for 2026 underlying operating earnings, saying war in the Middle East meant customers were making later bookings, although demand was strong into the fourth quarter.",
-      "url": "https://www.rte.ie/news/business/2026/0922/1592471-tui-narrows-its-operating-profit-outlook-for-2026/",
-      "urlToImage": "https://www.rte.ie/images/00120f26-1600.jpg",
-      "publishedAt": "2026-09-22T08:11:02Z",
-      "content": "Germany's TUI today narrowed its outlook for 2026 underlying operating earnings, saying war in the Middle East meant customers were making later bookings, although demand was strong into the fourth q\u2026 [+1223 chars]"
+      "title": "Donald Trump's UN speech was a tale of war and peace",
+      "description": "The US President opened his speech by getting what he sees as the obvious out of the way. That the United States was the strongest country in the world.",
+      "url": "https://www.rte.ie/news/2026/0922/1592556-trump-un-speech/",
+      "urlToImage": "https://www.rte.ie/images/00246ff9-1600.jpg",
+      "publishedAt": "2026-09-22T15:30:40Z",
+      "content": "The US President opened his speech by getting what he sees as the obvious out of the way.\r\nThat the United States was the strongest country in the world.\r\n\"America is back,\" he declared, with the gre\u2026 [+3251 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Europa.eu"
+        "name": "Raw Story"
       },
-      "author": "marianna.lianantonaki@iss.europa.eu",
-      "title": "Building together: How Europe and Ukraine should deepen their defence industrial partnership",
-      "description": "Building together: How Europe and Ukraine should deepen their defence industrial partnership\nmarianna.liana\u2026\nTue, 09/22/2026 - 10:07\n\n\n 10 minutes\n \n From assistance to integration\r\n\nEU-Ukraine defence-industrial cooperation is moving from a logic of support \u2026",
-      "url": "https://www.iss.europa.eu/publications/briefs/building-together-how-europe-and-ukraine-should-deepen-their-defence-industrial",
-      "urlToImage": "https://www.iss.europa.eu/sites/default/files/2026-09/extreme-close-up-of-interlocking-industrial-gears-2026-03-18-20-40-35-utc.jpg",
-      "publishedAt": "2026-09-22T08:07:13Z",
-      "content": "From assistance to integration\r\nEU-Ukrainedefence-industrial cooperation is moving from a logic of support to one of partnership. Following Russias full-scale invasion in 2022, European support initi\u2026 [+13921 chars]"
+      "author": "John Casey",
+      "title": "Trump just openly told the UN he's cornered \u2014 and a deranged attack is imminent",
+      "description": "Today Donald Trump asked a seemingly rhetorical question to the UN General Assembly: Do I annihilate the Islamic Republic of Iran? Do I drive them into hell?But if you\u2019ve been watching Trump especially close lately, you should not categorize those as rhetoric\u2026",
+      "url": "https://www.rawstory.com/raw-investigates/trump-un-iran/",
+      "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=67811490&width=1200&height=600&coordinates=0%2C416%2C0%2C417",
+      "publishedAt": "2026-09-22T15:30:25Z",
+      "content": "Today Donald Trump asked a seemingly rhetorical question to the UN General Assembly: Do I annihilate the Islamic Republic of Iran? Do I drive them into hell?\r\nBut if youve been watching Trump especia\u2026 [+5810 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "HuffPost"
+        "name": "New York Post"
       },
-      "author": "HuffPost",
-      "title": "China's Xi Expected To Press Trump To Halt Taiwan Arms Sales Under 1982 Agreement: Reuters",
-      "description": "The U.S. is bound by law to provide democratically-governed Taiwan with the means to defend itself, despite the lack of formal diplomatic relations.",
-      "url": "https://www.huffpost.com/entry/xi-trump-taiwan-arms-sales_n_6ab234a0e4b08976697b5868",
-      "urlToImage": "https://img.huffingtonpost.com/asset/6ab2353a1800000840f14ab9.jpeg?cache=y08L6BDaAv&ops=1200_630",
-      "publishedAt": "2026-09-22T08:02:10Z",
-      "content": "WASHINGTON, Sept 22 (Reuters) - Chinas Xi Jinping is expected to press U.S. President Donald Trump to halt Taiwan arms sales under a 1982 joint statement during a visit to Washington this week, which\u2026 [+5035 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Www.gov.uk"
-      },
-      "author": "Department for Energy Security and Net Zero",
-      "title": "70th IAEA General Conference: UK national statement",
-      "description": "Minister Michael Shanks delivered the UK's National Statement at the International Atomic Energy Agency's 2026 General Conference.",
-      "url": "https://www.gov.uk/government/speeches/70th-iaea-general-conference-uk-national-statement",
-      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-      "publishedAt": "2026-09-22T08:00:03Z",
-      "content": "Mr President,\r\nWarmest congratulations on your appointment. The United Kingdom looks forward to working closely with you and wishes you every success.\r\nThank you also to the Director General and Secr\u2026 [+6136 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Anupam Nagar",
-      "title": "Global Market: Diesel prices surge to record highs as wars squeeze global fuel supplies",
-      "description": "Global diesel markets are facing mounting supply pressures as refinery outages, export curbs and shipping disruptions reduce availability across Europe, the US and Asia. With inventories below seasonal norms and refineries already running at high utilisation \u2026",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-diesel-prices-surge-to-record-highs-as-wars-squeeze-global-fuel-supplies/articleshow/134406432.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134406494,width-1200,height-630,imgsize-31710,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-22T07:52:32Z",
-      "content": "Diesel prices in Europe and the United States have surged to record levels as disruptions linked to the wars in Iran and Ukraine curb exports from major producers and leave global refineries with lim\u2026 [+4467 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Debaroti Adhikary",
-      "title": "US stock market rally explained: Why did Nasdaq climb 2% to close at a fresh record high?",
-      "description": "Wall Street rallied sharply on Monday, with the Nasdaq gaining over 2% to a record close as easing oil prices and Treasury yields supported sentiment, while chip stocks surged on renewed optimism around AI spending.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-rally-explained-why-did-nasdaq-climb-2-to-close-at-a-fresh-record-high/articleshow/134406348.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134406417,width-1200,height-630,imgsize-341114,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-22T07:52:07Z",
-      "content": "Wall Street recorded sharp gains on Monday, with the tech-heavy Nasdaq rallying more than 2% to close at a record high level as oil prices cooled down, Treasury yields eased, and chip stocks soared.N\u2026 [+2751 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Moncef Khane",
-      "title": "Undermining the UN is not a new US policy",
-      "description": "While acting as the official host for the UN, the US has sought to weaken it for decades.",
-      "url": "https://www.aljazeera.com/opinions/2026/9/22/undermining-the-un-is-not-a-new-us-policy",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP8409240473-1790062675_a145c2-1790062945.jpg?resize=1200%2C630&quality=80",
-      "publishedAt": "2026-09-22T07:42:37Z",
-      "content": "The annual general debate of the United Nations General Assembly (UNGA) starts on Tuesday morning in New York amid dire circumstances. Besides traffic gridlock and overpriced hotel rates, cavalcades \u2026 [+5319 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Israelnationalnews.com"
-      },
-      "author": "Nachum Kaplan",
-      "title": "An eight-step guide to blaming Israel",
-      "description": "How to explain the Middle East without the inconvenience of history, complexity or Palestinian agency. Opinion.",
-      "url": "https://www.israelnationalnews.com/news/433475",
-      "urlToImage": "https://2.a7.org/files/pictures/000/1225303.jpg",
-      "publishedAt": "2026-09-22T07:26:19Z",
-      "content": "Nachum Kaplan is a journalist and commentator. He has 25 years media experience and held senior international roles at Reuters and IFR. He holds a B.A. in Politics and Indonesian from Monash Universi\u2026 [+13374 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNA"
-      },
-      "author": null,
-      "title": "Trump returns to UN at a moment of anxiety about Iran, AI and the future of world body itself",
-      "description": "US President Donald Trump returns to the General Assembly nearing the seven-month mark of a new war against Iran that he insists is necessary to address a nuclear threat.",
-      "url": "https://www.channelnewsasia.com/world/us-trump-un-iran-war-ai-6401241",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--_bOBDMgm--/c_crop,h_449,w_799,x_1,y_1/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-22T052531Z_2_LYNXMPEM8L07F_RTROPTP_3_UN-ASSEMBLY-TRUMP.JPG?itok=U-FeqwVY",
-      "publishedAt": "2026-09-22T07:22:00Z",
-      "content": "IRAN WAR TO LOOM LARGE\r\nIn last year's address at the UN, Trump claimed the US had demolished Iran's nuclear capabilities after he ordered the June 2025 bombardment of three key facilities.\r\nHe retur\u2026 [+2683 chars]"
-    },
-    {
-      "source": {
-        "id": "the-irish-times",
-        "name": "The Irish Times"
-      },
-      "author": "Jack Horgan-Jones",
-      "title": "Pressure unusually high on Harris and Chambers for budget they dare not mess up",
-      "description": "Inside Politics: Junior minister to attend gala dinner in New York to celebrate the deceleration of sea-level rises",
-      "url": "https://www.irishtimes.com/politics/2026/09/22/pressure-unusually-high-on-simon-harris-and-jack-chambers-for-budget-they-dare-not-mess-up/",
-      "urlToImage": "https://www.irishtimes.com/resizer/v2/LPZGBDHPXHWQP2QQJVQBWSDKEI.jpg?smart=true&auth=ab0a632abba27e0b635a8ed45c73b5a8ae90714d64b26ddc81457dac20419dc6&width=1200&height=630",
-      "publishedAt": "2026-09-22T07:20:00Z",
-      "content": "Good morning.\r\nThat ticking sound you can hear is the clock running down to Budget 2027. Two weeks from now, the printing presses will be busily churning out the last copies of the budget books and w\u2026 [+6263 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Haaretz"
-      },
-      "author": "Reuters",
-      "title": "G7 foreign ministers urge Iran to stop arming Houthis in Yemen",
-      "description": "The ministers condemned Houthi attacks on Saudi Arabia and commercial shipping, warning that the escalation threatens international trade and global stability",
-      "url": "https://www.haaretz.com/middle-east-news/2026-09-22/ty-article/g7-foreign-ministers-urge-iran-to-stop-arming-houthis-in-yemen/000001a0-c7ef-d01a-a1ab-efff1c580000",
-      "urlToImage": "https://img.haarets.co.il/bs/000001a0-c7ef-d01a-a1ab-efff1c580000/e2/a6/27e817814db18cfb288d9b015e38/472916.jpg?&width=1200&height=630&cmsprod",
-      "publishedAt": "2026-09-22T07:10:52Z",
-      "content": "The ministers condemned Houthi attacks on Saudi Arabia and commercial shipping, warning that the escalation threatens international trade and global stability"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Standard"
-      },
-      "author": "Unis Ahmad Dar",
-      "title": "SAP must restore Nayara Energy services, Delhi HC says EU sanctions no bar",
-      "description": "SAP-Nayara Energy Dispute: The court observed that SAP India's suspension of critical software support was prima facie in breach of its contract with Nayara Energy",
-      "url": "https://www.business-standard.com/india-news/sap-restore-nayara-energy-services-delhi-hc-eu-sanctions-126092200448_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2016-11/30/thumb/fitandfill/1200X628/1480505262-5951.jpg",
-      "publishedAt": "2026-09-22T07:08:21Z",
-      "content": "The court observed that SAP India's suspension of critical software support was prima facie in breach of its contract with Nayara Energy\r\nThe court observed that SAP Indias suspension of critical sof\u2026 [+4684 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TheJournal.ie"
-      },
-      "author": "Press Association",
-      "title": "Burnham could have awkward first meeting with Trump after Irish unification comments",
-      "description": "But the special relationship is as strong as ever, Burnham says, claiming he can trust Trump.",
-      "url": "https://www.thejournal.ie/trump-un-general-assembly-speech-7169176-Sep2026/",
-      "urlToImage": "https://img2.thejournal.ie/article/7169176/river/?height=400&version=7169193",
-      "publishedAt": "2026-09-22T06:55:03Z",
-      "content": "ANDY BURNHAM AND Donald Trump will give speeches to the United Nations Assembly in New York today after the pair meet face-to-face for the first time since the British prime minister took office.\r\nBu\u2026 [+4018 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dailymail.com"
-      },
-      "author": "Nicholas Comino",
-      "title": "Calls for controversial Twitch star Hasan Piker to be banned from Australia over 'obscene' comments",
-      "description": "The Coalition has called for US streamer Hasan Piker to be banned from entering Australia.",
-      "url": "https://www.dailymail.com/news/article-16150177/hasan-piker-australia-visa-ban-jonathan-duniam-twitch.html",
-      "urlToImage": "https://i.dailymail.com/1s/2026/09/22/07/111391547-0-image-m-20_1790058360279.jpg",
-      "publishedAt": "2026-09-22T06:51:05Z",
-      "content": "Shadow Home Affairs Minister Jonathan Duniam has called for streamer Hasan Piker to be barred from Australia, claiming his history of controversial comments warrants scrutiny under migration laws.\r\nP\u2026 [+5393 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Blogspot.com"
-      },
-      "author": "noreply@blogger.com (Unknown)",
-      "title": "Middle East Council on Global Affairs: The Gulf\u2019s New, Evolving Layers of Security",
-      "description": "The \u2018Forty-Day War\u2019 has revealed that Gulf security can no longer depend on external guarantees, but requires indigenous capabilities and multi-layered deterrence.September 16, 2026Zafer Muhammad AlajmiGulf security has entered a new era that has exposed the \u2026",
-      "url": "https://i-epikaira.blogspot.com/2026/09/middle-east-council-on-global-affairs.html",
-      "urlToImage": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vBqOZU5IYdwBZ60sHXl7x3oEO3SX7pMNf01n2uZ-Xd6AYm2BPr1p0A6lHmZml534ZqhM6mlfp-HMZHO0ttBvMaBstpMk2DlGP_aq99LdI4Wrdmf2s_VM2pXFtShf7qif6BYON8HuO4BBXsK33WiUMma7xxuqUQh3mI8c4xJwZSk-gvwcFpdWVg0hzZWIW_SPXuUlIPi8Bh81Om0oC_4lvV2j8IQBRvJLbUQc4H6f1b-0GodV43FVqyrleEiUsfeiEukLXlMQ9MI8g6jpHsEg",
-      "publishedAt": "2026-09-22T06:36:03Z",
-      "content": "LIVE GEOPOLITICAL ANALYSIS\r\nLAUNCH INDEX\r\nMonitoring for analysts, investors, journalists, and geopolitical observers by iEpikaira."
-    },
-    {
-      "source": {
-        "id": "rte",
-        "name": "RTE"
-      },
-      "author": "RT\u00c9 News",
-      "title": "Oil prices climb ahead of potential US-Iran talks",
-      "description": "Oil prices gained for the first time in five sessions today as investors waited for developments on potential US-Iran talks at the United Nations General Assembly this week after more supplies emerged through the Strait of Hormuz over the weekend.",
-      "url": "https://www.rte.ie/news/business/2026/0922/1592461-world-oil-prices/",
-      "urlToImage": "https://www.rte.ie/images/00250096-1600.jpg",
-      "publishedAt": "2026-09-22T06:35:46Z",
-      "content": "Oil prices gained for the first time in five sessions today as investors waited for developments on potential US-Iran talks at the United Nations General Assembly this week after more supplies emerge\u2026 [+2627 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "HuffPost"
-      },
-      "author": "HuffPost",
-      "title": "Trump\u2019s Poll Numbers Sink To A Place They\u2019ve Never Been Before",
-      "description": "The president\u2019s fellow Republicans are souring on his handling of the cost of living amid the unpopular Iran war, a new Reuters/Ipsos poll found.",
-      "url": "https://www.huffpost.com/entry/donald-trump-new-poll_n_6ab21e12e4b085277b534bc5",
-      "urlToImage": "https://img.huffingtonpost.com/asset/6aa917ed3c000079c74e729e.jpeg?cache=k3wE0229dP&ops=1200_630",
-      "publishedAt": "2026-09-22T06:33:45Z",
-      "content": "WASHINGTON, Sept 21 (Reuters) - President Donald Trumps approval rating fell to 32% - the lowest of his political career - as his fellow Republicans soured on his handling of the cost of living amid \u2026 [+3994 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Standard"
-      },
-      "author": "Mohammed Imran",
-      "title": "Crude oil outlook: US-Iran talks; high transit cost in focus",
-      "description": "The global cost of carrying crude oil which used to be around 1-2 per cent of the total contract value has now faring 20-25 per cent to Asian refiners.",
-      "url": "https://www.business-standard.com/markets/commodities/crude-oil-outlook-us-iran-talks-high-transit-cost-in-focus-126092200332_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-07/07/thumb/fitandfill/1200X628/1783443178-2291.jpg",
-      "publishedAt": "2026-09-22T06:24:02Z",
-      "content": "The global cost of carrying crude oil which used to be around 1-2 per cent of the total contract value has now faring 20-25 per cent to Asian refiners.\r\nCrude oil price outlook by Mirae Asset Sharekh\u2026 [+5485 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "HuffPost"
-      },
-      "author": "HuffPost",
-      "title": "Trump Has Attacked Joe Biden A Staggering Number Of Times This Year",
-      "description": "The president has invoked their name almost 900 times this year, a Reuters review shows.",
-      "url": "https://www.huffpost.com/entry/donald-trump-obsession-2026-midterms_n_6ab21c2be4b043d6b5685626",
-      "urlToImage": "https://img.huffingtonpost.com/asset/6aaa64be17000057fb20190a.jpeg?cache=I5k22Dh3Nm&ops=500_281%2Cscalefit_1200_630",
-      "publishedAt": "2026-09-22T06:23:29Z",
-      "content": "WASHINGTON, Sept 21 (Reuters) - US President Donald Trump has invoked Joe Bidens name almost 900 times this year, a Reuters review shows, keeping his predecessor at the center of debate as Republican\u2026 [+8144 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dailymail.com"
-      },
-      "author": "James Tapsfield",
-      "title": "Chancellor's Budget woes deepen as borrowing surges above expectations even before impact of latest Iran energy spike",
-      "description": "The public sector borrowed \u00a318.3billion last month, up around a fifth on August 2025, as rising tax revenues failed to keep pace with Labour's spending.",
-      "url": "https://www.dailymail.com/news/article-16150283/Borrowing-Chancellor-Budget-Iran-energy-Middle-East.html",
-      "urlToImage": "https://i.dailymail.com/1s/2026/09/22/07/111391771-0-image-m-11_1790057798266.jpg",
-      "publishedAt": "2026-09-22T06:19:54Z",
-      "content": "The Chancellor's Budget woes deepened again today as figures showed Government borrowing surging ahead of forecasts.\r\nThe public sector borrowed \u00a318.3billion last month, up around a fifth on August 2\u2026 [+1107 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Standard"
-      },
-      "author": "AP",
-      "title": "'We'll change geography of war': Iran's IRGC warns US against escalation",
-      "description": "Iran's Revolutionary Guard warned that it would \"change the geography of the war\" if the United States escalates the conflict.\nMeanwhile, the British military said an \"unknown projectile\" struck a tanker as it entered the Strait of Hormuz on Monday, injuring \u2026",
-      "url": "https://www.business-standard.com/world-news/we-ll-change-geography-of-war-iran-s-irgc-warns-us-against-escalation-126092200276_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-05/23/thumb/fitandfill/1200X628/1779555500-169.jpg",
-      "publishedAt": "2026-09-22T06:12:38Z",
-      "content": "Iran's Revolutionary Guard warned that it would \"change the geography of the war\" if the United States escalates the conflict.\r\nMeanwhile, the British military said an \"unknown projectile\" struck a t\u2026 [+4499 chars]"
+      "author": "Josh Christenson, Steven Nelson",
+      "title": "Trump warns Iran at UN he may \u2018drive them into hell,\u2019 says US \u2018settling years of unfinished business\u2019",
+      "description": "Trump received applause from foreign dignitaries for his pledge to stop Iran from building a nuclear weapon after delivering the shocking threat.",
+      "url": "https://nypost.com/2026/09/22/us-news/trump-warns-iran-at-un-he-may-drive-them-into-hell-says-us-settling-years-of-unfinished-business/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-n5dry7nky-1790090131603.jpg?quality=75&strip=all&1790075740&w=1200",
+      "publishedAt": "2026-09-22T15:29:44Z",
+      "content": "UNITED NATIONS President Trump called on United Nations members to support the US war effort against Iran as he floated a dramatic military escalation that would \u201cdrive them into hell.\u201d\r\nTrump receiv\u2026 [+8487 chars]"
     },
     {
       "source": {
@@ -1009,168 +112,38 @@
         "name": "The Times of India"
       },
       "author": "ET Online",
-      "title": "A world in turmoil walks into the UN, looking for a way out",
-      "description": "World leaders gather amid escalating wars and economic uncertainty.  The Middle East conflict has drawn in regional nations and closed a vital waterway.  Ongoing Russia-Ukraine war shows no signs of diplomatic resolution or ending.  Global crises extend beyon\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/a-world-in-turmoil-walks-into-the-un-looking-for-a-way-out/articleshow/134403765.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134404036,width-1200,height-630,imgsize-131848,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-22T06:04:57Z",
-      "content": "World leaders arriving in New York for the annual U.N. General Assembly are confronting a world dramatically different from the one they left behind a year ago.Two escalating wars, a global economy i\u2026 [+3913 chars]"
+      "title": "Trump threatens to \u2018annihilate\u2019 Iran, says deal will come after US midterms",
+      "description": "US President Donald Trump delivered a sharply worded warning to Iran at the UN General Assembly, saying Tehran faces a choice between reaching a deal with Washington and being \u201cannihilated\u201d. At the same time, Trump said he believed the two sides would strike \u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-threatens-to-annihilate-iran-says-deal-will-come-after-us-midterms/articleshow/134415444.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134415460,width-1200,height-630,imgsize-75200,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-22T15:18:59Z",
+      "content": "US President Donald Trump on Tuesday threatened to annihilate Iran if Tehran refuses to reach a deal with Washington, while saying he believed an agreement would be done right after the election as h\u2026 [+4137 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Naturalnews.com"
+        "name": "The New Republic"
       },
-      "author": "Sterling Ashworth",
-      "title": "U.S. Becomes World\u2019s Top Oil Exporter as Global Energy Markets Shift, Data Shows",
-      "description": "The United States has become the world\u2019s largest oil exporter, according to energy data cited in reports released in 2026 [1]. The shift follows years of increased domestic crude production and expanded Gulf Coast export capacity, officials said. U.S. crude o\u2026",
-      "url": "https://www.naturalnews.com/2026-09-22-us-top-oil-exporter-global-energy-markets-shift.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/us-oil-exports-global-energy-markets-crude-oil-production-4281-original.jpg",
-      "publishedAt": "2026-09-22T06:00:00Z",
-      "content": "The United States has become the world's largest oil exporter, according to energy data cited in reports released in 2026 [1]. The shift follows years of increased domestic crude production and expan\u2026 [+6098 chars]"
+      "author": "Hafiz Rashid",
+      "title": "Brazil\u2019s Lula Warns U.N. About U.S. and Israel Ahead of Trump Speech",
+      "description": "Brazilian President Luiz In\u00e1cio Lula da Silva called out the failure of the United Nations to prevent war, mentioning Israel\u2019s genocide in Gaza and repeatedly criticizing President Trump\u2019s policies during his speech at the U.N. General Assembly in New York Tu\u2026",
+      "url": "https://newrepublic.com/post/215707/brazil-lula-warns-un-us-israel-before-trump-speech",
+      "urlToImage": "https://images.newrepublic.com/4015e892dcb91f5423edcbcae959946ce5fa3886.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2026-09-22T15:18:21Z",
+      "content": "About 90 minutes after that, viewership declined to 4,000. By 9 p.m. on Monday, its audience had sunk to 3,000 viewersa paltry percentage of the channels 3,220,000 subscribers. \r\nTrump announced Frid\u2026 [+571 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Naturalnews.com"
+        "name": "New York Post"
       },
-      "author": "Douglas Harrington",
-      "title": "U.S. Refuses to Issue Visas to Members of Iranian President\u2019s UN Delegation",
-      "description": "The U.S. refused to issue visas to members of Iranian President Masoud Pezeshkian\u2019s delegation to the United Nations General Assembly in New York, Iran\u2019s state news agency IRNA reported on Monday, Sept. 21. The report stated that the U.S. government denied vi\u2026",
-      "url": "https://www.naturalnews.com/2026-09-22-us-refuses-visas-members-iranian-president-delegation.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/us-visa-denial-iranian-delegation-un-general-assembly-4388-original.jpg",
-      "publishedAt": "2026-09-22T06:00:00Z",
-      "content": "The U.S. refused to issue visas to members of Iranian President Masoud Pezeshkian's delegation to the United Nations General Assembly in New York, Iran's state news agency IRNA reported on Monday, Se\u2026 [+6944 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Mike Adams",
-      "title": "The Great Decentralization Transition: Why the Old System Is Dying and a New Era of Freedom Is Painfully Emerging",
-      "description": "Introduction: The Civilizational Pivot We\u2019re Living Through We are living through the most significant civilizational pivot in human history, a transition from centralized control to a distributed, decentralized order that will reshape everything we know abou\u2026",
-      "url": "https://www.naturalnews.com/2026-09-22-the-great-decentralization-transition-old-system-dying.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/decentralization-bitcoin-open-source-ai-4341-original.jpg",
-      "publishedAt": "2026-09-22T06:00:00Z",
-      "content": "Introduction: The Civilizational Pivot We're Living Through\r\nWe are living through the most significant civilizational pivot in human history, a transition from centralized control to a distributed, \u2026 [+12837 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Sterling Ashworth",
-      "title": "Saudi Aramco Tells European Refiners No Crude Allocations Next Month After Pipeline Attack",
-      "description": "Saudi Aramco has informed refining customers in Europe that they will receive no crude oil allocations next month, according to people informed of the decision. The move follows the shutdown of the kingdom\u2019s East-West pipeline after a drone attack, the report\u2026",
-      "url": "https://www.naturalnews.com/2026-09-22-saudi-aramco-european-refiners-no-crude-allocations.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/saudi-aramco-european-refiners-crude-oil-allocations-4282-original.jpg",
-      "publishedAt": "2026-09-22T06:00:00Z",
-      "content": "Saudi Aramco has informed refining customers in Europe that they will receive no crude oil allocations next month, according to people informed of the decision. The move follows the shutdown of the k\u2026 [+5940 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Belle Carter",
-      "title": "Trump Announces Greenland Security Agreement With Denmark; Text Not Released",
-      "description": "President Donald Trump announced Friday that the United States has entered into a security agreement with Denmark and Greenland that he said grants Washington permanent control over security and other needs in the Arctic territory. The full text of the agreem\u2026",
-      "url": "https://www.naturalnews.com/2026-09-22-trump-announces-greenland-security-agreement-with-denmark.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/greenland-denmark-arctic-security-4330-original.jpg",
-      "publishedAt": "2026-09-22T06:00:00Z",
-      "content": "President Donald Trump announced Friday that the United States has entered into a security agreement with Denmark and Greenland that he said grants Washington permanent control over security and othe\u2026 [+12357 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Iva Greene",
-      "title": "Saudi Arabia Seeks Missile Interceptors as Yemeni Attacks Strain Air Defenses",
-      "description": "Saudi Arabia is running low on missile interceptors as attacks from Yemen\u2019s Houthi forces continue to strain the kingdom\u2019s air defenses, and Riyadh has appealed to France, Britain, Pakistan, and Egypt for military assistance, according to a report by the Asso\u2026",
-      "url": "https://www.naturalnews.com/2026-09-22-saudi-seeks-missile-interceptors-yemeni-attacks-strain-defenses.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/missile-interceptors-saudi-arabia-air-defense-yemeni-armed-forces-4261-original.jpg",
-      "publishedAt": "2026-09-22T06:00:00Z",
-      "content": "Saudi Arabia is running low on missile interceptors as attacks from Yemen's Houthi forces continue to strain the kingdom's air defenses, and Riyadh has appealed to France, Britain, Pakistan, and Egyp\u2026 [+7712 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Garrison Vance",
-      "title": "Trump Pushes Zelensky to Halt Russia Refinery Attacks Amid High Diesel Prices",
-      "description": "President Donald Trump held a fresh phone call with Ukrainian President Volodymyr Zelensky and pressed him to halt long-range drone strikes on Russian refineries, according to Financial Times\u00a0(FT) and Bloomberg reports cited by ZeroHedge [1]. The stated aim i\u2026",
-      "url": "https://www.naturalnews.com/2026-09-22-trump-pushes-zelensky-halt-russia-refinery-attacks.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/trump-zelensky-call-russian-refinery-strikes-diesel-prices-4351-original.jpg",
-      "publishedAt": "2026-09-22T06:00:00Z",
-      "content": "President Donald Trump held a fresh phone call with Ukrainian President Volodymyr Zelensky and pressed him to halt long-range drone strikes on Russian refineries, according to Financial Times\u00a0(FT) an\u2026 [+8204 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Garrison Vance",
-      "title": "Pentagon Database Omits Two U.S. Service Member Deaths in Middle East, Report Says",
-      "description": "The Pentagon\u2019s public casualty tracking system has omitted at least two U.S. service member deaths that occurred in the Middle East during the U.S. war with Iran, according to the Washington Post. The omissions bring the minimum confirmed death toll to 22 ser\u2026",
-      "url": "https://www.naturalnews.com/2026-09-22-pentagon-database-omits-service-member-deaths-middle-east.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/pentagon-casualty-reporting-defense-casualty-analysis-system-dcas-database-4313-original.jpg",
-      "publishedAt": "2026-09-22T06:00:00Z",
-      "content": "The Pentagon's public casualty tracking system has omitted at least two U.S. service member deaths that occurred in the Middle East during the U.S. war with Iran, according to the Washington Post. Th\u2026 [+7165 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Sterling Ashworth",
-      "title": "Brace For Impact: Diesel Costs Top $6.50 A Gallon Amid Worsening Supply Disruptions",
-      "description": "The national average price of diesel in the U.S. climbed above $6.50 a gallon, setting a new record as supply disruptions tied to multiple overseas conflicts continued to tighten global fuel markets, according to data from the American Automobile Association \u2026",
-      "url": "https://www.naturalnews.com/2026-09-22-diesel-costs-continue-climb-amid-supply-disruptions.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/diesel-prices-global-fuel-crunch-us-iran-war-4344-original.jpg",
-      "publishedAt": "2026-09-22T06:00:00Z",
-      "content": "The national average price of diesel in the U.S. climbed above $6.50 a gallon, setting a new record as supply disruptions tied to multiple overseas conflicts continued to tighten global fuel markets,\u2026 [+7698 chars]"
-    },
-    {
-      "source": {
-        "id": "the-irish-times",
-        "name": "The Irish Times"
-      },
-      "author": "Bingyan Wang",
-      "title": "Oil edges higher on supply risks",
-      "description": "Diplomatic push to end US-Iran war but no guarantees talks will show tangible progress",
-      "url": "https://www.irishtimes.com/business/markets/2026/09/22/oil-edges-higher-on-supply-risks/",
-      "urlToImage": "https://www.irishtimes.com/resizer/v2/UEWTVWEA3ZRHLVEINKBV365SVA.jpg?smart=true&auth=d776e9df8c18590bce6d740d9a1e340bbbd9517b6f4afef80162ab00e6a05d38&width=1200&height=630",
-      "publishedAt": "2026-09-22T05:49:17Z",
-      "content": "(Bloomberg) -- Oil edged higher, following a four-day drop, as traders weighed Middle East supply risks against a diplomatic push to end the US-Iran war.\r\nBrent rose above $101 a barrel, after tumbli\u2026 [+3045 chars]"
-    },
-    {
-      "source": {
-        "id": "the-irish-times",
-        "name": "The Irish Times"
-      },
-      "author": null,
-      "title": "Zelenskiy to meet Trump at UN in push for energy truce with Russia",
-      "description": "Talks in New York come amid escalating Ukrainian and Russia air war",
-      "url": "https://www.irishtimes.com/world/us/2026/09/22/zelenskiy-to-meet-trump-at-un-in-push-for-energy-truce-with-russia/",
-      "urlToImage": "https://www.irishtimes.com/resizer/v2/J75T3J3LVLL2CZSB3LBHBGAJNQ.jpg?smart=true&auth=c445196123bc53b8162b13e43cb11ed31454f86382ab90861e457f811020416a&width=1200&height=630",
-      "publishedAt": "2026-09-22T05:48:12Z",
-      "content": "Ukrainian president Volodymyr Zelenskiy is due to meet US president Donald Trump at the United Nations in New York on Tuesday, where he will push for an energy truce with Russia.\r\nUkrainians fear Rus\u2026 [+4305 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Israelnationalnews.com"
-      },
-      "author": "Israel National News",
-      "title": "US Military split on Houthi strikes as Saudi Arabia seeks Trump\u2019s help",
-      "description": "US military leaders are reportedly divided over striking the Houthis as Saudi Arabia seeks more help and Trump weighs renewed military action in Yemen.",
-      "url": "https://www.israelnationalnews.com/news/433470",
-      "urlToImage": "https://2.a7.org/files/pictures/000/1070778.jpg",
-      "publishedAt": "2026-09-22T05:48:05Z",
-      "content": "US military leaders are divided over whether President Donald Trump should order military action against the Iranian-backed Houthi rebels in Yemen as Saudi Arabia presses Washington for greater assis\u2026 [+3896 chars]"
+      "author": "Ryan King",
+      "title": "Iran offers to reopen Strait of Hormuz if US ends blockade: \u2018Golden opportunity\u2019",
+      "description": "\u201cCommon sense tells you there's no harm in engaging and talking to someone,'' US Secretary of State Marco Rubio said Tuesday.",
+      "url": "https://nypost.com/2026/09/22/us-news/iran-offers-to-reopen-strait-of-hormuz-if-us-ends-blockade-golden-opportunity/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-xiayzfrog-1790088545900.jpg?quality=75&strip=all&1790074172&w=1200",
+      "publishedAt": "2026-09-22T15:16:45Z",
+      "content": "WASHINGTON Iran has offered to reopen the Strait of Hormuz within a seven-day period if the US agrees to end its blockade and military pressure campaign, according to a report.\r\nThe pitch was conveye\u2026 [+3659 chars]"
     },
     {
       "source": {
@@ -1178,103 +151,1117 @@
         "name": "Hurriyet Daily News"
       },
       "author": "hurriyetdailynews.com",
-      "title": "Trump defends press ban after housing talks with Mamdani",
-      "description": "U.S. President Donald Trump met New York Mayor Zohran Mamdani on Sept. 21 to discuss housing plans, before defending his decision to bar three news organizations from the White House.",
-      "url": "https://www.hurriyetdailynews.com/trump-defends-press-ban-after-housing-talks-with-mamdani-227158",
-      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6ab2134d242e1cf6f86a4724.jpg",
-      "publishedAt": "2026-09-22T05:34:36Z",
-      "content": "NEW YORK\r\nUS President Donald Trump speaks at a press conference while New York City mayor Zohran Mamdani stands beside him after the two met at Gracie Mansion in New York, on Sept. 21, 2026. (AFP)\r\n\u2026 [+1362 chars]"
+      "title": "Trump says deciding between deal or driving Iran \u2018into hell\u2019",
+      "description": "U.S. President Donald Trump told the United Nations General Assembly on Sept. 22 that he had to choose whether to \u201cannihilate\u201d Iran if it fails to make a deal to end the Middle East war.",
+      "url": "https://www.hurriyetdailynews.com/trump-says-deciding-between-deal-or-driving-iran-into-hell-227211",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6ab29b19242e1cf6f86a4a9b.jpg",
+      "publishedAt": "2026-09-22T15:13:32Z",
+      "content": "TEHRAN\r\nU.S. President Donald Trump told the United Nations General Assembly on Sept. 22 that he had to choose whether to annihilate Iran if it fails to make a deal to end the Middle East war.\r\nDo I \u2026 [+2462 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Punch"
+      },
+      "author": "Punch Newspapers",
+      "title": "Trump at UN threatens \u2018military might\u2019 in Latin America",
+      "description": "President Donald Trump will vow to use US military power to secure interests in Latin America during his speech at the UN General Assembly, says the White\n\nRead More: https://punchng.com/trump-at-un-threatens-military-might-in-latin-america/",
+      "url": "https://punchng.com/trump-at-un-threatens-military-might-in-latin-america/",
+      "urlToImage": "https://punchng.com/wp-content/uploads/2026/07/Trump-writes_1784740041.webp",
+      "publishedAt": "2026-09-22T15:05:02Z",
+      "content": "President Donald Trump will vow at the UN General Assembly Tuesday to use \u201cunmatched\u201d US military power to secure Washington\u2019s interests in Latin America, according to extracts of his speech released\u2026 [+864 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mediaite"
+      },
+      "author": "Alex Griffing",
+      "title": "\u2018Do I Annihilate the Islamic Republic?\u2019 Trump Issues Shocking Threat to Iran in UN Speech",
+      "description": "\"Do I annihilate the Islamic Republic, and do it quickly, never giving them a chance to kill and destroy people and countries again? Do I drive them into hell\"\nThe post \u2018Do I Annihilate the Islamic Republic?\u2019 Trump Issues Shocking Threat to Iran in UN Speech \u2026",
+      "url": "https://www.mediaite.com/media/news/do-i-annihilate-the-islamic-republic-trump-issues-shocking-threat-to-iran-in-un-speech/",
+      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2026/09/trump-14.jpg",
+      "publishedAt": "2026-09-22T15:02:38Z",
+      "content": "President Donald Trump addressed the United Nations General Assembly on Tuesday and told the worlds diplomats he had a big decision to make, whether or not to annihilate Iran.\r\nTrump listed many of t\u2026 [+3033 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Science Desk",
+      "title": "Meet Kelvin Doe: The 13-year-old who turned discarded materials into a battery, generator and transmitter before receiving an invitation to MIT at 15",
+      "description": "Experiments & Discoveries News: At 13, Kelvin Doe was searching through piles of discarded materials in Freetown for things most people would have left behind. Acid, soda, scrap meta.",
+      "url": "https://timesofindia.indiatimes.com/science/discovery/meet-kelvin-doe-the-13-year-old-who-turned-discarded-materials-into-a-battery-generator-and-transmitter-before-receiving-an-invitation-to-mit-at-15/articleshow/134415094.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134415233,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T15:02:19Z",
+      "content": "<ul><li>News</li>\r\n<li>Science News</li>\r\n<li>Meet Kelvin Doe: The 13-year-old who turned discarded materials into a battery, generator and transmitter before receiving an invitation to MIT at 15</li\u2026 [+1792 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Raw Story"
+      },
+      "author": "Alexander Willis",
+      "title": "Trump stared down as he threatens to 'drive Iran into hell with no chance of survival\u2019",
+      "description": "An Iranian United Nations representative stared down President Donald Trump Tuesday as he threatened to \u201cannihilate the Islamic Republic\u201d and \u201cdrive them into hell with no chance of survival.\u201dDelivering his remarks to the United Nations General Assembly, Trum\u2026",
+      "url": "https://www.rawstory.com/trump-iran-2677915283/",
+      "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=67811361&width=1200&height=600&coordinates=0%2C166%2C0%2C167",
+      "publishedAt": "2026-09-22T15:02:18Z",
+      "content": "An Iranian United Nations representative stared down President Donald Trump Tuesday as he threatened to annihilate the Islamic Republic and drive them into hell with no chance of survival.\r\nDeliverin\u2026 [+806 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jezebel"
+      },
+      "author": "Danielle Han",
+      "title": "That Marks at Least Three Times Trump\u2019s Dreamed Out Loud About Wiping Out Iran",
+      "description": "Speaking to the UN on Tuesday, Trump floated two options. One was to \u201cannihilate the Islamic Republic, and do it quickly, never giving them a chance to kill and destroy countries again.\u201d",
+      "url": "https://www.jezebel.com/that-marks-at-least-three-times-trumps-dreamed-out-loud-about-wiping-out-iran",
+      "urlToImage": "https://www.jezebel.com/wp-content/uploads/2026/09/22/trump-UN-speech.jpg",
+      "publishedAt": "2026-09-22T15:02:18Z",
+      "content": "The UN General Assembly commenced its first day of the high-level General Debate for the 81st session in New York on\u00a0Tuesdaya time for world leaders to share their priorities, as well as discuss majo\u2026 [+2901 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "author": "Editorial Team",
+      "title": "Oil prices drop as Iran offers to reopen Strait of Hormuz if US lifts blockade",
+      "description": "The potential reopening of the Strait of Hormuz could stabilize global oil markets, but hinges on complex US-Iran diplomatic negotiations.\nThe post Oil prices drop as Iran offers to reopen Strait of Hormuz if US lifts blockade appeared first on Crypto Briefin\u2026",
+      "url": "https://cryptobriefing.com/oil-prices-drop-iran-strait-hormuz/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/22110117/library-oil-prices-drop-as-iran-offers-to-reopen-strait-of-hormu-800x450.png",
+      "publishedAt": "2026-09-22T15:01:20Z",
+      "content": "Iran's conditional proposal to restore traffic through the world's most critical oil chokepoint sent crude futures sliding, but traders aren't popping champagne yet Brent crude futures fell to $99.45\u2026 [+2583 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The New Republic"
+      },
+      "author": "Ellie Quinlan Houghtaling",
+      "title": "Trump Casually Mulls Sending Iran \u201cInto Hell\u201d in Deranged U.N. Speech",
+      "description": "Donald Trump openly mused about Iran\u2019s potential annihilation before the United Nations General Assembly Tuesday.Speaking before representatives of 193 countries, Trump painted two pictures for a potential peace deal with Iran, offering the country the chance\u2026",
+      "url": "https://newrepublic.com/post/215709/donald-trump-mulls-sending-iran-into-hell-un-speech",
+      "urlToImage": "https://images.newrepublic.com/c4994ca2b88875aad7d3fb2410bf5f1294019f32.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2026-09-22T14:59:02Z",
+      "content": "I am never ever, ever, ever, ever doing this event again, former Kentucky GOP gubernatorial candidate and event host Eric Deters, who throws the event on his farm, said on Facebook Monday. When I put\u2026 [+1135 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Caitlinjohnst.one"
+      },
+      "author": "Caitlin Johnstone",
+      "title": "The Real Danger of AI is That It is Run by Evil Warmongers",
+      "description": "\u2026\nThe post The Real Danger of AI is That It is Run by Evil Warmongers appeared first on Global Research.",
+      "url": "https://www.caitlinjohnst.one/p/the-real-danger-of-ai-is-that-it",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!4KYm!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F227b0ed1-f713-42a6-9fda-7a47f24b4344_1080x565.jpeg",
+      "publishedAt": "2026-09-22T14:58:12Z",
+      "content": "Video reading by Tim Foley:\r\nThe biggest AI threat isnt artificial superintelligence wiping out humanity in a fit of mechanical vengeance like some digital Old Testament God, its the same oligarchs a\u2026 [+4009 chars]"
+    },
+    {
+      "source": {
+        "id": "rte",
+        "name": "RTE"
+      },
+      "author": "Liam Nolan",
+      "title": "The ups and downs of Trump and Zelensky meetings",
+      "description": "Volodymyr Zelensky has learned how to deal with Donald Trump the hard way during that first Oval Office meeting.",
+      "url": "https://www.rte.ie/news/analysis-and-comment/2026/0922/1592552-trump-zelensky-meeting-preview/",
+      "urlToImage": "https://www.rte.ie/images/00250ce8-1600.jpg",
+      "publishedAt": "2026-09-22T14:56:45Z",
+      "content": "Ukrainian President Volodymyr Zelensky and US President Donald Trump have had their ups and downs since Mr Trump returned to the White House almost two years ago.\r\nTheir meeting later today on the si\u2026 [+3978 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Israelnationalnews.com"
       },
-      "author": "Dr. Anjuli Pandavar",
-      "title": "'The sword is coming. The time to warn the people is now.'",
-      "description": "The prophet Ezekiel said that the watchman who does not warn of coming dangers is responsible for the ensuing catastrophe. \u00a0A call to first-time voters: the key to pre-empting the Left\u2019s dirty tricks to steal the forthcoming Israeli elections. Opinion.",
-      "url": "https://www.israelnationalnews.com/news/433469",
-      "urlToImage": "https://2.a7.org/files/pictures/000/1226345.jpg",
-      "publishedAt": "2026-09-22T05:32:51Z",
-      "content": "Dr. Anjuli Pandavar left Islam in 1979 after growing up in a Muslim family in South Africa. She writes about politics, religion, and social critique.\r\nThe bottom of the barrel is a desperate place. T\u2026 [+7824 chars]"
+      "author": "Israel National News",
+      "title": "Trump at the UN: \"Iran developed a missile that would enable them to strike Europe\"",
+      "description": "US President Donald Trump warned in his address to the UN that \"Iran has developed a missile that would enable them to strike Europe.\"He said, \"Their goal was to complete their mad race to nuclear weapons behind the protection of ballistic missiles.\"",
+      "url": "https://www.israelnationalnews.com/flashes/693919",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1075218.jpg",
+      "publishedAt": "2026-09-22T14:54:27Z",
+      "content": "US President Donald Trump warned in his address to the UN that \"Iran has developed a missile that would enable them to strike Europe.\"\r\nHe said, \"Their goal was to complete their mad race to nuclear \u2026 [+52 chars]"
     },
     {
       "source": {
-        "id": "the-irish-times",
-        "name": "The Irish Times"
+        "id": null,
+        "name": "Israelnationalnews.com"
       },
-      "author": "Denis Staunton",
-      "title": "Trump can\u2019t decide on Iran strategy",
-      "description": "Trump has left open the possibility of meeting Iran\u2019s president Masoud Pezeshkian in New York this week",
-      "url": "https://www.irishtimes.com/world/2026/09/22/anything-could-happen-with-me-trump-cant-decide-on-his-iran-strategy/",
-      "urlToImage": "https://www.irishtimes.com/resizer/v2/MSSNE4NFU6SIYSISY2RFZ2Y47I.jpg?smart=true&auth=eedb995f28500e8fd4d55abd932921cf40b7464e7885148917a15ade94df780b&width=1200&height=630",
-      "publishedAt": "2026-09-22T05:32:46Z",
-      "content": "Donald Trump cant decide whether to negotiate with the Iranians or to go in and annihilate them. But Tehran has its own conditions for going back into talks.\r\nTrumps big decision \r\nAt the United Nati\u2026 [+3089 chars]"
+      "author": "Israel National News",
+      "title": "Trump at UN: \"I will never allow Iran to obtain nuclear weapons\"",
+      "description": "US President Donald Trump addressed Iran in his speech at the UN, saying: \"Iran used to be the bully of the Middle East, but they are no longer the bully. I will never allow Iran to obtain nuclear weapons.\"",
+      "url": "https://www.israelnationalnews.com/flashes/693918",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1075218.jpg",
+      "publishedAt": "2026-09-22T14:53:27Z",
+      "content": "US President Donald Trump addressed Iran in his speech at the UN, saying: \"Iran used to be the bully of the Middle East, but they are no longer the bully. I will never allow Iran to obtain nuclear we\u2026 [+6 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "author": "Estefano Gomez",
+      "title": "Trump hints at critical decision on Iran deal or military action",
+      "description": "Trump hints at a critical decision on the Iran deal or military action. Deal including reconstruction funding by 2026 at 18.5% YES.\nThe post Trump hints at critical decision on Iran deal or military action appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/trump-hints-at-critical-decision-on-iran-deal-or-military-action/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/22105206/cb-card-geo-182-800x420.png",
+      "publishedAt": "2026-09-22T14:52:07Z",
+      "content": "President Donald Trump has tweeted about a critical decision regarding Iran, hinting at either negotiating a deal that could lead to rebuilding the nation or taking military action to potentially des\u2026 [+1638 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Trump defends US interventions abroad ahead of 'big decision' on Iran: 'Settling years of unfinished business'",
+      "description": "At the UN General Assembly in New York City on Tuesday morning, President Donald Trump delivered a speech on America's role in global leadership.",
+      "url": "https://www.foxnews.com/politics/trump-defends-us-interventions-abroad-ahead-big-decision-iran-settling-years-unfinished-business",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/trump-addresses-unga.jpg",
+      "publishedAt": "2026-09-22T14:51:58Z",
+      "content": "President Donald Trump issued a stern warning Tuesday for Iran to make a deal soon or face severe consequences for its pursuit of a nuclear weapon.\r\n\"I have a big decision to make: Will a deal be mad\u2026 [+737 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "author": "Estefano Gomez",
+      "title": "Biden warns of Iran terror threat amid nuclear tensions",
+      "description": "Biden's warning underscores escalating geopolitical risks, complicating diplomatic efforts and reducing market confidence in a U.S.-Iran deal.\nThe post Biden warns of Iran terror threat amid nuclear tensions appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/biden-warns-of-iran-terror-threat-amid-nuclear-tensions/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/22104916/cb-card-geo-181-800x420.png",
+      "publishedAt": "2026-09-22T14:49:17Z",
+      "content": "President Joe Biden\u2019s remarks highlight concerns over potential large-scale terror attacks by Iran if the regime is empowered by nuclear weapons. He drew parallels between past terrorist events and t\u2026 [+2071 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "author": "Estefano Gomez",
+      "title": "Trump predicts oil prices will plummet after Iran conflict ends",
+      "description": "A resolution in the Iran conflict could stabilize oil markets, reducing volatility and impacting global economic forecasts and energy policies.\nThe post Trump predicts oil prices will plummet after Iran conflict ends appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/trump-predicts-oil-prices-will-plummet-after-iran-conflict-ends/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/08093645/pexels-photo-16862261-699x457.jpeg",
+      "publishedAt": "2026-09-22T14:48:48Z",
+      "content": "Former President Donald Trump has claimed that oil prices will decline once the ongoing conflict with Iran concludes. Trump\u2019s remarks have been consistent in suggesting that the resolution of the Ira\u2026 [+1860 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNA"
+      },
+      "author": null,
+      "title": "Houthis say Saudi Arabia conducts deadly strike on key port city",
+      "description": "SANAA: Yemen's Houthis said Saudi Arabia carried out a deadly strike on a key port city on Tuesday (Sep 22), over a week into the Houthi offensive that has seen them seize control of a strait that is crucial to global energy flows.G7 nations",
+      "url": "https://www.channelnewsasia.com/world/houthis-saudi-arabia-strike-yemen-key-port-city-6402761",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--r2LwAyJ3--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-22T125649Z_1_LYNXMPEM8L0Y3_RTROPTP_3_IRAN-CRISIS-SAUDI-YEMEN.JPG?itok=DGYGbPE3",
+      "publishedAt": "2026-09-22T14:48:00Z",
+      "content": "SANAA: Yemen's Houthis said Saudi Arabia carried out a deadly strike on a key port city on Tuesday (Sep 22), over a week into the Houthi offensive that has seen them seize control of a strait that is\u2026 [+2319 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Caol\u00e1n Magee",
+      "title": "Why are the Houthis fighting for Yemen\u2019s Kahboub Mountains?",
+      "description": "Kahboub could help the Houthis consolidate control near one of the world\u2019s busiest shipping routes.",
+      "url": "https://www.aljazeera.com/news/2026/9/22/why-are-the-houthis-fighting-for-yemens-kahboub-mountains",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab27647e500-1790080583.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-22T14:47:25Z",
+      "content": "The Houthis are attempting to push into the Kahboub Mountains after seizing much of Yemens Red Sea coast in a lightning offensive this month an advance that experts say could dramatically shift the b\u2026 [+7474 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "author": "Estefano Gomez",
+      "title": "Trump urges global unity on Iran, hints at post-election deal negotiations",
+      "description": "Trump's call for unity may boost diplomatic efforts, impacting market perceptions and increasing the likelihood of future U.S.-Iran deals.\nThe post Trump urges global unity on Iran, hints at post-election deal negotiations appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/trump-urges-global-unity-on-iran-hints-at-post-election-deal-negotiations/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/22104445/library-trump-urges-global-unity-on-iran-hints-at-post-election--1-800x450.png",
+      "publishedAt": "2026-09-22T14:44:47Z",
+      "content": "At the United Nations, U.S. President Donald Trump urged global unity in applying pressure on Iran, asserting that the United States would negotiate a deal with Iran following the upcoming election. \u2026 [+2285 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Jon Michael Raasch",
+      "title": "Trump scolds world leaders face-to-face in explosive speech at the UN saying only HE 'acted' to confront Iran threat",
+      "description": "Speaking to world leaders assembled in Manhattan for the UN General Assembly meeting, President Donald Trump argued the nobility of his Iran war while condemning other global conflicts.",
+      "url": "https://www.dailymail.com/news/article-16151189/Trump-scolds-world-leaders-face-face-explosive-speech-saying-acted-confront-Iran-threat.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/09/22/15/111399137-0-image-m-24_1790087587035.jpg",
+      "publishedAt": "2026-09-22T14:44:36Z",
+      "content": "Speaking to world leaders assembled in Manhattan for the UN General Assembly meeting, President Donald Trump\u00a0scolded the crowd for forcing him to go alone in the US war on Iran.\u00a0\r\nFrom behind the ico\u2026 [+2209 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Daily Caller"
+      },
+      "author": "Geoffrey Ingersoll",
+      "title": "INGERSOLL: NEW POLL \u2014 We Love Mr. Rogers, And We Want You Dead",
+      "description": "Around 1 in 3 Democrats would love to see Trump\u2019s presidency end in an assassination, 59% support a coup, 68% believe we need \u201cmore immigrants.\u201d",
+      "url": "https://dailycaller.com/2026/09/22/center-strategic-politics-poll-democrats-liberals-coup-assassination-trump-mr-rogers-newsom-kamala",
+      "urlToImage": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/09/sotd92226.jpg",
+      "publishedAt": "2026-09-22T14:43:42Z",
+      "content": "Below is State of the Day, a morning newsletter by Daily Caller Editor-at-Large Geoff Ingersoll. Sign up here.\r\n__________\r\nGreetings, Dear Reader,\r\nYou will be surprised by none of this.\r\nWE LOVE MR\u2026 [+2974 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "breakingthenews.net",
+      "title": "Trump: Iran made missile capable of hitting Europe",
+      "description": "United States President Donald Trump denounced Iran in his speech before the United Nations on Tuesday, proclaiming that the Middle Eastern nation \"made a missile that was capable of hitting Europe an...",
+      "url": "https://biztoc.com/x/204db0b9329d5d90",
+      "urlToImage": "https://biztoc.com/cdn/204db0b9329d5d90_s.webp",
+      "publishedAt": "2026-09-22T14:43:27Z",
+      "content": "United States President Donald Trump denounced Iran in his speech before the United Nations on Tuesday, proclaiming that the Middle Eastern nation \"made a missile that was capable of hitting Europe a\u2026 [+69 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Israelnationalnews.com"
+      },
+      "author": "Israel National News",
+      "title": "Live: Trump presents his 'choice' on Iran to the UN General Assembly",
+      "description": "US President vows that he will not allow Iran to build a nuclear weapon in speech to the UN.",
+      "url": "https://www.israelnationalnews.com/news/433491",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1226398.jpg",
+      "publishedAt": "2026-09-22T14:43:00Z",
+      "content": "LIVE: Trump speaks at UN General Assembly 2026\r\nUS President Donald Trump referred to the war against Iran in his speech at the UN General Assembly today (Tuesday) and said: \"There is no better examp\u2026 [+4100 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Daily Caller"
+      },
+      "author": "Simon August",
+      "title": "Saudi Arabia Reportedly Restarts Pipeline That Moved Oil Around Hormuz After Drone Attacks Knocked It Offline",
+      "description": "Saudi Arabia has reportedly restarted its pipeline that bypasses the Strait of Hormuz after drone attacks forced it offline earlier in September.",
+      "url": "https://dailycaller.com/2026/09/22/saudi-arabia-east-west-pipeline-restart-yanbu-hormuz-oil",
+      "urlToImage": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2021/10/GettyImages-1229760380.jpg",
+      "publishedAt": "2026-09-22T14:29:55Z",
+      "content": "Saudi Arabia has reportedly restarted its pipeline that bypasses the Strait of Hormuz after drone attacks forced it offline earlier in September.\r\nThe kingdom could resume crude exports from its Red \u2026 [+2259 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "author": "Editorial Team",
+      "title": "US Central Command overhauls AI targeting protocols after deadly school strike killed 156 in Iran",
+      "description": "The overhaul of AI targeting protocols highlights the critical need for balancing technological efficiency with ethical responsibility in military operations.\nThe post US Central Command overhauls AI targeting protocols after deadly school strike killed 156 i\u2026",
+      "url": "https://cryptobriefing.com/centcom-updates-ai-targeting-after-strike/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/22102526/library-us-central-command-overhauls-ai-targeting-protocols-afte-800x450.png",
+      "publishedAt": "2026-09-22T14:25:30Z",
+      "content": "CENTCOM's updated process includes upgrades to Palantir's Maven Smart System and new civilian tracking measures following the deadliest incident of Operation Epic Fury US Central Command has rewritte\u2026 [+2852 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Antiwar.com"
+      },
+      "author": "Len D. Pozeram",
+      "title": "Charles Goyette\u2019s Empire of Lies: Restoring the History the Warlords Need US To Forget",
+      "description": "Charles Goyette, Empire of Lies: Fragments from the Memory Hole. Edited by Mike Dworski and Ben Parker. Austin, Texas: The Libertarian Institute, 2025. 275 numbered pages, plus preliminary matter. ISBN 979-8-9942002-0-9. What happens to a republic when its go\u2026",
+      "url": "https://www.antiwar.com/blog/2026/09/22/empire-of-lies-restoring-the-history-the-warlords-need-us-to-forget/",
+      "urlToImage": "https://d27srd8s9736cr.cloudfront.net/2026/09/goyette-x.jpg",
+      "publishedAt": "2026-09-22T14:22:20Z",
+      "content": "Charles Goyette, Empire of Lies: Fragments from the Memory Hole. Edited by Mike Dworski and Ben Parker. Austin, Texas: The Libertarian Institute, 2025. 275 numbered pages, plus preliminary matter. IS\u2026 [+18998 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "John Kingston",
+      "title": "Benchmark diesel sets new record; futures signaling relief?",
+      "description": "The benchmark diesel price used for most fuel surcharges is up almost $2/gal since early July. The post Benchmark diesel sets new record; futures signaling r...",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/benchmark-diesel-sets-record-futures-142020903.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/0e7acf7d66d074e38a6eadbd15c782436dbc213b76793d573a588108942096cc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffreightwaves_373%2Fcded958c1e9602777685c2fd51985807.jpg",
+      "publishedAt": "2026-09-22T14:20:20Z",
+      "content": "If you're a diesel user and you don't know whether you're coming or going, you've got plenty of company.\r\nThe volatility in the market was evident just in the past few days. On Tuesday, the Departmen\u2026 [+5754 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fair Observer"
+      },
+      "author": "Tom Engelhardt",
+      "title": "Once Upon a Time: My Tale of How the War on Terror Came Home in the Age of Donald J. Trump",
+      "description": "Okay, here\u2019s what this old man remembers nearly a quarter of a century later: I was living in New York City when, on September 11, 2001, two hijacked planes full of passengers hit the Twin Towers of the World Trade Center, killing almost 3,000 innocent people\u2026",
+      "url": "https://www.fairobserver.com/politics/once-upon-a-time-my-tale-of-how-the-war-on-terror-came-home-in-the-age-of-donald-j-trump/",
+      "urlToImage": "https://www.fairobserver.com/wp-content/uploads/2026/09/911.jpg",
+      "publishedAt": "2026-09-22T14:15:04Z",
+      "content": "Okay, heres what this old man remembers nearly a quarter of a century later:\r\nI was living in New York City when, on September 11, 2001, two hijacked planes full of passengers hit the Twin Towers of \u2026 [+9803 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "\u2018MBS will not forget\u2019: Donald Trump\u2019s reluctance to fight Houthis rattles Saudi Arabia - Financial Times",
+      "description": "\u2018MBS will not forget\u2019: Donald Trump\u2019s reluctance to fight Houthis rattles Saudi ArabiaFinancial Times As US steers clear of Yemen fight, the Iran-backed Houthis launch next phase of campaignCNN Trump Gets Caught in a Dilemma Over a Saudi Plea for Military Hel\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185739888",
+      "urlToImage": null,
+      "publishedAt": "2026-09-22T14:13:21Z",
+      "content": "\"Love is an ideal thing, marriage a real thing; a confusion of the real with \r\nthe ideal never goes unpunished.\"\r\n-- Goethe"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ibtimes.com.au"
+      },
+      "author": "Anthony Will",
+      "title": "Iran Offers to Reopen Strait of Hormuz Within Seven Days if US Eases Military Pressure, Lifts Blockade",
+      "description": "Iran has offered to reopen the Strait of Hormuz within seven days if Washington eases military pressure and lifts its blockade, while attacks and shipping disruptions continue.",
+      "url": "https://www.ibtimes.com.au/iran-offers-reopen-strait-hormuz-seven-days-1875762",
+      "urlToImage": "https://d.ibtimes.com.au/en/full/1892869/satellite-image-strait-hormuz.jpg",
+      "publishedAt": "2026-09-22T14:11:13Z",
+      "content": "DUBAI \u2014 Iran has offered to reopen the Strait of Hormuz within seven days if the United States eases military pressure and lifts its blockade on Iranian ports, a senior Iranian official told Reuters \u2026 [+5631 chars]"
+    },
+    {
+      "source": {
+        "id": "rt",
+        "name": "RT"
+      },
+      "author": "RT",
+      "title": "West has \u2018misunderstood\u2019 depth of India-Russia ties \u2013 ex-foreign secretary (VIDEO)",
+      "description": "Former Foreign Secretary Ranjan Mathai says Western focus on oil ignores the wider geopolitical and economic ties between India and Russia Read Full Article at RT.com",
+      "url": "https://www.rt.com/india/646096-ranjan-mathai-interview/",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6ab28be085f540045908f0b0.png",
+      "publishedAt": "2026-09-22T14:09:39Z",
+      "content": "The West has \u201ccompletely\u201d misread India\u2019s relationship with Russia by reducing it largely to one over oil, and overlooking the wider geopolitical, economic, and strategic ties between New Delhi and M\u2026 [+2761 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNA"
+      },
+      "author": null,
+      "title": "Iran, US hint at revival of talks as Trump, Pezeshkian due to attend UN",
+      "description": "Iran could reopen the Strait of Hormuz to Gulf shipping within seven days if the US fulfilled Tehran's demands to ease military pressure and lift the blockade on Iranian ports, says an Iranian official.",
+      "url": "https://www.channelnewsasia.com/world/iran-us-peace-talk-revival-trump-un-general-assembly-6402351",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--LhfzQVYc--/c_crop,h_449,w_799,x_1,y_42/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-22T122001Z_2_LYNXMPEM8L0VR_RTROPTP_3_IRAN-CRISIS.JPG?itok=GNTd_l1z",
+      "publishedAt": "2026-09-22T14:08:00Z",
+      "content": "DUBAI: Iran and the United States hinted on Tuesday (Sep 22) at the prospect of reviving negotiations to end their conflict, with the presidents of both countries due at the UN General Assembly in Ne\u2026 [+2724 chars]"
+    },
+    {
+      "source": {
+        "id": "rt",
+        "name": "RT"
+      },
+      "author": "RT",
+      "title": "You still don\u2019t have the cards: Is Zelensky still bringing a bluff to Trump?",
+      "description": "Zelensky will meet Trump at the UN while being trailed by a $27 billion defense hole, Patriot shortages, and corruption scandals Read Full Article at RT.com",
+      "url": "https://www.rt.com/news/646079-zelensky-trump-card-bluff-un/",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6ab25cea85f5407f856c3575.jpg",
+      "publishedAt": "2026-09-22T14:06:57Z",
+      "content": "\u201cYou don\u2019t have the cards.\u201d\r\nThat was the message US President Donald Trump famously delivered to Vladimir Zelensky during their fiery Oval Office showdown in February 2025. Trump accused the Ukraini\u2026 [+9485 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "author": "Adam Harris",
+      "title": "The Trump-Xi Summit",
+      "description": "A high-stakes week unfolds among Trump, Xi, and other global leaders.",
+      "url": "https://www.theatlantic.com/podcasts/2026/09/ra-us-china/688731/",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/sOKa-9vxsGFU5HX85I7z3hIjHsQ=/0x85:3994x2165/1200x625/media/img/mt/2026/09/2026_09_21_RA_Xi_Trump_Radio_Atlantic_Horizontal/original.jpg",
+      "publishedAt": "2026-09-22T14:04:55Z",
+      "content": "Subscribe here: Apple Podcasts | Spotify | YouTube | Overcast | Pocket CastsIt\u2019s a big week on the global stage. More than 100 world leaders and their senior representatives will meet in New York Cit\u2026 [+27059 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "author": "Editorial Team",
+      "title": "Donald Trump to defend Iran war at UN General Assembly as conflict reaches seventh month",
+      "description": "Trump's UN speech may escalate geopolitical tensions, impacting global markets and diplomacy, while highlighting US unilateralism in conflict.\nThe post Donald Trump to defend Iran war at UN General Assembly as conflict reaches seventh month appeared first on \u2026",
+      "url": "https://cryptobriefing.com/trump-defends-iran-war-un-general-assembly/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/22100347/library-donald-trump-to-defend-iran-war-at-un-general-assembly-a-800x450.png",
+      "publishedAt": "2026-09-22T14:03:56Z",
+      "content": "The president is expected to frame ongoing military operations as essential to global security while criticizing the UN's ability to manage international conflicts. President Donald Trump is set to t\u2026 [+3610 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheJournal.ie"
+      },
+      "author": "AFP",
+      "title": "Trump expected to claim he is 'winning' both on battlefield and as a peacemaker in UN speech",
+      "description": "The keynote speech at the start of the UN General Assembly High-level week will provide Trump with a platform to renew his frequent assaults on the global body.",
+      "url": "https://www.thejournal.ie/trump-expected-to-claim-he-is-winning-both-on-the-battlefield-and-as-a-peacemaker-in-un-speech-7169663-Sep2026/",
+      "urlToImage": "https://img2.thejournal.ie/article/7169663/river/?height=400&version=7169682",
+      "publishedAt": "2026-09-22T14:03:09Z",
+      "content": "US PRESIDENT DONALD Trump is expected to claim he is winning both on the battlefield and as a peacemaker in a speech to the United Nations overshadowed by growing spillover from his stalled war again\u2026 [+4663 chars]"
+    },
+    {
+      "source": {
+        "id": "rte",
+        "name": "RTE"
+      },
+      "author": "RT\u00c9 News",
+      "title": "Trump to defend Iran war in UN speech, talk peace efforts",
+      "description": "US President Donald Trump will use a UN General Assembly address to argue that the war with Iran prevented Tehran from obtaining a nuclear weapon and to tout what he sees as progress toward peace and a global order increasingly aligned with American interests\u2026",
+      "url": "https://www.rte.ie/news/us/2026/0922/1592545-trump-un-meetings/",
+      "urlToImage": "https://www.rte.ie/images/00250cea-1600.jpg",
+      "publishedAt": "2026-09-22T14:00:49Z",
+      "content": "US President Donald Trump has opened his UN General Assembly address by touting the strength of the US economy, kicking off a speech in which he was expected to argue that the war with Iran prevented\u2026 [+3893 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "OilPrice.com"
       },
-      "author": "Irina Slav",
-      "title": "Oil Prices Reverse Course as Traders Watch US-Iran Diplomacy",
-      "description": "Crude oil prices, which had been falling since last week, today reversed course and made gains ahead of a UN General Assembly session that many hope will yield some progress on peace talks between the U.S. and Iran. As indicated by the latest oil price move, \u2026",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Reverse-Course-as-Traders-Watch-US-Iran-Diplomacy.html",
-      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-22_fkoq2rjld9.jpg",
-      "publishedAt": "2026-09-22T05:30:00Z",
-      "content": "A leaked EU RED IV\u2026\r\nSaudi Arabia suspends Yanbu oil\u2026\r\nBy Irina Slav - Sep 22, 2026, 12:30 AM CDTCrude oil prices, which had been falling since last week, today reversed course and made gains ahead o\u2026 [+1911 chars]"
+      "author": "RFE/RL staff",
+      "title": "Yemen Escalation Raises New Risks for Global Oil Markets",
+      "description": "A conflict that has simmered in Yemen for years has flared in recent weeks, with consequences that could reach far beyond the Middle East. The Houthi rebels have seized nearly all of Yemen\u2019s Red Sea coastline, giving the Iran-aligned militant group control of\u2026",
+      "url": "https://oilprice.com/Geopolitics/Middle-East/Yemen-Escalation-Raises-New-Risks-for-Global-Oil-Markets.html",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-21_m3jl5basn6.jpg",
+      "publishedAt": "2026-09-22T14:00:00Z",
+      "content": "The Houthis are pursuing their\u2026\r\nTrump's meeting with Gulf leaders\u2026\r\nThe United States sanctioned a\u2026\r\nBy RFE/RL staff - Sep 22, 2026, 9:00 AM CDTA conflict that has simmered in Yemen for years has fl\u2026 [+4625 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Business Standard"
+        "name": "Wnd.com"
       },
-      "author": "AP",
-      "title": "Trump set to address UN amid Iran conflict, global economic turmoil",
-      "description": "President Donald Trump is set to address the U.N. General Assembly on Tuesday at a tumultuous moment for the world - and for his presidency.\nThe global economy has been shaken by his decision to launch a war against Iran. Anxiety about the social impact being\u2026",
-      "url": "https://www.business-standard.com/world-news/trump-set-to-address-un-amid-iran-conflict-global-economic-turmoil-126092200197_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/17/thumb/featurecrop/1200X628/1789616491-0209.jpg",
-      "publishedAt": "2026-09-22T05:08:23Z",
-      "content": "President Donald Trump is set to address the UN General Assembly on Tuesday at a tumultuous moment for the world - and for his presidency.\r\nThe global economy has been shaken by his decision to launc\u2026 [+7493 chars]"
+      "author": "Joe Kovacs",
+      "title": "\u2018Not true\u2019: Trump blasts \u2018cowards and traitors\u2019 who claim U.S. is low on munitions",
+      "description": "'We have more munitions than we could ever possibly think of using, and are building them up now at levels we have never seen before'",
+      "url": "https://www.wnd.com/2026/09/not-true-trump-blasts-cowards-traitors-who-claim/",
+      "urlToImage": "https://www.wnd.com/wp-content/uploads/2026/09/cool-lights-red-green-war-aircraft-carrier-weapons-military-pentagon-jpg-1200x630.jpg",
+      "publishedAt": "2026-09-22T13:58:51Z",
+      "content": "A sailor signals to a Navy MH-60R Sea Hawk helicopter on the flight deck aboard the aircraft carrier USS George Washington in the U.S. 5th Fleet area of operations, Sept. 18, 2026. (U.S. Navy photo)\r\u2026 [+4355 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Business Standard"
+        "name": "Fair Observer"
       },
-      "author": "Unis Ahmad Dar",
-      "title": "US threatens to shut Iranian airlines out of global operations this week",
-      "description": "US sanctions on Iranian airlines: The sanctions threat goes beyond the airlines, targeting airports, ticketing companies, fuel suppliers, and other support businesses that help air carriers operate abroad",
-      "url": "https://www.business-standard.com/world-news/us-threatens-to-shut-iranian-airlines-out-of-global-operations-126092200267_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/04/thumb/fitandfill/1200X628/1788540678-902.jpg",
-      "publishedAt": "2026-09-22T05:04:23Z",
-      "content": "The sanctions threat goes beyond the airlines, targeting airports, ticketing companies, fuel suppliers, and other support businesses that help air carriers operate abroad\r\nTreasury Secretary Scott Be\u2026 [+3667 chars]"
+      "author": "Hollie McKay",
+      "title": "As Iran\u2019s War Drains Its Arsenal, Egypt, Turkey and Pakistan Rearm Sudan\u2019s Army",
+      "description": "Last year, Sudan\u2019s army was flying drones with a clear origin. Satellite images caught Mohajer-6 airframes parked on the runway at Wadi Sayyidna \u2014 an Iranian-designed platform the Rapid Support Forces (RSF) said it had shot down over Omdurman for the third ti\u2026",
+      "url": "https://www.fairobserver.com/region/middle_east_north_africa/as-irans-war-drains-its-arsenal-egypt-turkey-and-pakistan-rearm-sudans-army/",
+      "urlToImage": "https://www.fairobserver.com/wp-content/uploads/2026/09/Sudan-2.jpg",
+      "publishedAt": "2026-09-22T13:58:39Z",
+      "content": "Last year, Sudans army was flying drones with a clear origin. Satellite images caught Mohajer-6 airframes parked on the runway at Wadi Sayyidna an Iranian-designed platform the Rapid Support Forces (\u2026 [+5017 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Europa.eu"
+        "name": "Military.com"
       },
-      "author": "European Central Bank",
-      "title": "Philip R. Lane: Interview with Le Temps",
-      "description": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
-      "url": "https://www.ecb.europa.eu/press/inter/date/2026/html/ecb.in260922~5f89d300ee.en.html",
-      "urlToImage": "https://www.ecb.europa.eu/press/inter/shared/img/socialmedia/social-default.jpg?58a9573de993c82d3c9e0b84d422b52a",
-      "publishedAt": "2026-09-22T05:00:00Z",
-      "content": "22 September 2026\r\nHow does the ECB assess the ongoing energy crisis? \r\nEssentially, we experienced an initial wave of energy price increases in March and April this year, and then some optimism afte\u2026 [+3291 chars]"
+      "author": "MLT Staff",
+      "title": "Russia and Ukraine Trade Deadly Strikes as Zelenskyy Prepares to Meet Trump",
+      "description": "The repeated attacks on Russian refineries, following Moscow\u2019s strikes on\u00a0Ukraine\u2019s power grid, have caused international shortages of diesel.",
+      "url": "https://military.com/russia-and-ukraine-trade-deadly-strikes-as-zelenskyy-prepares-to-meet-trump",
+      "urlToImage": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/09/ap26265337419531.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-09-22T13:58:20Z",
+      "content": "KYIV, Ukraine (AP) Russia bombarded at least four Ukrainian regions overnight with missiles and drones, killing five people, officials said Tuesday, and Ukraines forces damaged another Russian oil re\u2026 [+5725 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "DW (English)"
+        "name": "Globalresearch.ca"
       },
-      "author": "Dharvi Vaid Dhulia",
-      "title": "UK to refuel Saudi jets amid conflict with Yemen's Houthis",
-      "description": "British Prime Minister Andy Burnham said the UK's \"time-limited\" and \"defensive\" military support aims to help Saudi Arabia repel Houthi attacks and will not include supporting Saudi attacks against the Yemeni rebels.",
-      "url": "https://www.dw.com/en/uk-to-refuel-saudi-jets-amid-conflict-with-yemens-houthis/a-79364964",
-      "urlToImage": "https://static.dw.com/image/79364667_6.jpg",
-      "publishedAt": "2026-09-22T04:58:00Z",
-      "content": "British Prime Minister Andy Burnham has agreed to give limited military support to Saudi Arabia as the Middle Eastern kingdom continues to face attacks from Yemen's Houthi rebels.\r\nBritain's Royal Ai\u2026 [+3038 chars]"
+      "author": "Ret Admiral Cem G\u00fcrdeniz",
+      "title": "From 1453 to 2026: As the West\u2019s 500-Year World System Comes to an End",
+      "description": "As the post-colonial era ends, the key question is no longer how the West will rule the world, but how it will live in a world it cannot rule alone.\n***\nCertain turning points in world history produce consequences that \u2026\nThe post From 1453 to 2026: As the Wes\u2026",
+      "url": "https://www.globalresearch.ca/west-500-year-world-system-comes-end/5941350",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2026/09/multipolar.jpeg",
+      "publishedAt": "2026-09-22T13:51:22Z",
+      "content": "As the post-colonial era ends, the key question is no longer how the West will rule the world, but how it will live in a world it cannot rule alone.\r\n***\r\nCertain turning points in world history prod\u2026 [+33178 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "pbs.org",
+      "title": "WATCH LIVE: Trump addresses 2026 United Nations General Assembly",
+      "description": "President Donald Trump returns to the General Assembly nearing the seven-month mark of a new war against Iran that he insists is necessary to address a nuclear threat posed by Iran.",
+      "url": "https://biztoc.com/x/1faa56b6fe11d7d4",
+      "urlToImage": "https://biztoc.com/cdn/1faa56b6fe11d7d4_s.webp",
+      "publishedAt": "2026-09-22T13:42:52Z",
+      "content": "President Donald Trump returns to the General Assembly nearing the seven-month mark of a new war against Iran that he insists is necessary to address a nuclear threat posed by Iran.\r\nThis story appea\u2026 [+35 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "author": "Editorial Team",
+      "title": "Federal Reserve\u2019s Collins warns of persistent inflation risks above 2%",
+      "description": "Persistent inflation above 2% could lead to prolonged economic tightening, impacting growth and increasing the risk of financial instability.\nThe post Federal Reserve\u2019s Collins warns of persistent inflation risks above 2% appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/fed-collins-warns-persistent-inflation-risks/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/22094209/library-federal-reserve-s-collins-warns-of-persistent-inflation--2-800x450.png",
+      "publishedAt": "2026-09-22T13:42:12Z",
+      "content": "Boston Fed president flags geopolitical supply shocks and strong consumer spending as forces keeping price pressures elevated well beyond the central bank's comfort zone Boston Federal Reserve Presid\u2026 [+2445 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalresearch.ca"
+      },
+      "author": "Katie Bo Lillis",
+      "title": "US Military Had Close Call After Using AI for False Intelligence Report, \u201cAlmost Started a War\u201d",
+      "description": "The intelligence report, circulated across the US military this spring in the midst of the war with Iran, immediately set off alarm bells: A Chinese ship in the Middle East was transporting components of a nuclear weapons program.\nThe US \u2026\nThe post US Militar\u2026",
+      "url": "https://www.globalresearch.ca/us-military-close-call-using-ai-false-intelligence-report-sources-say/5941275",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2026/09/us-military-ai-report.jpg",
+      "publishedAt": "2026-09-22T13:41:03Z",
+      "content": "The intelligence report, circulated across the US military this spring in the midst of the war with Iran, immediately set off alarm bells: A Chinese ship in the Middle East was transporting component\u2026 [+1531 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailyreckoning.com"
+      },
+      "author": "Byron King",
+      "title": "The World Has Oil, but Not Enough Refining",
+      "description": "This post The World Has Oil, but Not Enough Refining appeared first on Daily Reckoning.\n\u201cThe world runs on diesel,\u201d goes the saying. And \u201cHouston, we have a problem,\u201d goes another saying. So today, we\u2019ll discuss diesel (and its molecular cousin jet fuel). But\u2026",
+      "url": "https://dailyreckoning.com/the-world-has-oil-but-not-enough-refining/",
+      "urlToImage": "https://dailyreckoning.com/wp-content/uploads/2026/09/mr-issue-09-22-26-img-1.jpg",
+      "publishedAt": "2026-09-22T13:40:35Z",
+      "content": "The world runs on diesel, goes the saying.\r\nAnd Houston, we have a problem, goes another saying.\r\nSo today, well discuss diesel (and its molecular cousin jet fuel). But first well talk about oil. And\u2026 [+11404 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newser"
+      },
+      "author": "Arden Dier with Newser.AI",
+      "title": "Inside the Exclusive Club for Ejected Pilots",
+      "description": "Ron Bath's initiation into one of aviation's strangest clubs began with a bird strike at nearly 700mph over Nevada and ended with him rocketing through his Phantom's canopy, breaking his back and neck on impact. As Marcus Weisgerber reports in the Wall Street\u2026",
+      "url": "https://www.newser.com/story/396695/inside-the-exclusive-club-for-ejected-pilots.html",
+      "urlToImage": "https://cdn.newser.com/image/1713147-12-20260922090019.jpeg",
+      "publishedAt": "2026-09-22T13:40:00Z",
+      "content": "Ron Bath's initiation into one of aviation's strangest clubs began with a bird strike at nearly 700mph over Nevada and ended with him rocketing through his Phantom's canopy, breaking his back and nec\u2026 [+1041 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalresearch.ca"
+      },
+      "author": "Helena Glass",
+      "title": "Food Shortages Worldwide: Trump the \u201cVisionary Leader\u201d, Heritage Foundation and Proxies Dictate Project 2025 for America and Argentina",
+      "description": "We have now progressed from simple oil shortages as a result of Trump\u2019s War with Iran, to the potential for food shortages, not just in the US \u2013 but globally. The catch?Fertilizer. A commodity that was plentiful and is now \u2026\nThe post Food Shortages Worldwide:\u2026",
+      "url": "https://www.globalresearch.ca/heritage-foundation-proxies-dictate-project-2025-america-argentina/5941332",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2026/09/heritage-foundation.jpg",
+      "publishedAt": "2026-09-22T13:37:36Z",
+      "content": "We have now progressed from simple oil shortages as a result of Trumps War with Iran, to the potential for food shortages, not just in the US but globally. The catch?Fertilizer. A commodity that was \u2026 [+5838 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rigzone"
+      },
+      "author": "Salma El Wardany, Anthony Di Paola",
+      "title": "Saudis in Process of Starting Vital Oil Pipeline",
+      "description": "Saudi Arabia is in the early stages of starting up a key oil pipeline, people familiar with the matter said.",
+      "url": "https://www.rigzone.com/news/wire/saudis_in_process_of_starting_vital_oil_pipeline-22-sep-2026-184674-article/",
+      "urlToImage": "https://images.rigzone.com/images/news/articles/Saudis-in-Process-of-Starting-Vital-Oil-Pipeline-184674-1200x628.png",
+      "publishedAt": "2026-09-22T13:34:37Z",
+      "content": "Saudi Arabia is in the early stages of starting up a key oil pipeline that has enabled Riyadh to bypass the Strait of Hormuz after the conduit was halted earlier this month, people familiar with the \u2026 [+4026 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "Trump to address U.N. General Assembly and meet with world leaders as he navigates Iran, Gaza, Ukraine conflicts - CBS News",
+      "description": "Trump to address U.N. General Assembly and meet with world leaders as he navigates Iran, Gaza, Ukraine conflictsCBS News Trump\u2019s bizarre social media blitz leaves world guessing ahead of UN addressThe Guardian UN General Assembly live: Donald Trump to address\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185739700",
+      "urlToImage": null,
+      "publishedAt": "2026-09-22T13:34:15Z",
+      "content": "C Code. C Code Run. Run, Code, RUN!\r\nPLEASE!!!!"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Military.com"
+      },
+      "author": "MLT Staff",
+      "title": "Trump Returns to UN at a Moment of Anxiety About Iran, AI and the Future of the World Body Itself",
+      "description": "Trump intends to underscore that \u201che is using American power to confront longstanding challenges and reshape the world to America\u2019s benefit.\"",
+      "url": "https://military.com/trump-returns-to-un-at-a-moment-of-anxiety-about-iran-ai-and-the-future-of-the-world-body-itself",
+      "urlToImage": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/09/ap26265040356675.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-09-22T13:30:07Z",
+      "content": "NEW YORK (AP) President Donald Trump is set to address the U.N. General Assembly on Tuesday at a tumultuous moment for the world and for his presidency.\r\nThe global economy has been shaken by his dec\u2026 [+7533 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailykos.com"
+      },
+      "author": "kos",
+      "title": "Ukraine is ignoring Trump\u2014as it should",
+      "description": "Trump made the ridiculous demand for Ukraine to stop attacking Russian oil facilities.",
+      "url": "http://www.dailykos.com/stories/2026/9/22/800101396/world/ukraine-ignoring-trump/",
+      "urlToImage": "https://www.dailykos.com/wp-content/uploads/sites/2/2026/03/AP26055135342637.jpg?w=1500",
+      "publishedAt": "2026-09-22T13:30:00Z",
+      "content": "A little over a week ago, President Donald Trump demanded that Ukraine stop attacking Russian oil facilities.\u00a0\r\nPresident Donald Trump sits beside Ukraine\u2019s President Volodymyr Zelenskyy in the Oval \u2026 [+2989 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Maziar Motamedi",
+      "title": "Iran delegation to present narrative of resilience, diplomacy at UNGA",
+      "description": "Iran\u2019s delegation has arrived to New York for the UNGA where the war with the United States will be raised.",
+      "url": "https://www.aljazeera.com/news/2026/9/22/iran-delegation-to-present-narrative-of-resilience-diplomacy-at-unga",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab272ec1b2ac-1790079724.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-22T13:29:53Z",
+      "content": "Tehran, Iran \u00a0Iranian President Masoud Pezeshkian and his team are heading to New York for the United Nations General Assembly (UNGA), where they are expected to express grievances about the United S\u2026 [+6131 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Reuters",
+      "title": "India\u2019s Russian oil imports fall 16.5% in August as Middle East supplies rise",
+      "description": "India\u2019s Russian oil imports fell 16.5% month-on-month to about 2.1 million bpd in August, while purchases from Iraq rose sharply and Saudi Arabia increased supplies. The shift comes as Middle Eastern producers use storage and export terminals outside the Stra\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/indias-russian-oil-imports-fall-16-5-in-august-as-middle-east-supplies-rise/articleshow/134413634.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134413690,width-1200,height-630,imgsize-74688,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-22T13:27:04Z",
+      "content": "New Delhi: Russia's share in India's oil imports fell in August, while supplies from the Middle East increased as Abu Dhabi National Oil Co (ADNOC) sold oil from the region from outside the Strait of\u2026 [+1873 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI World Desk",
+      "title": "Philippine forests are being restored without planting every tree; scientists use natural regeneration to bring degraded land back",
+      "description": "Researchers in the Philippines are innovating with assisted natural regeneration as a strategy for forest recovery, which prioritizes the management of returning trees. The adoption of these practices by communities relies heavily on socioeconomic and environ\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/philippine-forests-are-being-restored-without-planting-every-tree-scientists-use-natural-regeneration-to-bring-degraded-land-back/articleshow/134413026.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134413537,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T13:20:12Z",
+      "content": "<ul><li>News</li>\r\n<li>World News</li>\r\n<li>Rest of World News</li>\r\n<li>Philippine forests are being restored without planting every tree; scientists use natural regeneration to bring degraded land \u2026 [+1609 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Diplomat"
+      },
+      "author": "Daeyeon Lee",
+      "title": "Why South Korea Has Little Room to Send Troops to Hormuz",
+      "description": "Seoul has previously sent troops to support U.S. military operations in the Middle East. Today, both the external and domestic environments make that much harder to do.",
+      "url": "https://thediplomat.com/2026/09/why-south-korea-has-little-room-to-send-troops-to-hormuz/",
+      "urlToImage": "https://thediplomat.com/wp-content/uploads/2025/10/sizes/td-story-s-2/thediplomat_2025-10-29-221703.jpg",
+      "publishedAt": "2026-09-22T13:20:00Z",
+      "content": "Last month, U.S. President Donald Trump posted on Truth Social that I recently asked the President of South Korea if they would like to join us in the Denuclearization of the Islamic Republic of Iran\u2026 [+14017 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": null,
+      "title": "Iran war looms over Trump at U.N. General Assembly",
+      "description": "President Trump will address world leaders at the U.N. General Assembly with the Iran war and instability in the Middle East looming over the annual gathering. CBS News' Olivia Rinaldi and Holly Williams report.",
+      "url": "https://www.cbsnews.com/video/trump-war-looms-trump-u-n-general-assembly/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/22/f5642680-d3de-4478-8c7f-91b5925247d9/thumbnail/1200x630/0911c07ce5ce7114319439e514f4c66a/cbsn-fusion-trump-and-world-leaders-meet-as-iran-war-continues-thumbnail.jpg",
+      "publishedAt": "2026-09-22T13:17:16Z",
+      "content": "Copyright \u00a92026 CBS Interactive Inc. All rights reserved."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "Houthis try to push deeper into western Yemen, upending life, witnesses tell NPR - NPR",
+      "description": "Houthis try to push deeper into western Yemen, upending life, witnesses tell NPRNPR Houthis pound Yemen\u2019s Mokha port for 4th day, officials say Iran behind escalationarabnews.com Looting reported in Yemen\u2019s Mocha after city was seized by Houthis \u2014 Asharq Al-A\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185739572",
+      "urlToImage": null,
+      "publishedAt": "2026-09-22T13:14:17Z",
+      "content": "C Code. C Code Run. Run, Code, RUN!\r\nPLEASE!!!!"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "EditorDavid",
+      "title": "Pentagon Investigators Say Overreliance on Palantir AI Contributed to US Strike That Killed 123 Iranian Children",
+      "description": "Two U.S. missiles hit an elementary school in Iran, killing over 150 people including 123 children on the first day of the Iran War. But Gizmodo notes that a new Bloomberg investigation cites U.S. officials involved in an unreleased internal Pentagon review w\u2026",
+      "url": "https://news.slashdot.org/story/26/09/22/0614238/pentagon-investigators-say-overreliance-on-palantir-ai-contributed-to-us-strike-that-killed-123-iranian-children",
+      "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
+      "publishedAt": "2026-09-22T13:04:00Z",
+      "content": "According to the officials who spoke to Bloomberg, some personnel inside U.S. Central Command leaned too hard on the AI inside the Maven Smart System, an AI-powered data integration and targeting pla\u2026 [+2119 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Raw Story"
+      },
+      "author": "Tom Boggioni",
+      "title": "Trump has UN officials on edge before speech after flurry of social media rants",
+      "description": "Diplomats filing into the UN General Assembly hall Tuesday have no idea which version of Trump they're about to get, according to a report from The Guardian.President Donald Trump has spent the days before his address flooding Truth Social with a \"bizarre' mi\u2026",
+      "url": "https://www.rawstory.com/trump-un-fears/",
+      "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=67810497&width=1200&height=600&coordinates=0%2C29%2C0%2C29",
+      "publishedAt": "2026-09-22T13:02:04Z",
+      "content": "Diplomats filing into the UN General Assembly hall Tuesday have no idea which version of Trump they're about to get, according to a report from The Guardian.\r\nPresident Donald Trump has spent the day\u2026 [+1643 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Fox News Power Rankings: For the Democrats, where could it possibly go wrong?",
+      "description": "Democrats hold an 11-point generic ballot lead as Trump's Iran war drives gas prices up 50%, dragging down Republican midterm prospects nationwide.",
+      "url": "https://www.foxnews.com/politics/fox-news-power-rankings-democrats-where-could-go-wrong",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/ELEC26_FS_PWRRNK_HOUSE_COMP_SHIFTS_0921.png",
+      "publishedAt": "2026-09-22T13:00:03Z",
+      "content": "From the moment President Trump completed his comeback in 2024, voters had good reason to think that the Democrats would retake the House this November.\r\nThe presidents party has lost ground in all b\u2026 [+8896 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "UN warns of rising Yemen displacement as thousands flee to Djibouti",
+      "description": "Renewed fighting could drive 10,000 across the Red Sea and displace more than 230,000 internally, UNHCR says.",
+      "url": "https://www.aljazeera.com/news/2026/9/22/un-warns-of-rising-yemen-displacement-as-thousands-flee-to-djibouti",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-19T183952Z_1011159295_RC2IMNAFO7DU_RTRMADP_3_IRAN-CRISIS-YEMEN-DJIBOUTI-DISPLACED-1790078544.jpg?resize=1200%2C675",
+      "publishedAt": "2026-09-22T12:58:29Z",
+      "content": "The number of refugees fleeing Yemen across the Red Sea to Djibouti could reach 10,000 as result of renewed fighting in the country, while internal displacement inside Yemen could swell to more than \u2026 [+2309 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Why is the Bab al-Mandab Strait so important?",
+      "description": "The BBC's Frank Gardner explains why the narrow waterway is key to oil transportation and the world economy.",
+      "url": "https://www.bbc.co.uk/news/videos/c6kgw4xklvx3o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0e7a/live/0791d660-b690-11f1-a430-4d16ee157c41.jpg",
+      "publishedAt": "2026-09-22T12:57:59Z",
+      "content": "Thousands of refugees have fled Yemen in recent days after Iran-backed Houthis seized territory along the country's Red Sea coastline, including near the Bab al-Mandab Strait. \r\nYemen has been devast\u2026 [+488 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "The Hill",
+      "title": "Proposed diesel export ban pits GOP senators against each other",
+      "description": "Senate Republicans are clashing over a proposal endorsed by Sen. Chuck Grassley (Iowa) and other farm-state Republicans to embargo the export of diesel to increase supply and lower prices at home, something U.S. leaders last implemented during the 1970s energ\u2026",
+      "url": "https://freerepublic.com/focus/f-chat/4396427/posts",
+      "urlToImage": null,
+      "publishedAt": "2026-09-22T12:37:59Z",
+      "content": "Skip to comments.\r\nProposed diesel export ban pits GOP senators against each otherThe Hill ^\r\n | September 22, 2026\r\n | Alexander Bolton\r\nPosted on 09/22/2026 5:37:59 AM PDT by Miami Rebel\r\nSenate Re\u2026 [+9133 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Haaretz"
+      },
+      "author": "Reuters",
+      "title": "Trump to address UN General Assembly amid war with Iran",
+      "description": "The U.S. president is expected to discuss Iran and meet Gulf leaders as the region grapples with the war and renewed Houthi attacks",
+      "url": "https://www.haaretz.com/us-news/2026-09-22/ty-article/trump-to-address-un-general-assembly-amid-war-with-iran/000001a0-c91b-d52e-a7f4-ff1f11990000",
+      "urlToImage": "https://img.haarets.co.il/bs/000001a0-c91b-d52e-a7f4-ff1f11990000/18/b5/cd6d4d39418fae7c49376a984086/511513.jpg?&width=1200&height=630&cmsprod",
+      "publishedAt": "2026-09-22T12:36:51Z",
+      "content": "U.S. President Donald Trump is set to address the UN General Assembly in New York on Tuesday, with the ongoing U.S.-Israeli war against Iran and mounting instability across the Middle East expected t\u2026 [+71 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Diplomat"
+      },
+      "author": "Reed Chervin",
+      "title": "BRICS 2026 Reveals Ambition, Contradictions, and Uncertain Futures",
+      "description": "BRICS\u2019 New Delhi Summit expanded the grouping\u2019s ambitions, but geopolitical divisions and weak institutional clarity continue to challenge its future.",
+      "url": "https://thediplomat.com/2026/09/brics-2026-reveals-ambition-contradictions-and-uncertain-futures/",
+      "urlToImage": "https://thediplomat.com/wp-content/uploads/2026/09/sizes/td-story-s-2/thediplomat_2026-09-22-213610.jpg",
+      "publishedAt": "2026-09-22T12:33:00Z",
+      "content": "Much fanfare accompanied the two-day (September 12-13) 2026 BRICS Summit in New Delhi. The Indian government shut down the capital through road closures, dignitaries made grand statements including, \u2026 [+10610 chars]"
+    },
+    {
+      "source": {
+        "id": "rt",
+        "name": "RT"
+      },
+      "author": "RT",
+      "title": "Macron urges von der Leyen to relax EU fuel rules as energy crunch bites",
+      "description": "French President Emmanuel Macron has urged the European Commission to relax diesel and kerosene standards to boost refinery output as prices and shortages hit France",
+      "url": "https://www.rt.com/business/646083-macron-fuel-rules/",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6ab2675f2030274d5a607e97.jpg",
+      "publishedAt": "2026-09-22T12:29:06Z",
+      "content": "French President Emmanuel Macron has urged the European Commission to temporarily lower EU quality requirements for diesel and kerosene as record prices and growing fuel shortages hit France, broadca\u2026 [+2780 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Haaretz"
+      },
+      "author": "Noa Shpigel",
+      "title": "Defense Minister: Gaza City will be evacuated if another Israeli is abducted",
+      "description": "Defense minister Israel Katz said Israel won't withdraw from Gaza's Yellow Line while Hamas remains in power; threatened third round of strikes on Iran",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-09-22/ty-article/.premium/gaza-city-will-be-evacuated-if-another-israeli-abducted-defense-minister-says/000001a0-c87a-de5d-a5fa-d97bbcf00000",
+      "urlToImage": "https://img.haarets.co.il/bs/000001a0-c87a-de5d-a5fa-d97bbcf00000/47/f0/146d9ebd4b138892b1f415e28edd/513009-2.jpg?precrop=2400,1395,x0,y82&width=1200&height=630&cmsprod",
+      "publishedAt": "2026-09-22T12:25:43Z",
+      "content": "Israel will not withdraw from the so-called Yellow Line in Gaza to new positions inside the Strip as long as Hamas remains in power and the enclave has not been demilitarized, including its tunnel ne\u2026 [+48 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Raw Story"
+      },
+      "author": "Travis Gettys",
+      "title": "'Abysmal' polling looms over Trump's 'big day' at the UN: 'Hail Mary diplomacy?'",
+      "description": "President Donald Trump is set to address the United Nations General Assembly on Tuesday as public support collapses for his handling of foreign policy.Only 36 percent of Americans believe the U.S. is winning the war, compared with 64 percent who say it is not\u2026",
+      "url": "https://www.rawstory.com/donald-trump-foreign-policy-2677913952/",
+      "urlToImage": "https://www.rawstory.com/media-library/rage-as-trump-s-bizarre-rain-tax-ruling-roils-waters-on-chesapeake-bay.jpg?id=67792994&width=1200&height=600&coordinates=0%2C166%2C0%2C167",
+      "publishedAt": "2026-09-22T12:22:02Z",
+      "content": "President Donald Trump is set to address the United Nations General Assembly on Tuesday as public support collapses for his handling of foreign policy.\r\nOnly 36 percent of Americans believe the U.S. \u2026 [+2072 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "gcaptain.com"
+      },
+      "author": "Bruce Kimbrell",
+      "title": "The Wartime Secretary of the Navy",
+      "description": "What Hung Cao\u2019s First Five Months Tell Us About the Job Ahead By Bruce Kimbrell (Policy Op-Ed) Cao paired his leadership selections with what he called \u201cleadership by presence\u201d: placing...",
+      "url": "https://gcaptain.com/the-wartime-secretary-of-the-navy/",
+      "urlToImage": "https://gcaptain.com/wp-content/uploads/2026/05/Acting-secretary-Hung-Cao.jpg",
+      "publishedAt": "2026-09-22T12:19:10Z",
+      "content": "What Hung Cao\u2019s First Five Months Tell Us About the Job Ahead\r\nBy Bruce Kimbrell\r\n (Policy Op-Ed)\r\nCao paired his leadership selections with what he called leadership by presence\r\n: placing acquisiti\u2026 [+16972 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": "HuffPost",
+      "title": "Laura Ingraham Turns On Trump \u2014 And Her Guest James Carville Eats It Up",
+      "description": "The Fox News host also appeared to stretch the truth in her criticism.",
+      "url": "https://www.huffpost.com/entry/laura-ingraham-turns-on-trump-and-james-carville-eats-it-up_n_6ab245d8e4b043d6b568698d",
+      "urlToImage": "https://img.huffingtonpost.com/asset/6ab25d401800007d42f14ad5.jpeg?cache=A91fRPoz5l&ops=1200_630",
+      "publishedAt": "2026-09-22T12:12:58Z",
+      "content": "Laura Ingraham gave one of her stronger rebukes of President Donald Trump on Monday during an interview with Democratic strategist James Carville. But it wasnt totally the truth.\r\nThe Fox News host n\u2026 [+1419 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "semafor.com",
+      "title": "Saudi issues new warnings, as Houthi attacks intensify",
+      "description": "Saudi authorities issued a new alert over attacks from Yemen, where fighting intensified, as fears grew of the Middle East conflict expanding. Saudi Arabia warned residents in a province bordering Yemen of potential danger after Iran-backed Houthi fighters ma\u2026",
+      "url": "https://biztoc.com/x/bf9b747e80bc3a43",
+      "urlToImage": "https://biztoc.com/cdn/bf9b747e80bc3a43_s.webp",
+      "publishedAt": "2026-09-22T12:12:46Z",
+      "content": "Saudi authorities issued a new alert over attacks from Yemen, where fighting intensified, as fears grew of the Middle East conflict expanding. Saudi Arabia warned residents in a province bordering Ye\u2026 [+141 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thelocal.com"
+      },
+      "author": "The Local Europe",
+      "title": "COMPARE: How expensive are fuel prices around Europe right now?",
+      "description": "Fuel prices are rocketing around Europe but in some countries the cost of filling a tank is far higher than in others, partly because governments are taking different measures to tackle the crisis.",
+      "url": "https://www.thelocal.com/20260922/compare-how-expensive-are-fuel-prices-around-europe-right-now",
+      "urlToImage": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20260916__C8GF39E__v1__MidRes__FranceEnergyOilEconomy.jpg@webp",
+      "publishedAt": "2026-09-22T12:07:14Z",
+      "content": "Fuel prices are rocketing around Europe but in some countries the cost of filling a tank is far higher than in others, partly because governments are taking different measures to tackle the crisis.\r\n\u2026 [+8580 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thelocal.com"
+      },
+      "author": "The Local Europe",
+      "title": "COMPARE: How expensive are fuel prices around Europe right now?",
+      "description": "Fuel prices are rocketing around Europe but in some countries the cost of filling a tank is far higher than in others, partly because governments are taking different measures to tackle the crisis.",
+      "url": "https://www.thelocal.com/20260922/compare-how-expensive-are-fuel-prices-around-europe-right-now",
+      "urlToImage": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20260916__C8GF39E__v1__MidRes__FranceEnergyOilEconomy.jpg@webp",
+      "publishedAt": "2026-09-22T12:07:14Z",
+      "content": "Fuel prices are rocketing around Europe but in some countries the cost of filling a tank is far higher than in others, partly because governments are taking different measures to tackle the crisis.\r\n\u2026 [+8580 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Pranjal Pandey",
+      "title": "Iran ready reopen Hormuz within 7 days, negotiate if the US lifts blockade",
+      "description": "Middle East News: Iran on Tuesday reportedly offered to reopen the Hormuz Strait within seven days if the United States takes initial steps toward easing military press.",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-ready-reopen-hormuz-within-7-days-negotiate-if-the-us-lifts-blockade/articleshow/134411572.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134411872,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T12:01:43Z",
+      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Pezeshkian Flies To US Aboard Obscure, Unsanctioned Airline",
+      "description": "Iran's President Masud Pezeshkian is on his way to New York to attend the 81st UN General Assembly, but he's flying on a plane operated by a little-known airline called Ashianeh.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260922-rferl05.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-22T12:00:00Z",
+      "content": "By Kian Sharifi 14:25 22.9.2026\r\nIran's President Masud Pezeshkian is on his way to New York to attend the 81st UN General Assembly, but he's flying on a plane operated by a little-known airline call\u2026 [+1776 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Trump Expects Peace Deal With Iran After US November Elections",
+      "description": "US President Donald Trump said he expects his administration will strike a peace agreement with Iran after voters in the United States head to the polls in November for midterm elections.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260922-rferl04.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-22T12:00:00Z",
+      "content": "17:33 22.9.2026\r\nUS President Donald Trump said he expects his administration will strike a peace agreement with Iran after voters in the United States head to the polls in November for midterm elect\u2026 [+1563 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Why China Is Unlikely To Pressure Iran Ahead Of Trump-Xi Summit",
+      "description": "Ahead of a high-stakes US-China summit planned for September 24 at the White House, Beijing appears to be spotlighting its influence over Iran to gain leverage during negotiations with its chief geopolitical rival.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260922-rferl01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-22T12:00:00Z",
+      "content": "By Matthew Fulco September 22, 2026\r\nAhead of a high-stakes US-China summit planned for September 24 at the White House, Beijing appears to be spotlighting its influence over Iran to gain leverage du\u2026 [+8848 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "G7 Statement on Bab al-Mandab and Navigational Rights and Freedoms",
+      "description": "Foreign Ministers of Canada, France, Germany, Italy, Japan, the United Kingdom and the United States of America, and the High Representative of the European Union condemn continued strikes carried out by the Houthis in Yemen and against the Kingdom of Saudi A\u2026",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260922-ukfcdo01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-22T12:00:00Z",
+      "content": "Press release\r\nForeign Ministers of Canada, France, Germany, Italy, Japan, the United Kingdom and the United States of America, and the High Representative of the European Union condemn continued str\u2026 [+2330 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "The President discussed Middle East security with Kuwait's Crown Prince",
+      "description": "President Gitanas Naus\u0117da met with Crown Prince of Kuwait Sheikh Sabah Khaled Al-Hamad Al-Sabah. The meeting focused on the security situation in the Middle East, Iran's attacks against countries on the Arabian Peninsula, ensuring freedom of navigation, and t\u2026",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260922-lithuania-pres03.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-22T12:00:00Z",
+      "content": "President of the Republic of Lithuania\r\nSeptember 22, 2026\r\nPresident Gitanas Nausda met with Crown Prince of Kuwait Sheikh Sabah Khaled Al-Hamad Al-Sabah. The meeting focused on the security situati\u2026 [+1213 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Shaheen, Coons, Reed, Warner, Warren, Kim Statement Ahead of President Xi Jinping's State Visit",
+      "description": "Today, U.S. Senators Jeanne Shaheen (D-NH), Ranking Member of the Senate Foreign Relations Committee, Chris Coons (D-DE), Ranking Member for Senate Defense appropriations, Patty Murray (D-WA), Vice Chair of the Senate Appropriations Committee, Jack Reed (D-RI\u2026",
+      "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/09/china-260922-sfrc01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-22T12:00:00Z",
+      "content": "Senate Foreign Relations Committee\r\nSeptember 22, 2026\r\nWASHINGTON -- Today, U.S. Senators Jeanne Shaheen (D-NH), Ranking Member of the Senate Foreign Relations Committee, Chris Coons (D-DE), Ranking\u2026 [+2743 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Trump defends military action against Iran, Venezuela, and calls for rebrand of AI",
+      "description": "US President Donald Trump used his address to the UN General Assembly on Tuesday to defend recent military action against Iran, urging countries to maintain economic pressure on Tehran - and declaring that he now faces a choice between making a deal, or takin\u2026",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260922-unnews02.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-22T12:00:00Z",
+      "content": "General Assembly coverage\r\n 22 September 2026 - US President Donald Trump used his address to the UN General Assembly on Tuesday to defend recent military action against Iran, urging countries to mai\u2026 [+5087 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Writersdigest.com"
+      },
+      "author": "Robert Lee Brewer",
+      "title": "Tanaz Bhathena: Have Faith in Your Work",
+      "description": "In this interview, author Tanaz Bhathena discusses how growing up on myths and legends led to her new historical fantasy, Witch Daughter.\nThe post Tanaz Bhathena: Have Faith in Your Work appeared first on Writer's Digest.",
+      "url": "https://www.writersdigest.com/tanaz-bhathena-have-faith-in-your-work#article",
+      "urlToImage": "https://www.writersdigest.com/uploads/2026/09/WD-Web-Images-4.png?auto=webp",
+      "publishedAt": "2026-09-22T12:00:00Z",
+      "content": "Tanaz\u00a0Bhathena\u00a0is an award-winning Zoroastrian author of contemporary and fantasy fiction. Her books include\u00a0Of Light and Shadow,\u00a0Hunted by the Sky, which won the White Pine Award and the Bapsi Sidhw\u2026 [+4114 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Displacement on the rise in Yemen as fighting continues",
+      "description": "As hostilities worsen in Yemen, more people have been fleeing their homes, further intensifying the humanitarian crisis within the region, the UN Refugee Agency (UNHCR) warned on Tuesday.",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260922-unnews01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-22T12:00:00Z",
+      "content": "By Dominika Tomaszewska-Mortimer in Geneva22 September 2026 - As hostilities worsen in Yemen, more people have been fleeing their homes, further intensifying the humanitarian crisis within the region\u2026 [+2357 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Vance Says Iran Could Not Build A Nuclear Weapon Tomorrow Or Even In A Year",
+      "description": "US Vice President JD Vance has said Iran could not build a nuclear weapon tomorrow, in six months, or within a year, even if it tried.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260922-rferl07.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-22T12:00:00Z",
+      "content": "08:01 22.9.2026\r\nUS Vice President JD Vance has said Iran could not build a nuclear weapon tomorrow, in six months, or within a year, even if it tried.\r\nIn an interview with Newsmax, Vance said that \u2026 [+1327 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "US Treasury Chief: All Iranian Airlines Will Be Shut Down From September 23",
+      "description": "All Iranian airlines will be shut down around the world from September 23, US Treasury Secretary Scott Bessent said.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260922-rferl06.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-22T12:00:00Z",
+      "content": "08:15 22.9.2026\r\nAll Iranian airlines will be shut down around the world from September 23, US Treasury Secretary Scott Bessent said.\r\nSpeaking to CNBC on September 21, Bessent outlined measures rela\u2026 [+1489 chars]"
     }
   ]
 }
