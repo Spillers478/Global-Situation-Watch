@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "UN News"
+      },
+      "author": "United Nations",
+      "title": "Security Council Press Statement on Terrorist Attack in Kohat, Khyber Pakhtunkhwa, Pakistan",
+      "description": "The following Security Council press statement was issued today by Council President J\u00e9r\u00f4me Bonnafont (France):",
+      "url": "https://press.un.org/en/2026/sc16459.doc.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-22T23:07:36Z",
+      "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "UN News"
+      },
+      "author": "United Nations",
+      "title": "Security Council Press Statement on Terrorist Attack in Kohat, Khyber Pakhtunkhwa, Pakistan",
+      "description": "The following Security Council press statement was issued today by Council President J\u00e9r\u00f4me Bonnafont (France):",
+      "url": "https://press.un.org/en/2026/sc16549.doc.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-22T23:07:36Z",
+      "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]"
+    }
+  ]
+}

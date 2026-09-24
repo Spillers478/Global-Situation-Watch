@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Barak Ravid",
+      "title": "U.S. and Iran officials meet in New York to discuss ending the war - Axios",
+      "description": "The gathering in New York is a rare opportunity for the two sides to engage.",
+      "url": "https://www.axios.com/2026/09/22/unga-iran-us-trump-war",
+      "urlToImage": "https://images.axios.com/6lWG5-ea5PyYMHBnn262HLmGChk=/0x0:7170x4033/1366x768/2026/09/22/1790087449264.jpeg",
+      "publishedAt": "2026-09-23T06:09:30Z",
+      "content": "Why it matters: The General Assembly offers a rare opportunity to try to break the stalemate in the war, which is approaching the seven-month mark with no signs of a breakthrough.\r\n<ul><li>It's the f\u2026 [+2356 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Katelyn  Polantz, Tierney Sneed",
+      "title": "Defending reporter ban, Justice Department argues stories on Trump\u2019s ballroom project, Iran war threaten national security - CNN",
+      "description": "The Justice Department said late Tuesday that CNN, MS NOW and Politico can be shut out from areas of the White House at the president\u2019s will. The lawyers argue that the outlets\u2019 coverage of the Iran war and of President Donald Tump\u2019s ballroom construction cou\u2026",
+      "url": "https://www.cnn.com/2026/09/22/politics/trump-admin-responds-press-lawsuit-white-house-access",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2296403085.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-09-23T03:57:00Z",
+      "content": "The Justice Department said late Tuesday that CNN, MS NOW and Politico can be shut out from areas of the White House at the presidents will. The lawyers argue that the outlets coverage of the Iran wa\u2026 [+3009 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "John Power",
+      "title": "Wall Street\u2019s Nasdaq hits all-time high as AI frenzy gathers pace - Al Jazeera",
+      "description": "Investors shrug off AI safety concerns and Iran war, sending market to a new peak.",
+      "url": "https://www.aljazeera.com/economy/2026/9/23/wall-streets-nasdaq-hits-all-time-high-as-ai-frenzy-gathers-pace",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-15T095842Z_665351690_RC2LJNACQ7C4_RTRMADP_3_USA-STOCKS-MIDTERM-1790124313_656288-1790128507.jpg?resize=1200%2C630&quality=80",
+      "publishedAt": "2026-09-23T02:59:46Z",
+      "content": "Wall Streets Nasdaq stock exchange has hit an all-time high, shrugging off concerns about AI safety risks, sky-high tech valuations and the energy shock caused by the United States war on Iran.\r\nThe \u2026 [+2647 chars]"
+    }
+  ]
+}

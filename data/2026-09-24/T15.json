@@ -1,0 +1,71 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "Cyclone Arnab coming? Schools shut across Odisha; Andhra Pradesh on high alert as Bay of Bengal depression inches closer; heavy rain, 75 kmph winds likely",
+      "description": "Cyclone Arnab: A depression over the Bay of Bengal is moving towards the north Andhra Pradesh-south Odisha coast, triggering school closures, evacuation preparations and a red alert in southern Odisha, even as questions swirl over whether the system will turn\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/cyclone-arnab-coming-schools-shut-across-odisha-andhra-pradesh-on-high-alert-as-bay-of-bengal-depression-inches-closer-heavy-rain-75-kmph-winds-likely/articleshow/134425730.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134425989,width-1200,height-630,imgsize-203736,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-23T04:43:51Z",
+      "content": "Odisha has shut schools in several districts and put 11 district collectors on high alert as a weather system over the Bay of Bengal moves towards the coast. India Meteorological Department has warne\u2026 [+3308 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Punch"
+      },
+      "author": "Punch Newspapers",
+      "title": "Bad roads drive customers away from Ogun businesses",
+      "description": "Traders and artisans on Pipeline Road, Arepo, lament declining sales as the deplorable road drives customers away, causing flooding and excessive dust.\n\nRead More: https://punchng.com/bad-roads-drive-customers-away-from-ogun-businesses/",
+      "url": "https://punchng.com/bad-roads-drive-customers-away-from-ogun-businesses/",
+      "urlToImage": "https://punchng.com/wp-content/uploads/2026/06/Dapo-Abiodun-neat-neat-1200x630.webp",
+      "publishedAt": "2026-09-23T01:52:56Z",
+      "content": "The deplorable condition of Pipeline Road in Arepo, Ogun State, is taking a toll on small businesses in the area, with traders and artisans lamenting declining patronage, excessive dust, flooding and\u2026 [+5952 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Raw Story"
+      },
+      "author": "Tom Boggioni",
+      "title": "Trump has UN officials on edge before speech after flurry of social media rants",
+      "description": "Diplomats filing into the UN General Assembly hall Tuesday have no idea which version of Trump they're about to get, according to a report from The Guardian.President Donald Trump has spent the days before his address flooding Truth Social with a \"bizarre' mi\u2026",
+      "url": "https://www.rawstory.com/trump-un-fears/",
+      "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=67810497&width=1200&height=600&coordinates=0%2C29%2C0%2C29",
+      "publishedAt": "2026-09-22T13:02:04Z",
+      "content": "Diplomats filing into the UN General Assembly hall Tuesday have no idea which version of Trump they're about to get, according to a report from The Guardian.\r\nPresident Donald Trump has spent the day\u2026 [+1643 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Vriti Jain",
+      "title": "Cyclone Arnab on the way? Deep depression lashes Odisha, forces school closures and evacuation prep in 11 districts; red alert issued",
+      "description": "Cyclone Arnab update: The IMD clarified that the Bay of Bengal depression targeting Odisha and Andhra Pradesh will intensify into a deep depression, not a cyclone. As Odisha closes schools and issues red alerts for heavy rainfall, 'Arnab' remains merely the n\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/cyclone-arnab-on-the-way-deep-depression-lashes-odisha-forces-school-closures-and-evacuation-prep-in-11-districts-red-alert-issued/articleshow/134412272.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134412369,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T12:33:11Z",
+      "content": "<ul><li>News</li>\r\n<li>City News</li>\r\n<li>bhubaneswar News</li>\r\n<li>Cyclone Arnab on the way? Deep depression lashes Odisha, forces school closures and evacuation prep in 11 districts; red alert is\u2026 [+1676 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Unity.com"
+      },
+      "author": null,
+      "title": "Real Vision \u2014 Damage, Hit Feedback & Vision Modes Fullscreen FX by u3d",
+      "description": "Damage feedback and vision modes for Unity 6 in one fullscreen pass: hit indicators, blood on the lens, low health, stun, night vision, thermal, sonar, scope. Built-in + URP + HDRP.- One fullscreen pass per pipeline over a shared HLSL body (Built-in image eff\u2026",
+      "url": "https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/real-vision-damage-hit-feedback-vision-modes-fullscreen-fx-406040",
+      "urlToImage": "https://assetstorev1-prd-cdn.unity3d.com/key-image/3b3a3401-d772-43fe-ac13-3020817f0571.jpg?v=1",
+      "publishedAt": "2026-09-22T11:28:13Z",
+      "content": "Over 11,000 five-star assets\r\nRated by 85,000+ customers\r\nSupported by 100,000+ forum members\r\nEvery asset moderated by Unity"
+    }
+  ]
+}

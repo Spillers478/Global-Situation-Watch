@@ -1,0 +1,90 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": "Rory Gibb, Sadie J. Ryan, David M. Pigott, Maria del Pilar Fernandez, Renata L. Muylaert, Gregory F. Albery, Daniel J. Becker, Jason K. Blackburn, Hernan Caceres-Escobar, Michael Celone, Evan A. Eskew, Hannah K. Frank, Barbara A. Han, Erin N. Hulland, Kate E. Jones, Rebecca Katz, Adam Kucharski, Direk Limmathurotsakul, Catherine A. Lippi, Joshua Longbottom, Juan Fernando Martinez, Jane P. Messina, Elaine O. Nsoesie, David W. Redding, Daniel Romero-Alvarez, Boris V. Schmid, Stephanie N. Seifert, Anabel Sinchi, Christopher H. Trisos, Michelle Wille, Colin J. Carlson",
+      "title": "The anthropogenic fingerprint on emerging infectious diseases",
+      "description": "Emerging infectious disease&nbsp;outbreak risks&nbsp;are ubiquitous&nbsp;worldwide, and highest in landscapes where people, livestock and fragmented natural ecosystems coexist, but detection and data on&nbsp;outbreaks&nbsp;are currently&nbsp;limited&nbsp;by&n\u2026",
+      "url": "https://www.nature.com/articles/s41586-026-11058-6",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11058-6/MediaObjects/41586_2026_11058_Fig1_HTML.png",
+      "publishedAt": "2026-09-23T00:00:00Z",
+      "content": "The aim of this study was to test empirically for a general detectable fingerprint of anthropogenic drivers on the geographical distribution of human outbreaks of 32 emerging infectious diseases, bas\u2026 [+43138 chars]",
+      "cocom": "Transregional",
+      "_original_topic_id": "T03"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Reason"
+      },
+      "author": "Zach Weissmueller",
+      "title": "How Will History Remember Anthony Fauci?",
+      "description": "Fauci's diary reveals a self-obsessed career bureaucrat who refused to consider the possibility that his research contributed to origin of COVID-19.",
+      "url": "https://reason.com/video/2026/09/22/how-will-history-remember-anthony-fauci/",
+      "urlToImage": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/09/v3.jpg",
+      "publishedAt": "2026-09-22T18:40:00Z",
+      "content": "Anthony Fauci once claimed that an attack on him is an attack on the entire field of rational, empirical inquiry. \n\"It is very easy to pick out an individual and make them a target,\" he told CBS' Fac\u2026 [+27890 chars]",
+      "cocom": "Transregional",
+      "_original_topic_id": "T03"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Jonathan Lambert",
+      "title": "Pandemic treaty negotiations are at an impasse",
+      "description": "In May 2025, many countries signed a pandemic treaty aimed at avoiding some of the mistakes of the COVID-19 pandemic. But countries are still negotiating the heart of the treaty.",
+      "url": "https://www.npr.org/2026/09/22/nx-s1-5966558/pandemic-treaty-negotiations-are-at-an-impasse",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+      "publishedAt": "2026-09-22T20:50:12Z",
+      "content": "In May 2025, many countries signed a pandemic treaty aimed at avoiding some of the mistakes of the COVID-19 pandemic. But countries are still negotiating the heart of the treaty.",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Manman Chen, Wanzhou Wang, Feng Sha, Zichen Ye, Yuankai Zhao, Chao Yang, Ze Liang, Yu Jiang, Xijie Wang, Jinling Tang",
+      "title": "Global, regional, and national impact of epidemic disasters on health workforce equality between 1990 and 2019: An ecological and modeling study",
+      "description": "Manman Chen, Wanzhou Wang and colleagues examined how infectious disease epidemics were associated with changes in the health workforce across 194 countries and territories from 1990 to 2019. Their findings suggest that epidemic events were linked to health w\u2026",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005134",
+      "urlToImage": "https://journals.plos.org/plosmedicine/article/figure/image?id=10.1371/journal.pmed.1005134.g005&size=inline",
+      "publishedAt": "2026-09-22T14:00:00Z",
+      "content": "Citation: Chen M, Wang W, Sha F, Ye Z, Zhao Y, Yang C, et al. (2026) Global, regional, and national impact of epidemic disasters on health workforce equality between 1990 and 2019: An ecological and \u2026 [+43454 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Aps.org"
+      },
+      "author": "Santiago Lamata-Ot\u00edn, Alex Arenas, Jes\u00fas G\u00f3mez-Garde\u00f1es, and David Soriano-Pa\u00f1os",
+      "title": "Interplay between Evolutionary and Epidemic Timescales Challenges the Outcome of Control Policies",
+      "description": "The classical SIR model, assuming constant viral traits, represents the cornerstone model for computing key indicators during epidemic outbreaks, such as the expected peak of infections or the impact of control policies. Viral evolution has been reported to c\u2026",
+      "url": "https://link.aps.org/doi/10.1103/56yd-sfks",
+      "urlToImage": null,
+      "publishedAt": "2026-09-22T10:00:00Z",
+      "content": "The classical SIR model, assuming constant viral traits, represents the cornerstone model for computing key indicators during epidemic outbreaks, such as the expected peak of infections or the impact\u2026 [+1000 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Www.gov.uk"
+      },
+      "author": "UK Health Security Agency",
+      "title": "UKHSA and University of Oxford scientists uncover genetic changes in the bacteria causing severe Kent meningococcal disease outbreak",
+      "description": "Scientists used genome sequencing to identify genetic changes that may explain the severity of the Kent meningococcal disease outbreak earlier this year.",
+      "url": "https://www.gov.uk/government/news/ukhsa-and-university-of-oxford-scientists-uncover-genetic-changes-in-the-bacteria-causing-severe-kent-meningococcal-disease-outbreak",
+      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "publishedAt": "2026-09-22T08:30:02Z",
+      "content": "Scientists from UKHSA, the University of Oxford and a collaboration of academic institutions have used bacterial genome sequencing to understand why the meningococcal disease outbreak in Kent earlier\u2026 [+4963 chars]",
+      "cocom": "USEUCOM"
+    }
+  ]
+}
