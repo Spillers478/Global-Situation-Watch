@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 105,
+  "totalResults": 106,
   "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "German prosecutors investigate 105-year-old for crimes at Nazi PoW camp",
+      "description": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
+      "url": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a1b2/live/b86b4a70-b811-11f1-a430-4d16ee157c41.jpg",
+      "publishedAt": "2026-09-24T14:37:34Z",
+      "content": "German prosecutors are investigating a man aged 105 over allegations that he was an accessory to multiple counts of murder at a Nazi prisoner of war camp in World War Two.\r\nThe suspect is alleged to \u2026 [+1303 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -164,12 +177,12 @@
         "name": "Globalsecurity.org"
       },
       "author": "John Pike",
-      "title": "Critical water shortage in Gaza",
-      "description": "Norway provides NOK 25 million to UNICEF to sustain critical water, sanitation and hygiene services in Gaza.",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260924-govno02.htm",
+      "title": "Gaza: A Call to Action on Humanitarian Access and Health",
+      "description": "A Call to Action on Humanitarian Access and Health in Gaza from Australia, Denmark, Egypt, Jordan, Kuwait, Qatar, Saudi Arabia and the UK",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260924-ukfcdo02.htm",
       "urlToImage": null,
       "publishedAt": "2026-09-24T12:00:00Z",
-      "content": "Government of Norway\r\nPress release | Date: 24/09/2026\r\nNorway provides NOK 25 million to UNICEF to sustain critical water, sanitation and hygiene services in Gaza.\r\nNorway is providing NOK 25 millio\u2026 [+2312 chars]"
+      "content": "News story\r\nA Call to Action on Humanitarian Access and Health in Gaza from Australia, Denmark, Egypt, Jordan, Kuwait, Qatar, Saudi Arabia and the UK\r\nFrom: Foreign, Commonwealth &amp; Development Of\u2026 [+6081 chars]"
     },
     {
       "source": {
@@ -203,6 +216,19 @@
         "name": "Globalsecurity.org"
       },
       "author": "John Pike",
+      "title": "The Takeaway: UN General Assembly debate Day 2",
+      "description": "This edition of UN News's The Takeaway recaps key highlghts at the UN General Assembly on Wednesday, including focus on the war in Ukraine and a renewed push by African countries for Security Council reform.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/un/un-260924-unnews01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-24T12:00:00Z",
+      "content": "24 September 2026 - This edition of UN News's The Takeaway recaps key highlghts at the UN General Assembly on Wednesday, including focus on the war in Ukraine and a renewed push by African countries \u2026 [+3933 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
       "title": "UK announces major package of support for humanitarian relief and early recovery in Gaza",
       "description": "More Palestinians are set to receive vital aid as a result of a major new package of UK support announced by the Foreign Secretary today at the UN General Assembly.",
       "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260924-ukfcdo01.htm",
@@ -216,25 +242,12 @@
         "name": "Globalsecurity.org"
       },
       "author": "John Pike",
-      "title": "Gaza: A Call to Action on Humanitarian Access and Health",
-      "description": "A Call to Action on Humanitarian Access and Health in Gaza from Australia, Denmark, Egypt, Jordan, Kuwait, Qatar, Saudi Arabia and the UK",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260924-ukfcdo02.htm",
+      "title": "Critical water shortage in Gaza",
+      "description": "Norway provides NOK 25 million to UNICEF to sustain critical water, sanitation and hygiene services in Gaza.",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260924-govno02.htm",
       "urlToImage": null,
       "publishedAt": "2026-09-24T12:00:00Z",
-      "content": "News story\r\nA Call to Action on Humanitarian Access and Health in Gaza from Australia, Denmark, Egypt, Jordan, Kuwait, Qatar, Saudi Arabia and the UK\r\nFrom: Foreign, Commonwealth &amp; Development Of\u2026 [+6081 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalsecurity.org"
-      },
-      "author": "John Pike",
-      "title": "The Takeaway: UN General Assembly debate Day 2",
-      "description": "This edition of UN News's The Takeaway recaps key highlghts at the UN General Assembly on Wednesday, including focus on the war in Ukraine and a renewed push by African countries for Security Council reform.",
-      "url": "https://www.globalsecurity.org/wmd/library/news/un/un-260924-unnews01.htm",
-      "urlToImage": null,
-      "publishedAt": "2026-09-24T12:00:00Z",
-      "content": "24 September 2026 - This edition of UN News's The Takeaway recaps key highlghts at the UN General Assembly on Wednesday, including focus on the war in Ukraine and a renewed push by African countries \u2026 [+3933 chars]"
+      "content": "Government of Norway\r\nPress release | Date: 24/09/2026\r\nNorway provides NOK 25 million to UNICEF to sustain critical water, sanitation and hygiene services in Gaza.\r\nNorway is providing NOK 25 millio\u2026 [+2312 chars]"
     },
     {
       "source": {
@@ -1288,19 +1301,6 @@
       "urlToImage": "https://live-production.wcms.abc-cdn.net.au/121ba148b988459b0e234af048cce9cd?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
       "publishedAt": "2026-09-23T03:31:38Z",
       "content": "Scores of the world's most powerful people have gathered in New York for the UN's annual leader summit.\r\nUS President Donald Trump dominated the early headlines from the event with a speech that thre\u2026 [+6494 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "SIBI ARASU",
-      "title": "El Ni\u00f1o predicted to cause nearly half a million more deaths",
-      "description": "BENGALURU, India (AP) \u2014 This year's powerful El Nino and the record global heat it's driving, along with severe droughts, wildfires and shrinking water supplies, could lead to nearly half a million more deaths worldwide by the end of February, according to a \u2026",
-      "url": "https://www.yahoo.com/news/science/articles/years-el-nino-driven-heat-031025859.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/986d71812c19d2a003ce748491829f1a615c95bb148c5f57e1c439b07ed935c0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Ff9f42b1d3c54278e317285fd41ab9d78.jpg",
-      "publishedAt": "2026-09-23T03:10:25Z",
-      "content": "BENGALURU, India (AP) This year's powerful El Nino and the record global heat it's driving, along with severe droughts, wildfires and shrinking water supplies, could lead to nearly half a million mor\u2026 [+4604 chars]"
     }
   ]
 }

@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 31,
+  "totalResults": 32,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Military.com"
+      },
+      "author": "Nick Mordowanec",
+      "title": "Army Identifies Female Captain as 19th Iran War-Related Death, Citing 'Non-Combat Incident'",
+      "description": "Capt. Bianca C. Wilkerson, 37, of Norfolk, Va., died on Sept. 18. She's been posthumously promoted to major.",
+      "url": "https://military.com/army-identifies-female-captain-19th-iran-war-related-death-citing-non-combat-related-incident",
+      "urlToImage": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/09/9929141.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-09-24T14:38:33Z",
+      "content": "The U.S. Army confirmed that a 19th military service member has died in correlation to the ongoing Iran War.\r\nArmy officials told Military.com that the fallen soldier is Capt. Bianca C. Wilkerson, 37\u2026 [+2656 chars]"
+    },
     {
       "source": {
         "id": null,

@@ -2,33 +2,18 @@
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "Mediaite"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Kathianne Boniello",
-      "title": "Tech CEO Allegedly Conspired with Russians to Dupe Federal Agencies \u2014 Including Defense Department and Secret Service",
-      "description": "The company was based in Virginia -- but owned by five Russian nationals and had digital forensics software developed in Russia, according to authorities.\nThe post Tech CEO Allegedly Conspired with Russians to Dupe Federal Agencies \u2014 Including Defense Departm\u2026",
-      "url": "https://www.mediaite.com/media/news/tech-ceo-allegedly-conspired-with-russians-to-dupe-federal-agencies-including-defense-department-and-secret-service/",
-      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2026/09/AP26265146853910.jpg",
-      "publishedAt": "2026-09-24T13:37:41Z",
-      "content": "U.S. Secret Service agents disembark a presidential support helicopter ahead of President Donald Trumps arrival on Marine One, Monday, Sept. 21, 2026, at Joint Base Andrews, Md. (AP Photo/Julia Demar\u2026 [+3384 chars]",
-      "cocom": "USNORTHCOM",
-      "_original_topic_id": "flagship-ru-ua"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalsecurity.org"
-      },
-      "author": "John Pike",
-      "title": "US Company That Sold Phone Hacking Software To Pentagon, Secret Service Lied About Russian Ownership, Officials Say",
-      "description": "A US company that provided digital forensics and data-extraction software to the Pentagon and other government agencies was in fact owned by a Russian company that also sold software to Russian spy agencies, US authorities charged.",
-      "url": "https://www.globalsecurity.org/intell/library/news/2026/intell-260924-rferl01.htm",
-      "urlToImage": null,
-      "publishedAt": "2026-09-24T12:00:00Z",
-      "content": "By Mike Eckel September 24, 2026\r\nA US company that provided digital forensics and data-extraction software to the Pentagon and other government agencies was in fact owned by a Russian company that a\u2026 [+3094 chars]",
-      "cocom": "USNORTHCOM",
-      "_original_topic_id": "flagship-ru-ua"
+      "author": "Robert Hart",
+      "title": "Why can\u2019t we just keep rogue AIs off the internet?",
+      "description": "AI agents keep getting loose, escaping supposedly secure tests to attack real-world targets, commandeer obscure wikis, and leave instructions for other agents to follow. Researchers are testing these systems precisely because they might behave in unpredictabl\u2026",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2026-09-24T14:04:58Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nWhy cant we just keep rogue AIs off the internet?\r\nAir-gapping AI to keep it away from real-world targets makes testing safer, but less useful.\r\nby\r\nRobert HartC\u2026 [+7813 chars]",
+      "cocom": "Transregional",
+      "_original_topic_id": "T07"
     },
     {
       "source": {
@@ -267,6 +252,20 @@
       "publishedAt": "2026-09-23T12:03:41Z",
       "content": "Extortion group ShinyHunters is not afraid to make enemies. Now it claims to have breached the FBI.\r\nAfter reportedly taking over ransomware group Clops leak site, ShinyHunters says it attacked the F\u2026 [+7782 chars]",
       "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Ongoing Efforts to Create Powerful AI a 'Race Where Everyone Loses', UN Expert Tells Security Council, as Members, Tech Leaders Debate Governance Issues",
+      "description": "The rapid development of artificial intelligence (AI) technology presents great possibilities alongside potentially catastrophic risks that must be managed, the Security Council heard today, as both world leaders and industry executives weighed in as the orga\u2026",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260923-unsc01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-23T12:00:00Z",
+      "content": "Meetings CoverageSecurity Council\r\n10228th Meeting (PM)\r\nSC/1646223 September 2026\r\nThe rapid development of artificial intelligence (AI) technology presents great possibilities alongside potentially\u2026 [+10263 chars]",
+      "cocom": "Transregional"
     }
   ]
 }

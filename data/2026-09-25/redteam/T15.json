@@ -2,6 +2,21 @@
   "articles": [
     {
       "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Soumitra.Nandi",
+      "title": "Bengal seeks Centre\u2019s help for Rs 1,550cr Malda flood project",
+      "description": "West Bengal seeks Centre\u2019s help for Rs 1,550cr Malda flood project to curb erosion in Ratua-I and Manikchak; state to contribute Rs 610cr.",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/bengal-seeks-centres-help-for-rs-1550cr-malda-flood-project/articleshow/134464684.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134464682,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-24T14:08:30Z",
+      "content": "Follow Us On Social Media\r\nFlorida pension fund sues New York Times, seeks records over alleged anti-Israel bias in reportingCong killed Sikhs in 84, AAP now killing youth with drugs: PhookaAI-genera\u2026 [+1570 chars]",
+      "cocom": "USINDOPACOM",
+      "_original_topic_id": "flagship-ir-il"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Gossiplankanews.com"
       },

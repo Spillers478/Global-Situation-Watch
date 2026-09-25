@@ -2,15 +2,15 @@
   "topics": {
     "flagship-ru-ua": {
       "retrieved": 25,
-      "kept_here": 19,
-      "moved_out": 3,
-      "discarded": 3
+      "kept_here": 0,
+      "moved_out": 0,
+      "discarded": 0
     },
     "flagship-ir-il": {
       "retrieved": 25,
-      "kept_here": 6,
-      "moved_out": 0,
-      "discarded": 19
+      "kept_here": 9,
+      "moved_out": 1,
+      "discarded": 15
     },
     "T15": {
       "retrieved": 4,
@@ -20,8 +20,8 @@
     },
     "T01": {
       "retrieved": 10,
-      "kept_here": 6,
-      "moved_out": 1,
+      "kept_here": 1,
+      "moved_out": 6,
       "discarded": 3
     },
     "T02": {
@@ -38,27 +38,27 @@
     },
     "T04": {
       "retrieved": 12,
-      "kept_here": 4,
-      "moved_out": 1,
+      "kept_here": 5,
+      "moved_out": 0,
       "discarded": 7
     },
     "T05": {
       "retrieved": 25,
-      "kept_here": 3,
-      "moved_out": 6,
-      "discarded": 16
+      "kept_here": 7,
+      "moved_out": 4,
+      "discarded": 14
     },
     "T06": {
       "retrieved": 2,
-      "kept_here": 1,
-      "moved_out": 1,
+      "kept_here": 0,
+      "moved_out": 2,
       "discarded": 0
     },
     "T07": {
       "retrieved": 25,
-      "kept_here": 0,
-      "moved_out": 0,
-      "discarded": 0
+      "kept_here": 4,
+      "moved_out": 14,
+      "discarded": 7
     },
     "T09": {
       "retrieved": 3,
@@ -68,8 +68,8 @@
     },
     "T10": {
       "retrieved": 25,
-      "kept_here": 14,
-      "moved_out": 3,
+      "kept_here": 13,
+      "moved_out": 4,
       "discarded": 8
     },
     "T11": {
@@ -80,30 +80,31 @@
     },
     "T12": {
       "retrieved": 25,
-      "kept_here": 17,
-      "moved_out": 2,
-      "discarded": 6
+      "kept_here": 18,
+      "moved_out": 0,
+      "discarded": 7
     },
     "T13": {
       "retrieved": 24,
-      "kept_here": 5,
-      "moved_out": 11,
+      "kept_here": 6,
+      "moved_out": 10,
       "discarded": 8
     },
     "T14": {
       "retrieved": 17,
       "kept_here": 0,
-      "moved_out": 4,
-      "discarded": 13
+      "moved_out": 0,
+      "discarded": 0
     }
   },
   "totals": {
-    "kept": 89,
-    "reassigned": 42,
-    "discarded": 109,
+    "kept": 77,
+    "reassigned": 51,
+    "discarded": 95,
     "unclassified": 0
   },
   "failed_topics": [
-    "T07"
+    "T14",
+    "flagship-ru-ua"
   ]
 }

@@ -70,7 +70,7 @@
       "urlToImage": "https://images.theconversation.com/files/760501/original/file-20260917-50-grzpv5.jpg?ixlib=rb-4.1.1&rect=0%2C256%2C3072%2C1536&q=45&auto=format&w=1356&h=668&fit=crop",
       "publishedAt": "2026-09-23T13:49:49Z",
       "content": "Western Sahara has been carved in two since the 1980s by a wall that Morocco built to hold on to territory it occupied in 1975. Fifty years on, the conflict remains unresolved and the wall \u2013 known as\u2026 [+6538 chars]",
-      "cocom": "USCENTCOM"
+      "cocom": "USAFRICOM"
     },
     {
       "source": {
@@ -88,6 +88,20 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Ukraine: Switzerland helps safeguard grain harvest",
+      "description": "Switzerland is providing CHF 3 million in support of a project run by the United Nations Food and Agriculture Organisation (FAO) to safeguard the Ukrainian grain harvest and prepare for the next planting season. Providing additional storage capacity should pr\u2026",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260923-ch01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-23T12:00:00Z",
+      "content": "Swiss Government\r\nPress releasePublished on 23 September 2026\r\nBerna, 23.09.2026 -- Switzerland is providing CHF 3 million in support of a project run by the United Nations Food and Agriculture Organ\u2026 [+2428 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
         "id": "breitbart-news",
         "name": "Breitbart News"
       },
@@ -99,21 +113,6 @@
       "publishedAt": "2026-09-23T08:42:05Z",
       "content": "The French people face the prospect of becoming a minority in their own homeland by as early as the middle of the century, should the political establishment in Paris continue to embark upon its mass\u2026 [+5101 chars]",
       "cocom": "USEUCOM"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Diplomat"
-      },
-      "author": "Alex Howlett",
-      "title": "Burmese Refugees in Thailand Face Fresh Deportation Threat",
-      "description": "A recently-passed law increases the risk that people fleeing repression will be deported and forcibly recruited into the military\u2019s units of \"one-way troops.\"",
-      "url": "https://thediplomat.com/2026/09/burmese-refugees-in-thailand-face-fresh-deportation-threat/",
-      "urlToImage": "https://thediplomat.com/wp-content/uploads/2026/09/sizes/td-story-s-2/thediplomat_2026-09-24-142732.jpg",
-      "publishedAt": "2026-09-24T04:43:00Z",
-      "content": "In April of 2026, 23-year-old Nway became scared of the dark for the first time in her life. She would lie awake at night, jumping at the noise of a car engine humming past the house she shared with \u2026 [+19564 chars]",
-      "cocom": "USINDOPACOM",
-      "_original_topic_id": "T14"
     }
   ]
 }

@@ -1,9 +1,15 @@
 {
   "failures": [
     {
-      "topic": "T07",
+      "topic": "flagship-ru-ua",
       "articles": 25,
-      "error": "Expecting value: line 20 column 10 (char 986)",
+      "error": "Unterminated string starting at: line 26 column 1 (char 1647)",
+      "stop_reason": "max_tokens"
+    },
+    {
+      "topic": "T14",
+      "articles": 17,
+      "error": "Expecting value: line 18 column 10 (char 801)",
       "stop_reason": "max_tokens"
     }
   ]

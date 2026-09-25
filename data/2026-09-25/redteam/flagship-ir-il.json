@@ -2,18 +2,73 @@
   "articles": [
     {
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
+        "id": null,
+        "name": "Military.com"
       },
-      "author": null,
-      "title": "Trump-Xi summit could hold key to lower gas prices, GOP chairman says",
-      "description": "Rep. Brian Mast says President Donald Trump can press Xi Jinping to stop arming Iran, potentially easing gas prices tied to Strait of Hormuz chaos.",
-      "url": "https://www.foxnews.com/politics/trump-xi-summit-could-hold-key-lower-gas-prices-gop-chairman-says",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/donald-trump-xi-jinping-beijing-china-visit-fox-news-014.jpg",
-      "publishedAt": "2026-09-24T12:00:38Z",
-      "content": "President Donald Trump has a prime opportunity to help lower costs for Americans in his meeting with Chinese President Xi Jinping, the top GOP lawmaker overseeing U.S. diplomacy told Fox News Digital\u2026 [+3211 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "flagship-ru-ua"
+      "author": "Nick Mordowanec",
+      "title": "Army Identifies Female Captain as 19th Iran War-Related Death, Citing 'Non-Combat Incident'",
+      "description": "Capt. Bianca C. Wilkerson, 37, of Norfolk, Va., died on Sept. 18. She's been posthumously promoted to major.",
+      "url": "https://military.com/army-identifies-female-captain-19th-iran-war-related-death-citing-non-combat-related-incident",
+      "urlToImage": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/09/9929141.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-09-24T14:38:33Z",
+      "content": "The U.S. Army confirmed that a 19th military service member has died in correlation to the ongoing Iran War.\r\nArmy officials told Military.com that the fallen soldier is Capt. Bianca C. Wilkerson, 37\u2026 [+2656 chars]",
+      "cocom": "USCENTCOM"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Abhishek Mishra",
+      "title": "Palestinian president delivers UN speech by video after US denies visa again",
+      "description": "Palestinian President Mahmoud Abbas addressed the UN General Assembly on Thursday through prerecorded remarks from his office in Ramallah after the United",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/palestinian-president-delivers-un-speech-by-video-after-us-denies-visa-again/articleshow/134465022.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134465095,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-24T14:37:34Z",
+      "content": "Follow Us On Social Media\r\n4 arrested in Wasseypur firing case after shootoutOracle market value loses millions; as notice sent on data center project in New Mexico 'surfaces', company told developer\u2026 [+1514 chars]",
+      "cocom": "USCENTCOM"
+    },
+    {
+      "source": {
+        "id": "rte",
+        "name": "RTE"
+      },
+      "author": "RT\u00c9 News",
+      "title": "Netanyahu expected to denounce enemies, allies at UN",
+      "description": "Israel's Prime Minister Benjamin Netanyahu, facing a difficult reelection campaign at home, addresses the UN where he is expected to lash out at both enemies and allies that have crossed him in recent months.",
+      "url": "https://www.rte.ie/news/politics/2026/0924/1592839-un-netanyahu-israel/",
+      "urlToImage": "https://www.rte.ie/images/0021093f-1600.jpg",
+      "publishedAt": "2026-09-24T14:31:21Z",
+      "content": "Israel's Prime Minister Benjamin Netanyahu, facing a difficult reelection campaign at home, addresses the UN where he is expected to lash out at both enemies and allies that have crossed him in recen\u2026 [+5241 chars]",
+      "cocom": "USCENTCOM"
+    },
+    {
+      "source": {
+        "id": "rte",
+        "name": "RTE"
+      },
+      "author": "RT\u00c9 News",
+      "title": "Dozens of envoys at UN walk out of Netanyahu speech",
+      "description": "Dozens of envoys from across the world walked out of Prime Minister Benjamin Netanyahu's speech to the UN in protest at the Israeli leader.",
+      "url": "https://www.rte.ie/news/politics/2026/0924/1592839-un-netanyahu-israel-walkout/",
+      "urlToImage": "https://www.rte.ie/images/002510bc-1600.jpg",
+      "publishedAt": "2026-09-24T14:31:21Z",
+      "content": "Dozens of envoys from across the world walked out of Prime Minister Benjamin Netanyahu's speech to the UN in protest at the Israeli leader.\r\nWhen Mr Netanyahu walked to the rostrum at today's assembl\u2026 [+7359 chars]",
+      "cocom": "USCENTCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Whyevolutionistrue.com"
+      },
+      "author": "whyevolutionistrue",
+      "title": "The two-state delusion",
+      "description": "As I reported recently, UK foreign secretary Ed Miliband (under Labour) announced that a new government\u2019s policy would (if passed) include imposing sanctions on companies in the West Bank, but only Jewish ones.\u00a0 I also quoted Miliband at length to show that h\u2026",
+      "url": "https://whyevolutionistrue.com/2026/09/24/the-two-state-delusion/",
+      "urlToImage": "https://whyevolutionistrue.com/wp-content/uploads/2026/09/Screenshot-2026-09-23-at-12.40.15-PM.png",
+      "publishedAt": "2026-09-24T14:30:41Z",
+      "content": "As I reported recently, UK foreign secretary Ed Miliband (under Labour) announced that a new government\u2019s policy would (if passed) include imposing sanctions on companies in the West Bank, but only J\u2026 [+12097 chars]",
+      "cocom": "USCENTCOM"
     },
     {
       "source": {
@@ -27,6 +82,20 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-134464785,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-09-24T14:18:31Z",
       "content": "Follow Us On Social Media\r\nPocso case against Veeramani: TN govt places IPS officers A Arun, N Kannan on compulsory waitRide on Darjeelings iconic toy train among worlds top 25 travel experiencesTET \u2026 [+1438 chars]",
+      "cocom": "USCENTCOM"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Soror Shaiza",
+      "title": "How Iran\u2019s rowers kept training through war and bombing raids to win first-ever Asian Games gold in historic six-medal haul",
+      "description": "Iran\u2019s rowing team delivered a historic six-medal haul at the Asian Games in Nagoya after months of preparation disrupted by the Israel-Iran conflict. With athletes forced to train separately and indoors, Fatemeh Mojallal, Kimia Zarei and Zeinab Norouzi led t\u2026",
+      "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/how-irans-rowers-kept-training-through-war-and-bombing-raids-to-win-first-ever-asian-games-golds-in-historic-six-medal-haul/articleshow/134461605.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134464087,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-24T14:10:41Z",
+      "content": "View All Comments \r\nShare your thoughts in the comments\r\nBe respectful \u00b7 TOI community guidelines",
       "cocom": "USCENTCOM"
     },
     {
@@ -55,48 +124,6 @@
       "urlToImage": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/09/ap26266514667157.jpg?w=1600&h=900&fit=crop",
       "publishedAt": "2026-09-24T14:02:52Z",
       "content": "A U.S. representative walked out of Iranian President Masoud Pezeshkians United Nations (UN) General Assembly address Sept. 23 as the Iranian leader presented images of wartime destruction, including\u2026 [+5776 chars]",
-      "cocom": "USCENTCOM"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fair Observer"
-      },
-      "author": "Abdul Galil Shaif",
-      "title": "Hadramaut: The Battle Saudi Arabia Won and the Trust It Lost",
-      "description": "Houthi forces recently launched a rapid offensive along Yemen\u2019s Red Sea coast, capturing the strategically important port of Mocha and advancing toward the Bab al-Mandab Strait. On September 11, Reuters reported that Houthi forces had reached Perim, also know\u2026",
-      "url": "https://www.fairobserver.com/region/middle_east_north_africa/hadramaut-the-battle-saudi-arabia-won-and-the-trust-it-lost/",
-      "urlToImage": "https://www.fairobserver.com/wp-content/uploads/2026/09/Saudi-Arabia.jpg",
-      "publishedAt": "2026-09-24T14:00:18Z",
-      "content": "Houthi forces recently launched a rapid offensive along Yemens Red Sea coast, capturing the strategically important port of Mocha and advancing toward the Bab al-Mandab Strait. On September 11, Reute\u2026 [+14013 chars]",
-      "cocom": "USCENTCOM"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "Who are the Houthis and what do they want?",
-      "description": "A rapid military advance down Yemen's Red Sea coast has put the spotlight on the Iran-backed group, amid growing concerns about the global energy market.",
-      "url": "https://www.bbc.co.uk/news/articles/cqy7z228kee3o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8641/live/07d35700-b5f2-11f1-b1d1-571ed4d7ff2c.jpg",
-      "publishedAt": "2026-09-24T13:58:46Z",
-      "content": "The Houthis are an armed political and religious group from northern Yemen which champions the country's Shia Muslim minority, the Zaidis.\r\nThey declare themselves to be part of the Iranian-led \"axis\u2026 [+1046 chars]",
-      "cocom": "USCENTCOM"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "semafor.com",
-      "title": "US energy secretary downplays diesel export ban idea as prices climb",
-      "description": "Oil prices rose above $100 a barrel on the US-Iran geopolitical deadlock. Iran\u2019s president said Wednesday he was open to talks to end the war, but warned that Tehran wouldn\u2019t surrender its nuclear program \u2014 a major sticking point in the negotiations \u2014 or \u201cbow\u2026",
-      "url": "https://biztoc.com/x/96efb61faa1dbba4",
-      "urlToImage": "https://biztoc.com/cdn/96efb61faa1dbba4_s.webp",
-      "publishedAt": "2026-09-24T13:37:40Z",
-      "content": "Oil prices rose above $100 a barrel on the US-Iran geopolitical deadlock. Irans president said Wednesday he was open to talks to end the war, but warned that Tehran wouldnt surrender its nuclear prog\u2026 [+135 chars]",
       "cocom": "USCENTCOM"
     },
     {
@@ -173,6 +200,156 @@
       "content": "President Donald Trump and Israeli Prime Minister Benjamin Netanyahu shake hands after joint press conference announcing the U.S. peace plan for Gaza, Monday, Sept. 29, 2025, in the State Dining Room\u2026 [+3086 chars]",
       "cocom": "USCENTCOM",
       "_original_topic_id": "T06"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "semafor.com",
+      "title": "US energy secretary downplays diesel export ban idea as prices climb",
+      "description": "Oil prices rose above $100 a barrel on the US-Iran geopolitical deadlock. Iran\u2019s president said Wednesday he was open to talks to end the war, but warned that Tehran wouldn\u2019t surrender its nuclear program \u2014 a major sticking point in the negotiations \u2014 or \u201cbow\u2026",
+      "url": "https://biztoc.com/x/96efb61faa1dbba4",
+      "urlToImage": "https://biztoc.com/cdn/96efb61faa1dbba4_s.webp",
+      "publishedAt": "2026-09-24T13:37:40Z",
+      "content": "Oil prices rose above $100 a barrel on the US-Iran geopolitical deadlock. Irans president said Wednesday he was open to talks to end the war, but warned that Tehran wouldnt surrender its nuclear prog\u2026 [+135 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "By Alexander Cornwell and Emily Rose",
+      "title": "Netanyahu expected to criticize Mamdani in campaign-style U.N. speech",
+      "description": "By Alexander Cornwell and Emily Rose TEL AVIV, Sept 24 (Reuters) - Benjamin Netanyahu is expected to use his UN address on Thursday to berate New York Mayor Zohran Mamdani for calling him a war criminal, a feud that highlights the Israeli leader's growing iso\u2026",
+      "url": "https://www.yahoo.com/news/articles/netanyahu-expected-berate-yorks-mamdani-050432229.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/9f0000a6df4aa866825a45041663ca5f26bd7c430fefdad034a4ab0b7c2f07a1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Faffeef23f30b9e52d18cb68379dee057.jpg",
+      "publishedAt": "2026-09-24T13:20:36Z",
+      "content": "By Alexander Cornwell and Emily Rose\r\nTEL AVIV, Sept 24 (Reuters) - Benjamin Netanyahu is expected to use his UN address on Thursday to berate New York Mayor Zohran Mamdani for calling him a war crim\u2026 [+4980 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "author": "Estefano Gomez",
+      "title": "Israeli source hints at imminent strikes on Iran\u2019s nuclear sites",
+      "description": "The potential Israeli strikes on Iran could destabilize regional diplomacy, reducing chances for a U.S.-Iran deal and impacting global markets.\nThe post Israeli source hints at imminent strikes on Iran\u2019s nuclear sites appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/israeli-source-hints-at-imminent-strikes-on-irans-nuclear-sites/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/24083429/library-israeli-source-hints-at-imminent-strikes-on-iran-s-nucle-scaled-1-694x457.png",
+      "publishedAt": "2026-09-24T12:34:31Z",
+      "content": "An unnamed Israeli source has informed Saudi outlet Al Hadath that further military action against Iran is likely, stating that strikes on Iran\u2019s nuclear facilities are \u201ca matter of time.\u201d The source\u2026 [+1905 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "NY Post",
+      "title": "Iran\u2019s president claims country has been \u2018victim of terrorism\u2019 at UN \u2014 despite funding terror groups worldwide",
+      "description": "Iranian President Masoud Pezeshkian claimed Wednesday his country has \u201cbeen the victim of terrorism\u201d and blamed the US and Israel for instability in the Middle East during a wild address to the United Nations General Assembly. Pezeshkian, whose nation is the \u2026",
+      "url": "https://freerepublic.com/focus/f-chat/4396715/posts",
+      "urlToImage": null,
+      "publishedAt": "2026-09-24T12:14:48Z",
+      "content": "Skip to comments.\r\nIrans president claims country has been victim of terrorism at UN despite funding terror groups worldwideNY Post ^\r\n | 9/23/26\r\n | Ronny Reyes\r\nPosted on 09/24/2026 5:14:48 AM PDT \u2026 [+1993 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Matt Bradley",
+      "title": "Israel\u2019s Netanyahu takes the U.N. stage facing global isolation and a fight for his political future",
+      "description": "As Israeli Prime Minister Benjamin Netanyahu pleads his country\u2019s case at the United Nations General Assembly, his target audience will likely be Israeli voters.",
+      "url": "https://www.nbcnews.com/world/israel/israel-netanyahu-united-nations-general-assembly-gaza-iran-war-rcna599576",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250926-netanyahu-rs-ce1810.jpg",
+      "publishedAt": "2026-09-24T12:03:32Z",
+      "content": "TEL AVIV Even as Israeli Prime Minister Benjamin Netanyahu pleads his countrys case to the world at the United Nations General Assembly on Thursday, his target audience will likely be closer to home:\u2026 [+4753 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Iran, US Remain Far Apart Despite Renewed Talks",
+      "description": "Iran and the United States remain far apart on ending their nearly seven-month war despite renewed diplomacy, an Iranian official said on September 23, as President Masud Pezeshkian rejected US pressure in an address to the UN General Assembly.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260924-rferl01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-24T12:00:00Z",
+      "content": "08:22 24.9.2026\r\nIran and the United States remain far apart on ending their nearly seven-month war despite renewed diplomacy, an Iranian official said on September 23, as President Masud Pezeshkian \u2026 [+2030 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": "HuffPost",
+      "title": "Netanyahu Expected To Berate New York's Mamdani In 'Campaign Speech' Of UN Address",
+      "description": "Israeli President Benjamin Netanyahu is expected to berate New York Mayor Zohran Mamdani in 'campaign speech' of UN address, according to video statement this week.",
+      "url": "https://www.huffpost.com/entry/netanyahu-expected-to-berate-new-yorks-mamdani-in-campaign-speech-un-address_n_6ab504d6e4b07a6b0992948a",
+      "urlToImage": "https://img.huffingtonpost.com/asset/6ab505c61c0000c08995f2d3.jpeg?ops=1200_630",
+      "publishedAt": "2026-09-24T11:15:11Z",
+      "content": "Israeli Prime Minister Benjamin Netanyahu at his Likud party New Year event in Tel Aviv, Israel, Thursday, Sept. 17, 2026. (AP Photo/Ariel Schalit)\r\nTEL AVIV, Sept 24 (Reuters) - Benjamin Netanyahu i\u2026 [+4467 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Trump needs to warn China\u2019s Xi against \u2018dangerous alliance\u2019 with Iran, expert says",
+      "description": "President Donald Trump must warn Xi Jinping against pursuing a dangerous alliance with Iran as Operation Epic Fury continues, an expert told Fox News Digital.",
+      "url": "https://www.foxnews.com/politics/trump-warn-chinas-xi-against-dangerous-alliance-iran-expert-says",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/trump-xi-arrival-ceremony-andrews.jpg",
+      "publishedAt": "2026-09-24T11:06:19Z",
+      "content": "President Donald Trump needs to warn Chinese President Xi Jinping against pursuing a \"dangerous alliance\" with Iran when the two world leaders meet at the White House Thursday, an expert told Fox New\u2026 [+3325 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "author": "Andrew Exum",
+      "title": "Trump Could Leave the Iran Mess to His Successor",
+      "description": "And if he blames the next administration for whatever happens, he\u2019ll likely succeed.",
+      "url": "https://www.theatlantic.com/international/2026/09/trump-iran-successor-blame/688754/?utm_source=feed",
+      "urlToImage": null,
+      "publishedAt": "2026-09-24T11:00:00Z",
+      "content": "Nearly seven months in, the war in Iran seems nowhere close to a conclusion. Although talks between the United States and Iran continue, including this week, a disengaged Donald Trump appears uninter\u2026 [+5796 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Military.com"
+      },
+      "author": "Nick Mordowanec",
+      "title": "Army Identifies Female Captain as 19th Iran War-Related Death, Citing 'Non-Combat Incident'",
+      "description": "Capt. Bianca C. Wilkerson, 37, of Norfolk, Va., died on Sept. 18. She's been posthumously promoted to major.",
+      "url": "https://military.com/army-identifies-female-captain-19th-iran-war-related-death-citing-non-combat-related-incident",
+      "urlToImage": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/09/9929141.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-09-24T14:38:33Z",
+      "content": "The U.S. Army confirmed that a 19th military service member has died in correlation to the ongoing Iran War.\r\nArmy officials told Military.com that the fallen soldier is Capt. Bianca C. Wilkerson, 37\u2026 [+2656 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T10"
     },
     {
       "source": {
@@ -278,21 +455,6 @@
       "content": "This is Naked Capitalism fundraising week. 231 donors have already invested in our efforts to combat corruption and predatory conduct, particularly in the financial realm. Please join us and particip\u2026 [+21770 chars]",
       "cocom": "USCENTCOM",
       "_original_topic_id": "T13"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Al Jazeera Staff",
-      "title": "Iran\u2019s Pezeshkian slams \u2018terrorist\u2019 US but extols diplomacy in UN speech",
-      "description": "Pezeshkian leaves door open for negotiations, while calling out US blockade against Iran in Strait of Hormuz.",
-      "url": "https://www.aljazeera.com/news/2026/9/23/irans-president-slams-trumps-bullying-in-defiant-unga-speech",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790177043.jpg?resize=1920%2C1080&quality=80",
-      "publishedAt": "2026-09-23T18:36:39Z",
-      "content": "In a defiant speech at the United Nations General Assembly, Irans President Masoud Pezeshkian has delivered a sharp rebuke to a threat by US President Donald Trump from the same rostrum the previous \u2026 [+4527 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T14"
     }
   ]
 }

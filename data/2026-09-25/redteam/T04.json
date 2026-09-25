@@ -45,6 +45,20 @@
     },
     {
       "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "John Hayward",
+      "title": "Zelensky Warns U.N. that Russia\u2019s Putin Is \u2018Patient Zero\u2019 for Pandemic of War",
+      "description": "Volodymyr Zelensky warned the U.N. that Vladimir Putin is \u201cPatient Zero\u201d for a conflict that could spread across Europe and beyond.\nThe post Zelensky Warns U.N. that Russia\u2019s Putin Is \u2018Patient Zero\u2019 for Pandemic of War appeared first on Breitbart.",
+      "url": "https://www.breitbart.com/europe/2026/09/23/zelensky-warns-u-n-russias-putin-is-patient-zero-pandemic-of-war/",
+      "urlToImage": "https://media.breitbart.com/media/2026/09/Volodymyr-Zelensky-640x335.jpg",
+      "publishedAt": "2026-09-23T21:35:51Z",
+      "content": "Ukrainian President Volodymyr Zelensky warned the U.N. General Assembly (UNGA) on Wednesday that Russian President Vladimir Putin is Patient Zero for a conflict that could spread across Europe and be\u2026 [+6406 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Slashdot.org"
       },

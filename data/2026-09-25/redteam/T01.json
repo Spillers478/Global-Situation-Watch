@@ -2,62 +2,6 @@
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "financialpost.com",
-      "title": "Carney tells NYT he looked at \u2018extreme tail risk\u2019 of U.S. invasion",
-      "description": "Prime Minister Mark Carney said he\u2019d looked at \u201cextreme tail risk\u201d when asked by the New York Times about whether he\u2019d taken seriously the risk of U.S. military action against his country. \n \u201cI think you have a responsibility in these roles to look at extreme\u2026",
-      "url": "https://biztoc.com/x/b25146dd0938a72c",
-      "urlToImage": "https://biztoc.com/cdn/b25146dd0938a72c_s.webp",
-      "publishedAt": "2026-09-24T12:36:58Z",
-      "content": "Prime Minister Mark Carney said hed looked at extreme tail risk when asked by the New York Times about whether hed taken seriously the risk of U.S. military action against his country. I think you ha\u2026 [+143 chars]",
-      "cocom": "USNORTHCOM"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalsecurity.org"
-      },
-      "author": "John Pike",
-      "title": "Canada Prepared for Risk of US Military Invasion - Carney",
-      "description": "Canadian Prime Minister Mark Carney has admitted that Ottawa had spent the past year making contingency plans to prepare for the \"extreme tail risk\" of US military action in Canada.",
-      "url": "https://www.globalsecurity.org/wmd/library/news/canada/2026/canada-260924-sputnik01.htm",
-      "urlToImage": null,
-      "publishedAt": "2026-09-24T12:00:00Z",
-      "content": "20260924\r\nMOSCOW (Sputnik) - Canadian Prime Minister Mark Carney has admitted that Ottawa had spent the past year making contingency plans to prepare for the \"extreme tail risk\" of US military action\u2026 [+1582 chars]",
-      "cocom": "USNORTHCOM"
-    },
-    {
-      "source": {
-        "id": "financial-post",
-        "name": "Financial Post"
-      },
-      "author": "Bloomberg News",
-      "title": "Carney tells NYT he looked at \u2018extreme tail risk\u2019 of U.S. invasion",
-      "description": "Prime Minister Mark Carney said he\u2019d looked at \u201cextreme tail risk\u201d when asked whether he considered U.S. military action. Read more.",
-      "url": "https://financialpost.com/news/economy/carney-nyt-extreme-tail-risk-us-invasion",
-      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/09/0925-bc-carney-.jpg",
-      "publishedAt": "2026-09-24T11:44:09Z",
-      "content": "Prime Minister Mark Carney said hed looked at extreme tail risk when asked by the New York Times about whether hed taken seriously the risk of U.S. military action against his country.\r\nTHIS CONTENT \u2026 [+4246 chars]",
-      "cocom": "USNORTHCOM"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sputnikglobe.com"
-      },
-      "author": "Sputnik International",
-      "title": "Canada Prepared for Risk of US Military Invasion - Carney",
-      "description": "MOSCOW (Sputnik) - Canadian Prime Minister Mark Carney has admitted that Ottawa had spent the past year making contingency plans to prepare for the \"extreme tail risk\" of US military action in Canada.",
-      "url": "https://sputnikglobe.com/20260924/canada-prepared-for-risk-of-us-military-invasion---carney-1124780110.html",
-      "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1124780110.jpg?11219507191790241898",
-      "publishedAt": "2026-09-24T09:24:57Z",
-      "content": "Sputnik brings you all the latest breaking stories, expert analysis and videos from North and South America.\r\nhttps://sputnikglobe.com/20260924/canada-prepared-for-risk-of-us-military-invasion---carn\u2026 [+3457 chars]",
-      "cocom": "USNORTHCOM"
-    },
-    {
-      "source": {
         "id": "al-jazeera-english",
         "name": "Al Jazeera English"
       },
@@ -69,20 +13,6 @@
       "publishedAt": "2026-09-24T06:29:46Z",
       "content": "Pakistan says it has carried out air strikes on 10 locations in Afghanistan used to store and launch drones, some of which were used in cross-border attacks.\r\nThe air strikes on Thursday were carried\u2026 [+1811 chars]",
       "cocom": "USCENTCOM"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "author": "feedfeeder",
-      "title": "Inside Trump\u2019s Greenland deal: No invasion, a few compromises and the status quo - NBC News",
-      "description": "Inside Trump&rsquo;s Greenland deal: No invasion, a few compromises and the status quoNBC News See more headlines &amp; perspectives on Google News ...",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185764116",
-      "urlToImage": null,
-      "publishedAt": "2026-09-23T21:33:32Z",
-      "content": "In the realm of scientific observation, luck is granted only to those who are\r\nprepared.\r\n- Louis Pasteur",
-      "cocom": "USEUCOM"
     },
     {
       "source": {
@@ -146,6 +76,21 @@
     },
     {
       "source": {
+        "id": "time",
+        "name": "Time"
+      },
+      "author": "Richard Hall",
+      "title": "Exclusive: The Admiral Who Must Prevent War With China",
+      "description": "U.S Pacific Commander Samuel Paparo\u2019s force covers more than half the earth\u2019s surface. His goal? Winning without fighting.",
+      "url": "https://time.com/article/2026/09/24/admiral-paparo-war-china-taiwan/",
+      "urlToImage": "https://static.time.com/v3/assets/bltea6093859af6183b/blt15191143a1927dff/6ab190c8bbb02aa678181934/admiral-paparo-time-2026-03.jpg?branch=production&width=2400&quality=75&auto=webp&crop=16:9%2Coffset-x100.00%2Coffset-y0.00",
+      "publishedAt": "2026-09-24T12:00:04Z",
+      "content": "Brian Hart, deputy director of the China Power Project at CSIS, describes it as a comprehensive, across-the-board modernization effort, one that has changed the calculus for every power in the Pacifi\u2026 [+890 chars]",
+      "cocom": "USINDOPACOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
         "id": "al-jazeera-english",
         "name": "Al Jazeera English"
       },
@@ -173,21 +118,6 @@
       "content": "Yemens Saudi-backed government forces say they have taken full control of strategic Mount Qarfan in the western governorate of Taiz during a battle with Iran-aligned Houthi fighters.\r\nGovernment forc\u2026 [+3272 chars]",
       "cocom": "USCENTCOM",
       "_original_topic_id": "T13"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "International system is broken, unable to address conflicts like India and Pakistan: Marco Rubio",
-      "description": "US Secretary of State Marco Rubio said a functional international system could help address conflicts such as potential tensions between India and Pakistan, while arguing that the current system is failing to resolve major disputes. His remarks came a day aft\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/international-system-is-broken-unable-to-address-conflicts-like-india-and-pakistan-marco-rubio/articleshow/134442227.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134442288,width-1200,height-630,imgsize-107674,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-23T16:14:14Z",
-      "content": "US Secretary of State Marco Rubio on Wednesday said it \"would be great\" if a functional international system existed to address potential conflicts around the world, including those between India and\u2026 [+2359 chars]",
-      "cocom": "USINDOPACOM",
-      "_original_topic_id": "T14"
     }
   ]
 }
