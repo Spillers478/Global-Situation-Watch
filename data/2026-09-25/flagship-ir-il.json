@@ -1,7 +1,891 @@
 {
   "status": "ok",
-  "totalResults": 658,
+  "totalResults": 726,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Spencer Kimball",
+      "title": "Big business warns Trump against diesel export ban in joint letter",
+      "description": "The national average for a gallon of diesel reached $6.51 on Thursday, nearly $3 more than the same period a year ago, according to data from AAA.",
+      "url": "https://www.cnbc.com/2026/09/24/chamber-commerce-business-roundtable-trump-diesel-export-ban-iran-war.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108365806-1790015887555-gettyimages-2295314792-AFP_C8QM8WP.jpeg?v=1790015909&w=1920&h=1080",
+      "publishedAt": "2026-09-24T14:23:33Z",
+      "content": "The biggest business groups in the U.S. warned President Trump against a diesel export ban this week, saying in a joint letter that such an action would prove counterproductive and raise fuel prices \u2026 [+2930 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trisha Mahajan",
+      "title": "Did AI-enabled \u2018kill chain\u2019, outdated intel lead to deadly Iran school strike? What report claims",
+      "description": "A devastating missile strike by the US on a school in Minab, Iran, has led to the tragic loss of over 150 lives, including 123 innocent children. Investigations uncovered serious issues in the military\u2019s targeting tactics, pointing to outdated intelligence an\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/did-ai-enabled-kill-chain-outdated-intel-lead-to-deadly-iran-school-strike-what-report-claims/articleshow/134464054.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134464785,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-24T14:18:31Z",
+      "content": "Follow Us On Social Media\r\nPocso case against Veeramani: TN govt places IPS officers A Arun, N Kannan on compulsory waitRide on Darjeelings iconic toy train among worlds top 25 travel experiencesTET \u2026 [+1438 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "A Selvaraj",
+      "title": "Pocso case against Veeramani: TN govt places IPS officers A Arun, N Kannan on compulsory wait",
+      "description": "CHENNAI: The Tamil Nadu govt on Thursday placed two senior IPS officers, A Arun and N Kannan, on compulsory wait amid an inquiry into the handling of the",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/pocso-case-against-veeramani-tn-govt-places-ips-officers-a-arun-n-kannan-on-compulsory-wait/articleshow/134464718.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134464748,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-24T14:13:31Z",
+      "content": "Follow Us On Social Media\r\nFlorida pension fund sues New York Times, seeks records over alleged anti-Israel bias in reportingCong killed Sikhs in 84, AAP now killing youth with drugs: PhookaAI-genera\u2026 [+1570 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "Navy says 8 sailors attempted suicide aboard the USS Abraham Lincoln - USA Today",
+      "description": "Navy says 8 sailors attempted suicide aboard the USS Abraham LincolnUSA Today 8 Sailors in U.S.S. Lincoln Strike Group Attempted Suicide, Navy SaysThe New York Times 8 People Tried to Kill Themselves on U.S. Ship amid Controversial Deployment, Top Official Re\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185851609",
+      "urlToImage": null,
+      "publishedAt": "2026-09-24T14:13:00Z",
+      "content": "\"I have more information in one place than anybody in the world.\" \r\n-- Jerry Pournelle, an absurd notion, apparently about the BIX BBS"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Roshan Gupta",
+      "title": "Ride on Darjeeling\u2019s iconic toy train among world\u2019s top 25 travel experiences",
+      "description": "Darjeeling\u2019s UNESCO-listed toy train ride makes Lonely Planet\u2019s Best in Travel 2027, named a top experience and Darjeeling a top destination for it.",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/ride-on-darjeelings-iconic-toy-train-among-worlds-top-25-travel-experiences/articleshow/134464745.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134464743,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-24T14:11:57Z",
+      "content": "Follow Us On Social Media\r\nFlorida pension fund sues New York Times, seeks records over alleged anti-Israel bias in reportingCong killed Sikhs in 84, AAP now killing youth with drugs: PhookaAI-genera\u2026 [+1570 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Biswendu Bhattacharjee",
+      "title": "TET qualified candidates protest in Agartala, demand immediate hiring",
+      "description": "Agartala saw TET-qualified candidates protest for hiring all 1,856 TET-I/II 2024 passers; police used water cannon, detained about 100 amid recruitment delays.",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/tet-qualified-candidates-protest-in-agartala-demand-immediate-hiring/articleshow/134464739.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134464738,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-24T14:11:45Z",
+      "content": "Follow Us On Social Media\r\nFlorida pension fund sues New York Times, seeks records over alleged anti-Israel bias in reportingCong killed Sikhs in 84, AAP now killing youth with drugs: PhookaAI-genera\u2026 [+1570 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Taralabalu Math\u2019s service is a model for the nation: CM",
+      "description": "CM DK Shivakumar praised Taralabalu Math\u2019s education and social service at Sirigere, outlined irrigation plans, and heard calls for gram panchayat-level drought declaration.",
+      "url": "https://timesofindia.indiatimes.com/city/hubballi/taralabalu-maths-service-is-a-model-for-the-nation-cm/articleshow/134464735.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134464728,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-24T14:11:28Z",
+      "content": "Follow Us On Social Media\r\nFlorida pension fund sues New York Times, seeks records over alleged anti-Israel bias in reportingCong killed Sikhs in 84, AAP now killing youth with drugs: PhookaAI-genera\u2026 [+1570 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Soror Shaiza",
+      "title": "How Iran\u2019s rowers kept training through war and bombing raids to win first-ever Asian Games gold in historic six-medal haul",
+      "description": "Iran\u2019s rowing team delivered a historic six-medal haul at the Asian Games in Nagoya after months of preparation disrupted by the Israel-Iran conflict. With athletes forced to train separately and indoors, Fatemeh Mojallal, Kimia Zarei and Zeinab Norouzi led t\u2026",
+      "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/how-irans-rowers-kept-training-through-war-and-bombing-raids-to-win-first-ever-asian-games-golds-in-historic-six-medal-haul/articleshow/134461605.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134464087,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-24T14:10:41Z",
+      "content": "View All Comments \r\nShare your thoughts in the comments\r\nBe respectful \u00b7 TOI community guidelines"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Swati Bharadwaj",
+      "title": "Hyderabad GCCs emerging as global strategic hubs, says Sridhar Babu",
+      "description": "Hyderabad GCCs shift from support to strategic global hubs for R&D, tech and IP; India has 1,800+ centres, 1.9M staff, says Sridhar Babu.",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/hyderabad-gccs-emerging-as-global-strategic-hubs-says-sridhar-babu/articleshow/134464698.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134464697,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-24T14:09:46Z",
+      "content": "Follow Us On Social Media\r\nFlorida pension fund sues New York Times, seeks records over alleged anti-Israel bias in reportingCong killed Sikhs in 84, AAP now killing youth with drugs: PhookaAI-genera\u2026 [+1570 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Common Dreams"
+      },
+      "author": "Will Bunch",
+      "title": "Apologies to Caligula: Trump Is Out of His Goddamn Mind",
+      "description": "I feel like I need to apologize for a column a couple of months ago when I compared the current president of the United States to Caligula, the possibly mad Roman emperor who is said to have nominated his trusted horse for high office. I need to apologize to \u2026",
+      "url": "https://www.commondreams.org/opinion/is-trump-out-of-his-mind",
+      "urlToImage": "https://www.commondreams.org/media-library/president-trump-signs-executive-order-to-rename-lake-ontario-as-lake-america.jpg?id=67781842&width=1200&height=600&coordinates=0%2C417%2C0%2C417",
+      "publishedAt": "2026-09-24T14:09:26Z",
+      "content": "I feel like I need to apologize for a column a couple of months ago when I compared the current president of the United States to Caligula, the possibly mad Roman emperor who is said to have nominate\u2026 [+7754 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Soumitra.Nandi",
+      "title": "Bengal seeks Centre\u2019s help for Rs 1,550cr Malda flood project",
+      "description": "West Bengal seeks Centre\u2019s help for Rs 1,550cr Malda flood project to curb erosion in Ratua-I and Manikchak; state to contribute Rs 610cr.",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/bengal-seeks-centres-help-for-rs-1550cr-malda-flood-project/articleshow/134464684.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134464682,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-24T14:08:30Z",
+      "content": "Follow Us On Social Media\r\nFlorida pension fund sues New York Times, seeks records over alleged anti-Israel bias in reportingCong killed Sikhs in 84, AAP now killing youth with drugs: PhookaAI-genera\u2026 [+1570 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Alok Chamaria",
+      "title": "14 students expelled for dancing to caste-based song at Rohtas govt school; inquiry ordered",
+      "description": "14 students at a Rohtas govt high school were expelled after a video showed them dancing to a caste-based song in a smart classroom; inquiry ordered.",
+      "url": "https://timesofindia.indiatimes.com/city/patna/14-students-expelled-for-dancing-to-caste-based-song-at-rohtas-govt-school-inquiry-ordered/articleshow/134464593.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134464588,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-24T14:07:27Z",
+      "content": "Follow Us On Social Media\r\nFlorida pension fund sues New York Times, seeks records over alleged anti-Israel bias in reportingCong killed Sikhs in 84, AAP now killing youth with drugs: PhookaAI-genera\u2026 [+1570 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Siddhi Dharmadhikari",
+      "title": "India vs West Indies ODI on Sunday: Thiruvananthapuram Police sound alarm over fake tickets",
+      "description": "Kerala Police have issued a warning about online scammers selling fake tickets for the India-West Indies ODI. The fraudsters use social media to lure potential buyers with attractive ticket prices. Interested individuals are directed to WhatsApp for booking, \u2026",
+      "url": "https://timesofindia.indiatimes.com/city/thiruvananthapuram/india-vs-west-indies-odi-on-sunday-thiruvananthapuram-police-sound-alarm-over-fake-tickets/articleshow/134464336.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134464431,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-24T14:05:14Z",
+      "content": "Follow Us On Social Media\r\nFlorida pension fund sues New York Times, seeks records over alleged anti-Israel bias in reportingCong killed Sikhs in 84, AAP now killing youth with drugs: PhookaAI-genera\u2026 [+1570 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Sandip Mishra",
+      "title": "Govt seizes over 8k cylinders in crackdown on black marketing",
+      "description": "Odisha govt seized 8,457 LPG cylinders in raids against black marketing and hoarding; 625 seized in Khurda; PNG expansion planned to reduce LPG reliance.",
+      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/govt-seizes-over-8k-cylinders-in-crackdown-on-black-marketing/articleshow/134464520.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134464519,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-24T14:05:08Z",
+      "content": "Follow Us On Social Media\r\nFlorida pension fund sues New York Times, seeks records over alleged anti-Israel bias in reportingCong killed Sikhs in 84, AAP now killing youth with drugs: PhookaAI-genera\u2026 [+1570 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Nils Adler",
+      "title": "Rubio warns of Iraq \u2018Balkanisation\u2019: Is that a real threat?",
+      "description": "US secretary of state's warning comes after he and Trump met the Iraqi PM on the sidelines of the UNGA.",
+      "url": "https://www.aljazeera.com/news/2026/9/24/rubio-warns-of-iraq-balkanisation-is-that-a-real-threat",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab4f6c5ded3-1790244549.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-24T14:04:43Z",
+      "content": "US Secretary of State Marco Rubio has warned that Iraq risks Balkanisation unless its armed factions are brought under state control.\r\nHe made the remarks to reporters at the Palace Hotel in New York\u2026 [+7097 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Military.com"
+      },
+      "author": "Haley Fuller",
+      "title": "US Walks Out of United Nations as Iran President Shows Bombed Girls' School Strike Photos",
+      "description": "A U.S. walkout during Iran\u2019s U.N. speech renews scrutiny of the Minab school strike and the Pentagon\u2019s unresolved investigation.",
+      "url": "https://military.com/us-walks-out-united-nations-iran-president-shows-bombed-girls-school-strike-photos",
+      "urlToImage": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/09/ap26266514667157.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-09-24T14:02:52Z",
+      "content": "A U.S. representative walked out of Iranian President Masoud Pezeshkians United Nations (UN) General Assembly address Sept. 23 as the Iranian leader presented images of wartime destruction, including\u2026 [+5776 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "B S Anilkumar",
+      "title": "CPM, CPI slam Satheesan over refusing to reveal air travel sponsor",
+      "description": "CPM and CPI criticize CM V D Satheesan for refusing to name the sponsor of his chartered flight, demanding transparency over alleged \u201cfree\u201d travel perks.",
+      "url": "https://timesofindia.indiatimes.com/city/thiruvananthapuram/cpm-cpi-slam-satheesan-over-refusing-to-reveal-air-travel-sponsor/articleshow/134464458.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-131615474,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-24T14:01:20Z",
+      "content": "Follow Us On Social Media\r\nFlorida pension fund sues New York Times, seeks records over alleged anti-Israel bias in reportingCong killed Sikhs in 84, AAP now killing youth with drugs: PhookaAI-genera\u2026 [+1570 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fair Observer"
+      },
+      "author": "Abdul Galil Shaif",
+      "title": "Hadramaut: The Battle Saudi Arabia Won and the Trust It Lost",
+      "description": "Houthi forces recently launched a rapid offensive along Yemen\u2019s Red Sea coast, capturing the strategically important port of Mocha and advancing toward the Bab al-Mandab Strait. On September 11, Reuters reported that Houthi forces had reached Perim, also know\u2026",
+      "url": "https://www.fairobserver.com/region/middle_east_north_africa/hadramaut-the-battle-saudi-arabia-won-and-the-trust-it-lost/",
+      "urlToImage": "https://www.fairobserver.com/wp-content/uploads/2026/09/Saudi-Arabia.jpg",
+      "publishedAt": "2026-09-24T14:00:18Z",
+      "content": "Houthi forces recently launched a rapid offensive along Yemens Red Sea coast, capturing the strategically important port of Mocha and advancing toward the Bab al-Mandab Strait. On September 11, Reute\u2026 [+14013 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Stone"
+      },
+      "author": "Ryan Bort",
+      "title": "\u2018Danger Sign\u2019: New Polls Show How Much Republicans Have Turned on Trump",
+      "description": "New polling shows that Republicans are turning on President Donald Trump with just weeks to go before the midterm elections.",
+      "url": "http://www.rollingstone.com/politics/politics-features/trump-polling-republicans-turning-on-president-midterms-1235630918/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/09/donald-trump-bad-polling.jpg?w=1600&h=900&crop=1",
+      "publishedAt": "2026-09-24T14:00:00Z",
+      "content": "In late 2008, at the height of the Great Recession and amid two wars in the Middle East, President George W. Bush posted a historic-low approval rating of just 22 percent. Donald Trump may be coming \u2026 [+4702 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "OilPrice.com"
+      },
+      "author": "OilPrice.com",
+      "title": "South Korea Follows Japan's Playbook With $22.3 Billion Texas Gas Bet",
+      "description": "Ten months, one tariff threat and several \"sleepless nights\" later, South Korea has finally found somewhere to put the first piece of the $350 billion it promised to invest in America. The winner is a gas-fired power complex in Encinal, Texas\u00a0(population 540,\u2026",
+      "url": "https://oilprice.com/Energy/Natural-Gas/South-Korea-Follows-Japans-Playbook-With-223-Billion-Texas-Gas-Bet.html",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-24_ca89s5bxuz.jpg",
+      "publishedAt": "2026-09-24T14:00:00Z",
+      "content": "A new Nebraska biogas plant\u2026\r\nEurope and Asia are seeking\u2026\r\nTrump and Xi are expected\u2026\r\nBy ZeroHedge - Sep 24, 2026, 9:00 AM CDTTen months, one tariff threat and several \"sleepless nights\" later, Sou\u2026 [+7977 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Steve Kopack",
+      "title": "Bond yields surge to fresh two decade highs as oil prices hit $105 per barrel",
+      "description": "Key U.S. Treasury yields surged to fresh two-decade highs Thursday, as the price of oil returned to $105 per barrel.",
+      "url": "https://www.nbcnews.com/business/markets/bond-yields-oil-treasury-buyback-bessent-rcna599604",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260903-truck-gas-station-ch-1644-79c704.jpg",
+      "publishedAt": "2026-09-24T13:59:33Z",
+      "content": "Key U.S. Treasury yields surged to fresh two-decade highs Thursday, as the price of oil returned to $105 per barrel.\r\nThe yield on the 30-year U.S. Treasury bond soared as high as 5.446%, a level not\u2026 [+4477 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Who are the Houthis and what do they want?",
+      "description": "A rapid military advance down Yemen's Red Sea coast has put the spotlight on the Iran-backed group, amid growing concerns about the global energy market.",
+      "url": "https://www.bbc.co.uk/news/articles/cqy7z228kee3o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8641/live/07d35700-b5f2-11f1-b1d1-571ed4d7ff2c.jpg",
+      "publishedAt": "2026-09-24T13:58:46Z",
+      "content": "The Houthis are an armed political and religious group from northern Yemen which champions the country's Shia Muslim minority, the Zaidis.\r\nThey declare themselves to be part of the Iranian-led \"axis\u2026 [+1046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "author": "Editorial Team",
+      "title": "JPMorgan traders remain cautious after Treasury market volatility",
+      "description": "JPMorgan traders stay cautious after the worst Treasury selloff in 18 months as the bank models three Middle East scenarios with oil potentially\nThe post JPMorgan traders remain cautious after Treasury market volatility appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/jpmorgan-treasury-volatility-middle-east/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/24095247/library-jpmorgan-traders-remain-cautious-after-treasury-market-v-800x450.png",
+      "publishedAt": "2026-09-24T13:52:54Z",
+      "content": "The bank's analysts have mapped out three Middle East scenarios ranging from an 'everything rally' to a 'puke everything' meltdown, and the math isn't comforting JPMorgan\u2019s trading desks are keeping \u2026 [+2719 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "semafor.com",
+      "title": "US energy secretary downplays diesel export ban idea as prices climb",
+      "description": "Oil prices rose above $100 a barrel on the US-Iran geopolitical deadlock. Iran\u2019s president said Wednesday he was open to talks to end the war, but warned that Tehran wouldn\u2019t surrender its nuclear program \u2014 a major sticking point in the negotiations \u2014 or \u201cbow\u2026",
+      "url": "https://biztoc.com/x/96efb61faa1dbba4",
+      "urlToImage": "https://biztoc.com/cdn/96efb61faa1dbba4_s.webp",
+      "publishedAt": "2026-09-24T13:37:40Z",
+      "content": "Oil prices rose above $100 a barrel on the US-Iran geopolitical deadlock. Irans president said Wednesday he was open to talks to end the war, but warned that Tehran wouldnt surrender its nuclear prog\u2026 [+135 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "etimes.in",
+      "title": "\u2018Tu Hi Re Dil Mein\u2019 completes 100 episodes as Abrar Qazi, Priyanshi Yadav and Simran Rawal celebrate a journey of love and tangled relationships",
+      "description": "Tu Hi Re Dil Mein celebrates a remarkable milestone of 100 episodes, captivating viewers with its emotional depth. The intricate relationships between Sanjay, Swati, and Vrinda enrich the plot, drawing in the audience. Upcoming twists reveal Vrinda\u2019s impendin\u2026",
+      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/tu-hi-re-dil-mein-completes-100-episodes-as-abrar-qazi-priyanshi-yadav-and-simran-rawal-celebrate-a-journey-of-love-and-tangled-relationships/articleshow/134463918.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134463939,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-24T13:32:58Z",
+      "content": "<ul><li>News</li>\r\n<li>tv</li>\r\n<li>Tu Hi Re Dil Mein completes 100 episodes as Abrar Qazi, Priyanshi Yadav and Simran Rawal celebrate a journey of love and tangled relationships</li></ul>\r\nFollow Us\u2026 [+1795 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "Mandya farmers protest Cauvery water release recommendation",
+      "description": "Mandya farmers protest CWRC\u2019s recommendation to release 4,000 cusecs daily to Tamil Nadu, blocking Mysuru-Bengaluru highway; demand water for Karnataka first.",
+      "url": "https://timesofindia.indiatimes.com/city/mysuru/mandya-farmers-protest-cauvery-water-release-recommendation/articleshow/134463941.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-24T13:32:10Z",
+      "content": "Follow Us On Social Media\r\nAI must be guided by human values: Jharkhand Guv at DSPMU ConvocationSeema Kumari runs into history with Asian Games 10,000m bronzeMizoram CM meets human rights panel, assu\u2026 [+1605 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Rs 146cr HashPe crypto fraud case: ED arrests two absconding Coimbatore men",
+      "description": "CHENNAI: The Enforcement Directorate (ED) has arrested two absconding accused in the HashPe cryptocurrency fraud case, in which people were duped of more",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/rs-146cr-hashpe-crypto-fraud-case-ed-arrests-two-absconding-coimbatore-men/articleshow/134463887.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134463897,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-24T13:30:55Z",
+      "content": "Follow Us On Social Media\r\nAI must be guided by human values: Jharkhand Guv at DSPMU ConvocationSeema Kumari runs into history with Asian Games 10,000m bronzeMizoram CM meets human rights panel, assu\u2026 [+1605 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "Gold crown donated to Sabarimala safe, says devaswom board chief",
+      "description": "Travancore Devaswom Board confirms Sabarimala\u2019s donated gold crown is safe; AI crowd system, Nilackal hub, and aravana output boost ahead of Nov 16.",
+      "url": "https://timesofindia.indiatimes.com/city/thiruvananthapuram/gold-crown-donated-to-sabarimala-safe-says-devaswom-board-chief/articleshow/134463908.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134463907,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-24T13:30:00Z",
+      "content": "Follow Us On Social Media\r\nAI must be guided by human values: Jharkhand Guv at DSPMU ConvocationSeema Kumari runs into history with Asian Games 10,000m bronzeMizoram CM meets human rights panel, assu\u2026 [+1605 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Education",
+      "title": "IIT Bombay postpones mid-semester exams to October 10, 11 after student\u2019s death",
+      "description": "IIT Bombay has postponed its mid-semester exams from September 26 and 27 to October 10 and 11, following the tragic death of Sahil Wakode, a second-year student. The event ignited student protests over both the examination protocols and the circumstances of h\u2026",
+      "url": "https://timesofindia.indiatimes.com/education/news/iit-bombay-postpones-mid-semester-exams-to-october-10-11-after-students-death/articleshow/134463591.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134463886,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-24T13:29:57Z",
+      "content": "Follow Us On Social Media\r\nAI must be guided by human values: Jharkhand Guv at DSPMU ConvocationSeema Kumari runs into history with Asian Games 10,000m bronzeMizoram CM meets human rights panel, assu\u2026 [+1605 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": "HuffPost",
+      "title": "Hannity Touts 'Top Accomplishments' By Trump In Bonkers Fox News Graphic",
+      "description": "The \u201caccomplishments\u201d haven\u2019t stopped skyrocketing food and gas costs that Americans are facing amid an ongoing affordability crisis.",
+      "url": "https://www.huffpost.com/entry/hannity-top-trump-accomplishments-fox-news-graphic_n_6ab4fc58e4b0de621e5c6669",
+      "urlToImage": "https://img.huffingtonpost.com/asset/6ab50d411800005592f14d8f.jpg?cache=UxeAiJHAT9&ops=1200_630",
+      "publishedAt": "2026-09-24T13:29:02Z",
+      "content": "Fox News host Sean Hannity on Wednesday appeared to make his best possible case that President Donald Trump has had a successful second term, highlighting Top Accomplishments that included: Restored \u2026 [+2412 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI World Desk",
+      "title": "19-year-old lost his lamp in an Australian cave in 1953, survived three days, became a NASA scientist; 68 years later, students found the lamp still hanging",
+      "description": "19-year-old lost his lamp in an Australian cave in 1953, survived three days, became a NASA scientist; 68 years later, students found the lamp still hanging",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/19-year-old-lost-his-lamp-in-an-australian-cave-in-1953-survived-three-days-became-a-nasa-scientist-68-years-later-students-found-the-lamp-still-hanging/articleshow/134463171.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134463681,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-24T13:27:57Z",
+      "content": "<ul><li>News</li>\r\n<li>World News</li>\r\n<li>Rest of World News</li>\r\n<li>19-year-old lost his lamp in an Australian cave in 1953, survived three days, became a NASA scientist; 68 years later, student\u2026 [+1846 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Parag Dave",
+      "title": "ROC Ahmedabad penalises company, directors over preferential allotment lapses",
+      "description": "ROC Ahmedabad fined a company and four directors Rs 3.34 lakh each for Section 42 private placement lapses, including 333-day filing delay and no separate bank account.",
+      "url": "https://timesofindia.indiatimes.com/city/ahmedabad/roc-ahmedabad-penalises-company-directors-over-preferential-allotment-lapses/articleshow/134463867.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134463866,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-24T13:27:25Z",
+      "content": "Follow Us On Social Media\r\nAI must be guided by human values: Jharkhand Guv at DSPMU ConvocationSeema Kumari runs into history with Asian Games 10,000m bronzeMizoram CM meets human rights panel, assu\u2026 [+1605 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "Experts stress on sustainable technologies, resource efficiency to tackle climate change",
+      "description": "CIRCON 2026 begins in Jamshedpur as experts urge sustainable tech, resource efficiency and waste valorisation; Tata Steel highlights 100% coal by-product use.",
+      "url": "https://timesofindia.indiatimes.com/city/ranchi/experts-stress-on-sustainable-technologies-resource-efficiency-to-tackle-climate-change/articleshow/134463859.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134463858,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-24T13:26:54Z",
+      "content": "Follow Us On Social Media\r\nAI must be guided by human values: Jharkhand Guv at DSPMU ConvocationSeema Kumari runs into history with Asian Games 10,000m bronzeMizoram CM meets human rights panel, assu\u2026 [+1605 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Bharat Khanna",
+      "title": "Homi Bhabha hosp starts cashless cancer treatment",
+      "description": "Punjab\u2019s Homi Bhabha Cancer Hospital launches cashless cancer treatment via empanelled insurers at New Chandigarh and Sangrur, improving access and easing costs.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/homi-bhabha-hosp-starts-cashless-cancer-treatment/articleshow/134463820.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134463818,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-24T13:25:52Z",
+      "content": "Follow Us On Social Media\r\nAI must be guided by human values: Jharkhand Guv at DSPMU ConvocationSeema Kumari runs into history with Asian Games 10,000m bronzeMizoram CM meets human rights panel, assu\u2026 [+1605 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Kanishk Sharma",
+      "title": "Father\u2019s 'affairs', property fear: Why Kanpur millionaire\u2019s son ordered the hit job",
+      "description": "Subrat Manocha has been arrested for allegedly plotting the murder of his father, Vineet Manocha, over financial concerns. The father was killed in his apartment in Kanpur, and investigations led to multiple arrests, including his daughter-in-law Shalu. Polic\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/kanpur/fathers-affairs-property-fear-why-kanpur-millionaires-son-ordered-the-hit-job/articleshow/134463615.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134463695,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-24T13:22:55Z",
+      "content": "Follow Us On Social Media\r\nAI must be guided by human values: Jharkhand Guv at DSPMU ConvocationSeema Kumari runs into history with Asian Games 10,000m bronzeMizoram CM meets human rights panel, assu\u2026 [+1605 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Vriti Jain",
+      "title": "Kalkaji rape case: Delhi court remands 3 accused to 14 days' judicial custody",
+      "description": "A 17-year-old girl was allegedly raped by three men at Aastha Kunj Park near Kalkaji Mandir. The accused reportedly posed as policemen and threatened the girl and her male friend. Police arrested Asif after he fired at their team while he was attempting to es\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/kalkaji-rape-case-delhi-court-remands-3-accused-to-14-days-judicial-custody/articleshow/134463660.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134463699,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-24T13:21:49Z",
+      "content": "Follow Us On Social Media\r\nAI must be guided by human values: Jharkhand Guv at DSPMU ConvocationSeema Kumari runs into history with Asian Games 10,000m bronzeMizoram CM meets human rights panel, assu\u2026 [+1605 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "author": "Editorial Team",
+      "title": "United States seizes three Iran-linked tankers carrying $600M in crude",
+      "description": "The seizures highlight escalating geopolitical tensions, impacting global oil markets and undermining financial support for sanctioned regimes.\nThe post United States seizes three Iran-linked tankers carrying $600M in crude appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/us-seizes-iran-linked-tankers-crude-oil/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/24092132/library-united-states-seizes-three-iran-linked-tankers-carrying--800x450.png",
+      "publishedAt": "2026-09-24T13:21:36Z",
+      "content": "Pentagon confirms the capture of nearly six million barrels of oil as Washington escalates its campaign against shadow fleets evading sanctions The US government has seized three tankers linked to Ir\u2026 [+2872 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "By Alexander Cornwell and Emily Rose",
+      "title": "Netanyahu expected to criticize Mamdani in campaign-style U.N. speech",
+      "description": "By Alexander Cornwell and Emily Rose TEL AVIV, Sept 24 (Reuters) - Benjamin Netanyahu is expected to use his UN address on Thursday to berate New York Mayor Zohran Mamdani for calling him a war criminal, a feud that highlights the Israeli leader's growing iso\u2026",
+      "url": "https://www.yahoo.com/news/articles/netanyahu-expected-berate-yorks-mamdani-050432229.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/9f0000a6df4aa866825a45041663ca5f26bd7c430fefdad034a4ab0b7c2f07a1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Faffeef23f30b9e52d18cb68379dee057.jpg",
+      "publishedAt": "2026-09-24T13:20:36Z",
+      "content": "By Alexander Cornwell and Emily Rose\r\nTEL AVIV, Sept 24 (Reuters) - Benjamin Netanyahu is expected to use his UN address on Thursday to berate New York Mayor Zohran Mamdani for calling him a war crim\u2026 [+4980 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Siddhi Dharmadhikari",
+      "title": "IIT-Bombay student suicide: Sahil Wakode\u2019s parents begin hunger strike in Mumbai, seek action against \u2018tormentors\u2019",
+      "description": "Parents of Sahil Wakode, an IIT Bombay student who died by suicide, have started a hunger strike. They demand justice and action against those who allegedly tormented their son. The police have opened an investigation into his death, including examination of \u2026",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/iit-bombay-student-suicide-sahil-wakodes-parents-begin-hunger-strike-in-mumbai-seek-action-against-tormentors/articleshow/134463183.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134463505,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-24T13:08:08Z",
+      "content": "<ul><li>News</li>\r\n<li>City News</li>\r\n<li>mumbai News</li>\r\n<li>IIT-Bombay student suicide: Sahil Wakodes parents begin hunger strike in Mumbai, seek action against tormentors</li></ul>\r\nFollow Us O\u2026 [+1635 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rigzone"
+      },
+      "author": "Yongchang Chin",
+      "title": "Saudis Ease Asia Oil Crunch",
+      "description": "Saudi Arabia has sold almost 100 million barrels of oil to Asian buyers since the middle of last week, according to traders familiar with the matter.",
+      "url": "https://www.rigzone.com/news/wire/saudis_ease_asia_oil_crunch-24-sep-2026-184695-article/",
+      "urlToImage": "https://images.rigzone.com/images/news/articles/Saudis-Ease-Asia-Oil-Crunch-184695-1200x628.png",
+      "publishedAt": "2026-09-24T13:07:29Z",
+      "content": "Saudi Arabia has sold almost 100 million barrels of oil to Asian buyers since the middle of last week, according to traders familiar with the matter, helping to avert a looming supply crunch in the r\u2026 [+2251 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Spyros A. Sofos, Assistant Professor in Global Humanities, Simon Fraser University",
+      "title": "From east to west: Why Turkey is playing both sides",
+      "description": "Recep Tayyip Erdo\u011fan doesn\u2019t want others defining Turkey\u2019s choices. He\u2019s seeking a better position within an existing world order and recognition that Turkey is entitled to forge its own path.",
+      "url": "https://theconversation.com/from-east-to-west-why-turkey-is-playing-both-sides-291940",
+      "urlToImage": "https://images.theconversation.com/files/761146/original/file-20260921-50-z4pkmg.jpg?ixlib=rb-4.1.1&rect=0%2C686%2C7807%2C3903&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-09-24T13:03:35Z",
+      "content": "Less than two months after his government hosted the NATO summit which was framed as proof of Turkeys pivotal role in transatlantic security President Recep Tayyip Erdoan has proposed full Turkish me\u2026 [+6206 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "MOGOMOTSI MAGOME Associated Press",
+      "title": "A (permanent) seat at the table of power: African leaders press UN for Security Council reform",
+      "description": "African leaders at the United Nations General Assembly are demanding reform of the Security Council to include permanent seats for African countries",
+      "url": "https://abcnews.com/US/wireStory/permanent-seat-table-power-african-leaders-press-security-136715515",
+      "urlToImage": "https://i.abcnewsfe.com/a/e742be24-e1c9-417a-ad05-ffb9d5050f89/wirestory_9d29a10a8caf40a4876e2738446d2ee8_16x9.jpg?w=1600",
+      "publishedAt": "2026-09-24T13:01:48Z",
+      "content": "They want to help make the decisions not just watch them unfold. \r\nAs in years past, African leaders attending the U.N. General Assembly this year are demanding a reform of the powerful Security Coun\u2026 [+3780 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Salon"
+      },
+      "author": "Heather Digby Parton",
+      "title": "Donald Trump abdicates as leader of the free world",
+      "description": "The president's UN address showed he has ceded that position to Canada's Mark Carney",
+      "url": "https://www.salon.com/2026/09/24/donald-trump-abdicates-as-leader-of-the-free-world/",
+      "urlToImage": "https://www.salon.com/app/uploads/2026/09/donald-trump-un-GettyImages-2296678871.jpg",
+      "publishedAt": "2026-09-24T13:00:56Z",
+      "content": "On Tuesday, Donald Trump stood before the United Nations General Assembly to give a speech in which he made it clear that the United States has now fully abandoned its last remaining fig leaf of dece\u2026 [+8432 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Rob Schmitz",
+      "title": "Trump rolls out red carpet for Xi as high-stakes summit begins",
+      "description": "On Thursday, the two leaders will hold meetings where Trump and Xi are expected to talk about artificial intelligence, rare earths, trade and geopolitics such as Iran and Taiwan.",
+      "url": "https://www.npr.org/2026/09/24/g-s1-144806/trump-rolls-out-red-carpet-for-xi-as-high-stakes-summit-begins",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5683x3197+0+296/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F96%2F3f%2F5b02f6394cefae89a7dc3e7e02fc%2Fgettyimages-2296833411.jpg",
+      "publishedAt": "2026-09-24T12:43:15Z",
+      "content": "WASHINGTON President Trump has taken rare measures to ensure that Chinese leader Xi Jinping and his delegation, including Chinese First Lady Peng Liyuan, are hosted with the pomp of the highest order\u2026 [+3913 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Rob Schmitz",
+      "title": "Trump and Xi strike cordial tone at summit amid underlying tensions",
+      "description": "On Thursday, the two leaders will hold meetings where Trump and Xi are expected to talk about artificial intelligence, rare earths, trade and geopolitics such as Iran and Taiwan.",
+      "url": "https://www.npr.org/2026/09/24/g-s1-144806/trump-xi-summit",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3979x2238+0+207/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F14%2F8d%2Fab6d3845479b8ce69718381d1353%2Fgettyimages-2243556711.jpg",
+      "publishedAt": "2026-09-24T12:43:15Z",
+      "content": "WASHINGTON In his opening remarks at an arrival ceremony for visiting Chinese leader Xi Jinping, President Trump said the two countries should work together, recalling how during World War II the two\u2026 [+3768 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "author": "Estefano Gomez",
+      "title": "Israeli source hints at imminent strikes on Iran\u2019s nuclear sites",
+      "description": "The potential Israeli strikes on Iran could destabilize regional diplomacy, reducing chances for a U.S.-Iran deal and impacting global markets.\nThe post Israeli source hints at imminent strikes on Iran\u2019s nuclear sites appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/israeli-source-hints-at-imminent-strikes-on-irans-nuclear-sites/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/24083429/library-israeli-source-hints-at-imminent-strikes-on-iran-s-nucle-scaled-1-694x457.png",
+      "publishedAt": "2026-09-24T12:34:31Z",
+      "content": "An unnamed Israeli source has informed Saudi outlet Al Hadath that further military action against Iran is likely, stating that strikes on Iran\u2019s nuclear facilities are \u201ca matter of time.\u201d The source\u2026 [+1905 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "author": "Estefano Gomez",
+      "title": "Goldman Sachs raises December Brent oil forecast to $85 amid supply concerns",
+      "description": "Rising oil prices due to geopolitical tensions may strain global economies, impacting inflation and energy policies across regions.\nThe post Goldman Sachs raises December Brent oil forecast to $85 amid supply concerns appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/goldman-sachs-raises-december-brent-oil-forecast-to-85-amid-supply-concerns/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/08093645/pexels-photo-16862261-699x457.jpeg",
+      "publishedAt": "2026-09-24T12:33:36Z",
+      "content": "Goldman Sachs has raised its forecast for December Brent crude to $85 per barrel, amid rising energy prices across the Asia-Pacific region. The revision comes as geopolitical tensions, including the \u2026 [+1858 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Punch"
+      },
+      "author": "Punch Newspapers",
+      "title": "US Navy confirms eight suicide attempts over extended deployment",
+      "description": "The US Navy has confirmed eight service members attempted suicide during the USS Abraham Lincoln\u2019s extended deployment, a letter to a senator revealed.\n\nRead More: https://punchng.com/us-navy-confirms-eight-suicide-attempts-over-extended-deployment/",
+      "url": "https://punchng.com/us-navy-confirms-eight-suicide-attempts-over-extended-deployment/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2017/02/14151745/1024px-USA_Flag_1992.jpg",
+      "publishedAt": "2026-09-24T12:24:01Z",
+      "content": "The US Navy has confirmed that eight service members assigned to the USS Abraham Lincoln carrier strike group attempted suicide during its extended deployment, with no deaths attributed to suicide, a\u2026 [+2431 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "zerohedge.com",
+      "title": "Oil Jumps As Iran Warns War Could Expand To Indian Ocean If US Attacks Resume",
+      "description": "Oil Jumps As Iran Warns War Could Expand To Indian Ocean If US Attacks Resume\n \nIt was just this month which saw the Iran conflict spill over into a renewed fight between the Saudi coalition and Yemen's Houthi rebels. Now Iran is threatening to expand the fig\u2026",
+      "url": "https://biztoc.com/x/d0ac6b363bde0ab7",
+      "urlToImage": "https://biztoc.com/cdn/d0ac6b363bde0ab7_s.webp",
+      "publishedAt": "2026-09-24T12:21:30Z",
+      "content": "Oil Jumps As Iran Warns War Could Expand To Indian Ocean If US Attacks Resume\r\nIt was just this month which saw the Iran conflict spill over into a renewed fight between the Saudi coalition and Yemen\u2026 [+143 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "author": "Editorial Team",
+      "title": "Iran cancels flights to UAE as US sanctions ground up to 90% of international aviation",
+      "description": "The collapse of Iran's aviation sector exacerbates economic isolation, complicating trade and logistics, and straining regional connectivity.\nThe post Iran cancels flights to UAE as US sanctions ground up to 90% of international aviation appeared first on Cry\u2026",
+      "url": "https://cryptobriefing.com/iran-cancels-uae-flights-us-sanctions/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/24081917/library-iran-cancels-flights-to-uae-as-us-sanctions-ground-up-to-685x457.png",
+      "publishedAt": "2026-09-24T12:19:22Z",
+      "content": "New sanctions effective September 23 have crippled up to 90% of Iran's international flight operations, with the UAE routes among the first to go dark. Iran\u2019s aviation sector effectively collapsed ov\u2026 [+3303 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "author": "Editorial Team",
+      "title": "Saudi Arabia\u2019s crude shipments surge to highest level since Iran war began",
+      "description": "Saudi Arabia's export strategy highlights resilience but increases vulnerability to Strait of Hormuz tensions, impacting global oil stability.\nThe post Saudi Arabia\u2019s crude shipments surge to highest level since Iran war began appeared first on Crypto Briefin\u2026",
+      "url": "https://cryptobriefing.com/saudi-crude-shipments-surge-iran-war/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg",
+      "publishedAt": "2026-09-24T12:16:00Z",
+      "content": "The kingdom rerouted exports through the Strait of Hormuz after drone attacks knocked out its key pipeline, pushing September volumes to 5.28 million barrels per day. Saudi Arabia managed to push cru\u2026 [+2515 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "NY Post",
+      "title": "Iran\u2019s president claims country has been \u2018victim of terrorism\u2019 at UN \u2014 despite funding terror groups worldwide",
+      "description": "Iranian President Masoud Pezeshkian claimed Wednesday his country has \u201cbeen the victim of terrorism\u201d and blamed the US and Israel for instability in the Middle East during a wild address to the United Nations General Assembly. Pezeshkian, whose nation is the \u2026",
+      "url": "https://freerepublic.com/focus/f-chat/4396715/posts",
+      "urlToImage": null,
+      "publishedAt": "2026-09-24T12:14:48Z",
+      "content": "Skip to comments.\r\nIrans president claims country has been victim of terrorism at UN despite funding terror groups worldwideNY Post ^\r\n | 9/23/26\r\n | Ronny Reyes\r\nPosted on 09/24/2026 5:14:48 AM PDT \u2026 [+1993 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalresearch.ca"
+      },
+      "author": "Mojmir Babacek",
+      "title": "The Last Move is the Checkmate. The Danger of a Nuclear War is Constantly Growing",
+      "description": "In the book where Donald Trump presented his election program, China was mentioned over 600 times, and his writing made it clear that if elected, defeating China in the global power struggle would be the main goal of US foreign \u2026\nThe post The Last Move is the\u2026",
+      "url": "https://www.globalresearch.ca/last-move-checkmate-danger-nuclear-war-growing/5941620",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2022/08/Nuclear-Test.jpg",
+      "publishedAt": "2026-09-24T12:11:37Z",
+      "content": "In the book where Donald Trump presented his election program, China was mentioned over 600 times, and his writing made it clear that if elected, defeating China in the global power struggle would be\u2026 [+12649 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Matt Bradley",
+      "title": "Israel\u2019s Netanyahu takes the U.N. stage facing global isolation and a fight for his political future",
+      "description": "As Israeli Prime Minister Benjamin Netanyahu pleads his country\u2019s case at the United Nations General Assembly, his target audience will likely be Israeli voters.",
+      "url": "https://www.nbcnews.com/world/israel/israel-netanyahu-united-nations-general-assembly-gaza-iran-war-rcna599576",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250926-netanyahu-rs-ce1810.jpg",
+      "publishedAt": "2026-09-24T12:03:32Z",
+      "content": "TEL AVIV Even as Israeli Prime Minister Benjamin Netanyahu pleads his countrys case to the world at the United Nations General Assembly on Thursday, his target audience will likely be closer to home:\u2026 [+4753 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "OilPrice.com"
+      },
+      "author": "Tsvetana Paraskova",
+      "title": "Europe\u2019s Gas Prices Jump as Hormuz Standoff Drags On",
+      "description": "Europe\u2019s benchmark natural gas prices jumped by 4% at trade open in Amsterdam on Thursday, as the United States and Iran remain distant on how to end the war and put an end to the blocked LNG shipments at the Strait of Hormuz. After surging 4% at open, the fr\u2026",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Europes-Gas-Prices-Jump-as-Hormuz-Standoff-Drags-On.html",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-24_k8oswax64m.jpg",
+      "publishedAt": "2026-09-24T12:00:00Z",
+      "content": "Washington has reportedly opened direct\u2026\r\nChina is using its grip\u2026\r\nSet us as your preferred Google source\r\nBy Tsvetana Paraskova - Sep 24, 2026, 7:00 AM CDTEurope\u2019s benchmark natural gas prices jump\u2026 [+2066 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Russia Launches Deadly Strikes On Ukraine As 'Hybrid Attack' Concerns Rise In The West",
+      "description": "Russia attacked Ukraine with missiles and drones, killing at least eight people in Kyiv and the Kharkiv region, Ukrainian officials said.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260924-rferl01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-24T12:00:00Z",
+      "content": "By RFE/RL's Ukrainian Service September 24, 2026\r\nRussia attacked Ukraine with missiles and drones, killing at least eight people in Kyiv and the Kharkiv region, Ukrainian officials said.\r\nThe attack\u2026 [+7959 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "World News in Brief: 'New intensity' to Russian attacks on Ukraine, Yemen, Gaza and Colombia updates",
+      "description": "Russian armed forces have carried out repeated attacks across Ukraine over the past several days, killing and injuring civilians and damaging homes, hospitals, shops and workplaces, UN human rights monitors said on Thursday.",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260924-unnews05.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-24T12:00:00Z",
+      "content": "24 September 2026 - Russian armed forces have carried out repeated attacks across Ukraine over the past several days, killing and injuring civilians and damaging homes, hospitals, shops and workplace\u2026 [+5875 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "US Company That Sold Phone Hacking Software To Pentagon, Secret Service Lied About Russian Ownership, Officials Say",
+      "description": "A US company that provided digital forensics and data-extraction software to the Pentagon and other government agencies was in fact owned by a Russian company that also sold software to Russian spy agencies, US authorities charged.",
+      "url": "https://www.globalsecurity.org/intell/library/news/2026/intell-260924-rferl01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-24T12:00:00Z",
+      "content": "By Mike Eckel September 24, 2026\r\nA US company that provided digital forensics and data-extraction software to the Pentagon and other government agencies was in fact owned by a Russian company that a\u2026 [+3094 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Iran, US Remain Far Apart Despite Renewed Talks",
+      "description": "Iran and the United States remain far apart on ending their nearly seven-month war despite renewed diplomacy, an Iranian official said on September 23, as President Masud Pezeshkian rejected US pressure in an address to the UN General Assembly.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260924-rferl01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-24T12:00:00Z",
+      "content": "08:22 24.9.2026\r\nIran and the United States remain far apart on ending their nearly seven-month war despite renewed diplomacy, an Iranian official said on September 23, as President Masud Pezeshkian \u2026 [+2030 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Macron Says Paris Will Send Troops, Defense Systems To Saudi Arabia",
+      "description": "French President Emmanuel Macron announced on September 24 that Paris would send military personnel and defense systems to Saudi Arabia to help protect the country's key Red Sea oil port of Yanbu.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/france/2026/france-260924-rferl01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-24T12:00:00Z",
+      "content": "21:26 24.9.2026\r\nFrench President Emmanuel Macron announced on September 24 that Paris would send military personnel and defense systems to Saudi Arabia to help protect the country's key Red Sea oil \u2026 [+1617 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "US, Iran Discussing Phased End to War With Hormuz Reopening and Blockade Lifting - Reports",
+      "description": "The United States and Iran are discussing a potential phased end to the ongoing war, which would include the reopening of the Strait of Hormuz and lifting of the economic blockade of the Islamic Republic, Reuters reported on Thursday, citing multiple sources.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260924-sputnik01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-24T12:00:00Z",
+      "content": "20260924\r\nWASHINGTON, (Sputnik) - The United States and Iran are discussing a potential phased end to the ongoing war, which would include the reopening of the Strait of Hormuz and lifting of the eco\u2026 [+1215 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "gcaptain.com"
+      },
+      "author": "Bloomberg",
+      "title": "Supertanker Rally Lures Investors as War Squeezes Vessel Supply",
+      "description": "A supercharged rally in tanker earnings is attracting new investors to the global shipping industry, as the war in Iran points to how geopolitical crises can drastically curtail the supply of vessels.",
+      "url": "https://gcaptain.com/supertanker-rally-lures-investors-as-war-squeezes-vessel-supply/",
+      "urlToImage": "https://gcaptain.com/wp-content/uploads/2026/07/2026-07-24T194006Z_526739983_RC2LD6A7RFZM_RTRMADP_3_IRAN-CRISIS-SHIPPING-800x533.jpg",
+      "publishedAt": "2026-09-24T11:57:35Z",
+      "content": "By\u00a0Weilun Soon \r\nSep 24, 2026 (Bloomberg) \u2013A supercharged rally in tanker earnings is attracting new investors to the global shipping industry, as the war in Iran points to how geopolitical crises ca\u2026 [+2727 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "zerohedge.com",
+      "title": "Aramco CEO Eyes \"Fourth & Fifth\" Oil Export Routes To Break Hormuz Chokehold",
+      "description": "Aramco CEO Eyes \"Fourth & Fifth\" Oil Export Routes To Break Hormuz Chokehold \n \nBrent crude futures climbed back above $104 a barrel early Thursday as Iran threatened to widen the Middle East conflict into the Indian Ocean and optimism surrounding yesterday's\u2026",
+      "url": "https://biztoc.com/x/19633345104ed7c3",
+      "urlToImage": "https://biztoc.com/cdn/19633345104ed7c3_s.webp",
+      "publishedAt": "2026-09-24T11:51:39Z",
+      "content": "Aramco CEO Eyes \"Fourth &amp; Fifth\" Oil Export Routes To Break Hormuz Chokehold \r\nBrent crude futures climbed back above $104 a barrel early Thursday as Iran threatened to widen the Middle East conf\u2026 [+146 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newser"
+      },
+      "author": "Arden Dier with Newser.AI",
+      "title": "China Quietly Fueling Iran's War With US",
+      "description": "China has been talking up its role as peacemaker between Washington and Tehran\u2014even as its cargo planes keep landing in Iran with gear that can fuel a war with America. Customs records reviewed by the Wall Street Journal show roughly 1,300 shipments of \"dual \u2026",
+      "url": "https://www.newser.com/story/396973/china-quietly-fueling-irans-war-with-us.html",
+      "urlToImage": "https://cdn.newser.com/image/1713621-12-20260924070718.jpeg",
+      "publishedAt": "2026-09-24T11:39:00Z",
+      "content": "US officials say Chinese satellite imagery aided a deadly July strike on US forces, and that Chinese firms have supplied chemicals for Iranian missiles and tried to help Iran acquire modern shoulder-\u2026 [+820 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Samuel Chamberlain",
+      "title": "Eight sailors in USS Abraham Lincoln strike group attempted suicide during record deployment, Pentagon confirms",
+      "description": "Eight sailors in the USS Abraham Lincoln strike group attempted suicide during a nine-month deployment, acting Navy Secretary Hung Cao confirmed.",
+      "url": "https://nypost.com/2026/09/24/us-news/eight-sailors-in-uss-abraham-lincoln-strike-group-attempted-suicide-during-record-deployment-pentagon-confirms/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/uss-abraham-lincoln-attempted-suicides-comp.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-09-24T11:36:59Z",
+      "content": "Eight sailors assigned to the USS Abraham Lincoln aircraft carrier or ships accompanying it on its nine-month deployment to the Middle East tried to commit suicide, acting Navy Secretary Hung Cao con\u2026 [+1975 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mother Jones"
+      },
+      "author": "Aman Azhar",
+      "title": "Climate Visions Clash at UN Summit, as Trump Goes in Whole Hog for Fossil Fuels",
+      "description": "This story was originally published by\u00a0Inside Climate News\u00a0and\u00a0is reproduced here as part of the\u00a0Climate Desk\u00a0collaboration. Two divergent worldviews emerged from the first two national addresses on the opening day of the United Nations General Assembly\u2019s 81s\u2026",
+      "url": "https://www.motherjones.com/politics/2026/09/climate-change-crisis-un-united-nations-general-assembly-speech-brazil-lula-trump-fossil-fuels-carbon/",
+      "urlToImage": "https://www.motherjones.com/wp-content/uploads/2026/09/GettyImages-2296573897.jpg?w=1200&h=630&crop=1",
+      "publishedAt": "2026-09-24T11:30:00Z",
+      "content": "Luiz In\u00e1cio Lula da Silva, president\u00a0of Brazil,\u00a0speaks before the UN General Assembly on September 22, 2026, in New York City. Chip Somodevilla/Getty\r\nGet your news from a source thats not owned and \u2026 [+11410 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hurriyet Daily News"
+      },
+      "author": "hurriyetdailynews.com",
+      "title": "Global backlash at UN underscores Israel\u2019s deepening isolation",
+      "description": "This week\u2019s United Nations General Assembly has put Israel\u2019s growing diplomatic isolation into sharper focus, as leaders from across the world have used the annual gathering to denounce the Israeli government\u2019s conduct in the Middle East, with Gaza at the cen\u2026",
+      "url": "https://www.hurriyetdailynews.com/global-backlash-at-un-underscores-israels-deepening-isolation-227304",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6ab509a24562d7e716a3d428.jpg",
+      "publishedAt": "2026-09-24T11:20:00Z",
+      "content": "NEW YORK\r\nThis weeks United Nations General Assembly has put Israels growing diplomatic isolation into sharper focus, as leaders from across the world have used the annual gathering to denounce the I\u2026 [+2657 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": "HuffPost",
+      "title": "Netanyahu Expected To Berate New York's Mamdani In 'Campaign Speech' Of UN Address",
+      "description": "Israeli President Benjamin Netanyahu is expected to berate New York Mayor Zohran Mamdani in 'campaign speech' of UN address, according to video statement this week.",
+      "url": "https://www.huffpost.com/entry/netanyahu-expected-to-berate-new-yorks-mamdani-in-campaign-speech-un-address_n_6ab504d6e4b07a6b0992948a",
+      "urlToImage": "https://img.huffingtonpost.com/asset/6ab505c61c0000c08995f2d3.jpeg?ops=1200_630",
+      "publishedAt": "2026-09-24T11:15:11Z",
+      "content": "Israeli Prime Minister Benjamin Netanyahu at his Likud party New Year event in Tel Aviv, Israel, Thursday, Sept. 17, 2026. (AP Photo/Ariel Schalit)\r\nTEL AVIV, Sept 24 (Reuters) - Benjamin Netanyahu i\u2026 [+4467 chars]"
+    },
     {
       "source": {
         "id": "al-jazeera-english",
@@ -122,19 +1006,6 @@
     {
       "source": {
         "id": null,
-        "name": "Mcsweeneys.net"
-      },
-      "author": "Emily Greenberg and Chase Bush-McLaughlin",
-      "title": "Lest We Forget the Horrors: An Unending Catalog of Trump\u2019s Cruelties, Collusions, Corruptions, and Crimes: August 2026: Atrocities 1211-1280",
-      "description": "Early in President Trump\u2019s first term, McSweeney\u2019s editors began to catalog the head-spinning number of misdeeds coming from his administration. We called this list a collection of Trump\u2019s cruelties, collusions, corruptions, and crimes, and it felt urgent to \u2026",
-      "url": "https://www.mcsweeneys.net/articles/august-2026-atrocities-1211-1280",
-      "urlToImage": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/g4yyhyjdxdpweez5bfmnto8krh1a",
-      "publishedAt": "2026-09-24T11:00:00Z",
-      "content": "Early in President Trump\u2019s first term, McSweeney\u2019s editors began to catalog the head-spinning number of misdeeds coming from his administration. We called this list a collection of Trump\u2019s cruelties,\u2026 [+31723 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "OilPrice.com"
       },
       "author": "Tsvetana Paraskova",
@@ -144,6 +1015,19 @@
       "urlToImage": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-24_j98fq6uzqo.jpg",
       "publishedAt": "2026-09-24T11:00:00Z",
       "content": "Buyers are rapidly diversifying supply,\u2026\r\nThe IEA expects global coal\u2026\r\nSet us as your preferred Google source\r\nBy Tsvetana Paraskova - Sep 24, 2026, 6:00 AM CDTThe number of commodity vessels observ\u2026 [+1983 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mcsweeneys.net"
+      },
+      "author": "Emily Greenberg and Chase Bush-McLaughlin",
+      "title": "Lest We Forget the Horrors: An Unending Catalog of Trump\u2019s Cruelties, Collusions, Corruptions, and Crimes: August 2026: Atrocities 1211-1280",
+      "description": "Early in President Trump\u2019s first term, McSweeney\u2019s editors began to catalog the head-spinning number of misdeeds coming from his administration. We called this list a collection of Trump\u2019s cruelties, collusions, corruptions, and crimes, and it felt urgent to \u2026",
+      "url": "https://www.mcsweeneys.net/articles/august-2026-atrocities-1211-1280",
+      "urlToImage": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/g4yyhyjdxdpweez5bfmnto8krh1a",
+      "publishedAt": "2026-09-24T11:00:00Z",
+      "content": "Early in President Trump\u2019s first term, McSweeney\u2019s editors began to catalog the head-spinning number of misdeeds coming from his administration. We called this list a collection of Trump\u2019s cruelties,\u2026 [+31723 chars]"
     },
     {
       "source": {
@@ -417,864 +1301,6 @@
       "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/24060343/commons-picker-govcommonsf0d47581a7d64f07-1-800x450.jpg",
       "publishedAt": "2026-09-24T10:03:44Z",
       "content": "A Tehran-Dushanbe flight was compelled to return to Imam Khomeini International Airport after Turkmenistan refused to grant Iranian airlines permission to cross its airspace, according to Iran\u2019s Civi\u2026 [+2183 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nakedcapitalism.com"
-      },
-      "author": "Nat Wilson Turner",
-      "title": "Iran War: Pezeshkian Says His Piece at the UN, China Won\u2019t Sanction Iranian Airlines",
-      "description": "The Iranian president replied to Trump's speech at the UN. China declined to join Trump's new sanctions on Iran, fighting continued in Yemen.",
-      "url": "https://www.nakedcapitalism.com/2026/09/iran-war-pezeshkian-un-speech-china-sanctions-yemen-ansar-allah.html",
-      "urlToImage": null,
-      "publishedAt": "2026-09-24T10:00:38Z",
-      "content": "This is Naked Capitalism fundraising week. 423 donors have already invested in our efforts to combat corruption and predatory conduct, particularly in the financial realm. Please join us and particip\u2026 [+15822 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Melania Trump\u2019s home-country leader rips UN \u2018double standards\u2019 as Trump promise is revealed",
-      "description": "Janez Jan\u0161a accused the United Nations of double standards on Gaza and Ukraine, and revealed Trump promised to visit Melania Trump's homeland.",
-      "url": "https://www.foxnews.com/world/melania-trumps-home-country-leader-rips-un-double-standards-trump-promise-revealed",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/trump-melania-slovenia-pm.gif",
-      "publishedAt": "2026-09-24T10:00:21Z",
-      "content": "UNITED NATIONS - Slovenian Prime Minister Janez Jana accused the United Nations of applying double standards to global conflicts, arguing that the international community's focus on Gaza has overshad\u2026 [+4736 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Michael Kaplan",
-      "title": "US military spending $500M on \u2018war-ready\u2019 laser weapons \u2014 and zapping drones in Iran, along US border: experts",
-      "description": "The US project to harness laser power has been 50 years in the making and outstrips the capabilities of any other military on Earth.",
-      "url": "https://nypost.com/2026/09/24/us-news/us-military-spending-500m-on-war-ready-laser-weapons-experts/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-iueggl93b-1790207385676.jpg?quality=75&strip=all&1790193015&w=1200",
-      "publishedAt": "2026-09-24T10:00:00Z",
-      "content": "Iranian citizens have witnessed some dazzling laser shows recently but theyre not the kind youd see at a Metallica concert.\r\nThe US military has been deploying lasers in the Strait of Hormuz to knock\u2026 [+6111 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The New Republic"
-      },
-      "author": "Virginia Heffernan",
-      "title": "We Now Know the Word That\u2019s Going to Bury Donald Trump This November",
-      "description": "It\u2019s been two years since Donald Trump fell in love with the word groceries. He seemed to believe the word alone would convey his compassion for the common man. \u201cThe beautiful but simple word \u2018groceries,\u2019\u201d he rhapsodized. \u201cI won on that word.\u201dNow we have a wo\u2026",
-      "url": "https://newrepublic.com/article/215784/diesel-gas-prices-bury-trump-midterm-elections",
-      "urlToImage": "https://images.newrepublic.com/0d9698e59619f9644902bbe2e9d336215028e0c0.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
-      "publishedAt": "2026-09-24T10:00:00Z",
-      "content": "The fuel used in heavy-duty trucks is named for the German engineer Rudolf Diesel. In 1894, Diesel invented a spark plugfree engine that requires a form of crude oil thats thicker than gasoline. Thes\u2026 [+1278 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalsecurity.org"
-      },
-      "author": "John Pike",
-      "title": "Iran saw inaction, not neutrality, during recent war: Pezeshkian",
-      "description": "President Masoud Pezeshkian told European Council President Antonio Costa on Wednesday that Iran had seen inaction rather than neutrality from some countries during the recent war, calling on European states to reconsider their approach and maintain greater i\u2026",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260924-irna01.htm",
-      "urlToImage": null,
-      "publishedAt": "2026-09-24T09:51:10Z",
-      "content": "IRNA - Islamic Republic News Agency\r\nSep 24, 2026, 9:44 AMNews ID: 86273123\r\nNew York, IRNA -- President Masoud Pezeshkian told European Council President Antonio Costa on Wednesday that Iran had see\u2026 [+1684 chars]"
-    },
-    {
-      "source": {
-        "id": "rt",
-        "name": "RT"
-      },
-      "author": "RT",
-      "title": "Russian oil helping India weather Iran energy shock \u2013 Russian deputy FM",
-      "description": "Russia says its crude supplies helped India absorb the impact of Strait of Hormuz disruptions, with Russian imports surging as Middle Eastern shipments slumped",
-      "url": "https://www.rt.com/india/646180-india-russia-crude-supplies/",
-      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6ab4e95e85f540167a68ace0.jpg",
-      "publishedAt": "2026-09-24T09:47:17Z",
-      "content": "Russian crude supplies helped cushion India from an oil-supply shock after the conflict in the Middle East disrupted energy flows through the Strait of Hormuz, showing Moscow\u2019s reliability as an ener\u2026 [+2239 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Daily Star"
-      },
-      "author": "Arts & Entertainment Desk",
-      "title": "Red Sea Film Festival cancels 2026 edition, set to return next year",
-      "description": "Saudi Arabia\u2019s Red Sea International Film Festival has cancelled its sixth edition, originally scheduled to take place from December 3 to 12, with organisers announcing that the event will return in the final quarter of 2027.",
-      "url": "https://www.thedailystar.net/culture/entertainment/news/red-sea-film-festival-cancels-2026-edition-set-return-next-year-4281021",
-      "urlToImage": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-09/ed682dad-39b0-4a6a-86d3-28858169ae24.jpg",
-      "publishedAt": "2026-09-24T09:41:48Z",
-      "content": "Saudi Arabias Red Sea International Film Festival has cancelled its sixth edition, originally scheduled to take place from December 3 to 12, with organisers announcing that the event will return in t\u2026 [+3162 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Punch"
-      },
-      "author": "Punch Newspapers",
-      "title": "Iran threatens to expand war to Indian Ocean if US attacks again",
-      "description": "An adviser to Iran\u2019s supreme leader has warned that Tehran may expand the Middle East war to the Indian Ocean if the United States attacks again.\n\nRead More: https://punchng.com/iran-threatens-to-expand-war-to-indian-ocean-if-us-attacks-again/",
-      "url": "https://punchng.com/iran-threatens-to-expand-war-to-indian-ocean-if-us-attacks-again/",
-      "urlToImage": "https://punchng.com/wp-content/uploads/2026/07/iran_1785002835.webp",
-      "publishedAt": "2026-09-24T09:37:18Z",
-      "content": "An adviser to Iran\u2019s supreme leader Mojtaba Khamenei warned on Thursday that Tehran may expand the Middle East war to the Indian Ocean if the US attacks again.\r\n\u201cSince the conflict has spread from th\u2026 [+1691 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abcnews.com"
-      },
-      "author": "YURI KAGEYAMA AP business writer",
-      "title": "Global shares mostly lower as oil rises and markets await Trump-Xi talks",
-      "description": "Global shares are trading mostly lower as investors took in the recent swings in oil prices and the U.S. bond market",
-      "url": "https://abcnews.com/Business/wireStory/global-shares-lower-oil-rises-markets-await-trump-136708383",
-      "urlToImage": "https://i.abcnewsfe.com/a/9393b773-f688-4ce5-911a-030159790eab/wirestory_caeb42b84b9f36294b1c6f6eea5b18ba_16x9.jpg?w=1600",
-      "publishedAt": "2026-09-24T09:36:48Z",
-      "content": "TOKYO -- Global shares were trading mostly lower Thursday, as investors tried to digest the recent swings in oil prices and the U.S. bond market. \r\nFrance's CAC 40 shed nearly 0.8% to 8,061.10 in ear\u2026 [+2170 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNA"
-      },
-      "author": null,
-      "title": "Iran threatens to expand war to Indian Ocean if US attacks again",
-      "description": "The warning is the first time an adviser to Iran's supreme leader explicitly mentioned the Indian Ocean, home to a strategic US-British military base at Diego Garcia, nearly 4,000km from Iran.",
-      "url": "https://www.channelnewsasia.com/world/iran-indian-ocean-threat-expand-war-us-6407876",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--idixOIuV--/c_crop,h_1125,w_2000,x_0,y_208/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/24/000_c89g4px.jpg?itok=NW19dHXn",
-      "publishedAt": "2026-09-24T09:28:55Z",
-      "content": "TEHRAN: An adviser to Iran's supreme leader Mojtaba Khamenei warned on Thursday (Sep 24) that Tehran may expand the Middle East war to the Indian Ocean if the US attacks again.\r\n\"Since the conflict h\u2026 [+1223 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Al Jazeera Staff",
-      "title": "Yemeni forces say they repel Houthi attacks in Taiz as fighting rages",
-      "description": "Government forces say dozens of Houthis killed in southwestern governorate during battles for strategic highlands.",
-      "url": "https://www.aljazeera.com/news/2026/9/24/yemeni-forces-claim-repelling-houthi-attacks-in-taiz-as-fighting-rages-on",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6ab483903a-1790215056.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-09-24T09:26:32Z",
-      "content": "Yemens government-aligned forces say they have repelled Houthi attacks along several fronts in the southwestern governorate of Taiz as heavy fighting continues in the Arab worlds poorest country.\r\nCo\u2026 [+2962 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Debaroti Adhikary",
-      "title": "Bond crisis worsens! US 30-year Treasury yields surge to highest level since 2004. What lies ahead?",
-      "description": "The US bond selloff intensified as the 30-year Treasury yield hit its highest level since 2004, while the 10-year yield reached a post-financial-crisis high. Strong US economic data, rising inflation concerns, elevated government debt and higher oil prices ha\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/u-s-30-year-bond-yield-rises-to-highest-since-2004-as-selloff-deepens/articleshow/134457498.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134457521,width-1200,height-630,imgsize-1915423,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-24T09:21:10Z",
-      "content": "The bond selloff has intensified on Thursday, with the yield on 30-year US Treasury bonds rising to their highest level since 2004 on Thursday after data indicated strong US growth and rising inflati\u2026 [+3301 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Standard"
-      },
-      "author": "Press Trust of India",
-      "title": "China unlikely to back India's bid for permanent UNSC seat: John Bolton",
-      "description": "Former US National Security Adviser John Bolton has said that China is not ready to move when it comes to supporting India's bid for a permanent seat in the UN Security Council.\nSpeaking to PTI Videos, Bolton said that attempts to change the composition of th\u2026",
-      "url": "https://www.business-standard.com/external-affairs-defence-security/news/china-unlikely-to-back-india-s-bid-for-permanent-unsc-seat-john-bolton-126092400636_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-10/17/thumb/fitandfill/1200X628/1760666222-2291.jpg",
-      "publishedAt": "2026-09-24T09:16:40Z",
-      "content": "Former US National Security Adviser John Bolton has said that China is not ready to move when it comes to supporting India's bid for a permanent seat in the UN Security Council.\r\nSpeaking to PTI Vide\u2026 [+2410 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hurriyet Daily News"
-      },
-      "author": "hurriyetdailynews.com",
-      "title": "Oil keeps flowing, but cost of Gulf workarounds mount",
-      "description": "When Iran shut down the Strait of Hormuz at the start of the war, choking off sea passage for some 15 million barrels of oil a day, many feared that prices would skyrocket, cratering the world economy.",
-      "url": "https://www.hurriyetdailynews.com/oil-keeps-flowing-but-cost-of-gulf-workarounds-mount-227293",
-      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6ab4e8b2081ef476a8ca9e5f.jpg",
-      "publishedAt": "2026-09-24T09:10:03Z",
-      "content": "ISTANBUL\r\nA boy stands with his bicycle on a beach overlooking commercial vessels anchored in the Strait of Hormuz off Bandar Abbas, Iran, on Sept 7, 2026. (AP Photo)\r\nWhen Iran shut down the Strait \u2026 [+4824 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Seth Vertelney, USA TODAY",
-      "title": "Soccer games today: Full schedule of international matches on September 24",
-      "description": "For the first time since the 2026 World Cup, international men's soccer is back. Here are all the games today.",
-      "url": "https://www.usatoday.com/story/sports/soccer/2026/09/24/soccer-games-today-schedule-kickoff-times-september-24/91911379007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/99f2c13fee31916464d5a643bca0e676a06aa9b408846da7a53ccc140d986bb1/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F22c6ebb1fb6668aef9a43511b3100e6f.jpg",
-      "publishedAt": "2026-09-24T09:09:58Z",
-      "content": "For the first time since the 2026 World Cup, international men's soccer is back.\r\nOn Thursday, Sept. 24, teams from around the globe return to the field to begin the extended September-October intern\u2026 [+2150 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "China unlikely to back India's UNSC bid: Former US NSA John Bolton",
-      "description": "John Bolton has indicated that China will not support India's permanent seat bid in the UN Security Council. He suggested that any expansion of permanent membership requires an amendment to the UN Charter. Bolton believes this amendment would likely be vetoed\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/china-unlikely-to-back-indias-unsc-bid-former-us-nsa-john-bolton/articleshow/134456979.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134457135,width-1200,height-630,imgsize-63256,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-24T09:07:02Z",
-      "content": "Washington: Former US National Security Adviser John Bolton has said that China is not ready to move when it comes to supporting India's bid for a permanent seat in the UN Security Council.Speaking t\u2026 [+2440 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Ibrahim Al-Marashi, IE School of Humanities, IE University; California State University San Marcos",
-      "title": "How three colonial powers gained \u2013 and then lost \u2013 control over the straits of Hormuz and Bab el-Mandeb",
-      "description": "The Portuguese, Dutch and British empires all vied for control over the vital shipping lane.",
-      "url": "https://theconversation.com/how-three-colonial-powers-gained-and-then-lost-control-over-the-straits-of-hormuz-and-bab-el-mandeb-292255",
-      "urlToImage": "https://images.theconversation.com/files/761513/original/file-20260922-59-zoxe5z.jpg?ixlib=rb-4.1.1&rect=0%2C439%2C6016%2C3008&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2026-09-24T09:06:42Z",
-      "content": "Over recent months, the straits of Hormuz and Bab el-Mandeb have become synonymous with geopolitical jostling. Whoever controls these narrow waterways governs the flow of maritime traffic from the Ar\u2026 [+7561 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Blogspot.com"
-      },
-      "author": "noreply@blogger.com (Unknown)",
-      "title": "Dragging the World Into the Abyss: Trump the \u2018P(iss)maker\u2019 is Doing His Best to Expand the Quagmire",
-      "description": "h1, h2, h3, h4 {\n line-height: 33px;\n }\n \n \n\n\n\n The majority of the American public has seen enough. Seven months into the US-Iran war (that was initially supposed to be a limited Israeli engagement), the domestic consensus is clear: the conflict is a catastr\u2026",
-      "url": "https://i-epikaira.blogspot.com/2026/09/dragging-world-into-abyss-trump.html",
-      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvCzs5jvJbrjDvUOAhojHR9fwvVcB8Yo1FKYfSGNGnWM-CVuoSWQyQliX-4RfGnI4nchZnt34OQkNEZeT0SbySupEbo2HRHC99lqs438vR-sfDSKRj9DckFZNvTNoRMQhBlx4d4j90GgOahtF1bU5sJTdPHiGJypwbYnTaTvjevrGwWsoHd8HJAhXHD_Pr/w400-h223/1790237668.jpeg",
-      "publishedAt": "2026-09-24T09:03:51Z",
-      "content": "The majority of the American public has seen enough. Seven months into the US-Iran war (that was initially supposed to be a limited Israeli engagement), the domestic consensus is clear: the conflict \u2026 [+5508 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Atlantic"
-      },
-      "author": "Jonathan Lemire",
-      "title": "The Deferential President",
-      "description": "Not long ago, President Trump could claim that he ran the world. Now he\u2019s waiting at the bottom of a set of airline steps for the Chinese president.",
-      "url": "https://www.theatlantic.com/politics/2026/09/trump-xi-china-summit/688762/?utm_source=feed",
-      "urlToImage": null,
-      "publishedAt": "2026-09-24T09:00:00Z",
-      "content": "The 747 slowly wheeled to a stop last night on the tarmac of Joint Base Andrews, just outside Washington. Portable stairs were put in position, while a red carpet was unfurled and lined by both Ameri\u2026 [+7942 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Republicans face brutal midterm headwinds.\u00a0Six forces could help them defy history.",
-      "description": "With six weeks until Election Day, rising gas prices, Trump's 39% approval rating, and redistricting wars will shape the 2026 midterm battle.",
-      "url": "https://www.foxnews.com/politics/republicans-face-brutal-midterm-headwinds-six-forces-could-help-them-defy-history",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/trump-republican-convention-dallas.jpg",
-      "publishedAt": "2026-09-24T09:00:00Z",
-      "content": "With six weeks to go until Election Day, and early voting already underway in a handful of states, the conventional wisdom is that Republicans may be in for some setbacks in the midterms.\r\nAs it defe\u2026 [+9919 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Intercept"
-      },
-      "author": "Anita Hofschneider",
-      "title": "As the Pentagon Expands Across the Pacific, Guam Offers a Warning",
-      "description": "The U.S. militarization of Guam has left its residents living with a legacy of pollution, environmental degradation, and cultural loss. Other Pacific islands may be next.\nThe post As the Pentagon Expands Across the Pacific, Guam Offers a Warning appeared firs\u2026",
-      "url": "https://theintercept.com/2026/09/24/guam-military-buildup-base-pollution/",
-      "urlToImage": "https://theintercept.com/wp-content/uploads/2026/09/Guam-militarization-5-e1790177115607.webp?fit=1999%2C1000&w=1200&h=800",
-      "publishedAt": "2026-09-24T08:45:00Z",
-      "content": "I. \r\nLeevin Camacho was brushing his teeth one day last fall when his mother called. The water is contaminated, she said. Moments later, she texted him a photo of a flyer issued by the local water au\u2026 [+28961 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Grist"
-      },
-      "author": "Anita Hofschneider",
-      "title": "As the Pentagon expands across the Pacific, Guam offers a warning",
-      "description": "The U.S. militarization of Guam has left its residents living with a legacy of pollution, environmental degradation, and cultural loss. Other Pacific islands may be next.",
-      "url": "https://grist.org/health/as-the-pentagon-expands-across-the-pacific-guam-offers-a-warning/",
-      "urlToImage": "https://grist.org/wp-content/uploads/2026/09/Guam-militarization-5.jpg",
-      "publishedAt": "2026-09-24T08:45:00Z",
-      "content": "This story was published in partnership with The Intercept.\r\nLeevin Camacho was brushing his teeth one day last fall when his mother called. The water is contaminated, she said. Moments later she tex\u2026 [+27123 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Simon Speakman Cordall",
-      "title": "Netanyahu takes UN stage with one eye on Israel\u2019s election",
-      "description": "As criticism of Israel intensifies, Israeli PM Netanyahu heads to the UN with his own political future in focus.",
-      "url": "https://www.aljazeera.com/news/2026/9/24/netanyahus-un-speech-a-high-stakes-test-for-audiences-at-home",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/2025-09-26T182537Z_797215495_RC2PZGAGESKG_RTRMADP_3_UN-ASSEMBLY_cropped-1758924051.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-09-24T08:40:45Z",
-      "content": "When Israeli Prime Minister Benjamin Netanyahu takes to his feet at the United Nations General Assembly (UNGA) in New York later on Thursday, he does so at a critical point in both his political care\u2026 [+5515 chars]"
-    },
-    {
-      "source": {
-        "id": "rte",
-        "name": "RTE"
-      },
-      "author": "RT\u00c9 News",
-      "title": "Oil rises on little sign of progress in US-Iran talks",
-      "description": "Oil prices rose more than 2% today as diplomatic talks between the US and Iran showed little sign of progress, while investors focused on uncertainty about a potential US ban on diesel exports.",
-      "url": "https://www.rte.ie/news/business/2026/0924/1592780-world-oil-prices/",
-      "urlToImage": "https://www.rte.ie/images/0014310a-1600.jpg",
-      "publishedAt": "2026-09-24T08:31:27Z",
-      "content": "Oil prices rose more than 2% today as diplomatic talks between the US and Iran showed little sign of progress, while investors focused on uncertainty about a potential US ban on diesel exports.\r\nBren\u2026 [+2177 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abcnews.com"
-      },
-      "author": "NICHOLAS RICCARDI Associated Press, CATHY BUSSEWITZ Associated Press",
-      "title": "Skyrocketing diesel prices rattle Republicans as midterms approach",
-      "description": "Diesel prices are hitting record highs as the Middle East conflict intensifies, affecting American farmers and rural residents",
-      "url": "https://abcnews.com/Business/wireStory/skyrocketing-diesel-prices-rattle-republicans-midterms-approach-136701014",
-      "urlToImage": "https://i.abcnewsfe.com/a/1604afc1-9482-4522-b629-e45e6737336f/wirestory_522435dd87d2a9b5270eebfa309f4a73_16x9.jpg?w=1600",
-      "publishedAt": "2026-09-24T08:17:20Z",
-      "content": "Diesel fuel, which powers the global economy and the American heartland, is hitting record prices as the war in the Middle East intensifies, leaving Republican candidates reeling and contemplating ex\u2026 [+6920 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "author": "Anupama Ghosh",
-      "title": "Sensex slides 813 points, financial stocks tumble as crude oil and bond yields pressure markets",
-      "description": "Sensex fell 813 points and Nifty 1.13% as financial, insurance and metal stocks declined, while crude oil and US Treasury yields pressured markets.",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-slides-813-points-financial-stocks-tumble-as-crude-oil-and-bond-yields-pressure-markets/article71503302.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/qlk702/article71479536.ece/alternates/LANDSCAPE_1200/iStock-1405176819.jpg",
-      "publishedAt": "2026-09-24T08:01:43Z",
-      "content": "Markets deepened their losses through the mid-session on Wednesday, with the Sensex shedding 813.20 points, or 1.09 per cent, to 74,015.05 and the Nifty 50 falling 265 points, or 1.13 per cent, to 23\u2026 [+3200 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Hasti Doshi",
-      "title": "Keshav Mehta: TV teaches you to face challenges on the spot",
-      "description": "Keshav Mehta shares valuable insights from his experiences in television and OTT platforms. He values the discipline that television instills in actors, while favoring the depth and authenticity of storytelling featured in OTT content. Keshav comments on dist\u2026",
-      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/keshav-mehta-tv-teaches-you-to-face-challenges-on-the-spot/articleshow/134455751.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134455771,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-24T08:01:32Z",
-      "content": "<ul><li>News</li>\r\n<li>tv</li>\r\n<li>Keshav Mehta: TV teaches you to face challenges on the spot</li></ul>\r\nFollow Us On Social Media\r\nIn 2023, Jeff Bezos Earth Fund pledged $100 million for Pacific c\u2026 [+1946 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Prabin Kalita",
-      "title": "Assam tiger cub rescued from fishing net, forest teams try to reunite it with mother",
-      "description": "Assam: 3-month-old tiger cub rescued from fishing net in Biswanath; forest teams and WTI attempt reunite with mother using camera traps and drone monitoring.",
-      "url": "https://timesofindia.indiatimes.com/city/guwahati/assam-tiger-cub-rescued-from-fishing-net-forest-teams-try-to-reunite-it-with-mother/articleshow/134455775.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134455774,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-24T08:00:39Z",
-      "content": "Follow Us On Social Media\r\nIn 2023, Jeff Bezos Earth Fund pledged $100 million for Pacific conservation; three years later, a new $25 million round is backing five nations to protect and manage 625,0\u2026 [+1839 chars]"
-    },
-    {
-      "source": {
-        "id": "cbc-news",
-        "name": "CBC News"
-      },
-      "author": "Jennifer Yoon",
-      "title": "Why Canada's rolling out the red carpet for Vietnamese President T\u00f4 L\u00e2m",
-      "description": "Vietnam and Canada can deepen their relationships on trade, energy and academia, say experts \u2014 but some say the Southeast Asian country's track record on human rights shouldn't be ignored.",
-      "url": "https://www.cbc.ca/news/politics/canada-vietnam-state-visit-trade-relationship-tariffs-9.7356179",
-      "urlToImage": "https://i.cbc.ca/ais/317d7f88-fc90-4078-a893-e0d9affeaf5c,1790209268356/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C287%2C5500%2C3093%29%3BResize%3D620",
-      "publishedAt": "2026-09-24T08:00:00Z",
-      "content": "From a welcoming ceremony with military honours to a lavish state dinner as far as diplomatic events go, a state visit is as formal as it gets: the ultimate symbol of friendly bilateral relations.\u00a0\r\n\u2026 [+4827 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Education",
-      "title": "Telangana schools, colleges to remain closed tomorrow, September 25 for Ganesh idol immersion; check details",
-      "description": "Schools and colleges in Hyderabad, Secunderabad, and nearby areas will remain closed on September 25, 2026. This decision is due to the Ganesh idol immersion procession taking place in the region. The Telangana government aims to facilitate smooth public move\u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/telangana-schools-colleges-to-remain-closed-tomorrow-september-25-for-ganesh-immersion-check-details/articleshow/134454773.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134455732,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-24T07:59:42Z",
-      "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>Telangana schools, colleges to remain closed tomorrow, September 25 for Ganesh idol immersion; check details</li></ul>\r\nFollow Us On Soc\u2026 [+2022 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Abhay",
-      "title": "Woman complains of eve-teasing by group of men in Delhi\u2019s Mukherjee Nagar; FIR filed",
-      "description": "Delhi Police received a complaint from a woman about eve-teasing near Hakikat Park at 9.30 pm. During the investigation, police traced the vehicle involved in the incident to its owner. Naman was identified as the driver, accompanied by two to three others du\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/delhi/woman-complains-of-eve-teasing-by-group-of-men-in-delhis-mukherjee-nagar-fir-filed/articleshow/134455379.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134455689,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-24T07:57:09Z",
-      "content": "Follow Us On Social Media\r\nIn 2023, Jeff Bezos Earth Fund pledged $100 million for Pacific conservation; three years later, a new $25 million round is backing five nations to protect and manage 625,0\u2026 [+1839 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Lairenlakpam Warli",
-      "title": "20 injured after private bus overturns in Maharashtra\u2019s Beed",
-      "description": "At least 20 people were injured after a private bus overturned in Maharashtra\u2019s Beed district on Thursday. The injured were taken to a nearby hospital for treatment, while further details about the accident and their condition are awaited.",
-      "url": "https://timesofindia.indiatimes.com/city/aurangabad/20-injured-after-private-bus-overturns-in-maharashtras-beed/articleshow/134455482.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134455682,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-24T07:55:52Z",
-      "content": "Follow Us On Social Media\r\nIn 2023, Jeff Bezos Earth Fund pledged $100 million for Pacific conservation; three years later, a new $25 million round is backing five nations to protect and manage 625,0\u2026 [+1839 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Hanna Duggal",
-      "title": "China vs US: Who is winning the AI race, in four charts",
-      "description": "The US dominates AI spending and computing power, but China is ahead in research and closing the gap on advanced models.",
-      "url": "https://www.aljazeera.com/news/2026/9/24/china-vs-us-who-is-winning-the-ai-race-in-four-charts",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26210160788341-1785310440.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-09-24T07:53:18Z",
-      "content": "United States President Donald Trump and Chinas President Xi Jinping are set to meet in Washington, DC on Thursday for a summit that is expected to cover trade, artificial intelligence (AI), Taiwan a\u2026 [+5001 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Bloomberg",
-      "title": "Saudi opens oil taps for Asia as India, China hunt crude amid Iran war, Hormuz crisis",
-      "description": "Saudi Arabia has sold almost 100 million barrels of crude to Asian buyers, including refiners in India and China, helping ease supply concerns as the Iran war disrupts regional oil flows. The sales come as Iranian crude supplies dry up, Russian oil faces poli\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/saudi-opens-oil-taps-for-asia-as-india-china-hunt-crude-amid-iran-war-hormuz-crisis/articleshow/134455319.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134455438,width-1200,height-630,imgsize-105740,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-24T07:50:42Z",
-      "content": "Saudi Arabia has sold almost 100 million barrels of oil to Asian buyers since the middle of last week, according to traders familiar with the matter, helping to avert a looming supply crunch in the r\u2026 [+2404 chars]"
-    },
-    {
-      "source": {
-        "id": "rte",
-        "name": "RTE"
-      },
-      "author": "RT\u00c9 News",
-      "title": "Swiss National Bank holds rates - as expected",
-      "description": "The Swiss National Bank kept its benchmark interest rate on hold today, resisting pressure to counter rising inflation caused by war in the Middle East which has seen other central banks hike borrowing costs.",
-      "url": "https://www.rte.ie/news/business/2026/0924/1592766-swiss-national-bank-holds-rates-at-0/",
-      "urlToImage": "https://www.rte.ie/images/00220341-1600.jpg",
-      "publishedAt": "2026-09-24T07:50:22Z",
-      "content": "The Swiss National Bank kept its benchmark interest rate on hold today, resisting pressure to counter rising inflation caused by war in the Middle East which has seen other central banks hike borrowi\u2026 [+1711 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Entertainment Desk",
-      "title": "Parineeti praises Alia, Priyanka, Deepika, Katrina for breaking motherhood stereotypes",
-      "description": "Parineeti Chopra has opened up about working in the Hindi film industry after embracing motherhood, saying having a baby should not affect an actor\u2019s career. Speaking to Mid Day, the actor recalled shooting 'Shaque: Trust No One' while pregnant with her son N\u2026",
-      "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/parineeti-chopra-praises-alia-bhatt-priyanka-chopra-deepika-padukone-and-katrina-kaif-for-challenging-motherhood-stereotypes-in-bollywood-nothing-else-that-happens-in-my-life-impacts-my-career-so-why-should-having-a-baby/articleshow/134455303.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134455565,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-24T07:50:15Z",
-      "content": "<ul><li>News</li>\r\n<li>web-series</li>\r\n<li>hindi</li>\r\n<li>Parineeti Chopra praises Alia Bhatt, Priyanka Chopra, Deepika Padukone and Katrina Kaif for challenging motherhood stereotypes in Bollywood\u2026 [+2136 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Iasbaba.com"
-      },
-      "author": "IASbaba",
-      "title": "DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam \u2013 24th September 2026",
-      "description": "Archives (PRELIMS\u00a0 Focus) \u00a0 (MAINS Focus) \u00a0\nThe post DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam \u2013 24th September 2026 appeared first on IASbaba.",
-      "url": "https://iasbaba.com/2026/09/daily-current-affairs-ias-upsc-prelims-and-mains-exam-24th-september-2026/",
-      "urlToImage": null,
-      "publishedAt": "2026-09-24T07:49:24Z",
-      "content": "GS II International RelationsUnited Nations, Multilateralism, and Global Governance\r\nIntroduction\r\nAs world leaders attend the 81st session of the UN General Assembly (UNGA), there is a chorus of cri\u2026 [+4551 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Sindhu Kannan",
-      "title": "IIT Madras junction goes signal-free, eases traffic snarls",
-      "description": "IIT Madras junction experienced significant traffic changes after the introduction of a new system. Motorists from Kotturpuram must now make a U-turn beneath the Madhya Kailash flyover. Vehicles coming from Madhya Kailash can proceed towards Raj Bhavan withou\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/chennai/iit-madras-junction-goes-signal-free-eases-traffic-snarls/articleshow/134455357.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134455357,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-24T07:49:17Z",
-      "content": "Follow Us On Social Media\r\nIn 2023, Jeff Bezos Earth Fund pledged $100 million for Pacific conservation; three years later, a new $25 million round is backing five nations to protect and manage 625,0\u2026 [+1839 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Standard"
-      },
-      "author": "Deepak Korgaonkar",
-      "title": "Reliance Industries down 2%, at 17-month low; what's making Street nervous?",
-      "description": "RIL Share Price: Thus far in the calendar year 2026, RIL's share price underperformed the market by plunging 22 per cent, as compared to a 13 per cent decline in the BSE Sensex.",
-      "url": "https://www.business-standard.com/markets/news/reliance-industries-down-2-at-17-month-low-what-s-making-street-nervous-126092400512_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/04/thumb/fitandfill/1200X628/1780568693-0281.jpg",
-      "publishedAt": "2026-09-24T07:45:35Z",
-      "content": "Thus far in the calendar year 2026, RIL's share price underperformed the market by plunging 22 per cent, as compared to a 13 per cent decline in the BSE Sensex.\r\nRIL share price dropped to a 17-month\u2026 [+5328 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "US midterm elections: 9 key issues that could shape the November polls",
-      "description": "What issues are likely to shape the US midterm elections? Voters heading into the 2026 US midterm elections are particularly concerned about the economy and cost of living. Economic issues are widely affecting voter's perceptions and decisions, especially in \u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-midterm-elections-9-key-issues-that-could-shape-the-november-polls/articleshow/134455194.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134455365,width-1200,height-630,imgsize-161268,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-24T07:43:33Z",
-      "content": "The 2026 US midterm elections are shaping up around a familiar question: how voters feel about the economy. But the campaign is also being pulled in several other directions, from immigration and gas\u2026 [+7864 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Anniek Bao",
-      "title": "CNBC Daily Open: Judge orders Trump to lift press ban",
-      "description": "A federal judge has ordered the White House to restore press access to CNN, MS NOW and Politico, in a win for the three media outlets.",
-      "url": "https://www.cnbc.com/2026/09/24/trump-white-house-media-ban-iran-china-visit-ai-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108307519-1778845592594-gettyimages-2275747245-CHINA-USA.jpeg?v=1778845674&w=1920&h=1080",
-      "publishedAt": "2026-09-24T07:42:49Z",
-      "content": "Chinese President Xi Jinping and U.S. President Donald Trump attend a meeting on the sidelines during a tour of the Zhongnanhai Garden on May 15, 2026 in Beijing, China. \r\nHello, this is Anniek Bao w\u2026 [+4026 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Abhilash Botekar",
-      "title": "Man dies during Ganesh visarjan procession; MLA Jagtap alleges lathi charge, SP denies link",
-      "description": "In a tragic incident during the Ganesh visarjan procession in Ahilyanagar, 49-year-old Deepak Wagaskar collapsed and later died. Eyewitnesses have expressed concerns that police lathi charges may have played a role in his demise. However, Superintendent of Po\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/nashik/man-dies-during-ganesh-visarjan-procession-mla-jagtap-alleges-lathi-charge-sp-denies-link/articleshow/134455184.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134455326,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-24T07:38:00Z",
-      "content": "Follow Us On Social Media\r\nIn 2023, Jeff Bezos Earth Fund pledged $100 million for Pacific conservation; three years later, a new $25 million round is backing five nations to protect and manage 625,0\u2026 [+1839 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "seekingalpha.com",
-      "title": "TLT: Long Bonds Getting Interesting",
-      "description": "2026 has not turned out to be the year many thought it would be in terms of inflation. When President Trump decided to invade Iran, energy prices soared, and they've recently jumped again as the Middle East\nSummary\n- iShares 20+ Year Treasury Bond ETF offers \u2026",
-      "url": "https://biztoc.com/x/591e977c13e0b70f",
-      "urlToImage": "https://biztoc.com/cdn/591e977c13e0b70f_s.webp",
-      "publishedAt": "2026-09-24T07:37:23Z",
-      "content": "2026 has not turned out to be the year many thought it would be in terms of inflation. When President Trump decided to invade Iran, energy prices soared, and they've recently jumped again as the Midd\u2026 [+140 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "zerohedge.com",
-      "title": "In Red Sea Crisis, Somaliland Seizes Leverage For US Recognition",
-      "description": "In Red Sea Crisis, Somaliland Seizes Leverage For US Recognition\n \nAuthored by Dan M. Ford via Responsible Statecraft,\nThe president of Somaliland took advantage of the geopolitical and global economic turmoil caused by the Iran War to visit Washington this w\u2026",
-      "url": "https://biztoc.com/x/b903e15738260e1d",
-      "urlToImage": "https://biztoc.com/cdn/b903e15738260e1d_s.webp",
-      "publishedAt": "2026-09-24T07:36:57Z",
-      "content": "In Red Sea Crisis, Somaliland Seizes Leverage For US Recognition\r\nAuthored by Dan M. Ford via Responsible Statecraft,The president of Somaliland took advantage of the geopolitical and global economic\u2026 [+145 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "War on the Rocks"
-      },
-      "author": "Iskander Rehman",
-      "title": "Power, Prudence, and Restraint in F\u00e9nelon\u2019s Telemachus",
-      "description": "\u201cIf one is to judge by the fire and ardor with which this book is sought after, it is the most excellent of all books. Never were so many copies printed of any work; never were so many editions made of a single book; never has any writing been read by so many\u2026",
-      "url": "https://warontherocks.com/power-prudence-and-restraint-in-fenelons-telemachus/",
-      "urlToImage": "https://warontherocks.com/wp-content/uploads/wotr-og-images/wotr-og-46978-de5aba703c44.jpg",
-      "publishedAt": "2026-09-24T07:30:45Z",
-      "content": "\u201cIf one is to judge by the fire and ardor with which this book is sought after, it is the most excellent of all books. Never were so many copies printed of any work; never were so many editions made \u2026 [+46798 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "War on the Rocks"
-      },
-      "author": "Robert Chisholm, Zachary Stolz, Brad Hennings",
-      "title": "The New Signature Wounds: How Drone Warfare Is Reshaping the Injuries Veterans Bring Home",
-      "description": "Traumatic brain injury became the signature wound of the post-9/11 wars because the battlefield changed. Improvised explosive devices changed the nature of American combat injuries. But the medical and legal systems that followed \u2014 including the Department of\u2026",
-      "url": "https://warontherocks.com/the-new-signature-wounds-how-drone-warfare-is-reshaping-the-injuries-veterans-bring-home/",
-      "urlToImage": "https://warontherocks.com/wp-content/uploads/wotr-og-images/wotr-og-47072-b82a723dcb0c.jpg",
-      "publishedAt": "2026-09-24T07:15:36Z",
-      "content": "Traumatic brain injury became the signature wound of the post-9/11 wars because the battlefield changed. Improvised explosive devices changed the nature of American combat injuries. But the medical a\u2026 [+20013 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Maram Humaid",
-      "title": "Gaza watches Israel\u2019s elections with fear and antipathy",
-      "description": "Palestinians are following the campaign, but few feel next month's vote will make their lives any better.",
-      "url": "https://www.aljazeera.com/news/2026/9/24/gaza-watches-israels-election-with-fear-and-antipathy",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-04T083135Z_1547578087_RC28CNAX5OKL_RTRMADP_3_ISRAEL-ELECTION-GAZA-EXPULSION-1788660218.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-09-24T07:07:02Z",
-      "content": "Gaza City For three years, Palestinians in Gaza have lived with the destruction of their cities and displacement from their homes. Israels genocidal war, which started in October 2023, has taken more\u2026 [+7419 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsonjapan.com"
-      },
-      "author": "News On Japan",
-      "title": "Nikkei Rises as AI and Chip Shares Lead Tokyo After Silver Week",
-      "description": "Tokyo stocks rose on September 24, with the Nikkei 225 climbing to 65,647, up 628 points, as investors returned from the Silver Week break with renewed appetite for artificial intelligence and semiconductor-related shares, while the broader TOPIX edged lower \u2026",
-      "url": "https://newsonjapan.com/article/150849.php",
-      "urlToImage": "https://i2.ytimg.com/vi/iIWz_AinZcA/maxresdefault.jpg",
-      "publishedAt": "2026-09-24T07:01:33Z",
-      "content": "TOKYO -\r\n Tokyo stocks rose on September 24, with the Nikkei 225 climbing to 65,647, up 628 points, as investors returned from the Silver Week break with renewed appetite for artificial intelligence \u2026 [+16668 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Straits Times"
-      },
-      "author": "The Straits Times",
-      "title": "Oil prices fall as Iran signals openness to diplomacy",
-      "description": "Oil prices fall as Iran signals openness to diplomacy, easing geopolitical tensions despite ongoing US-Iran disputes and uncertain impact on global energy markets. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/business/oil-prices-fall-as-iran-says-it-is-open-to-diplomacy-to-end-the-war",
-      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/997e3eb99ae524b5343ce97330dcbb626a2b90d928c20c41da12365d32450a0e",
-      "publishedAt": "2026-09-24T07:00:49Z",
-      "content": "SINGAPORE Oil prices extended gains on Sept 24 after climbing 4 per cent in the previous session, as diplomatic talks between the United States and Iran showed no concrete sign of progress.\r\nBrent cr\u2026 [+2399 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Military.com"
-      },
-      "author": "Derricke Dennis",
-      "title": "Army Expands Use of Disposable One-Way Drones",
-      "description": "The Army used roughly 1,000 expendable drones during Exercise Saber Junction as it expands lessons learned from drone warfare in Ukraine.",
-      "url": "https://military.com/army-used-1000-disposable-drones-in-one-exercise-soldiers-treated-them-like-ammunition",
-      "urlToImage": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/07/9824649.jpg?w=1600&h=900&fit=crop",
-      "publishedAt": "2026-09-24T07:00:13Z",
-      "content": "There's a revolution happening in the U.S. military. Low-cost, \"expendable\" drones that fly into a conflict zone and, by design, don't come back.\r\nAt a recent military exercise in Germany, known as E\u2026 [+4251 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Education",
-      "title": "Economics is humanities or mathematics? UP Police DSP\u2019s post sparks debate over where the subject really belongs",
-      "description": "A post by UP Police DSP Anjali Kataria has sparked debate over whether Economics belongs with humanities or is better understood through its mathematical and quantitative foundations. Drawing on her Economics degree from Hindu College, Kataria highlighted sub\u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/economics-is-humanities-or-mathematics-up-police-dsps-post-sparks-debate-over-where-the-subject-really-belongs/articleshow/134454095.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134454144,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-24T06:57:31Z",
-      "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>Economics is humanities or mathematics? UP Police DSPs post sparks debate over where the subject really belongs</li></ul>\r\nFollow Us On \u2026 [+3751 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Education",
-      "title": "NEET-UG paper leak: NTA withholds result of Latur coaching centre owner's son, bars him from exam for 2 years",
-      "description": "Aditya Motegaonkar, related to Shivraj Motegaonkar, has been barred from NEET-UG for two years due to a paper leak. His result for the examination has been withheld following allegations of cheating and irregularities. Shivraj Motegaonkar was arrested by the \u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/neet-ug-paper-leak-nta-withholds-result-of-latur-coaching-centre-owners-son-bars-him-from-exam-for-2-years/articleshow/134453199.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134454347,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-24T06:55:03Z",
-      "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>NEET-UG paper leak: NTA withholds result of Latur coaching centre owner's son, bars him from exam for 2 years</li></ul>\r\nFollow Us On So\u2026 [+3749 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI World Desk",
-      "title": "An Alabama couple bought 21 acres in Jackson Hole in the 1990s; decades later, their family retreat is asking $40 million",
-      "description": "An Alabama couple who bought a 21-acre property in Jackson Hole in the 1990s has spent decades turning it into a family retreat with a Western-style",
-      "url": "https://timesofindia.indiatimes.com/world/us/an-alabama-couple-bought-21-acres-in-jackson-hole-in-the-1990s-decades-later-their-family-retreat-is-asking-40-million/articleshow/134454139.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134454208,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-24T06:50:57Z",
-      "content": "<ul><li>News</li>\r\n<li>World News</li>\r\n<li>US News</li>\r\n<li>An Alabama couple bought 21 acres in Jackson Hole in the 1990s; decades later, their family retreat is asking $40 million</li></ul>\r\nFoll\u2026 [+3760 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Education",
-      "title": "Odisha, Andhra Pradesh schools closed amid heavy rain: Check district-wise holiday and IMD forecast",
-      "description": "Schools in several districts of Odisha and Andhra Pradesh have been closed as heavy rainfall triggered by a deep depression over the Bay of Bengal continues to affect the region. District administrations have issued precautionary orders, while the IMD has for\u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/odisha-andhra-pradesh-schools-closed-amid-heavy-rain-check-district-wise-holiday-and-imd-forecast/articleshow/134454027.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134454112,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-24T06:47:21Z",
-      "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>Odisha, Andhra Pradesh schools closed amid heavy rain: Check district-wise holiday and IMD forecast</li></ul>\r\nFollow Us On Social Media\u2026 [+3739 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Lifestyle Desk",
-      "title": "\"Love cures people, both the ones who give it and the ones who receive it.\" - Karl Menninger",
-      "description": "Love provides individuals with a unique opportunity to connect deeply with others by meeting various needs. Offering care often transforms personal focus into attention on someone else's happiness and struggles. Healthy relationships encourage mutual care wit\u2026",
-      "url": "https://timesofindia.indiatimes.com/relationships/quote-of-the-day-love-cures-people-both-the-ones-who-give-it-and-the-ones-who-receive-it-karl-menninger-why-the-love-we-give-can-be-just-as-healing-as-the-love-we-receive/articleshow/134454072.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134454211,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-24T06:46:48Z",
-      "content": "<ul><li>News</li>\r\n<li>Relationships News</li>\r\n<li>Quote of the day: Love cures people, both the ones who give it and the ones who receive it. - Karl Menninger; why the love we give can be just as h\u2026 [+3805 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TheJournal.ie"
-      },
-      "author": "Sophie Finn",
-      "title": "President tells Trump that Iran will never 'bend at the knee'",
-      "description": "Masoud Pezeshkian accused Washington of \u201cterrorism\u201d for assassinating former supreme leader Ayatollah Ali Khamenei at the start of the conflict.",
-      "url": "https://www.thejournal.ie/iran-president-un-speech-7171660-Sep2026/",
-      "urlToImage": "https://img2.thejournal.ie/article/7171660/river/?height=400&version=7171667",
-      "publishedAt": "2026-09-24T06:42:17Z",
-      "content": "IRANS PRESIDENT STRUCK a defiant tone at the UN on Wednesday where he spoke for the first time since Washington and Israel launched an all-out war on his country, vowing Tehran would never bend at th\u2026 [+1326 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI World Desk",
-      "title": "Australian homeowner blames six trees for damage to her 130-year-old home; court finds no link",
-      "description": "A homeowner in Australia blamed six neighbouring trees for damage to her 130-year-old heritage home and sought $23,650.86 for repairs and tree removal. The NSW Land and Environment Court rejected her claim, finding that evidence did not establish a causal lin\u2026",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/australian-homeowner-blamed-six-neighbouring-trees-for-damage-to-her-130-year-old-heritage-home-and-sought-23650-86-for-repairs-nsw-court-rejected-the-claim-after-finding-no-proven-link-to-the-trees/articleshow/134453013.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134453616,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-24T06:37:52Z",
-      "content": "<ul><li>News</li>\r\n<li>World News</li>\r\n<li>Rest of World News</li>\r\n<li>Australian homeowner blamed six neighbouring trees for damage to her 130-year-old heritage home and sought $23,650.86 for repa\u2026 [+3861 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Reuters",
-      "title": "Netanyahu expected to berate New York's Mamdani in 'campaign speech' of UN address",
-      "description": "Benjamin Netanyahu is set to deliver a speech at the UN where he plans to address Mayor Zohran Mamdani's accusations. As Israeli elections approach, Netanyahu's campaign is perceived as increasingly desperate amidst mounting criticism of the Gaza war. He is m\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/netanyahu-expected-to-berate-new-yorks-mamdani-in-campaign-speech-of-un-address/articleshow/134453839.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134453874,width-1200,height-630,imgsize-139176,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-24T06:30:58Z",
-      "content": "Tel Aviv: Benjamin Netanyahu is expected to use his UN address on Thursday to berate New York Mayor Zohran Mamdani for calling him a war criminal, a feud that highlights the Israeli leader's growing \u2026 [+4334 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newser"
-      },
-      "author": "Evann Gastaldo with Newser.AI",
-      "title": "During Navy Carrier's Long Deployment, 8 Suicide Attempts",
-      "description": "There have been eight suicide attempts aboard the USS Abraham Lincoln during the carrier's drawn-out deployment, according to a Navy letter obtained by NBC News . Acting Navy Secretary Hung Cao disclosed the figure in a response to Sen. Kirsten Gillibrand, wh\u2026",
-      "url": "https://www.newser.com/story/396957/during-navy-carriers-long-deployment-8-suicide-attempts.html",
-      "urlToImage": "https://cdn.newser.com/image/1713575-12-20260924013000.jpeg",
-      "publishedAt": "2026-09-24T06:30:00Z",
-      "content": "There have been eight suicide attempts aboard the USS Abraham Lincoln during the carrier's drawn-out deployment, according to a Navy letter obtained by NBC News. Acting Navy Secretary Hung Cao disclo\u2026 [+1319 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Punch"
-      },
-      "author": "Punch Newspapers",
-      "title": "US judge blocks White House ban on CNN, MS NOW, Politico",
-      "description": "A US federal judge has ordered the Trump administration to reinstate White House access for CNN, MS NOW, and Politico, ruling the ban likely violated their\n\nRead More: https://punchng.com/us-judge-blocks-white-house-ban-on-cnn-ms-now-politico/",
-      "url": "https://punchng.com/us-judge-blocks-white-house-ban-on-cnn-ms-now-politico/",
-      "urlToImage": "https://punchng.com/wp-content/uploads/2026/06/US-15_1782656052-1200x630.webp",
-      "publishedAt": "2026-09-24T06:29:31Z",
-      "content": "The Trump administration must immediately reinstate White House access for CNN, MS NOW and Politico, a US federal judge ordered Thursday, after their reporters were banned from the premises.\r\nTrump h\u2026 [+4429 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Lairenlakpam Warli",
-      "title": "Delhi Aastha Kunj park gang-rape accused carried condom in pocket",
-      "description": "Police are investigating the alleged rape of a 17-year-old girl at Aastha Kunj Park in south Delhi. The three accused approached the victims while posing as policemen and threatened them. Investigators are examining whether the accused have targeted others pr\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/delhi/delhi-aastha-kunj-park-gang-rape-accused-carried-condom-in-pocket/articleshow/134452889.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134453478,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-24T06:22:02Z",
-      "content": "Follow Us On Social Media\r\nOn Cam: Ship In Flames, Indian Sailor Killed In Deadly Attack Near Oman | Indian Sailors EvacuatedXi Unimpressed By Trump's Bomber Flex? Dramatic Video Captures Chinese Pre\u2026 [+3376 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Crypto Briefing"
-      },
-      "author": "Estefano Gomez",
-      "title": "OECD cuts Turkey\u2019s 2026 growth forecast amid Iran war, rising prices",
-      "description": "Turkey's downgraded growth forecast highlights vulnerabilities to geopolitical tensions and inflation, potentially impacting regional stability.\nThe post OECD cuts Turkey\u2019s 2026 growth forecast amid Iran war, rising prices appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/oecd-cuts-turkeys-2026-growth-forecast-amid-iran-war-rising-prices/",
-      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/08093645/pexels-photo-16862261-699x457.jpeg",
-      "publishedAt": "2026-09-24T06:16:25Z",
-      "content": "The Organisation for Economic Co-operation and Development (OECD) has revised Turkey\u2019s economic growth forecast for 2026, reducing it to 2.7% from the previous 3.1%. This adjustment marks the lowest \u2026 [+1539 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Al Jazeera Staff",
-      "title": "Trump-Xi summit: Here\u2019s what\u2019s on the agenda, and why it matters",
-      "description": "The leaders of the US and China are expected to discuss trade, AI and Iran in their third in-person meeting in a year.",
-      "url": "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-whats-on-the-agenda-why-it-matters",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6ab3e854-1790175316_1dc6b4-1790175718.jpg?resize=1200%2C630&quality=80",
-      "publishedAt": "2026-09-24T06:11:30Z",
-      "content": "Chinas leader Xi Jinping is expected to hold highly anticipated talks with United States President Donald Trump in Washington on Thursday, as both sides\u00a0seek to ease\u00a0trade tensionsand discuss increas\u2026 [+5894 chars]"
-    },
-    {
-      "source": {
-        "id": "rt",
-        "name": "RT"
-      },
-      "author": "RT",
-      "title": "Iranian president responds to Trump\u2019s \u2018annihilation\u2019 threat",
-      "description": "Tehran is open to dialogue with Washington, but it will not accept the language of force, Iranian President Masoud Pezeshkian has said in his speech at the UN General Assembly",
-      "url": "https://www.rt.com/news/646172-pezeshkian-iran-un-trump/",
-      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6ab4b7f285f5407e3f4075cf.jpg",
-      "publishedAt": "2026-09-24T06:08:36Z",
-      "content": "Tehran is open to diplomacy with Washington, but it will not accept the language of force, Iranian President Masoud Pezeshkian has said in his speech at the UN General Assembly in New York.\r\nPezeshki\u2026 [+2615 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Rohitashwa Ranjan",
-      "title": "'Restore access': US court temporarily blocks Trump's ban on TV networks from White House",
-      "description": "A US court has temporarily blocked the Trump administration's ban on certain media outlets reporting from the White House. The judge stated that the ban likely violates constitutional rights, emphasizing the need for due process. President Trump had imposed t\u2026",
-      "url": "https://timesofindia.indiatimes.com/world/us/restore-access-us-court-temporarily-blocks-trumps-ban-on-tv-networks-from-white-house/articleshow/134453012.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134453058,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-24T06:04:50Z",
-      "content": "<ul><li>News</li>\r\n<li>World News</li>\r\n<li>US News</li>\r\n<li>'Restore access': US court temporarily blocks Trump's ban on TV networks from White House</li></ul>\r\nFollow Us On Social Media\r\nXi Unimpr\u2026 [+3767 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "author": "AP- PTI",
-      "title": "Gulf nations have found ways to keep oil flowing through the Iran war, but the costs are mounting",
-      "description": "Gulf nations navigate costly oil transport challenges amid the Iran war, maintaining supply but facing escalating expenses and vulnerabilities.",
-      "url": "https://www.thehindubusinessline.com/markets/commodities/gulf-nations-have-found-ways-to-keep-oil-flowing-through-the-iran-war-but-the-costs-are-mounting/article71502877.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/33hdrx/article71502954.ece/alternates/LANDSCAPE_1200/2026-09-05T073806Z_1899417788_RC2SCNA6876X_RTRMADP_3_IRAN-CRISIS-HORMUZ.JPG",
-      "publishedAt": "2026-09-24T06:03:23Z",
-      "content": "When Iran shut down the Strait of Hormuz at the start of the war, choking off sea passage for some 15 million barrels of oil a day, many feared that prices would skyrocket, cratering the world econom\u2026 [+6130 chars]"
     }
   ]
 }

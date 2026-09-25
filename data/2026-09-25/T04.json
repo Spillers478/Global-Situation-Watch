@@ -1,7 +1,33 @@
 {
   "status": "ok",
-  "totalResults": 10,
+  "totalResults": 12,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Nvidia.com"
+      },
+      "author": "Anthony Costa",
+      "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
+      "description": "When COVID-19 emerged, scientists had a crucial advantage: Decades of prior research on coronaviruses meant they understood the virus\u2019 key proteins well enough to design vaccines in record time. The next pandemic may not offer the same head start.\u00a0 To help im\u2026",
+      "url": "https://blogs.nvidia.com/blog/open-protein-dataset/",
+      "urlToImage": "https://blogs.nvidia.com/wp-content/uploads/2026/09/AF-0000000212056767-master-black-background-scaled.png",
+      "publishedAt": "2026-09-24T14:00:50Z",
+      "content": "When COVID-19 emerged, scientists had a crucial advantage: Decades of prior research on coronaviruses meant they understood the virus key proteins well enough to design vaccines in record time. The n\u2026 [+5542 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thefridaytimes.com"
+      },
+      "author": "Kashaf Imran",
+      "title": "The Mental Health Pandemic: A Nation Living In Survival Mode",
+      "description": "As a nation, we are deeply traumatised. These words from a licensed psychologist, complemented by dissertation findings suggesting that humour can be the last stage of trauma, further capture the essence of Pakistan\u2019s national psychological condition. They re\u2026",
+      "url": "https://www.thefridaytimes.com/24-Sep-2026/mental-health-pandemic-nation-living-survival-mode",
+      "urlToImage": "https://www.thefridaytimes.com/digital_images/large/2026-09-24/mental-health-pandemic-nation-living-survival-mode-1790255602-1601.png",
+      "publishedAt": "2026-09-24T13:36:54Z",
+      "content": "As a nation, we are deeply traumatised. These words from a licensed psychologist, complemented by dissertation findings suggesting that humour can be the last stage of trauma, further capture the ess\u2026 [+4795 chars]"
+    },
     {
       "source": {
         "id": null,

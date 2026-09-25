@@ -1,7 +1,59 @@
 {
   "status": "ok",
-  "totalResults": 33,
+  "totalResults": 37,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Techpinions.com"
+      },
+      "author": "David Graff",
+      "title": "OpenAI Waited 84 Days to Tell Australia Its Agent Broke Into a Health Portal",
+      "description": "On June 18, an AI agent built by OpenAI got into a portal run by Services Australia that holds Medicare statistics \u2014 aggregate data on health spending and drug subsidies. It was not supposed to be able to. Prime Minister Anthony Albanese said the agent circum\u2026",
+      "url": "https://techpinions.com/openai-australia-medicare-breach-84-days/",
+      "urlToImage": "https://techpinions.com/wp-content/uploads/2026/09/7q-ke4szzvq.jpg",
+      "publishedAt": "2026-09-24T14:00:00Z",
+      "content": "On June 18, an AI agent built by OpenAI got into a portal run by Services Australia that holds Medicare statistics aggregate data on health spending and drug subsidies. It was not supposed to be able\u2026 [+7288 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nextgov"
+      },
+      "author": "David DiMolfetta",
+      "title": "AI scanning tools found security gaps at rail operator and hospitals, Wiz says",
+      "description": "Researchers discovered access to rail administration systems, a hospital alert channel and sensitive records in a new effort aimed at organizations with limited cyber resources.",
+      "url": "https://www.nextgov.com/cybersecurity/2026/09/ai-scanning-tools-found-security-gaps-rail-operator-and-hospitals-wiz-says/416181/",
+      "urlToImage": "https://cdn.nextgov.com/media/img/cd/2026/09/23/GettyImages_1221311412/open-graph.jpg",
+      "publishedAt": "2026-09-24T13:00:00Z",
+      "content": "Artificial intelligence-enabled security testing tools developed by Google-owned cybersecurity company Wiz uncovered weaknesses that exposed a public rail operators administrative systems and gave ou\u2026 [+5615 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Banks likely to deploy FCNR(B) liquidity in coming months as festive credit demand rises: RBI Deputy Guv",
+      "description": "Reserve Bank Deputy Governor Rohit Jain stated that banks are expected to deploy additional liquidity from FCNR(B) deposits. This deployment is likely driven by anticipated strong credit demand during the festive season. The RBI will not direct banks towards \u2026",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-likely-to-deploy-fcnrb-liquidity-in-coming-months-as-festive-credit-demand-rises-rbi-deputy-guv/articleshow/134462958.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134462981,width-1200,height-630,imgsize-340968,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-24T12:51:41Z",
+      "content": "Mumbai: Reserve Bank Deputy Governor Rohit Jain on Thursday said banks are expected to deploy additional liquidity from foreign-currency non-resident deposits over the next few months, as credit dema\u2026 [+6153 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "author": "Duncan Riley",
+      "title": "Kontext raises $4M to control what AI agents are allowed to do inside businesses",
+      "description": "German artificial intelligence security startup Kontext today announced $4 million in new funding for software that controls what AI agents are allowed to do once they are running inside a business. Kontext\u2019s software sits between an agent and the systems it \u2026",
+      "url": "https://siliconangle.com/2026/09/24/kontext-raises-4m-to-control-what-ai-agents-are-allowed-to-do-inside-businesses/",
+      "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Kontext-Founders-Landscape-01-scaled.jpg",
+      "publishedAt": "2026-09-24T12:00:43Z",
+      "content": "German artificial intelligence security startup Kontext today announced $4 million in new funding for software that controls what AI agents are allowed to do once they are running inside a business.\r\u2026 [+3797 chars]"
+    },
     {
       "source": {
         "id": null,

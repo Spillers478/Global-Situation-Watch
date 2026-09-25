@@ -1,19 +1,5 @@
 {
   "status": "ok",
-  "totalResults": 1,
-  "articles": [
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Al Jazeera Staff",
-      "title": "Trump-Xi summit: Here\u2019s what\u2019s on the agenda, and why it matters - Al Jazeera",
-      "description": "The leaders of the US and China are expected to discuss trade, AI and Iran in their third in-person meeting in a year.",
-      "url": "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-whats-on-the-agenda-why-it-matters",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6ab3e854-1790175316_1dc6b4-1790175718.jpg?resize=1200%2C630&quality=80",
-      "publishedAt": "2026-09-24T06:14:54Z",
-      "content": "Chinas leader Xi Jinping is expected to hold highly anticipated talks with United States President Donald Trump in Washington on Thursday, as both sides\u00a0seek to ease\u00a0trade tensionsand discuss increas\u2026 [+5894 chars]"
-    }
-  ]
+  "totalResults": 0,
+  "articles": []
 }

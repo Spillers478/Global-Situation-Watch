@@ -2,33 +2,18 @@
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "The Intercept"
+        "id": "financial-post",
+        "name": "Financial Post"
       },
-      "author": "Anita Hofschneider",
-      "title": "As the Pentagon Expands Across the Pacific, Guam Offers a Warning",
-      "description": "The U.S. militarization of Guam has left its residents living with a legacy of pollution, environmental degradation, and cultural loss. Other Pacific islands may be next.\nThe post As the Pentagon Expands Across the Pacific, Guam Offers a Warning appeared firs\u2026",
-      "url": "https://theintercept.com/2026/09/24/guam-military-buildup-base-pollution/",
-      "urlToImage": "https://theintercept.com/wp-content/uploads/2026/09/Guam-militarization-5-e1790177115607.webp?fit=1999%2C1000&w=1200&h=800",
-      "publishedAt": "2026-09-24T08:45:00Z",
-      "content": "I. \r\nLeevin Camacho was brushing his teeth one day last fall when his mother called. The water is contaminated, she said. Moments later, she texted him a photo of a flyer issued by the local water au\u2026 [+28961 chars]",
-      "cocom": "USINDOPACOM",
-      "_original_topic_id": "T02"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Grist"
-      },
-      "author": "Anita Hofschneider",
-      "title": "As the Pentagon expands across the Pacific, Guam offers a warning",
-      "description": "The U.S. militarization of Guam has left its residents living with a legacy of pollution, environmental degradation, and cultural loss. Other Pacific islands may be next.",
-      "url": "https://grist.org/health/as-the-pentagon-expands-across-the-pacific-guam-offers-a-warning/",
-      "urlToImage": "https://grist.org/wp-content/uploads/2026/09/Guam-militarization-5.jpg",
-      "publishedAt": "2026-09-24T08:45:00Z",
-      "content": "This story was published in partnership with The Intercept.\r\nLeevin Camacho was brushing his teeth one day last fall when his mother called. The water is contaminated, she said. Moments later she tex\u2026 [+27123 chars]",
-      "cocom": "USINDOPACOM",
-      "_original_topic_id": "T02"
+      "author": "GlobeNewswire",
+      "title": "SPARC AI Proves Overwatch Under Live GPS Jamming 17 km from Ukraine\u2019s Front Line and Advances Engagements with Multiple Drone OEMs",
+      "description": "VANCOUVER, British Columbia, Sept. 23, 2026 (GLOBE NEWSWIRE) \u2014 SPARC AI Inc. (CSE: SPAI; OTCQB: SPAIF; Frankfurt: 5OV0) (\u201cSPARC AI\u201d or the \u201cCompany\u201d), a defense technology company delivering positioning in GPS-denied environments, today announced the completi\u2026",
+      "url": "https://financialpost.com/globe-newswire/sparc-ai-proves-overwatch-under-live-gps-jamming-17-km-from-ukraines-front-line-and-advances-engagements-with-multiple-drone-oems",
+      "urlToImage": null,
+      "publishedAt": "2026-09-23T12:08:15Z",
+      "content": "VANCOUVER, British Columbia, Sept. 23, 2026 (GLOBE NEWSWIRE) SPARC AI Inc. (CSE: SPAI; OTCQB: SPAIF; Frankfurt: 5OV0) (SPARC AI or the Company), a defense technology company delivering positioning in\u2026 [+5588 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T01"
     },
     {
       "source": {
@@ -48,47 +33,30 @@
     {
       "source": {
         "id": null,
-        "name": "The Intercept"
+        "name": "DW (English)"
       },
-      "author": "Anita Hofschneider",
-      "title": "As the Pentagon Expands Across the Pacific, Guam Offers a Warning",
-      "description": "The U.S. militarization of Guam has left its residents living with a legacy of pollution, environmental degradation, and cultural loss. Other Pacific islands may be next.\nThe post As the Pentagon Expands Across the Pacific, Guam Offers a Warning appeared firs\u2026",
-      "url": "https://theintercept.com/2026/09/24/guam-military-buildup-base-pollution/",
-      "urlToImage": "https://theintercept.com/wp-content/uploads/2026/09/Guam-militarization-5-e1790177115607.webp?fit=1999%2C1000&w=1200&h=800",
-      "publishedAt": "2026-09-24T08:45:00Z",
-      "content": "I. \r\nLeevin Camacho was brushing his teeth one day last fall when his mother called. The water is contaminated, she said. Moments later, she texted him a photo of a flyer issued by the local water au\u2026 [+28961 chars]",
-      "cocom": "USINDOPACOM",
-      "_original_topic_id": "T07"
+      "author": "Tim Gosling",
+      "title": "Czech PM Andrej Babis reiterates importance of NATO for his country but rejects calls to increase defense spending",
+      "description": "The US and NATO want Czechia to spend more on defense. Czech Prime Minister Andrej Babis says Prague cannot afford faster increases, despite growing warnings about the threat from Russia. The Czech Republic \"must remain committed to increasing defense spendin\u2026",
+      "url": "https://www.dw.com/en/czech-pm-andrej-babis-reiterates-importance-of-nato-for-his-country-but-rejects-calls-to-increase-defense-spending/a-79411066",
+      "urlToImage": "https://static.dw.com/image/79407091_6.jpg",
+      "publishedAt": "2026-09-24T12:11:00Z",
+      "content": "The Czech Republic \"must remain committed to increasing defense spending,\" Matthew Whitaker, the US envoy to NATO, demanded in Prague last week. \"We expect our allies to step up,\" he said.\r\nThe call \u2026 [+6640 chars]",
+      "cocom": "USEUCOM"
     },
     {
       "source": {
         "id": null,
-        "name": "Grist"
+        "name": "Globalsecurity.org"
       },
-      "author": "Anita Hofschneider",
-      "title": "As the Pentagon expands across the Pacific, Guam offers a warning",
-      "description": "The U.S. militarization of Guam has left its residents living with a legacy of pollution, environmental degradation, and cultural loss. Other Pacific islands may be next.",
-      "url": "https://grist.org/health/as-the-pentagon-expands-across-the-pacific-guam-offers-a-warning/",
-      "urlToImage": "https://grist.org/wp-content/uploads/2026/09/Guam-militarization-5.jpg",
-      "publishedAt": "2026-09-24T08:45:00Z",
-      "content": "This story was published in partnership with The Intercept.\r\nLeevin Camacho was brushing his teeth one day last fall when his mother called. The water is contaminated, she said. Moments later she tex\u2026 [+27123 chars]",
-      "cocom": "USINDOPACOM",
-      "_original_topic_id": "T07"
-    },
-    {
-      "source": {
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "author": "Ningrong Liu",
-      "title": "Xi Jinping has made China\u2019s hard-tech rise core to his policy\u2014and U.S. containment is only fueling those plans",
-      "description": "The U.S. once saw China as a \u201cfast follower\u201d in tech. It now confronts a country that\u2019s also on the frontier\u2014ironically, in part due to U.S. action.",
-      "url": "https://fortune.com/2026/09/24/xi-trump-ai-summit-china-tech-rise-opinion/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2296833426-e1790230212756.jpg?resize=1200,600",
-      "publishedAt": "2026-09-24T08:41:47Z",
-      "content": "When Xi Jinping arrives in Washington on Thursday, artificial intelligence will top the agenda. Both sides have even agreed to an AI hotline to warn each other of runaway systemsat least according to\u2026 [+6505 chars]",
-      "cocom": "USINDOPACOM",
-      "_original_topic_id": "T07"
+      "author": "John Pike",
+      "title": "Chinese mainland welcomes more discussion from Taiwan on reunification",
+      "description": "The Chinese mainland welcomes more discussion in Taiwan on national reunification and is willing to conduct broad and in-depth democratic consultations with people from various sectors on the island on relations across the Taiwan Strait and the future of the \u2026",
+      "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260924-pdo01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-24T12:00:00Z",
+      "content": "People's Daily Online\r\n(Xinhua) 10:06, September 24, 2026\r\nBEIJING, Sept. 23 (Xinhua) -- The Chinese mainland welcomes more discussion in Taiwan on national reunification and is willing to conduct br\u2026 [+5503 chars]",
+      "cocom": "USINDOPACOM"
     },
     {
       "source": {
@@ -116,7 +84,7 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-134452005,width-1200,height-630,imgsize-78516,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-09-24T05:41:47Z",
       "content": "If were not at the table, were on the menu, was Mark Carneys warning to fellow middle powers earlier this year. Looking at this weeks US-China summit, the European Union will know exactly what the Ca\u2026 [+5058 chars]",
-      "cocom": "Transregional"
+      "cocom": "USEUCOM"
     },
     {
       "source": {
@@ -144,7 +112,7 @@
       "urlToImage": "https://media.breitbart.com/media/2026/09/Trump-Welcomes-Xi-640x335.jpeg",
       "publishedAt": "2026-09-24T00:29:13Z",
       "content": "National security experts are pointing to a series of military, economic, technological, and diplomatic moves by President Donald Trumps administration that they say have put the United States in a s\u2026 [+10163 chars]",
-      "cocom": "Transregional"
+      "cocom": "USINDOPACOM"
     },
     {
       "source": {
@@ -158,7 +126,7 @@
       "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6ab444ec20302779a3131d04.jpg",
       "publishedAt": "2026-09-23T23:18:16Z",
       "content": "European NATO nations should take greater responsibility for security in the Middle East, NATO Secretary General Mark Rutte has said. He also defended the US-Israeli war on Iran and argued that Europ\u2026 [+2628 chars]",
-      "cocom": "Transregional"
+      "cocom": "USEUCOM"
     },
     {
       "source": {
@@ -186,7 +154,7 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108364200-1789620964655-gettyimages-2294377623-AA_12092026_2948255.jpeg?v=1789621003&w=1920&h=1080",
       "publishedAt": "2026-09-23T15:07:11Z",
       "content": "President Donald J. Trump during an announcement on healthcare in the Oval Office, at the White House, in Washington, Sept. 18, 2026.\r\nPresident Donald Trump has spent years trying to squeeze China i\u2026 [+9589 chars]",
-      "cocom": "Transregional"
+      "cocom": "USINDOPACOM"
     },
     {
       "source": {
@@ -201,20 +169,6 @@
       "publishedAt": "2026-09-23T14:08:00Z",
       "content": "Under the longstanding policy of strategic ambiguity, the U.S. government has refused to say ahead of time whether or not it would send American forces to help defend Taiwan against an attack from Ch\u2026 [+17536 chars]",
       "cocom": "USINDOPACOM"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Piyush Shukla",
-      "title": "Russia's Geran drones become one of the most dangerous. Speed, reinforced bodies and less reaction time; the new drone that is changing warfare",
-      "description": "For a long time, the sound of a Shahed-136 gave people in Ukraine something they badly needed, a little warning. The Russian-built Geran-2 used a piston engine and moved at roughly 180 km/h, slow enough for air-defense crews to track and engage it. The newer \u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/us/russias-geran-drones-become-one-of-the-most-dangerous-speed-reinforced-bodies-and-less-reaction-time-the-new-drone-that-is-changing-warfare/articleshow/134435575.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134436199,width-1200,height-630,imgsize-78310,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-23T13:30:04Z",
-      "content": "The sound of a Russian drone approaching a Ukrainian city once came with a little more time. The older Shahed-type aircraft were slow, usually cruising at around 180 km/h. That gave air-defense teams\u2026 [+11349 chars]",
-      "cocom": "USEUCOM"
     },
     {
       "source": {
@@ -275,16 +229,32 @@
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "The New Yorker"
       },
-      "author": "Kai Nicol-Schwarz",
-      "title": "AI drone maker hits $6.4 billion valuation as Ukraine war spurs defense tech",
-      "description": "Tekever is one of a number of European defense tech startups raising sizable rounds amid a rearmament campaign from countries in the region.",
-      "url": "https://www.cnbc.com/2026/09/23/ai-drone-maker-ukraine-war-defense-tech.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108239750-1765374089074-ar3evo2.jpg?v=1765383472&w=1920&h=1080",
-      "publishedAt": "2026-09-23T09:47:31Z",
-      "content": "AI drone maker Tekever on Wednesday said it had hit a $6.4 billion valuation, as Europe races to rearm amid the Ukraine war and mounting threats from Russia.\r\nThe Portuguese-British company, which ra\u2026 [+1972 chars]",
-      "cocom": "USEUCOM"
+      "author": "Chang Che",
+      "title": "There Is No A.I. \u201cRace\u201d",
+      "description": "We\u2019re constantly told that Chinese advances would have catastrophic consequences. But the first to innovate is rarely the one who wins.",
+      "url": "https://www.newyorker.com/news/the-lede/there-is-no-ai-race",
+      "urlToImage": "https://media.newyorker.com/photos/6ab188b318727571354dda80/16:9/w_1280,c_limit/ChinaRace_2.png",
+      "publishedAt": "2026-09-24T10:00:00Z",
+      "content": "Recent incidentsincluding a swarm of OpenAI agents hacking the company Hugging Facehave prompted calls, both from in-the-trenches A.I. researchers and the Anthropic C.E.O., Dario Amodei, for an indus\u2026 [+3994 chars]",
+      "cocom": "USINDOPACOM",
+      "_original_topic_id": "T12"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Ongoing Efforts to Create Powerful AI a 'Race Where Everyone Loses', UN Expert Tells Security Council, as Members, Tech Leaders Debate Governance Issues",
+      "description": "The rapid development of artificial intelligence (AI) technology presents great possibilities alongside potentially catastrophic risks that must be managed, the Security Council heard today, as both world leaders and industry executives weighed in as the orga\u2026",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260923-unsc01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-23T12:00:00Z",
+      "content": "Meetings CoverageSecurity Council\r\n10228th Meeting (PM)\r\nSC/1646223 September 2026\r\nThe rapid development of artificial intelligence (AI) technology presents great possibilities alongside potentially\u2026 [+10263 chars]",
+      "cocom": "Transregional",
+      "_original_topic_id": "T12"
     }
   ]
 }

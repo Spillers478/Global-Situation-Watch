@@ -3,6 +3,64 @@
     {
       "source": {
         "id": null,
+        "name": "Mediaite"
+      },
+      "author": "Kathianne Boniello",
+      "title": "Tech CEO Allegedly Conspired with Russians to Dupe Federal Agencies \u2014 Including Defense Department and Secret Service",
+      "description": "The company was based in Virginia -- but owned by five Russian nationals and had digital forensics software developed in Russia, according to authorities.\nThe post Tech CEO Allegedly Conspired with Russians to Dupe Federal Agencies \u2014 Including Defense Departm\u2026",
+      "url": "https://www.mediaite.com/media/news/tech-ceo-allegedly-conspired-with-russians-to-dupe-federal-agencies-including-defense-department-and-secret-service/",
+      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2026/09/AP26265146853910.jpg",
+      "publishedAt": "2026-09-24T13:37:41Z",
+      "content": "U.S. Secret Service agents disembark a presidential support helicopter ahead of President Donald Trumps arrival on Marine One, Monday, Sept. 21, 2026, at Joint Base Andrews, Md. (AP Photo/Julia Demar\u2026 [+3384 chars]",
+      "cocom": "USNORTHCOM",
+      "_original_topic_id": "flagship-ru-ua"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "US Company That Sold Phone Hacking Software To Pentagon, Secret Service Lied About Russian Ownership, Officials Say",
+      "description": "A US company that provided digital forensics and data-extraction software to the Pentagon and other government agencies was in fact owned by a Russian company that also sold software to Russian spy agencies, US authorities charged.",
+      "url": "https://www.globalsecurity.org/intell/library/news/2026/intell-260924-rferl01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-24T12:00:00Z",
+      "content": "By Mike Eckel September 24, 2026\r\nA US company that provided digital forensics and data-extraction software to the Pentagon and other government agencies was in fact owned by a Russian company that a\u2026 [+3094 chars]",
+      "cocom": "USNORTHCOM",
+      "_original_topic_id": "flagship-ru-ua"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techpinions.com"
+      },
+      "author": "David Graff",
+      "title": "OpenAI Waited 84 Days to Tell Australia Its Agent Broke Into a Health Portal",
+      "description": "On June 18, an AI agent built by OpenAI got into a portal run by Services Australia that holds Medicare statistics \u2014 aggregate data on health spending and drug subsidies. It was not supposed to be able to. Prime Minister Anthony Albanese said the agent circum\u2026",
+      "url": "https://techpinions.com/openai-australia-medicare-breach-84-days/",
+      "urlToImage": "https://techpinions.com/wp-content/uploads/2026/09/7q-ke4szzvq.jpg",
+      "publishedAt": "2026-09-24T14:00:00Z",
+      "content": "On June 18, an AI agent built by OpenAI got into a portal run by Services Australia that holds Medicare statistics aggregate data on health spending and drug subsidies. It was not supposed to be able\u2026 [+7288 chars]",
+      "cocom": "USINDOPACOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nextgov"
+      },
+      "author": "David DiMolfetta",
+      "title": "AI scanning tools found security gaps at rail operator and hospitals, Wiz says",
+      "description": "Researchers discovered access to rail administration systems, a hospital alert channel and sensitive records in a new effort aimed at organizations with limited cyber resources.",
+      "url": "https://www.nextgov.com/cybersecurity/2026/09/ai-scanning-tools-found-security-gaps-rail-operator-and-hospitals-wiz-says/416181/",
+      "urlToImage": "https://cdn.nextgov.com/media/img/cd/2026/09/23/GettyImages_1221311412/open-graph.jpg",
+      "publishedAt": "2026-09-24T13:00:00Z",
+      "content": "Artificial intelligence-enabled security testing tools developed by Google-owned cybersecurity company Wiz uncovered weaknesses that exposed a public rail operators administrative systems and gave ou\u2026 [+5615 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "BleepingComputer"
       },
       "author": "Sergiu Gatlan",
@@ -209,48 +267,6 @@
       "publishedAt": "2026-09-23T12:03:41Z",
       "content": "Extortion group ShinyHunters is not afraid to make enemies. Now it claims to have breached the FBI.\r\nAfter reportedly taking over ransomware group Clops leak site, ShinyHunters says it attacked the F\u2026 [+7782 chars]",
       "cocom": "USNORTHCOM"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wokv.com"
-      },
-      "author": "Barbara Ortutay",
-      "title": "Could an AI swarm take over the internet? A doomsday scenario gains urgency",
-      "description": "In a summer filled with revelations about artificial intelligence\u2019s rapid development, researchers were especially alarmed by runaway bots finding their way onto the internet and, in at least one instance, coordinating there with one another",
-      "url": "https://www.wokv.com/news/business/worries-about-an-ai/3WZYPSOLVE52HOXYRIQ2BELEUU/",
-      "urlToImage": "https://cmg-cmg-rd-20056-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F4HV53XYDFIYJNFGCQMS4PK5UYE.jpg?auth=dd5dbca4d4f990cc6f2022be9eb1527430b619852181be0497049f890af266cc&width=1200&height=630&smart=true",
-      "publishedAt": "2026-09-23T11:25:47Z",
-      "content": "In a summer filled with revelations about artificial intelligence's rapid development, researchers were especially alarmed by runaway bots finding their way onto the internet and, in at least one ins\u2026 [+5611 chars]",
-      "cocom": "Transregional"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WPXI Pittsburgh"
-      },
-      "author": "Barbara Ortutay",
-      "title": "Could an AI swarm take over the internet? A doomsday scenario gains urgency",
-      "description": "In a summer filled with revelations about artificial intelligence\u2019s rapid development, researchers were especially alarmed by runaway bots finding their way onto the internet and, in at least one instance, coordinating there with one another",
-      "url": "https://www.wpxi.com/news/business/worries-about-an-ai/3WZYPSOLVE52HOXYRIQ2BELEUU/",
-      "urlToImage": "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F4HV53XYDFIYJNFGCQMS4PK5UYE.jpg?auth=dd5dbca4d4f990cc6f2022be9eb1527430b619852181be0497049f890af266cc&width=1200&height=630&smart=true",
-      "publishedAt": "2026-09-23T10:33:38Z",
-      "content": "In a summer filled with revelations about artificial intelligence's rapid development, researchers were especially alarmed by runaway bots finding their way onto the internet and, in at least one ins\u2026 [+5611 chars]",
-      "cocom": "Transregional"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Infosecurity Magazine"
-      },
-      "author": "Phil Muncaster",
-      "title": "EU Auditors Warn Information-Sharing Gaps Are Hindering Cyber Incident Response",
-      "description": "The EU Court of Auditors has criticized EU shortcomings in responding to major cyber incidents",
-      "url": "https://www.infosecurity-magazine.com/news/eu-auditors-slam-blocs-cyberinfo/",
-      "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/4fa004fc-b644-47fb-9ba1-b228d093d098.jpg",
-      "publishedAt": "2026-09-23T08:30:00Z",
-      "content": "The EUs top audit institution has criticized the union for various shortcomings that are hindering its detection and response to large-scale cyber incidents.\r\nThe EU Court of Auditors said in a new r\u2026 [+2765 chars]",
-      "cocom": "USEUCOM"
     }
   ]
 }

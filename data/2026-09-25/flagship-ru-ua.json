@@ -1,7 +1,345 @@
 {
   "status": "ok",
-  "totalResults": 205,
+  "totalResults": 232,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Military.com"
+      },
+      "author": "MLT Staff",
+      "title": "Russian Strikes Kill 8 in Ukraine as the UN Debates How to End the War",
+      "description": "Russia has repeatedly hit Ukrainian trains, shopping malls, supermarkets and gas stations, among other sites, keeping civilians on edge.",
+      "url": "https://military.com/russian-strikes-kill-8-in-ukraine-as-the-un-debates-how-to-end-the-war",
+      "urlToImage": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/09/ap26267336653830.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-09-24T13:41:07Z",
+      "content": "KYIV, Ukraine (AP) Russian drone and missile attacks on Ukraine overnight killed at least eight civilians, officials said Thursday, as Moscows 4\u00bd-year-long invasion of its neighbor grinds on despite \u2026 [+5594 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "author": "Editorial Team",
+      "title": "Denmark\u2019s military intelligence warns of rising risk of Russian attack on NATO",
+      "description": "Denmark's intelligence highlights increased Russian risk tolerance, urging NATO to bolster unity and readiness against hybrid threats.\nThe post Denmark\u2019s military intelligence warns of rising risk of Russian attack on NATO appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/denmark-warns-russian-attack-nato-risk/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/24093923/library-denmark-s-military-intelligence-warns-of-rising-risk-of--2-800x450.png",
+      "publishedAt": "2026-09-24T13:39:26Z",
+      "content": "Danish defence agency says Russia's growing risk tolerance could lead to limited strikes aimed at fracturing the alliance rather than seizing territory Denmark\u2019s Defence Intelligence Service dropped \u2026 [+2568 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mediaite"
+      },
+      "author": "Kathianne Boniello",
+      "title": "Tech CEO Allegedly Conspired with Russians to Dupe Federal Agencies \u2014 Including Defense Department and Secret Service",
+      "description": "The company was based in Virginia -- but owned by five Russian nationals and had digital forensics software developed in Russia, according to authorities.\nThe post Tech CEO Allegedly Conspired with Russians to Dupe Federal Agencies \u2014 Including Defense Departm\u2026",
+      "url": "https://www.mediaite.com/media/news/tech-ceo-allegedly-conspired-with-russians-to-dupe-federal-agencies-including-defense-department-and-secret-service/",
+      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2026/09/AP26265146853910.jpg",
+      "publishedAt": "2026-09-24T13:37:41Z",
+      "content": "U.S. Secret Service agents disembark a presidential support helicopter ahead of President Donald Trumps arrival on Marine One, Monday, Sept. 21, 2026, at Joint Base Andrews, Md. (AP Photo/Julia Demar\u2026 [+3384 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DW (English)"
+      },
+      "author": "Saim Du\u0161an Inayatullah",
+      "title": "EU to condemn war in Ukraine at G20 even if Putin attends",
+      "description": "Russian President Vladimir Putin has been invited to the G20 summit in Miami by the United States. Multiple members of the group have called for Moscow's exclusion over its invasion of Ukraine.",
+      "url": "https://www.dw.com/en/eu-to-condemn-war-in-ukraine-at-g20-even-if-putin-attends/a-79413317",
+      "urlToImage": "https://static.dw.com/image/77965446_6.jpg",
+      "publishedAt": "2026-09-24T13:30:00Z",
+      "content": "The European Union said on Thursday that it would continue to condemn Russia's war in Ukraine at the G20 summit in Miami scheduled for December.\r\nIt said that it would do this regardless of whether R\u2026 [+3303 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "author": "Editorial Team",
+      "title": "Russia raises 2026 oil export outlook to 244.7 million tons despite lowest production since 2009",
+      "description": "Russia's export strategy amid declining production may shift global oil dynamics, impacting Middle Eastern market share and refining margins.\nThe post Russia raises 2026 oil export outlook to 244.7 million tons despite lowest production since 2009 appeared fi\u2026",
+      "url": "https://cryptobriefing.com/russia-2026-oil-export-forecast/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/24091442/u-s-capitol-building-architect-of-the-capitol-34-800x420.jpeg",
+      "publishedAt": "2026-09-24T13:14:43Z",
+      "content": "Moscow is pivoting toward raw crude exports as refinery damage and sanctions gut its domestic refining capacity Russia just bumped its 2026 crude oil export forecast to 244.7 million tons, an increas\u2026 [+2751 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Spyros A. Sofos, Assistant Professor in Global Humanities, Simon Fraser University",
+      "title": "From east to west: Why Turkey is playing both sides",
+      "description": "Recep Tayyip Erdo\u011fan doesn\u2019t want others defining Turkey\u2019s choices. He\u2019s seeking a better position within an existing world order and recognition that Turkey is entitled to forge its own path.",
+      "url": "https://theconversation.com/from-east-to-west-why-turkey-is-playing-both-sides-291940",
+      "urlToImage": "https://images.theconversation.com/files/761146/original/file-20260921-50-z4pkmg.jpg?ixlib=rb-4.1.1&rect=0%2C686%2C7807%2C3903&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-09-24T13:03:35Z",
+      "content": "Less than two months after his government hosted the NATO summit which was framed as proof of Turkeys pivotal role in transatlantic security President Recep Tayyip Erdoan has proposed full Turkish me\u2026 [+6206 chars]"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Anna Wlodarczak-Semczuk, Pawel Florkiewicz",
+      "title": "Poland says Starlink station blaze was sabotage aimed at Ukraine military",
+      "description": "Government minister says signs suggest incident \u2018aligns with Russia\u2019s new doctrine of \u2060attack\u2019 as Kyiv suffers heavy bombardment",
+      "url": "https://www.irishtimes.com/world/europe/2026/09/24/poland-says-starlink-station-blaze-was-sabotage-aimed-at-ukraine-military/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/DPZDR4I7TGDSYV6PWYTBZXZZ34.jpg?smart=true&auth=8971b45d338f1ede56393360d77fa4ab82e4572a1477f708b1c929c24023ab86&width=1200&height=630",
+      "publishedAt": "2026-09-24T12:46:26Z",
+      "content": "A blaze at a Starlink station in Poland that engulfed its power system and backup generator on Wednesday evening was an act of sabotage aimed at disrupting internet services, including for Ukraines m\u2026 [+4881 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Diplomat"
+      },
+      "author": "Takahashi Kosuke",
+      "title": "Takaichi\u2019s Pre-emptive Diplomacy: What Japan Needs From the Trump-Xi Summit",
+      "description": "Prime Minister Takaichi made Tokyo\u2019s concerns clear to Trump before Xi Jinping arrived in Washington. Will that actually impact the summit?",
+      "url": "https://thediplomat.com/2026/09/takaichis-pre-emptive-diplomacy-what-japan-needs-from-the-trump-xi-summit/",
+      "urlToImage": "https://thediplomat.com/wp-content/uploads/2026/09/sizes/td-story-s-2/thediplomat_2026-09-24-214727.jpg",
+      "publishedAt": "2026-09-24T12:43:00Z",
+      "content": "When Japanese Prime Minister Takaichi Sanae sat down with U.S. President Donald Trump in New York on September 22, the timing itself was the message. Chinese President Xi Jinping would arrive in Wash\u2026 [+9834 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "AP",
+      "title": "Russian strikes kill 8 in Ukraine as the UN debates how to end the war",
+      "description": "Recent Russian attacks on Ukraine led to at least eight civilian deaths, with significant damage reported in Kyiv. Agricultural workers were among those killed in the northeastern Kharkiv region, while strikes also targeted Odesa. Ukrainian President Volodymy\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/russian-strikes-kill-8-in-ukraine-as-the-un-debates-how-to-end-the-war/articleshow/134462552.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134462638,width-1200,height-630,imgsize-91588,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-24T12:36:09Z",
+      "content": "KYIV, Ukraine: Russian drone and missile attacks on Ukraine overnight killed at least eight civilians, officials said Thursday, as Moscow's 4\u00bd-year-long invasion of its neighbor grinds on despite ren\u2026 [+5181 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Sam Meredith",
+      "title": "Russia \u2018truly\u2019 appreciates U.S. invite to G20 summit \u2014 but hasn't decided if Putin will go",
+      "description": "European leaders have sharply criticized the move.",
+      "url": "https://www.cnbc.com/2026/09/24/russia-putin-trump-ukraine-war-zelenskyy.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108367392-1790253247707-gettyimages-2295851432-AFP_C8VV4AA.jpeg?v=1790253304&w=1920&h=1080",
+      "publishedAt": "2026-09-24T12:29:48Z",
+      "content": "Russia has welcomed the U.S. government's invitation for President Vladimir Putin to attend a G20 summit in Florida later this year, saying it \"truly\" appreciates the offer, but has not yet decided w\u2026 [+2510 chars]"
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Oliver JJ Lane",
+      "title": "'Blyat!': Zelensky Clashes With Russian Reporter in New York",
+      "description": "Ukrainian President Zelensky sarcastically brushed off a brusque Russian \"propagandist\", warning he'd be riding a missile to Moscow.\nThe post \u2018Blyat!\u2019: Zelensky Clashes With Russian Reporter in New York appeared first on Breitbart.",
+      "url": "https://www.breitbart.com/europe/2026/09/24/blyad-zelensky-clashes-with-russian-reporter-in-ny/",
+      "urlToImage": "https://media.breitbart.com/media/2026/09/GettyImages-2296179834-e1790251976905-640x335.jpg",
+      "publishedAt": "2026-09-24T12:14:59Z",
+      "content": "Ukrainian President Volodymyr Zelensky sarcastically brushed off a brusque Russian \u201cpropagandist\u201d, warning he\u2019d be riding a missile to Moscow.\r\nA Russian state media journalist caught up with Ukraini\u2026 [+1710 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalresearch.ca"
+      },
+      "author": "Mojmir Babacek",
+      "title": "The Last Move is the Checkmate. The Danger of a Nuclear War is Constantly Growing",
+      "description": "In the book where Donald Trump presented his election program, China was mentioned over 600 times, and his writing made it clear that if elected, defeating China in the global power struggle would be the main goal of US foreign \u2026\nThe post The Last Move is the\u2026",
+      "url": "https://www.globalresearch.ca/last-move-checkmate-danger-nuclear-war-growing/5941620",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2022/08/Nuclear-Test.jpg",
+      "publishedAt": "2026-09-24T12:11:37Z",
+      "content": "In the book where Donald Trump presented his election program, China was mentioned over 600 times, and his writing made it clear that if elected, defeating China in the global power struggle would be\u2026 [+12649 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Trump-Xi summit could hold key to lower gas prices, GOP chairman says",
+      "description": "Rep. Brian Mast says President Donald Trump can press Xi Jinping to stop arming Iran, potentially easing gas prices tied to Strait of Hormuz chaos.",
+      "url": "https://www.foxnews.com/politics/trump-xi-summit-could-hold-key-lower-gas-prices-gop-chairman-says",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/donald-trump-xi-jinping-beijing-china-visit-fox-news-014.jpg",
+      "publishedAt": "2026-09-24T12:00:38Z",
+      "content": "President Donald Trump has a prime opportunity to help lower costs for Americans in his meeting with Chinese President Xi Jinping, the top GOP lawmaker overseeing U.S. diplomacy told Fox News Digital\u2026 [+3211 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Russia Launches Deadly Strikes On Ukraine As 'Hybrid Attack' Concerns Rise In The West",
+      "description": "Russia attacked Ukraine with missiles and drones, killing at least eight people in Kyiv and the Kharkiv region, Ukrainian officials said.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260924-rferl01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-24T12:00:00Z",
+      "content": "By RFE/RL's Ukrainian Service September 24, 2026\r\nRussia attacked Ukraine with missiles and drones, killing at least eight people in Kyiv and the Kharkiv region, Ukrainian officials said.\r\nThe attack\u2026 [+7959 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "US Company That Sold Phone Hacking Software To Pentagon, Secret Service Lied About Russian Ownership, Officials Say",
+      "description": "A US company that provided digital forensics and data-extraction software to the Pentagon and other government agencies was in fact owned by a Russian company that also sold software to Russian spy agencies, US authorities charged.",
+      "url": "https://www.globalsecurity.org/intell/library/news/2026/intell-260924-rferl01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-24T12:00:00Z",
+      "content": "By Mike Eckel September 24, 2026\r\nA US company that provided digital forensics and data-extraction software to the Pentagon and other government agencies was in fact owned by a Russian company that a\u2026 [+3094 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Joint Statement of the Participants of the Sixth International Crimea Platform Summit",
+      "description": "We, Heads of State and Government and representatives of States and international organizations participating in the Sixth Summit of the International Crimea Platform,",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260924-eeas01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-24T12:00:00Z",
+      "content": "European External Action Service (EEAS)\r\n24.09.2026EEAS Press Team\r\nWe, Heads of State and Government and representatives of States and international organizations participating in the Sixth Summit o\u2026 [+11323 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Minister Budrys at the UN Security Council: Baltic states call on Russia to end war against Ukraine",
+      "description": "On 23 September, the Minister of Foreign Affairs of Lithuania, K\u0119stutis Budrys, spoke on behalf of the Baltic states at the United Nations (UN) Security Council meeting on Ukraine. In his speech, the Minister stated that Russia continues to escalate military \u2026",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260924-lithuania-mfa01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-24T12:00:00Z",
+      "content": "Republic of Lithuania - Ministry of Foreign Affairs\r\nUpdated 2026-09-24\r\nOn 23 September, the Minister of Foreign Affairs of Lithuania, Kstutis Budrys, spoke on behalf of the Baltic states at the Uni\u2026 [+2031 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Russia is widening insecurity while refusing the path to peace: UK statement to the OSCE",
+      "description": "Counsellor for Politico-Military Affairs, Arron Newble, says Russia's intensified attacks on Ukraine and disruptive activity across Europe are not evidence of success, and calls on Russia to agree an immediate ceasefire and engage seriously in negotiations to\u2026",
+      "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/09/russia-260924-ukfcdo01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-24T12:00:00Z",
+      "content": "Speech\r\nCounsellor for Politico-Military Affairs, Arron Newble, says Russia's intensified attacks on Ukraine and disruptive activity across Europe are not evidence of success, and calls on Russia to \u2026 [+4731 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Comprehensive Nuclear-Test-Ban Treaty: Statement by the High Representative on the 30th anniversary of the opening of the treaty for signatures",
+      "description": "The Comprehensive Nuclear-Test-Ban Treaty (CTBT) remains vital to global security. 30 years ago, 71 countries made a pledge to ban all nuclear weapons testing. Today the CTBT is one of the most universally accepted treaties, signed by 188 States and ratified \u2026",
+      "url": "https://www.globalsecurity.org/wmd/library/news/un/un-260924-eeas01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-24T12:00:00Z",
+      "content": "European External Action Service (EEAS)\r\n24.09.2026EEAS Press Team\r\nThe Comprehensive Nuclear-Test-Ban Treaty (CTBT) remains vital to global security. 30 years ago, 71 countries made a pledge to ban \u2026 [+2074 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "The Takeaway: UN General Assembly debate Day 2",
+      "description": "This edition of UN News's The Takeaway recaps key highlghts at the UN General Assembly on Wednesday, including focus on the war in Ukraine and a renewed push by African countries for Security Council reform.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/un/un-260924-unnews01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-24T12:00:00Z",
+      "content": "24 September 2026 - This edition of UN News's The Takeaway recaps key highlghts at the UN General Assembly on Wednesday, including focus on the war in Ukraine and a renewed push by African countries \u2026 [+3933 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Putin Is \"Patient Zero,\" the One from Whom the Idea of War Keeps Spreading Further - President at the UN General Debate",
+      "description": "The world must stop the head of Russia, deprive Russia of any ability to wage war and spread evil, and force it to de-escalate. President of Ukraine Volodymyr Zelenskyy said this during his address to the General Debate of the UN General Assembly in New York.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260924-ukraine-president04.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-24T12:00:00Z",
+      "content": "President of Ukraine\r\n24 September 2026 - 16:45\r\nThe world must stop the head of Russia, deprive Russia of any ability to wage war and spread evil, and force it to de-escalate. President of Ukraine V\u2026 [+11563 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Russia Strikes Warehouse Terminals Used by Ukrainian Forces - Defense Ministry",
+      "description": "The Russian armed forces carried out drone strikes against logistics and warehouse terminals used to support the Ukrainian armed forces, as well as against sea vessels involved in delivering military supplies to Ukraine, the Russian Defense Ministry said on T\u2026",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260924-sputnik01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-24T12:00:00Z",
+      "content": "20260924\r\nMOSCOW, (Sputnik) - The Russian armed forces carried out drone strikes against logistics and warehouse terminals used to support the Ukrainian armed forces, as well as against sea vessels i\u2026 [+915 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Russia Smashes Kievstar Telecom Hub, Military Production Sites Across Ukraine",
+      "description": "The Russian military launched a heavy blitz on a facility in Kiev that produced components for long- and medium-range drones and where ground-based robotic systems were being readied for deployment, the Russian Defense Ministry said on Thursday.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260924-sputnik02.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-24T12:00:00Z",
+      "content": "20260924\r\nMOSCOW (Sputnik) - The Russian military launched a heavy blitz on a facility in Kiev that produced components for long- and medium-range drones and where ground-based robotic systems were b\u2026 [+1668 chars]"
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Ildefonso Ortiz and Brandon Darby",
+      "title": "Mexican Cartel Drones Advancing at Alarming Speed",
+      "description": "After years of Breitbart reporting on cartel drone usage, legacy news outlets are beginning to do the catch on.\nThe post Mexican Cartel Drones Advancing at Alarming Speed appeared first on Breitbart.",
+      "url": "https://www.breitbart.com/border/2026/09/24/mexican-cartel-drones-advancing-at-alarming-speed/",
+      "urlToImage": "https://media.breitbart.com/media/2025/10/Cartel-Antidrone-Rifles-640x335.jpg",
+      "publishedAt": "2026-09-24T11:51:56Z",
+      "content": "After years of Breitbart reporting on cartel drone usage, legacy news outlets are beginning to do the catch on.\r\nA recent report from the Washington Post revealed that Mexican terrorist cartels are a\u2026 [+2128 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+      "description": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
+      "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/34f4/live/bd885cd0-b7ff-11f1-97e1-83bf52ec4acd.jpg",
+      "publishedAt": "2026-09-24T11:16:29Z",
+      "content": "A fire at a Starlink satellite station in central Poland was a deliberate \"act of sabotage\", the government has said.\r\nPolish Deputy Prime Minister Krzysztof Gawkowski said the fire in the Masovian V\u2026 [+1346 chars]"
+    },
+    {
+      "source": {
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "author": "Alina Maria Stan",
+      "title": "Starlink ground station near Warsaw hit by fire, Poland suspects sabotage",
+      "description": "A fire broke out late on Wednesday at a Starlink ground station south of Warsaw that helps carry internet traffic to Ukraine. Poland\u2019s digital affairs minister, Krzysztof Gawkowski, said on Thursday that it looked like sabotage. Speaking to public broadcaster\u2026",
+      "url": "https://thenextweb.com/news/starlink-station-fire-poland-sabotage",
+      "urlToImage": "https://media.thenextweb.com/2026/05/starlink-price-increase-standby-mode-roam-residential.jpg",
+      "publishedAt": "2026-09-24T11:14:10Z",
+      "content": "A fire broke out late on Wednesday at a Starlink ground station south of Warsaw that helps carry internet traffic to Ukraine. Polands digital affairs minister, Krzysztof Gawkowski, said on Thursday t\u2026 [+1806 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -924,357 +1262,6 @@
       "urlToImage": "https://live-production.wcms.abc-cdn.net.au/a018be09f5a369738632a7c208072654?impolicy=wcms_watermark_news&cropH=2681&cropW=4767&xPos=0&yPos=136&width=862&height=485&imformat=generic",
       "publishedAt": "2026-09-23T20:00:10Z",
       "content": "Anthony Albanese will declare the post-1945 world order \"is no longer fit for purpose\" and warn China and the United States that the Indo-Pacific is not a \"chessboard\" for global superpowers.\r\nIn a m\u2026 [+4273 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rigzone"
-      },
-      "author": "Mia Gindis",
-      "title": "Oil Rises as Diesel Export Talk Swirls",
-      "description": "Brent rose nearly 4% as tight fuel supplies, Hormuz risks and diesel export concerns drove trading.",
-      "url": "https://www.rigzone.com/news/wire/oil_rises_as_diesel_export_talk_swirls-23-sep-2026-184689-article/",
-      "urlToImage": "https://images.rigzone.com/images/news/articles/Oil-Rises-as-Diesel-Export-Talk-Swirls-184689-1200x628.png",
-      "publishedAt": "2026-09-23T19:58:50Z",
-      "content": "US diesel futures slumped as speculation swirled that the White House is considering an export ban, with key refinery infrastructure around the globe still offline.\r\nPresident Donald Trump joined a c\u2026 [+4375 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Crypto Briefing"
-      },
-      "author": "Estefano Gomez",
-      "title": "Zelensky reports Russia lost nearly 249,000 troops over eight months",
-      "description": "The reported troop losses may weaken Russia's military stance, impacting future territorial ambitions and international support dynamics.\nThe post Zelensky reports Russia lost nearly 249,000 troops over eight months appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/zelensky-reports-russia-lost-nearly-249000-troops-over-eight-months/",
-      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/23155536/cb-card-geo-209-800x420.png",
-      "publishedAt": "2026-09-23T19:55:37Z",
-      "content": "Ukrainian President Volodymyr Zelensky reported to the United Nations that Russia has lost nearly 249,000 troops over the past eight months, while only gaining approximately 1,000 square kilometers o\u2026 [+1422 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Umar Farooq",
-      "title": "As major powers act unilaterally, experts say UN faces crisis in New York",
-      "description": "Experts warn the UN faces crises of funding, relevance, and Security Council gridlock.",
-      "url": "https://www.aljazeera.com/news/2026/9/23/as-major-powers-act-unilaterally-experts-say-un-faces-crisis-in-new-york",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab28e0ed5168-1790086670.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-09-23T19:54:24Z",
-      "content": "As world leaders gather in New York for the 81st United Nations General Assembly (UNGA), experts say the institution is battling an existential crisis of funding, relevance and Security Council gridl\u2026 [+6575 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "HuffPost"
-      },
-      "author": "HuffPost",
-      "title": "At UN, Zelenskyy Urges World Leaders To Impede Russia's War Efforts",
-      "description": "\u201cRussia\u2019s revenues must remain a target,\u201d the Ukrainian president told the U.N. General Assembly, more than four years since Russia\u2019s invasion.",
-      "url": "https://www.huffpost.com/entry/un-zelenskyy-urges-leaders-impede-russia-ukraine-war_n_6ab42b02e4b0206e9e77518c",
-      "urlToImage": "https://img.huffingtonpost.com/asset/6ab42ba61800004272f14cc4.jpeg?cache=xpfakAVr53&ops=1200_630",
-      "publishedAt": "2026-09-23T19:49:36Z",
-      "content": "UNITED NATIONS (AP) Ukrainian President Volodymyr Zelenskyy urged the worlds leaders Wednesday to keep choking Russias revenues and impede its war efforts, telling the U.N. General Assembly that Russ\u2026 [+4101 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The New Republic"
-      },
-      "author": "Malcolm Ferguson",
-      "title": "Woman Arrested, Dragged Away After Criticizing Flock at City Council",
-      "description": "A woman had her microphone turned off and was dragged away mid-sentence while speaking out against Flock cameras at a city council meeting in Springfield, Missouri. Dozens of residents attended the Monday meeting regarding a resolution to review the city\u2019s us\u2026",
-      "url": "https://newrepublic.com/post/215785/two-arrested-woman-dragged-away-criticizing-flock-city-council",
-      "urlToImage": "https://images.newrepublic.com/6dd629506da0e4017dda3d6237c76d87a73c241c.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
-      "publishedAt": "2026-09-23T19:33:25Z",
-      "content": "The summitone of the most important global affairs meetingsis being held at National Doral Golf Club, the private golf course of the American president. Trump tried a similar move in 2020, but was me\u2026 [+978 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Al Jazeera Staff",
-      "title": "Ukraine\u2019s Zelenskyy calls for sustained pressure to end \u2018Putin\u2019s crazy war\u2019",
-      "description": "Ukrainian president urges world leaders to keep choking Russia's revenues to impede its war efforts.",
-      "url": "https://www.aljazeera.com/news/2026/9/23/zelenskyy-calls-for-sustained-pressure-on-patient-zero-putin-in-un-speech",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260923__C97B989__v1__HighRes__SpeechesByHeadsOfStateAndGovernmentAtUnGeneralA-1790189393.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-09-23T19:31:12Z",
-      "content": "Ukrainian President Volodymyr Zelenskyy has singled out Russian President Vladimir Putin as the reason for the continuing war between the two neighbouring countries, urging world leaders to sustain e\u2026 [+3116 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Daily Caller"
-      },
-      "author": "John Loftus",
-      "title": "White House Moves Closer To Diesel Export Ban As Trump\u2019s Iran War Continues To Roil Energy Markets",
-      "description": "The White House is moving closer to a 90-day diesel export ban as the Iran War continues to roil energy markets.",
-      "url": "https://dailycaller.com/2026/09/23/white-house-moves-closer-diesel-export-ban-iran-war-ukraine-chris-wright",
-      "urlToImage": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/09/GettyImages-2296111147%20(1).jpg",
-      "publishedAt": "2026-09-23T19:13:19Z",
-      "content": "The White House is moving closer to a 90-day diesel export ban as the Iran War continues to roil energy markets while diesel fuel prices reach new record highs, according to a report Wednesday. \r\nPol\u2026 [+3020 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newser"
-      },
-      "author": "Rob Quinn with Newser.AI",
-      "title": "Rubio Says Trump Has Invited Putin to G20 Summit",
-      "description": "The G20 summit in Miami may feature a highly watched guest list. Secretary of State Marco Rubio on Wednesday confirmed that President Trump has invited Vladimir Putin to the December summit, to be held at Trump's Doral golf resort, the Telegraph reports. \"We'\u2026",
-      "url": "https://www.newser.com/story/396931/rubio-says-trump-has-invited-putin-to-g20-summit.html",
-      "urlToImage": "https://cdn.newser.com/image/1713475-12-20260923135000.jpeg",
-      "publishedAt": "2026-09-23T18:50:00Z",
-      "content": "The G20 summit in Miami may feature a highly watched guest list. Secretary of State Marco Rubio on Wednesday confirmed that President Trump has invited Vladimir Putin to the December summit, to be he\u2026 [+1464 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Crypto Briefing"
-      },
-      "author": "Estefano Gomez",
-      "title": "Zelenskyy urges global leaders to choke Russia\u2019s revenues to weaken war efforts",
-      "description": "Zelenskyy's strategy highlights the potential for prolonged economic strain on Russia, impacting global markets and ceasefire prospects.\nThe post Zelenskyy urges global leaders to choke Russia\u2019s revenues to weaken war efforts appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/zelenskyy-urges-global-leaders-to-choke-russias-revenues-to-weaken-war-efforts/",
-      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/23143117/cb-card-geo-207-800x420.png",
-      "publishedAt": "2026-09-23T18:31:18Z",
-      "content": "Ukrainian President Volodymyr Zelenskyy has urged global leaders to maintain pressure on Russia by limiting its revenue streams, a move aimed at weakening its capacity to continue military operations\u2026 [+1537 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Punch"
-      },
-      "author": "Punch Newspapers",
-      "title": "Trump invites Putin to G20 summit in Miami",
-      "description": "US President Donald Trump has invited his Russian counterpart Vladimir Putin to attend the G20 summit in Miami, Secretary of State Marco Rubio confirmed.\n\nRead More: https://punchng.com/trump-invites-putin-to-g20-summit-in-miami/",
-      "url": "https://punchng.com/trump-invites-putin-to-g20-summit-in-miami/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/08/11091323/AFP__20250808__696E8KF__v1__MidRes__FilesUkraineRussiaConflictUsDiplomacyAlaska-1200x630.jpg",
-      "publishedAt": "2026-09-23T18:22:08Z",
-      "content": "President Donald Trump has invited his Russian counterpart Vladimir Putin to attend the G20 summit of world leaders in Miami in December, US Secretary of State Marco Rubio said Wednesday.\r\nThe move c\u2026 [+3201 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TheJournal.ie"
-      },
-      "author": "AFP",
-      "title": "Trump invites Putin to Miami for G20 summit in December",
-      "description": "Marco Rubio said the summit could offer Putin an opportunity to engage with Trump and other world leaders.",
-      "url": "https://www.thejournal.ie/trump-putin-miami-invite-g20-summit-7171442-Sep2026/",
-      "urlToImage": "https://img2.thejournal.ie/article/7171442/river/?height=400&version=7171460",
-      "publishedAt": "2026-09-23T18:09:29Z",
-      "content": "US PRESIDENT DONALD Trump has invited his Russian counterpart Vladimir Putin to attend the G20 summit of world leaders in Miami in December, US Secretary of State Marco Rubio confirmed today.\r\nThe mo\u2026 [+2727 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Www.gov.uk"
-      },
-      "author": "Ministry of Defence",
-      "title": "Defence Secretary Wes Streeting MP, keynote speech at UK Space Power Conference",
-      "description": "Defence Secretary Wes Streeting highlighting the importance of space to national security and daily life in the UK.",
-      "url": "https://www.gov.uk/government/speeches/defence-secretary-wes-streeting-mp-keynote-speech-at-uk-space-power-conference",
-      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-      "publishedAt": "2026-09-23T18:05:54Z",
-      "content": "Im mindful that Im at an RAF conference and people may have seen the news this lunchtime so I thought I would just give an update on the crash in the vicinity of RAF Valley in Anglesey this afternoon\u2026 [+11559 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Crypto Briefing"
-      },
-      "author": "Estefano Gomez",
-      "title": "Russia continues military operations in Ukraine amid peace talks: Lavrov",
-      "description": "Russia's continued military actions during peace talks may prolong conflict, reducing chances for a ceasefire and impacting global stability.\nThe post Russia continues military operations in Ukraine amid peace talks: Lavrov appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/russia-continues-military-operations-in-ukraine-amid-peace-talks-lavrov/",
-      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/23140421/commons-picker-govcommons8db6d82ea388a671-1-800x450.jpg",
-      "publishedAt": "2026-09-23T18:04:22Z",
-      "content": "Russian Foreign Minister Sergey Lavrov announced that Russia will not pause its military operations in Ukraine while peace talks are ongoing. This statement comes as the conflict between Russia and U\u2026 [+1273 chars]"
-    },
-    {
-      "source": {
-        "id": "the-irish-times",
-        "name": "The Irish Times"
-      },
-      "author": "Tom Balmforth, Antoni Slodkowski and Simon Lewis",
-      "title": "Ukraine and Russia voice interest in \u2018limited ceasefire\u2019",
-      "description": "Marco Rubio says both countries want to avoid strikes on energy and grain",
-      "url": "https://www.irishtimes.com/world/europe/2026/09/23/ukraine-and-russia-voice-interest-in-limited-ceasefire/",
-      "urlToImage": "https://www.irishtimes.com/resizer/v2/IDP2OQ6ZIKKBCO6CZBG7JGEP2E.jpg?smart=true&auth=46a2961982acb5f75c7f460fa96bd0ae1c29e5b620f96426f3de3dd05690622a&width=1200&height=630",
-      "publishedAt": "2026-09-23T18:03:05Z",
-      "content": "Ukraine and Russia have both voiced an interest in a limited ceasefire involving grain and energy-related targets, US secretary of state Marco Rubio said on Wednesday after meeting Russian foreign mi\u2026 [+3699 chars]"
-    },
-    {
-      "source": {
-        "id": "rt",
-        "name": "RT"
-      },
-      "author": "RT",
-      "title": "No pause in Ukraine conflict \u2013 Lavrov",
-      "description": "Russia will not grant Ukraine a ceasefire, as doing so would allow Kiev\u2019s European backers to flood the country with weapons, Sergey Lavrov has told the UN Security Council",
-      "url": "https://www.rt.com/russia/646156-lavrov-un-russia-ukraine/",
-      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6ab404bb85f540017a536004.jpg",
-      "publishedAt": "2026-09-23T18:01:53Z",
-      "content": "Moscow will not pause its special military operation while peace negotiations are underway, Russian Foreign Minister Sergey Lavrov told the UN Security Council on Wednesday, asserting that a temporar\u2026 [+2178 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNA"
-      },
-      "author": null,
-      "title": "Zelenskyy says Ukraine ready for maritime truce and puts onus on Russia to respond",
-      "description": "Ukrainian President Volodymyr Zelenskyy said Ukraine is ready for a ceasefire in the Black Sea and is waiting for Russia\u2019s response.",
-      "url": "https://www.channelnewsasia.com/world/zelenskyy-says-ukraine-ready-maritime-truce-and-puts-onus-russia-respond-6406081",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--o5OR848i--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-22T183806Z_1_LYNXMPEM8L1I5_RTROPTP_3_UKRAINE-CRISIS-TRUMP-ZELENSKIY.JPG?itok=ba7vp9Ox",
-      "publishedAt": "2026-09-23T17:46:48Z",
-      "content": "UNITED NATIONS: Ukrainian President Volodymyr Zelenskyy told leaders at the United Nations on Wednesday (Sep 23) that Ukraine was ready for a maritime truce in the Black Sea based on proposals by Egy\u2026 [+1380 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Yashasvi Vasistha",
-      "title": "Putin says record turnout shows Russians back his military agenda in Ukraine",
-      "description": "Vladimir Putin stated that high voter turnout in the parliamentary election reflects public support for government policies. Preliminary results indicated that United Russia secured a significant majority in the Duma. The election included voting in Ukrainian\u2026",
-      "url": "https://timesofindia.indiatimes.com/world/europe/people-of-russia-support-our-efforts-putin-says-record-turnout-shows-russians-back-his-military-agenda-in-ukraine/articleshow/134443331.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134443618,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-23T17:43:50Z",
-      "content": "<ul><li>News</li>\r\n<li>World News</li>\r\n<li>Europe News</li>\r\n<li>People of Russia support our efforts: Putin says record turnout shows Russians back his military agenda in Ukraine</li></ul>\r\nFollow \u2026 [+134 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The New Republic"
-      },
-      "author": "Malcolm Ferguson",
-      "title": "Trump Invites Putin to Attend G20 Summit at His Golf Club",
-      "description": "The Trump administration has invited Russian President Vladimir Putin\u2014who is four years into his relentless invasion of Ukraine\u2014to the December G20 summit at President Trump\u2019s golf club in Miami. Putin has yet to accept the invitation.\u201cWe\u2019ve invited President\u2026",
-      "url": "https://newrepublic.com/post/215772/trump-invites-putin-attend-g20-summit-golf-club",
-      "urlToImage": "https://images.newrepublic.com/60b62fc05e7f91c23e13baf2b739b782eb2fcade.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
-      "publishedAt": "2026-09-23T17:37:38Z",
-      "content": "Melania Trump on how she thinks her husband is doing as president: \"He's doing the best that he can\" pic.twitter.com/3246C5VmGp\r\n Aaron Rupar (@atrupar) September 23, 2026\r\nIts been 611 days since Tr\u2026 [+1784 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "POLITICO.eu"
-      },
-      "author": "Milena W\u00e4lde",
-      "title": "Poland scrambles jets after Russian helicopter breaches its airspace",
-      "description": "Warsaw said the incident was another test of its defenses.",
-      "url": "https://www.politico.eu/article/poland-russia-mi-8-helicopter-airspace-breach-kaliningrad/",
-      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/09/23/GettyImages-1212054852-scaled.jpg",
-      "publishedAt": "2026-09-23T17:37:01Z",
-      "content": "The incident comes as Polish prosecutors revealed that a Russian Gerbera 2 drone found in the Baltic Sea last week had been carrying a high-explosive fragmentation warhead. Polish Prime Minister Dona\u2026 [+1074 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Crypto Briefing"
-      },
-      "author": "Estefano Gomez",
-      "title": "51 countries urge Russia to accept immediate ceasefire amid intensified strikes",
-      "description": "The international call for a ceasefire increases diplomatic pressure on Russia, potentially influencing future negotiations and peace efforts.\nThe post 51 countries urge Russia to accept immediate ceasefire amid intensified strikes appeared first on Crypto Br\u2026",
-      "url": "https://cryptobriefing.com/51-countries-urge-russia-to-accept-immediate-ceasefire-amid-intensified-strikes/",
-      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/23132547/cb-card-geo-205-800x420.png",
-      "publishedAt": "2026-09-23T17:25:48Z",
-      "content": "Fifty-one United Nations member countries have issued a joint statement calling for Russia to agree to an immediate ceasefire in its ongoing conflict with Ukraine. This statement comes amid intensifi\u2026 [+1579 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "gcaptain.com"
-      },
-      "author": "Reuters",
-      "title": "Zelenskiy Says Ukraine Ready for Maritime Truce if Russia Agrees",
-      "description": "resident Volodymyr\u00a0Zelenskiy\u00a0told leaders at the United Nations on Wednesday that Ukraine was ready for a maritime truce in the Black Sea based on proposals by Egypt, India and Turkey and said it was now up to Russia to respond.",
-      "url": "https://gcaptain.com/zelenskiy-says-ukraine-ready-for-maritime-truce-if-russia-agrees/",
-      "urlToImage": "https://gcaptain.com/wp-content/uploads/2026/09/2026-09-22T182722Z_382310736_RC2HONAYM2Y7_RTRMADP_3_UKRAINE-CRISIS-TRUMP-ZELENSKIY.jpg",
-      "publishedAt": "2026-09-23T17:14:20Z",
-      "content": "UNITED NATIONS, Sept 23 (Reuters)\u00a0\u2013\u00a0President Volodymyr\u00a0Zelenskiy\u00a0told leaders at the United Nations on Wednesday that Ukraine was ready for a maritime truce in the Black Sea based on proposals by Eg\u2026 [+2251 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "Andrew Aloia - BBC Sport, East Midlands & Lincolnshire",
-      "title": "Varfolomeev extends Lincoln stay until 2030",
-      "description": "Lincoln City midfielder Ivan Varfolomeev signs a one-year contract extension to remain with the Championship club until the summer of 2030.",
-      "url": "https://www.bbc.com/sport/football/articles/cjly4r034ggko?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/7711331055c7473661753a10f545f6eeb0c263180672f17044bd117f6ae42e02/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fddaf942df3821b0fe6ae272f64f4b9f8.jpg",
-      "publishedAt": "2026-09-23T17:09:59Z",
-      "content": "Lincoln City midfielder Ivan Varfolomeev has signed a one-year contract extension to remain with the Championship club until the summer of 2030.\r\nThe 22-year-old Ukrainian joined the Imps on a four-y\u2026 [+1515 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ap.org"
-      },
-      "author": "Associated Press",
-      "title": "Trump wants to push the militarization of the White House ballroom with this addition, but it won\u2019t be easy",
-      "description": "President Donald Trump\u2019s AI-fueled vision for a drone port he intends to install atop the new White House ballroom includes missile-bearing unmanned aerial vehicles and gun-toting troops, ostensibly to protect the 18-acre complex and the nation\u2019s capital.A fe\u2026",
-      "url": "https://newsroom.ap.org/detail/Trump%20says%20his%20ballroom%20will%20house%20a%20drone%20port.%20The%20Secret%20Service%20already%20has%20one%20next%20door/d07e9a6ee148695de3872100b605398f/text",
-      "urlToImage": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2026/09/AP26263502936671.jpg",
-      "publishedAt": "2026-09-23T17:00:00Z",
-      "content": "President Donald Trumps AI-fueled vision for a drone port he intends to install atop the new White House ballroom includes missile-bearing unmanned aerial vehicles and gun-toting troops, ostensibly t\u2026 [+7433 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Radio Free Europe/ Radio Liberty"
-      },
-      "author": "Ivan Gutterman",
-      "title": "Russia\u2019s Ruling Party Again Benefits From Millions of Statistically Anomalous Votes",
-      "description": "The Kremlin-linked ruling party, United Russia, just won big in the country's parliamentary elections. The data, however, tells a different story.",
-      "url": "https://www.rferl.org/a/russia-s-ruling-party-again-benefits-from-millions-of-statistically-anomalous-votes/33862988.html",
-      "urlToImage": "https://gdb.rferl.org/4e670b47-f611-490b-a998-f83a9253215c_w1200_h630.jpg",
-      "publishedAt": "2026-09-23T16:47:11Z",
-      "content": "Russia just held its first parliamentary election since launching its full-scale invasion of Ukraine in February 2022.\r\nFor the first time in a State Duma election, Russian authorities set up balloti\u2026 [+3535 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Alanna O\u2019Malley",
-      "title": "How and why the UN General Assembly is gaining prominence",
-      "description": "The gridlock in the UNSC and emerging multipolarity are shifting political weight to the UNGA.",
-      "url": "https://www.aljazeera.com/opinions/2026/9/23/how-and-why-the-un-general-assembly-is-gaining-prominence",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-22T231218Z_40260423_RC2NONARG97D_RTRMADP_3_UN-ASSEMBLY-1790181126.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-09-23T16:36:09Z",
-      "content": "As world leaders attend the 81st session of the United Nations General Assembly in New York this week, there is a chorus of criticisms about the organisations failures and limitations. From the inabi\u2026 [+6733 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abcnews.com"
-      },
-      "author": "The Associated Press",
-      "title": "Russia's parliamentary election result underscores public support for Kremlin policies, Putin says",
-      "description": "President Vladimir Putin says Russia\u2019s first wartime parliamentary election, which further strengthened the Kremlin\u2019s already-overwhelming legislative control, was a sign of public support for his policies",
-      "url": "https://abcnews.com/International/wireStory/russias-parliamentary-election-result-underscores-public-support-kremlin-136688040",
-      "urlToImage": "https://i.abcnewsfe.com/a/27af829c-1551-4456-bfb5-c6f50ead76cd/wirestory_6b1fc6f8d144ba534802cdcdade30329_16x9.jpg?w=1600",
-      "publishedAt": "2026-09-23T16:29:54Z",
-      "content": "President Vladimir Putin said Wednesday that Russia's first wartime parliamentary election, which further strengthened the Kremlin's already-overwhelming legislative control, was a show of public sup\u2026 [+3577 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Www.gov.uk"
-      },
-      "author": "Foreign, Commonwealth & Development Office",
-      "title": "Foreign Secretary address to the UNSC on Ukraine",
-      "description": "Foreign Secretary address on the maintenance of the peace and security of Ukraine \u2013 United Nations Security Council",
-      "url": "https://www.gov.uk/government/speeches/foreign-secretary-address-to-the-unsc-on-ukraine",
-      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-      "publishedAt": "2026-09-23T16:29:15Z",
-      "content": "Thank you. And let me thank Under-Secretary-General DiCarlo for her briefing.\u00a0And let me say clearly, to begin with, Foreign Minister Sybiha Andrii, the United Kingdom stands with Ukraine and its peo\u2026 [+4688 chars]"
     }
   ]
 }

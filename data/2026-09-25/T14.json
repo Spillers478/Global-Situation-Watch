@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 16,
+  "totalResults": 17,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Activistpost.com"
+      },
+      "author": "Editor",
+      "title": "Dead Before Questioning: Another Epstein Recruiter Dies in Mysterious Circumstances",
+      "description": "Freddie Ponton21st Century Wire Ghislaine Maxwell is serving twenty years in federal prison for conspiring with Jeffrey Epstein to sexually abuse minors. Jean-Luc Brunel, the French modelling agent accused of supplying Epstein with young women, died in his ce\u2026",
+      "url": "https://activistpost.com/dead-before-questioning-another-epstein-recruiter-dies-in-mysterious-circumstances/",
+      "urlToImage": "https://activistpost.com/wp-content/uploads/2026/09/Dead-Before-Questioning-main-768x522-1.jpg",
+      "publishedAt": "2026-09-24T13:00:00Z",
+      "content": "Freddie Ponton21st Century Wire\r\nGhislaine Maxwell isserving twenty yearsin federal prison for conspiring with Jeffrey Epstein to sexually abuse minors. Jean-Luc Brunel, the French modelling agent ac\u2026 [+32700 chars]"
+    },
     {
       "source": {
         "id": "the-irish-times",

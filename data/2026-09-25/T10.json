@@ -1,7 +1,46 @@
 {
   "status": "ok",
-  "totalResults": 28,
+  "totalResults": 31,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Joehoft.com"
+      },
+      "author": "Joe Hoft",
+      "title": "President Trump Delivers Powerful America First Message to the United Nations",
+      "description": "President Trump Delivers Powerful America First Message to the United Nations The following is from the Trump team.\nThe post President Trump Delivers Powerful America First Message to the United Nations appeared first on The Gateway Pundit.",
+      "url": "https://joehoft.com/president-trump-delivers-powerful-america-first-message-united/",
+      "urlToImage": "https://joehoft.com/wp-content/uploads/2026/09/Trump-UN-1200x630.jpg",
+      "publishedAt": "2026-09-24T14:10:53Z",
+      "content": "The following is from the Trump team.\r\nIn his address to the United Nations, President Donald J. Trump\u00a0touted\u00a0his record of historic results that have reshaped world order for Americas benefit and ma\u2026 [+5869 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DW (English)"
+      },
+      "author": "Tim Gosling",
+      "title": "Czech PM Andrej Babis reiterates importance of NATO for his country but rejects calls to increase defense spending",
+      "description": "The US and NATO want Czechia to spend more on defense. Czech Prime Minister Andrej Babis says Prague cannot afford faster increases, despite growing warnings about the threat from Russia. The Czech Republic \"must remain committed to increasing defense spendin\u2026",
+      "url": "https://www.dw.com/en/czech-pm-andrej-babis-reiterates-importance-of-nato-for-his-country-but-rejects-calls-to-increase-defense-spending/a-79411066",
+      "urlToImage": "https://static.dw.com/image/79407091_6.jpg",
+      "publishedAt": "2026-09-24T12:11:00Z",
+      "content": "The Czech Republic \"must remain committed to increasing defense spending,\" Matthew Whitaker, the US envoy to NATO, demanded in Prague last week. \"We expect our allies to step up,\" he said.\r\nThe call \u2026 [+6640 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Chinese mainland welcomes more discussion from Taiwan on reunification",
+      "description": "The Chinese mainland welcomes more discussion in Taiwan on national reunification and is willing to conduct broad and in-depth democratic consultations with people from various sectors on the island on relations across the Taiwan Strait and the future of the \u2026",
+      "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260924-pdo01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-24T12:00:00Z",
+      "content": "People's Daily Online\r\n(Xinhua) 10:06, September 24, 2026\r\nBEIJING, Sept. 23 (Xinhua) -- The Chinese mainland welcomes more discussion in Taiwan on national reunification and is willing to conduct br\u2026 [+5503 chars]"
+    },
     {
       "source": {
         "id": null,

@@ -1,7 +1,59 @@
 {
   "status": "ok",
-  "totalResults": 20,
+  "totalResults": 24,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Charles Bakolo, Lusungu Ngwira, Kennedy Nazombe, Veronica Immaculate Bukani, Ken Chapita, Devie Chilonga, Harineck Mayamiko Tholo, Chikondi Chisenga, Jabulani Nyengere",
+      "title": "Leveraging GIS-based multi-criteria analysis for flood-prone area detection in Nsanje District, Malawi",
+      "description": "Flooding remains one of the most severe and recurrent natural hazards in sub-Saharan Africa, posing persistent threats to rural livelihoods, infrastructure, and environmental stability. In Malawi, the Lower Shire River Valley, particularly Nsanje district, is\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358998",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0358998.g007&size=inline",
+      "publishedAt": "2026-09-24T14:00:00Z",
+      "content": "Abstract\r\nFlooding remains one of the most severe and recurrent natural hazards in sub-Saharan Africa, posing persistent threats to rural livelihoods, infrastructure, and environmental stability. In \u2026 [+67299 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Foreign Policy"
+      },
+      "author": "Caroline de Gruyter",
+      "title": "Thank Goodness Europe Doesn\u2019t Have a Phone Number",
+      "description": "U.S. policymakers like complaining about one of the sources of the European Union\u2019s strength.",
+      "url": "http://foreignpolicy.com/2026/09/24/europe-phone-number-eu/",
+      "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2026/09/GettyImages-2170370160-1.jpg",
+      "publishedAt": "2026-09-24T13:57:16Z",
+      "content": "Why dont you just have a single phone number we can use when we want to call Europe? Recently, in a small gathering of Americans and Europeans on the sidelines of a conference on trans-Atlantic relat\u2026 [+5797 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Opiniojuris.org"
+      },
+      "author": "Lena Riemer",
+      "title": "Symposium on Climate (Im)Mobility and the African Court\u2019s Climate Advisory Opinion: Climate Displacement and the African Court \u2013 Non-Refoulement, Converging Standards, and the Case for Shared Responsibility",
+      "description": "[Dr Lena Riemer is an Assistant Professor of Law at Central European University working on migration related topics. Andrea Maria Pelliconi is a Lecturer in Human Rights Law & Global Justice at the University of Southampton, a convenor of the ICON-S Interest \u2026",
+      "url": "http://opiniojuris.org/2026/09/24/climate-displacement-and-the-african-court-non-refoulement-converging-standards-and-the-case-for-shared-responsibility/",
+      "urlToImage": "https://i0.wp.com/opiniojuris.org/wp-content/uploads/Namibia-desert-drought-tree-environment.jpg?fit=1200%2C800",
+      "publishedAt": "2026-09-24T12:00:30Z",
+      "content": "[Dr Lena Riemer is an Assistant Professor of Law at Central European University working on migration related topics.\r\nAndrea Maria Pelliconi is a Lecturer in Human Rights Law &amp; Global Justice at \u2026 [+15363 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "The Takeaway: UN General Assembly debate Day 2",
+      "description": "This edition of UN News's The Takeaway recaps key highlghts at the UN General Assembly on Wednesday, including focus on the war in Ukraine and a renewed push by African countries for Security Council reform.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/un/un-260924-unnews01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-24T12:00:00Z",
+      "content": "24 September 2026 - This edition of UN News's The Takeaway recaps key highlghts at the UN General Assembly on Wednesday, including focus on the war in Ukraine and a renewed push by African countries \u2026 [+3933 chars]"
+    },
     {
       "source": {
         "id": "al-jazeera-english",

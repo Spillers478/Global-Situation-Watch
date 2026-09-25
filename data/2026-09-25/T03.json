@@ -1,7 +1,33 @@
 {
   "status": "ok",
-  "totalResults": 15,
+  "totalResults": 17,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Stone"
+      },
+      "author": "Chris Kobiella",
+      "title": "The Address Where NYC Music Lives",
+      "description": "Inside the Music Building, a midtown Manhattan location where Madonna and countless others have rehearsed and recorded",
+      "url": "http://www.rollingstone.com/music/music-features/the-music-building-new-york-madonna-1235626862/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/09/MUSIC-BUILDING_Sacha-Lecca_Sacha-Lecca-13.jpg?w=1600&h=900&crop=1",
+      "publishedAt": "2026-09-24T14:00:00Z",
+      "content": "Since 1979, New York\u2019s Music Building has hosted thousands of bands, musicians, and artists, both famous and obscure. While the Midtown Manhattan building itself has largely flown under the radar, th\u2026 [+4758 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Consequence.net"
+      },
+      "author": "Heavy Consequence Staff",
+      "title": "Iron Maiden, Tool, Danny Elfman, Limp Bizkit, Danzig Rock Scorching Hot Louder Than Life 2026 Fest: Photos",
+      "description": "Check out pictures from the massive four-day festival in Louisville.\nIron Maiden, Tool, Danny Elfman, Limp Bizkit, Danzig Rock Scorching Hot Louder Than Life 2026 Fest: Photos\nHeavy Consequence Staff",
+      "url": "https://consequence.net/2026/09/louder-than-life-2026-fest-photos/",
+      "urlToImage": "https://consequence.net/wp-content/uploads/2026/09/Louder-Than-Life.jpg",
+      "publishedAt": "2026-09-24T12:48:30Z",
+      "content": "The 2026 edition of the massive rock festival Louder Than Life in Louisville brought with it four days of scorching temperatures, as bands and fans battled heat indexes as high as 110 degrees.\r\nDespi\u2026 [+791 chars]"
+    },
     {
       "source": {
         "id": null,
