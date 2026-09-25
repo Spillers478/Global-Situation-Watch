@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 17,
+  "totalResults": 18,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "author": "John Aziz",
+      "title": "Why Fauda Is So Popular in the Arab World",
+      "description": "Viewers may find, in the fictions of a TV show, a more realistic portrayal of their world than they are usually offered.",
+      "url": "https://www.theatlantic.com/ideas/2026/09/fauda-israeli-tv-show-popularity/688766/?utm_source=feed",
+      "urlToImage": null,
+      "publishedAt": "2026-09-24T15:00:10Z",
+      "content": "Before this week, I\u2019d never watched an episode of Fauda, the Israeli-made, Netflix-distributed counterterrorism thriller. The show stars Lior Raz as Doron Kabilio, an undercover Israeli mista\u2019arvim (\u2026 [+10658 chars]"
+    },
     {
       "source": {
         "id": null,

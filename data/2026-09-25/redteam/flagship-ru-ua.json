@@ -2,6 +2,20 @@
   "articles": [
     {
       "source": {
+        "id": "rte",
+        "name": "RTE"
+      },
+      "author": "RT\u00c9 News",
+      "title": "NATO chief says alliance 'ready' for Russia hybrid attack",
+      "description": "NATO is \"ready\" for Russian cyberattacks and other forms of hybrid warfare, the alliance's secretary general has said, urging increased support for Ukraine in response to Moscow's actions.",
+      "url": "https://www.rte.ie/news/2026/0924/1592845-nato-chief-says-alliance-ready-for-russia-hybrid-attack/",
+      "urlToImage": "https://www.rte.ie/images/00251064-1600.jpg",
+      "publishedAt": "2026-09-24T14:58:07Z",
+      "content": "NATO is \"ready\" for Russian cyberattacks and other forms of hybrid warfare, the alliance's secretary general has said, urging increased support for Ukraine in response to Moscow's actions.\r\n\"Russia i\u2026 [+3251 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Military.com"
       },
@@ -101,20 +115,6 @@
     {
       "source": {
         "id": null,
-        "name": "Globalresearch.ca"
-      },
-      "author": "Mojmir Babacek",
-      "title": "The Last Move is the Checkmate. The Danger of a Nuclear War is Constantly Growing",
-      "description": "In the book where Donald Trump presented his election program, China was mentioned over 600 times, and his writing made it clear that if elected, defeating China in the global power struggle would be the main goal of US foreign \u2026\nThe post The Last Move is the\u2026",
-      "url": "https://www.globalresearch.ca/last-move-checkmate-danger-nuclear-war-growing/5941620",
-      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2022/08/Nuclear-Test.jpg",
-      "publishedAt": "2026-09-24T12:11:37Z",
-      "content": "In the book where Donald Trump presented his election program, China was mentioned over 600 times, and his writing made it clear that if elected, defeating China in the global power struggle would be\u2026 [+12649 chars]",
-      "cocom": "Transregional"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Globalsecurity.org"
       },
       "author": "John Pike",
@@ -174,13 +174,13 @@
         "name": "Globalsecurity.org"
       },
       "author": "John Pike",
-      "title": "Comprehensive Nuclear-Test-Ban Treaty: Statement by the High Representative on the 30th anniversary of the opening of the treaty for signatures",
-      "description": "The Comprehensive Nuclear-Test-Ban Treaty (CTBT) remains vital to global security. 30 years ago, 71 countries made a pledge to ban all nuclear weapons testing. Today the CTBT is one of the most universally accepted treaties, signed by 188 States and ratified \u2026",
-      "url": "https://www.globalsecurity.org/wmd/library/news/un/un-260924-eeas01.htm",
+      "title": "The Takeaway: UN General Assembly debate Day 2",
+      "description": "This edition of UN News's The Takeaway recaps key highlghts at the UN General Assembly on Wednesday, including focus on the war in Ukraine and a renewed push by African countries for Security Council reform.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/un/un-260924-unnews01.htm",
       "urlToImage": null,
       "publishedAt": "2026-09-24T12:00:00Z",
-      "content": "European External Action Service (EEAS)\r\n24.09.2026EEAS Press Team\r\nThe Comprehensive Nuclear-Test-Ban Treaty (CTBT) remains vital to global security. 30 years ago, 71 countries made a pledge to ban \u2026 [+2074 chars]",
-      "cocom": "Transregional"
+      "content": "24 September 2026 - This edition of UN News's The Takeaway recaps key highlghts at the UN General Assembly on Wednesday, including focus on the war in Ukraine and a renewed push by African countries \u2026 [+3933 chars]",
+      "cocom": "USEUCOM"
     },
     {
       "source": {
@@ -188,13 +188,13 @@
         "name": "Globalsecurity.org"
       },
       "author": "John Pike",
-      "title": "The Takeaway: UN General Assembly debate Day 2",
-      "description": "This edition of UN News's The Takeaway recaps key highlghts at the UN General Assembly on Wednesday, including focus on the war in Ukraine and a renewed push by African countries for Security Council reform.",
-      "url": "https://www.globalsecurity.org/wmd/library/news/un/un-260924-unnews01.htm",
+      "title": "Russia Smashes Kievstar Telecom Hub, Military Production Sites Across Ukraine",
+      "description": "The Russian military launched a heavy blitz on a facility in Kiev that produced components for long- and medium-range drones and where ground-based robotic systems were being readied for deployment, the Russian Defense Ministry said on Thursday.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260924-sputnik02.htm",
       "urlToImage": null,
       "publishedAt": "2026-09-24T12:00:00Z",
-      "content": "24 September 2026 - This edition of UN News's The Takeaway recaps key highlghts at the UN General Assembly on Wednesday, including focus on the war in Ukraine and a renewed push by African countries \u2026 [+3933 chars]",
-      "cocom": "Transregional"
+      "content": "20260924\r\nMOSCOW (Sputnik) - The Russian military launched a heavy blitz on a facility in Kiev that produced components for long- and medium-range drones and where ground-based robotic systems were b\u2026 [+1668 chars]",
+      "cocom": "USEUCOM"
     },
     {
       "source": {
@@ -226,20 +226,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Globalsecurity.org"
-      },
-      "author": "John Pike",
-      "title": "Russia Smashes Kievstar Telecom Hub, Military Production Sites Across Ukraine",
-      "description": "The Russian military launched a heavy blitz on a facility in Kiev that produced components for long- and medium-range drones and where ground-based robotic systems were being readied for deployment, the Russian Defense Ministry said on Thursday.",
-      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260924-sputnik02.htm",
-      "urlToImage": null,
-      "publishedAt": "2026-09-24T12:00:00Z",
-      "content": "20260924\r\nMOSCOW (Sputnik) - The Russian military launched a heavy blitz on a facility in Kiev that produced components for long- and medium-range drones and where ground-based robotic systems were b\u2026 [+1668 chars]",
-      "cocom": "USEUCOM"
-    },
-    {
-      "source": {
         "id": "breitbart-news",
         "name": "Breitbart News"
       },
@@ -251,20 +237,6 @@
       "publishedAt": "2026-09-24T11:51:56Z",
       "content": "After years of Breitbart reporting on cartel drone usage, legacy news outlets are beginning to do the catch on.\r\nA recent report from the Washington Post revealed that Mexican terrorist cartels are a\u2026 [+2128 chars]",
       "cocom": "USNORTHCOM"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-      "description": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
-      "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/34f4/live/bd885cd0-b7ff-11f1-97e1-83bf52ec4acd.jpg",
-      "publishedAt": "2026-09-24T11:16:29Z",
-      "content": "A fire at a Starlink satellite station in central Poland was a deliberate \"act of sabotage\", the government has said.\r\nPolish Deputy Prime Minister Krzysztof Gawkowski said the fire in the Masovian V\u2026 [+1346 chars]",
-      "cocom": "USEUCOM"
     },
     {
       "source": {
@@ -310,6 +282,21 @@
       "content": "By Our Reporter\r\nWar and elections are often treated as separate political phenomena, but history demonstrates that the two are closely interconnected. War changes the political mood of a country, in\u2026 [+5548 chars]",
       "cocom": "USEUCOM",
       "_original_topic_id": "T05"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "The Takeaway: UN General Assembly debate Day 2",
+      "description": "This edition of UN News's The Takeaway recaps key highlghts at the UN General Assembly on Wednesday, including focus on the war in Ukraine and a renewed push by African countries for Security Council reform.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/un/un-260924-unnews01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-24T12:00:00Z",
+      "content": "24 September 2026 - This edition of UN News's The Takeaway recaps key highlghts at the UN General Assembly on Wednesday, including focus on the war in Ukraine and a renewed push by African countries \u2026 [+3933 chars]",
+      "cocom": "Transregional",
+      "_original_topic_id": "T07"
     },
     {
       "source": {

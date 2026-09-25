@@ -2,6 +2,62 @@
   "articles": [
     {
       "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "financialpost.com",
+      "title": "Carney tells NYT he looked at \u2018extreme tail risk\u2019 of U.S. invasion",
+      "description": "Prime Minister Mark Carney said he\u2019d looked at \u201cextreme tail risk\u201d when asked by the New York Times about whether he\u2019d taken seriously the risk of U.S. military action against his country. \n \u201cI think you have a responsibility in these roles to look at extreme\u2026",
+      "url": "https://biztoc.com/x/b25146dd0938a72c",
+      "urlToImage": "https://biztoc.com/cdn/b25146dd0938a72c_s.webp",
+      "publishedAt": "2026-09-24T12:36:58Z",
+      "content": "Prime Minister Mark Carney said hed looked at extreme tail risk when asked by the New York Times about whether hed taken seriously the risk of U.S. military action against his country. I think you ha\u2026 [+143 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Canada Prepared for Risk of US Military Invasion - Carney",
+      "description": "Canadian Prime Minister Mark Carney has admitted that Ottawa had spent the past year making contingency plans to prepare for the \"extreme tail risk\" of US military action in Canada.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/canada/2026/canada-260924-sputnik01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-24T12:00:00Z",
+      "content": "20260924\r\nMOSCOW (Sputnik) - Canadian Prime Minister Mark Carney has admitted that Ottawa had spent the past year making contingency plans to prepare for the \"extreme tail risk\" of US military action\u2026 [+1582 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "author": "Bloomberg News",
+      "title": "Carney tells NYT he looked at \u2018extreme tail risk\u2019 of U.S. invasion",
+      "description": "Prime Minister Mark Carney said he\u2019d looked at \u201cextreme tail risk\u201d when asked whether he considered U.S. military action. Read more.",
+      "url": "https://financialpost.com/news/economy/carney-nyt-extreme-tail-risk-us-invasion",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/09/0925-bc-carney-.jpg",
+      "publishedAt": "2026-09-24T11:44:09Z",
+      "content": "Prime Minister Mark Carney said hed looked at extreme tail risk when asked by the New York Times about whether hed taken seriously the risk of U.S. military action against his country.\r\nTHIS CONTENT \u2026 [+4246 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sputnikglobe.com"
+      },
+      "author": "Sputnik International",
+      "title": "Canada Prepared for Risk of US Military Invasion - Carney",
+      "description": "MOSCOW (Sputnik) - Canadian Prime Minister Mark Carney has admitted that Ottawa had spent the past year making contingency plans to prepare for the \"extreme tail risk\" of US military action in Canada.",
+      "url": "https://sputnikglobe.com/20260924/canada-prepared-for-risk-of-us-military-invasion---carney-1124780110.html",
+      "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1124780110.jpg?11219507191790241898",
+      "publishedAt": "2026-09-24T09:24:57Z",
+      "content": "Sputnik brings you all the latest breaking stories, expert analysis and videos from North and South America.\r\nhttps://sputnikglobe.com/20260924/canada-prepared-for-risk-of-us-military-invasion---carn\u2026 [+3457 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
         "id": "al-jazeera-english",
         "name": "Al Jazeera English"
       },
@@ -106,6 +162,21 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Joana Castro Pereira, Professor of Politics and International Relations, Universidade do Porto, Sim\u00f3n Pardo de Donleb\u00fan Versaci, Postgraduate researcher, Universidade do Porto",
+      "title": "Morocco\u2019s deadly wall across Western Sahara: why the 2,700km Berm was built and the damage it does",
+      "description": "The wall in Western Sahara marks the practical frontline of a conflict most of the world has stopped watching.",
+      "url": "https://theconversation.com/moroccos-deadly-wall-across-western-sahara-why-the-2-700km-berm-was-built-and-the-damage-it-does-292148",
+      "urlToImage": "https://images.theconversation.com/files/760501/original/file-20260917-50-grzpv5.jpg?ixlib=rb-4.1.1&rect=0%2C256%2C3072%2C1536&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-09-23T13:49:49Z",
+      "content": "Western Sahara has been carved in two since the 1980s by a wall that Morocco built to hold on to territory it occupied in 1975. Fifty years on, the conflict remains unresolved and the wall \u2013 known as\u2026 [+6538 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T13"
+    },
+    {
+      "source": {
         "id": "al-jazeera-english",
         "name": "Al Jazeera English"
       },
@@ -118,6 +189,21 @@
       "content": "Yemens Saudi-backed government forces say they have taken full control of strategic Mount Qarfan in the western governorate of Taiz during a battle with Iran-aligned Houthi fighters.\r\nGovernment forc\u2026 [+3272 chars]",
       "cocom": "USCENTCOM",
       "_original_topic_id": "T13"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Erika Feller, Professorial Fellow, School of Government, The University of Melbourne",
+      "title": "The UN is facing a crisis of trust and possible bankruptcy. Its new leader will have an enormous challenge",
+      "description": "Rules of war are being shredded by combatants with virtually no accountability. It\u2019s one of several key issues for the UN\u2019s new leader to tackle.",
+      "url": "https://theconversation.com/the-un-is-facing-a-crisis-of-trust-and-possible-bankruptcy-its-new-leader-will-have-an-enormous-challenge-290728",
+      "urlToImage": "https://images.theconversation.com/files/759527/original/file-20260914-50-pfjtgj.jpg?ixlib=rb-4.1.1&rect=411%2C350%2C4913%2C2456&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-09-23T20:10:33Z",
+      "content": "HJBC/Getty Images\r\nThe United Nations is deep into the process of looking for its next Secretary General as Portugal\u2019s Antonio Guterres steps down in December after a decade. \n\nThe leadership change \u2026 [+6555 chars]",
+      "cocom": "Transregional",
+      "_original_topic_id": "T14"
     }
   ]
 }

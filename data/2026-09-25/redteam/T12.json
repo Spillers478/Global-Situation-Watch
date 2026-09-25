@@ -2,6 +2,21 @@
   "articles": [
     {
       "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "US Company That Sold Phone Hacking Software To Pentagon, Secret Service Lied About Russian Ownership, Officials Say",
+      "description": "A US company that provided digital forensics and data-extraction software to the Pentagon and other government agencies was in fact owned by a Russian company that also sold software to Russian spy agencies, US authorities charged.",
+      "url": "https://www.globalsecurity.org/intell/library/news/2026/intell-260924-rferl01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-24T12:00:00Z",
+      "content": "By Mike Eckel September 24, 2026\r\nA US company that provided digital forensics and data-extraction software to the Pentagon and other government agencies was in fact owned by a Russian company that a\u2026 [+3094 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "flagship-ru-ua"
+    },
+    {
+      "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
@@ -14,6 +29,20 @@
       "content": "<ul><li></li><li></li><li></li></ul>\r\nWhy cant we just keep rogue AIs off the internet?\r\nAir-gapping AI to keep it away from real-world targets makes testing safer, but less useful.\r\nby\r\nRobert HartC\u2026 [+7813 chars]",
       "cocom": "Transregional",
       "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Infosecurity Magazine"
+      },
+      "author": "Danny  Palmer",
+      "title": "Emerging Ransomware Gang Uses Backup Destruction Threats to Pressure Victims",
+      "description": "Ransom notes by n0n ransomware claim to take double extortion to a new level of danger for victims",
+      "url": "https://www.infosecurity-magazine.com/news/ransomware-gang-uses-backup/",
+      "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/9720e053-9870-414e-8c70-5433a964dce5.jpg",
+      "publishedAt": "2026-09-24T15:00:00Z",
+      "content": "A newly formed ransomware group has claimed that if its victims dont give into their extortion demands and pay a ransom, that they will destroy their backup infrastructure, in a move which could prev\u2026 [+3032 chars]",
+      "cocom": "Transregional"
     },
     {
       "source": {
@@ -200,20 +229,6 @@
     {
       "source": {
         "id": null,
-        "name": "CoinDesk"
-      },
-      "author": "Will Canny",
-      "title": "Inside the FBI\u2019s little-known annual crypto crime gathering",
-      "description": "The Virtual Asset Technical Exchange brings together investigators, law enforcement officials, and crypto-security specialists to exchange intelligence on a wide range of crimes involving digital assets.",
-      "url": "https://www.coindesk.com/business/2026/09/23/inside-the-fbi-s-little-known-annual-crypto-crime-gathering",
-      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/e19ac69728db0aaf4a7c50f5de21b8156dfeb30f-3600x2631.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "publishedAt": "2026-09-23T15:26:35Z",
-      "content": "Although the symposium is not secret, it has received little media attention. Its public footprint consists largely of occasional posts from attendees rather than prominent FBI announcements or the p\u2026 [+1506 chars]",
-      "cocom": "USNORTHCOM"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "BleepingComputer"
       },
       "author": "Lawrence Abrams",
@@ -252,20 +267,6 @@
       "publishedAt": "2026-09-23T12:03:41Z",
       "content": "Extortion group ShinyHunters is not afraid to make enemies. Now it claims to have breached the FBI.\r\nAfter reportedly taking over ransomware group Clops leak site, ShinyHunters says it attacked the F\u2026 [+7782 chars]",
       "cocom": "USNORTHCOM"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalsecurity.org"
-      },
-      "author": "John Pike",
-      "title": "Ongoing Efforts to Create Powerful AI a 'Race Where Everyone Loses', UN Expert Tells Security Council, as Members, Tech Leaders Debate Governance Issues",
-      "description": "The rapid development of artificial intelligence (AI) technology presents great possibilities alongside potentially catastrophic risks that must be managed, the Security Council heard today, as both world leaders and industry executives weighed in as the orga\u2026",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260923-unsc01.htm",
-      "urlToImage": null,
-      "publishedAt": "2026-09-23T12:00:00Z",
-      "content": "Meetings CoverageSecurity Council\r\n10228th Meeting (PM)\r\nSC/1646223 September 2026\r\nThe rapid development of artificial intelligence (AI) technology presents great possibilities alongside potentially\u2026 [+10263 chars]",
-      "cocom": "Transregional"
     }
   ]
 }

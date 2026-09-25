@@ -1,7 +1,241 @@
 {
   "status": "ok",
-  "totalResults": 735,
+  "totalResults": 753,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "author": "John Aziz",
+      "title": "Why Fauda Is So Popular in the Arab World",
+      "description": "Viewers may find, in the fictions of a TV show, a more realistic portrayal of their world than they are usually offered.",
+      "url": "https://www.theatlantic.com/ideas/2026/09/fauda-israeli-tv-show-popularity/688766/?utm_source=feed",
+      "urlToImage": null,
+      "publishedAt": "2026-09-24T15:00:10Z",
+      "content": "Before this week, I\u2019d never watched an episode of Fauda, the Israeli-made, Netflix-distributed counterterrorism thriller. The show stars Lior Raz as Doron Kabilio, an undercover Israeli mista\u2019arvim (\u2026 [+10658 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Jennifer Ludden",
+      "title": "The economic squeeze is pushing up poverty rates for older adults",
+      "description": "Despite lower poverty overall, the rate for seniors has been steadily rising in recent years. A new AARP survey sheds light on how those over 50 are struggling in the crucial time before retirement.",
+      "url": "https://www.npr.org/2026/09/24/nx-s1-5979857/senior-adult-poverty-affordability",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+209/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa2%2Fe9%2F75362ee349d49477d904566c81e6%2Fgettyimages-2244512387.jpg",
+      "publishedAt": "2026-09-24T15:00:00Z",
+      "content": "The poverty rate among seniors rose for the fifth straight year in 2025, \"a trend no other age group experienced,\" according to an AARP Foundation analysis\r\n of a new Census Bureau report\r\n.\r\nAARP Fo\u2026 [+4796 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "Saudi-led coalition says shot down 6 ballistic missiles launched by Houthis",
+      "description": "No response by Yemen's Houthis to a claim by the coalition forces that its missiles targeted Taif and Yanbu.",
+      "url": "https://www.aljazeera.com/news/2026/9/24/saudi-led-coalition-says-shot-down-6-ballistic-missiles-launched-by-houthis",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab3f3d738dc-1790178263.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-24T14:56:00Z",
+      "content": "Saudi-led coalition forces fighting Yemens Houthis say they have intercepted six ballistic missiles allegedly fired by the Iran-allied group towards cities in Saudi Arabia.\r\nThe missiles were destroy\u2026 [+2533 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalresearch.ca"
+      },
+      "author": "Dr. Paul Craig Roberts",
+      "title": "The Israeli Lobby Boasts of Its Rule of America",
+      "description": "Elliot Brandt, the Chief Executive Officer of AIPAC \u2013the Israel Lobby\u2014 which is privileged by not having to register as a foreign lobby was caught on tape boasting of how easy it is for him to control the President \u2026\nThe post The Israeli Lobby Boasts of Its R\u2026",
+      "url": "https://www.globalresearch.ca/israeli-lobby-boasts-rule-america/5941747",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2026/09/elliot-brandt-aipac.jpg",
+      "publishedAt": "2026-09-24T14:51:06Z",
+      "content": "Elliot Brandt, the Chief Executive Officer of AIPAC the Israel Lobby which is privileged by not having to register as a foreign lobby was caught on tape boasting of how easy it is for him to control \u2026 [+3823 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Senthil Kumaran",
+      "title": "Two held with 10kg ganja on private bus near Hosur",
+      "description": "Two men were arrested near Hosur with 10kg ganja seized from a Bengaluru-Madurai private bus; police are hunting the Bengaluru supplier.",
+      "url": "https://timesofindia.indiatimes.com/city/coimbatore/two-held-with-10kg-ganja-on-private-bus-near-hosur/articleshow/134465311.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134465310,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-24T14:50:58Z",
+      "content": "Follow Us On Social Media\r\n4 arrested in Wasseypur firing case after shootoutOracle market value loses millions; as notice sent on data center project in New Mexico 'surfaces', company told developer\u2026 [+1514 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "author": "Estefano Gomez",
+      "title": "Iran cancels flights amid new US sanctions; Saudis intercept Houthi missiles",
+      "description": "Heightened tensions and economic pressures may lead to increased regional instability and potential shifts in airspace policies.\nThe post Iran cancels flights amid new US sanctions; Saudis intercept Houthi missiles appeared first on Crypto Briefing.",
+      "url": "https://cryptobriefing.com/iran-cancels-flights-amid-new-us-sanctions-saudis-intercept-houthi-missiles/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/24104853/cb-card-geo-219-800x420.png",
+      "publishedAt": "2026-09-24T14:48:55Z",
+      "content": "Iranian flights have been canceled following the imposition of new U.S. sanctions, while Saudi Arabia reported intercepting six missiles fired by the Houthi movement. The sanctions, part of \u201cOperatio\u2026 [+1379 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "Invoice links Chipsan to CM\u2019s chartered flight",
+      "description": "Invoice reportedly links Chipsan Aviation to Kerala CM V D Satheesan\u2019s Sept 21 chartered flight; authenticity unverified, payment and who bore cost unclear.",
+      "url": "https://timesofindia.indiatimes.com/city/thiruvananthapuram/invoice-links-chipsan-to-cms-chartered-flight/articleshow/134465290.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134465288,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-24T14:48:48Z",
+      "content": "Follow Us On Social Media\r\n4 arrested in Wasseypur firing case after shootoutOracle market value loses millions; as notice sent on data center project in New Mexico 'surfaces', company told developer\u2026 [+1514 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Faryal Rumi",
+      "title": "NDA students visit Science City",
+      "description": "NDA Patna Class IV students visited APJ Abdul Kalam Science City; Jesus and Mary Academy held a no-fire cooking contest; ST College hosted Gender Nexus-2026 seminar.",
+      "url": "https://timesofindia.indiatimes.com/city/patna/nda-students-visit-science-city/articleshow/134465280.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134465279,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-24T14:47:26Z",
+      "content": "Follow Us On Social Media\r\n4 arrested in Wasseypur firing case after shootoutOracle market value loses millions; as notice sent on data center project in New Mexico 'surfaces', company told developer\u2026 [+1514 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Poulomi Ghosh",
+      "title": "Widow of Indian-origin pilot killed in helicopter accident minutes after their wedding in Georgia sues venue, chopper company: She was trapped under her dead husband for hours",
+      "description": "Widow of Indian-origin pilot killed in helicopter accident minutes after their wedding in Georgia sues venue, chopper company: She was trapped under her dead husband for hours",
+      "url": "https://timesofindia.indiatimes.com/world/us/widow-of-indian-origin-pilot-killed-in-helicopter-accident-minutes-after-their-wedding-in-georgia-sues-venue-chopper-company-she-was-trapped-under-her-dead-husband-for-hours/articleshow/134465211.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134465249,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-24T14:47:03Z",
+      "content": "<ul><li>News</li>\r\n<li>World News</li>\r\n<li>US News</li>\r\n<li>Widow of Indian-origin pilot killed in helicopter accident minutes after their wedding in Georgia sues venue, chopper company: She was tr\u2026 [+1763 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Dov  Lieber",
+      "title": "Israel's Netanyahu set to hit back at widespread criticism in U.N. address",
+      "description": "Benjamin Netanyahu is expected to focus on Iran, and on defending Israel's actions in Gaza and the West Bank amid condemnation from fellow leaders at the U.N.",
+      "url": "https://www.cbsnews.com/news/netanyahu-un-speech-israel-criticism-mamdani-protests/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/24/7d142e76-2c91-49f0-8c1a-80f95e86197f/thumbnail/1200x630g7/bbdb2e60baaf5f1cf158344cdae0b994/israel-netanyahu-un-2296819151.jpg",
+      "publishedAt": "2026-09-24T14:46:00Z",
+      "content": "Tel Aviv \u2014\u00a0Israeli Prime Minister Benjamin Netanyahu is due to address the United Nations General Assembly on Thursday as his country faces broad condemnation and growing isolation over Israel's acti\u2026 [+5471 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "BK Mishra",
+      "title": "13 Magadh Mahila College students\u2019 union members take oath",
+      "description": "Magadh Mahila College, Patna University\u2019s 13-member Central Students\u2019 Union took oath on campus, with elected and nominated office-bearers assigned roles.",
+      "url": "https://timesofindia.indiatimes.com/city/patna/13-magadh-mahila-college-students-union-members-take-oath/articleshow/134465241.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134465240,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-24T14:44:58Z",
+      "content": "Follow Us On Social Media\r\n4 arrested in Wasseypur firing case after shootoutOracle market value loses millions; as notice sent on data center project in New Mexico 'surfaces', company told developer\u2026 [+1514 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Shanmughasundaram J",
+      "title": "EPS to Vijay: Show courage and face us head-on",
+      "description": "CHENNAI: AIADMK general secretary Edappadi K Palaniswami on Thursday accused Tamil Nadu chief minister C Joseph Vijay of indulging in \u201cdirty",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/eps-to-vijay-show-courage-and-face-us-head-on/articleshow/134465165.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134465231,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-24T14:44:54Z",
+      "content": "Follow Us On Social Media\r\n4 arrested in Wasseypur firing case after shootoutOracle market value loses millions; as notice sent on data center project in New Mexico 'surfaces', company told developer\u2026 [+1514 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Military.com"
+      },
+      "author": "MLT Staff",
+      "title": "Oil Rises as Iran Threat to Widen War Dims Hormuz Deal Hopes",
+      "description": "Iran\u00a0has consistently vowed to escalate its attacks against the\u00a0U.S.\u00a0if it\u2019s struck again, including with new targets and weapons.",
+      "url": "https://military.com/oil-rises-as-iran-threat-to-widen-war-dims-hormuz-deal-hopes",
+      "urlToImage": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/09/world-news-usisrael-iran-filepic-get.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-09-24T14:44:08Z",
+      "content": "Oil surged as Iran threatened to expand the war in the Middle East, worsening the outlook for a deal to reopen the vital Strait of Hormuz.\r\nBrent futures jumped more than 3% to trade above $106 a bar\u2026 [+3227 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "AI cameras help nab 2 poachers in Similipal, guns and explosives seized",
+      "description": "AI-enabled cameras in Similipal Tiger Reserve led to arrest of two alleged poachers; officials seized two country-made guns and explosives in Mayurbhanj.",
+      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/ai-cameras-help-nab-2-poachers-in-similipal-guns-and-explosives-seized/articleshow/134465228.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-24T14:43:11Z",
+      "content": "Follow Us On Social Media\r\n4 arrested in Wasseypur firing case after shootoutOracle market value loses millions; as notice sent on data center project in New Mexico 'surfaces', company told developer\u2026 [+1514 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Pradeep Gupta",
+      "title": "Maharashtra crop losses: Kalyan Lok Sabha MP cancels annual Rasrang Dandiya event, funds to aid farmers",
+      "description": "Due to irregular rainfall and reported crop losses, the Rasrang Dandiya festival has been canceled this year. Kalyan Lok Sabha MP Dr Shrikant Shinde made this decision through his NGO. The funds for the festival will be redirected to assist farmers facing fin\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/maharashtra-crop-losses-kalyan-lok-sabha-mp-cancels-annual-rasrang-dandiya-event-funds-to-aid-farmers/articleshow/134465070.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134465172,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-24T14:42:55Z",
+      "content": "<ul><li>News</li>\r\n<li>City News</li>\r\n<li>mumbai News</li>\r\n<li>Maharashtra crop losses: Kalyan Lok Sabha MP cancels annual Rasrang Dandiya event, funds to aid farmers</li></ul>\r\nFollow Us On Social\u2026 [+1694 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Roshan Gupta",
+      "title": "Chowrasta Mall\u2019s iconic 141-year-old fountain set to get new lease of life",
+      "description": "Darjeeling\u2019s 141-year-old Chowrasta fountain is being restored by GTA tourism department and will be functional within a week ahead of peak season.",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/chowrasta-malls-iconic-141-year-old-fountain-set-to-get-new-lease-of-life/articleshow/134465226.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134465225,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-24T14:42:51Z",
+      "content": "Follow Us On Social Media\r\n4 arrested in Wasseypur firing case after shootoutOracle market value loses millions; as notice sent on data center project in New Mexico 'surfaces', company told developer\u2026 [+1514 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Rajiv Kalkod",
+      "title": "Court rejects bail for Karnataka Public Service Commission scam accused, says he could influence investigation",
+      "description": "Bengaluru court denies bail to KPSC recruitment scam accused Basavaraj Kannale, citing risk of influencing CID probe, absconding and harming investigation.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/court-rejects-bail-for-karnataka-public-service-commission-scam-accused-says-he-could-influence-investigation/articleshow/134465196.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134356979,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-24T14:41:55Z",
+      "content": "<ul><li>News</li>\r\n<li>City News</li>\r\n<li>bengaluru News</li>\r\n<li>Court rejects bail for Karnataka Public Service Commission scam accused, says he could influence investigation</li></ul>\r\nFollow Us\u2026 [+1704 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "jsor@businessinsider.com (Jennifer Sor)",
+      "title": "What the bond market is telling us as yields spike to 2-decade highs",
+      "description": "Key bond yields are at their highest levels in decades, signaling deepening concerns about US fiscal health and demand for US government debt.",
+      "url": "https://www.businessinsider.com/bond-market-explained-higher-yields-spike-stock-market-impact-inflation-2026-9#article",
+      "urlToImage": "https://i.insider.com/6ab51dfad15f8a572974a035?width=1200&format=jpeg",
+      "publishedAt": "2026-09-24T14:41:16Z",
+      "content": "The bond market is saying something that all investors should be paying attention to. \r\nKey bond yields have been drifting higher for years, but the recent sell-off in US Treasurys has accelerated in\u2026 [+5043 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -1067,240 +1301,6 @@
       "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/24070718/commons-picker-govcommons21d40c73ba3c3518-1-800x450.jpg",
       "publishedAt": "2026-09-24T11:07:20Z",
       "content": "Major General Yahya Rahim Safavi, a military adviser to Iran\u2019s supreme leader, has issued a warning that any new U.S. military action against Iran might expand into the Red Sea and Bab el-Mandeb Stra\u2026 [+1824 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Matthew Chance",
-      "title": "Trump is staying out of Saudi Arabia\u2019s war. Americans could pay at the pump | CNN",
-      "description": "We touched down, hours late, in the scorching Saudi capital after yet another security scare closed the airspace and delayed flights in and out.",
-      "url": "https://www.cnn.com/2026/09/24/middleeast/trump-saudi-houthis-war-oil-gas-prices-intl",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2026-09-19t114802z-1980126111-rc28mnaxz2hr-rtrmadp-3-iran-crisis-saudi-yemen.JPG?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-09-24T11:07:14Z",
-      "content": "We touched down, hours late, in the scorching Saudi capital after yet another security scare closed the airspace and delayed flights in and out.\r\nThe hot and dusty city streets were bathed in decorat\u2026 [+6019 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Trump needs to warn China\u2019s Xi against \u2018dangerous alliance\u2019 with Iran, expert says",
-      "description": "President Donald Trump must warn Xi Jinping against pursuing a dangerous alliance with Iran as Operation Epic Fury continues, an expert told Fox News Digital.",
-      "url": "https://www.foxnews.com/politics/trump-warn-chinas-xi-against-dangerous-alliance-iran-expert-says",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/trump-xi-arrival-ceremony-andrews.jpg",
-      "publishedAt": "2026-09-24T11:06:19Z",
-      "content": "President Donald Trump needs to warn Chinese President Xi Jinping against pursuing a \"dangerous alliance\" with Iran when the two world leaders meet at the White House Thursday, an expert told Fox New\u2026 [+3325 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "President Trump to hold high-stakes summit with China's Xi and more top headlines",
-      "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-      "url": "https://www.foxnews.com/us/trump-hold-high-stakes-summit-chinas-xi-more-top-headlines",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/trump-and-xi_.png",
-      "publishedAt": "2026-09-24T11:04:06Z",
-      "content": "Good morning and welcome to Fox News' morning newsletter, Fox News First. And here's what you need to know to start your day ...\r\nTOP 3\r\n1. Trump-Xi reunion comes with unfinished business\u00a0\r\n2. Anthro\u2026 [+3407 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Education",
-      "title": "NEET PG answer key 2026 release date: NBEMS to publish key on or after October 1, check details here",
-      "description": "NBEMS has announced that the NEET PG 2026 answer key will be available on its official website on or after October 1. Candidates can use their applicant login to view question-wise details, including the correct answer, recorded response and marks awarded. Th\u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/neet-pg-answer-key-2026-release-date-nbems-to-publish-key-on-or-after-october-1-check-details-here/articleshow/134459898.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134459898,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-24T11:01:44Z",
-      "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>NEET PG answer key 2026 release date: NBEMS to publish key on or after October 1, check details here</li></ul>\r\nKharif crop gone, rabi i\u2026 [+1922 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "OilPrice.com"
-      },
-      "author": "Tsvetana Paraskova",
-      "title": "Just One Commodity Vessel Left the Strait of Hormuz on Wednesday",
-      "description": "The number of commodity vessels observed to have moved in and out of the Strait of Hormuz remained stubbornly low on Wednesday and below the 10-day moving average as the United States and Iran remain distant on how to end the war. On Wednesday, only ten commo\u2026",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Just-One-Commodity-Vessel-Left-the-Strait-of-Hormuz-on-Wednesday.html",
-      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-24_j98fq6uzqo.jpg",
-      "publishedAt": "2026-09-24T11:00:00Z",
-      "content": "Buyers are rapidly diversifying supply,\u2026\r\nThe IEA expects global coal\u2026\r\nSet us as your preferred Google source\r\nBy Tsvetana Paraskova - Sep 24, 2026, 6:00 AM CDTThe number of commodity vessels observ\u2026 [+1983 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mcsweeneys.net"
-      },
-      "author": "Emily Greenberg and Chase Bush-McLaughlin",
-      "title": "Lest We Forget the Horrors: An Unending Catalog of Trump\u2019s Cruelties, Collusions, Corruptions, and Crimes: August 2026: Atrocities 1211-1280",
-      "description": "Early in President Trump\u2019s first term, McSweeney\u2019s editors began to catalog the head-spinning number of misdeeds coming from his administration. We called this list a collection of Trump\u2019s cruelties, collusions, corruptions, and crimes, and it felt urgent to \u2026",
-      "url": "https://www.mcsweeneys.net/articles/august-2026-atrocities-1211-1280",
-      "urlToImage": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/g4yyhyjdxdpweez5bfmnto8krh1a",
-      "publishedAt": "2026-09-24T11:00:00Z",
-      "content": "Early in President Trump\u2019s first term, McSweeney\u2019s editors began to catalog the head-spinning number of misdeeds coming from his administration. We called this list a collection of Trump\u2019s cruelties,\u2026 [+31723 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Atlantic"
-      },
-      "author": "Andrew Exum",
-      "title": "Trump Could Leave the Iran Mess to His Successor",
-      "description": "And if he blames the next administration for whatever happens, he\u2019ll likely succeed.",
-      "url": "https://www.theatlantic.com/international/2026/09/trump-iran-successor-blame/688754/?utm_source=feed",
-      "urlToImage": null,
-      "publishedAt": "2026-09-24T11:00:00Z",
-      "content": "Nearly seven months in, the war in Iran seems nowhere close to a conclusion. Although talks between the United States and Iran continue, including this week, a disengaged Donald Trump appears uninter\u2026 [+5796 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Rajesh Kalra",
-      "title": "What would Seshan do if faced with SIR?",
-      "description": "The Election Commission is in the news again, and for the same old reason: its own company.",
-      "url": "https://timesofindia.indiatimes.com/toi-blogs/nation-notes/what-would-seshan-do-if-faced-with-sir/articleshow/134459647.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134459743,width-1280,height-720,resizemode-6,overlay-toiblogs,pt-32,x_pad-1045,y_pad-670/photo.jpg",
-      "publishedAt": "2026-09-24T10:58:04Z",
-      "content": "Follow Us On Social Media\r\nKharif crop gone, rabi in doubt: Why Maharashtra farmers are distressed'Mirzapur The Movie' actor Mohit Malik reveals how intimacy workshops with Rasika Dugal 'really helpe\u2026 [+1774 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nakedcapitalism.com"
-      },
-      "author": "Conor Gallagher",
-      "title": "Links 9/24/2026",
-      "description": "Our watchful daily links, including spooks warn of Russian drone attacks on Europe, Xi in DC, 'blind' food crisis, and end of the NGO age.",
-      "url": "https://www.nakedcapitalism.com/2026/09/links-9-24-2026.html",
-      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2026/09/HDsQxAOXcAAS-C0-778x1024.jpeg",
-      "publishedAt": "2026-09-24T10:55:53Z",
-      "content": "This is Naked Capitalism fundraising week. 446 donors have already invested in our efforts to combat corruption and predatory conduct, particularly in the financial realm. Please join us and particip\u2026 [+7605 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Crypto Briefing"
-      },
-      "author": "Estefano Gomez",
-      "title": "Netanyahu hints at UN address surprises amid Iran nuclear tensions",
-      "description": "Netanyahu's UN address could heighten geopolitical tensions, impacting diplomatic efforts and market expectations for a US-Iran deal by 2026.\nThe post Netanyahu hints at UN address surprises amid Iran nuclear tensions appeared first on Crypto Briefing.",
-      "url": "https://cryptobriefing.com/netanyahu-hints-at-un-address-surprises-amid-iran-nuclear-tensions/",
-      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/24065514/cb-card-geo-216-800x420.png",
-      "publishedAt": "2026-09-24T10:55:15Z",
-      "content": "Israeli Prime Minister Benjamin Netanyahu has hinted at unexpected developments in his upcoming address to the United Nations, amid escalating tensions with Iran. This announcement comes as Iran inte\u2026 [+2004 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": null,
-      "title": "US Navy confirms \u2018eight suicide attempts\u2019 on USS Lincoln: What we know",
-      "description": "The roughly 5,000-strong crew on board the Lincoln were at sea for more than nine months with only one brief port stop.",
-      "url": "https://www.aljazeera.com/news/2026/9/24/us-navy-confirms-eight-suicide-attempts-on-uss-lincoln-what-we-know",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6ab4d649-1790236233.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-09-24T10:53:49Z",
-      "content": "Acting United States Navy Secretary Hung Cao has confirmed that there have been eight suicide attempts by personnel assigned to the USS Abraham Lincoln aircraft carrier strike group posted in the Mid\u2026 [+7638 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Education",
-      "title": "HPRCA JOA admit card 2026 released at hprca.hp.gov.in: Direct link to download hall tickets here",
-      "description": "The HPRCA has issued the Junior Office Assistant (IT), Job-Trainee admit card 2026 for Post Code 26001 on September 24. Candidates can download their hall tickets from hprca.hp.gov.in using their login credentials. The written screening test will be conducted\u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/hprca-joa-admit-card-2026-released-at-hprca-hp-gov-in-direct-link-to-download-hall-tickets-here/articleshow/134459193.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134459193,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-24T10:49:15Z",
-      "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>HPRCA JOA admit card 2026 released at hprca.hp.gov.in: Direct link to download hall tickets here</li></ul>\r\nFollow Us On Social Media\r\nK\u2026 [+1945 chars]"
-    },
-    {
-      "source": {
-        "id": "rt",
-        "name": "RT"
-      },
-      "author": "RT",
-      "title": "US Navy admits suicide attempts on carrier strike group",
-      "description": "Eight sailors assigned to the USS Abraham Lincoln carrier strike group attempted suicide during deployment, including the war against Iran Read Full Article at RT.com",
-      "url": "https://www.rt.com/news/646173-us-navy-suicide-attempts-lincoln/",
-      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6ab4fe6d20302733aa0cf3f1.jpg",
-      "publishedAt": "2026-09-24T10:47:11Z",
-      "content": "Eight US Navy personnel assigned to the USS Abraham Lincoln carrier strike group attempted suicide during a ten-month deployment that included the country\u2019s war against Iran, CNN reported on Thursday\u2026 [+2627 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Common Dreams"
-      },
-      "author": "Thom Hartmann",
-      "title": "Why the Ellison Takeover of CNN Is Such Bad News for US Democracy",
-      "description": "A CNN insider told Variety magazine on Tuesday that the mood inside CNN right now is \u201clike a funeral.\u201d Nepo-baby David Ellison, bankrolled by his father who\u2019s one of the richest men in the world and a major Trump suck-up and donor (and is in the Epstein Files\u2026",
-      "url": "https://www.commondreams.org/opinion/david-ellison-cnn-takeover",
-      "urlToImage": "https://www.commondreams.org/media-library/image.jpg?id=65094703&width=1200&height=600&coordinates=0%2C417%2C0%2C417",
-      "publishedAt": "2026-09-24T10:44:08Z",
-      "content": "A CNN insider told Variety magazine on Tuesday that the mood inside CNN right now is like a funeral. Nepo-baby David Ellison, bankrolled by his father whos one of the richest men in the world and a m\u2026 [+12995 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Punch"
-      },
-      "author": "Punch Newspapers",
-      "title": "Possible US diesel export ban a bad idea- EU",
-      "description": "The European Union on Thursday slammed a possible US diesel export ban backed by President Donald Trump as a \u201cbad idea\u201d that would hurt both sides. Trump expressed support for a ban this week as surging fuel prices from the war in the Middle East threaten to \u2026",
-      "url": "https://punchng.com/possible-us-diesel-export-ban-a-bad-idea-eu/",
-      "urlToImage": "https://punchng.com/wp-content/uploads/2026/06/European-Union_1782245286-1200x630.webp",
-      "publishedAt": "2026-09-24T10:43:08Z",
-      "content": "The European Union on Thursday slammed a possible US diesel export ban backed by President Donald Trump as a \u201cbad idea\u201d that would hurt both sides.\r\nTrump expressed support for a ban this week as sur\u2026 [+1059 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "author": "Team BL, KS Badri Narayanan",
-      "title": "Sensex today | Stock Market Highlights: Dalal Street hit by crude fire, US yield surge, Nifty closes 1.64% lower at 23,063, Sensex lost 1,247 points",
-      "description": "Sensex, Nifty, Share Prices Highlights: Indian equity markets witnessed sharp selling pressure on Thursday as rising US bond yields, renewed strength in crude oil prices and persistent geopolitical uncertainty weighed heavily on investor sentiment.",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-24-september-2026/article71499498.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/od4lvp/article71503332.ece/alternates/LANDSCAPE_1200/iStock-1405176819.jpg",
-      "publishedAt": "2026-09-24T10:41:00Z",
-      "content": "<li></li>\r\nSeptember 24, 2026 15:47Rupee declines to one-week low of 95.95 as oil rally fans global rate hike worries\r\nRupee declines to one-week low of 95.95 as oil rally fans global rate hike worri\u2026 [+64113 chars]"
-    },
-    {
-      "source": {
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "author": "Eleanor Pringle",
-      "title": "Kevin Warsh might have to get a lot less popular on Capitol Hill as bond yields soar and rate expectations turn hawkish",
-      "description": "\"The direction of crude oil prices still bears on what happens to inflation globally and the decisions taken by central banks in response.\"",
-      "url": "https://fortune.com/2026/09/24/kevin-warsh-fed-rate-hike-hawkish-iran-bonds/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2277129824-e1790244293957.jpg?resize=1200,600",
-      "publishedAt": "2026-09-24T10:38:40Z",
-      "content": "Kevin Warsh hasso farmanaged to walk the line between his popularity in the White House and reassuring markets of Fed independence.That balance is getting more precarious, as data is shaping up towar\u2026 [+3641 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Digitimes"
-      },
-      "author": "DIGITIMES",
-      "title": "Microsoft to invest US$10B in Middle East AI infrastructure, despite war risks",
-      "description": "Microsoft announced that it will invest US$10 billion in expanding AI infrastructure in the Middle East by 2030. The commitment directs funding to a region facing threats from the war in Iran, where data center construction has continued despite the ongoing c\u2026",
-      "url": "https://www.digitimes.com/news/a20260924VL223/microsoft-infrastructure-war-region-data.html",
-      "urlToImage": "https://img.digitimes.com/newsshow/20260924vl223_files/2_2b.jpg",
-      "publishedAt": "2026-09-24T10:38:39Z",
-      "content": "Keep me signed in\r\nSome subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function, check the\u2026 [+288 chars]"
     }
   ]
 }

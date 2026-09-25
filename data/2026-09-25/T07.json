@@ -1,7 +1,33 @@
 {
   "status": "ok",
-  "totalResults": 172,
+  "totalResults": 174,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Entrepreneur"
+      },
+      "author": "Anthony Milewski",
+      "title": "The AI Boom Is Creating a New Energy Supply Chain \u2014 and a Major Business Opportunity for Founders",
+      "description": "The AI Energy Crisis Is Creating a Business Opportunity Most Founders Haven't Noticed Yet",
+      "url": "https://www.entrepreneur.com/building-a-business/business-ideas/the-ai-boom-is-creating-a-new-energy-supply-chain-and-a-major-business-opportunity-for-founders",
+      "urlToImage": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/09/ai-energy-supply-chain-0926_g2255935063.jpg?resize=1024,683",
+      "publishedAt": "2026-09-24T15:00:00Z",
+      "content": "Opinions expressed by Entrepreneur contributors are their own.Key Takeaways\r\n<ul><li>AIs next bottleneck may be electricity, not computing power.</li><li>The real startup opportunity is in the messy \u2026 [+9785 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AnOther Magazine"
+      },
+      "author": "Rory Doherty",
+      "title": "Remake: Ross McElwee on the Film He Never Wanted to Make",
+      "description": "Ten years after the death of his son, Adrian, from a fentanyl overdose, Ross McElwee was moved to explore his career-long obsession with turning a lens on friends and family. The resulting film is one of the year\u2019s best",
+      "url": "https://www.anothermag.com/design-living/17494/remake-ross-mcelwee-film-interview-adrian-son-grief",
+      "urlToImage": "https://images-prod.anothermag.com/1200/0-0-1350-900/azure/another-prod/470/6/476945.jpg",
+      "publishedAt": "2026-09-24T14:41:00Z",
+      "content": "September 24, 2026In the opening of Remake, Ross McElwee melancholically pulls back the curtain on the creative process thats made him one of documentary cinemas most singular talents. Although [they\u2026 [+7238 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1236,32 +1262,6 @@
       "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-03/12/thumb/fitandfill/1200X628/1773283221-5036.jpg",
       "publishedAt": "2026-09-23T17:22:02Z",
       "content": "\"We say clearly: No to nuclear weapons, and no to deprivation of nuclear knowledge,\" Iran President Masoud Pezeshkian said.\r\nIran President Masoud Pezeshkian | Image: Bloomberg\r\nBloomberg3 min read L\u2026 [+3007 chars]"
-    },
-    {
-      "source": {
-        "id": "breitbart-news",
-        "name": "Breitbart News"
-      },
-      "author": "John Hayward",
-      "title": "Iran's President Rails at Trump 'Bullying' at U.N.: Iran Is 'the Victim of Terrorism'",
-      "description": "Iranian President Masoud Pezeshkian painted Iran as the \"victim of terrorism\u201d by the United States and Israel in his speech at the U.N.\nThe post Iran\u2019s President Rails at Trump \u2018Bullying\u2019 at U.N.: Iran Is \u2018the Victim of Terrorism\u2019 appeared first on Breitbart.",
-      "url": "https://www.breitbart.com/middle-east/2026/09/23/irans-president-rails-at-trump-bullying-at-u-n-iran-is-victim-terrorism/",
-      "urlToImage": "https://media.breitbart.com/media/2026/09/Masoud-Pezeshkian-640x335.jpg",
-      "publishedAt": "2026-09-23T17:14:40Z",
-      "content": "Iranian President Masoud Pezeshkian painted Iran as \u201cthe victim of terrorism by the United States and Israel in his speech to the U.N. General Assembly (UNGA) on Wednesday. \r\nNaturally, he completely\u2026 [+7369 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wnd.com"
-      },
-      "author": "Bob Unruh",
-      "title": "\u2018Met with immediate hostility\u2019: Iranian president booed during speech at U.N.",
-      "description": "And U.S. delegation walks out when he complains rogue regime only 'defended itself'",
-      "url": "https://www.wnd.com/2026/09/met-immediate-hostility-iranian-president-booed-during-speech/",
-      "urlToImage": "https://www.wnd.com/wp-content/uploads/2025/10/united-nations-assembly-donald-trump-1200x630.jpg",
-      "publishedAt": "2026-09-23T17:06:43Z",
-      "content": "President Donald Trump addresses world officials at the United Nations Headquarters in New York City, Tuesday, Sept. 23, 2025. (Official White House photo by Andrea Hanks)\r\nIran long has been documen\u2026 [+4203 chars]"
     }
   ]
 }

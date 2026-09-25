@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 24,
+  "totalResults": 25,
   "articles": [
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Oliver JJ Lane",
+      "title": "British Anti-Mass-Migration Activist Arrested After Migrant Boat Deflated in English Channel",
+      "description": "Danny Tommo has been arrested in the United Kingdom after he livestreamed himself slashing the inflatable hull of a migrant boat.\nThe post British Anti-Mass-Migration Activist Arrested After Migrant Boat Deflated in English Channel appeared first on Breitbart.",
+      "url": "https://www.breitbart.com/europe/2026/09/24/british-anti-mass-migration-activist-arrested-after-migrant-boat-deflated-in-english-channel/",
+      "urlToImage": "https://media.breitbart.com/media/2026/09/GettyImages-2296630792-e1790261674251-640x335.jpg",
+      "publishedAt": "2026-09-24T14:57:25Z",
+      "content": "Long-time associate of Tommy Robinson, Danny Tommo, has been arrested in the United Kingdom after he livestreamed himself slashing the inflatable hull of a migrant boat to, he said, prevent it from b\u2026 [+3381 chars]"
+    },
     {
       "source": {
         "id": null,

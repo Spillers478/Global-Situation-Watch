@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 37,
+  "totalResults": 38,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Infosecurity Magazine"
+      },
+      "author": "Danny  Palmer",
+      "title": "Emerging Ransomware Gang Uses Backup Destruction Threats to Pressure Victims",
+      "description": "Ransom notes by n0n ransomware claim to take double extortion to a new level of danger for victims",
+      "url": "https://www.infosecurity-magazine.com/news/ransomware-gang-uses-backup/",
+      "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/9720e053-9870-414e-8c70-5433a964dce5.jpg",
+      "publishedAt": "2026-09-24T15:00:00Z",
+      "content": "A newly formed ransomware group has claimed that if its victims dont give into their extortion demands and pay a ransom, that they will destroy their backup infrastructure, in a move which could prev\u2026 [+3032 chars]"
+    },
     {
       "source": {
         "id": null,

@@ -1,66 +1,66 @@
-date,topic_id,topic_label,retrieved,kept_here,moved_out,discarded,displayed,vetted
-2026-09-22,flagship-ru-ua,Russia / Ukraine,98,,,,98,0
-2026-09-22,flagship-ir-il,Iran / Israel / Middle East,100,,,,100,0
-2026-09-22,T01,Military Conflict,5,,,,5,0
-2026-09-22,T02,Humanitarian Crisis,69,,,,69,0
-2026-09-22,T03,Bio/Chemical Attack,11,,,,11,0
-2026-09-22,T04,Infectious Outbreak / Pandemic,3,,,,3,0
-2026-09-22,T05,Political Instability / Coup Risk,70,,,,70,0
-2026-09-22,T06,Mass Uprising / Regime-Threatening Unrest,2,,,,2,0
-2026-09-22,T07,Nuclear Weaponry / Attack,99,,,,99,0
-2026-09-22,T08,VEO / Regional Insecurity,1,,,,1,0
-2026-09-22,T10,Military Modernization,23,,,,23,0
-2026-09-22,T11,Military Exercise,1,,,,1,0
-2026-09-22,T12,Large-Scale Cyber Attack / Internet Blackout,28,,,,28,0
-2026-09-22,T13,Migration / Refugee Crisis,25,,,,25,0
-2026-09-22,T14,Threats to US Embassies / Diplomats,14,,,,14,0
-2026-09-23,flagship-ru-ua,Russia / Ukraine,25,15,7,3,21,1
-2026-09-23,flagship-ir-il,Iran / Israel / Middle East,25,2,0,23,21,1
-2026-09-23,flagship-ir-il-us-lens,Iran / Israel / Middle East — US Media Lens,1,,,,1,0
-2026-09-23,T15,Disaster / Access Denial,12,7,2,3,12,1
-2026-09-23,T01,Military Conflict,13,1,6,6,6,1
-2026-09-23,T02,Humanitarian Crisis,25,7,4,14,13,1
-2026-09-23,T03,Bio/Chemical Attack,22,0,3,19,0,1
-2026-09-23,T04,Infectious Outbreak / Pandemic,10,3,0,7,4,1
-2026-09-23,T05,Political Instability / Coup Risk,25,7,8,10,8,1
-2026-09-23,T06,Mass Uprising / Regime-Threatening Unrest,6,5,1,0,5,1
-2026-09-23,T07,Nuclear Weaponry / Attack,25,0,14,11,0,1
-2026-09-23,T09,American Hostage / Kidnapping,1,0,0,1,0,1
-2026-09-23,T10,Military Modernization,25,8,4,13,12,1
-2026-09-23,T11,Military Exercise,2,2,0,0,3,1
-2026-09-23,T12,Large-Scale Cyber Attack / Internet Blackout,25,18,1,6,19,1
-2026-09-23,T13,Migration / Refugee Crisis,25,7,9,9,9,1
-2026-09-23,T14,Threats to US Embassies / Diplomats,22,0,0,0,22,0
-2026-09-24,flagship-ru-ua,Russia / Ukraine,25,13,7,5,22,1
-2026-09-24,flagship-ir-il,Iran / Israel / Middle East,25,11,3,11,29,1
-2026-09-24,flagship-ir-il-us-lens,Iran / Israel / Middle East — US Media Lens,3,,,,3,0
-2026-09-24,T15,Disaster / Access Denial,5,2,0,3,9,1
-2026-09-24,T01,Military Conflict,9,2,3,4,6,1
-2026-09-24,T02,Humanitarian Crisis,25,6,9,10,7,1
-2026-09-24,T03,Bio/Chemical Attack,25,0,6,19,0,1
-2026-09-24,T04,Infectious Outbreak / Pandemic,9,4,0,5,6,1
-2026-09-24,T05,Political Instability / Coup Risk,25,8,8,9,13,1
-2026-09-24,T06,Mass Uprising / Regime-Threatening Unrest,5,2,1,2,2,1
-2026-09-24,T07,Nuclear Weaponry / Attack,25,0,10,15,2,1
-2026-09-24,T08,VEO / Regional Insecurity,2,2,0,0,8,1
-2026-09-24,T10,Military Modernization,25,10,4,11,16,1
-2026-09-24,T11,Military Exercise,1,1,0,0,1,1
-2026-09-24,T12,Large-Scale Cyber Attack / Internet Blackout,25,9,1,15,10,1
-2026-09-24,T13,Migration / Refugee Crisis,25,5,10,10,7,1
-2026-09-24,T14,Threats to US Embassies / Diplomats,19,0,11,8,0,1
-2026-09-25,flagship-ru-ua,Russia / Ukraine,25,0,0,0,25,0
-2026-09-25,flagship-ir-il,Iran / Israel / Middle East,25,9,1,15,29,1
-2026-09-25,T15,Disaster / Access Denial,4,2,0,2,6,1
-2026-09-25,T01,Military Conflict,10,1,6,3,8,1
-2026-09-25,T02,Humanitarian Crisis,25,9,6,10,9,1
-2026-09-25,T03,Bio/Chemical Attack,17,0,4,13,0,1
-2026-09-25,T04,Infectious Outbreak / Pandemic,12,5,0,7,6,1
-2026-09-25,T05,Political Instability / Coup Risk,25,7,4,14,16,1
-2026-09-25,T06,Mass Uprising / Regime-Threatening Unrest,2,0,2,0,1,1
-2026-09-25,T07,Nuclear Weaponry / Attack,25,4,14,7,4,1
-2026-09-25,T09,American Hostage / Kidnapping,3,2,0,1,2,1
-2026-09-25,T10,Military Modernization,25,13,4,8,18,1
-2026-09-25,T11,Military Exercise,1,1,0,0,1,1
-2026-09-25,T12,Large-Scale Cyber Attack / Internet Blackout,25,18,0,7,19,1
-2026-09-25,T13,Migration / Refugee Crisis,24,6,10,8,8,1
-2026-09-25,T14,Threats to US Embassies / Diplomats,17,0,0,0,17,0
+date,topic_id,topic_label,retrieved,kept_here,moved_out,discarded,unclassified,displayed,vetted,redteam_status
+2026-09-22,flagship-ru-ua,Russia / Ukraine,98,,,,,98,0,not_run
+2026-09-22,flagship-ir-il,Iran / Israel / Middle East,100,,,,,100,0,not_run
+2026-09-22,T01,Military Conflict,5,,,,,5,0,not_run
+2026-09-22,T02,Humanitarian Crisis,69,,,,,69,0,not_run
+2026-09-22,T03,Bio/Chemical Attack,11,,,,,11,0,not_run
+2026-09-22,T04,Infectious Outbreak / Pandemic,3,,,,,3,0,not_run
+2026-09-22,T05,Political Instability / Coup Risk,70,,,,,70,0,not_run
+2026-09-22,T06,Mass Uprising / Regime-Threatening Unrest,2,,,,,2,0,not_run
+2026-09-22,T07,Nuclear Weaponry / Attack,99,,,,,99,0,not_run
+2026-09-22,T08,VEO / Regional Insecurity,1,,,,,1,0,not_run
+2026-09-22,T10,Military Modernization,23,,,,,23,0,not_run
+2026-09-22,T11,Military Exercise,1,,,,,1,0,not_run
+2026-09-22,T12,Large-Scale Cyber Attack / Internet Blackout,28,,,,,28,0,not_run
+2026-09-22,T13,Migration / Refugee Crisis,25,,,,,25,0,not_run
+2026-09-22,T14,Threats to US Embassies / Diplomats,14,,,,,14,0,not_run
+2026-09-23,flagship-ru-ua,Russia / Ukraine,25,15,7,3,0,21,1,ok
+2026-09-23,flagship-ir-il,Iran / Israel / Middle East,25,2,0,23,0,21,1,ok
+2026-09-23,flagship-ir-il-us-lens,Iran / Israel / Middle East — US Media Lens,1,,,,,1,0,not_run
+2026-09-23,T15,Disaster / Access Denial,12,7,2,3,0,12,1,ok
+2026-09-23,T01,Military Conflict,13,1,6,6,0,6,1,ok
+2026-09-23,T02,Humanitarian Crisis,25,7,4,14,0,13,1,ok
+2026-09-23,T03,Bio/Chemical Attack,22,0,3,19,0,0,1,ok
+2026-09-23,T04,Infectious Outbreak / Pandemic,10,3,0,7,0,4,1,ok
+2026-09-23,T05,Political Instability / Coup Risk,25,7,8,10,0,8,1,ok
+2026-09-23,T06,Mass Uprising / Regime-Threatening Unrest,6,5,1,0,0,5,1,ok
+2026-09-23,T07,Nuclear Weaponry / Attack,25,0,14,11,0,0,1,ok
+2026-09-23,T09,American Hostage / Kidnapping,1,0,0,1,0,0,1,ok
+2026-09-23,T10,Military Modernization,25,8,4,13,0,12,1,ok
+2026-09-23,T11,Military Exercise,2,2,0,0,0,3,1,ok
+2026-09-23,T12,Large-Scale Cyber Attack / Internet Blackout,25,18,1,6,0,19,1,ok
+2026-09-23,T13,Migration / Refugee Crisis,25,7,9,9,0,9,1,ok
+2026-09-23,T14,Threats to US Embassies / Diplomats,22,0,0,0,0,22,0,failed
+2026-09-24,flagship-ru-ua,Russia / Ukraine,25,13,7,5,0,22,1,ok
+2026-09-24,flagship-ir-il,Iran / Israel / Middle East,25,11,3,11,0,29,1,ok
+2026-09-24,flagship-ir-il-us-lens,Iran / Israel / Middle East — US Media Lens,3,,,,,3,0,not_run
+2026-09-24,T15,Disaster / Access Denial,5,2,0,3,0,9,1,ok
+2026-09-24,T01,Military Conflict,9,2,3,4,0,6,1,ok
+2026-09-24,T02,Humanitarian Crisis,25,6,9,10,0,7,1,ok
+2026-09-24,T03,Bio/Chemical Attack,25,0,6,19,0,0,1,ok
+2026-09-24,T04,Infectious Outbreak / Pandemic,9,4,0,5,0,6,1,ok
+2026-09-24,T05,Political Instability / Coup Risk,25,8,8,9,0,13,1,ok
+2026-09-24,T06,Mass Uprising / Regime-Threatening Unrest,5,2,1,2,0,2,1,ok
+2026-09-24,T07,Nuclear Weaponry / Attack,25,0,10,15,0,2,1,ok
+2026-09-24,T08,VEO / Regional Insecurity,2,2,0,0,0,8,1,ok
+2026-09-24,T10,Military Modernization,25,10,4,11,0,16,1,ok
+2026-09-24,T11,Military Exercise,1,1,0,0,0,1,1,ok
+2026-09-24,T12,Large-Scale Cyber Attack / Internet Blackout,25,9,1,15,0,10,1,ok
+2026-09-24,T13,Migration / Refugee Crisis,25,5,10,10,0,7,1,ok
+2026-09-24,T14,Threats to US Embassies / Diplomats,19,0,11,8,0,0,1,ok
+2026-09-25,flagship-ru-ua,Russia / Ukraine,25,17,4,4,0,23,1,ok
+2026-09-25,flagship-ir-il,Iran / Israel / Middle East,25,7,0,18,0,26,1,ok
+2026-09-25,T15,Disaster / Access Denial,4,2,0,2,0,4,1,ok
+2026-09-25,T01,Military Conflict,10,5,2,3,0,14,1,ok
+2026-09-25,T02,Humanitarian Crisis,25,8,6,11,0,9,1,ok
+2026-09-25,T03,Bio/Chemical Attack,18,0,4,14,0,0,1,ok
+2026-09-25,T04,Infectious Outbreak / Pandemic,12,4,1,7,0,5,1,ok
+2026-09-25,T05,Political Instability / Coup Risk,25,5,6,14,0,9,1,ok
+2026-09-25,T06,Mass Uprising / Regime-Threatening Unrest,2,0,2,0,0,1,1,ok
+2026-09-25,T07,Nuclear Weaponry / Attack,25,3,14,8,0,3,1,ok
+2026-09-25,T09,American Hostage / Kidnapping,3,2,0,1,0,2,1,ok
+2026-09-25,T10,Military Modernization,25,11,4,10,0,17,1,ok
+2026-09-25,T11,Military Exercise,1,1,0,0,0,1,1,ok
+2026-09-25,T12,Large-Scale Cyber Attack / Internet Blackout,25,17,0,8,0,19,1,ok
+2026-09-25,T13,Migration / Refugee Crisis,25,5,11,9,0,7,1,ok
+2026-09-25,T14,Threats to US Embassies / Diplomats,17,1,4,12,0,1,1,ok

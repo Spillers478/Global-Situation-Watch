@@ -42,7 +42,7 @@
       "urlToImage": "https://images.theconversation.com/files/761998/original/file-20260924-50-dfbne8.jpg?ixlib=rb-4.1.1&rect=0%2C178%2C4000%2C2000&q=45&auto=format&w=1356&h=668&fit=crop",
       "publishedAt": "2026-09-24T13:27:51Z",
       "content": "Donald Trump and Xi Jinping\u2019s Washington summit has been billed as a discussion of major issues surrounding the development and possible regulation of artificial intelligence (AI), as well as trying \u2026 [+6559 chars]",
-      "cocom": "Transregional",
+      "cocom": "USINDOPACOM",
       "_original_topic_id": "T07"
     },
     {
@@ -58,6 +58,21 @@
       "publishedAt": "2026-09-24T12:00:00Z",
       "content": "India - Press Information Bureau\r\nMinistry of Defence\r\n\"India possesses both 'Power of Argument' &amp; 'Argument of Power', will respond in the language best understood by other party\"\r\nOur counter-t\u2026 [+9586 chars]",
       "cocom": "USINDOPACOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Navy W93 Mk7 Program Enters New Phase of Development",
+      "description": "The U.S. Navy's Portfolio Acquisition Executive (PAE) Strategic Systems Programs' (SSP) W93 Mk7 program has entered into the Engineering and Manufacturing Development (EMD) phase of the Defense Acquisition System after achieving Milestone B this year.",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260924-usn01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-24T12:00:00Z",
+      "content": "US Navy\r\n24 September 2026From Shelby Thompson\r\nWASHINGTON NAVY YARD -- The U.S. Navy's Portfolio Acquisition Executive (PAE) Strategic Systems Programs' (SSP) W93 Mk7 program has entered into the En\u2026 [+2437 chars]",
+      "cocom": "USNORTHCOM",
       "_original_topic_id": "T07"
     },
     {
@@ -176,20 +191,6 @@
     {
       "source": {
         "id": null,
-        "name": "CNBC"
-      },
-      "author": "Luke Fountain",
-      "title": "Trump faces Xi as strains with allies complicate U.S. pressure on China",
-      "description": "As Trump prepares to meet Xi, strains with U.S. allies are complicating Washington\u2019s efforts to marshal pressure against an increasingly resilient China.",
-      "url": "https://www.cnbc.com/2026/09/23/trump-xi-china-summit-allies.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108364200-1789620964655-gettyimages-2294377623-AA_12092026_2948255.jpeg?v=1789621003&w=1920&h=1080",
-      "publishedAt": "2026-09-23T15:07:11Z",
-      "content": "President Donald J. Trump during an announcement on healthcare in the Oval Office, at the White House, in Washington, Sept. 18, 2026.\r\nPresident Donald Trump has spent years trying to squeeze China i\u2026 [+9589 chars]",
-      "cocom": "Transregional"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "The Diplomat"
       },
       "author": "Denny Roy",
@@ -200,20 +201,6 @@
       "publishedAt": "2026-09-23T14:08:00Z",
       "content": "Under the longstanding policy of strategic ambiguity, the U.S. government has refused to say ahead of time whether or not it would send American forces to help defend Taiwan against an attack from Ch\u2026 [+17536 chars]",
       "cocom": "USINDOPACOM"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Piyush Shukla",
-      "title": "Russia's Geran drones become one of the most dangerous. Speed, reinforced bodies and less reaction time; the new drone that is changing warfare",
-      "description": "For a long time, the sound of a Shahed-136 gave people in Ukraine something they badly needed, a little warning. The Russian-built Geran-2 used a piston engine and moved at roughly 180 km/h, slow enough for air-defense crews to track and engage it. The newer \u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/us/russias-geran-drones-become-one-of-the-most-dangerous-speed-reinforced-bodies-and-less-reaction-time-the-new-drone-that-is-changing-warfare/articleshow/134435575.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134436199,width-1200,height-630,imgsize-78310,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-23T13:30:04Z",
-      "content": "The sound of a Russian drone approaching a Ukrainian city once came with a little more time. The older Shahed-type aircraft were slow, usually cruising at around 180 km/h. That gave air-defense teams\u2026 [+11349 chars]",
-      "cocom": "USEUCOM"
     },
     {
       "source": {
