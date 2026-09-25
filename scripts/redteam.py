@@ -44,6 +44,21 @@ reassignment still works exactly as before; that's a small, fixed
 per-call overhead (roughly +700 input tokens/call), not a per-article
 one -- see README "Cost" for the actual delta this made.
 
+-- Hardening against truncation / bad output (added 2026-09-25) --
+
+The per-topic split contained failures but didn't prevent them: on
+09-23 (T14) and 09-25 (flagship-ru-ua, T14) calls hit max_tokens having
+emitted only ~500 tokens of visible text, so a topic was still lost whole.
+Now: (1) output is one "id|topic|COCOM" line per article instead of JSON,
+so a cut-off response still yields every complete line before the cut and
+there is no JSON syntax to break; (2) topics are sent in chunks of
+MAX_ARTICLES_PER_CALL; (3) only articles still without a decision are
+retried, up to MAX_ATTEMPTS; (4) a topic counts as failed only if NOTHING
+was classified -- a partial result is used and the leftovers stay in place
+(reported as "unclassified" and listed under "incomplete" in _errors.json);
+(5) every attempt logs stop_reason, output_tokens and content-block types
+so a repeat failure identifies its cause from the repo.
+
 -- Failure visibility --
 
 A topic whose call fails writes nothing to data/<date>/redteam/, so
@@ -103,18 +118,35 @@ MODEL = "claude-sonnet-5"
 # file's docstring describes.
 MAX_ARTICLES_PER_TOPIC = 25
 
-# Each classification is a short JSON object, roughly 35-45 tokens
-# ("T02#12": {"topic": "T02", "cocom": "USEUCOM"}, plus punctuation/
-# whitespace). MAX_ARTICLES_PER_TOPIC articles is at most ~1,100 tokens
-# of required output; this leaves nearly 4x headroom. Unlike the old
-# single-call design, raising MAX_ARTICLES_PER_TOPIC here has no cross-
-# topic effect to worry about -- each call is independent.
-MAX_TOKENS_PER_CALL = 4096
+# Articles per API call. A topic with more than this is split into chunks,
+# so no single call's output can grow with topic size.
+MAX_ARTICLES_PER_CALL = 15
 
-# Small pacing delay between each topic's call -- cheap insurance against
-# bursting the Anthropic API's rate limits with up to ~17 calls in quick
-# succession, same spirit as the pauses in fetch_news.py/fetch_newsdata.py.
+# Output ceiling per call. The required output is now one short line per
+# article ("3|T02|USEUCOM", ~10 tokens), so 15 articles need ~150 tokens.
+# The ceiling is deliberately ~50x that: on 2026-09-23 and 2026-09-25 calls
+# for 17-25 articles hit stop_reason "max_tokens" at 4096 tokens while
+# having emitted only ~500 tokens' worth of visible text, i.e. most of the
+# budget was going somewhere other than the answer (extended thinking is
+# the likely culprit; _errors.json now records block types and token usage
+# so the next failure says for certain). Generous headroom makes that
+# harmless whatever the cause.
+MAX_TOKENS_PER_CALL = 8192
+
+# A topic's call is retried this many times in total (counting the first),
+# each retry sending ONLY the articles still without a classification.
+MAX_ATTEMPTS = 3
+
+# Small pacing delay between each call -- cheap insurance against
+# bursting the Anthropic API's rate limits, same spirit as the pauses in
+# fetch_news.py/fetch_newsdata.py. Retries wait RETRY_PAUSE_SECONDS times
+# the attempt number.
 REQUEST_PAUSE_SECONDS = 0.5
+RETRY_PAUSE_SECONDS = 3.0
+
+# The SDK's own built-in retry (rate limits, 5xx, overloaded) on top of the
+# per-article retry loop above. Default is 2.
+SDK_MAX_RETRIES = 4
 
 VALID_COCOMS = {
     "USEUCOM", "USCENTCOM", "USINDOPACOM", "USAFRICOM", "USSOUTHCOM",
@@ -176,17 +208,21 @@ _COCOM_LIST = (
 )
 
 
-def build_prompt(topic_id, arts, topic_defs):
-    """One topic's articles per call -- see module docstring for why.
-    topic_defs (the full taxonomy) is still passed in full so the model
-    can reassign an article to any other topic, not just topic_id."""
+def build_prompt(topic_id, indexed_arts, topic_defs):
+    """One topic's articles (or one chunk of them) per call -- see module
+    docstring for why. indexed_arts is [(index, article), ...] where index
+    is the article's position in the topic's full list, so a retried
+    subset keeps the same ids. topic_defs (the full taxonomy) is still
+    passed in full so the model can reassign an article to any other
+    topic, not just topic_id."""
     topic_list = "\n".join(f"- {tid}: {label}" for tid, label in topic_defs)
 
     lines = [f"### Retrieved under {topic_id}"]
-    for i, a in enumerate(arts):
+    for i, a in indexed_arts:
         title = (a.get("title") or "").strip()
         desc = (a.get("description") or "").strip()
-        lines.append(f'{topic_id}#{i} :: {title} :: {desc}')
+        lines.append(f'{i} :: {title} :: {desc}')
+    first_id = indexed_arts[0][0] if indexed_arts else 0
 
     return f"""You are red-teaming the retrieval output of a keyword-search-based military/geopolitical news taxonomy, before it gets summarized and published. The retrieval is boolean keyword search, not semantic -- it makes real mistakes: false positives (a word like "offensive" matching an NFL recap), and articles that are genuinely military/geopolitical news but landed under the wrong topic in the taxonomy.
 
@@ -204,18 +240,120 @@ Articles (format: <id> :: title :: description):
 
 Be conservative about discarding: only set "topic" to null when the article clearly has no genuine military/security/geopolitical relevance, not merely because it's a slow day for that specific topic. When genuinely unsure between two adjacent topics, pick the closer one rather than discarding.
 
-Return ONLY a JSON object, no markdown fences, no commentary, in exactly this shape (one entry per article id, using the ids as given, e.g. "{topic_id}#0"):
-{{"classifications": {{"{topic_id}#0": {{"topic": "{topic_id}", "cocom": "USEUCOM"}}}}}}
+Answer with exactly one line per article and nothing else -- no reasoning, no commentary, no markdown, no JSON. Each line is the article's id, the topic id (or a single "-" to discard), and the COCOM, separated by "|":
+
+<id>|<topic id or ->|<COCOM>
+
+Examples (for illustration only):
+{first_id}|{topic_id}|USEUCOM
+{first_id + 1}|-
+{first_id + 2}|T07|Transregional
+
+A discarded article's line is just "<id>|-". Use each COCOM name exactly as written above.
 """
 
 
-def parse_json_response(text):
-    text = text.strip()
-    if text.startswith("```"):
-        text = text.split("```", 2)[1]
-        if text.startswith("json"):
-            text = text[4:]
-    return json.loads(text.strip())
+def parse_lines(text, valid_topics, wanted_ids, truncated=False):
+    """Parses the one-line-per-article format into {index: {"topic", "cocom"}}.
+
+    Line-oriented on purpose: unlike the JSON this replaced, a response cut
+    off partway still yields every complete line before the cut, so a
+    truncation costs one retry of the missing articles instead of the whole
+    topic. When truncated is True the final line is dropped, since it may
+    be cut mid-token ("12|T0" or "12|T02|USEU"). Lines that don't parse,
+    name an unknown topic, or refer to an id that wasn't asked for are
+    skipped -- those articles simply stay pending and get retried.
+
+    valid_topics: {lowercase topic id: canonical topic id}."""
+    cocoms = {c.lower(): c for c in VALID_COCOMS}
+    raw_lines = [ln.strip() for ln in text.splitlines() if ln.strip()]
+    if truncated and raw_lines:
+        raw_lines = raw_lines[:-1]
+
+    out = {}
+    for ln in raw_lines:
+        ln = ln.strip("`").strip()
+        parts = [p.strip() for p in ln.split("|")]
+        if len(parts) < 2 or not parts[0].isdigit():
+            continue
+        idx = int(parts[0])
+        if idx not in wanted_ids:
+            continue
+        topic_tok = parts[1].strip("`\"' ")
+        if topic_tok.lower() in ("-", "null", "none", ""):
+            out[idx] = {"topic": None, "cocom": None}
+            continue
+        topic = valid_topics.get(topic_tok.lower())
+        if topic is None:
+            continue
+        cocom = cocoms.get(parts[2].strip("`\"' ").lower()) if len(parts) > 2 else None
+        out[idx] = {"topic": topic, "cocom": cocom}
+    return out
+
+
+def _response_diagnostics(response):
+    """What we can tell about a response for _errors.json: how it stopped,
+    how many tokens it used, and what kinds of content blocks it held.
+    A response that stopped on max_tokens with only a little visible text
+    and a "thinking" block is the signature of a token budget being spent
+    on reasoning rather than the answer."""
+    usage = getattr(response, "usage", None)
+    return {
+        "stop_reason": getattr(response, "stop_reason", None),
+        "output_tokens": getattr(usage, "output_tokens", None),
+        "block_types": [getattr(b, "type", "?") for b in (getattr(response, "content", None) or [])],
+    }
+
+
+def classify_topic(client, topic_id, arts, topic_defs):
+    """Classifies one topic's articles, retrying only what's still missing.
+
+    Returns (classifications, unresolved_indices, attempt_log):
+      classifications: {"<topic_id>#<i>": {"topic": ..., "cocom": ...}}
+      unresolved_indices: articles with no decision after MAX_ATTEMPTS
+      attempt_log: one dict per API call (chunk, outcome, diagnostics) --
+        written to _errors.json when anything was unresolved.
+    A topic only counts as failed if NOTHING was classified; a partial
+    result is used, with the leftovers kept in place and reported as
+    unclassified (see apply_classifications)."""
+    valid_topics = {tid.lower(): tid for tid, _ in topic_defs}
+    results = {}
+    log = []
+    pending = list(range(len(arts)))
+
+    for attempt in range(1, MAX_ATTEMPTS + 1):
+        if not pending:
+            break
+        if attempt > 1:
+            time.sleep(RETRY_PAUSE_SECONDS * (attempt - 1))
+        for start in range(0, len(pending), MAX_ARTICLES_PER_CALL):
+            chunk = pending[start:start + MAX_ARTICLES_PER_CALL]
+            prompt = build_prompt(topic_id, [(i, arts[i]) for i in chunk], topic_defs)
+            entry = {"attempt": attempt, "requested": len(chunk)}
+            response = None
+            try:
+                response = client.messages.create(
+                    model=MODEL,
+                    max_tokens=MAX_TOKENS_PER_CALL,
+                    messages=[{"role": "user", "content": prompt}],
+                )
+                text = "".join(b.text for b in response.content if getattr(b, "type", None) == "text")
+                diag = _response_diagnostics(response)
+                parsed = parse_lines(text, valid_topics, set(chunk),
+                                     truncated=diag["stop_reason"] == "max_tokens")
+                for i, decision in parsed.items():
+                    results[f"{topic_id}#{i}"] = decision
+                entry.update(diag)
+                entry["parsed"] = len(parsed)
+            except Exception as e:  # API/network error after the SDK's own retries
+                entry["error"] = f"{type(e).__name__}: {e}"
+                if response is not None:
+                    entry.update(_response_diagnostics(response))
+            log.append(entry)
+            time.sleep(REQUEST_PAUSE_SECONDS)
+        pending = [i for i in pending if f"{topic_id}#{i}" not in results]
+
+    return results, pending, log
 
 
 def apply_classifications(by_topic, classifications, successful_topics):
@@ -234,7 +372,8 @@ def apply_classifications(by_topic, classifications, successful_topics):
     report = {"topics": {}, "totals": {"kept": 0, "reassigned": 0, "discarded": 0, "unclassified": 0}}
 
     for topic_id, arts in by_topic.items():
-        report["topics"][topic_id] = {"retrieved": len(arts), "kept_here": 0, "moved_out": 0, "discarded": 0}
+        report["topics"][topic_id] = {"retrieved": len(arts), "kept_here": 0, "moved_out": 0,
+                                      "discarded": 0, "unclassified": 0}
 
     for topic_id, arts in by_topic.items():
         if topic_id not in successful_topics:
@@ -248,6 +387,7 @@ def apply_classifications(by_topic, classifications, successful_topics):
                 # Model didn't return a decision for this one -- fail safe by
                 # keeping it where it was rather than silently losing data.
                 final_by_topic.setdefault(topic_id, []).append(article)
+                report["topics"][topic_id]["unclassified"] += 1
                 report["totals"]["unclassified"] += 1
                 continue
 
@@ -311,47 +451,42 @@ def main():
         print("No articles retrieved today -- nothing to red-team.", file=sys.stderr)
         return
 
-    client = anthropic.Anthropic(api_key=api_key)
+    client = anthropic.Anthropic(api_key=api_key, max_retries=SDK_MAX_RETRIES)
 
     all_classifications = {}
     successful_topics = set()
-    failures = []
+    failures = []       # topics where NOTHING could be classified
+    incomplete = []     # topics that succeeded but left some articles unclassified
 
     total_articles = sum(len(v) for v in by_topic.values())
     print(f"Red-teaming {total_articles} articles across {len(by_topic)} topics with {MODEL}, "
-          f"one call per topic...")
+          f"in chunks of {MAX_ARTICLES_PER_CALL}, up to {MAX_ATTEMPTS} attempts each...")
 
     for topic_id, arts in by_topic.items():
         print(f"  {topic_id}: {len(arts)} articles...")
-        prompt = build_prompt(topic_id, arts, topic_defs)
-        response = None
-        try:
-            response = client.messages.create(
-                model=MODEL,
-                max_tokens=MAX_TOKENS_PER_CALL,
-                messages=[{"role": "user", "content": prompt}],
-            )
-            text = "".join(block.text for block in response.content if block.type == "text")
-            result = parse_json_response(text)
-            all_classifications.update(result.get("classifications") or {})
+        results, unresolved, log = classify_topic(client, topic_id, arts, topic_defs)
+        all_classifications.update(results)
+
+        if results:
             successful_topics.add(topic_id)
-        except Exception as e:
-            stop_reason = getattr(response, "stop_reason", None)
-            note = ""
-            if stop_reason == "max_tokens":
-                note = (" -- response was truncated by max_tokens; if this topic's article count "
-                        "regularly needs more than MAX_TOKENS_PER_CALL, raise it")
-            print(f"    FAILED: {e}{note}", file=sys.stderr)
+            if unresolved:
+                print(f"    {len(unresolved)}/{len(arts)} left unclassified after "
+                      f"{MAX_ATTEMPTS} attempts (kept in place).", file=sys.stderr)
+                incomplete.append({"topic": topic_id, "articles": len(arts),
+                                   "unclassified": len(unresolved), "attempts": log})
+        else:
+            print(f"    FAILED: no classifications after {MAX_ATTEMPTS} attempts "
+                  f"-- see _errors.json", file=sys.stderr)
             failures.append({
                 "topic": topic_id,
                 "articles": len(arts),
-                "error": str(e),
-                "stop_reason": stop_reason,
+                "error": "no classifications obtained after all attempts",
+                "attempts": log,
             })
-        time.sleep(REQUEST_PAUSE_SECONDS)
 
     final_by_topic, report = apply_classifications(by_topic, all_classifications, successful_topics)
     report["failed_topics"] = sorted(f["topic"] for f in failures)
+    report["incomplete_topics"] = sorted(i["topic"] for i in incomplete)
 
     out_dir.mkdir(parents=True, exist_ok=True)
     for topic_id, arts in final_by_topic.items():
@@ -359,9 +494,9 @@ def main():
             json.dump({"articles": arts}, f, indent=2)
     with open(out_dir / "_report.json", "w") as f:
         json.dump(report, f, indent=2)
-    if failures:
+    if failures or incomplete:
         with open(out_dir / "_errors.json", "w") as f:
-            json.dump({"failures": failures}, f, indent=2)
+            json.dump({"failures": failures, "incomplete": incomplete}, f, indent=2)
 
     t = report["totals"]
     print(

@@ -13,8 +13,11 @@ docs/archive/index.html     Dated list of every briefing with its BLUF and
                             article count.
 data/history/topic_stats.csv
                             One row per (date, topic): retrieved / kept /
-                            moved_out / discarded / displayed counts. This
-                            is the "how loud was topic X this month" table.
+                            moved_out / discarded / unclassified / displayed
+                            counts plus redteam_status (ok / incomplete /
+                            failed / not_run) -- filter on ok when trending,
+                            since failed/not_run rows show raw retrieval.
+                            This is the "how loud was topic X" table.
 data/history/articles-YYYY-MM.csv
                             One row per article shown on that day's page
                             (post red-team), with topic, source, COCOM and
@@ -47,7 +50,8 @@ HISTORY = DATA / "history"
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
 STATS_FIELDS = ["date", "topic_id", "topic_label", "retrieved", "kept_here",
-                "moved_out", "discarded", "displayed", "vetted"]
+                "moved_out", "discarded", "unclassified", "displayed", "vetted",
+                "redteam_status"]
 ARTICLE_FIELDS = ["date", "topic_id", "topic_label", "title", "source",
                   "published_at", "cocom", "reassigned_from", "url"]
 
@@ -82,6 +86,7 @@ def collect(date):
     report = load_json(data_dir / "redteam" / "_report.json") or {}
     report_topics = report.get("topics") or {}
     failed = set(report.get("failed_topics") or [])
+    incomplete = set(report.get("incomplete_topics") or [])
 
     stat_rows, article_rows = [], []
     for topic_id, label in topic_list():
@@ -92,14 +97,27 @@ def collect(date):
         if rt is None and raw_count == 0 and not shown:
             continue  # topic didn't exist / retrieved nothing that day
         vetted = rt is not None and topic_id not in failed
+        # ok = fully classified; incomplete = some articles left unclassified
+        # (kept in place); failed = nothing classified, page showed raw
+        # retrieval; not_run = no red-team pass that day (or no data for it).
+        if rt is None:
+            status = "not_run"
+        elif topic_id in failed:
+            status = "failed"
+        elif topic_id in incomplete or rt.get("unclassified"):
+            status = "incomplete"
+        else:
+            status = "ok"
         stat_rows.append({
             "date": date, "topic_id": topic_id, "topic_label": label,
             "retrieved": rt["retrieved"] if rt else raw_count,
             "kept_here": rt["kept_here"] if rt else "",
             "moved_out": rt["moved_out"] if rt else "",
             "discarded": rt["discarded"] if rt else "",
+            "unclassified": rt.get("unclassified", 0) if rt else "",
             "displayed": len(shown),
             "vetted": int(vetted),
+            "redteam_status": status,
         })
         for a in shown:
             article_rows.append({
