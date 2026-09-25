@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Ian Hanchett",
+      "title": "Bessent: Iran Goal 'Can Be' Regime Collapse, Uprising, or Deal",
+      "description": "On Wednesday\u2019s broadcast of the Fox News Channel\u2019s \u201cSpecial Report,\u201d Treasury Secretary Scott Bessent said that the goal with Iran \u201ccan be one of three states of the world:\u201d The members of the regime turning on each other, an uprising,\nThe post Bessent: Iran \u2026",
+      "url": "https://www.breitbart.com/clips/2026/09/23/bessent-iran-goal-can-be-regime-collapse-uprising-or-deal/",
+      "urlToImage": "https://media.breitbart.com/media/2026/09/P1124180-640x335.jpg",
+      "publishedAt": "2026-09-24T03:58:54Z",
+      "content": "On Wednesday\u2019s broadcast of the Fox News Channel\u2019s \u201cSpecial Report,\u201d Treasury Secretary Scott Bessent said that the goal with Iran \u201ccan be one of three states of the world:\u201d The members of the regime\u2026 [+1073 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wnd.com"
+      },
+      "author": "The Center Square",
+      "title": "\u2018Shame on you for inciting riots\u2019: Netanhayu vows to rip Mamdani in U.N. speech",
+      "description": "After NYCmayor threatened to have Israeli prime ministered arrested",
+      "url": "https://www.wnd.com/2026/09/shame-you-inciting-riots-netanhayu-vows-rip-mamdani/",
+      "urlToImage": "https://www.wnd.com/wp-content/uploads/2025/10/donald-trump-benjamin-netanyahu-shaking-clasping-hands-1200x630.jpg",
+      "publishedAt": "2026-09-23T20:50:46Z",
+      "content": "President Donald Trump and Israeli Prime Minister Benjamin Netanyahu shake hands after joint press conference announcing the U.S. peace plan for Gaza, Monday, Sept. 29, 2025, in the State Dining Room\u2026 [+3086 chars]"
+    }
+  ]
+}

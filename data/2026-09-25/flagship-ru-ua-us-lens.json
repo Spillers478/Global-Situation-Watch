@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "totalResults": 1,
+  "articles": [
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Melania Trump\u2019s home-country leader rips UN \u2018double standards\u2019 as Trump promise is revealed - Fox News",
+      "description": "Janez Jan\u0161a accused the United Nations of double standards on Gaza and Ukraine, and revealed Trump promised to visit Melania Trump's homeland.",
+      "url": "https://www.foxnews.com/world/melania-trumps-home-country-leader-rips-un-double-standards-trump-promise-revealed",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/trump-melania-slovenia-pm.gif",
+      "publishedAt": "2026-09-24T10:00:21Z",
+      "content": "UNITED NATIONS - Slovenian Prime Minister Janez Jana accused the United Nations of applying double standards to global conflicts, arguing that the international community's focus on Gaza has overshad\u2026 [+4742 chars]"
+    }
+  ]
+}
