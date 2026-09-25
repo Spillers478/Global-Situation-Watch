@@ -101,11 +101,31 @@ def rank_articles(articles):
     return sorted(articles, key=lambda a: 0 if source_name(a) in TRUSTED_SOURCES else 1)
 
 
+def _redteam_vetted_to_empty(data_dir, key):
+    """redteam.py writes no <topic>.json when every retrieved article was
+    discarded or moved to another topic, so "file missing" alone can't tell
+    "red team ran and kept nothing here" from "red team never ran / this
+    topic's call failed". _report.json can: a topic listed there and not in
+    failed_topics was vetted successfully. Without this check, a fully
+    filtered topic fell back to its raw, unvetted retrieval."""
+    report_path = data_dir / "redteam" / "_report.json"
+    if not report_path.exists():
+        return False
+    try:
+        with open(report_path) as f:
+            report = json.load(f)
+    except (OSError, ValueError):
+        return False
+    return key in (report.get("topics") or {}) and key not in (report.get("failed_topics") or [])
+
+
 def load_articles(data_dir, key):
     """Prefers the red-teamed article set for this topic (data_dir/redteam/
     <key>.json) when redteam.py has produced it, falling back to the raw
     retrieval (data_dir/<key>.json) otherwise -- see redteam.py."""
     redteam_path = data_dir / "redteam" / f"{key}.json"
+    if not redteam_path.exists() and _redteam_vetted_to_empty(data_dir, key):
+        return []
     path = redteam_path if redteam_path.exists() else data_dir / f"{key}.json"
     if not path.exists():
         return []
@@ -209,13 +229,9 @@ def load_synthesis(data_dir):
         return json.load(f)
 
 
-def main():
-    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    data_dir = ROOT / "data" / today
-    if not data_dir.exists():
-        print(f"No data directory for {today} -- run fetch_news.py first.", file=sys.stderr)
-        sys.exit(1)
-
+def build_page(date_str, data_dir, archive=False):
+    """Renders the full briefing page for data_dir as an HTML string.
+    archive=True adjusts the header links for a page living in docs/archive/."""
     synthesis = load_synthesis(data_dir)
     topic_narratives = synthesis.get("topics") or {}
     bluf = synthesis.get("bluf")
@@ -262,14 +278,33 @@ def main():
     <p>{escape(bluf)}</p>
   </section>"""
 
-    html = TEMPLATE.format(date=today, nav=nav_html, bluf=bluf_html, sections="\n".join(sections))
+    if archive:
+        links = '<a href="index.html">All briefings</a> &middot; <a href="../index.html">Latest</a>'
+    else:
+        links = '<a href="archive/index.html">Archive</a>'
+
+    return TEMPLATE.format(date=date_str, nav=nav_html, bluf=bluf_html,
+                           sections="\n".join(sections), links=links)
+
+
+def main():
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    data_dir = ROOT / "data" / today
+    if not data_dir.exists():
+        print(f"No data directory for {today} -- run fetch_news.py first.", file=sys.stderr)
+        sys.exit(1)
 
     docs_dir = ROOT / "docs"
-    docs_dir.mkdir(exist_ok=True)
-    with open(docs_dir / "index.html", "w") as f:
-        f.write(html)
+    (docs_dir / "archive").mkdir(parents=True, exist_ok=True)
 
-    print(f"Wrote {docs_dir / 'index.html'} for {today}")
+    with open(docs_dir / "index.html", "w") as f:
+        f.write(build_page(today, data_dir))
+    # Same page frozen under its date. Rewritten on every run of the same UTC
+    # day (so a manual re-run replaces it) and never touched on later days.
+    with open(docs_dir / "archive" / f"{today}.html", "w") as f:
+        f.write(build_page(today, data_dir, archive=True))
+
+    print(f"Wrote {docs_dir / 'index.html'} and archive/{today}.html for {today}")
 
 
 TEMPLATE = """<!DOCTYPE html>
@@ -313,6 +348,8 @@ TEMPLATE = """<!DOCTYPE html>
     margin: 0;
     font-size: 0.9rem;
   }}
+  header p a {{ color: var(--accent); text-decoration: none; }}
+  header p a:hover {{ text-decoration: underline; }}
   main {{
     max-width: 860px;
     margin: 0 auto;
@@ -455,7 +492,7 @@ TEMPLATE = """<!DOCTYPE html>
 <body>
 <header>
   <h1>Global Situation Watch</h1>
-  <p>{date}</p>
+  <p>{date} &middot; {links}</p>
 </header>
 {nav}
 <main>

@@ -61,6 +61,14 @@ jobs:
       - name: Build briefing page
         run: python scripts/build_brief.py
 
+      # Archive: dated copy of each page, archive index, and the flat CSVs
+      # under data/history/ for month-over-month trend work. Derived
+      # entirely from data/<date>/, so it's safe to fail without affecting
+      # the live page.
+      - name: Build archive index + trend CSVs
+        continue-on-error: true
+        run: python scripts/archive.py
+
       # if: always() so whatever data *was* fetched gets committed even if
       # a step above failed outright -- fetched articles live only in the
       # runner's ephemeral workspace until this step saves them, so a
