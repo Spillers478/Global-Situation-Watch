@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "totalResults": 1,
+  "articles": [
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "gshaw@businessinsider.com (Gabbi Shaw)",
+      "title": "Jon Hamm, 55, says he's taking a year off work as he prepares to become a first-time dad",
+      "description": "Jon Hamm said he is planning to pause his acting career in 2027 to focus on family life after his wife gives birth to their first baby.",
+      "url": "https://www.businessinsider.com/jon-hamm-taking-year-off-paternity-leave-2026-9#article",
+      "urlToImage": "https://i.insider.com/6ab56e40d15f8a572974a3ed?width=1200&format=jpeg",
+      "publishedAt": "2026-09-24T19:54:46Z",
+      "content": "You've been seeing a lot of Jon Hamm lately, but don't take it for granted.\r\nThe \"Your Friends &amp; Neighbors\" star, 55, appeared on Andy Cohen's SiriusXM show, \"Andy Cohen Live,\" on Thursday and di\u2026 [+1711 chars]"
+    }
+  ]
+}

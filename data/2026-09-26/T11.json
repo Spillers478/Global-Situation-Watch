@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Pranjal Pandey",
+      "title": "14 Kazakh military personnel killed during naval exercise, five naval officers detained over negligence suspicion",
+      "description": "In a heartbreaking turn of events, 14 servicemen from Kazakhstan tragically perished during a naval exercise hindered by harsh weather conditions. In the aftermath, five defense officials were detained over alleged negligence regarding navigation protocols. R\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/14-kazakh-military-personnel-killed-during-naval-exercise-five-naval-officers-detained-over-negligence-suspicion/articleshow/134481976.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134482892,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-25T10:47:21Z",
+      "content": "Follow Us On Social Media\r\nCalifornia crews digging 12 feet below an Oceanside infrastructure project uncovered limb bones, ribs and fragments that paleontologists say may belong to a thunder beast u\u2026 [+1879 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KPBS"
+      },
+      "author": "City News Service",
+      "title": "Preliminary report details 'erratic' maneuvers before fatal crash at Montgomery-Gibbs Airport",
+      "description": "A final report on the accident will be completed within 12 to 24 months, the National Transportation Safety Board said.",
+      "url": "https://www.kpbs.org/news/public-safety/2026/09/24/preliminary-report-details-erratic-maneuvers-before-fatal-crash-at-montgomery-gibbs-airport",
+      "urlToImage": "https://cdn.kpbs.org/dims4/default/29f0e5b/2147483647/strip/true/crop/2048x1075+0+109/resize/1200x630!/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.us-west-2.amazonaws.com%2Fcd%2Fb2%2Fd7f9fa1d4665bdf2c29799164511%2Fsdfd-montgomery-field-crash.jpg",
+      "publishedAt": "2026-09-24T23:15:45Z",
+      "content": "A light airplane that crashed and burst into flames at Montgomery-Gibbs Executive Airport on Labor Day, killing the two men aboard, had been flying \"very erratically\" prior to plunging to the ground,\u2026 [+2480 chars]"
+    }
+  ]
+}

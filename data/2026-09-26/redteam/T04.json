@@ -1,0 +1,76 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "Lice Movono and Kyle Evans",
+      "title": "Fiji's HIV epidemic is surging and babies are paying the price",
+      "description": "Fiji has free testing and treatment to prevent mothers passing HIV to their babies. Last year, 59 babies were infected anyway, and 18 died before they turned one.",
+      "url": "https://www.abc.net.au/news/2026-09-25/babies-pay-price-as-hiv-epidemic-surges-in-fiji/107168510",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/d134bcf555a1f32b8d24fc233df7bec0?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-09-24T21:00:44Z",
+      "content": "Berenadeta* was 23 when she tested positive for HIV.\r\nShe had lost weight and discovered boils that wouldn't go away.\u00a0\r\nShe suspected she'd picked up an infection, one that was likely sexually transm\u2026 [+7768 chars]",
+      "cocom": "USINDOPACOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nvidia.com"
+      },
+      "author": "Anthony Costa",
+      "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
+      "description": "When COVID-19 emerged, scientists had a crucial advantage: Decades of prior research on coronaviruses meant they understood the virus\u2019 key proteins well enough to design vaccines in record time. The next pandemic may not offer the same head start.\u00a0 To help im\u2026",
+      "url": "https://blogs.nvidia.com/blog/open-protein-dataset/",
+      "urlToImage": "https://blogs.nvidia.com/wp-content/uploads/2026/09/AF-0000000212056767-master-black-background-scaled.png",
+      "publishedAt": "2026-09-24T14:00:50Z",
+      "content": "When COVID-19 emerged, scientists had a crucial advantage: Decades of prior research on coronaviruses meant they understood the virus key proteins well enough to design vaccines in record time. The n\u2026 [+5542 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNA"
+      },
+      "author": null,
+      "title": "Singapore to support mRNA flu vaccine pilot to strengthen pandemic preparedness",
+      "description": "The initiative is part of Singapore's efforts to build adaptable vaccine capabilities, said Health Minister Ong Ye Kung.",
+      "url": "https://www.channelnewsasia.com/singapore/mrna-flu-vaccine-pilot-pandemic-ebola-ong-ye-kung-6407351",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--oyyL5jep--/c_crop,h_1125,w_2000,x_0,y_2/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/24/ong_ye_kung.jpg?itok=Ncp33fCV",
+      "publishedAt": "2026-09-24T07:42:37Z",
+      "content": "Should regional efforts stall during an emergency, Singapore could make a \"focused contribution\" together with its partners, Mr Ong said.\r\nHe outlined several areas, one being a vigilant global surve\u2026 [+3004 chars]",
+      "cocom": "USINDOPACOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "Hillsborough, Pasco and Pinellas counties issue states of emergency over dengue fever - Tampa Bay Times",
+      "description": "Hillsborough, Pasco and Pinellas counties issue states of emergency over dengue feverTampa Bay Times Hillsborough, Pinellas, Pasco counties issue local state of emergency in response to dengue feverBay News 9 Hillsborough County declares state of emergency as\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185859966",
+      "urlToImage": null,
+      "publishedAt": "2026-09-25T09:12:16Z",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+      "cocom": "USNORTHCOM",
+      "_original_topic_id": "T05"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "Hillsborough County declares state of emergency as dengue fever cases reach 170 - WFLA",
+      "description": "Hillsborough County declares state of emergency as dengue fever cases reach 170WFLA Pinellas joins Pasco, Hillsborough in declaring state of emergency over dengue feverWFLA Dengue cases keep climbing in Florida. This is how to protect yourselfSarasota Herald-\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185854949",
+      "urlToImage": null,
+      "publishedAt": "2026-09-24T22:32:42Z",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+      "cocom": "USNORTHCOM",
+      "_original_topic_id": "T05"
+    }
+  ]
+}

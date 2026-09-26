@@ -1,0 +1,33 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "No action taken against Iranian man who tried to enter nuclear base",
+      "description": "The 34-year-old was  arrested in March after trying to access the Faslane base in Argyll and Bute, home to the Royal Navy's nuclear submarine fleet.",
+      "url": "https://www.bbc.co.uk/news/articles/c64gjv1jg9qwo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d870/live/e77e1df0-b8cb-11f1-ad1f-538855f30ba1.jpg",
+      "publishedAt": "2026-09-25T10:46:25Z",
+      "content": "The man had been charged, but was later released pending further inquiries without appearing in court.\r\nFaslane, on the Gare Loch about 25 miles (40km) north-west of Glasgow, is the home of the Royal\u2026 [+703 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "flagship-ir-il"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "No action taken against Iranian man who tried to enter nuclear base",
+      "description": "The 34-year-old was  arrested in March after trying to access the Faslane base in Argyll and Bute, home to the Royal Navy's nuclear submarine fleet.",
+      "url": "https://www.bbc.co.uk/news/articles/c64gjv1jg9qwo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d870/live/e77e1df0-b8cb-11f1-ad1f-538855f30ba1.jpg",
+      "publishedAt": "2026-09-25T10:46:25Z",
+      "content": "The man had been charged, but was later released pending further inquiries without appearing in court.\r\nFaslane, on the Gare Loch about 25 miles (40km) north-west of Glasgow, is the home of the Royal\u2026 [+703 chars]",
+      "cocom": "USEUCOM"
+    }
+  ]
+}

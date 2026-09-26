@@ -1,0 +1,32 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "RCMP allege 24-year-old Quebec man researched chemical weapons, planned attack for ISIS",
+      "description": "RCMP say Louay Angoud allegedly communicated online with members of a terrorist group and gathered information to build a chemical weapon that could be used to poison Canadians.",
+      "url": "https://www.cbc.ca/news/canada/montreal/rcmp-lays-terrorism-charges-against-quebec-city-man-9.7356763",
+      "urlToImage": "https://i.cbc.ca/ais/1d13080f-be1a-4eba-a3a0-2cdc82c45a9e,1790263824302/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C338%2C6500%2C3656%29%3BResize%3D620",
+      "publishedAt": "2026-09-24T15:52:16Z",
+      "content": "A 24-year-old Quebec City man has been charged with terrorism-related offences, according to federal police. The RCMP say Louay Angoud intended to carry out an attack on behalf of the Islamic State.\r\u2026 [+521 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Isegoria.net"
+      },
+      "author": "Isegoria",
+      "title": "Pneumonic plague is a fulminant disease",
+      "description": "Plague has been responsible for several of the most fatal pandemics in human history, Annie Jacobsen notes (in Biological War), including ones in the sixth, fourteenth, nineteenth, and early twentieth centuries: From around 1347 to 1352, the disease killed 15\u2026",
+      "url": "https://www.isegoria.net/2026/09/pneumonic-plague-is-a-fulminant-disease/",
+      "urlToImage": null,
+      "publishedAt": "2026-09-24T15:11:51Z",
+      "content": "Plague has been responsible for several of the most fatal pandemics in human history, Annie Jacobsen notes (in Biological War), including ones in the sixth, fourteenth, nineteenth, and early twentiet\u2026 [+2615 chars]",
+      "cocom": "Transregional"
+    }
+  ]
+}

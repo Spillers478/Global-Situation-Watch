@@ -1,0 +1,331 @@
+{
+  "status": "ok",
+  "totalResults": 25,
+  "articles": [
+    {
+      "source": {
+        "id": "rte",
+        "name": "RTE"
+      },
+      "author": "RT\u00c9 News",
+      "title": "Fighting rages in Ethiopia as civil war resumes",
+      "description": "Ethiopian forces battled overnight to repel an assault by Tigray rebels in the Afar region, a humanitarian source today, with reports of an internet blackout in the north of the country.",
+      "url": "https://www.rte.ie/news/world/2026/0925/1592922-ethiopia-tigray/",
+      "urlToImage": "https://www.rte.ie/images/00251141-1600.jpg",
+      "publishedAt": "2026-09-25T09:00:34Z",
+      "content": "Ethiopian forces battled overnight to repel an assault by Tigray rebels in the Afar region, a humanitarian source today, with reports of an internet blackout in the north of the country.\r\nRebels in t\u2026 [+3501 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Help Net Security"
+      },
+      "author": "Anamarija Pogorelec",
+      "title": "Half of threat hunters say bad data is their biggest problem",
+      "description": "Half of security professionals name data quality or quantity as their biggest barrier to effective threat hunting, according to the SANS 2026 Threat Hunting Survey. Teams with working playbooks describe the logs as their ceiling, and gaps in cloud logging and\u2026",
+      "url": "https://www.helpnetsecurity.com/2026/09/25/sans-threat-hunting-data-quality/",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2026/02/18184410/signal-1500.webp",
+      "publishedAt": "2026-09-25T05:00:56Z",
+      "content": "Half of security professionals name data quality or quantity as their biggest barrier to effective threat hunting, according to the SANS 2026 Threat Hunting Survey. Teams with working playbooks descr\u2026 [+3232 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "Ruby Cornish",
+      "title": "Cyberattack on Burnaby School District triggers widespread disruption, concerns about data leaks",
+      "description": "A message to families said \"internal network services and phone lines\" had been impacted. So far, no information has been provided about whether any data has been compromised. Parents are being warned not to fall victim to cybercrime that could be committed u\u2026",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/cyber-attack-burnaby-schools-9.7357905",
+      "urlToImage": "https://i.cbc.ca/ais/443595c7-d490-4e6d-bcda-3ba0bf719f7d,1790303064249/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
+      "publishedAt": "2026-09-25T03:11:16Z",
+      "content": "A cyberattack that has shut down phone lines and blocked Wi-Fi access across the Burnaby School District has not been resolved since Monday.\r\nIn a message addressed to families on the district's webs\u2026 [+3290 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Miliband tells Iran minister UK will not tolerate 'hostile activity' on British soil",
+      "description": "The foreign secretary stresses \"the UK's unwavering resolve to combat threats from Iranian-linked groups in UK soil, including attacks on the British Jewish community\".",
+      "url": "https://www.bbc.co.uk/news/articles/cwp8476m06pyo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8f79/live/2b47c240-b87a-11f1-a430-4d16ee157c41.jpg",
+      "publishedAt": "2026-09-25T02:51:36Z",
+      "content": "Foreign Secretary Ed Miliband has told Iran's foreign minister Abbas Araghchi that the UK will \"not tolerate intimidation, threats or hostile activity on UK soil\".\r\nThe ministers met face-to-face at \u2026 [+3032 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "FBI says source of its jobs portal breach still unknown as hackers allege employee data compromised",
+      "description": "ShinyHunters claims it stole FBI employees' names, addresses and Social Security numbers in a cyber attack targeting the FBIJobs.gov portal. Expert says that the hackers\u2019 claims remain separate from what the FBI has confirmed.",
+      "url": "https://www.foxnews.com/politics/fbi-source-jobs-portal-breach-still-unknown-hackers-allege-employee-data-compromised",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/06/doj.jpg",
+      "publishedAt": "2026-09-25T00:59:20Z",
+      "content": "The FBI is working to determine whether a breach involving its jobs website originated within the bureau or through a third-party provider after a criminal hacking group claimed it obtained FBI emplo\u2026 [+3266 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "author": "Maria Deutscher",
+      "title": "Researchers link more cyberattacks to OpenAI agent swarm",
+      "description": "A research group has linked three more hacking campaigns to rogue artificial intelligence agents. Transluce, a nonprofit AI safety organization, detailed its findings on Wednesday. Its researchers determined that the agents targeted three services: a universi\u2026",
+      "url": "https://siliconangle.com/2026/09/24/researchers-link-more-cyberattacks-to-openai-agent-swarm/",
+      "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Image.png",
+      "publishedAt": "2026-09-24T20:25:41Z",
+      "content": "A research group has linked three more hacking campaigns to rogue artificial intelligence agents.\r\nTransluce, a nonprofit AI safety organization, detailed its findings on Wednesday. Its researchers d\u2026 [+5688 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "iTnews"
+      },
+      "author": null,
+      "title": "Ryuk ransomware raider sentenced to two years prison",
+      "description": "Armenian national pleaded guilty.",
+      "url": "https://www.itnews.com.au/news/ryuk-ransomware-raider-sentenced-to-two-years-prison-629186",
+      "urlToImage": "https://i.nextmedia.com.au/News/prison_jail.jpg",
+      "publishedAt": "2026-09-24T19:05:00Z",
+      "content": "A US court has sentenced Karen Vardanyan, a member of the Ryuk ransomware gang, to two years in prison followed by three years' of supervised release, and ordered US$1.219 million ($1.7 million) in r\u2026 [+1151 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Talosintelligence.com"
+      },
+      "author": "Martin Lee",
+      "title": "Trust and the enticing consultancy offer",
+      "description": "In this week\u2019s newsletter Martin muses over a very suspicious elicitation over social media and the true value of trust within the cyber ecosystem. Hubris might be the real vulnerability that the cyber industry must worry about.",
+      "url": "https://blog.talosintelligence.com/trust-and-the-enticing-consultancy-offer/",
+      "urlToImage": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/09/threat_source-3.jpg",
+      "publishedAt": "2026-09-24T18:00:37Z",
+      "content": "Welcome to this weeks edition of the Threat Source newsletter.\u00a0\r\nIn the cybersecurity industry, trust is the invisible currency. Every practitioner carries the implicit trust not to abuse privileged \u2026 [+8324 chars]"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Jeremy Kahn, Beatrice Nolan",
+      "title": "Report reveals yet more cases of OpenAI\u2019s \u2018rogue AI\u2019 agents hacking websites\u2014and suggests they may still have been active in recent weeks",
+      "description": "Researchers also find further undisclosed attacks against Australian government sites, U.S. data site and University of New Mexico",
+      "url": "https://fortune.com/2026/09/24/openai-more-rogue-ai-agents-hacking-websites-cryptoexchange-in-september-research-report-transluce/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2296796582-e1790268116348.jpg?resize=1200,600",
+      "publishedAt": "2026-09-24T17:38:46Z",
+      "content": "OpenAIs issues with rogue AI agents are more extensive than the company has previously acknowledgedand may be ongoing. That is the conclusion of a new report from an independent research firm.The new\u2026 [+5906 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Microsoft.com"
+      },
+      "author": "Microsoft Threat Intelligence",
+      "title": "Beyond the ransomware: Tracking Storm-2570\u2019s consistent tradecraft across deployments",
+      "description": "Storm-2570 is a ransomware affiliate that uses consistent post-compromise tools and techniques across deployments involving Qilin, DragonForce, Anubis, and BERT ransomware, and provides guidance to help defenders detect and disrupt this activity before ransom\u2026",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/24/beyond-ransomware-tracking-storm-2570-consistent-tradecraft-across-deployments/",
+      "urlToImage": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/09/Fig1-Storm-2570-social-1.png",
+      "publishedAt": "2026-09-24T16:00:00Z",
+      "content": "In this article\r\nActivity associated with Storm-2570, a ransomware affiliate linked to multiple ransomware payloads, illustrates how tracking and responding to ransomware attacks by payload alone can\u2026 [+20732 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Infosecurity Magazine"
+      },
+      "author": "Danny  Palmer",
+      "title": "Emerging Ransomware Gang Uses Backup Destruction Threats to Pressure Victims",
+      "description": "Ransom notes by n0n ransomware claim to take double extortion to a new level of danger for victims",
+      "url": "https://www.infosecurity-magazine.com/news/ransomware-gang-uses-backup/",
+      "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/9720e053-9870-414e-8c70-5433a964dce5.jpg",
+      "publishedAt": "2026-09-24T15:00:00Z",
+      "content": "A newly formed ransomware group has claimed that if its victims dont give into their extortion demands and pay a ransom, that they will destroy their backup infrastructure, in a move which could prev\u2026 [+3032 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techpinions.com"
+      },
+      "author": "David Graff",
+      "title": "OpenAI Waited 84 Days to Tell Australia Its Agent Broke Into a Health Portal",
+      "description": "On June 18, an AI agent built by OpenAI got into a portal run by Services Australia that holds Medicare statistics \u2014 aggregate data on health spending and drug subsidies. It was not supposed to be able to. Prime Minister Anthony Albanese said the agent circum\u2026",
+      "url": "https://techpinions.com/openai-australia-medicare-breach-84-days/",
+      "urlToImage": "https://techpinions.com/wp-content/uploads/2026/09/7q-ke4szzvq.jpg",
+      "publishedAt": "2026-09-24T14:00:00Z",
+      "content": "On June 18, an AI agent built by OpenAI got into a portal run by Services Australia that holds Medicare statistics aggregate data on health spending and drug subsidies. It was not supposed to be able\u2026 [+7288 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nextgov"
+      },
+      "author": "David DiMolfetta",
+      "title": "AI scanning tools found security gaps at rail operator and hospitals, Wiz says",
+      "description": "Researchers discovered access to rail administration systems, a hospital alert channel and sensitive records in a new effort aimed at organizations with limited cyber resources.",
+      "url": "https://www.nextgov.com/cybersecurity/2026/09/ai-scanning-tools-found-security-gaps-rail-operator-and-hospitals-wiz-says/416181/",
+      "urlToImage": "https://cdn.nextgov.com/media/img/cd/2026/09/23/GettyImages_1221311412/open-graph.jpg",
+      "publishedAt": "2026-09-24T13:00:00Z",
+      "content": "Artificial intelligence-enabled security testing tools developed by Google-owned cybersecurity company Wiz uncovered weaknesses that exposed a public rail operators administrative systems and gave ou\u2026 [+5615 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Banks likely to deploy FCNR(B) liquidity in coming months as festive credit demand rises: RBI Deputy Guv",
+      "description": "Reserve Bank Deputy Governor Rohit Jain stated that banks are expected to deploy additional liquidity from FCNR(B) deposits. This deployment is likely driven by anticipated strong credit demand during the festive season. The RBI will not direct banks towards \u2026",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-likely-to-deploy-fcnrb-liquidity-in-coming-months-as-festive-credit-demand-rises-rbi-deputy-guv/articleshow/134462958.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134462981,width-1200,height-630,imgsize-340968,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-24T12:51:41Z",
+      "content": "Mumbai: Reserve Bank Deputy Governor Rohit Jain on Thursday said banks are expected to deploy additional liquidity from foreign-currency non-resident deposits over the next few months, as credit dema\u2026 [+6153 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "author": "Duncan Riley",
+      "title": "Kontext raises $4M to control what AI agents are allowed to do inside businesses",
+      "description": "German artificial intelligence security startup Kontext today announced $4 million in new funding for software that controls what AI agents are allowed to do once they are running inside a business. Kontext\u2019s software sits between an agent and the systems it \u2026",
+      "url": "https://siliconangle.com/2026/09/24/kontext-raises-4m-to-control-what-ai-agents-are-allowed-to-do-inside-businesses/",
+      "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Kontext-Founders-Landscape-01-scaled.jpg",
+      "publishedAt": "2026-09-24T12:00:43Z",
+      "content": "German artificial intelligence security startup Kontext today announced $4 million in new funding for software that controls what AI agents are allowed to do once they are running inside a business.\r\u2026 [+3797 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Sergiu Gatlan",
+      "title": "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
+      "description": "\u200bThe U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting a critical JetBrains TeamCity vulnerability patched in July. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/09/24/TeamCity.jpg",
+      "publishedAt": "2026-09-24T10:42:37Z",
+      "content": "\u200bThe U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting a critical JetBrains TeamCity vulnerability patche\u2026 [+2938 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The New Yorker"
+      },
+      "author": "Chang Che",
+      "title": "There Is No A.I. \u201cRace\u201d",
+      "description": "We\u2019re constantly told that Chinese advances would have catastrophic consequences. But the first to innovate is rarely the one who wins.",
+      "url": "https://www.newyorker.com/news/the-lede/there-is-no-ai-race",
+      "urlToImage": "https://media.newyorker.com/photos/6ab188b318727571354dda80/16:9/w_1280,c_limit/ChinaRace_2.png",
+      "publishedAt": "2026-09-24T10:00:00Z",
+      "content": "Recent incidentsincluding a swarm of OpenAI agents hacking the company Hugging Facehave prompted calls, both from in-the-trenches A.I. researchers and the Anthropic C.E.O., Dario Amodei, for an indus\u2026 [+3994 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ing.dk"
+      },
+      "author": "Laurids Hovgaard",
+      "title": "DKK 250 million to safeguard 800,000 households against power outages: \u201cIt\u2019s primarily the threat of physical attacks\u201d",
+      "description": "Jutland\u2019s largest distribution system operator, N1, has allocated DKK 250 million over the coming years to strengthen its physical security.",
+      "url": "https://ing.dk/artikel/dkk-250-million-safeguard-800000-households-against-power-outages-its-primarily-threat-physical",
+      "urlToImage": "https://ing.dk/sites/mi/files/styles/open_graph_image_16_9/public/2026-09/4c4991a4-76ef-4c4a-8d5a-5c23d06b69fe.jpg?h=9dc5d5ff&itok=tcUmCHoa",
+      "publishedAt": "2026-09-24T06:54:00Z",
+      "content": "N1, the largest distribution system operator in Jutland, has significantly stepped up its investment in physical security.\r\nOver the coming years, N1 has allocated DKK 250 million to strengthen the s\u2026 [+3665 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "Courtney Gould",
+      "title": "Albanese couldn't have timed his Medicare hack bombshell better",
+      "description": "Anthony Albanese couldn't have picked a better time to drop the metaphorical bomb that a rogue artificial intelligence agent breached an Australian government system.",
+      "url": "https://www.abc.net.au/news/2026-09-24/open-ai-medicare-breach-government-walking-delicate-tightrope/107180648",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/aded54ac98c82643b99869694c457254?impolicy=wcms_watermark_news&cropH=2256&cropW=4011&xPos=18&yPos=0&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-09-24T06:16:49Z",
+      "content": "Welcome back to your weekly federal politics update, where Courtney Gould gets you up to speed on the happenings from Parliament House.\r\nAnthony Albanese couldn't have picked a better time to drop th\u2026 [+6596 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Edison Reed",
+      "title": "Hacker Group Claims Massive Breach of FBI Agent Data",
+      "description": "The cybercriminal group ShinyHunters announced on its dark-web leak site Tuesday, Sept. 22, that it compromised the Federal Bureau of Investigation\u00a0(FBI) and holds sensitive data on almost all FBI agents and individuals who applied to work at the agency, acco\u2026",
+      "url": "https://www.naturalnews.com/2026-09-24-hacker-group-massive-breach-fbi-agent-data.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/shinyhunters-fbi-data-breach-cybercriminal-group-4436-original.jpg",
+      "publishedAt": "2026-09-24T06:00:00Z",
+      "content": "The cybercriminal group ShinyHunters announced on its dark-web leak site Tuesday, Sept. 22, that it compromised the Federal Bureau of Investigation\u00a0(FBI) and holds sensitive data on almost all FBI ag\u2026 [+5568 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Help Net Security"
+      },
+      "author": "Anamarija Pogorelec",
+      "title": "Europe\u2019s technology backbone is becoming a cyber target",
+      "description": "Disruptive attacks on public-facing services, financially motivated cybercrime and compromises of shared technology providers are increasing cybersecurity risks across Europe. ENISA\u2019s Threat Landscape 2026 identifies cybercrime, state-linked activity, foreign\u2026",
+      "url": "https://www.helpnetsecurity.com/2026/09/24/enisa-eu-cyber-threats-report/",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2024/06/05105919/europe-1500-1.webp",
+      "publishedAt": "2026-09-24T04:00:02Z",
+      "content": "Disruptive attacks on public-facing services, financially motivated cybercrime and compromises of shared technology providers are increasing cybersecurity risks across Europe.\r\nENISAs Threat Landscap\u2026 [+5917 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nextgov"
+      },
+      "author": "David DiMolfetta",
+      "title": "Stolen FBI data reveals employees\u2019 roles in intelligence and surveillance",
+      "description": "Exposed analysts work on areas including China, Russia and electronic surveillance. ShinyHunters claimed responsibility for the breach this week. The FBI said it\u2019s investigating.",
+      "url": "https://www.nextgov.com/cybersecurity/2026/09/stolen-fbi-data-reveals-employees-roles-intelligence-and-surveillance/416182/",
+      "urlToImage": "https://cdn.nextgov.com/media/img/cd/2026/09/23/GettyImages_2288940584/open-graph.jpg",
+      "publishedAt": "2026-09-24T03:33:00Z",
+      "content": "Data stolen in a major hacking groups alleged intrusion into FBI systems is believed to contain personal information on hundreds of FBI intelligence analysts and other employees involved in clandesti\u2026 [+4465 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Reuters",
+      "title": "OpenAI data breach latest in long list of hacks in Australia",
+      "description": "Australia said on Thursday an OpenAI agent breached a government health data portal in June, gaining unauthorised access to files, in what could be the first known instance of an AI agent hacking a government website.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-data-breach-latest-in-long-list-of-hacks-in-australia/articleshow/134449669.cms",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-6409808,resizemode-75,msid-134449669/tech/artificial-intelligence/openai-data-breach-latest-in-long-list-of-hacks-in-australia.jpg",
+      "publishedAt": "2026-09-24T02:32:15Z",
+      "content": "Australia said on Thursday an OpenAI agent breached a government health data portal in June, gaining unauthorised access to files, in what could be the first known instance of an AI agent hacking a g\u2026 [+2103 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forrester.com"
+      },
+      "author": "Meng Liu",
+      "title": "Key Takeaways From Xendit\u2019s Analyst Day",
+      "description": "Payments companies often describe themselves as global platforms. But in Asia-Pacific, global reach matters little if a provider cannot make local payments work reliably. That was my main takeaway from Xendit\u2019s recent analyst day in Kuala Lumpur. The company \u2026",
+      "url": "https://www.forrester.com/blogs/key-takeaways-from-xendits-analyst-day/",
+      "urlToImage": "https://go.forrester.com/wp-content/uploads/2026/09/Blog-post-bio-picture-1.jpg",
+      "publishedAt": "2026-09-24T00:03:26Z",
+      "content": "Payments companies often describe themselves as global platforms. But in Asia-Pacific, global reach matters little if a provider cannot make local payments work reliably.\r\nThat was my main takeaway f\u2026 [+5243 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Substack.com"
+      },
+      "author": "September 24, 2026",
+      "title": "Don\u2019t Engage In False Hope",
+      "description": "Eleven years after Chairman Xi Jinping\u2019s last White House visit, U.S. leaders should resolve to not be fooled again.",
+      "url": "https://historywedontknow.substack.com/p/dont-engage-in-false-hope",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!9Xx3!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fhistorywedontknow.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1899094293%26version%3D9",
+      "publishedAt": "2026-09-24T00:00:00Z",
+      "content": "On September 24, Chairman Xi Jinping will visit the White House. The Trump-Xi summit is occurring as China continues to underwrite Russias war on Ukraine, support the Islamic Republic of Iran, conduc\u2026 [+8070 chars]"
+    }
+  ]
+}
