@@ -1,0 +1,370 @@
+{
+  "status": "ok",
+  "totalResults": 28,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Signal"
+      },
+      "author": "Olivia Burdo",
+      "title": "Refrigerators: The Next National Security Frontier?",
+      "description": "RealClearWire\u2014Refrigerators are probably the last thing anyone would consider a national security vulnerability, which is precisely why the unusual refrigeration failures at U.S. military commissaries deserve more attention than they are getting.\u00a0\u00a0 There is n\u2026",
+      "url": "https://www.dailysignal.com/2026/09/26/refrigerators-national-security/",
+      "urlToImage": "https://static.dailysignalmedia.org/2026/09/GettyImages-481059643.jpg",
+      "publishedAt": "2026-09-26T10:00:00Z",
+      "content": "RealClearWireRefrigerators are probably the last thing anyone would consider a national security vulnerability, which is precisely why the unusual refrigeration failures at U.S. military commissaries\u2026 [+7970 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": null,
+      "title": "OpenAI agent accessed government website data after going rogue, company reveals",
+      "description": "The disclosure comes at a time of heightened concern over AI agents acting outside of human control.",
+      "url": "https://www.cbsnews.com/news/openai-ai-agent-bot-rogue-hack-government-website/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/26/9fc118a3-d581-445f-9c5a-00ceff41cf90/thumbnail/1200x630/1446466def22e25748dc9e40ae936d72/gettyimages-2296267856.jpg",
+      "publishedAt": "2026-09-26T08:52:35Z",
+      "content": "OpenAI disclosed Friday that its artificial intelligence agents had interacted with several U.S. government websites in unexpected ways, as part of an ongoing review into the company's models' unanti\u2026 [+2757 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "Kevin Maimann",
+      "title": "What drives ShinyHunters, the group that claimed responsibility for hacking the FBI?",
+      "description": "The hacking group that claimed responsibility for stealing a massive trove of data from the FBI on Tuesday \u2014 including officials' job assignments, addresses and social security numbers \u2014 has been linked to dozens of cyberattacks targeting corporations, school\u2026",
+      "url": "https://www.cbc.ca/news/world/shinyhunters-data-breach-explainer-9.7356209",
+      "urlToImage": "https://i.cbc.ca/ais/ae5fd5be-7281-4f6c-bbf1-700ace0b6f4d,1790289681951/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C229%2C4370%2C2458%29%3BResize%3D620",
+      "publishedAt": "2026-09-26T08:00:00Z",
+      "content": "The hacking group that claimed responsibility for stealing a massive trove of data from the FBI on Tuesday including officials' job assignments, addresses and social security numbers has been linked \u2026 [+5716 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "AP- PTI",
+      "title": "OpenAI says its models engaged with US government websites in new model misbehaviour disclosure",
+      "description": "OpenAI says that the AI giant's models accessed publicly available information on two websites operated by the Securities and Exchange Commission as well as US Census Bureau data",
+      "url": "https://www.thehindubusinessline.com/info-tech/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehaviour-disclosure/article71511859.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/r1v6io/article71300140.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_U913LO212_R1521727298_3_fa3f1feb-bb9c-4bd0-9f4d-53a38b64562d.jpg",
+      "publishedAt": "2026-09-26T07:05:54Z",
+      "content": "OpenAI disclosed Friday that its artificial intelligence agents had interacted with several US government websites in unexpected ways, discovered as part of an ongoing review into the company's model\u2026 [+3605 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "christopherlowery",
+      "title": "What MNIT published on the July water incident",
+      "description": "What MNIT published on the July water incident - posted in General Security: On 28 July 2026 Minnesota IT Services said a coordinated cyberattack had hit operational technology at more than 30 community water systems in the state on 26 and 27 July. The note l\u2026",
+      "url": "https://www.bleepingcomputer.com/forums/t/818867/what-mnit-published-on-the-july-water-incident/",
+      "urlToImage": "https://www.bleepingcomputer.com/forums/public/style_images/master/meta_image.png",
+      "publishedAt": "2026-09-26T06:07:40Z",
+      "content": "On 28 July 2026 Minnesota IT Services said a coordinated cyberattack had hit operational technology at more than 30 community water systems in the state on 26 and 27 July. The note lists the partners\u2026 [+1935 chars]"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Shauna Bowers",
+      "title": "Could the Australian health service website hack happen in Ireland?",
+      "description": "The incident is the first publicly reported breach of a government website by an AI \u2018agent\u2019",
+      "url": "https://www.irishtimes.com/health/2026/09/26/could-the-australian-health-service-website-hack-happen-here/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/YFNVDMCP3BJU2LRBUOAI2TEQBY.jpg?smart=true&auth=23ac99fe4a3d10674175cd5d49922d997a35d3fcf4e181baaf47a8c5c8f9a1d9&width=1200&height=630",
+      "publishedAt": "2026-09-26T05:00:00Z",
+      "content": "News this week that the Australian public health service website was hacked by an OpenAI agent sparked alarm around the globe about the increasing risks artificial intelligence poses to cybersecurity\u2026 [+3014 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Tom McKay",
+      "title": "OpenAI\u2019s \u2018Rogue AI\u2019 Problem Is Bigger Than It Let On",
+      "description": "Friday night news dump!",
+      "url": "https://gizmodo.com/openais-rogue-ai-problem-is-bigger-than-it-let-on-2000817780",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
+      "publishedAt": "2026-09-26T04:16:21Z",
+      "content": "After a spree of AI-involved hacks originating from frontier labs at Anthropic, Google, Meta, and OpenAI, new disclosures and reports indicate that OpenAI\u2019s issues with naughty agents are broader tha\u2026 [+3908 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "KAITLYN HUAMANI Associated Press, GARANCE BURKE Associated Press",
+      "title": "OpenAI says its models engaged with US government websites in new model misbehavior disclosure",
+      "description": "OpenAI has disclosed its artificial intelligence models have interacted with U.S. government websites in unexpected ways",
+      "url": "https://abcnews.com/Technology/wireStory/openai-models-engaged-us-government-websites-new-model-136774638",
+      "urlToImage": "https://i.abcnewsfe.com/a/ded9d658-da01-4048-a057-5617d9408732/wirestory_df331b55daffc6d202d8e2f6d0afa264_16x9.jpg?w=1600",
+      "publishedAt": "2026-09-26T04:11:16Z",
+      "content": "SAN FRANCISCO -- OpenAI disclosed Friday that its artificial intelligence agents had interacted with several U.S. government websites in unexpected ways, discovered as part of an ongoing review into \u2026 [+3630 chars]"
+    },
+    {
+      "source": {
+        "id": "the-american-conservative",
+        "name": "The American Conservative"
+      },
+      "author": "Andrew Day",
+      "title": "The Left Is Right About AI",
+      "description": "America shouldn\u2019t let polarization prevent careful thinking about this new technology.\nThe post The Left Is Right About AI appeared first on The American Conservative.",
+      "url": "https://www.theamericanconservative.com/the-left-is-right-about-ai/",
+      "urlToImage": "https://www.theamericanconservative.com/wp-content/uploads/2026/09/GettyImages-2295097098-scaled.jpg",
+      "publishedAt": "2026-09-26T04:03:00Z",
+      "content": "Allow me to make an embarrassing confession, one that pains me to write and may be painful for you to read: I think Ezra Klein is right.\r\nI rarely agree with Klein, a New York Times opinion columnist\u2026 [+5454 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PRNewswire"
+      },
+      "author": null,
+      "title": "WEBCO INDUSTRIES, INC. REPORTS FISCAL 2026 FOURTH QUARTER AND YEAR END RESULTS",
+      "description": "SAND SPRINGS, Okla., Sept. 25, 2026 /PRNewswire/ -- Webco Industries, Inc. (OTC: WEBC) today reported results for our fourth fiscal quarter and year ended July 31, 2026. For our fourth quarter of fiscal year 2026, we had net income of $5.0 million, or $7.35 p\u2026",
+      "url": "https://www.prnewswire.com/news-releases/webco-industries-inc-reports-fiscal-2026-fourth-quarter-and-year-end-results-302890674.html",
+      "urlToImage": null,
+      "publishedAt": "2026-09-25T22:44:00Z",
+      "content": "SAND SPRINGS, Okla., Sept. 25, 2026 /PRNewswire/ -- Webco Industries, Inc. (OTC: WEBC) today reported results for our fourth fiscal quarter and year ended July 31, 2026.\r\nFor our fourth quarter of fi\u2026 [+16893 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Lawrence Abrams",
+      "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
+      "description": "Secure file-sharing software company Kiteworks is urging customers worldwide to temporarily shut down their servers on Saturday for a six-hour window\u00a0after receiving threat intelligence warning of a potentially imminent cyberattack. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/09/25/kiteworks-bright.jpg",
+      "publishedAt": "2026-09-25T21:41:07Z",
+      "content": "Secure file-sharing software company Kiteworks is urging customers worldwide to temporarily shut down their servers on Saturday for a six-hour window\u00a0after receiving threat intelligence warning of a \u2026 [+3795 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Digital Journal"
+      },
+      "author": "David Potter",
+      "title": "Why this CIO won\u2019t let an AI agent take the blame",
+      "description": "Brigitte Larivi\u00e8re fixed Bombardier's IT by walking the plant floor, and she's applying the same rule to AI agents.\nThe post Why this CIO won\u2019t let an AI agent take the blame appeared first on Digital Journal.",
+      "url": "https://www.digitaljournal.com/article/why-this-cio-wont-let-an-ai-agent-take-the-blame/",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2026/09/Photo-courtesy-of-Bombardier.png",
+      "publishedAt": "2026-09-25T20:27:22Z",
+      "content": "Not long after Brigitte Larivi\u00e8re became Bombardiers CIO in 2022, she walked the manufacturing floor and asked aircraft workers what IT support was like for them.\r\nThey told her they had no phone nea\u2026 [+7758 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Offgridsurvival.com"
+      },
+      "author": "OFFGRID Survival",
+      "title": "Bill Gates Says AI Could Kill a Billion People. We Told You in April Which Systems It Would Hit First.",
+      "description": "Bill Gates Says AI Could Kill a Billion People. We Told You in April Which Systems It Would Hit First.\nBill Gates now calls AI the most powerful weapon in history, and his list of targets matches the one we published five months ago: hospitals, banks and the \u2026",
+      "url": "https://offgridsurvival.com/bill-gates-says-ai-could-kill-a-billion-people-we-told-you-in-april-which-systems-it-would-hit-first/",
+      "urlToImage": "https://offgridsurvival.com/wp-content/themes/church_10/images/2026/09/gatesai.jpg",
+      "publishedAt": "2026-09-25T19:14:48Z",
+      "content": "Gates now calls AI the most powerful weapon in history, and his list of targets matches the one we published five months ago: hospitals, banks and the power grid.\r\nIn April, we published Mythos AI: T\u2026 [+4837 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Connor Jones",
+      "title": "Bitget blames North Korea for $387.5M crypto wallet raid",
+      "description": "Familiar fingerprints point to Kim\u2019s regime \u2026 to the surprise of nobody",
+      "url": "https://www.theregister.com/cyber-crime/2026/09/25/bitget-blames-north-korea-for-3875m-crypto-wallet-raid/5299218",
+      "urlToImage": "https://image.theregister.com/239887.jpg?imageId=239887&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "publishedAt": "2026-09-25T17:04:07Z",
+      "content": "The CEO of crypto exchange Bitget has confirmed that a cyberattack with all the hallmarks of a North Korean operation resulted in approximately $387.5 million worth of digital assets being stolen fro\u2026 [+4329 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Zack Whittaker",
+      "title": "Kiteworks urges customers to shut down their servers amid 'imminent' threat of cyberattack | TechCrunch",
+      "description": "The tech giant, which allows companies to send large datasets over the internet, said it received a \"credible threat\" from law enforcement about an imminent attack.",
+      "url": "https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/12/data-breach-2024-roundup.jpg?resize=1200,675",
+      "publishedAt": "2026-09-25T15:56:40Z",
+      "content": "Technology giant Kiteworks is urging customers to shut down their systems after the company received information that hackers may attempt to target them.\r\nKiteworks (formerly Accellion), which makes \u2026 [+3408 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Microsoft.com"
+      },
+      "author": "Microsoft Security Research, Yossi Weizman and Tushar Mudi",
+      "title": "Storm-3168: Agentic-driven cloud attacks using compromised service principals",
+      "description": "Microsoft details JADEPUFFER-linked Azure reconnaissance, resource deletion, and credential access using compromised service principals, identifying the activity as associated with Storm-3168 and providing guidance for defenders.\nThe post Storm-3168: Agentic-\u2026",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/",
+      "urlToImage": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/03/MS_Actional-Insights_Adversarial-AI.png",
+      "publishedAt": "2026-09-25T15:35:08Z",
+      "content": "In this article\r\nMicrosoft Security Research has identified malicious cloud activity associated with JADEPUFFER, a threat actor discovered by Sysdig in July 2026 and reported to be the first document\u2026 [+16610 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Silvia Iacovcich",
+      "title": "Amnezia VPN boosts stability of all apps with a new update",
+      "description": "Amnezia VPN has released a new version that further boosts all apps' stability for both Self-hosted and Premium users. Here's all you need to know.",
+      "url": "https://www.techradar.com/vpn/vpn-privacy-security/amnezia-vpn-boosts-stability-of-all-apps-with-a-new-update",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Z8cccYZxkX5QXvAauhJhAn-837-80.jpg",
+      "publishedAt": "2026-09-25T15:28:40Z",
+      "content": "<ul><li>AmneziaVPN rolls out version 5.0.3.0 across all apps</li><li>It brings new XRay-core, TProxy, and minor user updates</li><li>It includes upgrades for Self-hosted and Premium users</li></ul>\r\n\u2026 [+4345 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityweek.com"
+      },
+      "author": "SecurityWeek News",
+      "title": "In Other News: Clop Leak Site Takeover, Docker Botnet Hunts AI Keys, Water Utility Exposure",
+      "description": "Noteworthy stories that might have slipped under the radar: BragJack attack against browser AI assistants, TDengine flaw threatens industrial telemetry uptime, Ubuntu update overhaul.\nThe post In Other News: Clop Leak Site Takeover, Docker Botnet Hunts AI Key\u2026",
+      "url": "https://www.securityweek.com/in-other-news-clop-leak-site-takeover-docker-botnet-hunts-ai-keys-water-utility-exposure/",
+      "urlToImage": "https://www.securityweek.com/wp-content/uploads/2023/10/cybersecurity-news.jpg",
+      "publishedAt": "2026-09-25T15:07:31Z",
+      "content": "SecurityWeeks weekly cybersecurity news roundup offers a concise overview of important developments that may not receive full standalone coverage yet remain relevant to the broader threat landscape.\r\u2026 [+7317 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TelecomTV"
+      },
+      "author": "TelecomTV Staff",
+      "title": "What\u2019s up with\u2026 Veon and MeetKai, US Senate, T-Mobile US",
+      "description": "MeetKai has partnered with Veon for a sovereign AI rolloutUS senators propose telecom security actT-Mobile US expands use of AI-enabled network automation",
+      "url": "https://www.telecomtv.com/content/ai/what-s-up-with-veon-and-meetkai-us-senate-t-mobile-us-56336/",
+      "urlToImage": "https://assets.telecomtv.com/assets/telecomtv/veon-and-kiyvstar-logos-ukraine-16561.jpeg?w=1200",
+      "publishedAt": "2026-09-25T14:19:07Z",
+      "content": "In today\u2019s industry news roundup: Sovereign AI firm MeetKai teams up with Veon for a \u2018lab-as-a-service\u2019 partnership in five countries; US senators file a bi-partisan bill, which will launch a self-ce\u2026 [+10673 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hackaday"
+      },
+      "author": "Mike Kershaw",
+      "title": "This Week in Security: FBI Gets Hacked, Muse Vulnerable to ClickFix, Popular Rust Developers at Risk, and New Attacks Against RSA",
+      "description": "The prolific ShinyHunters group has announced it used a zero-day vulnerability in Oracle PeopleSoft to exploit the FBI jobs website and gain access to the AWS GovCloud instances and dump 2 TB of em\u2026",
+      "url": "https://hackaday.com/2026/09/25/this-week-in-security-fbi-gets-hacked-muse-vulnerable-to-clickfix-popular-rust-developers-at-risk-and-new-attacks-against-rsa/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg",
+      "publishedAt": "2026-09-25T14:00:53Z",
+      "content": "The prolific ShinyHunters group has announced it used a zero-day vulnerability in Oracle PeopleSoft to exploit the FBI jobs website and gain access to the AWS GovCloud instances and dump 2 TB of empl\u2026 [+6623 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hackaday"
+      },
+      "author": "Mike Kershaw",
+      "title": "This Week in Security: FBI Gets Hacked, Muse Vulnerable to ClickFix, Popular Rust Developers at Risk, Attacking the RP2350, and New Attacks Against RSA",
+      "description": "The prolific ShinyHunters group has announced it used a zero-day vulnerability in Oracle PeopleSoft to exploit the FBI jobs website and gain access to the AWS GovCloud instances and dump 2 TB of em\u2026",
+      "url": "https://hackaday.com/2026/09/25/this-week-in-security-fbi-gets-hacked-muse-vulnerable-to-clickfix-popular-rust-developers-at-risk-attacking-the-rp2350-and-new-attacks-against-rsa/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg",
+      "publishedAt": "2026-09-25T14:00:53Z",
+      "content": "The prolific ShinyHunters group has announced it used a zero-day vulnerability in Oracle PeopleSoft to exploit the FBI jobs website and gain access to the AWS GovCloud instances and dump 2 TB of empl\u2026 [+6623 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "author": "Alan Henry",
+      "title": "ShinyHunters Hits the FBI, Fake LastPass Installers, and a $459M Google Fine: This Week's Cybersecurity Chaos",
+      "description": "Come for ShinyHunters extorting rival hackers and breaching the FBI, stay for Google's $459M GDPR fine. Plus, is your VPN blocking which sites you can see?\nIt\u2019s been a busy week in cybersecurity, starting off with two notable breaches from our old friends Shi\u2026",
+      "url": "https://uk.pcmag.com/security/167493/shinyhunters-hits-the-fbi-fake-lastpass-installers-and-a-459m-google-fine-this-weeks-cybersecurity-c",
+      "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/news/s/shinyhunte/shinyhunters-hits-the-fbi-fake-lastpass-installers-and-a-459_npt6.1200.jpg",
+      "publishedAt": "2026-09-25T13:00:00Z",
+      "content": "Its been a busy week in cybersecurity, starting off with two notable breaches from our old friends ShinyHunters. This week, we reported that the group hacked CLOP, a ransomware group that ShinyHunter\u2026 [+9176 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Gabe Cohen, Tierney Sneed, CNN",
+      "title": "Inside Trump's plan for the 'biggest DOJ election observer effort in history'",
+      "description": "A voting booth sits at a polling station in Milwaukee, Wisconsin, in April 2020. - Thomas Werner/Bloomberg/Getty Images/File\r\n\nPresident Donald Trump and his allies inside and outside his administration are aiming to blanket polling places with an expanding n\u2026",
+      "url": "https://www.cnn.com/2026/09/25/politics/trump-election-monitors-voting-machines-vis",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1209373235.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-09-25T12:04:50Z",
+      "content": "President Donald Trump and his allies inside and outside his administration are aiming to blanket polling places with an expanding network of party and federal election monitors this November, intens\u2026 [+13921 chars]"
+    },
+    {
+      "source": {
+        "id": "rte",
+        "name": "RTE"
+      },
+      "author": "RT\u00c9 News",
+      "title": "Fighting rages in Ethiopia as civil war resumes",
+      "description": "Ethiopian forces battled overnight to repel an assault by Tigray rebels in the Afar region, a humanitarian source today, with reports of an internet blackout in the north of the country.",
+      "url": "https://www.rte.ie/news/world/2026/0925/1592922-ethiopia-tigray/",
+      "urlToImage": "https://www.rte.ie/images/00251141-1600.jpg",
+      "publishedAt": "2026-09-25T09:00:34Z",
+      "content": "Ethiopian forces battled overnight to repel an assault by Tigray rebels in the Afar region, a humanitarian source today, with reports of an internet blackout in the north of the country.\r\nRebels in t\u2026 [+3501 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Help Net Security"
+      },
+      "author": "Anamarija Pogorelec",
+      "title": "Half of threat hunters say bad data is their biggest problem",
+      "description": "Half of security professionals name data quality or quantity as their biggest barrier to effective threat hunting, according to the SANS 2026 Threat Hunting Survey. Teams with working playbooks describe the logs as their ceiling, and gaps in cloud logging and\u2026",
+      "url": "https://www.helpnetsecurity.com/2026/09/25/sans-threat-hunting-data-quality/",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2026/02/18184410/signal-1500.webp",
+      "publishedAt": "2026-09-25T05:00:56Z",
+      "content": "Half of security professionals name data quality or quantity as their biggest barrier to effective threat hunting, according to the SANS 2026 Threat Hunting Survey. Teams with working playbooks descr\u2026 [+3232 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "Ruby Cornish",
+      "title": "Cyberattack on Burnaby School District triggers widespread disruption, concerns about data leaks",
+      "description": "A message to families said \"internal network services and phone lines\" had been impacted. So far, no information has been provided about whether any data has been compromised. Parents are being warned not to fall victim to cybercrime that could be committed u\u2026",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/cyber-attack-burnaby-schools-9.7357905",
+      "urlToImage": "https://i.cbc.ca/ais/443595c7-d490-4e6d-bcda-3ba0bf719f7d,1790303064249/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
+      "publishedAt": "2026-09-25T03:11:16Z",
+      "content": "A cyberattack that has shut down phone lines and blocked Wi-Fi access across the Burnaby School District has not been resolved since Monday.\r\nIn a message addressed to families on the district's webs\u2026 [+3290 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Miliband tells Iran minister UK will not tolerate 'hostile activity' on British soil",
+      "description": "The foreign secretary stresses \"the UK's unwavering resolve to combat threats from Iranian-linked groups in UK soil, including attacks on the British Jewish community\".",
+      "url": "https://www.bbc.co.uk/news/articles/cwp8476m06pyo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8f79/live/2b47c240-b87a-11f1-a430-4d16ee157c41.jpg",
+      "publishedAt": "2026-09-25T02:51:36Z",
+      "content": "Foreign Secretary Ed Miliband has told Iran's foreign minister Abbas Araghchi that the UK will \"not tolerate intimidation, threats or hostile activity on UK soil\".\r\nThe ministers met face-to-face at \u2026 [+3032 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "FBI says source of its jobs portal breach still unknown as hackers allege employee data compromised",
+      "description": "ShinyHunters claims it stole FBI employees' names, addresses and Social Security numbers in a cyber attack targeting the FBIJobs.gov portal. Expert says that the hackers\u2019 claims remain separate from what the FBI has confirmed.",
+      "url": "https://www.foxnews.com/politics/fbi-source-jobs-portal-breach-still-unknown-hackers-allege-employee-data-compromised",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/06/doj.jpg",
+      "publishedAt": "2026-09-25T00:59:20Z",
+      "content": "The FBI is working to determine whether a breach involving its jobs website originated within the bureau or through a third-party provider after a criminal hacking group claimed it obtained FBI emplo\u2026 [+3266 chars]"
+    }
+  ]
+}

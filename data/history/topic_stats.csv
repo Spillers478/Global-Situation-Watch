@@ -81,3 +81,20 @@ date,topic_id,topic_label,retrieved,kept_here,moved_out,discarded,unclassified,d
 2026-09-26,T12,Large-Scale Cyber Attack / Internet Blackout,25,15,3,7,0,19,1,ok
 2026-09-26,T13,Migration / Refugee Crisis,20,10,4,6,0,12,1,ok
 2026-09-26,T14,Threats to US Embassies / Diplomats,13,5,6,2,0,5,1,ok
+2026-09-27,flagship-ru-ua,Russia / Ukraine,25,17,4,4,0,28,1,ok
+2026-09-27,flagship-ru-ua-us-lens,Russia / Ukraine — US Media Lens,1,,,,,1,0,not_run
+2026-09-27,flagship-ir-il,Iran / Israel / Middle East,25,19,1,5,0,36,1,ok
+2026-09-27,T15,Disaster / Access Denial,3,1,0,2,0,1,1,ok
+2026-09-27,T01,Military Conflict,25,6,14,5,0,11,1,ok
+2026-09-27,T02,Humanitarian Crisis,25,6,5,14,0,7,1,ok
+2026-09-27,T03,Bio/Chemical Attack,11,0,0,11,0,0,1,ok
+2026-09-27,T04,Infectious Outbreak / Pandemic,9,9,0,0,0,10,1,ok
+2026-09-27,T05,Political Instability / Coup Risk,25,3,4,18,0,10,1,ok
+2026-09-27,T06,Mass Uprising / Regime-Threatening Unrest,7,3,0,4,0,3,1,ok
+2026-09-27,T07,Nuclear Weaponry / Attack,25,1,19,5,0,1,1,ok
+2026-09-27,T08,VEO / Regional Insecurity,1,1,0,0,0,7,1,ok
+2026-09-27,T10,Military Modernization,16,3,2,11,0,3,1,ok
+2026-09-27,T11,Military Exercise,3,2,1,0,0,3,1,ok
+2026-09-27,T12,Large-Scale Cyber Attack / Internet Blackout,25,16,1,8,0,16,1,ok
+2026-09-27,T13,Migration / Refugee Crisis,22,8,5,9,0,12,1,ok
+2026-09-27,T14,Threats to US Embassies / Diplomats,22,0,16,6,0,0,1,ok

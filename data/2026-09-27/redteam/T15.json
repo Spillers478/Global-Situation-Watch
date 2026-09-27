@@ -1,0 +1,18 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "KIMBERLEE KRUESI and LEAH WILLINGHAM",
+      "title": "Nor'easter floods some New Jersey roads and homes as dangerous conditions loom",
+      "description": "PROVIDENCE, R.I. (AP) \u2014 Thousands were without power on the U.S. East Coast on Friday night as roads flooded in some coastal New Jersey communities, the first major signs of a powerful nor\u2019easter expected to create dangerous conditions through the weekend.\n T\u2026",
+      "url": "https://www.yahoo.com/news/weather-news/articles/noreaster-lash-east-coast-strong-152215986.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/111f3a33db37c55c741b1ed221dc7ea50a3b3c076cca88563ca64b2221499927/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F02fa8da3ffc6a2cfa3786539f1a9251e.jpg",
+      "publishedAt": "2026-09-25T15:22:15Z",
+      "content": "PROVIDENCE, R.I. (AP) Thousands were without power on the U.S. East Coast on Friday night as roads flooded in some coastal New Jersey communities, the first major signs of a powerful nor'easter expec\u2026 [+4998 chars]",
+      "cocom": "USNORTHCOM"
+    }
+  ]
+}

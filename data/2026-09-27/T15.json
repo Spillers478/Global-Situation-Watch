@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Cheezburger.com"
+      },
+      "author": "Giuliana Tiscioni , Giuliana Tiscioni",
+      "title": "Elegant kittens to add some sofurstication to a purry weekend",
+      "description": "We have already established that cats are elegant creatures, but we never actually talk about that part of their purrsonality\u2026\r\nLately, we've been talking a lot about cats and flooding the internet with photos of them looking cute or doing one of their shenan\u2026",
+      "url": "https://cheezburger.com/46927365/elegant-kittens-to-add-some-sofurstication-to-a-purry-weekend",
+      "urlToImage": "https://i.chzbgr.com/thumb-large/46927365/h71946C84/elegant-kittens-to-add-some-sofurstication-to-a-purry-weekend",
+      "publishedAt": "2026-09-26T11:00:00Z",
+      "content": "Lately, we've been talking a lot about cats and flooding the internet with photos of them looking cute or doing one of their shenanigans, but we are forgetting that, other than pawdorable and naughty\u2026 [+1403 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "KIMBERLEE KRUESI and LEAH WILLINGHAM",
+      "title": "Nor'easter floods some New Jersey roads and homes as dangerous conditions loom",
+      "description": "PROVIDENCE, R.I. (AP) \u2014 Thousands were without power on the U.S. East Coast on Friday night as roads flooded in some coastal New Jersey communities, the first major signs of a powerful nor\u2019easter expected to create dangerous conditions through the weekend.\n T\u2026",
+      "url": "https://www.yahoo.com/news/weather-news/articles/noreaster-lash-east-coast-strong-152215986.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/111f3a33db37c55c741b1ed221dc7ea50a3b3c076cca88563ca64b2221499927/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F02fa8da3ffc6a2cfa3786539f1a9251e.jpg",
+      "publishedAt": "2026-09-25T15:22:15Z",
+      "content": "PROVIDENCE, R.I. (AP) Thousands were without power on the U.S. East Coast on Friday night as roads flooded in some coastal New Jersey communities, the first major signs of a powerful nor'easter expec\u2026 [+4998 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The New Republic"
+      },
+      "author": "The Daily Blast With Greg Sargent",
+      "title": "Transcript: MAGA Radio Host Leaks GOP Poll Bombshell in Blow to Trump",
+      "description": "The following is a lightly edited transcript of the September 25 episode of the Daily Blast podcast. Listen to it here.Greg Sargent: This is The Daily Blast from The New Republic, produced and presented by the DSR Network. I\u2019m your host, Greg Sargent.A right-\u2026",
+      "url": "https://newrepublic.com/article/215855/transcript-maga-radio-host-leaks-gop-poll-bombshell-blow-trump",
+      "urlToImage": "https://images.newrepublic.com/fa11450af05a326f7efbecbc9543f8727ffa37d9.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2026-09-25T11:14:09Z",
+      "content": "Hart: Well, well start with the First District. You know, thats a district that I ran for Congress in, back in 2020. And it is a rural district. I mean, Iowa City is the largest city in that district\u2026 [+760 chars]"
+    }
+  ]
+}
