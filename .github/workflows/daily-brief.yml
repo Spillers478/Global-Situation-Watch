@@ -55,6 +55,19 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python scripts/synthesize.py
 
+      # Groups same-event articles into one story ("+N other sources") and
+      # flags narrow figures/attribution/outcome contradictions between
+      # them -- see dedupe_stories.py. Runs after redteam.py so it works
+      # from the same final, vetted article list build_brief.py will
+      # render, not the raw pre-filter retrieval. An enhancement layer
+      # like the two above it: build_brief.py falls back to a flat,
+      # ungrouped list per topic when this step's output is missing.
+      - name: Detect duplicate/contradictory reporting per topic
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/dedupe_stories.py
+
       # Not continue-on-error: if the page itself can't be rendered there
       # is no brief to publish, and build_brief.py already degrades
       # gracefully when the redteam/synthesis layers are missing.

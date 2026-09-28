@@ -9,9 +9,14 @@ falling back to the raw data/<date>/<topic_id>.json otherwise -- see
 redteam.py and this file's load_articles(). If data/<date>/synthesis.json
 also exists (written by synthesize.py), its BLUF overview is rendered at
 the top of the page and each topic section gets a short AI-written
-summary above its headlines. Either or both can be missing (e.g.
-ANTHROPIC_API_KEY wasn't set) and this script still renders a full page,
-just without those layers.
+summary above its headlines. If data/<date>/dedup/<topic_id>.json also
+exists (written by dedupe_stories.py), same-event articles are collapsed
+into one story with a "+N other sources" toggle, and any flagged
+contradiction (disagreement on figures, attribution, or outcome only --
+see dedupe_stories.py) renders as a bordered callout under that story.
+Any or all of these three layers can be missing (e.g. ANTHROPIC_API_KEY
+wasn't set, or dedupe_stories.py hasn't been added to the workflow yet)
+and this script still renders a full page, just without them.
 
 Retrieval-level noise control (tighter queries, title-only matching,
 excluded domains) lives in topics.py / fetch_news.py -- see topics.py
@@ -153,6 +158,101 @@ def dedupe(articles):
     return out
 
 
+def load_dedup(data_dir, topic_id):
+    """Loads data/<date>/dedup/<topic_id>.json (written by
+    dedupe_stories.py), if present. Missing file -- that pipeline stage
+    hasn't been added to the workflow yet, ANTHROPIC_API_KEY wasn't set,
+    or this topic's call failed -- returns None, and callers must treat
+    None as "no grouping data available" (render the flat, ungrouped
+    list) rather than "zero duplicates found" (a real, different answer
+    this file can also contain, as an empty "groups" mapping)."""
+    path = data_dir / "dedup" / f"{topic_id}.json"
+    if not path.exists():
+        return None
+    try:
+        with open(path) as f:
+            return json.load(f)
+    except (OSError, ValueError):
+        return None
+
+
+def cluster_articles(articles, dedup):
+    """Groups articles into (primary, others) pairs using dedup's url ->
+    group-letter map, one pair per distinct story. Cluster order follows
+    the first appearance of each group within `articles`, so the existing
+    rank_articles ordering (trusted wire services first) still decides
+    which source leads each story. An article missing from the map --
+    normally shouldn't happen, since dedupe_stories.py maps every
+    url-bearing article it saw, but a topic can gain new articles between
+    that run and a later solo re-run of this script -- gets its own
+    private singleton group rather than being dropped or mis-clustered.
+    With dedup=None (no grouping data for this topic at all) every
+    article is its own singleton, in original order -- callers see the
+    same flat list as before this feature existed."""
+    if not dedup:
+        return [(a, []) for a in articles]
+
+    groups_map = dedup.get("groups") or {}
+    order = []
+    by_letter = {}
+    for a in articles:
+        letter = groups_map.get(a.get("url")) or f"_ungrouped_{id(a)}"
+        if letter not in by_letter:
+            by_letter[letter] = []
+            order.append(letter)
+        by_letter[letter].append(a)
+
+    return [(members[0], members[1:]) for letter in order for members in [by_letter[letter]]]
+
+
+def render_contradiction_box(entries):
+    """entries: contradiction dicts sharing one story's group letter (see
+    dedupe_stories.py's output shape). Usually 0 or 1 given how narrowly
+    contradictions are scoped there, but nothing here assumes exactly one."""
+    if not entries:
+        return ""
+    claim_labels = {"figures": "Figures", "attribution": "Attribution", "outcome": "Outcome"}
+    boxes = []
+    for c in entries:
+        claim_label = claim_labels.get(c.get("claim_type"), "Disagreement")
+        rows = "\n".join(
+            f'<li><a href="{escape(s.get("url") or "#")}" target="_blank" rel="noopener">'
+            f'{escape(s.get("source") or "Unknown source")}</a>: {escape(s.get("says") or "")}</li>'
+            for s in c.get("sources", [])
+        )
+        boxes.append(f"""
+      <div class="contradiction-box">
+        <div class="contradiction-label">Sources disagree &middot; {escape(claim_label)}</div>
+        <p class="contradiction-summary">{escape(c.get("summary") or "")}</p>
+        <ul class="contradiction-sources">{rows}</ul>
+      </div>""")
+    return "\n".join(boxes)
+
+
+def render_cluster(primary, others, contradictions_by_group, group_letter):
+    """One story: the lead article, an expandable list of any other sources
+    reporting the same event, and any flagged contradiction between them."""
+    primary_html = render_article(primary)
+
+    others_html = ""
+    if others:
+        others_body = "\n".join(render_article(a) for a in others)
+        others_html = f"""
+    <details class="other-sources">
+      <summary>+{len(others)} other source{"s" if len(others) != 1 else ""} on this story</summary>
+      {others_body}
+    </details>"""
+
+    contradiction_html = render_contradiction_box(contradictions_by_group.get(group_letter, []))
+
+    return f"""
+    <div class="story-cluster">
+      {primary_html}
+      {others_html}
+      {contradiction_html}
+    </div>"""
+
+
 def render_article(a):
     title = escape(a.get("title") or "(untitled)")
     source_name = (a.get("source") or {}).get("name") or "Unknown source"
@@ -192,22 +292,41 @@ def render_article(a):
     </article>"""
 
 
-def render_section(section_id, label, articles, badge=None, limit=None, narrative=None, preview_limit=None):
+def render_section(section_id, label, articles, badge=None, limit=None, narrative=None,
+                    preview_limit=None, dedup=None):
     shown_all = articles[:limit] if limit else articles
 
     if not shown_all:
         body = '<p class="empty">No matching articles in this window.</p>'
-    elif preview_limit and len(shown_all) > preview_limit:
-        visible, rest = shown_all[:preview_limit], shown_all[preview_limit:]
-        visible_html = "\n".join(render_article(a) for a in visible)
-        rest_html = "\n".join(render_article(a) for a in rest)
-        body = f"""{visible_html}
+    else:
+        # clusters: (primary, others) per distinct story -- see
+        # cluster_articles(). With no dedup data this is just one singleton
+        # cluster per article, in the original order, so a topic without
+        # grouping data renders exactly as it did before this feature.
+        clusters = cluster_articles(shown_all, dedup)
+        groups_map = (dedup or {}).get("groups") or {}
+        contradictions_by_group = {}
+        for c in (dedup or {}).get("contradictions") or []:
+            contradictions_by_group.setdefault(c.get("group"), []).append(c)
+
+        def cluster_html(primary, others):
+            letter = groups_map.get(primary.get("url"))
+            return render_cluster(primary, others, contradictions_by_group, letter)
+
+        # The preview/"show more" split now counts STORIES, not raw
+        # articles, so a topic full of 15 outlets covering 3 real events
+        # doesn't trip the toggle just because it has many articles.
+        if preview_limit and len(clusters) > preview_limit:
+            visible, rest = clusters[:preview_limit], clusters[preview_limit:]
+            visible_html = "\n".join(cluster_html(p, o) for p, o in visible)
+            rest_html = "\n".join(cluster_html(p, o) for p, o in rest)
+            body = f"""{visible_html}
     <details class="more">
-      <summary>Show {len(rest)} more article{"s" if len(rest) != 1 else ""}</summary>
+      <summary>Show {len(rest)} more stor{"y" if len(rest) == 1 else "ies"}</summary>
       {rest_html}
     </details>"""
-    else:
-        body = "\n".join(render_article(a) for a in shown_all)
+        else:
+            body = "\n".join(cluster_html(p, o) for p, o in clusters)
 
     badge_html = f'<span class="badge badge-{badge}">{escape(badge)}</span>' if badge else ""
     narrative_html = f'<p class="narrative">{escape(narrative)}</p>' if narrative else ""
@@ -266,6 +385,7 @@ def build_page(date_str, data_dir, archive=False):
         sections.append(render_section(
             flagship["id"], flagship["label"], arts,
             narrative=topic_narratives.get(flagship["id"]), preview_limit=ARTICLE_PREVIEW_LIMIT,
+            dedup=load_dedup(data_dir, flagship["id"]),
         ))
         nav_items.append((flagship["id"], flagship["label"], None, len(arts)))
         us_lens = rank_articles(dedupe(load_articles(data_dir, f"{flagship['id']}-us-lens")))
@@ -286,6 +406,7 @@ def build_page(date_str, data_dir, archive=False):
             sections.append(render_section(
                 topic["id"], topic["label"], arts, badge=badge,
                 narrative=topic_narratives.get(topic["id"]), preview_limit=ARTICLE_PREVIEW_LIMIT,
+                dedup=load_dedup(data_dir, topic["id"]),
             ))
             nav_items.append((topic["id"], topic["label"], badge, len(arts)))
 
@@ -455,7 +576,13 @@ TEMPLATE = """<!DOCTYPE html>
     font-weight: 600;
   }}
   .badge-tripwire {{ background: rgba(255,90,90,0.15); color: var(--tripwire); }}
-  .item {{ margin-bottom: 1.1rem; }}
+  /* Each story (one lead article, optionally more sources + a
+     contradiction box tucked inside) is the spacing unit now, not the
+     bare .item -- see render_cluster(). Un-clustered topics (no dedup
+     data) still get one story-cluster per article, so this replaces
+     .item's old margin-bottom one-for-one rather than adding to it. */
+  .story-cluster {{ margin-bottom: 1.1rem; }}
+  .item {{ margin-bottom: 0; }}
   .item-title {{
     color: var(--text);
     text-decoration: none;
@@ -517,18 +644,53 @@ TEMPLATE = """<!DOCTYPE html>
   .nav-link:hover {{ color: var(--text); border-color: var(--accent); }}
   .nav-link.nav-tripwire {{ border-color: rgba(255,90,90,0.35); color: var(--tripwire); }}
   .nav-count {{ color: var(--muted); font-size: 0.7rem; }}
-  details.more {{ margin-top: 0.5rem; }}
-  details.more summary {{
+  details.more, details.other-sources {{ margin-top: 0.5rem; }}
+  details.more summary, details.other-sources summary {{
     cursor: pointer;
     color: var(--accent);
     font-size: 0.85rem;
     padding: 0.4rem 0;
     list-style: none;
   }}
-  details.more summary::-webkit-details-marker {{ display: none; }}
-  details.more summary:before {{ content: "+ "; }}
-  details.more[open] summary:before {{ content: "− "; }}
-  details.more[open] summary {{ margin-bottom: 0.5rem; }}
+  details.more summary::-webkit-details-marker, details.other-sources summary::-webkit-details-marker {{ display: none; }}
+  details.more summary:before, details.other-sources summary:before {{ content: "+ "; }}
+  details.more[open] summary:before, details.other-sources[open] summary:before {{ content: "− "; }}
+  details.more[open] summary, details.other-sources[open] summary {{ margin-bottom: 0.5rem; }}
+  /* "+N other sources" reads as a lighter-weight aside than the main
+     "show more stories" toggle, so it's dimmer and doesn't compete with it. */
+  details.other-sources summary {{ color: var(--muted); font-size: 0.78rem; }}
+  details.other-sources summary:hover {{ color: var(--text); }}
+  .contradiction-box {{
+    margin: 0.6rem 0 0;
+    padding: 0.6rem 0.85rem;
+    border: 1px solid rgba(255,90,90,0.35);
+    border-left: 3px solid var(--tripwire);
+    border-radius: 0 4px 4px 0;
+    background: rgba(255,90,90,0.06);
+  }}
+  .contradiction-label {{
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--tripwire);
+    font-weight: 600;
+    margin-bottom: 0.3rem;
+  }}
+  .contradiction-summary {{
+    font-size: 0.82rem;
+    color: var(--text);
+    margin: 0 0 0.4rem;
+    line-height: 1.4;
+  }}
+  .contradiction-sources {{
+    margin: 0;
+    padding-left: 1.1rem;
+    font-size: 0.78rem;
+    color: var(--muted);
+    line-height: 1.5;
+  }}
+  .contradiction-sources a {{ color: var(--accent); text-decoration: none; }}
+  .contradiction-sources a:hover {{ text-decoration: underline; }}
   #gsw-top-btn {{
     position: fixed;
     right: 1.25rem;
