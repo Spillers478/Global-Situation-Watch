@@ -50,7 +50,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from html import escape
 
-from search_widget import SEARCH_CSS, render_search_widget
+from search_widget import PAGE_SEARCH_CSS, render_page_search_widget
 from topics import TIER1, TOPICS, TOPIC_SWEEP_ENABLED
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -286,18 +286,19 @@ def build_page(date_str, data_dir, archive=False):
         # This page lives at docs/archive/<YYYY-MM>/<date>.html: "index.html"
         # is this month's own index (sibling file), "../index.html" is the
         # top-level archive (list of months), "../../index.html" is the
-        # live page -- see search_widget.py's docstring for the same ladder.
+        # live page. (The site-wide, cross-day search box lives on those
+        # archive index pages -- see search_widget.py's docstring -- this
+        # page itself only gets the page-local find-and-highlight box
+        # below, so there's no root_prefix to thread through here anymore.)
         links = ('<a href="index.html">This month</a> &middot; '
                  '<a href="../index.html">All months</a> &middot; '
                  '<a href="../../index.html">Latest</a>')
-        root_prefix = "../../"
     else:
         links = '<a href="archive/index.html">Archive</a>'
-        root_prefix = ""
 
     return TEMPLATE.format(date=date_str, nav=nav_html, bluf=bluf_html,
                            sections="\n".join(sections), links=links,
-                           search_css=SEARCH_CSS, search=render_search_widget(root_prefix))
+                           search_css=PAGE_SEARCH_CSS, search=render_page_search_widget())
 
 
 def main():

@@ -47,12 +47,13 @@
   <div class="sub"><a href="../index.html">All months</a> &middot; <a href="../../index.html">Latest briefing</a></div>
   
 <div class="search-wrap">
-  <input id="gsw-search" type="search" placeholder="Search all briefings…" autocomplete="off" aria-label="Search all briefings">
+  <input id="gsw-search" type="search" placeholder="Search September 2026…" autocomplete="off" aria-label="Search September 2026">
   <div id="gsw-search-results" class="search-results" hidden></div>
 </div>
 <script>
 (function() {
   var root = '../../';
+  var scope = "2026-09";
   var box = document.getElementById("gsw-search");
   var out = document.getElementById("gsw-search-results");
   var idx = null, timer = null;
@@ -60,7 +61,10 @@
   function ensureIndex() {
     if (idx) return Promise.resolve(idx);
     return fetch(root + "search-index.json").then(function(r) { return r.json(); })
-      .then(function(d) { idx = d; return d; })
+      .then(function(d) {
+        idx = scope ? d.filter(function(a) { return a.d.indexOf(scope) === 0; }) : d;
+        return idx;
+      })
       .catch(function() { idx = []; return idx; });
   }
 

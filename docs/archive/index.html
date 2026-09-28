@@ -53,6 +53,7 @@
 <script>
 (function() {
   var root = '../';
+  var scope = null;
   var box = document.getElementById("gsw-search");
   var out = document.getElementById("gsw-search-results");
   var idx = null, timer = null;
@@ -60,7 +61,10 @@
   function ensureIndex() {
     if (idx) return Promise.resolve(idx);
     return fetch(root + "search-index.json").then(function(r) { return r.json(); })
-      .then(function(d) { idx = d; return d; })
+      .then(function(d) {
+        idx = scope ? d.filter(function(a) { return a.d.indexOf(scope) === 0; }) : d;
+        return idx;
+      })
       .catch(function() { idx = []; return idx; });
   }
 

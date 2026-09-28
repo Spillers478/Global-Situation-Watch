@@ -257,7 +257,10 @@ def render_month_index(ym, month_summaries):
         title=f"Global Situation Watch — {label}",
         heading=label,
         subnav='<a href="../index.html">All months</a> &middot; <a href="../../index.html">Latest briefing</a>',
-        search=render_search_widget("../../"),
+        # Scoped to this month: search-index.json entries outside ym are
+        # filtered out client-side before matching -- see search_widget.py.
+        # The top-level archive index (render_top_index) stays unscoped.
+        search=render_search_widget("../../", scope_prefix=ym, scope_label=label),
         search_css=SEARCH_CSS, items=_day_items_html(month_summaries),
     )
 

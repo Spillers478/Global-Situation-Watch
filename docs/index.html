@@ -179,26 +179,20 @@
   details.more[open] summary:before { content: "− "; }
   details.more[open] summary { margin-bottom: 0.5rem; }
 
-  .search-wrap { position: relative; margin: 1.1rem 0 0; }
-  .search-wrap input[type=search] {
+  .page-search-wrap { position: relative; margin: 1.1rem 0 0; }
+  .page-search-wrap input[type=search] {
     width: 100%; box-sizing: border-box; background: var(--panel); color: var(--text);
     border: 1px solid var(--border); border-radius: 8px; padding: 0.65rem 0.9rem;
     font-size: 0.9rem; font-family: inherit;
   }
-  .search-wrap input[type=search]:focus { outline: none; border-color: var(--accent); }
-  .search-wrap input[type=search]::-webkit-search-cancel-button { cursor: pointer; }
-  .search-results {
-    position: absolute; left: 0; right: 0; top: calc(100% + 0.35rem); z-index: 20;
-    background: var(--panel); border: 1px solid var(--border); border-radius: 8px;
-    max-height: 60vh; overflow-y: auto; box-shadow: 0 8px 24px rgba(0,0,0,0.35);
+  .page-search-wrap input[type=search]:focus { outline: none; border-color: var(--accent); }
+  .page-search-wrap input[type=search]::-webkit-search-cancel-button { cursor: pointer; }
+  .page-search-count {
+    display: block; margin-top: 0.35rem; color: var(--muted); font-size: 0.75rem; min-height: 1em;
   }
-  .sr-item { display: block; padding: 0.6rem 0.9rem; text-decoration: none;
-             border-bottom: 1px solid var(--border); }
-  .sr-item:last-child { border-bottom: none; }
-  .sr-item:hover, .sr-item:focus { background: rgba(77,159,255,0.08); }
-  .sr-title { display: block; color: var(--text); font-size: 0.85rem; font-weight: 600; }
-  .sr-meta { display: block; color: var(--muted); font-size: 0.72rem; margin-top: 0.15rem; }
-  .sr-empty { color: var(--muted); font-size: 0.82rem; padding: 0.7rem 0.9rem; margin: 0; }
+  mark.gsw-hl {
+    background: rgba(77,159,255,0.4); color: var(--text); border-radius: 2px; padding: 0 0.05em;
+  }
 
 </style>
 </head>
@@ -207,75 +201,82 @@
   <h1>Global Situation Watch</h1>
   <p>2026-09-28 &middot; <a href="archive/index.html">Archive</a></p>
   
-<div class="search-wrap">
-  <input id="gsw-search" type="search" placeholder="Search all briefings…" autocomplete="off" aria-label="Search all briefings">
-  <div id="gsw-search-results" class="search-results" hidden></div>
+<div class="page-search-wrap">
+  <input id="gsw-page-search" type="search" placeholder="Search this page…" autocomplete="off" aria-label="Search this page">
+  <span id="gsw-page-search-count" class="page-search-count"></span>
 </div>
 <script>
 (function() {
-  var root = '';
-  var box = document.getElementById("gsw-search");
-  var out = document.getElementById("gsw-search-results");
-  var idx = null, timer = null;
+  var input = document.getElementById("gsw-page-search");
+  var counter = document.getElementById("gsw-page-search-count");
+  var timer = null;
+  var SELECTOR = ".item-title, .item-desc, .item-extra, .narrative";
 
-  function ensureIndex() {
-    if (idx) return Promise.resolve(idx);
-    return fetch(root + "search-index.json").then(function(r) { return r.json(); })
-      .then(function(d) { idx = d; return d; })
-      .catch(function() { idx = []; return idx; });
+  function targets() {
+    return Array.prototype.slice.call(document.querySelectorAll(SELECTOR));
   }
 
-  function clearResults() { out.innerHTML = ""; out.hidden = true; }
-
-  function renderResults(items, q) {
-    out.innerHTML = "";
-    if (!items.length) {
-      var empty = document.createElement("p");
-      empty.className = "sr-empty";
-      empty.textContent = 'No matches for "' + q + '".';
-      out.appendChild(empty);
-      out.hidden = false;
-      return;
-    }
-    items.slice(0, 40).forEach(function(a) {
-      var link = document.createElement("a");
-      link.className = "sr-item";
-      link.href = root + a.h;
-      var title = document.createElement("span");
-      title.className = "sr-title";
-      title.textContent = a.t;
-      var meta = document.createElement("span");
-      meta.className = "sr-meta";
-      meta.textContent = a.d + " · " + a.l + " · " + a.s;
-      link.appendChild(title);
-      link.appendChild(meta);
-      out.appendChild(link);
+  function reset() {
+    targets().forEach(function(el) {
+      if (el.dataset.gswOrig !== undefined) el.textContent = el.dataset.gswOrig;
     });
-    out.hidden = false;
+    if (counter) counter.textContent = "";
   }
 
-  box.addEventListener("input", function() {
+  function highlightOne(el, q) {
+    if (el.dataset.gswOrig === undefined) el.dataset.gswOrig = el.textContent;
+    var text = el.dataset.gswOrig;
+    var lower = text.toLowerCase();
+    var qlower = q.toLowerCase();
+    var idx = lower.indexOf(qlower);
+    if (idx === -1) {
+      el.textContent = text;
+      return 0;
+    }
+    el.textContent = "";
+    var start = 0, count = 0, i;
+    while ((i = lower.indexOf(qlower, start)) !== -1) {
+      if (i > start) el.appendChild(document.createTextNode(text.slice(start, i)));
+      var mark = document.createElement("mark");
+      mark.className = "gsw-hl";
+      mark.textContent = text.slice(i, i + q.length);
+      el.appendChild(mark);
+      start = i + q.length;
+      count++;
+    }
+    if (start < text.length) el.appendChild(document.createTextNode(text.slice(start)));
+    return count;
+  }
+
+  function highlight(q) {
+    var total = 0, first = null;
+    targets().forEach(function(el) {
+      var n = highlightOne(el, q);
+      total += n;
+      if (n) {
+        if (!first) first = el;
+        var details = el.closest("details.more");
+        if (details && !details.open) details.open = true;
+      }
+    });
+    if (counter) {
+      counter.textContent = total
+        ? (total + " match" + (total !== 1 ? "es" : "") + " on this page")
+        : 'No matches for "' + q + '".';
+    }
+    if (first) first.scrollIntoView({behavior: "smooth", block: "center"});
+  }
+
+  input.addEventListener("input", function() {
     clearTimeout(timer);
-    var q = box.value.trim();
-    if (q.length < 2) { clearResults(); return; }
+    var q = input.value.trim();
     timer = setTimeout(function() {
-      ensureIndex().then(function(items) {
-        var ql = q.toLowerCase();
-        var hits = items.filter(function(a) {
-          return a.t.toLowerCase().indexOf(ql) !== -1 ||
-                 a.l.toLowerCase().indexOf(ql) !== -1 ||
-                 a.s.toLowerCase().indexOf(ql) !== -1;
-        });
-        renderResults(hits, q);
-      });
+      if (q.length < 2) { reset(); return; }
+      highlight(q);
     }, 150);
   });
-
-  document.addEventListener("click", function(e) {
-    if (!e.target.closest(".search-wrap")) clearResults();
-  });
-  box.addEventListener("keydown", function(e) {
-    if (e.key === "Escape") { clearResults(); box.blur(); }
+  input.addEventListener("keydown", function(e) {
+    if (e.key === "Escape") { input.value = ""; reset(); input.blur(); }
   });
 })();
 </script>

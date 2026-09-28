@@ -97,7 +97,7 @@ Below is today's retrieved data, grouped by topic. FLAGSHIP topics are the two p
 
 Write two things and return them as JSON, nothing else (no markdown fences, no commentary before or after):
 
-1. "bluf": A Bottom-Line-Up-Front paragraph (4-6 sentences). Lead with the single most significant development across all topics in the first sentence. Prioritize the FLAGSHIP topics and any TRIPWIRE topic with real activity. Be factual and grounded only in what's in the headlines/descriptions above -- do not speculate or add outside knowledge.
+1. "bluf": A Bottom-Line-Up-Front overview (8-12 sentences) that gives the reader a sense of EVERYTHING happening today across the whole brief, not just the top story -- a reader should be able to read only this paragraph and come away knowing the gist of every topic that had real activity. Lead with the single most significant development across all topics in the first sentence, prioritizing the FLAGSHIP topics and any TRIPWIRE topic with real activity. After that opening, work through the other topics that have meaningful activity today, one to two sentences each, grouping related topics together where it reads naturally. Skip a topic entirely if it had no articles or only noise -- do not manufacture a sentence just to mention it. Be factual and grounded only in what's in the headlines/descriptions above -- do not speculate or add outside knowledge.
 
 2. "topics": an object mapping each topic id to a 2-3 sentence factual summary of what that topic's headlines describe. If a topic's articles look unrelated to the topic itself (keyword noise -- e.g. a labor "strike" article under a military topic) or too sparse/generic to summarize meaningfully, say so plainly in one sentence rather than inventing a coherent narrative. Cover every one of these topic ids: {", ".join(topic_ids)}
 
@@ -147,7 +147,8 @@ def main():
     try:
         response = client.messages.create(
             model=MODEL,
-            max_tokens=2048,
+            max_tokens=3072,  # bumped from 2048 -- the BLUF now covers every
+            # active topic (not just the lead story), so it runs longer
             messages=[{"role": "user", "content": prompt}],
         )
         text = "".join(block.text for block in response.content if block.type == "text")
