@@ -1,0 +1,26 @@
+{
+  "groups": {
+    "https://freerepublic.com/focus/f-chat/4397054/posts": "a",
+    "https://www.wnd.com/2026/09/refrigerators-next-battle-frontier/": "b",
+    "https://www.kqed.org/news/12101526/openai-pauses-training-of-latest-models-after-agents-probed-government-sites-in-unexpected-ways": "c",
+    "https://slashdot.org/story/26/09/27/078251/after-dozens-of-incidents-at-openai-and-anthropic-openai-pauses-model-training-to-build-more-safeguards": "c",
+    "https://www.cbc.ca/news/business/openai-pause-training-after-probes-9.7360166": "c",
+    "https://www.tenable.com/blog/frequently-asked-questions-about-reported-citrix-netscaler-zero-day-vulnerabilities": "d",
+    "https://www.online-tech-tips.com/openai-pauses-ai-training-sandbox-escape/#article": "c",
+    "https://www.wsoctv.com/news/business/openai-pauses/KI2B6RBWEA5WZP2LERTDMGJNUU/": "c",
+    "https://military.com/openai-models-engaged-with-us-government-websites": "c",
+    "https://www.npr.org/2026/09/26/nx-s1-5981979/openai-us-government-websites-misbehavior": "c",
+    "https://securityaffairs.com/199815/ai/openai-agents-accessed-us-government-websites-without-authorization.html": "c",
+    "https://fortune.com/2026/09/26/openai-ai-agents-secure-sandbox-escape-training-pause-second-time-hugging-face-hack/": "c",
+    "https://www.cbc.ca/news/world/openai-rogue-us-sites-activity-9.7359673": "c",
+    "https://securityaffairs.com/199800/cyber-crime/exploit-in-database-reveals-the-roots-of-todays-ransomware-ecosystem.html": "e",
+    "https://wattsupwiththat.com/2026/09/26/refrigerators-the-next-battle-frontier/": "b",
+    "https://www.dailysignal.com/2026/09/26/refrigerators-national-security/": "b",
+    "https://www.cbsnews.com/news/openai-ai-agent-bot-rogue-hack-government-website/": "c",
+    "https://www.cbc.ca/news/world/shinyhunters-data-breach-explainer-9.7356209": "f",
+    "https://www.thehindubusinessline.com/info-tech/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehaviour-disclosure/article71511859.ece": "c",
+    "https://www.bleepingcomputer.com/forums/t/818867/what-mnit-published-on-the-july-water-incident/": "g",
+    "https://www.irishtimes.com/health/2026/09/26/could-the-australian-health-service-website-hack-happen-here/": "c"
+  },
+  "contradictions": []
+}

@@ -1,7 +1,46 @@
 {
   "status": "ok",
-  "totalResults": 20,
+  "totalResults": 23,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "TheJournal.ie"
+      },
+      "author": "Hana Salah",
+      "title": "\u2018We are next\u2019: Gaza families living in homes they know could collapse",
+      "description": "Families in Gaza are being forced to live in buildings damaged by Israeli bombardment because they have nowhere safer to go.",
+      "url": "https://www.thejournal.ie/gaza-collapse-buildings-7169639-Sep2026/",
+      "urlToImage": "https://img2.thejournal.ie/article/7169639/river/?height=400&version=7169858",
+      "publishedAt": "2026-09-27T20:00:12Z",
+      "content": "AT AROUND 2.30 AM\u00a0on Wednesday, 16 September, cracks began spreading through Al-Saada, an eight-storey residential building in southern Al-Rimal, western Gaza City.\r\nThe building had already been dam\u2026 [+8251 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vulture"
+      },
+      "author": "Rima Parikh",
+      "title": "Saturday Night Live Season-Premiere Recap: Jalen Brunson Was SNL\u2019s Team Player",
+      "description": "The SNL crew heavily leans on Jalen Brunson\u2019s championship magic to carry the season premiere, but it proves to not be quite enough.",
+      "url": "http://www.vulture.com/article/saturday-night-live-recap-snl-season-52-episode-1-jalen-brunson.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/d82/ba0/06147b03e3147bfeb65232f0ccfc7c47c7-NUP-211886-00022.1x.rsocial.w1200.jpg",
+      "publishedAt": "2026-09-27T18:08:06Z",
+      "content": "Knicks point guard Jalen Brunson was a major reason that this summer in Mamdanistan felt like magic, thanks to leading the Knicks to their first championship in 53 years. It makes sense, then, that h\u2026 [+7213 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "One month after Nepal\u2019s catastrophic floods, thousands remain missing",
+      "description": "A month after floods tore through Nepal, 5,285 people remain missing and more than 1,100 are still in holding centres.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/09-27-nepal-floods-one-month-sv-mp4",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790530150.jpg?resize=1621%2C1080&quality=80",
+      "publishedAt": "2026-09-27T17:29:50Z",
+      "content": "A month after catastrophic floods tore through Nepal, 5,285 people remain missing and more than 1,100 are still in holding centres. Fresh rains are now worsening conditions for displaced families liv\u2026 [+73 chars]"
+    },
     {
       "source": {
         "id": null,

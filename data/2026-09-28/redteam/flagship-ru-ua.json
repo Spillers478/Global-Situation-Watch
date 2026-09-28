@@ -2,6 +2,146 @@
   "articles": [
     {
       "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "AFP",
+      "title": "Russian strikes on Ukraine kill eight, including children",
+      "description": "Russian strikes have intensified in Ukraine, resulting in the deaths of eight individuals, including children. Authorities reported strikes targeting civilian infrastructure in cities like Kyiv and Sumy on Sunday. Moreover, the ongoing conflict has led to sig\u2026",
+      "url": "https://economictimes.indiatimes.com/news/defence/russian-strikes-on-ukraine-kill-eight-including-children/articleshow/134525915.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134525945,width-1200,height-630,imgsize-131558,overlay-etdefence/articleshow.jpg",
+      "publishedAt": "2026-09-27T19:50:57Z",
+      "content": "Russian strikes on Ukraine - including in Kyiv - killed eight people, Ukrainian authorities said Sunday, a day after Moscow vowed to achieve its war aims \"no matter the circumstances.\"Russia has step\u2026 [+1486 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "gcaptain.com"
+      },
+      "author": "Reuters",
+      "title": "Russia Says It Struck Vessels In Ukraine",
+      "description": "MOSCOW, Sept 27 (Reuters)\u00a0\u2013\u00a0The Russian defense ministry said on Sunday its forces had carried out overnight drone strikes on logistics centers,\u00a0port\u00a0and transport\u00a0infrastructure, as well as communications centers and vessels that...",
+      "url": "https://gcaptain.com/russia-says-it-struck-vessels-in-ukraine/",
+      "urlToImage": "https://gcaptain.com/wp-content/uploads/2023/08/2023-07-25T142501Z_1537315073_RC2DA2A6M3VE_RTRMADP_3_UKRAINE-CRISIS-DANUBE-800x448.jpg",
+      "publishedAt": "2026-09-27T19:39:37Z",
+      "content": "MOSCOW, Sept 27 (Reuters)\u00a0\u2013\u00a0The Russian defense ministry said on Sunday its forces had carried out overnight drone strikes on logistics centers,\u00a0port\u00a0and transport\u00a0infrastructure, as well as communic\u2026 [+1028 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "Elias Clure and Daniel Pannett",
+      "title": "Russia's hybrid attacks have Germans rethinking Nazi-era protections",
+      "description": "European intelligence officials say Russia is behind hundreds of hybrid attacks on the continent this year, and that Western allies are too complacent in the face of Moscow's increasing aggression.",
+      "url": "https://www.abc.net.au/news/2026-09-28/russian-attacks-could-force-germany-to-rethink-wwii-safeguards/107188800",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/f92a3d7e1809569c5cd70fd2c5cd708d?impolicy=wcms_watermark_news&cropH=720&cropW=1280&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-09-27T18:46:47Z",
+      "content": "It was almost midnight on a warm August evening when a bus driver at one of Europe's busiest cargo airports noticed what appeared to be drone debris next to a large Ukrainian aircraft.\r\nThe driver, f\u2026 [+7365 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNA"
+      },
+      "author": null,
+      "title": "Russian strikes on Ukraine kill 8",
+      "description": "KYIV: Russian strikes killed eight people across Ukraine a day after Moscow vowed to achieve its war aims \"no matter the circumstances\", authorities said Sunday (Sep 27).Russia has stepped up attacks on Ukraine's capital in the fifth year of its invasion with\u2026",
+      "url": "https://www.channelnewsasia.com/world/russian-strikes-ukraine-kill-8-6413936",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--O9QN2Hwl--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-27T160735Z_1_LYNXMPEM8Q0EV_RTROPTP_3_UKRAINE-CRISIS-ATTACK-KYIV.JPG?itok=bOVCB3bK",
+      "publishedAt": "2026-09-27T17:46:00Z",
+      "content": "\"This past week, the Russians launched more than 2,200 attack drones against Ukraine, as well as around 1,650 aerial bombs and 38 missiles of various types, a significant number of them ballistic mis\u2026 [+1329 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newser"
+      },
+      "author": "Bob Cronin with Newser.AI",
+      "title": "Neutrality Changes Lose in Switzerland",
+      "description": "Swiss voters have delivered a resounding \"no\" to locking a tougher version of neutrality into their constitution, Reuters reports. About 70% of voters and every canton rejected a proposal that would have barred Switzerland from joining most economic sanctions\u2026",
+      "url": "https://www.newser.com/story/397147/neutrality-changes-lose-in-switzerland.html",
+      "urlToImage": "https://cdn.newser.com/image/1714261-12-20260927121500.jpeg",
+      "publishedAt": "2026-09-27T17:15:00Z",
+      "content": "Foreign Minister Ignazio Cassis stressed that the result doesn't scrap neutrality but keeps it flexible, allowing the government to decide on sanctions case by case and work with partners when it see\u2026 [+507 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Ukraine's attacks on Russia are pushing Putin closer to negotiating table, Trump NATO ambassador says",
+      "description": "Matt Whitaker says Ukrainian attacks inside Russia are pushing both sides closer to peace talks as Trump presses Putin and Zelenskyy to negotiate.",
+      "url": "https://www.foxnews.com/media/ukraine-attacks-russia-pushing-putin-closer-negotiating-table-trump-nato-ambassador-says",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/zelenskyy-putin-peace-talks.jpg",
+      "publishedAt": "2026-09-27T16:59:44Z",
+      "content": "Ukrainian attacks inside Russia are helping push Moscow and Kyiv closer to the negotiating table, U.S. Ambassador to NATO Matt Whitaker said on Saturday, as President Donald Trump continues pressing \u2026 [+2173 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": "rt",
+        "name": "RT"
+      },
+      "author": "RT",
+      "title": "Russia strikes data centers, logistics sites in Ukraine \u2013 MOD",
+      "description": "The Russian Defense Ministry has provided an update on the latest long-range strikes against Ukrainian logistics and military stockpiles Read Full Article at RT.com",
+      "url": "https://www.rt.com/russia/646321-ukraine-data-centers-strikes/",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6ab94a432030277b86235049.png",
+      "publishedAt": "2026-09-27T16:55:37Z",
+      "content": "The Russian military has targeted mobile operator data centers, as well as multiple warehouses and critical infrastructure sites across Ukraine, the Defense Ministry in Moscow has said.\r\nThe ministry\u2026 [+2514 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "Reuters",
+      "title": "Swiss voters set to reject tighter neutrality rules that would curb NATO cooperation",
+      "description": "Swiss voters on Sunday looked set to reject a proposal to adopt a more restrictive form of neutrality that \u2060would have blocked their country from imposing economic sanctions or cooperating with NATO. More than two-thirds voted against a proposal for a strictl\u2026",
+      "url": "https://freerepublic.com/focus/f-news/4397059/posts",
+      "urlToImage": null,
+      "publishedAt": "2026-09-27T16:40:52Z",
+      "content": "Skip to comments.\r\nSwiss voters set to reject tighter neutrality rules that would curb NATO cooperationReuters ^\r\n | September 27, 2026\r\nPosted on 09/27/2026 9:40:52 AM PDT by MinorityRepublican\r\nSwi\u2026 [+1475 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Switzerland rejects stricter interpretation of its neutrality",
+      "description": "The initiative would have prevented the nation from imposing sanctions unless approved by the UN.",
+      "url": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7ca2/live/72ac5380-ba8c-11f1-bd21-bdf910f2cec6.jpg",
+      "publishedAt": "2026-09-27T16:02:17Z",
+      "content": "Voters in Switzerland have overwhelmingly rejected a stricter interpretation of the country's tradition of diplomatic neutrality.\r\nMore than 70% of Swiss voters rejected proposals that would have pre\u2026 [+2041 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "POLITICO.eu"
+      },
+      "author": "Antoaneta Roussi",
+      "title": "Russian tech surveillance company infiltrated Europe\u2019s law enforcement agencies",
+      "description": "The same technology used by Western police was allegedly being developed in Russia and sold to Russian security services.",
+      "url": "https://www.politico.eu/article/russia-tech-surveillance-company-infiltrated-europes-law-enforcement-agencies/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/09/27/GettyImages-970325468.jpg",
+      "publishedAt": "2026-09-27T15:25:16Z",
+      "content": "The first project, EVIDENCE, (European Informatics Data Exchange Framework for Courts and Evidence), which received more than 1.9 million in EU funding between 2014 and 2016, listed Oxygen Forensics \u2026 [+2394 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Isegoria.net"
       },
@@ -30,142 +170,30 @@
     },
     {
       "source": {
-        "id": "rt",
-        "name": "RT"
-      },
-      "author": "RT",
-      "title": "Lavrov unimpressed by German FM\u2019s last-minute UNGA overture (VIDEOS)",
-      "description": "German FM Johann Wadephul brought \u201cnothing new\u201d to UN talks with Russia that he himself requested, Foreign Minister Sergey Lavrov has said Read Full Article at RT.com",
-      "url": "https://www.rt.com/news/646315-lavrov-wadephul-nothing-new/",
-      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6ab8e39885f5403888779fd6.png",
-      "publishedAt": "2026-09-27T12:44:34Z",
-      "content": "German Foreign Minister Johann Wadephul arrived at last-minute talks with Moscow with Berlin\u2019s familiar anti-Russia script firmly in hand, Russian Foreign Minister Sergey Lavrov has said.\r\nWadephul r\u2026 [+5798 chars]",
-      "cocom": "USEUCOM"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalsecurity.org"
-      },
-      "author": "John Pike",
-      "title": "Russian Strikes On Ukraine As Zelenskyy Says Russia Not Ready To End War",
-      "description": "Russian drone strikes killed at least four people in Ukraine overnight and into September 27, including one person in the capital, Kyiv, and three in the southeastern Zaporizhzhya region, Ukrainian officials said.",
-      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260927-rferl02.htm",
-      "urlToImage": null,
-      "publishedAt": "2026-09-27T12:00:00Z",
-      "content": "By RFE/RL September 27, 2026\r\nRussian drone strikes killed at least four people in Ukraine overnight and into September 27, including one person in the capital, Kyiv, and three in the southeastern Za\u2026 [+5682 chars]",
-      "cocom": "USEUCOM"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abcnews.com"
-      },
-      "author": "The Associated Press",
-      "title": "Russian strikes kill 2 in Ukraine after Moscow rejects German calls to de-escalate",
-      "description": "Russian strikes on Ukraine have killed at least two people overnight into Sunday, officials said",
-      "url": "https://abcnews.com/International/wireStory/russian-strikes-kill-2-ukraine-after-moscow-rejects-136794206",
-      "urlToImage": "https://i.abcnewsfe.com/a/379e742d-f80d-4e4e-b8bc-9d58c8055362/wirestory_f91ac88ee287bad2a3c99d2608975f53_16x9.jpg?w=1600",
-      "publishedAt": "2026-09-27T11:27:29Z",
-      "content": "KYIV, Ukraine -- Russian strikes on Ukraine killed at least two people overnight into Sunday, officials said, hours after Moscow rejected German calls to ease off its escalation toward NATO.\r\nRussias\u2026 [+2156 chars]",
-      "cocom": "USEUCOM"
-    },
-    {
-      "source": {
-        "id": "breitbart-news",
-        "name": "Breitbart News"
-      },
-      "author": "Breitbart London",
-      "title": "Russian Strikes Kill Two in Ukraine as Moscow Rejects German Calls to De-Escalate",
-      "description": "Russian strikes on Ukraine killed at least two people overnight into Sunday, officials said, hours after Moscow rejected German calls to ease off its escalation toward NATO.\nThe post Russian Strikes Kill Two in Ukraine as Moscow Rejects German Calls to De-Esc\u2026",
-      "url": "https://www.breitbart.com/europe/2026/09/27/russian-strikes-kill-two-in-ukraine-as-moscow-rejects-german-calls-to-de-escalate/",
-      "urlToImage": "https://media.breitbart.com/media/2026/09/GettyImages-2296808110-2-640x335.jpg",
-      "publishedAt": "2026-09-27T11:12:58Z",
-      "content": "KYIV, Ukraine (AP) \u2013 Russian strikes on Ukraine killed at least two people overnight into Sunday, officials said, hours after Moscow rejected German calls to ease off its escalation toward NATO.\r\nRus\u2026 [+2139 chars]",
-      "cocom": "USEUCOM"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Atlantic"
-      },
-      "author": "Maksym Beznosiuk, Thom Reilly",
-      "title": "The Hidden State Russia Is Building Inside Ukraine",
-      "description": "Russian occupation authorities are doing everything possible to make Ukrainian lands unrecoverable.",
-      "url": "https://www.theatlantic.com/international/2026/09/ukraine-war-russia-occupation-construction/688739/?utm_source=feed",
-      "urlToImage": null,
-      "publishedAt": "2026-09-27T11:00:00Z",
-      "content": "The world has watched Russia\u2019s war against Ukraine largely through the movement of its front lines. But behind those lines, Moscow is building something more durable: a hidden state inside Ukraine. A\u2026 [+11525 chars]",
-      "cocom": "USEUCOM"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalsecurity.org"
-      },
-      "author": "John Pike",
-      "title": "Zelenskyy Says Russia Not Ready To End War, Cites Spending On Jet-Powered Drones",
-      "description": "Ukrainian President Volodymyr Zelenskyy said Moscow is showing no signs it is ready to end its war on its neighbor and he called on the West to remain united in efforts to force the Kremlin to the negotiating table.",
-      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260927-rferl01.htm",
-      "urlToImage": null,
-      "publishedAt": "2026-09-27T10:21:38Z",
-      "content": "By RFE/RL September 27, 2026\r\nUkrainian President Volodymyr Zelenskyy said Moscow is showing no signs it is ready to end its war on its neighbor and he called on the West to remain united in efforts \u2026 [+4886 chars]",
-      "cocom": "USEUCOM"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hurriyet Daily News"
-      },
-      "author": "hurriyetdailynews.com",
-      "title": "Lavrov slams Germany despite meeting counterpart",
-      "description": "Russia\u2019s top diplomat rejected German calls to ease off its \u201cdangerous path of escalation\u201d toward the country, instead accusing Germany of being Ukraine\u2019s main sponsor and seeking to be a leading military power in Europe.",
-      "url": "https://www.hurriyetdailynews.com/lavrov-slams-germany-despite-meeting-counterpart-227412",
-      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6ab8ea4e4f33a65e8bfdcd3b.jpg",
-      "publishedAt": "2026-09-27T10:05:10Z",
-      "content": "UNITED NATIONS\r\nAP Photo\r\nRussias top diplomat rejected German calls to ease off its dangerous path of escalation toward the country, instead accusing Germany of being Ukraines main sponsor and seeki\u2026 [+3161 chars]",
-      "cocom": "USEUCOM"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nakedcapitalism.com"
-      },
-      "author": "Conor Gallagher",
-      "title": "Russia Could Make An Energy Truce Conditional On Resuming Pipeline Exports To Europe",
-      "description": "Daydreaming about sensible approaches off the warpath ignore the fact that Europe\u2019s ruling class doesn\u2019t do sensible anymore.",
-      "url": "https://www.nakedcapitalism.com/2026/09/russia-could-make-an-energy-truce-conditional-on-resuming-pipeline-exports-to-europe.html",
-      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2026/09/Screenshot-2026-09-27-at-9.49.06\u202fAM-1024x437.png",
-      "publishedAt": "2026-09-27T10:00:52Z",
-      "content": "This is Naked Capitalism fundraising week. 719 donors have already invested in our efforts to combat corruption and predatory conduct, particularly in the financial realm. Please join us and particip\u2026 [+6061 chars]",
-      "cocom": "USEUCOM"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
+        "id": "cbc-news",
+        "name": "CBC News"
       },
       "author": null,
-      "title": "Finland's Stubb credits Trump for pushing Ukraine peace talks while dismissing Russian invasion fears",
-      "description": "Finnish President Alexander Stubb credits Trump with pushing for Russia-Ukraine war peace and says Finland is fully prepared for any Moscow threat.",
-      "url": "https://www.foxnews.com/world/finlands-stubb-credits-trump-pushing-ukraine-peace-talks-while-dismissing-russian-invasion-fears",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/trump-stubb.png",
-      "publishedAt": "2026-09-27T10:00:14Z",
-      "content": "UNITED NATIONS As Ukrainian President Volodymyr Zelenskyy warns that Russia could take its war beyond Ukraine, Finnish President Alexander Stubb is striking a markedly calmer tone saying Finland is p\u2026 [+7795 chars]",
+      "title": "Swiss voters set to reject tighter neutrality rules that would curb NATO co-operation",
+      "description": "Swiss voters on Sunday looked set to reject a proposal to adopt a more restrictive form of neutrality that would have blocked their \u200bcountry from imposing economic sanctions or co-operating with NATO.",
+      "url": "https://www.cbc.ca/news/world/swiss-voters-reject-tighter-neutrality-9.7360123",
+      "urlToImage": "https://i.cbc.ca/ais/1a91c5d7-f461-4534-9c3f-521499eb3d78,1790512519915/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C444%2C5400%2C3037%29%3BResize%3D620",
+      "publishedAt": "2026-09-27T13:04:33Z",
+      "content": "Swiss voters on Sunday firmly rejected a proposal to adopt a more restrictive form of neutrality that would have blocked their country from imposing economic sanctions or co-operating with NATO.\r\nMor\u2026 [+3251 chars]",
       "cocom": "USEUCOM"
     },
     {
       "source": {
-        "id": null,
-        "name": "The Conversation Africa"
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
       },
-      "author": "Antoine Marie, Chercheur post-doctorant, Sciences Po; \u00c9cole normale sup\u00e9rieure (ENS) \u2013 PSL, Maxime Audinet, Assistant Professor in International Relations and International Communication, Institut national des langues et civilisations orientales (Inalco)",
-      "title": "Xenia Fedorova, or how Russian propaganda turns free thinking on itself",
-      "description": "The Fedorova case is emblematic of a rhetorical method used by Russian propaganda: appealing to the targeted public\u2019s critical thinking to convince them to disregard sources seen as \u201cofficial\u201d and \u201cdominant.\u201d",
-      "url": "https://theconversation.com/xenia-fedorova-or-how-russian-propaganda-turns-free-thinking-on-itself-292858",
-      "urlToImage": "https://images.theconversation.com/files/762116/original/file-20260910-50-v8j2ab.jpg?ixlib=rb-4.1.1&rect=0%2C0%2C5874%2C2937&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2026-09-27T09:03:14Z",
-      "content": "KEY TAKEAWAYS\n\n\u2022 On September 24, the European Union sanctioned Xenia Fedorova, the Russian former head of the French arm of Russia Today (RT) and media commentator for the Bollor\u00e9 group for her role\u2026 [+9141 chars]",
+      "author": "Al Jazeera Staff",
+      "title": "Swiss voters set to reject tighter neutrality rules in referendum",
+      "description": "About 71 percent of voters oppose initiative to impose stricter limits on neutrality, projection suggests.",
+      "url": "https://www.aljazeera.com/news/2026/9/27/swiss-voters-set-to-reject-tighter-neutrality-rules-in-referendum",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab63db73f92-1790328247.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-27T12:45:42Z",
+      "content": "Swiss voters appear to have overwhelmingly rejected a proposal to impose stricter constitutional limits on the countrys longstanding neutrality.\r\nAbout 71 percent voted against the initiative in a re\u2026 [+2144 chars]",
       "cocom": "USEUCOM"
     },
     {
@@ -212,51 +240,6 @@
       "content": "European military experts are tracking urgent danger signs that suggest Vladimir Putin may be preparing for a direct escalation against the NATO alliance.\r\nWhat analysts are split over is whether the\u2026 [+7783 chars]",
       "cocom": "USEUCOM",
       "_original_topic_id": "T03"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Finland's Stubb credits Trump for pushing Ukraine peace talks while dismissing Russian invasion fears",
-      "description": "Finnish President Alexander Stubb credits Trump with pushing for Russia-Ukraine war peace and says Finland is fully prepared for any Moscow threat.",
-      "url": "https://www.foxnews.com/world/finlands-stubb-credits-trump-pushing-ukraine-peace-talks-while-dismissing-russian-invasion-fears",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/trump-stubb.png",
-      "publishedAt": "2026-09-27T10:00:14Z",
-      "content": "UNITED NATIONS As Ukrainian President Volodymyr Zelenskyy warns that Russia could take its war beyond Ukraine, Finnish President Alexander Stubb is striking a markedly calmer tone saying Finland is p\u2026 [+7795 chars]",
-      "cocom": "USEUCOM",
-      "_original_topic_id": "T07"
-    },
-    {
-      "source": {
-        "id": "cbc-news",
-        "name": "CBC News"
-      },
-      "author": "Chris Brown",
-      "title": "Putin appears to be eyeing NATO. The question is, will he actually attack?",
-      "description": "European military experts warn that Russia is actively planning targeted aggression against NATO to test alliance solidarity. Recent high-alert incidents include a foiled explosive drone plot at a German airport and a strike near the Ukraine-Poland border tar\u2026",
-      "url": "https://www.cbc.ca/news/world/putin-nato-europe-escalation-9.7358582",
-      "urlToImage": "https://i.cbc.ca/ais/939025f3-a19b-4a84-92f0-0bcf9d3d0668,1790373045542/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C18%2C4234%2C2381%29%3BResize%3D620",
-      "publishedAt": "2026-09-27T08:00:00Z",
-      "content": "European military experts are tracking urgent danger signs that suggest Vladimir Putin may be preparing for a direct escalation against the NATO alliance.\r\nWhat analysts are split over is whether the\u2026 [+7783 chars]",
-      "cocom": "USEUCOM",
-      "_original_topic_id": "T07"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Garrison Vance",
-      "title": "Ukrainian Strike Kills Three Humanitarian Workers in Zaporozhye Region, Russian Officials Say",
-      "description": "Three humanitarian workers from Omsk Region were killed and one volunteer was injured in a Ukrainian strike near the village of Novobogdanovka in Zaporozhye Region, according to Russian officials. The incident occurred on Friday, local officials said. Zaporoz\u2026",
-      "url": "https://www.naturalnews.com/2026-09-27-ukranian-strike-kills-humanitarian-workers-russian-officials-say.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/ukrainian-strike-humanitarian-workers-zaporozhye-region-4486-original.jpg",
-      "publishedAt": "2026-09-27T06:00:00Z",
-      "content": "Three humanitarian workers from Omsk Region were killed and one volunteer was injured in a Ukrainian strike near the village of Novobogdanovka in Zaporozhye Region, according to Russian officials. Th\u2026 [+6424 chars]",
-      "cocom": "USEUCOM",
-      "_original_topic_id": "T07"
     },
     {
       "source": {

@@ -1,7 +1,267 @@
 {
   "status": "ok",
-  "totalResults": 111,
+  "totalResults": 131,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "WTAE Pittsburgh"
+      },
+      "author": null,
+      "title": "Anthropic and OpenAI sound the alarm on AI safety",
+      "description": "As tech titans warned an AI-weary world that their own advanced systems could endanger humanity, the question emerged: What do they have to gain?",
+      "url": "https://www.wtae.com/article/anthropic-openai-sound-alarm-on-ai-safety/73909542",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/3b9943c0-acdf-4ad5-8117-94a3b3900c77.jpg?crop=1.00xw%3A0.846xh%3B0%2C0&resize=1200%3A*",
+      "publishedAt": "2026-09-27T20:16:48Z",
+      "content": "SAN FRANCISCOAs tech titans warned an AI-weary world that their own advanced systems could endanger humanity, the question emerged: What do they have to gain?\r\nVideo above: Trump says US won't put br\u2026 [+7615 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WPBF West Palm Beach"
+      },
+      "author": null,
+      "title": "Anthropic and OpenAI sound the alarm on AI safety",
+      "description": "As tech titans warned an AI-weary world that their own advanced systems could endanger humanity, the question emerged: What do they have to gain?",
+      "url": "https://www.wpbf.com/article/anthropic-openai-sound-alarm-on-ai-safety/73909542",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/3b9943c0-acdf-4ad5-8117-94a3b3900c77.jpg?crop=1.00xw%3A0.846xh%3B0%2C0&resize=1200%3A*",
+      "publishedAt": "2026-09-27T20:16:37Z",
+      "content": "SAN FRANCISCOAs tech titans warned an AI-weary world that their own advanced systems could endanger humanity, the question emerged: What do they have to gain?\r\nVideo above: Trump says US won't put br\u2026 [+7615 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WESH Orlando"
+      },
+      "author": null,
+      "title": "Anthropic and OpenAI sound the alarm on AI safety",
+      "description": "As tech titans warned an AI-weary world that their own advanced systems could endanger humanity, the question emerged: What do they have to gain?",
+      "url": "https://www.wesh.com/article/anthropic-openai-sound-alarm-on-ai-safety/73909542",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/3b9943c0-acdf-4ad5-8117-94a3b3900c77.jpg?crop=1.00xw%3A0.846xh%3B0%2C0&resize=1200%3A*",
+      "publishedAt": "2026-09-27T20:16:32Z",
+      "content": "SAN FRANCISCOAs tech titans warned an AI-weary world that their own advanced systems could endanger humanity, the question emerged: What do they have to gain?\r\nVideo above: Trump says US won't put br\u2026 [+7615 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "gcaptain.com"
+      },
+      "author": "Bloomberg",
+      "title": "Iran Says Won\u2019t Soften Demands As Trump Rejects Hormuz Offer",
+      "description": "By\u00a0Eltaf Najafizada and Courtney Subramanian Sep 27, 2026 (Bloomberg) \u2013Iran stuck to its seven-day proposal for reopening the crucial Strait of Hormuz, saying it won\u2019t soften its conditions, while President...",
+      "url": "https://gcaptain.com/iran-says-wont-soften-demands-as-trump-rejects-hormuz-offer/",
+      "urlToImage": "https://gcaptain.com/wp-content/uploads/2026/09/2026-09-14T193943Z_33032287_RC2DINA3FLHM_RTRMADP_3_IRAN-CRISIS-USS-GEORGE-WASHINGTON-800x533.jpg",
+      "publishedAt": "2026-09-27T20:07:19Z",
+      "content": "By\u00a0Eltaf Najafizada and Courtney Subramanian\r\nSep 27, 2026 (Bloomberg) \u2013Iran stuck to its seven-day proposal for reopening the crucial Strait of Hormuz, saying it wont soften its conditions, while Pr\u2026 [+4009 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Israelnationalnews.com"
+      },
+      "author": "Israel National News",
+      "title": "Iran warns US of 'doomsday war,' claims it has changed military tactics",
+      "description": "Iranian Foreign Minister Abbas Araghchi tells NBC that Tehran is prepared for a 'doomsday war' with the US but remains willing to pursue diplomacy.",
+      "url": "https://www.israelnationalnews.com/news/433734",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1194848.jpg",
+      "publishedAt": "2026-09-27T20:02:14Z",
+      "content": "Iranian Foreign Minister Abbas Araghchi warned on Sunday that Iran is fully prepared for renewed military confrontation with the United States, including what he described as a \"doomsday war,\" while \u2026 [+4467 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Bill Gates says AI without regulation is \u2018completely irresponsible\u2019",
+      "description": "The billionaire cofounder of Microsoft says, without restrictions, AI could 'cause a billion deaths'.",
+      "url": "https://www.aljazeera.com/news/2026/9/27/bill-gates-says-ai-without-regulation-is-completely-irresponsible",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6ab9600e-1790533646.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-27T19:34:42Z",
+      "content": "Not requiring AI to have safeguards and be subject to outside monitoring is completely irresponsible and could lead to global harm to humanity, said tech mogul Bill Gates, in a series of media appear\u2026 [+3092 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "Alan Kohler",
+      "title": "Interest rates set to rise but likely to be a short-term trend",
+      "description": "The Reserve Bank will increase interest rates on Tuesday, but three new factors entirely outside the bank's control are pulling rates in different directions.",
+      "url": "https://www.abc.net.au/news/2026-09-28/interest-rate-hike-could-be-short-lived/107200848",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/59091fb2176287038945aa61a32cae83?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-09-27T19:03:06Z",
+      "content": "The Reserve Bank will increase interest rates on Tuesday for the fourth time this year, and what's more, it will be a \"hawkish hike\" that is, with suggestions of more to come.\r\nBut there are now thre\u2026 [+9212 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wnd.com"
+      },
+      "author": "RealClearWire",
+      "title": "Why the nuclear analogy is wrong for artificial intelligence",
+      "description": "A 'plateau' won't come from 'balance of power,' but only from control 'of the continuum'",
+      "url": "https://www.wnd.com/2026/09/why-nuclear-analogy-is-wrong-artificial-intelligence/",
+      "urlToImage": "https://www.wnd.com/wp-content/uploads/2023/07/ai-artificial-intelligence-clear-mannequin-dummy-image-of-the-beast-humans-man-clear-see-thhrough-transparent-transparency-pexels-1200x630.jpg",
+      "publishedAt": "2026-09-27T18:41:30Z",
+      "content": "The conventional wisdom is well-established: the race between the United States and China to build powerful artificial intelligence is most akin to the arms race of the atomic age.\u00a0 Sam Altman of Ope\u2026 [+4595 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Sammy Westfall, (c) 2026 , The Washington Post",
+      "title": "Trump says U.S.-Iran talks will continue this week despite rejecting latest offer",
+      "description": "U.S. and Iranian officials said Sunday they still see a chance of a negotiated solution to the Iran war despite President Donald Trump's rejection of Tehran's latest offer.Trump told Axios on Sunday that he expected U.S. negotiators to continue indirect talks\u2026",
+      "url": "https://www.yahoo.com/news/politics/articles/trump-says-u-iran-slated-173419570.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/87ff257cb19a59f70108ae45c2e19a3f7c1d66903b4a585b4a40573a7a69f673/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F955634ae-821b-4ce3-847d-4fa6d7c0eed7",
+      "publishedAt": "2026-09-27T18:34:13Z",
+      "content": "U.S. and Iranian officials said Sunday they still see a chance of a negotiated solution to the Iran war despite President Donald Trump's rejection of Tehran's latest offer.\r\nTrump told Axios on Sunda\u2026 [+3534 chars]"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Edward Helmore",
+      "title": "UN ambassador Waltz says Iran was not negotiating \u2018in good faith\u2019 to end war",
+      "description": "However, the US president says he expects talks with Tehran to resume shortly",
+      "url": "https://www.irishtimes.com/world/2026/09/27/un-ambassador-waltz-says-iran-was-not-negotiating-in-good-faith-to-end-war/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/FLBYSYA3C6O5Y4MOOCRDLWJZKY.jpg?smart=true&auth=a1fef5c8a9714fc91968384b0314c44f98f8b64ae41de4903ebbf481551b9f5f&width=1200&height=630",
+      "publishedAt": "2026-09-27T18:28:00Z",
+      "content": "The Trump administrations ambassador to the United Nations (UN) said the US rejected Irans proposal to end the war there because Iranian negotiators were asking for everything up front.\r\nEchoing comm\u2026 [+3898 chars]"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Edward Helmore",
+      "title": "UN ambassador Waltz says Iran was not negotiating \u2018in good faith\u2019 to end war",
+      "description": "However, the US president says he expects talks with Tehran to resume shortly",
+      "url": "https://www.irishtimes.com/wires/guardian/2026/09/27/un-ambassador-waltz-says-iran-was-not-negotiating-in-good-faith-to-end-war/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/FLBYSYA3C6O5Y4MOOCRDLWJZKY.jpg?smart=true&auth=a1fef5c8a9714fc91968384b0314c44f98f8b64ae41de4903ebbf481551b9f5f&width=1200&height=630",
+      "publishedAt": "2026-09-27T18:28:00Z",
+      "content": "The Trump administrations ambassador to the United Nations (UN) said the US rejected Irans proposal to end the war there because Iranian negotiators were asking for everything up front.\r\nEchoing comm\u2026 [+3898 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": null,
+      "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" Sept. 27, 2026",
+      "description": "On this \"Face the Nation with Margaret Brennan\" broadcast, Iranian President Masoud Pezeshkian and  Alexander Yui, Taiwan representative to the U.S., join Margaret Brennan.",
+      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-09-27-2026/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/25/426e326e-7859-47f2-9be5-b95d79633448/thumbnail/1200x630g1/f0f28ee6e5a85de2826e7a8912e97e1d/28-41-20260925-085500-ftn-masoud-pezeshkian-interview-ots-liveu-2-1-mxf.png",
+      "publishedAt": "2026-09-27T18:06:57Z",
+      "content": "On this \"Face the Nation with Margaret Brennan\" broadcast, moderated by Margaret Brennan:\u00a0\r\n<ul><li>Iranian President Masoud Pezeshkian\u00a0</li><li>Sen. John Kennedy, Republican of Louisiana\u00a0</li><li>Re\u2026 [+45587 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Mike Waltz: US offered to sell Iran uranium for civilian programme",
+      "description": "US ambassador says Iran refused to agree to an arrangement where uranium would be supplied by Washington.",
+      "url": "https://www.aljazeera.com/news/2026/9/27/mike-waltz-us-offered-to-sell-iran-uranium-for-civilian-programme",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab940f720ef-1790525687.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-27T17:42:45Z",
+      "content": "As part of previous negotiations aimed at ending its war on Iran, the United States offered to sell Tehran uranium for use in a civilian programme, but Iran refused, a top US official said on Sunday.\u2026 [+4586 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "zerohedge.com",
+      "title": "The DOE Demands Faster Uranium Enrichment Buildout. Who's Answering The Call?",
+      "description": "The DOE Demands Faster Uranium Enrichment Buildout. Who's Answering The Call?\n \nDOE officials told Reuters they are pressing Centrus Energy, General Matter, and France's Orano to accelerate their new build programs.\nThe start of the Russia-Ukraine war in 2022\u2026",
+      "url": "https://biztoc.com/x/f5ef0528316587b5",
+      "urlToImage": "https://biztoc.com/cdn/f5ef0528316587b5_s.webp",
+      "publishedAt": "2026-09-27T17:31:42Z",
+      "content": "The DOE Demands Faster Uranium Enrichment Buildout. Who's Answering The Call?\r\nDOE officials told Reuters they are pressing Centrus Energy, General Matter, and France's Orano to accelerate their new \u2026 [+144 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Kai Xue",
+      "title": "There wasn\u2019t much to Xi: A red carpet, a fragile truce and the search for US-China stability",
+      "description": "During Xi Jinping's state visit to Washington, leaders announced modest tariff cuts and a new dialogue on AI safety. The ongoing US-Iran war significantly affects the strategic relationship between the two powers. A report highlights the US's dependence on Ch\u2026",
+      "url": "https://economictimes.indiatimes.com/opinion/et-commentary/there-wasnt-much-to-xi-a-red-carpet-a-fragile-truce-and-the-search-for-us-china-stability/articleshow/134523880.cms",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2237132,resizemode-75,msid-134523880/opinion/et-commentary/there-wasnt-much-to-xi-a-red-carpet-a-fragile-truce-and-the-search-for-us-china-stability.jpg",
+      "publishedAt": "2026-09-27T17:13:32Z",
+      "content": "Beijing: At the end of a long red carpet, the two presidents and their wives stood before a 21-member honour guard as the national flags of both countries waved. They looked like two powers of equal \u2026 [+4689 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wnd.com"
+      },
+      "author": "Daily Caller News Foundation",
+      "title": "Has prelude to World War III arrived? \u2018Key players greatly underestimate the potential for disaster\u2019",
+      "description": "'There are nine nuclear weapons states, and nuclear weapons significantly constrain the freedom of action of the great powers'",
+      "url": "https://www.wnd.com/2026/09/has-prelude-world-war-iii-arrived-key-players/",
+      "urlToImage": "https://www.wnd.com/wp-content/uploads/2026/09/warfare-weapons-mortars-explosives-fire-military-defense-pentagon-jpg-1200x630.jpg",
+      "publishedAt": "2026-09-27T17:12:21Z",
+      "content": "Soldiers fire an M120 mortar system during a live-fire training at Grafenwoehr Training Area, Germany, Wednesday, Sept. 23, 2026. (U.S. Army photo by Sgt. Collin Mackall)\r\nA growing collection of war\u2026 [+14019 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wattsupwiththat.com"
+      },
+      "author": "Guest Blogger",
+      "title": "Infinite Friction: Why the Nuclear Analogy Is Wrong for AI",
+      "description": "In the age of powerful AI, a geopolitical plateau of strategic stability will not come in a static balance of power, negotiated in the manner of bygone nuclear doctrines.\u00a0 \nThe post Infinite Friction: Why the Nuclear Analogy Is Wrong for AI appeared first on \u2026",
+      "url": "https://wattsupwiththat.com/2026/09/27/infinite-friction-why-the-nuclear-analogy-is-wrong-for-ai/",
+      "urlToImage": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/09/Nuclear_mushroom_cloud_of_Fat_Man.webp?fit=1200%2C805&quality=75&ssl=1",
+      "publishedAt": "2026-09-27T17:00:00Z",
+      "content": "By Garrison Moratto\r\nThe conventional wisdom is well-established: the race between the United States and China to build powerful artificial intelligence is most akin to the arms race of the atomic ag\u2026 [+4443 chars]"
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Pam Key",
+      "title": "Sen. Kelly: Trump 'Stuck\u2019 in Iran War 'Without an Exit Strategy'",
+      "description": "Sunday on ABC\u2019s \u201cThis Week,\u201d Sen. Mark Kelly (D-AZ) said President Donald Trump is \u201cstuck\u201d in the Iran military conflict without an exit strategy. Partial transcript as follows: RADDATZ: I do want to talk about the war now, and you\u2019ve\nThe post Sen. Kelly: Tru\u2026",
+      "url": "https://www.breitbart.com/clips/2026/09/27/sen-kelly-trump-stuck-in-iran-war-without-an-exit-strategy/",
+      "urlToImage": "https://media.breitbart.com/media/2026/08/kelly6734-640x335.jpg",
+      "publishedAt": "2026-09-27T16:53:57Z",
+      "content": "Sunday on ABC\u2019s \u201cThis Week,\u201d Sen. Mark Kelly (D-AZ) said President Donald Trump is \u201cstuck\u201d in the Iran military conflict without an exit strategy.RADDATZ: I do want to talk about the war now, and you\u2026 [+1144 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "author": "Ragnar Purje Ph.D.",
+      "title": "Superior Intelligence Is Here, and We Are at a Crossroads",
+      "description": "What the rise of machine cognition means for education and autonomy.",
+      "url": "https://www.psychologytoday.com/us/blog/recovery-from-brain-injury/202609/superior-intelligence-is-here-and-we-are-at-a-crossroads",
+      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-09/image_by_mabel_amber_pixabay.png.jpg?itok=uaS0TD2z",
+      "publishedAt": "2026-09-27T16:37:42Z",
+      "content": "We need to talk about universal truths. One such truth, from a psychological perspective, is that if a problem is ignored or denied, it will continue to be a problem. Issues, problems, and concerns n\u2026 [+7098 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Israelnationalnews.com"
+      },
+      "author": "Israel National News",
+      "title": "Trump expects more talks with Iran this week despite rejecting latest deal",
+      "description": "Trump expects fresh negotiations with Iran this week despite rejecting Tehran's proposal, while keeping the possibility of further military strikes open.",
+      "url": "https://www.israelnationalnews.com/news/433724",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1221859.jpg",
+      "publishedAt": "2026-09-27T16:20:43Z",
+      "content": "US President Donald Trump said Sunday that he anticipates another round of negotiations with Iran in the coming days, despite rejecting Tehran's latest proposal for ending the conflict.\r\nSpeaking to \u2026 [+3073 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1041,266 +1301,6 @@
       "urlToImage": "https://img.haarets.co.il/bs/000001a0-dcbf-ddbb-a1ff-ffffa4ab0000/4f/10/55bbb7254c2085162a5264607118/517273-2.jpg?precrop=2400,1395,x0,y136&width=1200&height=630&cmsprod",
       "publishedAt": "2026-09-26T09:51:13Z",
       "content": "A classified intelligence assessment provided to the U.S. Congress said Saudi Arabia is open to possibly developing a nuclear weapon, The Washington Post reported on Friday, citing U.S. officials."
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Freddie Clayton",
-      "title": "Iran says choice on reopening Hormuz \u2018rests with the United States\u2019 after deal offer",
-      "description": "The choice to reopen the Strait of Hormuz \u201crests with the United States,\u201d Iranian Foreign Minister Abbas Araghchi said Friday, indicating shipping through the critical waterway could resume within days once a deal is reached.",
-      "url": "https://www.nbcnews.com/world/iran/iran-says-choice-reopening-hormuz-rests-united-states-offer-rcna599956",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260926-iran-nd-8c729f.jpg",
-      "publishedAt": "2026-09-26T09:35:55Z",
-      "content": "The choice to reopen the Strait of Hormuz rests with the United States, Iranian Foreign Minister Abbas Araghchi said Friday, indicating shipping through the critical waterway could resume within days\u2026 [+4172 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "POLITICO.eu"
-      },
-      "author": "Nette N\u00f6stlinger",
-      "title": "Iran says Strait of Hormuz could reopen within seven days if US accepts deal",
-      "description": "U.S. President Donald Trump reportedly rejected the plan pitched by Tehran.",
-      "url": "https://www.politico.eu/article/iran-strait-of-hormuz-reopen-us-accepts-deal/",
-      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/09/26/GettyImages-2293189053-scaled.jpg",
-      "publishedAt": "2026-09-26T09:31:17Z",
-      "content": "Iranian Foreign Minister Abbas Araghchi Friday said his country is offering to reopen the Strait of Hormuz within seven days and resume talks on its nuclear program in exchange for concessions from W\u2026 [+1127 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Stephen Quillen",
-      "title": "Trump \u2018rejects\u2019 Iran\u2019s seven-day ceasefire proposal. What\u2019s next?",
-      "description": "Analysts say Trump may opt to resume attacks on Iran after November midterm elections.",
-      "url": "https://www.aljazeera.com/news/2026/9/26/trump-reportedly-rejects-irans-seven-day-ceasefire-proposal-whats-next",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6ab78491c0ba-1790411921.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-09-26T09:28:19Z",
-      "content": "United States President Donald Trump has reportedly ruled out an Iranian proposal to reopen the Strait of Hormuz within a week, according to unnamed US officials cited by The Wall Street Journal.\r\nTr\u2026 [+4995 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Yuliya Talmazan",
-      "title": "Europe frets as the Kremlin pushes the limits of its hybrid warfare",
-      "description": "The Kremlin is testing Europe\u2018s limits.",
-      "url": "https://www.nbcnews.com/world/europe/europe-frets-kremlin-pushes-limits-hybrid-warfare-rcna599351",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260808-germany-aiport-drone-ch-1102-c38853.jpg",
-      "publishedAt": "2026-09-26T09:00:40Z",
-      "content": "The Kremlin is testing Europes limits. \r\nAfter months of covert attacks and sabotage across the continent, leaders are warning that Moscow may be about to grow bolder as it seeks to sow chaos and int\u2026 [+6007 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Protothema.gr"
-      },
-      "author": "Newsroom",
-      "title": "Trump rejects Iran\u2019s proposal for a seven-day ceasefire as opening of Strait of Hormuz hangs in the balance",
-      "description": "Tehran seeks to reopen the strategic sea route under certain conditions, while Washington appears determined to continue operations\nThe post Trump rejects Iran\u2019s proposal for a seven-day ceasefire as opening of Strait of Hormuz hangs in the balance appeared f\u2026",
-      "url": "https://en.protothema.gr/2026/09/26/trump-rejects-irans-proposal-for-a-seven-day-ceasefire-as-opening-of-strait-of-hormuz-hangs-in-the-balance/",
-      "urlToImage": "https://en.protothema.gr/wp-content/uploads/2026/09/trump_un.webp",
-      "publishedAt": "2026-09-26T07:56:33Z",
-      "content": "US President Donald Trump rejected Irans proposal for an initial seven-day ceasefire, as Tehran has submitted a plan to reopen the Strait of Hormuz under specific conditions.\r\nAccording to a Wall Str\u2026 [+1826 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Whitehouse.gov"
-      },
-      "author": null,
-      "title": "Fact Sheet: President Donald J. Trump Advances a Fair and Reciprocal Relationship with China While Hosting Historic State Visit",
-      "description": "Fact Sheet: President Donald J. Trump Advances a Fair and Reciprocal Relationship with China While Hosting Historic State Visit DELIVERING FOR AMERICANS:\u00a0This week, President Donald J. Trump and First Lady Melania Trump hosted President Xi Jinping and Madame \u2026",
-      "url": "http://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/",
-      "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Social-Share-Card.jpg",
-      "publishedAt": "2026-09-26T07:47:06Z",
-      "content": "DELIVERING FOR AMERICANS:\u00a0This week, President Donald J. Trump and First Lady Melania Trump hosted President Xi Jinping and Madame Peng Liyuan of the Peoples Republic of China for a reciprocal State \u2026 [+4224 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Standard"
-      },
-      "author": "ANI",
-      "title": "Trump approval rating drops to 37% amid approaching US midterm elections",
-      "description": "The Wall Street Journal said the rating is the lowest for any president heading into midterm elections in its polls dating to 1990, as Trump prepares to campaign for Republicans",
-      "url": "https://www.business-standard.com/world-news/trump-approval-rating-drops-to-37-amid-approaching-us-midterm-elections-126092600365_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/04/thumb/fitandfill/1200X628/1788511643-9143.JPG",
-      "publishedAt": "2026-09-26T07:27:11Z",
-      "content": "US President Donald Trump's approval rating has dropped to 37 per cent, the lowest of any president heading into midterm elections in Wall Street Journal polls dating to 1990, even as Trump has been \u2026 [+2562 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sputnikglobe.com"
-      },
-      "author": "Sputnik International",
-      "title": "Trump Rejects Iran\u2019s Hormuz Reopening Plan, Examining New Strikes - Reports",
-      "description": "WASHINGTON (Sputnik) - US President Donald Trump has rejected Tehran\u2019s proposal for a week-long reopening of the Hormuz Strait and is considering new strikes after midterm elections in the United States, media reported on Friday, citing US officials.",
-      "url": "https://sputnikglobe.com/20260926/trump-rejects-irans-hormuz-reopening-plan-examining-new-strikes---reports-1124793002.html",
-      "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1124793002.jpg?11239349291790406740",
-      "publishedAt": "2026-09-26T07:12:19Z",
-      "content": "The Israeli and US military launched Operation Epic Fury against Iran on February 28, 2026, over its alleged development of a nuclear program. Iran consistently stated that the program was peaceful i\u2026 [+1503 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gossiplankanews.com"
-      },
-      "author": "noreply@blogger.com (Unknown)",
-      "title": "Trump rejects Iran's proposed 7-day ceasefire",
-      "description": "The joint proposal called the \u201c7-day plan\u201d presented by Iran has been rejected by United States President Donald Trump. According to reports from America's Wall Street Journal (WSJ) newspaper, the President expects to resume air strikes against Iran after the\u2026",
-      "url": "https://english.gossiplankanews.com/2026/09/trump-rejects-irans-proposed-7-day.html",
-      "urlToImage": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_se2svY5fiLsPkiDKnVvuuFPRdtZQ2YmhX7ueHpCuXppHPd2fPTeXB8yphrhBsGpH0a5D7o6WQc5R5jZ6eu-WIG4hiBtXHp6EhNV-JDr0D3SvV-HbQed2dPg2QjmkujAIaxBRDvIKafNowUdu4Xj1Otxea4z85Qtqzwmw=w1600",
-      "publishedAt": "2026-09-26T07:05:28Z",
-      "content": "The joint proposal called the \u201c7-day plan\u201d presented by Iran has been rejected by United States President Donald Trump. According to reports from America's Wall Street Journal (WSJ) newspaper, the Pr\u2026 [+1676 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Daily Star"
-      },
-      "author": "Mahmudul Hasan",
-      "title": "Bangladesh, US sign civil nuclear cooperation deal",
-      "description": "The MoU recorded the shared position that all civil nuclear cooperation should follow the highest standards of nuclear safety, security, safeguards, and non-proliferation",
-      "url": "https://www.thedailystar.net/business/news/bangladesh-us-sign-civil-nuclear-cooperation-deal-4283266",
-      "urlToImage": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-09/BD%20US%20deal.jpg",
-      "publishedAt": "2026-09-26T06:41:29Z",
-      "content": "Bangladesh and the United States have signed a deal on strategic civil nuclear cooperation to deepen ties on the peaceful use of nuclear energy.\r\nRehan Asad, adviser to the prime minister for telecom\u2026 [+1586 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "AP",
-      "title": "China has kept its promise to stop funding overseas coal, but loopholes are helping coal expand",
-      "description": "Chinese President Xi Jinping's 2021 pledge to halt overseas coal financing is being challenged by ongoing energy demands. While China has cancelled many coal projects, private investments continue unabated in countries like Indonesia and Vietnam. Southeast As\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/chinas-coal-funding-loopholes-the-unseen-threat-to-global-climate-goals/articleshow/134498853.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134498886,width-1200,height-630,imgsize-72372,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-26T06:21:47Z",
-      "content": "United Nations: Addressing the UN General Assembly in 2021, Chinese President Xi Jinping pledged to stop funding overseas coal power plants in an effort to help curb climate change. Five years later,\u2026 [+6172 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "The Associated Press",
-      "title": "Trump labels Hormuz 'Trump Strait' after Iran offers conditions to reopen waterway",
-      "description": "U.S. President Donald Trump has posted an image of the Strait of Hormuz labeled \u201cTrump Strait\u201d shortly after Iran proposed a deal to open the waterway within a week if the U.S. meets certain conditions.\n Meanwhile, Iranian media outlets say the country's pres\u2026",
-      "url": "https://www.yahoo.com/news/world/articles/saudi-arabia-says-intercepts-another-060457242.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c133b7ce6e828f4ac956665146fc1ba85eda452067bab025123b2b865ec7cc61/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F7435b842d09ce9cee75c31c7e85491db.jpg",
-      "publishedAt": "2026-09-26T06:04:57Z",
-      "content": "U.S. President Donald Trump has posted an image of the Strait of Hormuz labeled \"Trump Strait\" shortly after Iran proposed a deal to open the waterway within a week if the U.S. meets certain conditio\u2026 [+4575 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Garrison Vance",
-      "title": "Navy Secretary Sends Letter to USS Abraham Lincoln Crew Amid Extended Deployment",
-      "description": "Acting Navy Secretary Hung Cao sent a letter to the crew of the USS Abraham Lincoln carrier strike group addressing the ship\u2019s extended deployment, according to a Navy statement and the letter cited by CNN and other outlets [1][2][3]. The letter was delivered\u2026",
-      "url": "https://www.naturalnews.com/2026-09-26-navy-secretary-letter-uss-abraham-lincoln-crew.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/uss-abraham-lincoln-extended-deployment-navy-secretary-4431-original.jpg",
-      "publishedAt": "2026-09-26T06:00:00Z",
-      "content": "Acting Navy Secretary Hung Cao sent a letter to the crew of the USS Abraham Lincoln carrier strike group addressing the ship's extended deployment, according to a Navy statement and the letter cited \u2026 [+6706 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ANI",
-      "title": "'Process will begin the day they accept,' says Iran President Pezeshkian after Trump rejects ceasefire proposal",
-      "description": "Iranian President Masoud Pezeshkian concluded his visit to New York for the 81st UN General Assembly. He held meetings with various world leaders to discuss U.S.-Iran relations and issues of conflict. Pezeshkian emphasized the atmosphere of distrust between I\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-rejects-irans-ceasefire-proposal-heightening-tensions-ahead-of-midterm-elections/articleshow/134498119.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134498118,width-1200,height-630,imgsize-45744,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-26T05:57:04Z",
-      "content": "Iran president says Tehran wants return to memorandum with USNew York [US]: Iranian President Masoud Pezeshkian left New York for Tehran after attending and addressing the 81st United Nations General\u2026 [+3520 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ANI",
-      "title": "'Unacceptable': Qatar PM says Strait of Hormuz situation 'very difficult, very challenging'",
-      "description": "Qatar Prime Minister and Minister of Foreign Affairs Mohammed bin Abdulrahman bin Jassim Al-on Friday (local time) said that the situation in the Strait of Hormuz is \"very difficult and challenging\", while calling for an end to the \"manipulation and blackmail\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/unacceptable-qatar-pm-says-strait-of-hormuz-situation-very-difficult-very-challenging/articleshow/134497417.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134497416,width-1200,height-630,imgsize-220222,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-26T04:46:06Z",
-      "content": "New York: Qatar Prime Minister and Minister of Foreign Affairs Mohammed bin Abdulrahman bin Jassim Al-Thon Friday (local time) said that the situation in the Strait of Hormuz is \"very difficult and c\u2026 [+4384 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sputnikglobe.com"
-      },
-      "author": "Sputnik International",
-      "title": "Iran Offers 7-Day Hormuz Reopening Plan to US \u2014 Araghchi",
-      "description": "Iranian Foreign Minister Abbas Araghchi said Tehran has sent Washington, through Qatar, a concrete seven-day plan to reopen the Strait of Hormuz and restart negotiations if the US fulfills agreed conditions.",
-      "url": "https://sputnikglobe.com/20260926/iran-offers-7-day-hormuz-reopening-plan-to-us--araghchi-1124791961.html",
-      "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1124791961.jpg?11245802001790396613",
-      "publishedAt": "2026-09-26T04:23:31Z",
-      "content": "The Israeli and US military launched Operation Epic Fury against Iran on February 28, 2026, over its alleged development of a nuclear program. Iran consistently stated that the program was peaceful i\u2026 [+2357 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "'Trump Strait': US President shares new map of Hormuz after rejecting Iran's 7-day ceasefire offer",
-      "description": "Donald Trump has dismissed Iran's offer to restore maritime passage through the Strait of Hormuz within a week. Iranian Foreign Minister Abbas Araghchi linked the reopening of the strait to several conditions, including sanctions relief. Trump previously sugg\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-strait-us-president-shares-new-map-of-hormuz-after-rejecting-irans-7-day-ceasefire-offer/articleshow/134496963.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134496970,width-1200,height-630,imgsize-51708,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-26T04:10:32Z",
-      "content": "US President Donald Trump has labelled the Strait of Hormuz \"Trump Strait\" on a map shared on Truth Social, days after turning down Tehran's proposal to reopen the waterway within a week.Iranian Fore\u2026 [+2059 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Reuters",
-      "title": "Oil prices slide about 2% as US, Iran explore path out of war",
-      "description": "Oil prices have dropped roughly 2%, influenced by signs of diplomatic advancement between the US and Iran concerning the Strait of Hormuz. As negotiations unfold, the US is contemplating a ban on diesel exports, impacting crude oil futures. Meanwhile, escalat\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-slide-about-2-as-us-iran-explore-path-out-of-war/articleshow/134496730.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134496743,width-1200,height-630,imgsize-152132,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-26T03:58:53Z",
-      "content": "Oil prices fell about 2% on Friday on mounting hopes for a truce between the US and Iran and talk about a possible US ban on diesel exports, even as traders worried that increasing attacks against Sa\u2026 [+3533 chars]"
-    },
-    {
-      "source": {
-        "id": "the-irish-times",
-        "name": "The Irish Times"
-      },
-      "author": "John Banville",
-      "title": "John Banville reviews On the Equality of All Things by Carlo Rovelli",
-      "description": "The Italian theoretical physicist\u2019s most ambitious work so far is marvellous, insouciant and liberating",
-      "url": "https://www.irishtimes.com/culture/books/review/2026/09/26/on-the-equality-of-all-things-by-carlo-rovelli-a-sceptical-eye-on-humanitys-grand-claims/",
-      "urlToImage": "https://www.irishtimes.com/resizer/v2/CDUHVRTQGNFV7EB4KI32PUZTEQ.jpg?smart=true&auth=f2d703a3e8483e68eb3b4ff3f1b844b788d82cf7b4354b2b3a9a044519908f7a&width=1200&height=630",
-      "publishedAt": "2026-09-26T03:46:00Z",
-      "content": "On the Equality of All Things: Physics and Philosophy \r\nAuthor:Carlo Rovelli trans. Simon Carnell \r\nGuideline Price:\u00a320; 192pp\r\nIt is a misconception widely entertained, even by some of its cleverest\u2026 [+9716 chars]"
-    },
-    {
-      "source": {
-        "id": "rt",
-        "name": "RT"
-      },
-      "author": "RT",
-      "title": "Trump prepares to bomb Iran after midterms \u2013 WSJ",
-      "description": "President Trump has rejected Iran\u2019s latest ceasefire proposal and told aides that he expects Washington to resume bombing the Islamic Republic after the November elections, the Wall Street Journal reported, citing US officials",
-      "url": "https://www.rt.com/news/646264-trump-renew-iran-bombing/",
-      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6ab72f2a85f54033da445718.jpg",
-      "publishedAt": "2026-09-26T03:11:41Z",
-      "content": "President Donald Trump has rejected Iran\u2019s latest ceasefire proposal and told aides that he expects Washington to resume bombing the Islamic Republic after the November midterm elections, the Wall St\u2026 [+2382 chars]"
     }
   ]
 }

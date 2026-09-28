@@ -1,0 +1,16 @@
+{
+  "groups": {
+    "https://www.yahoo.com/news/science/articles/sea-level-rise-reshaping-california-100600946.html": "a",
+    "https://peoplesreview.com.np/2026/09/27/rain-floods-damage-power-grid-483-mw-generation-halted/": "b",
+    "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_11d89b5b-0d14-4d08-a6bd-a0f2850ff286": "c",
+    "https://www.yahoo.com/news/weather-news/live/noreaster-live-updates-powerful-storm-batters-east-coast-with-coastal-flooding-high-winds-and-power-outages-150729723.html": "c",
+    "https://economictimes.indiatimes.com/news/international/global-trends/dangerous-noreaster-batters-the-us-east-coast-one-dead-hundreds-of-flights-cancelled-thousands-still-without-power-as-states-of-emergency-continue-in-new-york-and-new-jersey/articleshow/134524888.cms": "c",
+    "https://nypost.com/2026/09/27/us-news/hurricane-polo-barrels-toward-mexico-as-socal-braces-for-dangerous-surf-flooding/": "d",
+    "https://nypost.com/2026/09/27/us-news/long-island-swimmer-vanishes-in-ocean-off-fire-island-during-deadly-noreaster-as-officials-launch-search/": "c",
+    "https://www.cbc.ca/news/canada/thunder-bay/neskantaga-first-nation-evacuation-update-9.7359829": "e",
+    "https://www.dailymail.com/news/article-16163029/noreaster-falling-tree-man-killed.html": "c",
+    "https://www.aljazeera.com/video/newsfeed/2026/9/27/09-27-nepal-floods-one-month-sv-mp4": "f",
+    "https://peoplesreview.com.np/2026/09/27/six-dead-407-rescued-as-floods-landslides-hit-nepal/": "b"
+  },
+  "contradictions": []
+}

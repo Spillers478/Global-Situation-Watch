@@ -3,17 +3,73 @@
     {
       "source": {
         "id": null,
-        "name": "POLITICO.eu"
+        "name": "Freerepublic.com"
       },
-      "author": "Antoaneta Roussi",
-      "title": "Russian tech surveillance company infiltrated Europe\u2019s law enforcement agencies",
-      "description": "The same technology used by Western police was allegedly being developed in Russia and sold to Russian security services.",
-      "url": "https://www.politico.eu/article/russia-tech-surveillance-company-infiltrated-europes-law-enforcement-agencies/",
-      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/09/27/GettyImages-970325468.jpg",
-      "publishedAt": "2026-09-27T15:25:16Z",
-      "content": "The first project, EVIDENCE, (European Informatics Data Exchange Framework for Courts and Evidence), which received more than 1.9 million in EU funding between 2014 and 2016, listed Oxygen Forensics \u2026 [+2394 chars]",
-      "cocom": "USEUCOM",
+      "author": "Trending Politics",
+      "title": "CEO Charged In Scheme To Infiltrate Secret Service With Foreign Nationals",
+      "description": "An American technology executive and a Russian national have been charged with conspiracy to commit wire fraud in connection with alleged efforts to conceal Russian ownership and software development at a digital forensics firm that obtained U.S. government c\u2026",
+      "url": "https://freerepublic.com/focus/f-chat/4397054/posts",
+      "urlToImage": null,
+      "publishedAt": "2026-09-27T15:56:27Z",
+      "content": "Skip to comments.\r\nCEO Charged In Scheme To Infiltrate Secret Service With Foreign NationalsTrending Politics ^\r\n | 9/26/2026\r\n | Cullen McCue\r\nPosted on 09/27/2026 8:56:27 AM PDT by Signalman\r\nAn Am\u2026 [+5404 chars]",
+      "cocom": "USNORTHCOM",
       "_original_topic_id": "flagship-ru-ua"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wnd.com"
+      },
+      "author": "RealClearWire",
+      "title": "Refrigerators: The next battle frontier?",
+      "description": "'If a sophisticated adversary wanted to test its ability to disrupt the infrastructure supporting America's military without firing a shot, is this what it might look like?'",
+      "url": "https://www.wnd.com/2026/09/refrigerators-next-battle-frontier/",
+      "urlToImage": "https://www.wnd.com/wp-content/uploads/2026/09/refrigerators-home-appliances-unsplash-1200x630.jpg",
+      "publishedAt": "2026-09-27T17:40:22Z",
+      "content": "Refrigerators are probably the last thing anyone would consider a national security vulnerability, which is precisely why the unusual refrigeration failures at U.S. military commissaries deserve more\u2026 [+8187 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KQED"
+      },
+      "author": "Samantha Kennedy",
+      "title": "OpenAI Pauses Training of Latest Models After Agents Probed Government Sites in Unexpected Ways",
+      "description": "It's the second time in three months the company paused development.",
+      "url": "https://www.kqed.org/news/12101526/openai-pauses-training-of-latest-models-after-agents-probed-government-sites-in-unexpected-ways",
+      "urlToImage": "https://cdn.kqed.org/wp-content/uploads/sites/10/2025/10/SamAltmanGetty.jpg",
+      "publishedAt": "2026-09-27T15:30:00Z",
+      "content": "San Francisco-based OpenAI said it has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount.\r\nThe decision to halt development came just hours after \u2026 [+1990 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "EditorDavid",
+      "title": "After Dozens of Incidents at OpenAI and Anthropic, OpenAI Pauses Model Training to Build More Safeguards",
+      "description": "\"OpenAI said it has paused training of its latest AI models,\" reports the Associated Press, \"as reports of AI agents going rogue mount.\"\n\nThe decision to halt development came just hours after the company disclosed Friday that it was reviewing several inciden\u2026",
+      "url": "https://slashdot.org/story/26/09/27/078251/after-dozens-of-incidents-at-openai-and-anthropic-openai-pauses-model-training-to-build-more-safeguards",
+      "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
+      "publishedAt": "2026-09-27T14:34:00Z",
+      "content": "\"OpenAI said it has paused training of its latest AI models,\" reports the Associated Press, \"as reports of AI agents going rogue mount.\"\r\nThe decision to halt development came just hours after the co\u2026 [+5290 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "OpenAI pauses training of latest models after AI agents probed U.S. government sites in unexpected ways",
+      "description": "OpenAI said it has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount.",
+      "url": "https://www.cbc.ca/news/business/openai-pause-training-after-probes-9.7360166",
+      "urlToImage": "https://i.cbc.ca/ais/c117d8df-6441-463b-b295-34b6e4d3711e,1790517059579/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C417%2C8015%2C4508%29%3BResize%3D620",
+      "publishedAt": "2026-09-27T14:16:04Z",
+      "content": "OpenAI said it has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount.\r\nThe decision to halt development came just hours after the company disclose\u2026 [+3207 chars]",
+      "cocom": "USNORTHCOM"
     },
     {
       "source": {
@@ -27,6 +83,104 @@
       "urlToImage": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/articles/citrix-netscaler-zero-days-reportedly-exploited-in-the-wild-september-2026.png?itok=8oJjoc3t",
       "publishedAt": "2026-09-27T09:35:21Z",
       "content": "There are reportedly two unpatched zero-day Citrix NetScaler vulnerabilities capable of enabling remote code execution that have been actively exploited in the wild, with no patches available at this\u2026 [+5654 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Online-tech-tips.com"
+      },
+      "author": "Aseem Kishore",
+      "title": "OpenAI Pauses AI Training After Sandbox Escape: What to Know",
+      "description": "OpenAI pauses AI training on its most capable models after a sandbox escape. Here's what happened, what it means for ChatGPT users, and who should care.\nThe post OpenAI Pauses AI Training After Sandbox Escape: What to Know first appeared on Online Tech Tips.",
+      "url": "https://www.online-tech-tips.com/openai-pauses-ai-training-sandbox-escape/#article",
+      "urlToImage": "https://www.online-tech-tips.com/wp-content/uploads/2026/09/openai-pauses-ai-training-sandbox-escape-featured.webp",
+      "publishedAt": "2026-09-27T05:12:31Z",
+      "content": "OpenAI has paused work on its most capable AI models, covering their training, evaluation, and any inference that uses tools, according to an incident report OpenAI published on September 25, 2026 an\u2026 [+10453 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WSOC Charlotte"
+      },
+      "author": "Bernard Condon",
+      "title": "OpenAI halts development of its latest models as evidence of agents going rogue mount",
+      "description": "OpenAI announced it has halted development of its latest artificial intelligence models hours after it disclosed its agents scouring federal government website acted in unexpected ways that suggest a lack of control",
+      "url": "https://www.wsoctv.com/news/business/openai-pauses/KI2B6RBWEA5WZP2LERTDMGJNUU/",
+      "urlToImage": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FE475Z3QSSE24NDB6YU3GYPSETA.jpg?auth=9e0c7f34bcb88734705b377c8ef27bc64d121520be5eab5eaff5f3e69c597102&width=1200&height=630&smart=true",
+      "publishedAt": "2026-09-27T00:16:59Z",
+      "content": "NEW YORK \u2014 OpenAI said it has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount.\r\nThe decision to halt development came just hours after the compa\u2026 [+3004 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Military.com"
+      },
+      "author": "MLT Staff",
+      "title": "OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure",
+      "description": "It was able to access publicly available information on websites operated by the Securities and Exchange Commission and U.S. Census Bureau data.",
+      "url": "https://military.com/openai-models-engaged-with-us-government-websites",
+      "urlToImage": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/09/ap26260139104766.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-09-26T23:49:42Z",
+      "content": "SAN FRANCISCO (AP) OpenAI disclosed Friday that its artificial intelligence agents had interacted with several U.S. government websites in unexpected ways, discovered as part of an ongoing review int\u2026 [+3570 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "The Associated Press",
+      "title": "OpenAI says its models engaged with US government websites in misbehavior disclosure",
+      "description": "The disclosure is the latest in a string of incidents in which the AI platform has been caught going rogue. OpenAI says it is reviewing the findings.",
+      "url": "https://www.npr.org/2026/09/26/nx-s1-5981979/openai-us-government-websites-misbehavior",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+209/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F18%2Ffc%2F1d5e6422446f958a5ac01b18bc20%2Fap26260139104766.jpg",
+      "publishedAt": "2026-09-26T17:10:04Z",
+      "content": "SAN FRANCISCO OpenAI disclosed Friday that its artificial intelligence agents had interacted with several U.S. government websites in unexpected ways, discovered as part of an ongoing review into the\u2026 [+3593 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "OpenAI Agents Accessed US Government Websites Without Authorization",
+      "description": "OpenAI is investigating AI agents that accessed US gov websites without authorization, including an attempted Education Department hack. OpenAI disclosed on Friday that its AI agents had interacted with US government websites in ways nobody planned or authori\u2026",
+      "url": "https://securityaffairs.com/199815/ai/openai-agents-accessed-us-government-websites-without-authorization.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2026/09/image-76.png",
+      "publishedAt": "2026-09-26T15:41:32Z",
+      "content": "OpenAI Agents Accessed US Government Websites Without Authorization\r\nOpenAI disclosed on Friday that its AI agents had interacted with US government websites in ways nobody planned or authorized, as \u2026 [+3992 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Jeremy Kahn",
+      "title": "OpenAI says its AI agents escaped a secure \u2018sandbox\u2019 again last weekend and is pausing training for a second time",
+      "description": "The company is again looking to improve its test controls after a Sept. 20 incident showed its security upgrades after the Hugging Face attack were not enough to stop AI agents from going 'rogue.'",
+      "url": "https://fortune.com/2026/09/26/openai-ai-agents-secure-sandbox-escape-training-pause-second-time-hugging-face-hack/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2296177332-e1790434491678.jpg?resize=1200,600",
+      "publishedAt": "2026-09-26T15:25:02Z",
+      "content": "OpenAI said in a technical report released on Friday that an AI model it was training and evaluating broke out of its secure testing environment as recently as last weekend and took unauthorized acti\u2026 [+5123 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "OpenAI bots accessed public U.S. Census, SEC data, as company discloses unexpected AI activity",
+      "description": "OpenAI disclosed Friday that its artificial intelligence agents had interacted with several U.S. government websites in unexpected ways, discovered as part of an ongoing review into the company\u2019s models\u2019 unanticipated behavior.",
+      "url": "https://www.cbc.ca/news/world/openai-rogue-us-sites-activity-9.7359673",
+      "urlToImage": "https://i.cbc.ca/ais/5270b93a-e4ca-4aac-8811-169935df9d4e,1790428149304/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C600%2C5760%2C3240%29%3BResize%3D620",
+      "publishedAt": "2026-09-26T14:38:18Z",
+      "content": "OpenAI's artificial intelligence\u00a0agents have interacted with several U.S. government websites in unplanned ways, the company disclosed on Friday, amid growing concerns about rogue AI activity. \r\nThe \u2026 [+6164 chars]",
       "cocom": "Transregional"
     },
     {
@@ -83,7 +237,7 @@
       "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/26/9fc118a3-d581-445f-9c5a-00ceff41cf90/thumbnail/1200x630/1446466def22e25748dc9e40ae936d72/gettyimages-2296267856.jpg",
       "publishedAt": "2026-09-26T08:52:35Z",
       "content": "OpenAI disclosed Friday that its artificial intelligence agents had interacted with several U.S. government websites in unexpected ways, as part of an ongoing review into the company's models' unanti\u2026 [+2757 chars]",
-      "cocom": "USNORTHCOM"
+      "cocom": "Transregional"
     },
     {
       "source": {
@@ -111,7 +265,7 @@
       "urlToImage": "https://bl-i.thgim.com/public/incoming/r1v6io/article71300140.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_U913LO212_R1521727298_3_fa3f1feb-bb9c-4bd0-9f4d-53a38b64562d.jpg",
       "publishedAt": "2026-09-26T07:05:54Z",
       "content": "OpenAI disclosed Friday that its artificial intelligence agents had interacted with several US government websites in unexpected ways, discovered as part of an ongoing review into the company's model\u2026 [+3605 chars]",
-      "cocom": "USNORTHCOM"
+      "cocom": "Transregional"
     },
     {
       "source": {
@@ -140,34 +294,6 @@
       "publishedAt": "2026-09-26T05:00:00Z",
       "content": "News this week that the Australian public health service website was hacked by an OpenAI agent sparked alarm around the globe about the increasing risks artificial intelligence poses to cybersecurity\u2026 [+3014 chars]",
       "cocom": "Transregional"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Tom McKay",
-      "title": "OpenAI\u2019s \u2018Rogue AI\u2019 Problem Is Bigger Than It Let On",
-      "description": "Friday night news dump!",
-      "url": "https://gizmodo.com/openais-rogue-ai-problem-is-bigger-than-it-let-on-2000817780",
-      "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
-      "publishedAt": "2026-09-26T04:16:21Z",
-      "content": "After a spree of AI-involved hacks originating from frontier labs at Anthropic, Google, Meta, and OpenAI, new disclosures and reports indicate that OpenAI\u2019s issues with naughty agents are broader tha\u2026 [+3908 chars]",
-      "cocom": "Transregional"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abcnews.com"
-      },
-      "author": "KAITLYN HUAMANI Associated Press, GARANCE BURKE Associated Press",
-      "title": "OpenAI says its models engaged with US government websites in new model misbehavior disclosure",
-      "description": "OpenAI has disclosed its artificial intelligence models have interacted with U.S. government websites in unexpected ways",
-      "url": "https://abcnews.com/Technology/wireStory/openai-models-engaged-us-government-websites-new-model-136774638",
-      "urlToImage": "https://i.abcnewsfe.com/a/ded9d658-da01-4048-a057-5617d9408732/wirestory_df331b55daffc6d202d8e2f6d0afa264_16x9.jpg?w=1600",
-      "publishedAt": "2026-09-26T04:11:16Z",
-      "content": "SAN FRANCISCO -- OpenAI disclosed Friday that its artificial intelligence agents had interacted with several U.S. government websites in unexpected ways, discovered as part of an ongoing review into \u2026 [+3630 chars]",
-      "cocom": "USNORTHCOM"
     }
   ]
 }

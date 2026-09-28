@@ -2,72 +2,76 @@
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
+        "id": "bbc-news",
+        "name": "BBC News"
       },
-      "author": "By Trevor Hunnicutt, Yomna Ehab and Jana Choukeir",
-      "title": "Iran insists on diplomatic solution after Trump rejects peace plan",
-      "description": "By Trevor Hunnicutt, Yomna Ehab and Jana Choukeir WASHINGTON/UNITED NATIONS/DUBAI, Sept 27 (Reuters) - Iran insisted on Sunday that only diplomacy can solve its conflict with the United States and Israel, after US President Donald Trump said he rejected an Ir\u2026",
-      "url": "https://www.yahoo.com/news/articles/iran-insists-diplomatic-solution-trump-223552721.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/ca6842ca3a8f02906293d9652d161f6fae39c4c2cde14e91d2f650581582279d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fc2bf7558150d89f85cbc4eb5b974c69f.jpg",
-      "publishedAt": "2026-09-27T15:45:53Z",
-      "content": "By Trevor Hunnicutt, Yomna Ehab and Jana Choukeir\r\nWASHINGTON/UNITED NATIONS/DUBAI, Sept 27 (Reuters) - Iran insisted on Sunday that only diplomacy can solve its conflict with the United States and I\u2026 [+5459 chars]",
-      "cocom": "USCENTCOM"
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "More questions than answers after major incident near RAF Fairford",
+      "description": "The vital US launchpad in England has long been a possible target, writes diplomatic correspondent James Landale.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gd1r8dk1ko",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a0d5/live/b4d70ae0-baa8-11f1-96c0-052f341a8103.jpg",
+      "publishedAt": "2026-09-27T19:32:05Z",
+      "content": "But some eyes, too, have turned to Moscow. \r\nDanish intelligence warned last week Russia could in the coming months launch a limited military attack on a Nato country.\r\nGermany has already formally a\u2026 [+1601 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "flagship-ru-ua"
     },
     {
       "source": {
         "id": null,
-        "name": "Crooksandliars.com"
+        "name": "Mother Jones"
       },
-      "author": "Heather",
-      "title": "Trump Says No To Iran Deal To Reopen Strait Of Hormuz",
-      "description": "Just days after he was threatening to annihilate Iran to the UN General Assembly, it is stunning that Trump is now claiming he's rejecting an Iranian proposal to reopen the Strait of Hormuz. \nAs The Guardian reported, it was more of the same old song and danc\u2026",
-      "url": "https://crooksandliars.com/2026/09/trump-claims-hes-rejecting-iranian",
-      "urlToImage": "https://crooksandliars.com/files/primary_image/26/09/fox-trump-iran-092626.png",
-      "publishedAt": "2026-09-27T15:43:38Z",
-      "content": "Just days after he was threatening to annihilate Iran to the UN General Assembly, it is stunning that Trump is now claiming he's rejecting an Iranian proposal to reopen the Strait of Hormuz. \r\nAs The\u2026 [+4871 chars]",
-      "cocom": "USCENTCOM"
+      "author": "Alex Nguyen",
+      "title": "Irish Soccer Fans Call for Boycotting Matches With Israel",
+      "description": "On Sunday afternoon, Ireland is set to play a soccer match against Israel amid widespread public calls and protests in the country to boycott the game due to Israel\u2019s violent conduct in Gaza, which a UN report found to be a genocide.\u00a0 The match will take plac\u2026",
+      "url": "https://www.motherjones.com/politics/2026/09/irish-soccer-fans-call-for-boycotting-matches-with-israel/",
+      "urlToImage": "https://www.motherjones.com/wp-content/uploads/2026/09/ireland-israel-soccer-boycott-2000.jpg?w=1200&h=630&crop=1",
+      "publishedAt": "2026-09-27T16:47:40Z",
+      "content": "Protesters in Dublin demand the cancellation of two Ireland-Israel football matches over Israel's killing of Palestinians.Nadia Caimi/JNA Press/Cover Images/AP\r\nGet your news from a source thats not \u2026 [+9223 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "flagship-ru-ua"
     },
     {
       "source": {
         "id": null,
-        "name": "Common Dreams"
+        "name": "Israelnationalnews.com"
       },
-      "author": "Jessica Corbett",
-      "title": "Iran Pushes for A Negotiated End to War After Trump Rejects Ceasefire Proposal",
-      "description": "\u201cThere is no alternative to a negotiated solution,\" an Iranian foreign minister said.",
-      "url": "https://www.commondreams.org/news/iran-foreign-minister",
-      "urlToImage": "https://truthout.org/app/uploads/2026/09/GettyImages-2296611194.jpg",
-      "publishedAt": "2026-09-27T15:42:06Z",
-      "content": "Did you know that Truthout is a nonprofit and independently funded by readers like you? If you value what we do, please support our work with a donation.\r\nAs U.S. President Donald Trump publicly reje\u2026 [+6782 chars]",
-      "cocom": "USCENTCOM"
+      "author": "Orli Harari",
+      "title": "Five arrested in suspected Iranian attempt to attack USAF base",
+      "description": "Five men were arrested after three suspicious vans were spotted heading toward RAF Fairford, as British counter-terror police investigate a possible Iranian-linked terror plot.",
+      "url": "https://www.israelnationalnews.com/news/433722",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1153778.jpg",
+      "publishedAt": "2026-09-27T15:57:57Z",
+      "content": "British counter-terrorism police are investigating whether Iran was behind a suspected bomb plot targeting RAF Fairford, a military base used by US forces.\r\nFive men have been arrested under the Expl\u2026 [+6170 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "flagship-ru-ua"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Irish PM rejects antisemitism concerns in Ireland amid dramatic vote over boycotting Israel game",
+      "description": "Irish Prime Minister Miche\u00e1l Martin rejected antisemitism claims as Ireland's soccer players held a dramatic last-minute vote on playing against Israel.",
+      "url": "https://www.foxnews.com/politics/irish-pm-rejects-antisemitism-concerns-ireland-amid-dramatic-vote-boycotting-israel-game",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/micheal-martin-stop-the-game.jpg",
+      "publishedAt": "2026-09-27T15:43:48Z",
+      "content": "Irish Prime Minister Miche\u00e1l Martin rejected claims that Ireland's sharp criticism of Israel has crossed into antisemitism as tensions flared around a politically charged soccer match between the cou\u2026 [+9725 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "flagship-ru-ua"
     },
     {
       "source": {
         "id": null,
-        "name": "Abcnews.com"
+        "name": "gcaptain.com"
       },
-      "author": "The Associated Press",
-      "title": "Air base at the center of a UK terror probe has been used by the US Air Force during the Iran war",
-      "description": "British police have arrested five men on suspicion of preparing an act of terrorism and explosives offenses outside RAF Fairford, a base in western England operated by the U.S. Air Force",
-      "url": "https://abcnews.com/International/wireStory/air-base-center-uk-terror-probe-us-air-136797598",
-      "urlToImage": "https://i.abcnewsfe.com/a/f9a0512b-9689-4d32-82b3-40ff937f800e/wirestory_739a99fedaac750343cb01f92a40bc3b_16x9.jpg?w=1600",
-      "publishedAt": "2026-09-27T15:38:56Z",
-      "content": "LONDON -- British police arrested five men on Sunday on suspicion of preparing an act of terrorism and explosives offenses outside RAF Fairford, a military base in western England thats operated by t\u2026 [+2411 chars]",
-      "cocom": "USEUCOM"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sputnikglobe.com"
-      },
-      "author": "Sputnik International",
-      "title": "Iran Says It is Ready For War and Also Offers Diplomatic Option",
-      "description": "Tehran is prepared for a renewed conflict with the US while still leaving the door open for diplomacy after President Donald Trump rejected an Iranian proposal to reopen the Strait of Hormuz, Iranian Foreign Minister Abbas Araghchi said.",
-      "url": "https://sputnikglobe.com/20260927/iran-says-it-is-ready-for-war-and-also-offers-diplomatic-option-1124802055.html",
-      "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1124802055.jpg?11237889101790523319",
-      "publishedAt": "2026-09-27T15:35:18Z",
-      "content": "The Israeli and US military launched Operation Epic Fury against Iran on February 28, 2026, over its alleged development of a nuclear program. Iran consistently stated that the program was peaceful i\u2026 [+1621 chars]",
+      "author": "Bloomberg",
+      "title": "Iran Says Won\u2019t Soften Demands As Trump Rejects Hormuz Offer",
+      "description": "By\u00a0Eltaf Najafizada and Courtney Subramanian Sep 27, 2026 (Bloomberg) \u2013Iran stuck to its seven-day proposal for reopening the crucial Strait of Hormuz, saying it won\u2019t soften its conditions, while President...",
+      "url": "https://gcaptain.com/iran-says-wont-soften-demands-as-trump-rejects-hormuz-offer/",
+      "urlToImage": "https://gcaptain.com/wp-content/uploads/2026/09/2026-09-14T193943Z_33032287_RC2DINA3FLHM_RTRMADP_3_IRAN-CRISIS-USS-GEORGE-WASHINGTON-800x533.jpg",
+      "publishedAt": "2026-09-27T20:07:19Z",
+      "content": "By\u00a0Eltaf Najafizada and Courtney Subramanian\r\nSep 27, 2026 (Bloomberg) \u2013Iran stuck to its seven-day proposal for reopening the crucial Strait of Hormuz, saying it wont soften its conditions, while Pr\u2026 [+4009 chars]",
       "cocom": "USCENTCOM"
     },
     {
@@ -75,83 +79,83 @@
         "id": "al-jazeera-english",
         "name": "Al Jazeera English"
       },
-      "author": "Mohamed Eljarh",
-      "title": "For Libya, the Hormuz crisis can be a trap or an opportunity",
-      "description": "Libyan hydrocarbons are increasingly sought after. To take full advantage, the country needs a new economic strategy.",
-      "url": "https://www.aljazeera.com/opinions/2026/9/27/for-libya-the-hormuz-crisis-can-be-a-trap-or-an-opportunity",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/2024-08-29T104055Z_1013456575_RC2ZO9APPJFK_RTRMADP_3_LIBYA-OIL-1790515973.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-09-27T15:29:19Z",
-      "content": "Amid the worsening global energy crisis triggered by the US-Israel war on Iran, European countries, desperate for alternative energy supplies, trade routes and partnerships, have looked across the Me\u2026 [+7609 chars]",
+      "author": null,
+      "title": "Why has Trump rejected Iran\u2019s peace proposal?",
+      "description": "The US president has reportedly threatened to resume strikes on Iran.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/9/27/why-has-trump-rejected-irans-peace-proposal",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790538665.jpg?resize=1920%2C1080&quality=80",
+      "publishedAt": "2026-09-27T20:03:04Z",
+      "content": "Unacceptable.\r\nThat was the immediate reaction from US President Donald Trump to Irans proposal to reopen the Strait of Hormuz.\r\nTehran says its still awaiting what it called a definitive repsonse fr\u2026 [+490 chars]",
       "cocom": "USCENTCOM"
     },
     {
       "source": {
         "id": null,
-        "name": "Biztoc.com"
+        "name": "Israelnationalnews.com"
       },
-      "author": "pbs.org",
-      "title": "5 men arrested near air base used by U.S. in Iran war on suspicion of preparing a terrorist act",
-      "description": "Fairford has been used by American bombers for strictly limited strikes against Iran under an agreement with former British Prime Minister Keir Starmer, who voiced opposition to the war after it was launched by the U.S. and Israel on Feb. 28.",
-      "url": "https://biztoc.com/x/6486910d37290a5e",
-      "urlToImage": "https://biztoc.com/cdn/6486910d37290a5e_s.webp",
-      "publishedAt": "2026-09-27T15:16:37Z",
-      "content": "Fairford has been used by American bombers for strictly limited strikes against Iran under an agreement with former British Prime Minister Keir Starmer, who voiced opposition to the war after it was \u2026 [+96 chars]",
-      "cocom": "USEUCOM"
+      "author": "Israel National News",
+      "title": "Iran warns US of 'doomsday war,' claims it has changed military tactics",
+      "description": "Iranian Foreign Minister Abbas Araghchi tells NBC that Tehran is prepared for a 'doomsday war' with the US but remains willing to pursue diplomacy.",
+      "url": "https://www.israelnationalnews.com/news/433734",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1194848.jpg",
+      "publishedAt": "2026-09-27T20:02:14Z",
+      "content": "Iranian Foreign Minister Abbas Araghchi warned on Sunday that Iran is fully prepared for renewed military confrontation with the United States, including what he described as a \"doomsday war,\" while \u2026 [+4467 chars]",
+      "cocom": "USCENTCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thegatewaypundit.com"
+      },
+      "author": "Paul Serran",
+      "title": "IRGC Threatens To Attack US Warships in the Indian Ocean if Hostilities Resume \u2013 Warning Comes as UK Probes Iran Links in Foiled Terrorist Attack at Fairford Airbase",
+      "description": "Iranian threat in the Middle East and beyond.\nThe post IRGC Threatens To Attack US Warships in the Indian Ocean if Hostilities Resume \u2013 Warning Comes as UK Probes Iran Links in Foiled Terrorist Attack at Fairford Airbase appeared first on The Gateway Pundit.",
+      "url": "https://www.thegatewaypundit.com/2026/09/irgc-threatens-attack-us-warships-indian-ocean-if/",
+      "urlToImage": "https://www.thegatewaypundit.com/wp-content/uploads/2025/06/ira-1200x630.jpg",
+      "publishedAt": "2026-09-27T20:00:55Z",
+      "content": "Photo courtesy of Morteza Nikoubazl/NurPhoto\r\nIranian threat in the Middle East and beyond.\r\nAs the Middle East tensions spread around the planet, the Islamic Revolutionary Guard Corps (IRGC) is issu\u2026 [+2769 chars]",
+      "cocom": "Transregional"
     },
     {
       "source": {
         "id": null,
         "name": "Dailymail.com"
       },
-      "author": "Joe Rossiter, Rebecca Camber, James Fielding, Olivia Day",
-      "title": "Trump says RAF Fairford terror suspects were 'looking to do big damage' to US forces and says they were being 'watched' for a long time",
-      "description": "Donald Trump has warned the five men arrested over a suspected foiled terror attack at RAF Fairford were 'looking to do big damage' to US forces.",
-      "url": "https://www.dailymail.com/news/article-16164417/Trump-says-RAF-Fairford-terror-suspects-looking-big-damage-US-forces-says-watched-long-time.html",
-      "urlToImage": "https://i.dailymail.com/1s/2026/09/27/08/111496995-0-image-a-19_1790495273587.jpg",
-      "publishedAt": "2026-09-27T15:08:10Z",
-      "content": "Donald Trump\u00a0has warned the five men arrested over a foiled terror attack at RAF Fairford were 'looking to do big damage' to US forces.\u00a0\r\nThe US President told reporters: 'It was fantastic. Working w\u2026 [+11563 chars]",
+      "author": "Lauren Acton-Taylor",
+      "title": "Urgent warning issued for Americans in the UK after attempted 'terrorist attack' as citizens are told to 'exercise caution'",
+      "description": "The US government has issued a warning for Americans to 'exercise caution' in the UK after an attempted 'terrorist act' near an air force base.",
+      "url": "https://www.dailymail.com/news/article-16164803/warning-americans-UK-terrorist-attack-caution.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/09/27/20/111497935-0-Five_men_were_pictured_as_police_arrested_them_on_terror_charges-a-52_1790538827809.jpg",
+      "publishedAt": "2026-09-27T19:54:47Z",
+      "content": "The US government has issued a warning for Americans to 'exercise caution' in the UK after an attempted 'terrorist act' near an air force base.\r\nThe US Embassy in the UK said the agency had been made\u2026 [+8863 chars]",
       "cocom": "USEUCOM"
     },
     {
       "source": {
-        "id": "fortune",
-        "name": "Fortune"
+        "id": null,
+        "name": "Raw Story"
       },
-      "author": "The Associated Press",
-      "title": "British police arrest five men for allegedly preparing a terrorism attack with explosives on a base used by U.S. bombers for Iran war",
-      "description": "RAF Fairford, about 100 miles west of London, is one of several bases in Britain that has been used by the U.S. Air Force under an agreement dating from the 1950s.",
-      "url": "https://fortune.com/2026/09/27/british-police-arrest-raf-fairford-terrorism-attack-explosives-us-air-force-bombers-iran-war/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/AP26270356408001-e1790521035690.jpg?resize=1200,600",
-      "publishedAt": "2026-09-27T15:04:58Z",
-      "content": "British police\u00a0arrested five men\u00a0on Sunday on suspicion of preparing an act of terrorism and explosives offenses outside RAF Fairford, a military base in western England thats operated by the U.S. Ai\u2026 [+2395 chars]",
-      "cocom": "USEUCOM"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Maziar Motamedi",
-      "title": "Strait of Hormuz tensions linger as Iran and US move further from a deal",
-      "description": "There are fears of renewed fighting between the US and Iran, after President Trump rejected a deal.",
-      "url": "https://www.aljazeera.com/economy/2026/9/27/strait-of-hormuz-tensions-linger-as-iran-and-us-move-further-from-a-deal",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6ab91e28-1790516776.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-09-27T14:36:44Z",
-      "content": "Tehran, Iran Hours after US President Donald Trump rejected a diplomatic solution put forward by Iran to reopen the Strait of Hormuz, explosions were heard in the waterway, according to Iranian media\u2026 [+5214 chars]",
+      "author": "Alexander Willis",
+      "title": "Trump reveals constant violent thoughts in call with Axios: \u2018I'm always thinking about it\u2019",
+      "description": "President Donald Trump made a startling admission to Axios on Sunday when pressed on whether he intended to escalate his deeply unpopular\r\n war against Iran in the near future.Trump\u2019s phone call with the outlet came just one day after he rejected\r\n Iran\u2019s lat\u2026",
+      "url": "https://www.rawstory.com/trump-iran-2677948334/",
+      "urlToImage": "https://www.rawstory.com/media-library/us-president-donald-trump-attends-the-presidents-cup-at-the-medinah-country-club-in-medinah-illinois-us-september-27-2026.jpg?id=67871658&width=1200&height=600&coordinates=0%2C168%2C0%2C168",
+      "publishedAt": "2026-09-27T19:02:01Z",
+      "content": "President Donald Trump made a startling admission to Axios on Sunday when pressed on whether he intended to escalate his deeply unpopular\r\n war against Iran in the near future.\r\nTrumps phone call wit\u2026 [+1585 chars]",
       "cocom": "USCENTCOM"
     },
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "The Punch"
       },
-      "author": "Jalen Beckford",
-      "title": "Waltz says Iran wanted sanctions relief first. Tehran says that's not the full story.",
-      "description": "Mike Waltz, U.S. ambassador to the United Nations, said Sunday that President Donald Trump rejected Iran's latest proposal because Tehran wanted sanctions relief and access to \"billions in frozen assets\" before negotiating an end to its nuclear program.\"They \u2026",
-      "url": "https://www.yahoo.com/news/politics/articles/waltz-says-iran-wanted-sanctions-143305393.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/810aa087cdaba36d2e11e1606345425c37a549511daae1b4d9323bb1812b8c1b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F044f8ee8-b1a4-4c69-9d1d-522fb18be41f",
-      "publishedAt": "2026-09-27T14:33:05Z",
-      "content": "Mike Waltz, U.S. ambassador to the United Nations, said Sunday that President Donald Trump rejected Iran's latest proposal because Tehran wanted sanctions relief and access to \"billions in frozen ass\u2026 [+2820 chars]",
+      "author": "Punch Newspapers",
+      "title": "Trump expects new Iran talks despite rejecting deal offer",
+      "description": "US President Donald Trump said he expects talks with Iran to resume, despite rejecting a truce proposal from Tehran for reopening the Strait of Hormuz.\n\nRead More: https://punchng.com/trump-expects-new-iran-talks-despite-rejecting-deal-offer/",
+      "url": "https://punchng.com/trump-expects-new-iran-talks-despite-rejecting-deal-offer/",
+      "urlToImage": "https://punchng.com/wp-content/uploads/2026/06/AFP__20260617__B7FP4NJ__v3__MidRes__TopshotSwitzerlandG7UsTrumpPolitics-1200x630.webp",
+      "publishedAt": "2026-09-27T18:52:53Z",
+      "content": "US President Donald Trump said Sunday that he expects talks with Iran to resume in the coming week, despite his rejection of a truce proposal put forward by Tehran.\r\nIranian officials brought with th\u2026 [+3799 chars]",
       "cocom": "USCENTCOM"
     },
     {
@@ -160,40 +164,68 @@
         "name": "RT"
       },
       "author": "RT",
-      "title": "Iran captures another US spy drone in Hormuz (VIDEO)",
-      "description": "Iran\u2019s IRGC says it captured a US Remus 600 underwater drone allegedly spying in the Strait of Hormuz Read Full Article at RT.com",
-      "url": "https://www.rt.com/news/646320-us-drone-captured-iran/",
-      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6ab91b7d85f540349e35d87d.png",
-      "publishedAt": "2026-09-27T14:10:16Z",
-      "content": "Iran\u2019s Islamic Revolutionary Guard Corps (IRGC) says it has captured a US autonomous underwater vehicle in the Strait of Hormuz, the second such incident reported this month.\r\nAccording to an IRGC Na\u2026 [+2831 chars]",
+      "title": "Trump left Saudi Arabia to face Houthis alone \u2013 Mearsheimer to RT (VIDEO)",
+      "description": "US President Donald Trump has abandoned Saudi Arabia amid renewed hostilities with Yemen\u2019s Houthis, political scientist and University of Chicago Professor John Mearsheimer told RT",
+      "url": "https://www.rt.com/news/646322-trump-left-saudi-arabia-to-face-houthis-alone-mearsheimer/",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6ab93b3985f5404b5911b1b8.jpg",
+      "publishedAt": "2026-09-27T18:46:55Z",
+      "content": "US President Donald Trump has effectively abandoned Saudi Arabia, a key ally in the Middle East, leaving it to face \u201calmost a full-blown war\u201d with Yemen\u2019s Houthis, political scientist and University \u2026 [+2676 chars]",
       "cocom": "USCENTCOM"
     },
     {
       "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
+        "id": null,
+        "name": "Yahoo Entertainment"
       },
-      "author": "Freddie Clayton",
-      "title": "Iran \u2018fully prepared\u2019 for war to resume but diplomacy not over yet, Foreign Minister Abbas Araghchi says",
-      "description": "Iranian Foreign Minister Abbas Araghchi has said his country is prepared for fighting with the United States to resume, but has not yet abandoned diplomacy after President Donald Trump publicly rejected a proposal to reopen the Strait of Hormuz.",
-      "url": "https://www.nbcnews.com/world/iran/iran-fully-prepared-war-resume-foreign-minister-rcna600059",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260927-abbas-araghchi-vl-952a-61629c.jpg",
-      "publishedAt": "2026-09-27T14:08:37Z",
-      "content": "Iranian Foreign Minister Abbas Araghchi said his country is prepared to resume fighting with the United States but has not yet abandoned diplomacy after President Donald Trump publicly rejected a pro\u2026 [+3686 chars]",
+      "author": "Sammy Westfall, (c) 2026 , The Washington Post",
+      "title": "Trump says U.S.-Iran talks will continue this week despite rejecting latest offer",
+      "description": "U.S. and Iranian officials said Sunday they still see a chance of a negotiated solution to the Iran war despite President Donald Trump's rejection of Tehran's latest offer.Trump told Axios on Sunday that he expected U.S. negotiators to continue indirect talks\u2026",
+      "url": "https://www.yahoo.com/news/politics/articles/trump-says-u-iran-slated-173419570.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/87ff257cb19a59f70108ae45c2e19a3f7c1d66903b4a585b4a40573a7a69f673/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F955634ae-821b-4ce3-847d-4fa6d7c0eed7",
+      "publishedAt": "2026-09-27T18:34:13Z",
+      "content": "U.S. and Iranian officials said Sunday they still see a chance of a negotiated solution to the Iran war despite President Donald Trump's rejection of Tehran's latest offer.\r\nTrump told Axios on Sunda\u2026 [+3534 chars]",
       "cocom": "USCENTCOM"
     },
     {
       "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
+        "id": "the-irish-times",
+        "name": "The Irish Times"
       },
-      "author": "Abhishek Mishra",
-      "title": "'American terrorist army': Iran claims second US submarine seized in Hormuz",
-      "description": "Iran's Islamic Revolutionary Guard Corps (IRGC) navy has claimed it captured a second advanced US unmanned underwater vehicle, the Remus 600, in the",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/american-terrorist-army-iran-claims-second-us-submarine-seized-in-hormuz/articleshow/134521244.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134521295,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-27T13:38:38Z",
-      "content": "Follow Us On Social Media\r\nBoys body recovered from Nawada dam; father alleges murder, five detainedNasa thought an ancient Martian lake shaped these rocks; Perseverance found evidence of three water\u2026 [+1829 chars]",
+      "author": "Edward Helmore",
+      "title": "UN ambassador Waltz says Iran was not negotiating \u2018in good faith\u2019 to end war",
+      "description": "However, the US president says he expects talks with Tehran to resume shortly",
+      "url": "https://www.irishtimes.com/world/2026/09/27/un-ambassador-waltz-says-iran-was-not-negotiating-in-good-faith-to-end-war/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/FLBYSYA3C6O5Y4MOOCRDLWJZKY.jpg?smart=true&auth=a1fef5c8a9714fc91968384b0314c44f98f8b64ae41de4903ebbf481551b9f5f&width=1200&height=630",
+      "publishedAt": "2026-09-27T18:28:00Z",
+      "content": "The Trump administrations ambassador to the United Nations (UN) said the US rejected Irans proposal to end the war there because Iranian negotiators were asking for everything up front.\r\nEchoing comm\u2026 [+3898 chars]",
+      "cocom": "USCENTCOM"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Edward Helmore",
+      "title": "UN ambassador Waltz says Iran was not negotiating \u2018in good faith\u2019 to end war",
+      "description": "However, the US president says he expects talks with Tehran to resume shortly",
+      "url": "https://www.irishtimes.com/wires/guardian/2026/09/27/un-ambassador-waltz-says-iran-was-not-negotiating-in-good-faith-to-end-war/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/FLBYSYA3C6O5Y4MOOCRDLWJZKY.jpg?smart=true&auth=a1fef5c8a9714fc91968384b0314c44f98f8b64ae41de4903ebbf481551b9f5f&width=1200&height=630",
+      "publishedAt": "2026-09-27T18:28:00Z",
+      "content": "The Trump administrations ambassador to the United Nations (UN) said the US rejected Irans proposal to end the war there because Iranian negotiators were asking for everything up front.\r\nEchoing comm\u2026 [+3898 chars]",
+      "cocom": "USCENTCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheJournal.ie"
+      },
+      "author": "AFP",
+      "title": "Trump says he's 'always thinking' about resuming strikes on Iran",
+      "description": "The US president is reportedly considering resuming strikes on Iran after the 3 November midterm elections.",
+      "url": "https://www.thejournal.ie/trump-iran-strikes-7175169-Sep2026/",
+      "urlToImage": "https://img2.thejournal.ie/article/7175169/river/?height=400&version=7175171",
+      "publishedAt": "2026-09-27T18:24:47Z",
+      "content": "US PRESIDENT DONALD Trump said he expects talks with Iran to resume in the coming week, a day after rejecting a truce proposal put forward by Tehran.\r\nThey want to make a deal, but it is not the deal\u2026 [+1656 chars]",
       "cocom": "USCENTCOM"
     },
     {
@@ -229,17 +261,152 @@
     {
       "source": {
         "id": null,
-        "name": "Freerepublic.com"
+        "name": "gcaptain.com"
       },
-      "author": "NY Post",
-      "title": "Why Abdul El-Sayed refuses to condemn Iran\u2019s Revolutionary Guard thugs",
-      "description": "Iman Dashti, a Michigan University student, confronted Democratic Senate candidate Abdul El-Sayed this week about his habitual whitewashing and rationalization of Islamic terrorism. Dashti, who said his family is a victim of the Iranian regime\u2019s theocratic pe\u2026",
-      "url": "https://freerepublic.com/focus/f-chat/4396996/posts",
-      "urlToImage": null,
-      "publishedAt": "2026-09-26T23:08:29Z",
-      "content": "Skip to comments.\r\nWhy Abdul El-Sayed refuses to condemn Irans Revolutionary Guard thugsNY Post ^\r\n | 9/25/26\r\n | David Harsanyi\r\nPosted on 09/26/2026 4:08:29 PM PDT by Libloather\r\nIman Dashti, a Mic\u2026 [+2220 chars]",
+      "author": "Bloomberg",
+      "title": "Iran Says Won\u2019t Soften Demands As Trump Rejects Hormuz Offer",
+      "description": "By\u00a0Eltaf Najafizada and Courtney Subramanian Sep 27, 2026 (Bloomberg) \u2013Iran stuck to its seven-day proposal for reopening the crucial Strait of Hormuz, saying it won\u2019t soften its conditions, while President...",
+      "url": "https://gcaptain.com/iran-says-wont-soften-demands-as-trump-rejects-hormuz-offer/",
+      "urlToImage": "https://gcaptain.com/wp-content/uploads/2026/09/2026-09-14T193943Z_33032287_RC2DINA3FLHM_RTRMADP_3_IRAN-CRISIS-USS-GEORGE-WASHINGTON-800x533.jpg",
+      "publishedAt": "2026-09-27T20:07:19Z",
+      "content": "By\u00a0Eltaf Najafizada and Courtney Subramanian\r\nSep 27, 2026 (Bloomberg) \u2013Iran stuck to its seven-day proposal for reopening the crucial Strait of Hormuz, saying it wont soften its conditions, while Pr\u2026 [+4009 chars]",
       "cocom": "USCENTCOM",
-      "_original_topic_id": "T05"
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Israelnationalnews.com"
+      },
+      "author": "Israel National News",
+      "title": "Iran warns US of 'doomsday war,' claims it has changed military tactics",
+      "description": "Iranian Foreign Minister Abbas Araghchi tells NBC that Tehran is prepared for a 'doomsday war' with the US but remains willing to pursue diplomacy.",
+      "url": "https://www.israelnationalnews.com/news/433734",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1194848.jpg",
+      "publishedAt": "2026-09-27T20:02:14Z",
+      "content": "Iranian Foreign Minister Abbas Araghchi warned on Sunday that Iran is fully prepared for renewed military confrontation with the United States, including what he described as a \"doomsday war,\" while \u2026 [+4467 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Sammy Westfall, (c) 2026 , The Washington Post",
+      "title": "Trump says U.S.-Iran talks will continue this week despite rejecting latest offer",
+      "description": "U.S. and Iranian officials said Sunday they still see a chance of a negotiated solution to the Iran war despite President Donald Trump's rejection of Tehran's latest offer.Trump told Axios on Sunday that he expected U.S. negotiators to continue indirect talks\u2026",
+      "url": "https://www.yahoo.com/news/politics/articles/trump-says-u-iran-slated-173419570.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/87ff257cb19a59f70108ae45c2e19a3f7c1d66903b4a585b4a40573a7a69f673/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F955634ae-821b-4ce3-847d-4fa6d7c0eed7",
+      "publishedAt": "2026-09-27T18:34:13Z",
+      "content": "U.S. and Iranian officials said Sunday they still see a chance of a negotiated solution to the Iran war despite President Donald Trump's rejection of Tehran's latest offer.\r\nTrump told Axios on Sunda\u2026 [+3534 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Edward Helmore",
+      "title": "UN ambassador Waltz says Iran was not negotiating \u2018in good faith\u2019 to end war",
+      "description": "However, the US president says he expects talks with Tehran to resume shortly",
+      "url": "https://www.irishtimes.com/world/2026/09/27/un-ambassador-waltz-says-iran-was-not-negotiating-in-good-faith-to-end-war/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/FLBYSYA3C6O5Y4MOOCRDLWJZKY.jpg?smart=true&auth=a1fef5c8a9714fc91968384b0314c44f98f8b64ae41de4903ebbf481551b9f5f&width=1200&height=630",
+      "publishedAt": "2026-09-27T18:28:00Z",
+      "content": "The Trump administrations ambassador to the United Nations (UN) said the US rejected Irans proposal to end the war there because Iranian negotiators were asking for everything up front.\r\nEchoing comm\u2026 [+3898 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Edward Helmore",
+      "title": "UN ambassador Waltz says Iran was not negotiating \u2018in good faith\u2019 to end war",
+      "description": "However, the US president says he expects talks with Tehran to resume shortly",
+      "url": "https://www.irishtimes.com/wires/guardian/2026/09/27/un-ambassador-waltz-says-iran-was-not-negotiating-in-good-faith-to-end-war/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/FLBYSYA3C6O5Y4MOOCRDLWJZKY.jpg?smart=true&auth=a1fef5c8a9714fc91968384b0314c44f98f8b64ae41de4903ebbf481551b9f5f&width=1200&height=630",
+      "publishedAt": "2026-09-27T18:28:00Z",
+      "content": "The Trump administrations ambassador to the United Nations (UN) said the US rejected Irans proposal to end the war there because Iranian negotiators were asking for everything up front.\r\nEchoing comm\u2026 [+3898 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": null,
+      "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" Sept. 27, 2026",
+      "description": "On this \"Face the Nation with Margaret Brennan\" broadcast, Iranian President Masoud Pezeshkian and  Alexander Yui, Taiwan representative to the U.S., join Margaret Brennan.",
+      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-09-27-2026/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/25/426e326e-7859-47f2-9be5-b95d79633448/thumbnail/1200x630g1/f0f28ee6e5a85de2826e7a8912e97e1d/28-41-20260925-085500-ftn-masoud-pezeshkian-interview-ots-liveu-2-1-mxf.png",
+      "publishedAt": "2026-09-27T18:06:57Z",
+      "content": "On this \"Face the Nation with Margaret Brennan\" broadcast, moderated by Margaret Brennan:\u00a0\r\n<ul><li>Iranian President Masoud Pezeshkian\u00a0</li><li>Sen. John Kennedy, Republican of Louisiana\u00a0</li><li>Re\u2026 [+45587 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Mike Waltz: US offered to sell Iran uranium for civilian programme",
+      "description": "US ambassador says Iran refused to agree to an arrangement where uranium would be supplied by Washington.",
+      "url": "https://www.aljazeera.com/news/2026/9/27/mike-waltz-us-offered-to-sell-iran-uranium-for-civilian-programme",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab940f720ef-1790525687.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-27T17:42:45Z",
+      "content": "As part of previous negotiations aimed at ending its war on Iran, the United States offered to sell Tehran uranium for use in a civilian programme, but Iran refused, a top US official said on Sunday.\u2026 [+4586 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Kai Xue",
+      "title": "There wasn\u2019t much to Xi: A red carpet, a fragile truce and the search for US-China stability",
+      "description": "During Xi Jinping's state visit to Washington, leaders announced modest tariff cuts and a new dialogue on AI safety. The ongoing US-Iran war significantly affects the strategic relationship between the two powers. A report highlights the US's dependence on Ch\u2026",
+      "url": "https://economictimes.indiatimes.com/opinion/et-commentary/there-wasnt-much-to-xi-a-red-carpet-a-fragile-truce-and-the-search-for-us-china-stability/articleshow/134523880.cms",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2237132,resizemode-75,msid-134523880/opinion/et-commentary/there-wasnt-much-to-xi-a-red-carpet-a-fragile-truce-and-the-search-for-us-china-stability.jpg",
+      "publishedAt": "2026-09-27T17:13:32Z",
+      "content": "Beijing: At the end of a long red carpet, the two presidents and their wives stood before a 21-member honour guard as the national flags of both countries waved. They looked like two powers of equal \u2026 [+4689 chars]",
+      "cocom": "Transregional",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Pam Key",
+      "title": "Sen. Kelly: Trump 'Stuck\u2019 in Iran War 'Without an Exit Strategy'",
+      "description": "Sunday on ABC\u2019s \u201cThis Week,\u201d Sen. Mark Kelly (D-AZ) said President Donald Trump is \u201cstuck\u201d in the Iran military conflict without an exit strategy. Partial transcript as follows: RADDATZ: I do want to talk about the war now, and you\u2019ve\nThe post Sen. Kelly: Tru\u2026",
+      "url": "https://www.breitbart.com/clips/2026/09/27/sen-kelly-trump-stuck-in-iran-war-without-an-exit-strategy/",
+      "urlToImage": "https://media.breitbart.com/media/2026/08/kelly6734-640x335.jpg",
+      "publishedAt": "2026-09-27T16:53:57Z",
+      "content": "Sunday on ABC\u2019s \u201cThis Week,\u201d Sen. Mark Kelly (D-AZ) said President Donald Trump is \u201cstuck\u201d in the Iran military conflict without an exit strategy.RADDATZ: I do want to talk about the war now, and you\u2026 [+1144 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Israelnationalnews.com"
+      },
+      "author": "Israel National News",
+      "title": "Trump expects more talks with Iran this week despite rejecting latest deal",
+      "description": "Trump expects fresh negotiations with Iran this week despite rejecting Tehran's proposal, while keeping the possibility of further military strikes open.",
+      "url": "https://www.israelnationalnews.com/news/433724",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1221859.jpg",
+      "publishedAt": "2026-09-27T16:20:43Z",
+      "content": "US President Donald Trump said Sunday that he anticipates another round of negotiations with Iran in the coming days, despite rejecting Tehran's latest proposal for ending the conflict.\r\nSpeaking to \u2026 [+3073 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T07"
     },
     {
       "source": {
@@ -289,152 +456,47 @@
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "Thegatewaypundit.com"
       },
-      "author": "Jalen Beckford",
-      "title": "Waltz says Iran wanted sanctions relief first. Tehran says that's not the full story.",
-      "description": "Mike Waltz, U.S. ambassador to the United Nations, said Sunday that President Donald Trump rejected Iran's latest proposal because Tehran wanted sanctions relief and access to \"billions in frozen assets\" before negotiating an end to its nuclear program.\"They \u2026",
-      "url": "https://www.yahoo.com/news/politics/articles/waltz-says-iran-wanted-sanctions-143305393.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/810aa087cdaba36d2e11e1606345425c37a549511daae1b4d9323bb1812b8c1b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F044f8ee8-b1a4-4c69-9d1d-522fb18be41f",
-      "publishedAt": "2026-09-27T14:33:05Z",
-      "content": "Mike Waltz, U.S. ambassador to the United Nations, said Sunday that President Donald Trump rejected Iran's latest proposal because Tehran wanted sanctions relief and access to \"billions in frozen ass\u2026 [+2820 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T07"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Freddie Clayton",
-      "title": "Iran \u2018fully prepared\u2019 for war to resume but diplomacy not over yet, Foreign Minister Abbas Araghchi says",
-      "description": "Iranian Foreign Minister Abbas Araghchi has said his country is prepared for fighting with the United States to resume, but has not yet abandoned diplomacy after President Donald Trump publicly rejected a proposal to reopen the Strait of Hormuz.",
-      "url": "https://www.nbcnews.com/world/iran/iran-fully-prepared-war-resume-foreign-minister-rcna600059",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260927-abbas-araghchi-vl-952a-61629c.jpg",
-      "publishedAt": "2026-09-27T14:08:37Z",
-      "content": "Iranian Foreign Minister Abbas Araghchi said his country is prepared to resume fighting with the United States but has not yet abandoned diplomacy after President Donald Trump publicly rejected a pro\u2026 [+3686 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T07"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalsecurity.org"
-      },
-      "author": "John Pike",
-      "title": "Iran will shape region's security future as US exits: Top military adviser",
-      "description": "A senior military adviser to Leader of the Islamic Revolution Ayatollah Seyyed Mojtaba Khamenei says the United States has no role in the region, stressing that Iran will play a leading role in shaping the future security order in West Asia.",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260927-presstv06.htm",
-      "urlToImage": null,
-      "publishedAt": "2026-09-27T12:00:00Z",
-      "content": "Iran Press TV\r\nSunday, 27 September 2026 2:26 PM\r\nA senior military adviser to Leader of the Islamic Revolution Ayatollah Seyyed Mojtaba Khamenei says the United States has no role in the region, str\u2026 [+3811 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T07"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Iran \u2018miscalculating\u2019 by betting on midterms after 3-hour talks, Trump officials warn",
-      "description": "President Donald Trump says Iran is waiting on midterm elections to cut a deal, but Marco Rubio warns Tehran misreads U.S. presidential powers.",
-      "url": "https://www.foxnews.com/politics/iran-miscalculating-betting-midterms-after-3-hour-talks-trump-officials-warn",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/trump-pezeshkian-unga.jpg",
-      "publishedAt": "2026-09-27T11:00:03Z",
-      "content": "NEW YORK Trump officials say Iran is miscalculating if it believes rising prices and the midterm elections will weaken President Donald Trump's hand in negotiations to end the nearly seven-month conf\u2026 [+6648 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T07"
-    },
-    {
-      "source": {
-        "id": "breitbart-news",
-        "name": "Breitbart News"
-      },
-      "author": "Joshua Klein",
-      "title": "Trump Rejects Iran Hormuz Deal: \u2018They\u2019re Losing So Badly\u2019 -- \u2018Greatest Blockade Ever in Military History\u2019",
-      "description": "President Donald Trump rejected Iran\u2019s latest proposal to reopen the Strait of Hormuz on Saturday, saying Tehran is \u201closing so badly\u201d after the U.S. turned its attempt to close the waterway against it with what he called the \u201cgreatest blockade ever in militar\u2026",
-      "url": "https://www.breitbart.com/politics/2026/09/27/trump-rejects-iran-hormuz-deal-theyre-losing-so-badly-greatest-blockade-ever-in-military-history/",
-      "urlToImage": "https://media.breitbart.com/media/2026/09/trump-hormuz-640x335.jpg",
-      "publishedAt": "2026-09-27T10:37:48Z",
-      "content": "President Donald Trump rejected Irans latest proposal to reopen the Strait of Hormuz on Saturday, saying Tehran is losing so badly after the U.S. turned its attempt to close the waterway against it w\u2026 [+9636 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T07"
-    },
-    {
-      "source": {
-        "id": "the-irish-times",
-        "name": "The Irish Times"
-      },
-      "author": "Trevor Hunnicutt, Yomna Ehab, Menna Alaa El-Din",
-      "title": "Iran awaits official US response after Trump rejects Hormuz deal, minister says",
-      "description": "Tehran says US negotiators have yet to formally respond to its plan to reopen the Strait of Hormuz",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/09/27/iran-awaits-official-us-response-after-trump-rejects-hormuz-deal-minister-says/",
-      "urlToImage": "https://www.irishtimes.com/resizer/v2/2VAA27ELVXZA7E5IBTHYQC5ACY.jpg?smart=true&auth=5a577d54e08b437a094221649aee1ed73691d435462fdae18d9c918075808375&width=1200&height=630",
-      "publishedAt": "2026-09-27T08:01:21Z",
-      "content": "Iran on Sunday insisted only diplomacy can solve its conflict with the United States and Israel after US president Donald Trump said he rejected an Iranian proposal to reopen the Strait of Hormuz and\u2026 [+3870 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T07"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Garrison Vance",
-      "title": "Pezeshkian: Iran\u2019s New Supreme Leader Mojtaba Khamenei is Healthy and Able to Govern",
-      "description": "Iranian President Masoud Pezeshkian said Thursday, Sept. 24, that Supreme Leader Mojtaba Khamenei is \u201ccompletely\u201d healthy and able to govern, according to remarks on Fox News\u2018 \u201cSpecial Report.\u201d The statement came during an interview with host Bret Baier and m\u2026",
-      "url": "https://www.naturalnews.com/2026-09-27-iran-president-mojtaba-khamenei-healthy-able-govern.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/mojtaba-khamenei-supreme-leader-health-masoud-pezeshkian-4460-original.jpg",
-      "publishedAt": "2026-09-27T06:00:00Z",
-      "content": "Iranian President Masoud Pezeshkian said Thursday, Sept. 24, that Supreme Leader Mojtaba Khamenei is \"completely\" healthy and able to govern, according to remarks on Fox News' \"Special Report.\"\r\nThe \u2026 [+7157 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T07"
+      "author": "Paul Serran",
+      "title": "IRGC Threatens To Attack US Warships in the Indian Ocean if Hostilities Resume \u2013 Warning Comes as UK Probes Iran Links in Foiled Terrorist Attack at Fairford Airbase",
+      "description": "Iranian threat in the Middle East and beyond.\nThe post IRGC Threatens To Attack US Warships in the Indian Ocean if Hostilities Resume \u2013 Warning Comes as UK Probes Iran Links in Foiled Terrorist Attack at Fairford Airbase appeared first on The Gateway Pundit.",
+      "url": "https://www.thegatewaypundit.com/2026/09/irgc-threatens-attack-us-warships-indian-ocean-if/",
+      "urlToImage": "https://www.thegatewaypundit.com/wp-content/uploads/2025/06/ira-1200x630.jpg",
+      "publishedAt": "2026-09-27T20:00:55Z",
+      "content": "Photo courtesy of Morteza Nikoubazl/NurPhoto\r\nIranian threat in the Middle East and beyond.\r\nAs the Middle East tensions spread around the planet, the Islamic Revolutionary Guard Corps (IRGC) is issu\u2026 [+2769 chars]",
+      "cocom": "Transregional",
+      "_original_topic_id": "T08"
     },
     {
       "source": {
         "id": null,
         "name": "Freerepublic.com"
       },
-      "author": "PJ Media",
-      "title": "Trump Refuses to Play Charlie Brown With Iran As Lucy Holding the Football",
-      "description": "The Islamic Republic of Iran has asked for another ceasefire, and President Donald Trump has said no. While Trump has actively sought ceasefires in the past, this time he had no patience for the Iranian demands, and that\u2019s all to the good, as nothing good cou\u2026",
-      "url": "https://freerepublic.com/focus/f-news/4397016/posts",
+      "author": "Mediaite",
+      "title": "UK Gave Asylum to Hamas\u2019s Top Guard Who Then Plotted a Terrorist Attack Against Jews",
+      "description": "A top Hamas bodyguard was secretly plotting a terror attack against European Jews from inside of the United Kingdom, right under the noses of British intelligence, The Sunday Times reported. The operative, known in the article only as \u201cMr. X\u201d for legal reason\u2026",
+      "url": "https://freerepublic.com/focus/f-chat/4397062/posts",
       "urlToImage": null,
-      "publishedAt": "2026-09-27T03:59:55Z",
-      "content": "Skip to comments.\r\nTrump Refuses to Play Charlie Brown With Iran As Lucy Holding the FootballPJ Media ^\r\n | 09/26/2026\r\n | Robert Spencer\r\nPosted on 09/26/2026 8:59:55 PM PDT by SeekAndFind\r\nThe Isla\u2026 [+3595 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T07"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Al Jazeera Staff",
-      "title": "\u2018My hands are empty\u2019: Displaced Palestinians struggle to survive",
-      "description": "In Tulkarem and other West Bank cities, displaced Palestinians are being forced deeper into debt and poverty.",
-      "url": "https://www.aljazeera.com/features/2026/9/27/my-hands-are-empty-displaced-palestinians-struggle-to-survive",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/s1-1790406480.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-09-27T10:26:21Z",
-      "content": "Tulkarem, occupied West Bank Hakim Mari spends his days lying on a single bed, his disfigured leg raised. The windows of Maris dilapidated apartment, his latest temporary shelter, are covered with ol\u2026 [+10937 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T13"
+      "publishedAt": "2026-09-27T17:33:57Z",
+      "content": "Skip to comments.\r\nUK Gave Asylum to Hamass Top Guard Who Then Plotted a Terrorist Attack Against JewsMediaite\r\n | September 27, 2026\r\n | Jennifer Bowers Bahney\r\nPosted on 09/27/2026 10:33:57 AM PDT \u2026 [+2555 chars]",
+      "cocom": "Transregional",
+      "_original_topic_id": "T08"
     },
     {
       "source": {
         "id": null,
-        "name": "Juancole.com"
+        "name": "Mediaite"
       },
-      "author": "Truthout",
-      "title": "Israel Damaged 82 Percent of Gaza\u2019s Buildings. Collapses Are Burying Us Alive",
-      "description": "Residents of the recently collapsed six-story high rise knew they were in danger but could find nowhere else to sleep",
-      "url": "https://www.juancole.com/2026/09/damaged-buildings-collapses.html",
-      "urlToImage": "https://media.juancole.com/images/2026/09/mohammed-ibrahim-erVMX5cTmc-unsplash.jpg",
-      "publishedAt": "2026-09-27T04:04:31Z",
-      "content": "By Shahad Ali\r\nThis article was originally published by Truthout\r\nKhaled Al Soutari, who was inside the six-story residential building in western Gaza City that collapsed on September 16, is now slee\u2026 [+8520 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T13"
+      "author": "Jennifer Bowers Bahney",
+      "title": "UK Gave Asylum to Hamas\u2019s Top Guard Who Then Plotted a Terrorist Attack Against Jews \u2014 Shocking Report Says",
+      "description": "A top Hamas bodyguard was reportedly plotting a terror attack against European Jews from inside of the United Kingdom, right under the noses of MI5.\nThe post UK Gave Asylum to Hamas\u2019s Top Guard Who Then Plotted a Terrorist Attack Against Jews \u2014 Shocking Repor\u2026",
+      "url": "https://www.mediaite.com/media/news/uk-gave-asylum-to-hamass-top-guard-who-then-plotted-a-terrorist-attack-against-jews-shocking-report-says/",
+      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2026/09/hamas-e1790528607755.jpeg",
+      "publishedAt": "2026-09-27T17:14:43Z",
+      "content": "(Sipa via AP Images)\r\nA top Hamas bodyguard was secretly plotting a terror attack against European Jews from inside of the United Kingdom, right under the noses of British intelligence, The Sunday Ti\u2026 [+2137 chars]",
+      "cocom": "Transregional",
+      "_original_topic_id": "T08"
     },
     {
       "source": {
@@ -468,21 +530,6 @@
     },
     {
       "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "AFP",
-      "title": "How Israel's regional neighbours see its upcoming elections",
-      "description": "Israel's approaching elections on October 27 are being closely observed by neighboring countries, emphasizing regional implications. Prime Minister Benjamin Netanyahu's government faces criticism for its policies towards Palestinians and expansionist actions.\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/how-israels-regional-neighbours-see-its-upcoming-elections/articleshow/134513430.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134513434,width-1200,height-630,imgsize-81962,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-27T01:39:02Z",
-      "content": "Cairo: Israel's upcoming elections are being followed closely by its regional neighbours, who are aware that any outcome will have ramifications far beyond the country's borders.In his Likud party's \u2026 [+5499 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T14"
-    },
-    {
-      "source": {
         "id": "fortune",
         "name": "Fortune"
       },
@@ -508,36 +555,6 @@
       "urlToImage": "https://bl-i.thgim.com/public/incoming/xud814/article71512705.ece/alternates/LANDSCAPE_1200/2026-09-25T183642Z_102715372_RC2IQNA2W7PX_RTRMADP_3_UN-ASSEMBLY.JPG",
       "publishedAt": "2026-09-26T12:26:29Z",
       "content": "It's been a busy week for Iranian diplomacy that may have come to nothing.\r\nIran's president and foreign minister visited New York for the UN gathering of world leaders and proposed a deal with the T\u2026 [+3900 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T14"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalsecurity.org"
-      },
-      "author": "John Pike",
-      "title": "Lavrov: Assassination of Ayatollah Khamenei 'unacceptable' manifestation of coercive diktat",
-      "description": "Russian Foreign Minister Sergei Lavrov says the assassination of Leader of the Islamic Revolution Ayatollah Seyyed Ali Khamenei was \"another unacceptable manifestation of coercive diktat.\"",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260926-presstv05.htm",
-      "urlToImage": null,
-      "publishedAt": "2026-09-26T12:00:00Z",
-      "content": "Iran Press TV\r\nSaturday, 26 September 2026 6:50 PM\r\nRussian Foreign Minister Sergei Lavrov says the assassination of Leader of the Islamic Revolution Ayatollah Seyyed Ali Khamenei was \"another unacce\u2026 [+3309 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T14"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalsecurity.org"
-      },
-      "author": "John Pike",
-      "title": "Foreign minister outlines Iran's seven-day plan to reopen Strait of Hormuz",
-      "description": "Foreign Minister Abbas Araghchi has outlined Iran's seven-day plan to reopen the Strait of Hormuz, provided that the United States accepts the conditions of the Islamic Republic.",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260926-irna02.htm",
-      "urlToImage": null,
-      "publishedAt": "2026-09-26T12:00:00Z",
-      "content": "IRNA - Islamic Republic News Agency\r\nSep 26, 2026, 9:56 AMNews ID: 86274596\r\nTehran, IRNA -- Foreign Minister Abbas Araghchi has outlined Iran's seven-day plan to reopen the Strait of Hormuz, provide\u2026 [+7053 chars]",
       "cocom": "USCENTCOM",
       "_original_topic_id": "T14"
     }

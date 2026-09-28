@@ -1,7 +1,33 @@
 {
   "status": "ok",
-  "totalResults": 26,
+  "totalResults": 28,
   "articles": [
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Pam Key",
+      "title": "Bill Gates: We 'Need Law Enforcement and the Politicians' to Monitor AI",
+      "description": "Sunday on NBC\u2019s \"Meet the Press,\" Microsoft co-founder Bill Gates said we \"need law enforcement and the politicians\" to get into the discussion about safeguards and monitoring for artificial intelligence.\nThe post Bill Gates: We \u2018Need Law Enforcement and the \u2026",
+      "url": "https://www.breitbart.com/clips/2026/09/27/bill-gates-we-need-law-enforcement-and-the-politicians-to-monitor-ai/",
+      "urlToImage": "https://media.breitbart.com/media/2026/09/billgates456-640x335.jpg",
+      "publishedAt": "2026-09-27T18:21:34Z",
+      "content": "Sunday on NBC\u2019s \u201cMeet the Press,\u201d Microsoft co-founder Bill Gates said we \u201cneed law enforcement and the politicians\u201d to get into the discussion about safeguards and monitoring for artificial intellig\u2026 [+1540 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wnd.com"
+      },
+      "author": "RealClearWire",
+      "title": "Refrigerators: The next battle frontier?",
+      "description": "'If a sophisticated adversary wanted to test its ability to disrupt the infrastructure supporting America's military without firing a shot, is this what it might look like?'",
+      "url": "https://www.wnd.com/2026/09/refrigerators-next-battle-frontier/",
+      "urlToImage": "https://www.wnd.com/wp-content/uploads/2026/09/refrigerators-home-appliances-unsplash-1200x630.jpg",
+      "publishedAt": "2026-09-27T17:40:22Z",
+      "content": "Refrigerators are probably the last thing anyone would consider a national security vulnerability, which is precisely why the unusual refrigeration failures at U.S. military commissaries deserve more\u2026 [+8187 chars]"
+    },
     {
       "source": {
         "id": null,

@@ -31,18 +31,18 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Human Rights Watch"
+        "id": "cbs-news",
+        "name": "CBS News"
       },
-      "author": "Human Rights Watch",
-      "title": "Syria: Reconstruction Deals Lack Critical Rights Framework",
-      "description": "Click to expand Image\n \n\n\n\n \n \n \n\n \n \n \n \n A destroyed school in Ghadfa village, Idlib countryside, Syria.\n \u00a9 2026 Ali Haj Suleiman/Human Rights Watch \n \n \n\n\n \n(Amman) \u2013 The\u00a0Syrian transitional government is signing billions of dollars in reconstruction deals\u2026",
-      "url": "https://www.hrw.org/news/2026/09/27/syria-reconstruction-deals-lack-critical-rights-framework",
-      "urlToImage": "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2026/09/202609mena_syria_school_Ghadfa_0D7A1934.JPG?h=f9c36853&itok=QA6caa8l",
-      "publishedAt": "2026-09-27T04:00:00Z",
-      "content": "(Amman) The\u00a0Syrian transitional government is signing billions of dollars in reconstruction deals without a human rights framework that would ensure that rebuilding respects, protects, and fulfills t\u2026 [+23013 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T13"
+      "author": null,
+      "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" Sept. 27, 2026",
+      "description": "On this \"Face the Nation with Margaret Brennan\" broadcast, Iranian President Masoud Pezeshkian and  Alexander Yui, Taiwan representative to the U.S., join Margaret Brennan.",
+      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-09-27-2026/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/25/426e326e-7859-47f2-9be5-b95d79633448/thumbnail/1200x630g1/f0f28ee6e5a85de2826e7a8912e97e1d/28-41-20260925-085500-ftn-masoud-pezeshkian-interview-ots-liveu-2-1-mxf.png",
+      "publishedAt": "2026-09-27T18:06:57Z",
+      "content": "On this \"Face the Nation with Margaret Brennan\" broadcast, moderated by Margaret Brennan:\u00a0\r\n<ul><li>Iranian President Masoud Pezeshkian\u00a0</li><li>Sen. John Kennedy, Republican of Louisiana\u00a0</li><li>Re\u2026 [+45587 chars]",
+      "cocom": "Transregional",
+      "_original_topic_id": "T10"
     },
     {
       "source": {
@@ -58,6 +58,21 @@
       "content": "Skip to comments.\r\nAfD Becomes Most Popular Party in Germany's Largest StateBreitbart ^\r\n | 26 Sep 2026\r\n | Kurt Zindulka\r\nPosted on 09/26/2026 8:22:08 AM PDT by MinorityRepublican\r\nRecent historic e\u2026 [+2242 chars]",
       "cocom": "USEUCOM",
       "_original_topic_id": "T13"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "AFP",
+      "title": "How Israel's regional neighbours see its upcoming elections",
+      "description": "Israel's approaching elections on October 27 are being closely observed by neighboring countries, emphasizing regional implications. Prime Minister Benjamin Netanyahu's government faces criticism for its policies towards Palestinians and expansionist actions.\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/how-israels-regional-neighbours-see-its-upcoming-elections/articleshow/134513430.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134513434,width-1200,height-630,imgsize-81962,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-27T01:39:02Z",
+      "content": "Cairo: Israel's upcoming elections are being followed closely by its regional neighbours, who are aware that any outcome will have ramifications far beyond the country's borders.In his Likud party's \u2026 [+5499 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T14"
     }
   ]
 }

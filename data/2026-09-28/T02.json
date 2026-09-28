@@ -1,7 +1,46 @@
 {
   "status": "ok",
-  "totalResults": 42,
+  "totalResults": 45,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "DW (English)"
+      },
+      "author": "Jenipher Camino Gonzalez",
+      "title": "Yemen: Houthis report deadly Saudi strikes on Taiz market",
+      "description": "The Houthi-run health ministry accused the Saudi Air Force of committing an \"abominable crime,\" vowing to retaliate. The Houthis' account of the attack cannot be independently verified.",
+      "url": "https://www.dw.com/en/yemen-houthis-report-deadly-saudi-strikes-on-taiz-market/a-79450102",
+      "urlToImage": "https://static.dw.com/image/79449998_6.jpg",
+      "publishedAt": "2026-09-27T17:51:00Z",
+      "content": "Yemen's Houthi rebels on Sunday accused the Saudi Arabian Air Force of having struck a shopping area around the central market of Taiz. The Iran-aligned Houthis\u00a0said at least seven people had been ki\u2026 [+2816 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Futurity: Research News"
+      },
+      "author": "Harrison Tasoff-UC Santa Barbara",
+      "title": "El Ni\u00f1o has become more intense over the last 40 years than the previous 1,000",
+      "description": "\"If this trend continues into the future, 'super El Ni\u00f1os,' like the one developing right now, might become much more common...\"",
+      "url": "https://www.futurity.org/el-nino-3345872/",
+      "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2026/09/el-nino-intensity-1600.jpg",
+      "publishedAt": "2026-09-27T16:55:54Z",
+      "content": "A new study has found that El Ni\u00f1o events have become nearly 40% stronger in the last 40 years than they were in the pre-industrial era.\r\nAn El Ni\u00f1o of historic proportion is taking shape in the trop\u2026 [+6528 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Anime News Network"
+      },
+      "author": null,
+      "title": "Orbitals Game Review",
+      "description": "Despite the gorgeous veneer, the characterization and writing in Orbitals don't have anywhere near the same amount of gas that everything else in it does.",
+      "url": "https://www.animenewsnetwork.com/review/game/nintendo-switch-2/orbitals/.241790",
+      "urlToImage": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGC/cms/game-review/241790/ann-orbitals-1.png.jpg",
+      "publishedAt": "2026-09-27T16:00:00Z",
+      "content": "It's no secret that Nostalgia is the lowest-hanging fruit to get juiced into a pulp by many of the recent marketing trends promoting the media we consume, especially when the act of looking back at b\u2026 [+14216 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -346,12 +385,12 @@
         "name": "Globalsecurity.org"
       },
       "author": "John Pike",
-      "title": "UN warns Hormuz blockade to threaten at least 45 million people with food shortages",
-      "description": "The United Nations has sounded the alarm about the imminent threat of the US blockade of the Strait of Hormuz plunging at least 45 million people into a food crisis.",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260926-presstv10.htm",
+      "title": "Minister Anand concludes participation in the 81st United Nations General Assembly High-Level Week",
+      "description": "The Honourable Anita Anand, Minister of Foreign Affairs, today concluded her participation in the 81st United Nations General Assembly (UNGA) High-Level Week in New York City.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/canada/2026/canada-260926-canada01.htm",
       "urlToImage": null,
       "publishedAt": "2026-09-26T12:00:00Z",
-      "content": "Iran Press TV\r\nSaturday, 26 September 2026 7:53 AM\r\nThe United Nations has sounded the alarm about the imminent threat of the US blockade of the Strait of Hormuz plunging at least 45 million people i\u2026 [+2892 chars]"
+      "content": "Global Affairs Canada\r\nNews release\r\nSeptember 26, 2026 - New York City, New York - Global Affairs Canada\r\nThe Honourable Anita Anand, Minister of Foreign Affairs, today concluded her participation i\u2026 [+4026 chars]"
     },
     {
       "source": {
@@ -359,12 +398,12 @@
         "name": "Globalsecurity.org"
       },
       "author": "John Pike",
-      "title": "Minister Anand concludes participation in the 81st United Nations General Assembly High-Level Week",
-      "description": "The Honourable Anita Anand, Minister of Foreign Affairs, today concluded her participation in the 81st United Nations General Assembly (UNGA) High-Level Week in New York City.",
-      "url": "https://www.globalsecurity.org/wmd/library/news/canada/2026/canada-260926-canada01.htm",
+      "title": "UN warns Hormuz blockade to threaten at least 45 million people with food shortages",
+      "description": "The United Nations has sounded the alarm about the imminent threat of the US blockade of the Strait of Hormuz plunging at least 45 million people into a food crisis.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260926-presstv10.htm",
       "urlToImage": null,
       "publishedAt": "2026-09-26T12:00:00Z",
-      "content": "Global Affairs Canada\r\nNews release\r\nSeptember 26, 2026 - New York City, New York - Global Affairs Canada\r\nThe Honourable Anita Anand, Minister of Foreign Affairs, today concluded her participation i\u2026 [+4026 chars]"
+      "content": "Iran Press TV\r\nSaturday, 26 September 2026 7:53 AM\r\nThe United Nations has sounded the alarm about the imminent threat of the US blockade of the Strait of Hormuz plunging at least 45 million people i\u2026 [+2892 chars]"
     },
     {
       "source": {

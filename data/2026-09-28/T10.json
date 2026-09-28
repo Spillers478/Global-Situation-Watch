@@ -1,7 +1,33 @@
 {
   "status": "ok",
-  "totalResults": 16,
+  "totalResults": 18,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Wnd.com"
+      },
+      "author": "RealClearWire",
+      "title": "America\u2019s next military advantage is trusted data",
+      "description": "National security soon will depend on 'how effectively we let the right information through'",
+      "url": "https://www.wnd.com/2026/09/americas-next-military-advantage-is-trusted-data/",
+      "urlToImage": "https://www.wnd.com/wp-content/uploads/2016/12/Datatech32-1200x630.jpg",
+      "publishedAt": "2026-09-27T19:07:02Z",
+      "content": "The U.K. and Ukraine recently announced a new defense AI partnership that will give British researchers access to millions of images collected from the Ukrainian battlefield. The agreement is an exam\u2026 [+5779 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": null,
+      "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" Sept. 27, 2026",
+      "description": "On this \"Face the Nation with Margaret Brennan\" broadcast, Iranian President Masoud Pezeshkian and  Alexander Yui, Taiwan representative to the U.S., join Margaret Brennan.",
+      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-09-27-2026/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/25/426e326e-7859-47f2-9be5-b95d79633448/thumbnail/1200x630g1/f0f28ee6e5a85de2826e7a8912e97e1d/28-41-20260925-085500-ftn-masoud-pezeshkian-interview-ots-liveu-2-1-mxf.png",
+      "publishedAt": "2026-09-27T18:06:57Z",
+      "content": "On this \"Face the Nation with Margaret Brennan\" broadcast, moderated by Margaret Brennan:\u00a0\r\n<ul><li>Iranian President Masoud Pezeshkian\u00a0</li><li>Sen. John Kennedy, Republican of Louisiana\u00a0</li><li>Re\u2026 [+45587 chars]"
+    },
     {
       "source": {
         "id": "cbs-news",

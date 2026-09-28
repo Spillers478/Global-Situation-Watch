@@ -1,7 +1,111 @@
 {
   "status": "ok",
-  "totalResults": 56,
+  "totalResults": 64,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Electrek"
+      },
+      "author": "Jo Borr\u00e1s",
+      "title": "Survey Sunday: When self driving cars crash, who gets the blame?",
+      "description": "For the last few weeks, we\u2019ve been running a sidebar survey about whether our\u00a0Electrek\u00a0readers who should be held responsible when AI fails, and people get hurt. After nearly 3,000 responses, here\u2019s what you told us.\n\n\n\n more\u2026",
+      "url": "http://electrek.co/2026/09/27/survey-sunday-when-self-driving-cars-crash-who-gets-the-blame/",
+      "urlToImage": "https://electrek.co/wp-content/uploads/sites/3/2026/09/cybercrash.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-09-27T19:24:30Z",
+      "content": "For the last few weeks, we\u2019ve been running a sidebar survey about whether our\u00a0Electrek\u00a0readers who should be held responsible when AI fails, and people get hurt. After nearly 3,000 responses, here\u2019s \u2026 [+4996 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "Dangerous nor\u2019easter batters the US East Coast \u2014 one dead, hundreds of flights cancelled, thousands still without power as states of emergency continue in New York and New Jersey",
+      "description": "The US East Coast experienced a powerful nor'easter that caused significant flooding and travel disruptions. Major cities like New York City and Boston were affected, along with coastal communities in New Jersey and Massachusetts. Strong winds and high tides \u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/dangerous-noreaster-batters-the-us-east-coast-one-dead-hundreds-of-flights-cancelled-thousands-still-without-power-as-states-of-emergency-continue-in-new-york-and-new-jersey/articleshow/134524888.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134525075,width-1200,height-630,imgsize-222002,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-27T18:50:25Z",
+      "content": "A major nor'easter weather system hit the US East Coast last weekend, causing heavy winds, rainfall, and flooding in coastal areas and hazardous conditions in the sea from North Carolina up through N\u2026 [+6211 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": null,
+      "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" Sept. 27, 2026",
+      "description": "On this \"Face the Nation with Margaret Brennan\" broadcast, Iranian President Masoud Pezeshkian and  Alexander Yui, Taiwan representative to the U.S., join Margaret Brennan.",
+      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-09-27-2026/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/25/426e326e-7859-47f2-9be5-b95d79633448/thumbnail/1200x630g1/f0f28ee6e5a85de2826e7a8912e97e1d/28-41-20260925-085500-ftn-masoud-pezeshkian-interview-ots-liveu-2-1-mxf.png",
+      "publishedAt": "2026-09-27T18:06:57Z",
+      "content": "On this \"Face the Nation with Margaret Brennan\" broadcast, moderated by Margaret Brennan:\u00a0\r\n<ul><li>Iranian President Masoud Pezeshkian\u00a0</li><li>Sen. John Kennedy, Republican of Louisiana\u00a0</li><li>Re\u2026 [+45587 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "NYT",
+      "title": "The spy who came in from the Cold War",
+      "description": "Ben Macintyre's Redwood explores a Cold War spy defection that had deadly consequences for Iran",
+      "url": "https://www.business-standard.com/book/the-spy-who-came-in-from-the-cold-war-126092700809_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/27/thumb/fitandfill/1200X628/1790529315-3223.jpg",
+      "publishedAt": "2026-09-27T17:18:07Z",
+      "content": "Ben Macintyre's Redwood explores a Cold War spy defection that had deadly consequences for Iran\r\nRedwood: The Untold Story of the Cold Wars Most Extraordinary Spy\r\nNYT5 min read Last Updated : Sep 27\u2026 [+5607 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wnd.com"
+      },
+      "author": "Daily Caller News Foundation",
+      "title": "Has prelude to World War III arrived? \u2018Key players greatly underestimate the potential for disaster\u2019",
+      "description": "'There are nine nuclear weapons states, and nuclear weapons significantly constrain the freedom of action of the great powers'",
+      "url": "https://www.wnd.com/2026/09/has-prelude-world-war-iii-arrived-key-players/",
+      "urlToImage": "https://www.wnd.com/wp-content/uploads/2026/09/warfare-weapons-mortars-explosives-fire-military-defense-pentagon-jpg-1200x630.jpg",
+      "publishedAt": "2026-09-27T17:12:21Z",
+      "content": "Soldiers fire an M120 mortar system during a live-fire training at Grafenwoehr Training Area, Germany, Wednesday, Sept. 23, 2026. (U.S. Army photo by Sgt. Collin Mackall)\r\nA growing collection of war\u2026 [+14019 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Bloomberg",
+      "title": "Four scenarios sketch ECB succession plan for post-Christine Lagarde era",
+      "description": "Klaas Knot and Pablo Hernandez de Cos remain key contenders for the ECB presidency as European capitals prepare for negotiations over top central bank roles",
+      "url": "https://www.business-standard.com/world-news/four-scenarios-sketch-ecb-succession-plan-for-post-christine-lagarde-era-126092700784_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/27/thumb/fitandfill/1200X628/1790527413-8253.jpg",
+      "publishedAt": "2026-09-27T16:44:20Z",
+      "content": "Klaas Knot and Pablo Hernandez de Cos remain key contenders for the ECB presidency as European capitals prepare for negotiations over top central bank roles\r\nKey contenders for the role of European C\u2026 [+6289 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cultofcalcio.com"
+      },
+      "author": "The Cult of Calcio",
+      "title": "Report \u2013 Juventus Set Sights on Man City Star Ahead of Summer 2027",
+      "description": "Juventus are reportedly considering a swoop for Manchester City midfielder Mateo Kovacic in the summer of 2027. According to Gazzetta dello Sport, the 32-year-old has emerged as a concrete target for ...",
+      "url": "https://cultofcalcio.com/report-juventus-set-sights-on-man-city-star-ahead-of-summer-2027/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/909c5d1613409bbe80571be06bfd661b3452543e2d427db65f101c978bfbc032/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cult_of_calcio_articles_203%2F72a869ee76f8fbf3c0fe114f39e74bad.jpg",
+      "publishedAt": "2026-09-27T16:35:00Z",
+      "content": "Juventus are reportedly considering a swoop for Manchester City midfielder Mateo Kovacic in the summer of 2027. According to Gazzetta dello Sport, the 32-year-old has emerged as a concrete target for\u2026 [+1556 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Zain Khan",
+      "title": "Hurricane Polo sends\u00a0dangerous swells toward\u00a0Southern California as\u00a0urgent warning issued",
+      "description": "A massive hurricane is barreling toward Mexico as Southern California braces for dangerous surf, powerful rip currents and coastal flooding.",
+      "url": "https://nypost.com/2026/09/27/us-news/hurricane-polo-barrels-toward-mexico-as-socal-braces-for-dangerous-surf-flooding/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/142753798.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-09-27T16:28:15Z",
+      "content": "A massive hurricane is barreling toward Mexico as Southern California braces for dangerous surf, powerful rip currents and coastal flooding with the storms enormous swells expected to slam into beach\u2026 [+4024 chars]"
+    },
     {
       "source": {
         "id": "cbs-news",

@@ -1,5 +1,19 @@
 {
   "status": "ok",
-  "totalResults": 0,
-  "articles": []
+  "totalResults": 1,
+  "articles": [
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Laura Kelly",
+      "title": "Russia intensifies hybrid war beyond Ukraine, rattling Europe - The Hill",
+      "description": "European leaders are raising alarm that Russia is intensifying its years-long hybrid war against NATO member states, lashing out as it struggles to make decisive gains in its nearly five-year war against Ukraine.\u00a0 Officials say the attacks against European co\u2026",
+      "url": "https://thehill.com/policy/international/6112252-russia-escalates-nato-hybrid-warfare/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/09/Europe-Russia_Kelly_AP.jpg?w=1280",
+      "publishedAt": "2026-09-27T10:00:00Z",
+      "content": "Skip to content\r\nEuropean leaders are raising alarm that Russia is intensifying its years-long hybrid war against NATO member states, lashing out as it struggles to make decisive gains in its nearly \u2026 [+8342 chars]"
+    }
+  ]
 }

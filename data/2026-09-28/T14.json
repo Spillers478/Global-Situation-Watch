@@ -1,7 +1,59 @@
 {
   "status": "ok",
-  "totalResults": 32,
+  "totalResults": 36,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Lauren Acton-Taylor",
+      "title": "Urgent warning issued for Americans in the UK after attempted 'terrorist attack' as citizens are told to 'exercise caution'",
+      "description": "The US government has issued a warning for Americans to 'exercise caution' in the UK after an attempted 'terrorist act' near an air force base.",
+      "url": "https://www.dailymail.com/news/article-16164803/warning-americans-UK-terrorist-attack-caution.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/09/27/20/111497935-0-Five_men_were_pictured_as_police_arrested_them_on_terror_charges-a-52_1790538827809.jpg",
+      "publishedAt": "2026-09-27T19:54:47Z",
+      "content": "The US government has issued a warning for Americans to 'exercise caution' in the UK after an attempted 'terrorist act' near an air force base.\r\nThe US Embassy in the UK said the agency had been made\u2026 [+8863 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "X.com",
+      "title": " What Benghazi was all about: Ambassador Stevens was sent to Benghazi to secretly retrieve US made Stinger Missiles that the State Dept (Hillary Clinton) had supplied to Ansar al Sharia in Libya WITHOUT Congressional oversight or permission.",
+      "description": "Mike Netter@nettermike\u00b716hFor those that still don\u2019t understand what Benghazi was all about:mSo here's the REAL story:Ambassador Stevens was sent to Benghazi to secretly retrieve US made Stinger Missiles that the State Dept had supplied to Ansar al Sharia i\u2026",
+      "url": "https://freerepublic.com/focus/f-chat/4397074/posts",
+      "urlToImage": null,
+      "publishedAt": "2026-09-27T19:54:44Z",
+      "content": "Mike Netter@nettermike\u00b716hFor those that still dont understand what Benghazi was all about:\r\nmSo here's the REAL story:\r\nAmbassador Stevens was sent to Benghazi to secretly retrieve US made Stinger M\u2026 [+3044 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "OilPrice.com"
+      },
+      "author": "Haley Zaremba",
+      "title": "The Next Global Energy Crisis Won\u2019t Come From Just One Direction",
+      "description": "The next global energy crisis is just around the corner. If the past four years have taught us anything, it\u2019s that an energy crisis can be brought about unexpectedly and by a number of factors \u2013 often in tandem. Changing weather patterns, increased grid stres\u2026",
+      "url": "https://oilprice.com/Energy/Energy-General/The-Next-Global-Energy-Crisis-Wont-Come-From-Just-One-Direction.html",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-25_j3mancxivr.jpg",
+      "publishedAt": "2026-09-27T19:00:00Z",
+      "content": "WTI swung sharply as improved\u2026\r\nNorth Carolina regulators rejected Duke\u2026\r\nU.S. crude inventories rose by\u2026\r\nSet us as your preferred Google source\r\nBy Haley Zaremba - Sep 27, 2026, 2:00 PM CDTThe next\u2026 [+4661 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "NYT",
+      "title": "The spy who came in from the Cold War",
+      "description": "Ben Macintyre's Redwood explores a Cold War spy defection that had deadly consequences for Iran",
+      "url": "https://www.business-standard.com/book/the-spy-who-came-in-from-the-cold-war-126092700809_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/27/thumb/fitandfill/1200X628/1790529315-3223.jpg",
+      "publishedAt": "2026-09-27T17:18:07Z",
+      "content": "Ben Macintyre's Redwood explores a Cold War spy defection that had deadly consequences for Iran\r\nRedwood: The Untold Story of the Cold Wars Most Extraordinary Spy\r\nNYT5 min read Last Updated : Sep 27\u2026 [+5607 chars]"
+    },
     {
       "source": {
         "id": null,

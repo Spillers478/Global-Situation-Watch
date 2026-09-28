@@ -58,6 +58,51 @@
     },
     {
       "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "Dangerous nor\u2019easter batters the US East Coast \u2014 one dead, hundreds of flights cancelled, thousands still without power as states of emergency continue in New York and New Jersey",
+      "description": "The US East Coast experienced a powerful nor'easter that caused significant flooding and travel disruptions. Major cities like New York City and Boston were affected, along with coastal communities in New Jersey and Massachusetts. Strong winds and high tides \u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/dangerous-noreaster-batters-the-us-east-coast-one-dead-hundreds-of-flights-cancelled-thousands-still-without-power-as-states-of-emergency-continue-in-new-york-and-new-jersey/articleshow/134524888.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134525075,width-1200,height-630,imgsize-222002,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-27T18:50:25Z",
+      "content": "A major nor'easter weather system hit the US East Coast last weekend, causing heavy winds, rainfall, and flooding in coastal areas and hazardous conditions in the sea from North Carolina up through N\u2026 [+6211 chars]",
+      "cocom": "USNORTHCOM",
+      "_original_topic_id": "T05"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Zain Khan",
+      "title": "Hurricane Polo sends\u00a0dangerous swells toward\u00a0Southern California as\u00a0urgent warning issued",
+      "description": "A massive hurricane is barreling toward Mexico as Southern California braces for dangerous surf, powerful rip currents and coastal flooding.",
+      "url": "https://nypost.com/2026/09/27/us-news/hurricane-polo-barrels-toward-mexico-as-socal-braces-for-dangerous-surf-flooding/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/142753798.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-09-27T16:28:15Z",
+      "content": "A massive hurricane is barreling toward Mexico as Southern California braces for dangerous surf, powerful rip currents and coastal flooding with the storms enormous swells expected to slam into beach\u2026 [+4024 chars]",
+      "cocom": "USNORTHCOM",
+      "_original_topic_id": "T05"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Nicholas McEntyre",
+      "title": "Long Island swimmer vanishes in ocean off Fire Island during deadly nor\u2019easter as officials launch search",
+      "description": "A Long Island swimmer disappeared in the waters off Robert Moses State Park as 18-foot waves crashed onto the beaches, brought on by the deadly nor'easter hammering the NYC region.",
+      "url": "https://nypost.com/2026/09/27/us-news/long-island-swimmer-vanishes-in-ocean-off-fire-island-during-deadly-noreaster-as-officials-launch-search/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/man-disappeared-into-ocean.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-09-27T08:09:32Z",
+      "content": "A Long Island swimmer disappeared in the waters off Robert Moses State Park as 18-foot waves crashed onto the beaches, brought on by the deadly nor\u2019easter hammering the NYC region.\r\nThe unidentified \u2026 [+3806 chars]",
+      "cocom": "USNORTHCOM",
+      "_original_topic_id": "T05"
+    },
+    {
+      "source": {
         "id": "cbc-news",
         "name": "CBC News"
       },
@@ -70,6 +115,36 @@
       "content": "Its been nearly eight weeks since Neskantaga First Nations most vulnerable members were sent to a hotel in Toronto, but remediation work has only just begun on the damaged nursing station that forced\u2026 [+4523 chars]",
       "cocom": "USNORTHCOM",
       "_original_topic_id": "T05"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Sophie Gable",
+      "title": "Mammoth nor'easter turns DEADLY as man is killed by falling tree in storm that officials are warning will only get WORSE through the weekend",
+      "description": "The extremely rare early-season storm has ravaged coastal communities across the Northeast, as officials warn conditions are set to worsen overnight.",
+      "url": "https://www.dailymail.com/news/article-16163029/noreaster-falling-tree-man-killed.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/09/27/00/111493235-0-image-a-10_1790464786708.jpg",
+      "publishedAt": "2026-09-27T00:17:23Z",
+      "content": "A man has been killed by a falling tree in New York, as millions of Americans endure a powerful nor'easter\u00a0that officials have said will only get worse throughout the weekend.\u00a0\r\nA 56-year-old man was\u2026 [+4826 chars]",
+      "cocom": "USNORTHCOM",
+      "_original_topic_id": "T05"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "One month after Nepal\u2019s catastrophic floods, thousands remain missing",
+      "description": "A month after floods tore through Nepal, 5,285 people remain missing and more than 1,100 are still in holding centres.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/09-27-nepal-floods-one-month-sv-mp4",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790530150.jpg?resize=1621%2C1080&quality=80",
+      "publishedAt": "2026-09-27T17:29:50Z",
+      "content": "A month after catastrophic floods tore through Nepal, 5,285 people remain missing and more than 1,100 are still in holding centres. Fresh rains are now worsening conditions for displaced families liv\u2026 [+73 chars]",
+      "cocom": "USINDOPACOM",
+      "_original_topic_id": "T13"
     },
     {
       "source": {

@@ -2,6 +2,20 @@
   "articles": [
     {
       "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "Ellen Phiddian",
+      "title": "How seriously should we take biological threats from AI?",
+      "description": "AI companies say their tools could be used to make biological weaponry. These are the threats and what can be done to mitigate them.",
+      "url": "https://www.abc.net.au/news/science/2026-09-28/how-concerning-is-the-biological-weapon-threat-from-ai-systems/107161348",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/4f078886181d2dbc25464d6f95c66428?impolicy=wcms_watermark_news&cropH=1596&cropW=2837&xPos=177&yPos=0&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-09-27T18:48:49Z",
+      "content": "The AI industry is suddenly rife with existential fears, with senior figures claiming it could \"kill us all\" within a decade.\r\nDario Amodei, CEO of one of the world's largest AI companies, Anthropic,\u2026 [+6822 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
         "id": "the-times-of-india",
         "name": "The Times of India"
       },
