@@ -2,6 +2,66 @@
   "articles": [
     {
       "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Trump's Greenland obsession isn\u2019t random. Here\u2019s what\u2019s at stake",
+      "description": "Greenland's untapped rare earth minerals, oil and gas reserves could reshape U.S. energy security as Trump's Denmark deal expands military presence.",
+      "url": "https://www.foxnews.com/politics/trumps-greenland-obsession-isnt-random-heres-whats-stake",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/greenland-scenic.png",
+      "publishedAt": "2026-09-27T12:55:32Z",
+      "content": "Greenland may be covered in ice, but beneath its surface could be resources critical to the global economy including rare earth minerals, nickel, copper, palladium, cobalt, oil and natural gas.\r\nThe \u2026 [+3893 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "flagship-ru-ua"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Sin\u00e9ad Baker",
+      "title": "A NATO defense minister warns that the alliance needs to learn how to disperse weapons production before it's at war",
+      "description": "Latvia is watching how Ukraine's arms makers work during wartime, including by producing in a host of sites so none can be a single point of failure.",
+      "url": "https://www.businessinsider.com/nato-must-learn-disperse-weapons-making-before-war-minister-ukraine-2026-9#article",
+      "urlToImage": "https://i.insider.com/6ab53521eb7225411267a1c0?width=1200&format=jpeg",
+      "publishedAt": "2026-09-27T11:57:01Z",
+      "content": "NATO member Latvia wants to learn from how Ukraine makes weapons more dispersed and underground and industry's close relationship with soldiers.Ukrinform/NurPhoto via Getty Images\r\n<ul><li>A NATO def\u2026 [+6648 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "flagship-ru-ua"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hurriyet Daily News"
+      },
+      "author": "hurriyetdailynews.com",
+      "title": "Russia open to T\u00fcrkiye transferring S-400s to friendly country",
+      "description": "Russia could approve T\u00fcrkiye\u2019s transfer of its S-400 missile defense systems to another friendly country, provided Moscow gives its explicit consent and receives guarantees that the systems will not be transferred again, Foreign Minister Sergey Lavrov said on\u2026",
+      "url": "https://www.hurriyetdailynews.com/russia-open-to-turkiye-transferring-s-400s-to-friendly-country-227425",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6ab8fb824f33a65e8bfdcd8d.jpg",
+      "publishedAt": "2026-09-27T11:18:33Z",
+      "content": "NEW YORK\r\nAA Photo\r\nRussia could approve T\u00fcrkiyes transfer of its S-400 missile defense systems to another friendly country, provided Moscow gives its explicit consent and receives guarantees that th\u2026 [+1307 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "flagship-ru-ua"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "www.wsj.com",
+      "title": "NKorea Testing Swarm Attacks Mixing Drones and Missiles...",
+      "description": "Kim Jong Un\u2019s regime is incorporating tactics proving successful against Western air defenses in Europe and the Middle East",
+      "url": "https://www.wsj.com/world/north-korea-is-testing-swarm-attacks-mixing-drones-and-missiles-6f8a0a38",
+      "urlToImage": "https://images.wsj.net/im-68275130/social",
+      "publishedAt": "2026-09-27T13:00:13Z",
+      "content": "North Korea has started practicing swarm attacks that combine unmanned systems with conventional weapons, adopting tactics already used in Ukraine and the Middle East that could challenge U.S. and al\u2026 [+496 chars]",
+      "cocom": "USINDOPACOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Business Standard"
       },
@@ -17,18 +77,17 @@
     },
     {
       "source": {
-        "id": "abc-news-au",
-        "name": "ABC News (AU)"
+        "id": "business-insider",
+        "name": "Business Insider"
       },
-      "author": "Tom Lowrey",
-      "title": "How Australia's defence force is turning AI into a 'silicon commander'",
-      "description": "Militaries across the world, including Australia, are rapidly adopting artificial intelligence to pilot drones and analyse intelligence. But experts worry \"automation bias\" could be creeping in.",
-      "url": "https://www.abc.net.au/news/2026-09-27/defence-force-ai-transformation/107139794",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/fbfc8a4841b4a545b32b753ee58ebe13?impolicy=wcms_watermark_news&cropH=1946&cropW=3460&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-      "publishedAt": "2026-09-26T19:09:38Z",
-      "content": "In the weeks before Christmas last year, high over the remote desert of South Australia, a small slice of aviation and AI history was made.\r\nThe Ghost Bat an Australian-made aircraft, about two-third\u2026 [+11579 chars]",
-      "cocom": "USINDOPACOM",
-      "_original_topic_id": "T07"
+      "author": "Sin\u00e9ad Baker",
+      "title": "A NATO defense minister warns that the alliance needs to learn how to disperse weapons production before it's at war",
+      "description": "Latvia is watching how Ukraine's arms makers work during wartime, including by producing in a host of sites so none can be a single point of failure.",
+      "url": "https://www.businessinsider.com/nato-must-learn-disperse-weapons-making-before-war-minister-ukraine-2026-9#article",
+      "urlToImage": "https://i.insider.com/6ab53521eb7225411267a1c0?width=1200&format=jpeg",
+      "publishedAt": "2026-09-27T11:57:01Z",
+      "content": "NATO member Latvia wants to learn from how Ukraine makes weapons more dispersed and underground and industry's close relationship with soldiers.Ukrinform/NurPhoto via Getty Images\r\n<ul><li>A NATO def\u2026 [+6648 chars]",
+      "cocom": "USEUCOM"
     },
     {
       "source": {
@@ -75,20 +134,6 @@
     {
       "source": {
         "id": null,
-        "name": "The Daily Caller"
-      },
-      "author": "Sean Moran",
-      "title": "China\u2019s Chip Industry Is On The Rise",
-      "description": "China\u2019s chip industry keeps rising as the country seeks to become self-sufficient for its burgeoning artificial intelligence (AI) industry.",
-      "url": "https://dailycaller.com/2026/09/26/china-chip-industry-rise-artificial-intelligence-huawei",
-      "urlToImage": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/09/China%20AI%20chips%20Getty.jpg",
-      "publishedAt": "2026-09-26T16:00:17Z",
-      "content": "Chinas chip industry continues to boost production as the communist country seeks to become more self-sufficient for its burgeoning artificial intelligence industry. \r\nChinese companies have scaled u\u2026 [+7389 chars]",
-      "cocom": "USINDOPACOM"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Globalsecurity.org"
       },
       "author": "John Pike",
@@ -113,51 +158,6 @@
       "publishedAt": "2026-09-26T00:15:32Z",
       "content": "Chinas rise is often reduced to a simple question: Is Beijing trying to replace the U.S. as the dominant power in the international system?\r\nThat question is important, but it is not sufficient. For \u2026 [+17560 chars]",
       "cocom": "USINDOPACOM"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Kanchan Yadav",
-      "title": "Taiwan says US 'very much' understands its defence needs amid China threat",
-      "description": "The United States \u201cvery much\u201d understands Taiwan\u2019s defence needs and the severe military threat posed by China, a senior Taiwanese diplomat said on",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/taiwan-says-us-very-much-understands-its-defence-needs-amid-china-threat/articleshow/134514579.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134515161,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-27T05:29:19Z",
-      "content": "Follow Us On Social Media\r\nAsian Games 2026 India Medal Winners: Full List of Athletes and Medals Till September 27AI mural inspired by Banksy sparks backlash in Bristol: Artists spot wrong landmarks\u2026 [+1697 chars]",
-      "cocom": "USINDOPACOM",
-      "_original_topic_id": "T14"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Reuters",
-      "title": "Taiwan says U.S. 'very much' understands its defense needs after Trump-Xi talks",
-      "description": "TAIPEI, Sept 27 (Reuters) - The United States \"very much\" understands Taiwan's defence needs and the severe military threat it faces from China, a senior \u200cTaiwanese diplomat said on Sunday, following a Washington summit between the US \u200cand Chinese leaders. De\u2026",
-      "url": "https://www.yahoo.com/news/articles/us-very-much-understands-taiwans-024356196.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/deb2bca72aab25efbafbab8ecda457dce77b683184624d994b22aa0333432bf5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Ff9b6a1bc175e2f7d5b15d4d7cdcfb611.jpg",
-      "publishedAt": "2026-09-27T02:43:56Z",
-      "content": "TAIPEI, Sept 27 (Reuters) - The United States \"very much\" understands Taiwan's defence needs and the severe military threat it faces from China, a senior Taiwanese diplomat said on Sunday, following \u2026 [+1968 chars]",
-      "cocom": "USINDOPACOM",
-      "_original_topic_id": "T14"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Reuters",
-      "title": "Taiwan says U.S. 'very much' understands its defense needs after Trump-Xi talks",
-      "description": "TAIPEI, Sept 27 (Reuters) - The United States \"very much\" understands Taiwan's defence needs and the severe military threat it faces from China, a senior \u200cTaiwanese diplomat said on Sunday, following a Washington summit between the US \u200cand Chinese leaders. De\u2026",
-      "url": "https://uk.news.yahoo.com/us-very-much-understands-taiwans-024356196.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/fc874c25ca0deafe076f4657f0fd88c51db8fae6471193c91d392a43dc926ebb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fd1dfd6b170082706fcc02b57cfc50a13.jpg",
-      "publishedAt": "2026-09-27T02:43:56Z",
-      "content": "TAIPEI, Sept 27 (Reuters) - The United States \"very much\" understands Taiwan's defence needs and the severe military threat it faces from China, a senior Taiwanese diplomat said on Sunday, following \u2026 [+1968 chars]",
-      "cocom": "USINDOPACOM",
-      "_original_topic_id": "T14"
     }
   ]
 }

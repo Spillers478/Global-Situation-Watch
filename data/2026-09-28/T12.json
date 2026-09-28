@@ -1,7 +1,85 @@
 {
   "status": "ok",
-  "totalResults": 20,
+  "totalResults": 26,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "KQED"
+      },
+      "author": "Samantha Kennedy",
+      "title": "OpenAI Pauses Training of Latest Models After Agents Probed Government Sites in Unexpected Ways",
+      "description": "It's the second time in three months the company paused development.",
+      "url": "https://www.kqed.org/news/12101526/openai-pauses-training-of-latest-models-after-agents-probed-government-sites-in-unexpected-ways",
+      "urlToImage": "https://cdn.kqed.org/wp-content/uploads/sites/10/2025/10/SamAltmanGetty.jpg",
+      "publishedAt": "2026-09-27T15:30:00Z",
+      "content": "San Francisco-based OpenAI said it has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount.\r\nThe decision to halt development came just hours after \u2026 [+1990 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "EditorDavid",
+      "title": "After Dozens of Incidents at OpenAI and Anthropic, OpenAI Pauses Model Training to Build More Safeguards",
+      "description": "\"OpenAI said it has paused training of its latest AI models,\" reports the Associated Press, \"as reports of AI agents going rogue mount.\"\n\nThe decision to halt development came just hours after the company disclosed Friday that it was reviewing several inciden\u2026",
+      "url": "https://slashdot.org/story/26/09/27/078251/after-dozens-of-incidents-at-openai-and-anthropic-openai-pauses-model-training-to-build-more-safeguards",
+      "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
+      "publishedAt": "2026-09-27T14:34:00Z",
+      "content": "\"OpenAI said it has paused training of its latest AI models,\" reports the Associated Press, \"as reports of AI agents going rogue mount.\"\r\nThe decision to halt development came just hours after the co\u2026 [+5290 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "OpenAI pauses training of latest models after AI agents probed U.S. government sites in unexpected ways",
+      "description": "OpenAI said it has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount.",
+      "url": "https://www.cbc.ca/news/business/openai-pause-training-after-probes-9.7360166",
+      "urlToImage": "https://i.cbc.ca/ais/c117d8df-6441-463b-b295-34b6e4d3711e,1790517059579/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C417%2C8015%2C4508%29%3BResize%3D620",
+      "publishedAt": "2026-09-27T14:16:04Z",
+      "content": "OpenAI said it has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount.\r\nThe decision to halt development came just hours after the company disclose\u2026 [+3207 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Security Affairs newsletter Round 597 by Pierluigi Paganini \u2013 INTERNATIONAL EDITION",
+      "description": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including international press. OpenAI Agent\u2026",
+      "url": "https://securityaffairs.com/199841/breaking-news/security-affairs-newsletter-round-597-by-pierluigi-paganini-international-edition.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2026/09/securityaffairs-newsletter.jpg",
+      "publishedAt": "2026-09-27T13:40:23Z",
+      "content": "Security Affairs newsletter Round 597 by Pierluigi Paganini INTERNATIONAL EDITION\r\nEnjoy a new round of the weekly SecurityAffairs newsletter, including international press.\r\nInternational Press News\u2026 [+3322 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Alexandra Marquez",
+      "title": "Bill Gates says getting countries to agree on AI regulations will be harder than Cold War-era nuclear negotiations",
+      "description": "Bill Gates called on the U.S. to lead in the global regulation of AI growth but warned agreeing on a global AI regulation could be \u201cmore difficult\u201d than Cold War-era nuclear negotiations.",
+      "url": "https://www.nbcnews.com/news/us-news/bill-gates-global-artificial-intelligence-regulations-nuclear-rcna599646",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260925-bill-gates-ch-1017-22a3cb.jpg",
+      "publishedAt": "2026-09-27T13:00:40Z",
+      "content": "Microsoft co-founder and billionaire philanthropist Bill Gates on Wednesday called on the U.S. to be a leader in the global regulation of artificial intelligence growth but warned that getting countr\u2026 [+8034 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Anders Hagstrom",
+      "title": "Gloucestershire Police arrests suspects near RAF Fairford airbase",
+      "description": "Multiple suspects were arrested under the Explosives Act near RAF Fairford, prompting evacuations as explosive ordnance disposal teams examined vehicles.",
+      "url": "https://www.foxnews.com/world/uk-police-arrest-explosive-suspects-near-us-airbase-key-iran-war",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/raf-fairford.jpg",
+      "publishedAt": "2026-09-27T11:47:27Z",
+      "content": "U.K. police say they arrested multiple suspects for offenses under the \"Explosives Act\" near a U.S. airbase in southwest England on Sunday.\r\nGloucestershire Police say the arrests took place just two\u2026 [+2257 chars]"
+    },
     {
       "source": {
         "id": null,

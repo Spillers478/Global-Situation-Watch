@@ -2,6 +2,78 @@
   "articles": [
     {
       "source": {
+        "id": null,
+        "name": "Globalresearch.ca"
+      },
+      "author": "Abayomi Azikiwe",
+      "title": "Horn of Africa Region Will Be Devastated by Another Internal War in Ethiopia",
+      "description": "Tensions have been building up between the government of the Federal Democratic Republic of Ethiopia and several armed opposition groupings.\nThe issues which brought about the war between the central government in Addis Ababa and the northern regional Tigray \u2026",
+      "url": "https://www.globalresearch.ca/horn-africa-region-devastated-internal-war-ethiopia/5941932",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2026/09/Ethiopia-TPLF-fighters.jpeg",
+      "publishedAt": "2026-09-27T14:48:39Z",
+      "content": "Tensions have been building up between the government of the Federal Democratic Republic of Ethiopia and several armed opposition groupings.\r\nThe issues which brought about the war between the centra\u2026 [+10300 chars]",
+      "cocom": "USAFRICOM",
+      "_original_topic_id": "flagship-ir-il"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalresearch.ca"
+      },
+      "author": "Kurt Nimmo",
+      "title": "Trump Prepares for an Invasion of Cuba",
+      "description": "On May 21, Marco Rubio stood on the tarmac at the Miami Homestead Airport and told reporters Cuba \u201chas been one of the leading sponsors of terrorism in the entire region.\u201d The Secretary of State insisted Cuba is a threat \u2026\nThe post Trump Prepares for an Invas\u2026",
+      "url": "https://www.globalresearch.ca/trump-prepares-invasion-cuba/5941883",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2026/05/rubio-us-cuba.jpeg",
+      "publishedAt": "2026-09-27T14:47:27Z",
+      "content": "On May 21, Marco Rubio stood on the tarmac at the Miami Homestead Airport and told reporters Cuba has been one of the leading sponsors of terrorism in the entire region. The Secretary of State insist\u2026 [+6802 chars]",
+      "cocom": "USSOUTHCOM",
+      "_original_topic_id": "flagship-ir-il"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalresearch.ca"
+      },
+      "author": "Kurt Nimmo",
+      "title": "Trump Prepares for an Invasion of Cuba",
+      "description": "On May 21, Marco Rubio stood on the tarmac at the Miami Homestead Airport and told reporters Cuba \u201chas been one of the leading sponsors of terrorism in the entire region.\u201d The Secretary of State insisted Cuba is a threat \u2026\nThe post Trump Prepares for an Invas\u2026",
+      "url": "https://www.globalresearch.ca/trump-prepares-invasion-cuba/5941883",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2026/05/rubio-us-cuba.jpeg",
+      "publishedAt": "2026-09-27T14:47:27Z",
+      "content": "On May 21, Marco Rubio stood on the tarmac at the Miami Homestead Airport and told reporters Cuba has been one of the leading sponsors of terrorism in the entire region. The Secretary of State insist\u2026 [+6802 chars]",
+      "cocom": "USSOUTHCOM"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Pranjal Pandey",
+      "title": "Evening newswrap: Saudi airstrike kills 7 in Yemen; Delhi PWD minister seen slapping man & more",
+      "description": "A Saudi airstrike killed seven people and wounded 40 at a market in Yemen's Taiz province as fighting intensified following a fresh Houthi offensive.",
+      "url": "https://timesofindia.indiatimes.com/india/evening-newswrap-saudi-airstrike-kills-7-in-yemen-delhi-pwd-minister-seen-slapping-man-more/articleshow/134520704.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134521118,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-27T13:25:37Z",
+      "content": "View All Comments \r\nShare your thoughts in the comments\r\nInsightfulAgreeDisagreeSkepticalConcerningPromisingWorth ReadingBig Development\r\nBe respectful \u00b7 TOI community guidelines",
+      "cocom": "USCENTCOM"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Vijaya Srivastava",
+      "title": "7 killed, 40 wounded as Saudi airstrike hits Yemen market amid fresh Houthi offensive",
+      "description": "A Saudi airstrike in the Taiz province of Yemen killed seven people and injured 40 others, including children. The Houthi-run health ministry reported that the strike targeted a central marketplace, which has seen intensified fighting recently. This assault f\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/7-killed-40-wounded-as-saudi-airstrike-hits-yemen-market-amid-fresh-houthi-offensive/articleshow/134520692.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134520856,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-27T13:07:48Z",
+      "content": "Follow Us On Social Media\r\nAt least 12 killed after vessel overturns in DR CongoResidents demand long-distance train stoppages at Ghoghardiha station in MadhubaniPost #80: I turned my first 79 posts \u2026 [+1497 chars]",
+      "cocom": "USCENTCOM"
+    },
+    {
+      "source": {
         "id": "al-jazeera-english",
         "name": "Al Jazeera English"
       },
@@ -17,18 +89,18 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Freerepublic.com"
+        "id": "cbs-news",
+        "name": "CBS News"
       },
-      "author": "NY Post",
-      "title": "Ukraine airdrops killer robots behind enemy lines to take out 3K Russian troops in \u2018historic moment\u2019",
-      "description": "A squad of Ukrainian \u201ckamikaze ground robots\u201d airdropped behind enemy lines have taken out 3,000 Russian soldiers and reclaimed 48 square miles of occupied territory in Donetsk, officials announced. The secretive mission, dubbed \u201cOperation Vivaldi,\u201d began in \u2026",
-      "url": "https://freerepublic.com/focus/f-chat/4396999/posts",
-      "urlToImage": null,
-      "publishedAt": "2026-09-27T00:10:01Z",
-      "content": "Skip to comments.\r\nUkraine airdrops killer robots behind enemy lines to take out 3K Russian troops in historic momentNY Post ^\r\n | 9/26/26\r\n | Gabrielle Fahmy\r\nPosted on 09/26/2026 5:10:01 PM PDT by \u2026 [+4557 chars]",
-      "cocom": "USEUCOM",
-      "_original_topic_id": "T07"
+      "author": null,
+      "title": "Transcript: Alexander Yui, Taiwan's representative to the U.S., on \"Face the Nation with Margaret Brennan,\" Sept. 27, 2026",
+      "description": "The following is the transcript of the interview with Alexander Yui, Taiwan's representative to the U.S., that aired on \"Face the Nation with Margaret Brennan\" on Sept. 27, 2026.",
+      "url": "https://www.cbsnews.com/news/alexander-yui-taiwan-representative-face-the-nation-transcript-09-27-2026/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/27/ae32fd71-1b1d-4497-9f3c-fa1aed01ff5a/thumbnail/1200x630/130b9286ed959aee5b0c26171ced68dd/1790522488812.png",
+      "publishedAt": "2026-09-27T15:22:21Z",
+      "content": "The following is the transcript of the interview with Alexander Yui, Taiwan's representative to the U.S., that aired on \"Face the Nation with Margaret Brennan\" on Sept. 27, 2026.\r\nMARGARET BRENNAN: W\u2026 [+9346 chars]",
+      "cocom": "USINDOPACOM",
+      "_original_topic_id": "T10"
     },
     {
       "source": {

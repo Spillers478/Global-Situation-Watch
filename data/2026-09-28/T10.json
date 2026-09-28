@@ -1,7 +1,59 @@
 {
   "status": "ok",
-  "totalResults": 12,
+  "totalResults": 16,
   "articles": [
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": null,
+      "title": "Transcript: Alexander Yui, Taiwan's representative to the U.S., on \"Face the Nation with Margaret Brennan,\" Sept. 27, 2026",
+      "description": "The following is the transcript of the interview with Alexander Yui, Taiwan's representative to the U.S., that aired on \"Face the Nation with Margaret Brennan\" on Sept. 27, 2026.",
+      "url": "https://www.cbsnews.com/news/alexander-yui-taiwan-representative-face-the-nation-transcript-09-27-2026/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/27/ae32fd71-1b1d-4497-9f3c-fa1aed01ff5a/thumbnail/1200x630/130b9286ed959aee5b0c26171ced68dd/1790522488812.png",
+      "publishedAt": "2026-09-27T15:22:21Z",
+      "content": "The following is the transcript of the interview with Alexander Yui, Taiwan's representative to the U.S., that aired on \"Face the Nation with Margaret Brennan\" on Sept. 27, 2026.\r\nMARGARET BRENNAN: W\u2026 [+9346 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsonjapan.com"
+      },
+      "author": "News On Japan",
+      "title": "Takaichi Faces Autumn Test After Trump Talks And BOJ Rate Hike",
+      "description": "Prime Minister Sanae Takaichi is entering the autumn political season under growing pressure to show that her government can manage relations with Washington and Beijing while keeping Japan\u2019s economic policy on a credible path after the Bank of Japan\u2019s latest\u2026",
+      "url": "https://newsonjapan.com/article/150881.php",
+      "urlToImage": "https://i2.ytimg.com/vi/IsKPXDjPJIc/maxresdefault.jpg",
+      "publishedAt": "2026-09-27T13:35:30Z",
+      "content": "TOKYO -\r\n Prime Minister Sanae Takaichi is entering the autumn political season under growing pressure to show that her government can manage relations with Washington and Beijing while keeping Japan\u2026 [+11273 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsonjapan.com"
+      },
+      "author": "News On Japan",
+      "title": "Nikkei Faces Dividend Test After Five-Day Rally",
+      "description": "Tokyo stocks head into September 28 with the Nikkei 225 sitting at 66,364 after a five-session winning streak, as investors weigh strong artificial intelligence and semiconductor momentum against dividend-related trading, a weak yen, high bond yields and ling\u2026",
+      "url": "https://newsonjapan.com/article/150872.php",
+      "urlToImage": "https://i2.ytimg.com/vi/0NFpbH1d2QI/maxresdefault.jpg",
+      "publishedAt": "2026-09-27T12:36:19Z",
+      "content": "TOKYO -\r\n Tokyo stocks head into September 28 with the Nikkei 225 sitting at 66,364 after a five-session winning streak, as investors weigh strong artificial intelligence and semiconductor momentum a\u2026 [+14342 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Sin\u00e9ad Baker",
+      "title": "A NATO defense minister warns that the alliance needs to learn how to disperse weapons production before it's at war",
+      "description": "Latvia is watching how Ukraine's arms makers work during wartime, including by producing in a host of sites so none can be a single point of failure.",
+      "url": "https://www.businessinsider.com/nato-must-learn-disperse-weapons-making-before-war-minister-ukraine-2026-9#article",
+      "urlToImage": "https://i.insider.com/6ab53521eb7225411267a1c0?width=1200&format=jpeg",
+      "publishedAt": "2026-09-27T11:57:01Z",
+      "content": "NATO member Latvia wants to learn from how Ukraine makes weapons more dispersed and underground and industry's close relationship with soldiers.Ukrinform/NurPhoto via Getty Images\r\n<ul><li>A NATO def\u2026 [+6648 chars]"
+    },
     {
       "source": {
         "id": null,

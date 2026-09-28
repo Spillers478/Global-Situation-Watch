@@ -1,7 +1,241 @@
 {
   "status": "ok",
-  "totalResults": 87,
+  "totalResults": 105,
   "articles": [
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Irish PM rejects antisemitism concerns in Ireland amid dramatic vote over boycotting Israel game",
+      "description": "Irish Prime Minister Miche\u00e1l Martin rejected antisemitism claims as Ireland's soccer players held a dramatic last-minute vote on playing against Israel.",
+      "url": "https://www.foxnews.com/politics/irish-pm-rejects-antisemitism-concerns-ireland-amid-dramatic-vote-boycotting-israel-game",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/micheal-martin-stop-the-game.jpg",
+      "publishedAt": "2026-09-27T15:43:48Z",
+      "content": "Irish Prime Minister Miche\u00e1l Martin rejected claims that Ireland's sharp criticism of Israel has crossed into antisemitism as tensions flared around a politically charged soccer match between the cou\u2026 [+9725 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "POLITICO.eu"
+      },
+      "author": "Antoaneta Roussi",
+      "title": "Russian tech surveillance company infiltrated Europe\u2019s law enforcement agencies",
+      "description": "The same technology used by Western police was allegedly being developed in Russia and sold to Russian security services.",
+      "url": "https://www.politico.eu/article/russia-tech-surveillance-company-infiltrated-europes-law-enforcement-agencies/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/09/27/GettyImages-970325468.jpg",
+      "publishedAt": "2026-09-27T15:25:16Z",
+      "content": "The first project, EVIDENCE, (European Informatics Data Exchange Framework for Courts and Evidence), which received more than 1.9 million in EU funding between 2014 and 2016, listed Oxygen Forensics \u2026 [+2394 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Isegoria.net"
+      },
+      "author": "Isegoria",
+      "title": "Russia always works at operational depth",
+      "description": "During his tenure as defense minister, Mykhailo Fedorov recognized that Ukraine needed to fight deep behind Russian lines: \u201cRussia always works at operational depth,\u201d he said. \u201cThis is how Russian doctrine is built; Russia essentially created the concept.\u201d In\u2026",
+      "url": "https://www.isegoria.net/2026/09/russia-always-works-at-operational-depth/",
+      "urlToImage": null,
+      "publishedAt": "2026-09-27T15:14:52Z",
+      "content": "Russia always works at operational depth, he said. This is how Russian doctrine is built; Russia essentially created the concept. Indeed, Isserson, the Soviet deep operations theorist, wrote in 1937 \u2026 [+3008 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Jake Holden",
+      "title": "Russia builds doomsday nuclear bunker in remote mountain to launch strikes against West",
+      "description": "Hidden in the remote Ural Mountains of central Russia, the tiny village of Kytlym has an unusually busy military presence.",
+      "url": "https://www.dailymail.com/news/article-16163981/Russia-doomsday-nuclear-bunker-strikes-West.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/09/27/13/111498059-0-image-m-9_1790512252577.jpg",
+      "publishedAt": "2026-09-27T14:47:01Z",
+      "content": "Putin has resurrected a sinister Cold War nuclear system designed to ensure Russia can unleash a retaliatory strike even if a devastating attack wipes out its leadership.\r\nHidden beneath a remote mou\u2026 [+8303 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Steynonline.com"
+      },
+      "author": null,
+      "title": "Plus \u00e7a change...",
+      "description": "I emerge briefly from my coma to find that, in a turbulent world, some things never change. In 2022, all the experts were talking about international sanctions bringing Russia to its knees within weeks, and anyway Putin was obviously dying if not dead",
+      "url": "https://www.steynonline.com/16431/plus-ca-change",
+      "urlToImage": "https://www.steynonline.com/pics/6007.jpg",
+      "publishedAt": "2026-09-27T14:00:00Z",
+      "content": "I emerge briefly from my coma to find that, in a turbulent world, some things never change. In 2022, all the experts were talking about international sanctions bringing Russia to its knees within wee\u2026 [+8517 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Substack.com"
+      },
+      "author": "Gloria Guillo",
+      "title": "Fossil Fuel Checkmate: Three Undeclared Wars With One Goal \u2014 Scarcity",
+      "description": "\u2026\nThe post Fossil Fuel Checkmate: Three Undeclared Wars With One Goal \u2014 Scarcity appeared first on Global Research.",
+      "url": "https://gloriaguillo.substack.com/p/fossil-fuel-checkmate-three-undeclared",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!DmdY!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4e6c06cd-fda1-4172-8928-622885518fa9_1179x777.jpeg",
+      "publishedAt": "2026-09-27T13:17:33Z",
+      "content": "Ukraine, Venezuela, and the Gulf are being sold as separate events. They are not. They are strategic moves toward one goal: fossil-fuel checkmate, planned decades ago by oligarchs who profit when riv\u2026 [+5929 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TechSpot"
+      },
+      "author": "Rob Thubron",
+      "title": "Russia targets Ukraine's data centers as attacks disrupt internet access for 100,000 households",
+      "description": "The September 25 attack struck Kyiv's Solomianskyi district. Mayor Vitali Klitschko said seven people were injured, including a child, while three of those killed were found in a parking lot outside the building. The blast damaged the facade and shattered win\u2026",
+      "url": "https://www.techspot.com/news/114002-russia-targets-ukraine-data-centers-attacks-disrupt-internet.html",
+      "urlToImage": "https://www.techspot.com/images2/news/bigimage/2026/09/2026-09-27-image.jpg",
+      "publishedAt": "2026-09-27T13:06:00Z",
+      "content": "What just happened? It appears that Russia has followed in Iran's footsteps and decided to target data centers in its hostilities. A Russian drone hit a business centre in the Ukrainian capital Kyiv \u2026 [+3071 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "Swiss voters set to reject tighter neutrality rules that would curb NATO co-operation",
+      "description": "Swiss voters on Sunday looked set to reject a proposal to adopt a more restrictive form of neutrality that would have blocked their \u200bcountry from imposing economic sanctions or co-operating with NATO.",
+      "url": "https://www.cbc.ca/news/world/swiss-voters-reject-tighter-neutrality-9.7360123",
+      "urlToImage": "https://i.cbc.ca/ais/1a91c5d7-f461-4534-9c3f-521499eb3d78,1790512519915/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C444%2C5400%2C3037%29%3BResize%3D620",
+      "publishedAt": "2026-09-27T13:04:33Z",
+      "content": "Swiss voters on Sunday firmly rejected a proposal to adopt a more restrictive form of neutrality that would have blocked their country from imposing economic sanctions or co-operating with NATO.\r\nMor\u2026 [+3251 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Currently",
+      "description": "Russia's super-rich once ruled the country - could they restore their political influence?",
+      "url": "https://www.bbc.co.uk/sounds/play/m00323z0?at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p0pb94fm.jpg",
+      "publishedAt": "2026-09-27T13:00:00Z",
+      "content": "Available for over a year\r\nRussia's super-rich once ruled the country, holding deep influence over the country's politicians in the years immediately after the collapse of the Soviet Union.\r\nThey the\u2026 [+828 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Trump's Greenland obsession isn\u2019t random. Here\u2019s what\u2019s at stake",
+      "description": "Greenland's untapped rare earth minerals, oil and gas reserves could reshape U.S. energy security as Trump's Denmark deal expands military presence.",
+      "url": "https://www.foxnews.com/politics/trumps-greenland-obsession-isnt-random-heres-whats-stake",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/greenland-scenic.png",
+      "publishedAt": "2026-09-27T12:55:32Z",
+      "content": "Greenland may be covered in ice, but beneath its surface could be resources critical to the global economy including rare earth minerals, nickel, copper, palladium, cobalt, oil and natural gas.\r\nThe \u2026 [+3893 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Swiss voters set to reject tighter neutrality rules in referendum",
+      "description": "About 71 percent of voters oppose initiative to impose stricter limits on neutrality, projection suggests.",
+      "url": "https://www.aljazeera.com/news/2026/9/27/swiss-voters-set-to-reject-tighter-neutrality-rules-in-referendum",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab63db73f92-1790328247.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-27T12:45:42Z",
+      "content": "Swiss voters appear to have overwhelmingly rejected a proposal to impose stricter constitutional limits on the countrys longstanding neutrality.\r\nAbout 71 percent voted against the initiative in a re\u2026 [+2144 chars]"
+    },
+    {
+      "source": {
+        "id": "rt",
+        "name": "RT"
+      },
+      "author": "RT",
+      "title": "Lavrov unimpressed by German FM\u2019s last-minute UNGA overture (VIDEOS)",
+      "description": "German FM Johann Wadephul brought \u201cnothing new\u201d to UN talks with Russia that he himself requested, Foreign Minister Sergey Lavrov has said Read Full Article at RT.com",
+      "url": "https://www.rt.com/news/646315-lavrov-wadephul-nothing-new/",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6ab8e39885f5403888779fd6.png",
+      "publishedAt": "2026-09-27T12:44:34Z",
+      "content": "German Foreign Minister Johann Wadephul arrived at last-minute talks with Moscow with Berlin\u2019s familiar anti-Russia script firmly in hand, Russian Foreign Minister Sergey Lavrov has said.\r\nWadephul r\u2026 [+5798 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Russian Strikes On Ukraine As Zelenskyy Says Russia Not Ready To End War",
+      "description": "Russian drone strikes killed at least four people in Ukraine overnight and into September 27, including one person in the capital, Kyiv, and three in the southeastern Zaporizhzhya region, Ukrainian officials said.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260927-rferl02.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-27T12:00:00Z",
+      "content": "By RFE/RL September 27, 2026\r\nRussian drone strikes killed at least four people in Ukraine overnight and into September 27, including one person in the capital, Kyiv, and three in the southeastern Za\u2026 [+5682 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "Various driveby media television networks",
+      "title": "Sunday Morning Talk Show Thread 27 September 2026",
+      "description": "The Talk Shows Sep 27th, 2026 Guests to be interviewed today on major television talk shows:FACE THE NATION (CBS): Margaret Brennan anchors: Iranian President Masoud Pezeshkian; Sen. John Kennedy (R\u2011La.); Rep. Jim Himes (D\u2011Conn.); Taiwanese Ambassador Alexand\u2026",
+      "url": "https://freerepublic.com/focus/f-news/4397033/posts",
+      "urlToImage": null,
+      "publishedAt": "2026-09-27T11:57:31Z",
+      "content": "Skip to comments.\r\nSunday Morning Talk Show Thread 27 September 2026 Various driveby media television networks ^\r\n | 27 September 2026\r\n | Various Self-Serving Politicians and Big Media Screaming Fac\u2026 [+17044 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Sin\u00e9ad Baker",
+      "title": "A NATO defense minister warns that the alliance needs to learn how to disperse weapons production before it's at war",
+      "description": "Latvia is watching how Ukraine's arms makers work during wartime, including by producing in a host of sites so none can be a single point of failure.",
+      "url": "https://www.businessinsider.com/nato-must-learn-disperse-weapons-making-before-war-minister-ukraine-2026-9#article",
+      "urlToImage": "https://i.insider.com/6ab53521eb7225411267a1c0?width=1200&format=jpeg",
+      "publishedAt": "2026-09-27T11:57:01Z",
+      "content": "NATO member Latvia wants to learn from how Ukraine makes weapons more dispersed and underground and industry's close relationship with soldiers.Ukrinform/NurPhoto via Getty Images\r\n<ul><li>A NATO def\u2026 [+6648 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "The Associated Press",
+      "title": "Russian strikes kill 2 in Ukraine after Moscow rejects German calls to de-escalate",
+      "description": "Russian strikes on Ukraine have killed at least two people overnight into Sunday, officials said",
+      "url": "https://abcnews.com/International/wireStory/russian-strikes-kill-2-ukraine-after-moscow-rejects-136794206",
+      "urlToImage": "https://i.abcnewsfe.com/a/379e742d-f80d-4e4e-b8bc-9d58c8055362/wirestory_f91ac88ee287bad2a3c99d2608975f53_16x9.jpg?w=1600",
+      "publishedAt": "2026-09-27T11:27:29Z",
+      "content": "KYIV, Ukraine -- Russian strikes on Ukraine killed at least two people overnight into Sunday, officials said, hours after Moscow rejected German calls to ease off its escalation toward NATO.\r\nRussias\u2026 [+2156 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hurriyet Daily News"
+      },
+      "author": "hurriyetdailynews.com",
+      "title": "Russia open to T\u00fcrkiye transferring S-400s to friendly country",
+      "description": "Russia could approve T\u00fcrkiye\u2019s transfer of its S-400 missile defense systems to another friendly country, provided Moscow gives its explicit consent and receives guarantees that the systems will not be transferred again, Foreign Minister Sergey Lavrov said on\u2026",
+      "url": "https://www.hurriyetdailynews.com/russia-open-to-turkiye-transferring-s-400s-to-friendly-country-227425",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6ab8fb824f33a65e8bfdcd8d.jpg",
+      "publishedAt": "2026-09-27T11:18:33Z",
+      "content": "NEW YORK\r\nAA Photo\r\nRussia could approve T\u00fcrkiyes transfer of its S-400 missile defense systems to another friendly country, provided Moscow gives its explicit consent and receives guarantees that th\u2026 [+1307 chars]"
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Breitbart London",
+      "title": "Russian Strikes Kill Two in Ukraine as Moscow Rejects German Calls to De-Escalate",
+      "description": "Russian strikes on Ukraine killed at least two people overnight into Sunday, officials said, hours after Moscow rejected German calls to ease off its escalation toward NATO.\nThe post Russian Strikes Kill Two in Ukraine as Moscow Rejects German Calls to De-Esc\u2026",
+      "url": "https://www.breitbart.com/europe/2026/09/27/russian-strikes-kill-two-in-ukraine-as-moscow-rejects-german-calls-to-de-escalate/",
+      "urlToImage": "https://media.breitbart.com/media/2026/09/GettyImages-2296808110-2-640x335.jpg",
+      "publishedAt": "2026-09-27T11:12:58Z",
+      "content": "KYIV, Ukraine (AP) \u2013 Russian strikes on Ukraine killed at least two people overnight into Sunday, officials said, hours after Moscow rejected German calls to ease off its escalation toward NATO.\r\nRus\u2026 [+2139 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -828,7 +1062,7 @@
       },
       "author": "Maria  Remaevich",
       "title": "Russian students: Propaganda in school prepares them to die",
-      "description": "The Russian government wants children to learn about patriotism from an early age. DW spoke to students in Siberia about their views on propaganda at school on the war in Ukraine and their future. Earlier this year, several schools in Novosibirsk, a city of 1\u2026",
+      "description": "The Russian government wants children to learn about patriotism from an early age. DW spoke to students in Siberia about their views on propaganda at school on the war in Ukraine and their future.",
       "url": "https://www.dw.com/en/russian-students-propaganda-in-school-prepares-them-to-die/a-79417294",
       "urlToImage": "https://static.dw.com/image/68654735_6.jpg",
       "publishedAt": "2026-09-26T11:55:00Z",
@@ -841,7 +1075,7 @@
       },
       "author": "Maria  Remaevich",
       "title": "Russian students: Propaganda in school prepares them to die",
-      "description": "The Russian government wants children to learn about patriotism from an early age. DW spoke to students in Siberia about their views on propaganda at school on the war in Ukraine and their future.",
+      "description": "The Russian government wants children to learn about patriotism from an early age. DW spoke to students in Siberia about their views on propaganda at school on the war in Ukraine and their future. Earlier this year, several schools in Novosibirsk, a city of 1\u2026",
       "url": "https://www.dw.com/en/russian-students-propaganda-in-school-prepares-them-to-die/a-79417294",
       "urlToImage": "https://static.dw.com/image/68654735_6.jpg",
       "publishedAt": "2026-09-26T11:55:00Z",
@@ -1054,71 +1288,6 @@
       "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1124792821.jpg?11246112111790406540",
       "publishedAt": "2026-09-26T07:05:25Z",
       "content": "Russia's Special Operation in Ukraine\r\nOn February 24, 2022 Russia launched a special military operation in Ukraine, aiming to liberate the Donbass region where the people's republics of Donetsk and \u2026 [+4780 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Associated Press",
-      "title": "Ukraine\u2019s Zelensky says he urged Trump to enlist China\u2019s help in ending Russia\u2019s invasion",
-      "description": "Zelensky told reporters he has not yet received feedback from the White House about Trump\u2019s talks with Chinese President Xi Jinping.",
-      "url": "https://nypost.com/2026/09/26/world-news/ukraines-zelensky-says-he-urged-trump-to-enlist-chinas-help-in-ending-russias-invasion/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/142582535.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-09-26T07:03:34Z",
-      "content": "Ukrainian President Volodymyr Zelensky said Friday that he asked US President Trump to press Chinas leader to use Beijings influence over Moscow in a diplomatic effort to get Russia to end its 4\u00bd-yea\u2026 [+5802 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hurriyet Daily News"
-      },
-      "author": "hurriyetdailynews.com",
-      "title": "Putin says Russian interests will guide return to talks",
-      "description": "Russian President Vladimir Putin said on Sept. 25 that proposals to resume negotiations with Ukraine remained under consideration, but Moscow would decide its next steps according to its own interests.",
-      "url": "https://www.hurriyetdailynews.com/putin-says-russian-interests-will-guide-return-to-talks-227375",
-      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6ab76ba4193671de76cbba3d.jpg",
-      "publishedAt": "2026-09-26T06:52:22Z",
-      "content": "ST. PETERSBURG\r\nRussian President Vladimir Putin said on Sept. 25 that proposals to resume negotiations with Ukraine remained under consideration, but Moscow would decide its next steps according to \u2026 [+1417 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Reuters",
-      "title": "UN General Assembly: Iran talks, Ukraine ceasefire and AI among key takeaways",
-      "description": "World leaders gathered at the United Nations to discuss ongoing conflicts in Iran and Ukraine. Diplomatic talks between US and Iranian officials showed some progress amidst sharp rhetoric. Discussions focused on achieving limited ceasefires for grain exports \u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/un-general-assembly-iran-talks-ukraine-ceasefire-and-ai-among-key-takeaways/articleshow/134497680.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134498030,width-1200,height-630,imgsize-163264,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-26T05:20:45Z",
-      "content": "Limousines whisked world leaders away from the United Nations on Friday after a week of speeches, meetings and hallway diplomacy.While they reached no breakthroughs on the world's most intractable co\u2026 [+5836 chars]"
-    },
-    {
-      "source": {
-        "id": "the-irish-times",
-        "name": "The Irish Times"
-      },
-      "author": "Gavin Cummiskey",
-      "title": "Israel v Ireland: Geopolitics and sport clash as FAI face into a week like no other",
-      "description": "Heimir Hallgr\u00edmsson: \u2018I\u2019m not a psychologist, but the preparation has definitely been unorthodox\u2019",
-      "url": "https://www.irishtimes.com/sport/soccer/2026/09/26/israel-and-ireland-preview-fai-and-irish-soccer-divided-as-geopolitics-and-sport-clash/",
-      "urlToImage": "https://www.irishtimes.com/resizer/v2/HR7HCXKDCNBNFEOMV3ACAQQATI.jpg?smart=true&auth=f4d854e267f95367abd232bf138457101e6ea9d39470866b81354b47701dc271&width=1200&height=630",
-      "publishedAt": "2026-09-26T05:00:01Z",
-      "content": "Nations League, League B, Group 3: Israel v Ireland, Nagyerdei Stadion, Debrecen, Hungary; Sunday, 7.45pm Live on RT\u00c92\r\nOnly one of the countries competing in the Uefa Nations League match between th\u2026 [+4344 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Reuters",
-      "title": "Oil prices slide about 2% as US, Iran explore path out of war",
-      "description": "Oil prices have dropped roughly 2%, influenced by signs of diplomatic advancement between the US and Iran concerning the Strait of Hormuz. As negotiations unfold, the US is contemplating a ban on diesel exports, impacting crude oil futures. Meanwhile, escalat\u2026",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-slide-about-2-as-us-iran-explore-path-out-of-war/articleshow/134496730.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134496743,width-1200,height-630,imgsize-152132,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-26T03:58:53Z",
-      "content": "Oil prices fell about 2% on Friday on mounting hopes for a truce between the US and Iran and talk about a possible US ban on diesel exports, even as traders worried that increasing attacks against Sa\u2026 [+3533 chars]"
     }
   ]
 }

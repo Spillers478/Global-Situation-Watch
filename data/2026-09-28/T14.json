@@ -1,7 +1,46 @@
 {
   "status": "ok",
-  "totalResults": 29,
+  "totalResults": 32,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Common Dreams"
+      },
+      "author": "Jessica Corbett",
+      "title": "Iran Pushes for A Negotiated End to War After Trump Rejects Ceasefire Proposal",
+      "description": "\u201cThere is no alternative to a negotiated solution,\" an Iranian foreign minister said.",
+      "url": "https://www.commondreams.org/news/iran-foreign-minister",
+      "urlToImage": "https://truthout.org/app/uploads/2026/09/GettyImages-2296611194.jpg",
+      "publishedAt": "2026-09-27T15:42:06Z",
+      "content": "Did you know that Truthout is a nonprofit and independently funded by readers like you? If you value what we do, please support our work with a donation.\r\nAs U.S. President Donald Trump publicly reje\u2026 [+6782 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Signal"
+      },
+      "author": "Olivia Burdo",
+      "title": "Victor Davis Hanson: AI and the Same Old Politicized Hysteria",
+      "description": "The midterm elections are six weeks away.\u00a0 Suddenly, a debate has erupted over the existential dangers of artificial intelligence. Jacob Coxon, a little-known Silicon Valley researcher who worked at OpenAI and Anthropic, resigned and went public with a dire w\u2026",
+      "url": "https://www.dailysignal.com/2026/09/27/ai-same-old-politicized-hysteria/",
+      "urlToImage": "https://static.dailysignalmedia.org/2026/09/GettyImages-2292626881.jpg",
+      "publishedAt": "2026-09-27T12:00:00Z",
+      "content": "The midterm elections are six weeks away.\u00a0\r\nSuddenly, a debate has erupted over the existential dangers of artificial intelligence. Jacob Coxon, a little-known Silicon Valley researcher who worked at\u2026 [+15198 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "The Associated Press",
+      "title": "Russian strikes kill 2 in Ukraine after Moscow rejects German calls to de-escalate",
+      "description": "Russian strikes on Ukraine have killed at least two people overnight into Sunday, officials said",
+      "url": "https://abcnews.com/International/wireStory/russian-strikes-kill-2-ukraine-after-moscow-rejects-136794206",
+      "urlToImage": "https://i.abcnewsfe.com/a/379e742d-f80d-4e4e-b8bc-9d58c8055362/wirestory_f91ac88ee287bad2a3c99d2608975f53_16x9.jpg?w=1600",
+      "publishedAt": "2026-09-27T11:27:29Z",
+      "content": "KYIV, Ukraine -- Russian strikes on Ukraine killed at least two people overnight into Sunday, officials said, hours after Moscow rejected German calls to ease off its escalation toward NATO.\r\nRussias\u2026 [+2156 chars]"
+    },
     {
       "source": {
         "id": "breitbart-news",

@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 4,
+  "totalResults": 5,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Rediff.com"
+      },
+      "author": "sports@rediff.co.in (Rediff Sports Desk)",
+      "title": "Chess Olympiad: India Bags Silver And Bronze Medals",
+      "description": "The Indian men's chess team secured a silver medal on a tie-break after drawing with Hungary, while the women's team clinched a bronze medal by drawing with Georgia at the 46th Chess Olympiad. Uzbekistan won gold in the open section, and China took gold in th\u2026",
+      "url": "https://www.rediff.com/sports/report/chess-olympiad-indian-men-claim-silver-women-win-bronze/20260927.htm",
+      "urlToImage": "https://im.rediff.com/1200-630/sports/2026/sep/15chess-olympiad.jpg",
+      "publishedAt": "2026-09-27T13:15:34Z",
+      "content": "India's chess prowess was on full display at the 46th Chess Olympiad, where the men's team secured a silver medal and the women's team brought home a bronze, alongside multiple individual honours.\r\nK\u2026 [+3851 chars]"
+    },
     {
       "source": {
         "id": "cbc-news",

@@ -1,7 +1,59 @@
 {
   "status": "ok",
-  "totalResults": 3,
+  "totalResults": 8,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Cincinnati Enquirer"
+      },
+      "author": "Scott Springer, Cincinnati Enquirer",
+      "title": "How Cincinnati Bearcats vs. Kansas State was decided on front line",
+      "description": "Here's how the Cincinnati Bearcats vs. Kansas State Wildcats game went down on the offensive and defensive lines",
+      "url": "https://www.cincinnati.com/story/sports/college/university-of-cincinnati/2026/09/27/uc-bearcats-kansas-state-offensive-defensive-lines/91937622007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/71f09996c179c64af9248cf5af68b183b7447302fe8c424fb2623e34da1dcca0/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_enquirer_natl_articles_358%2Ffa25e597ee7787894c63fed13c607790.jpg",
+      "publishedAt": "2026-09-27T15:23:34Z",
+      "content": "Cincinnati Bearcats head coach Scott Satterfield advised fans ahead of time to watch the trenches in their Sept. 26 night game at Nippert Stadium against Kansas State.\r\nThe reasoning was sound.\r\n\"Nor\u2026 [+5920 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalresearch.ca"
+      },
+      "author": "Kurt Nimmo",
+      "title": "Trump Prepares for an Invasion of Cuba",
+      "description": "On May 21, Marco Rubio stood on the tarmac at the Miami Homestead Airport and told reporters Cuba \u201chas been one of the leading sponsors of terrorism in the entire region.\u201d The Secretary of State insisted Cuba is a threat \u2026\nThe post Trump Prepares for an Invas\u2026",
+      "url": "https://www.globalresearch.ca/trump-prepares-invasion-cuba/5941883",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2026/05/rubio-us-cuba.jpeg",
+      "publishedAt": "2026-09-27T14:47:27Z",
+      "content": "On May 21, Marco Rubio stood on the tarmac at the Miami Homestead Airport and told reporters Cuba has been one of the leading sponsors of terrorism in the entire region. The Secretary of State insist\u2026 [+6802 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Pranjal Pandey",
+      "title": "Evening newswrap: Saudi airstrike kills 7 in Yemen; Delhi PWD minister seen slapping man & more",
+      "description": "A Saudi airstrike killed seven people and wounded 40 at a market in Yemen's Taiz province as fighting intensified following a fresh Houthi offensive.",
+      "url": "https://timesofindia.indiatimes.com/india/evening-newswrap-saudi-airstrike-kills-7-in-yemen-delhi-pwd-minister-seen-slapping-man-more/articleshow/134520704.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134521118,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-27T13:25:37Z",
+      "content": "View All Comments \r\nShare your thoughts in the comments\r\nInsightfulAgreeDisagreeSkepticalConcerningPromisingWorth ReadingBig Development\r\nBe respectful \u00b7 TOI community guidelines"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Vijaya Srivastava",
+      "title": "7 killed, 40 wounded as Saudi airstrike hits Yemen market amid fresh Houthi offensive",
+      "description": "A Saudi airstrike in the Taiz province of Yemen killed seven people and injured 40 others, including children. The Houthi-run health ministry reported that the strike targeted a central marketplace, which has seen intensified fighting recently. This assault f\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/7-killed-40-wounded-as-saudi-airstrike-hits-yemen-market-amid-fresh-houthi-offensive/articleshow/134520692.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134520856,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-27T13:07:48Z",
+      "content": "Follow Us On Social Media\r\nAt least 12 killed after vessel overturns in DR CongoResidents demand long-distance train stoppages at Ghoghardiha station in MadhubaniPost #80: I turned my first 79 posts \u2026 [+1497 chars]"
+    },
     {
       "source": {
         "id": "fox-news",

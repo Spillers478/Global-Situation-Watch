@@ -1,7 +1,202 @@
 {
   "status": "ok",
-  "totalResults": 96,
+  "totalResults": 111,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "By Trevor Hunnicutt, Yomna Ehab and Jana Choukeir",
+      "title": "Iran insists on diplomatic solution after Trump rejects peace plan",
+      "description": "By Trevor Hunnicutt, Yomna Ehab and Jana Choukeir WASHINGTON/UNITED NATIONS/DUBAI, Sept 27 (Reuters) - Iran insisted on Sunday that only diplomacy can solve its conflict with the United States and Israel, after US President Donald Trump said he rejected an Ir\u2026",
+      "url": "https://www.yahoo.com/news/articles/iran-insists-diplomatic-solution-trump-223552721.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/ca6842ca3a8f02906293d9652d161f6fae39c4c2cde14e91d2f650581582279d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fc2bf7558150d89f85cbc4eb5b974c69f.jpg",
+      "publishedAt": "2026-09-27T15:45:53Z",
+      "content": "By Trevor Hunnicutt, Yomna Ehab and Jana Choukeir\r\nWASHINGTON/UNITED NATIONS/DUBAI, Sept 27 (Reuters) - Iran insisted on Sunday that only diplomacy can solve its conflict with the United States and I\u2026 [+5459 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Common Dreams"
+      },
+      "author": "Jessica Corbett",
+      "title": "Iran Pushes for A Negotiated End to War After Trump Rejects Ceasefire Proposal",
+      "description": "\u201cThere is no alternative to a negotiated solution,\" an Iranian foreign minister said.",
+      "url": "https://www.commondreams.org/news/iran-foreign-minister",
+      "urlToImage": "https://truthout.org/app/uploads/2026/09/GettyImages-2296611194.jpg",
+      "publishedAt": "2026-09-27T15:42:06Z",
+      "content": "Did you know that Truthout is a nonprofit and independently funded by readers like you? If you value what we do, please support our work with a donation.\r\nAs U.S. President Donald Trump publicly reje\u2026 [+6782 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sputnikglobe.com"
+      },
+      "author": "Sputnik International",
+      "title": "Iran Says It is Ready For War and Also Offers Diplomatic Option",
+      "description": "Tehran is prepared for a renewed conflict with the US while still leaving the door open for diplomacy after President Donald Trump rejected an Iranian proposal to reopen the Strait of Hormuz, Iranian Foreign Minister Abbas Araghchi said.",
+      "url": "https://sputnikglobe.com/20260927/iran-says-it-is-ready-for-war-and-also-offers-diplomatic-option-1124802055.html",
+      "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1124802055.jpg?11237889101790523319",
+      "publishedAt": "2026-09-27T15:35:18Z",
+      "content": "The Israeli and US military launched Operation Epic Fury against Iran on February 28, 2026, over its alleged development of a nuclear program. Iran consistently stated that the program was peaceful i\u2026 [+1621 chars]"
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Pam Key",
+      "title": "Sen. Tillis: Hegseth Has 'Demonstrated a Kind of Snowflake-ish Behavior'",
+      "description": "Sunday on CNN\u2019s \u201cState of the Union,\u201d Sen. Thom Tillis (R-NC) said\u00a0Secretary of War Pete Hegseth has \u201cdemonstrated a kind of snowflake-ish behavior\u201d when dealing with the press. Anchor Jake Tapper said, \u201cI know you\u2019ve been very critical of Secretary\nThe post \u2026",
+      "url": "https://www.breitbart.com/clips/2026/09/27/sen-tillis-hegseth-has-demonstrated-a-kind-of-snowflake-ish-behavior/",
+      "urlToImage": "https://media.breitbart.com/media/2025/01/till-640x335.jpg",
+      "publishedAt": "2026-09-27T15:29:15Z",
+      "content": "Sunday on CNN\u2019s \u201cState of the Union,\u201d Sen. Thom Tillis (R-NC) said\u00a0Secretary of War Pete Hegseth has \u201cdemonstrated a kind of snowflake-ish behavior\u201d when dealing with the press.\r\nAnchor Jake Tapper s\u2026 [+1418 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Jake Holden",
+      "title": "Russia builds doomsday nuclear bunker in remote mountain to launch strikes against West",
+      "description": "Hidden in the remote Ural Mountains of central Russia, the tiny village of Kytlym has an unusually busy military presence.",
+      "url": "https://www.dailymail.com/news/article-16163981/Russia-doomsday-nuclear-bunker-strikes-West.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/09/27/13/111498059-0-image-m-9_1790512252577.jpg",
+      "publishedAt": "2026-09-27T14:47:01Z",
+      "content": "Putin has resurrected a sinister Cold War nuclear system designed to ensure Russia can unleash a retaliatory strike even if a devastating attack wipes out its leadership.\r\nHidden beneath a remote mou\u2026 [+8303 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jalen Beckford",
+      "title": "Waltz says Iran wanted sanctions relief first. Tehran says that's not the full story.",
+      "description": "Mike Waltz, U.S. ambassador to the United Nations, said Sunday that President Donald Trump rejected Iran's latest proposal because Tehran wanted sanctions relief and access to \"billions in frozen assets\" before negotiating an end to its nuclear program.\"They \u2026",
+      "url": "https://www.yahoo.com/news/politics/articles/waltz-says-iran-wanted-sanctions-143305393.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/810aa087cdaba36d2e11e1606345425c37a549511daae1b4d9323bb1812b8c1b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F044f8ee8-b1a4-4c69-9d1d-522fb18be41f",
+      "publishedAt": "2026-09-27T14:33:05Z",
+      "content": "Mike Waltz, U.S. ambassador to the United Nations, said Sunday that President Donald Trump rejected Iran's latest proposal because Tehran wanted sanctions relief and access to \"billions in frozen ass\u2026 [+2820 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Freddie Clayton",
+      "title": "Iran \u2018fully prepared\u2019 for war to resume but diplomacy not over yet, Foreign Minister Abbas Araghchi says",
+      "description": "Iranian Foreign Minister Abbas Araghchi has said his country is prepared for fighting with the United States to resume, but has not yet abandoned diplomacy after President Donald Trump publicly rejected a proposal to reopen the Strait of Hormuz.",
+      "url": "https://www.nbcnews.com/world/iran/iran-fully-prepared-war-resume-foreign-minister-rcna600059",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260927-abbas-araghchi-vl-952a-61629c.jpg",
+      "publishedAt": "2026-09-27T14:08:37Z",
+      "content": "Iranian Foreign Minister Abbas Araghchi said his country is prepared to resume fighting with the United States but has not yet abandoned diplomacy after President Donald Trump publicly rejected a pro\u2026 [+3686 chars]"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Garance Burke, The Associated Press",
+      "title": "As AI giants warn of existential risk, they can also build a competitive moat via safety. \u2018It\u2019s genius and they\u2019re all going to make a lot of money\u2019",
+      "description": "AI giants can block smaller competitors' growth by positioning themselves as the safest bet for investors, according to Harrison Rolfes, a Pitchbook senior research analyst.",
+      "url": "https://fortune.com/2026/09/27/ai-giants-openai-sam-altman-anthropic-dario-amodei-existential-risk-humanity-competitive-moat-safety/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/AP26266692157613-e1790517322619.jpg?resize=1200,600",
+      "publishedAt": "2026-09-27T14:04:33Z",
+      "content": "As tech titans warned an AI-weary world that their own advanced systems could endanger humanity, the question emerged: What do they have to gain?The answer may lie in the companies efforts to score p\u2026 [+7407 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Substack.com"
+      },
+      "author": "Gloria Guillo",
+      "title": "Fossil Fuel Checkmate: Three Undeclared Wars With One Goal \u2014 Scarcity",
+      "description": "\u2026\nThe post Fossil Fuel Checkmate: Three Undeclared Wars With One Goal \u2014 Scarcity appeared first on Global Research.",
+      "url": "https://gloriaguillo.substack.com/p/fossil-fuel-checkmate-three-undeclared",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!DmdY!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4e6c06cd-fda1-4172-8928-622885518fa9_1179x777.jpeg",
+      "publishedAt": "2026-09-27T13:17:33Z",
+      "content": "Ukraine, Venezuela, and the Gulf are being sold as separate events. They are not. They are strategic moves toward one goal: fossil-fuel checkmate, planned decades ago by oligarchs who profit when riv\u2026 [+5929 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "www.wsj.com",
+      "title": "NKorea Testing Swarm Attacks Mixing Drones and Missiles...",
+      "description": "Kim Jong Un\u2019s regime is incorporating tactics proving successful against Western air defenses in Europe and the Middle East",
+      "url": "https://www.wsj.com/world/north-korea-is-testing-swarm-attacks-mixing-drones-and-missiles-6f8a0a38",
+      "urlToImage": "https://images.wsj.net/im-68275130/social",
+      "publishedAt": "2026-09-27T13:00:13Z",
+      "content": "North Korea has started practicing swarm attacks that combine unmanned systems with conventional weapons, adopting tactics already used in Ukraine and the Middle East that could challenge U.S. and al\u2026 [+496 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Global Desk",
+      "title": "Gold price prediction: Experts predict Gold rate for last three months of 2026, first half of 2027",
+      "description": "Gold price has corrected sharply in September after gaining around 9 per cent in August, with prices down nearly 8 per cent during the month so far.",
+      "url": "https://economictimes.indiatimes.com/news/international/us/gold-price-prediction-experts-predict-gold-rate-for-last-three-months-of-2026-first-half-of-2027/articleshow/134520392.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134520534,width-1200,height-630,imgsize-355734,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-27T12:47:57Z",
+      "content": "Gold rate prediction: Gold may face another volatile period, with US data, West Asia tensions and their impact on crude prices set to test bullion sentiment during a holiday-shortened week, Bullion a\u2026 [+3187 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "AP",
+      "title": "Anthropic, OpenAI sound alarm on AI safety \u2014 and seek to shape how it's controlled",
+      "description": "The CEOs of Anthropic and OpenAI recently declared America's cutting-edge models are so powerful, they're dangerous, and need to be regulated and independently tested before being released. In a rare instance of unity, they have sketched alarming scenarios in\u2026",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-openai-sound-alarm-on-ai-safety-and-seek-to-shape-how-its-controlled/articleshow/134520269.cms",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-135904,resizemode-75,msid-134520269/tech/artificial-intelligence/anthropic-openai-sound-alarm-on-ai-safety-and-seek-to-shape-how-its-controlled.jpg",
+      "publishedAt": "2026-09-27T12:30:27Z",
+      "content": "As tech titans warned an AI-weary world that their own advanced systems could endanger humanity, the question emerged: What do they have to gain?The answer may lie in the companies' efforts to score \u2026 [+7645 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Iran will shape region's security future as US exits: Top military adviser",
+      "description": "A senior military adviser to Leader of the Islamic Revolution Ayatollah Seyyed Mojtaba Khamenei says the United States has no role in the region, stressing that Iran will play a leading role in shaping the future security order in West Asia.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260927-presstv06.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-27T12:00:00Z",
+      "content": "Iran Press TV\r\nSunday, 27 September 2026 2:26 PM\r\nA senior military adviser to Leader of the Islamic Revolution Ayatollah Seyyed Mojtaba Khamenei says the United States has no role in the region, str\u2026 [+3811 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Whyevolutionistrue.com"
+      },
+      "author": "whyevolutionistrue",
+      "title": "Sunday: Hili dialogue",
+      "description": "Welcome to Sunday, September 7, 2026, and Morning Show Hosts Day.\u00a0 Although \u201cThe View\u201c, a talk show that made me cringe every time I saw it, isn\u2019t exactly a morning show, it\u2019s uber-woke (often with a token conservative), and Nellie Bowles has two items about \u2026",
+      "url": "https://whyevolutionistrue.com/2026/09/27/sunday-hili-dialogue-605/",
+      "urlToImage": "https://whyevolutionistrue.com/wp-content/uploads/2026/09/eab2a0e9-2fc4-423b-8d57-669f0902a82c.jpg",
+      "publishedAt": "2026-09-27T11:45:31Z",
+      "content": "Welcome to Sunday, September 7, 2026, and Morning Show Hosts Day.\u00a0 Although \u201cThe View\u201c, a talk show that made me cringe every time I saw it, isn\u2019t exactly a morning show, it\u2019s uber-woke (often with a\u2026 [+22049 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Press Trust of India",
+      "title": "Bullion may stay volatile as US data, W Asia tensions take focus: Analysts",
+      "description": "Gold and silver are expected to face another choppy spell, with US data, West Asia tensions and their impact on crude prices set to test bullion sentiment during a holiday-shortened week, analysts said.\nMarket participants will shift their focus to the US dat\u2026",
+      "url": "https://www.business-standard.com/markets/news/bullion-may-stay-volatile-as-us-data-w-asia-tensions-take-focus-analysts-126092700447_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/07/thumb/fitandfill/1200X628/1775547627-738.jpeg",
+      "publishedAt": "2026-09-27T11:42:43Z",
+      "content": "Gold and silver are expected to face another choppy spell, with US data, West Asia tensions and their impact on crude prices set to test bullion sentiment during a holiday-shortened week, analysts sa\u2026 [+3353 chars]"
+    },
     {
       "source": {
         "id": "fox-news",
@@ -593,12 +788,12 @@
         "name": "Globalsecurity.org"
       },
       "author": "John Pike",
-      "title": "Pezeshkian: Iran ready for talks, but will not accept bullying or coercion",
-      "description": "Iran's President Masoud Pezeshkian says that Tehran is ready to engage in dialogue to resolve disputes, but will not accept bullying or the use of force, reiterating that Iran has never sought to develop nuclear weapons and is committed to the peaceful use of\u2026",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260926-irna01.htm",
+      "title": "Saudi Arabia warns Gulf security inseparable from global stability amid regional tensions",
+      "description": "Saudi Arabia's Foreign Minister warned on Saturday that escalating threats across the Middle East risked international peace, energy security and global trade, calling for stronger international cooperation to protect Gulf States and vital shipping routes.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/saudi/2026/saudi-260926-unnews01.htm",
       "urlToImage": null,
       "publishedAt": "2026-09-26T12:00:00Z",
-      "content": "IRNA - Islamic Republic News Agency\r\nSep 26, 2026, 10:12 AMNews ID: 86274619\r\nNew York, IRNA -- Iran's President Masoud Pezeshkian says that Tehran is ready to engage in dialogue to resolve disputes,\u2026 [+2243 chars]"
+      "content": "26 September 2026 - Saudi Arabia's Foreign Minister warned on Saturday that escalating threats across the Middle East risked international peace, energy security and global trade, calling for stronge\u2026 [+3552 chars]"
     },
     {
       "source": {
@@ -619,19 +814,6 @@
         "name": "Globalsecurity.org"
       },
       "author": "John Pike",
-      "title": "Saudi Arabia warns Gulf security inseparable from global stability amid regional tensions",
-      "description": "Saudi Arabia's Foreign Minister warned on Saturday that escalating threats across the Middle East risked international peace, energy security and global trade, calling for stronger international cooperation to protect Gulf States and vital shipping routes.",
-      "url": "https://www.globalsecurity.org/wmd/library/news/saudi/2026/saudi-260926-unnews01.htm",
-      "urlToImage": null,
-      "publishedAt": "2026-09-26T12:00:00Z",
-      "content": "26 September 2026 - Saudi Arabia's Foreign Minister warned on Saturday that escalating threats across the Middle East risked international peace, energy security and global trade, calling for stronge\u2026 [+3552 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalsecurity.org"
-      },
-      "author": "John Pike",
       "title": "White House fact sheet omits Taiwan in Xi-Trump talks",
       "description": "The White House's fact sheet on Chinese President Xi Jinping's (\u7fd2\u8fd1\u5e73) state visit to the United States this week does not mention Taiwan, in contrast to the readout issued by China's Ministry of Foreign Affairs.",
       "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260926-cna02.htm",
@@ -645,12 +827,38 @@
         "name": "Globalsecurity.org"
       },
       "author": "John Pike",
+      "title": "Pezeshkian: Iran ready for talks, but will not accept bullying or coercion",
+      "description": "Iran's President Masoud Pezeshkian says that Tehran is ready to engage in dialogue to resolve disputes, but will not accept bullying or the use of force, reiterating that Iran has never sought to develop nuclear weapons and is committed to the peaceful use of\u2026",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260926-irna01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-26T12:00:00Z",
+      "content": "IRNA - Islamic Republic News Agency\r\nSep 26, 2026, 10:12 AMNews ID: 86274619\r\nNew York, IRNA -- Iran's President Masoud Pezeshkian says that Tehran is ready to engage in dialogue to resolve disputes,\u2026 [+2243 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
       "title": "Disarmament without dealing with Israel's nukes is meaningless: Iran diplomat",
       "description": "Iranian Deputy Foreign Minister Kazem Gharibabadi says global efforts aimed at nuclear disarmament will be in vain without dealing with the Israeli regime's nuclear arsenal.",
       "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260926-presstv04.htm",
       "urlToImage": null,
       "publishedAt": "2026-09-26T12:00:00Z",
       "content": "Iran Press TV\r\nSaturday, 26 September 2026 7:01 PM\r\nIranian Deputy Foreign Minister Kazem Gharibabadi says global efforts aimed at nuclear disarmament will be in vain without dealing with the Israeli\u2026 [+1866 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Iran ready for talks with US but rejects 'bullying and coercion': President Pezeshkian",
+      "description": "President Masoud Pezeshkian says Iran is ready to engage in talks with the United States over its nuclear program and monitoring mechanisms, stressing that Iran will not accept pressure or be forced into submission.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260926-presstv08.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-26T12:00:00Z",
+      "content": "Iran Press TV\r\nSaturday, 26 September 2026 11:13 AM\r\nPresident Masoud Pezeshkian says Iran is ready to engage in talks with the United States over its nuclear program and monitoring mechanisms, stres\u2026 [+3528 chars]"
     },
     {
       "source": {
@@ -690,19 +898,6 @@
       "urlToImage": null,
       "publishedAt": "2026-09-26T12:00:00Z",
       "content": "26 September 2026 - Russia's Foreign Minister, Sergey Lavrov, accused Western countries of destabilising the world through \"force and double standards\" in his address to the UN General Assembly on Sa\u2026 [+3700 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalsecurity.org"
-      },
-      "author": "John Pike",
-      "title": "Iran ready for talks with US but rejects 'bullying and coercion': President Pezeshkian",
-      "description": "President Masoud Pezeshkian says Iran is ready to engage in talks with the United States over its nuclear program and monitoring mechanisms, stressing that Iran will not accept pressure or be forced into submission.",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260926-presstv08.htm",
-      "urlToImage": null,
-      "publishedAt": "2026-09-26T12:00:00Z",
-      "content": "Iran Press TV\r\nSaturday, 26 September 2026 11:13 AM\r\nPresident Masoud Pezeshkian says Iran is ready to engage in talks with the United States over its nuclear program and monitoring mechanisms, stres\u2026 [+3528 chars]"
     },
     {
       "source": {
@@ -1106,149 +1301,6 @@
       "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6ab72f2a85f54033da445718.jpg",
       "publishedAt": "2026-09-26T03:11:41Z",
       "content": "President Donald Trump has rejected Iran\u2019s latest ceasefire proposal and told aides that he expects Washington to resume bombing the Islamic Republic after the November midterm elections, the Wall St\u2026 [+2382 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Reuters",
-      "title": "Iran awaits US response on Strait of Hormuz plan after Trump reportedly rejects deal",
-      "description": "Iran awaited a US response to its proposal to reopen the Strait of Hormuz and halt fighting across the Middle East, after the Wall Street Journal reported President Donald Trump rejected the plan. Tehran said the proposal could reopen the waterway within seve\u2026",
-      "url": "https://economictimes.indiatimes.com/news/defence/iran-awaits-us-response-on-strait-of-hormuz-plan-after-trump-reportedly-rejects-deal/articleshow/134496198.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134496217,width-1200,height-630,imgsize-189292,overlay-etdefence/articleshow.jpg",
-      "publishedAt": "2026-09-26T03:06:18Z",
-      "content": "Iran on Saturday awaited an official US response to its proposal to reopen the Strait of Hormuz and end fighting in the wider Middle East war after the Wall Street Journal reported that US President \u2026 [+4780 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Standard"
-      },
-      "author": "ANI",
-      "title": "Trump rejects Iran's 7-day ceasefire plan, prepares for military escalation",
-      "description": "The Wall Street Journal reported that Trump told aides he expects US bombing of Iran to resume after November's midterm elections",
-      "url": "https://www.business-standard.com/world-news/trump-rejects-iran-s-7-day-ceasefire-plan-prepares-for-military-escalation-126092600112_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/23/thumb/fitandfill/1200X628/1790131366-7417.jpg",
-      "publishedAt": "2026-09-26T02:33:16Z",
-      "content": "In a development that will put the world and West Asia on tenterhooks, Wall Street Journal has reported that President Trump has rejected Iran's proposal for a seven-day ceasefire.\r\nAccording to the \u2026 [+3291 chars]"
-    },
-    {
-      "source": {
-        "id": "breitbart-news",
-        "name": "Breitbart News"
-      },
-      "author": "Joshua Klein",
-      "title": "Report: Trump Rejects Iran 7-Day Hormuz Proposal, Expects to Renew Strikes After Midterms",
-      "description": "President Donald Trump has rejected Iran\u2019s proposed seven-day plan to reopen the Strait of Hormuz and told aides he expects U.S. strikes against Iran to resume after the November midterm elections.\nThe post Report: Trump Rejects Iran 7-Day Hormuz Proposal, Ex\u2026",
-      "url": "https://www.breitbart.com/politics/2026/09/25/trump-rejects-iran-seven-day-hormuz-proposal-expects-renew-strikes-midterms/",
-      "urlToImage": "https://media.breitbart.com/media/2026/09/u-n-donald-trump-nyc-sept22-26-wh-flickr-640x335.jpg",
-      "publishedAt": "2026-09-26T02:22:46Z",
-      "content": "President Donald Trump has rejected Irans proposed seven-day plan to reopen the Strait of Hormuz and told aides he expects U.S. strikes against Iran to resume after the November midterm elections.\r\nT\u2026 [+7817 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "author": "NY Post",
-      "title": "Trump rejects Iran\u2019s seven-day cease-fire proposal \u2013 new airstrikes \u2018likely\u2019 after midterm elections: report",
-      "description": "President Trump has reportedly rejected a seven-day cease-fire proposed by Iran and expects to resume bombing the country after the midterm elections. As part of the proposed cease-fire, Tehran pledged to reopen the Strait of Hormuz and resume negotiations on\u2026",
-      "url": "https://freerepublic.com/focus/f-chat/4396927/posts",
-      "urlToImage": null,
-      "publishedAt": "2026-09-26T01:58:08Z",
-      "content": "Skip to comments.\r\nTrump rejects Irans seven-day cease-fire proposal new airstrikes likely after midterm elections: reportNY Post ^\r\n | 9/25/26\r\n | Victor Nava\r\nPosted on 09/25/2026 6:58:08 PM PDT by\u2026 [+1990 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Khabarhub.com"
-      },
-      "author": "Khabarhub",
-      "title": "Iran offers US deal to reopen Strait of Hormuz within seven days",
-      "description": "NEW YORK: Iran has offered the United States a deal under which the Strait of Hormuz could be reopened and normal maritime traffic restored within seven days if certain conditions are met, Iranian Foreign Minister Abbas Araghchi has said. Speaking to reporter\u2026",
-      "url": "https://english.khabarhub.com/2026/26/569294/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2026/09/Abbas-Araghchi-Getty-Images.webp",
-      "publishedAt": "2026-09-26T01:45:08Z",
-      "content": "NEW YORK: Iran has offered the United States a deal under which the Strait of Hormuz could be reopened and normal maritime traffic restored within seven days if certain conditions are met, Iranian Fo\u2026 [+2444 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "Trump rejects Iran\u2019s 7-day ceasefire proposal, expects bombing to resume after US midterms: Report",
-      "description": "US President Donald Trump has rejected Iran\u2019s proposal for a seven-day ceasefire and told aides he expects US bombing of Iran to resume after the November midterm elections, The Wall Street Journal reported, citing US officials. The report could not be indepe\u2026",
-      "url": "https://economictimes.indiatimes.com/news/defence/trump-rejects-irans-7-day-ceasefire-proposal-expects-bombing-to-resume-after-midterms-report/articleshow/134495522.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134495531,width-1200,height-630,imgsize-94360,overlay-etdefence/articleshow.jpg",
-      "publishedAt": "2026-09-26T01:26:20Z",
-      "content": "US President Donald Trump has rejected Irans proposal for a seven-day ceasefire and told aides he expects US bombing of Iran to resume after the November midterm elections, the Wall Street Journalrep\u2026 [+5263 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Victor Nava",
-      "title": "Trump rejects Iran\u2019s seven-day cease-fire proposal \u2013 new airstrikes \u2018likely\u2019 after midterm elections: report",
-      "description": "As part of the proposed cease-fire, Tehran pledged to reopen the Strait of Hormuz and resume negotiations on dismantling its nuclear program.",
-      "url": "https://nypost.com/2026/09/25/us-news/trump-rejects-irans-seven-day-cease-fire-proposal-expects-airstrikes-to-resume-after-midterm-elections-report/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/COMP-TRUMP-IRAN.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-09-26T01:13:24Z",
-      "content": "President Trump has reportedly rejected a seven-day cease-fire proposed by Iran and expects to resume bombing the country after the midterm elections.\r\nAs part of the proposed cease-fire, Tehran pled\u2026 [+1532 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": null,
-      "title": "Transcript: Iranian President Masoud Pezeshkian on \"Face the Nation with Margaret Brennan\"",
-      "description": "The following is the transcript of the interview with Iranian President Masoud Pezeshkian airing on \"Face the Nation with Margaret Brennan\" on Sept. 27, 2026.",
-      "url": "https://www.cbsnews.com/news/transcript-iranian-president-masoud-pezeshkian-face-the-nation-transcript-09-27-2026/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/25/c66750ce-6d89-4631-b035-c4d4b2a23bfd/thumbnail/1200x630g2/78d8e36396f720eb2db411b73280e5c5/21-00-20260925-085500-ftn-masoud-pezeshkian-interview-guest-iso-liveu-2-2-mxf.png",
-      "publishedAt": "2026-09-26T01:10:33Z",
-      "content": "The following is the transcript of the interview with Iranian President Masoud Pezeshkian airing on \"Face the Nation with Margaret Brennan\" on Sept. 27, 2026. It was recorded on Sept. 25.\r\nMARGARET B\u2026 [+25737 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Kathryn  Watson",
-      "title": "Iranian President Pezeshkian talks about proposal to reopen Strait of Hormuz",
-      "description": "Iran's Masoud Pezeshkian, who is also a physician, says he has visited Iran's supreme leader twice and talked with CBS News' Margaret Brennan about Mojtaba Khamenei's health.",
-      "url": "https://www.cbsnews.com/news/iran-president-masoud-pezeshkian-proposal-trump-strait-of-hormuz-war/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/25/c66750ce-6d89-4631-b035-c4d4b2a23bfd/thumbnail/1200x630g2/78d8e36396f720eb2db411b73280e5c5/21-00-20260925-085500-ftn-masoud-pezeshkian-interview-guest-iso-liveu-2-2-mxf.png",
-      "publishedAt": "2026-09-26T01:10:26Z",
-      "content": "Iranian President Masoud Pezeshkian said there was an \"atmosphere of distrust\" between Iran and the U.S. when asked whether he would have been willing to meet with President Trump in New York this we\u2026 [+5694 chars]"
-    },
-    {
-      "source": {
-        "id": "rt",
-        "name": "RT"
-      },
-      "author": "RT",
-      "title": "Saudi Arabia \u2018has not ruled out\u2019 developing nuclear weapons \u2013 WaPo",
-      "description": "Saudi Arabia has not ruled out developing nuclear weapons, according to a classified US intelligence assessment that has fueled concerns in Congress over President Donald Trump\u2019s nuclear cooperation agreement with Riyadh",
-      "url": "https://www.rt.com/news/646262-saudi-arabia-nuclear-weapons/",
-      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6ab71a3685f54032753f57d2.jpg",
-      "publishedAt": "2026-09-26T01:03:12Z",
-      "content": "Saudi Arabia has not ruled out developing nuclear weapons, according to a classified US intelligence assessment that has fueled concerns in Congress over President Donald Trump\u2019s nuclear cooperation \u2026 [+3071 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wattsupwiththat.com"
-      },
-      "author": "Guest Blogger",
-      "title": "The US Energy Humanism of 2026: Capital Formation is Greener Than Green",
-      "description": "Energy sanity is not optional. Hormuz made that obvious. EQT made it measurable. The rest of the world can copy this example of Energy Humanism, or it can keep writing industrial subsidies to paper over the one it chose.\nThe post The US Energy Humanism of 202\u2026",
-      "url": "https://wattsupwiththat.com/2026/09/25/the-us-energy-humanism-of-2026-capital-formation-is-greener-than-green/",
-      "urlToImage": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/09/EQT_Color_rgb_20202.webp?fit=1024%2C511&quality=75&ssl=1",
-      "publishedAt": "2026-09-26T01:00:00Z",
-      "content": "Updated, September 24, 2026\r\nBy Stephen Heins, The Word Merchant\r\nI have spent more than twenty-five years arguing for energy plentitude, low cost, practical environmentalism and fairness. The last 2\u2026 [+6898 chars]"
     }
   ]
 }

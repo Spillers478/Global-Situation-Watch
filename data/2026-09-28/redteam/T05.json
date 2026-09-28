@@ -2,6 +2,21 @@
   "articles": [
     {
       "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Currently",
+      "description": "Russia's super-rich once ruled the country - could they restore their political influence?",
+      "url": "https://www.bbc.co.uk/sounds/play/m00323z0?at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p0pb94fm.jpg",
+      "publishedAt": "2026-09-27T13:00:00Z",
+      "content": "Available for over a year\r\nRussia's super-rich once ruled the country, holding deep influence over the country's politicians in the years immediately after the collapse of the Soviet Union.\r\nThey the\u2026 [+828 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "flagship-ru-ua"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Protothema.gr"
       },
@@ -43,36 +58,6 @@
       "content": "Skip to comments.\r\nAfD Becomes Most Popular Party in Germany's Largest StateBreitbart ^\r\n | 26 Sep 2026\r\n | Kurt Zindulka\r\nPosted on 09/26/2026 8:22:08 AM PDT by MinorityRepublican\r\nRecent historic e\u2026 [+2242 chars]",
       "cocom": "USEUCOM",
       "_original_topic_id": "T13"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Bureau",
-      "title": "Pakistan a regime of army, by army and for army: India",
-      "description": "India's diplomat Petal Gahlot addressed the UN General Assembly in response to Pakistan Prime Minister Shehbaz Sharif's remarks. Gahlot highlighted Pakistan's hypocrisy regarding terrorism, referencing Osama bin Laden's presence in the country. She reiterated\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/pakistan-a-regime-of-army-by-army-and-for-army-india/articleshow/134509024.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134509088,width-1200,height-630,imgsize-87540,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-26T18:20:17Z",
-      "content": "New Delhi: India on Saturday issued a strong response to Pakistan Prime Minister Shehbaz Sharif's address to the UN General Assembly in New York on Friday, and warned that continued support to cross-\u2026 [+2280 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T14"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ANI",
-      "title": "\"Blood and water cannot flow together\": Former diplomat Veena Sikri blisters Pakistan PM's UNGA speech",
-      "description": "During the UN General Assembly session, Veena Sikri firmly denounced Pakistan's assertions regarding Kashmir and the Indus Waters Treaty, attributing regional tensions to Pakistan's own issues of internal mismanagement and its history of fostering terrorism. \u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/blood-and-water-cannot-flow-together-former-diplomat-veena-sikri-blisters-pakistan-pms-unga-speech/articleshow/134507607.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134507660,width-1200,height-630,imgsize-88690,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-26T16:34:29Z",
-      "content": "New Delhi: Former diplomat Veena Sikri has launched a scathing critique against Pakistan for raising the Kashmir issue and the Indus Waters Treaty at the United Nations General Assembly (UNGA), dismi\u2026 [+5403 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T14"
     }
   ]
 }

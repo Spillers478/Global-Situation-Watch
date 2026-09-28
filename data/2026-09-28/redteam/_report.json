@@ -2,16 +2,16 @@
   "topics": {
     "flagship-ru-ua": {
       "retrieved": 25,
-      "kept_here": 18,
-      "moved_out": 2,
-      "discarded": 5,
+      "kept_here": 12,
+      "moved_out": 6,
+      "discarded": 7,
       "unclassified": 0
     },
     "flagship-ir-il": {
       "retrieved": 25,
       "kept_here": 14,
-      "moved_out": 5,
-      "discarded": 6,
+      "moved_out": 7,
+      "discarded": 4,
       "unclassified": 0
     },
     "T15": {
@@ -22,10 +22,10 @@
       "unclassified": 0
     },
     "T01": {
-      "retrieved": 3,
-      "kept_here": 0,
+      "retrieved": 7,
+      "kept_here": 3,
       "moved_out": 3,
-      "discarded": 0,
+      "discarded": 1,
       "unclassified": 0
     },
     "T02": {
@@ -36,10 +36,10 @@
       "unclassified": 0
     },
     "T03": {
-      "retrieved": 4,
+      "retrieved": 5,
       "kept_here": 2,
       "moved_out": 1,
-      "discarded": 1,
+      "discarded": 2,
       "unclassified": 0
     },
     "T04": {
@@ -58,9 +58,9 @@
     },
     "T07": {
       "retrieved": 25,
-      "kept_here": 0,
-      "moved_out": 22,
-      "discarded": 3,
+      "kept_here": 1,
+      "moved_out": 16,
+      "discarded": 8,
       "unclassified": 0
     },
     "T08": {
@@ -78,10 +78,10 @@
       "unclassified": 0
     },
     "T10": {
-      "retrieved": 12,
+      "retrieved": 16,
       "kept_here": 6,
-      "moved_out": 1,
-      "discarded": 5,
+      "moved_out": 2,
+      "discarded": 8,
       "unclassified": 0
     },
     "T11": {
@@ -92,15 +92,15 @@
       "unclassified": 0
     },
     "T12": {
-      "retrieved": 20,
-      "kept_here": 15,
-      "moved_out": 0,
-      "discarded": 5,
+      "retrieved": 25,
+      "kept_here": 11,
+      "moved_out": 1,
+      "discarded": 13,
       "unclassified": 0
     },
     "T13": {
-      "retrieved": 19,
-      "kept_here": 4,
+      "retrieved": 20,
+      "kept_here": 5,
       "moved_out": 8,
       "discarded": 7,
       "unclassified": 0
@@ -108,15 +108,15 @@
     "T14": {
       "retrieved": 25,
       "kept_here": 0,
-      "moved_out": 24,
-      "discarded": 1,
+      "moved_out": 23,
+      "discarded": 2,
       "unclassified": 0
     }
   },
   "totals": {
-    "kept": 74,
-    "reassigned": 72,
-    "discarded": 75,
+    "kept": 69,
+    "reassigned": 73,
+    "discarded": 94,
     "unclassified": 0
   },
   "failed_topics": [],

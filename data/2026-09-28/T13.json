@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 19,
+  "totalResults": 20,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Eliana Silver",
+      "title": "'Swedish Piddington' that BANNED migrants for 13 years: In 1988, Sjobo shocked Europe with a controversial referendum. Nearly 40 years later, many wish the ban they voted for was never lifted",
+      "description": "In 1987, Sweden adopted a new strategy to distribute refugees more evenly across the country, and asked Sjobo, then a town of around 15,400, to take in around 15 people.",
+      "url": "https://www.dailymail.com/news/article-16154307/Swedish-Piddington-BANNED-migrants-13-years-1988-Sjobo-shocked-Europe-controversial-referendum-Nearly-40-years-later-wish-ban-voted-never-lifted.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/09/25/11/111466295-0-image-a-38_1790332868214.jpg",
+      "publishedAt": "2026-09-27T11:47:37Z",
+      "content": "In Sweden's latest election, voters in the small town of Sjobo gave the anti-migration Sweden Democrats party a far bigger share of their support than the country as a whole.\r\nIt is a familiar politi\u2026 [+9222 chars]"
+    },
     {
       "source": {
         "id": "al-jazeera-english",

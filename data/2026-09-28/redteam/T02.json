@@ -2,6 +2,35 @@
   "articles": [
     {
       "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "Yemen\u2019s health system could collapse in some areas, minister warns",
+      "description": "Yemen's healthcare system may not be able to support the population as war strains resources, minister tells Al Jazeera.",
+      "url": "https://www.aljazeera.com/news/2026/9/27/yemens-health-system-could-collapse-in-some-areas-minister-warns",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab9157e01d4c-1790514558.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-27T14:07:55Z",
+      "content": "Some areas in Yemen could suffer from a complete loss of health services if a decline in funding continues, Yemens Minister of Public Health and Population Qasim Buhaibeh has told Al Jazeera.\r\nHe sai\u2026 [+2016 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "flagship-ir-il"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "Yemen\u2019s health system could collapse in some areas, minister warns",
+      "description": "Yemen's healthcare system may not be able to support the population as war strains resources, minister tells Al Jazeera.",
+      "url": "https://www.aljazeera.com/news/2026/9/27/yemens-health-system-could-collapse-in-some-areas-minister-warns",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab9157e01d4c-1790514558.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-27T14:07:55Z",
+      "content": "Some areas in Yemen could suffer from a complete loss of health services if a decline in funding continues, Yemens Minister of Public Health and Population Qasim Buhaibeh has told Al Jazeera.\r\nHe sai\u2026 [+2016 chars]",
+      "cocom": "USCENTCOM"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Human Rights Watch"
       },
@@ -55,50 +84,6 @@
       "publishedAt": "2026-09-26T17:22:44Z",
       "content": "Cuban Foreign Minister Bruno Rodriguez has condemned the United Statess oil blockade against his country during his speech at the United Nations General Assembly (UNGA), calling it an act of collecti\u2026 [+2037 chars]",
       "cocom": "USSOUTHCOM"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalsecurity.org"
-      },
-      "author": "John Pike",
-      "title": "UN warns Hormuz blockade to threaten at least 45 million people with food shortages",
-      "description": "The United Nations has sounded the alarm about the imminent threat of the US blockade of the Strait of Hormuz plunging at least 45 million people into a food crisis.",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260926-presstv10.htm",
-      "urlToImage": null,
-      "publishedAt": "2026-09-26T12:00:00Z",
-      "content": "Iran Press TV\r\nSaturday, 26 September 2026 7:53 AM\r\nThe United Nations has sounded the alarm about the imminent threat of the US blockade of the Strait of Hormuz plunging at least 45 million people i\u2026 [+2892 chars]",
-      "cocom": "USCENTCOM"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Al Jazeera Staff",
-      "title": "\u2018My hands are empty\u2019: Displaced Palestinians struggle to survive",
-      "description": "In Tulkarem and other West Bank cities, displaced Palestinians are being forced deeper into debt and poverty.",
-      "url": "https://www.aljazeera.com/features/2026/9/27/my-hands-are-empty-displaced-palestinians-struggle-to-survive",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/s1-1790406480.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-09-27T10:26:21Z",
-      "content": "Tulkarem, occupied West Bank Hakim Mari spends his days lying on a single bed, his disfigured leg raised. The windows of Maris dilapidated apartment, his latest temporary shelter, are covered with ol\u2026 [+10937 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T13"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Juancole.com"
-      },
-      "author": "Truthout",
-      "title": "Israel Damaged 82 Percent of Gaza\u2019s Buildings. Collapses Are Burying Us Alive",
-      "description": "Residents of the recently collapsed six-story high rise knew they were in danger but could find nowhere else to sleep",
-      "url": "https://www.juancole.com/2026/09/damaged-buildings-collapses.html",
-      "urlToImage": "https://media.juancole.com/images/2026/09/mohammed-ibrahim-erVMX5cTmc-unsplash.jpg",
-      "publishedAt": "2026-09-27T04:04:31Z",
-      "content": "By Shahad Ali\r\nThis article was originally published by Truthout\r\nKhaled Al Soutari, who was inside the six-story residential building in western Gaza City that collapsed on September 16, is now slee\u2026 [+8520 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T13"
     },
     {
       "source": {
