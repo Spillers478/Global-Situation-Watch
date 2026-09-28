@@ -55,6 +55,12 @@ from topics import TIER1, TOPICS, TOPIC_SWEEP_ENABLED
 
 ROOT = Path(__file__).resolve().parent.parent
 
+# Maps internal topic ids (T03, flagship-ru-ua, ...) to their reader-facing
+# label -- used only by render_article()'s "reassigned from" byline note, so
+# a moved article names the topic in plain language instead of leaking the
+# internal code to a reader (see that function for why this matters).
+TOPIC_LABELS = {t["id"]: t["label"] for t in TIER1 + TOPICS}
+
 # Main topic sections show this many articles by default; the rest are
 # tucked behind a native <details> "show more" toggle rather than either
 # dumping the full list (unreadable on a noisy/high-volume topic) or
@@ -167,10 +173,14 @@ def render_article(a):
     # directly explains why the article shows up under this topic. The
     # COCOM tag, wire-service tag, and source-origin/audience metadata are
     # still computed upstream (they drive filtering and ranking) but aren't
-    # surfaced as reader-facing badges -- see the module docstring.
+    # surfaced as reader-facing badges -- see the module docstring. Shown in
+    # plain language (TOPIC_LABELS), never the internal T03/flagship-ru-ua
+    # style id -- a reader is never meant to see those, same as everywhere
+    # else on the page.
     moved_from = a.get("_original_topic_id")
+    moved_label = TOPIC_LABELS.get(moved_from, moved_from)
     moved_html = (
-        f'<span class="moved-tag">reassigned from {escape(moved_from)}</span>' if moved_from else ""
+        f'<span class="moved-tag">reassigned from {escape(moved_label)}</span>' if moved_from else ""
     )
 
     return f"""
@@ -243,14 +253,21 @@ def build_page(date_str, data_dir, archive=False):
     sections = []
     nav_items = []  # (anchor_id, label, badge, count) -- drives the jump-to-topic bar
 
-    # Tier 1 flagships get top billing
+    # Tier 1 flagships get top billing -- no badge/color on these anymore
+    # (Matt: drop the "FLAGSHIP" label entirely; position at the top of the
+    # page plus going first in the nav bar already signals priority, and a
+    # badge here was visually competing with TRIPWIRE's red for meaning
+    # "important" when they're actually two different things -- WHERE
+    # (this is a priority theater) vs HOW SEVERE (this category is
+    # high-severity). Leaving TRIPWIRE as the only colored badge/pill makes
+    # that distinction unambiguous instead of both looking like one tier.)
     for flagship in TIER1:
         arts = rank_articles(dedupe(load_articles(data_dir, flagship["id"])))
         sections.append(render_section(
-            flagship["id"], flagship["label"], arts, badge="flagship",
+            flagship["id"], flagship["label"], arts,
             narrative=topic_narratives.get(flagship["id"]), preview_limit=ARTICLE_PREVIEW_LIMIT,
         ))
-        nav_items.append((flagship["id"], flagship["label"], "flagship", len(arts)))
+        nav_items.append((flagship["id"], flagship["label"], None, len(arts)))
         us_lens = rank_articles(dedupe(load_articles(data_dir, f"{flagship['id']}-us-lens")))
         if us_lens:
             sections.append(render_section(
@@ -338,7 +355,6 @@ TEMPLATE = """<!DOCTYPE html>
     --muted: #7c8797;
     --accent: #4d9fff;
     --tripwire: #ff5a5a;
-    --flagship: #ffb545;
   }}
   * {{ box-sizing: border-box; }}
   body {{
@@ -427,7 +443,6 @@ TEMPLATE = """<!DOCTYPE html>
     font-weight: 600;
   }}
   .badge-tripwire {{ background: rgba(255,90,90,0.15); color: var(--tripwire); }}
-  .badge-flagship {{ background: rgba(255,181,69,0.15); color: var(--flagship); }}
   .item {{ margin-bottom: 1.1rem; }}
   .item-title {{
     color: var(--text);
@@ -489,7 +504,6 @@ TEMPLATE = """<!DOCTYPE html>
   }}
   .nav-link:hover {{ color: var(--text); border-color: var(--accent); }}
   .nav-link.nav-tripwire {{ border-color: rgba(255,90,90,0.35); color: var(--tripwire); }}
-  .nav-link.nav-flagship {{ border-color: rgba(255,181,69,0.35); color: var(--flagship); }}
   .nav-count {{ color: var(--muted); font-size: 0.7rem; }}
   details.more {{ margin-top: 0.5rem; }}
   details.more summary {{

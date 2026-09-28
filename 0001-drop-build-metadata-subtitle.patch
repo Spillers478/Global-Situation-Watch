@@ -1,0 +1,31 @@
+From b8ff5891b73b1ee63c509efd03b5bf4a46eb2d16 Mon Sep 17 00:00:00 2001
+From: Matt Spillers <spillers66@gmail.com>
+Date: Wed, 23 Sep 2026 14:48:25 -0400
+Subject: [PATCH] Drop build-metadata subtitle from page header
+
+The "keyword-retrieval build / NewsAPI Developer tier / refreshed
+daily via GitHub Actions" line under the title mattered more to
+pipeline internals than to a reader; only the date remains.
+
+Co-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_016GoniVfedYRj8xyjKX8jwy
+---
+ scripts/build_brief.py | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/scripts/build_brief.py b/scripts/build_brief.py
+index 76b4bf9..5ae7001 100644
+--- a/scripts/build_brief.py
++++ b/scripts/build_brief.py
+@@ -455,7 +455,7 @@ TEMPLATE = """<!DOCTYPE html>
+ <body>
+ <header>
+   <h1>Global Situation Watch</h1>
+-  <p>{date} &middot; keyword-retrieval build &middot; NewsAPI Developer tier &middot; refreshed daily via GitHub Actions</p>
++  <p>{date}</p>
+ </header>
+ {nav}
+ <main>
+-- 
+2.43.0
+
