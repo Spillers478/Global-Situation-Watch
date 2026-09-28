@@ -1,0 +1,1525 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Global Situation Watch — 2026-09-27</title>
+<style>
+  :root {
+    --bg: #0b0e14;
+    --panel: #131722;
+    --border: #232838;
+    --text: #dbe1ee;
+    --muted: #7c8797;
+    --accent: #4d9fff;
+    --tripwire: #ff5a5a;
+    --flagship: #ffb545;
+  }
+  * { box-sizing: border-box; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0 0 4rem;
+  }
+  header {
+    padding: 2.5rem 1.5rem 1.5rem;
+    border-bottom: 1px solid var(--border);
+    max-width: 860px;
+    margin: 0 auto;
+  }
+  header h1 {
+    margin: 0 0 0.25rem;
+    font-size: 1.6rem;
+    letter-spacing: 0.02em;
+  }
+  header p {
+    color: var(--muted);
+    margin: 0;
+    font-size: 0.9rem;
+  }
+  header p a { color: var(--accent); text-decoration: none; }
+  header p a:hover { text-decoration: underline; }
+  main {
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+  }
+  section.bluf {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-left: 3px solid var(--accent);
+    border-radius: 6px;
+    padding: 1.25rem 1.5rem;
+    margin: 1.75rem 0;
+  }
+  section.bluf h2 {
+    margin: 0 0 0.6rem;
+    font-size: 0.75rem;
+    letter-spacing: 0.08em;
+    color: var(--accent);
+    text-transform: uppercase;
+  }
+  section.bluf p {
+    margin: 0;
+    font-size: 0.95rem;
+    line-height: 1.55;
+  }
+  section.topic {
+    border-top: 1px solid var(--border);
+    padding: 1.75rem 0;
+  }
+  section.topic h2 {
+    font-size: 1.05rem;
+    margin: 0 0 1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  .narrative {
+    font-size: 0.9rem;
+    line-height: 1.5;
+    color: var(--text);
+    background: var(--panel);
+    border-left: 2px solid var(--accent);
+    padding: 0.6rem 0.9rem;
+    margin: 0 0 1.1rem;
+    border-radius: 0 4px 4px 0;
+  }
+  .count {
+    margin-left: auto;
+    color: var(--muted);
+    font-weight: 400;
+    font-size: 0.85rem;
+  }
+  .badge {
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding: 0.15rem 0.5rem;
+    border-radius: 3px;
+    font-weight: 600;
+  }
+  .badge-tripwire { background: rgba(255,90,90,0.15); color: var(--tripwire); }
+  .badge-flagship { background: rgba(255,181,69,0.15); color: var(--flagship); }
+  .item { margin-bottom: 1.1rem; }
+  .item-title {
+    color: var(--text);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.95rem;
+  }
+  .item-title:hover { color: var(--accent); }
+  .item-meta {
+    color: var(--muted);
+    font-size: 0.75rem;
+    margin: 0.2rem 0 0.35rem;
+  }
+  .item-desc {
+    color: var(--muted);
+    font-size: 0.85rem;
+    margin: 0;
+    line-height: 1.4;
+  }
+  .item-extra {
+    color: var(--muted);
+    font-size: 0.85rem;
+    margin: 0.45rem 0 0;
+    padding-top: 0.45rem;
+    border-top: 1px dashed var(--border);
+    line-height: 1.45;
+  }
+  .moved-tag {
+    color: var(--muted);
+    font-size: 0.65rem;
+    font-style: italic;
+    margin-right: 0.35rem;
+  }
+  .empty { color: var(--muted); font-size: 0.85rem; font-style: italic; }
+  .topic-nav {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: var(--bg);
+    border-bottom: 1px solid var(--border);
+    padding: 0.6rem 1.5rem;
+    max-width: 860px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+  }
+  .nav-link {
+    color: var(--muted);
+    text-decoration: none;
+    font-size: 0.75rem;
+    padding: 0.25rem 0.55rem;
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    white-space: nowrap;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+  }
+  .nav-link:hover { color: var(--text); border-color: var(--accent); }
+  .nav-link.nav-tripwire { border-color: rgba(255,90,90,0.35); color: var(--tripwire); }
+  .nav-link.nav-flagship { border-color: rgba(255,181,69,0.35); color: var(--flagship); }
+  .nav-count { color: var(--muted); font-size: 0.7rem; }
+  details.more { margin-top: 0.5rem; }
+  details.more summary {
+    cursor: pointer;
+    color: var(--accent);
+    font-size: 0.85rem;
+    padding: 0.4rem 0;
+    list-style: none;
+  }
+  details.more summary::-webkit-details-marker { display: none; }
+  details.more summary:before { content: "+ "; }
+  details.more[open] summary:before { content: "− "; }
+  details.more[open] summary { margin-bottom: 0.5rem; }
+
+  .search-wrap { position: relative; margin: 1.1rem 0 0; }
+  .search-wrap input[type=search] {
+    width: 100%; box-sizing: border-box; background: var(--panel); color: var(--text);
+    border: 1px solid var(--border); border-radius: 8px; padding: 0.65rem 0.9rem;
+    font-size: 0.9rem; font-family: inherit;
+  }
+  .search-wrap input[type=search]:focus { outline: none; border-color: var(--accent); }
+  .search-wrap input[type=search]::-webkit-search-cancel-button { cursor: pointer; }
+  .search-results {
+    position: absolute; left: 0; right: 0; top: calc(100% + 0.35rem); z-index: 20;
+    background: var(--panel); border: 1px solid var(--border); border-radius: 8px;
+    max-height: 60vh; overflow-y: auto; box-shadow: 0 8px 24px rgba(0,0,0,0.35);
+  }
+  .sr-item { display: block; padding: 0.6rem 0.9rem; text-decoration: none;
+             border-bottom: 1px solid var(--border); }
+  .sr-item:last-child { border-bottom: none; }
+  .sr-item:hover, .sr-item:focus { background: rgba(77,159,255,0.08); }
+  .sr-title { display: block; color: var(--text); font-size: 0.85rem; font-weight: 600; }
+  .sr-meta { display: block; color: var(--muted); font-size: 0.72rem; margin-top: 0.15rem; }
+  .sr-empty { color: var(--muted); font-size: 0.82rem; padding: 0.7rem 0.9rem; margin: 0; }
+
+</style>
+</head>
+<body>
+<header>
+  <h1>Global Situation Watch</h1>
+  <p>2026-09-27 &middot; <a href="index.html">This month</a> &middot; <a href="../index.html">All months</a> &middot; <a href="../../index.html">Latest</a></p>
+  
+<div class="search-wrap">
+  <input id="gsw-search" type="search" placeholder="Search all briefings…" autocomplete="off" aria-label="Search all briefings">
+  <div id="gsw-search-results" class="search-results" hidden></div>
+</div>
+<script>
+(function() {
+  var root = '../../';
+  var box = document.getElementById("gsw-search");
+  var out = document.getElementById("gsw-search-results");
+  var idx = null, timer = null;
+
+  function ensureIndex() {
+    if (idx) return Promise.resolve(idx);
+    return fetch(root + "search-index.json").then(function(r) { return r.json(); })
+      .then(function(d) { idx = d; return d; })
+      .catch(function() { idx = []; return idx; });
+  }
+
+  function clearResults() { out.innerHTML = ""; out.hidden = true; }
+
+  function renderResults(items, q) {
+    out.innerHTML = "";
+    if (!items.length) {
+      var empty = document.createElement("p");
+      empty.className = "sr-empty";
+      empty.textContent = 'No matches for "' + q + '".';
+      out.appendChild(empty);
+      out.hidden = false;
+      return;
+    }
+    items.slice(0, 40).forEach(function(a) {
+      var link = document.createElement("a");
+      link.className = "sr-item";
+      link.href = root + a.h;
+      var title = document.createElement("span");
+      title.className = "sr-title";
+      title.textContent = a.t;
+      var meta = document.createElement("span");
+      meta.className = "sr-meta";
+      meta.textContent = a.d + " · " + a.l + " · " + a.s;
+      link.appendChild(title);
+      link.appendChild(meta);
+      out.appendChild(link);
+    });
+    out.hidden = false;
+  }
+
+  box.addEventListener("input", function() {
+    clearTimeout(timer);
+    var q = box.value.trim();
+    if (q.length < 2) { clearResults(); return; }
+    timer = setTimeout(function() {
+      ensureIndex().then(function(items) {
+        var ql = q.toLowerCase();
+        var hits = items.filter(function(a) {
+          return a.t.toLowerCase().indexOf(ql) !== -1 ||
+                 a.l.toLowerCase().indexOf(ql) !== -1 ||
+                 a.s.toLowerCase().indexOf(ql) !== -1;
+        });
+        renderResults(hits, q);
+      });
+    }, 150);
+  });
+
+  document.addEventListener("click", function(e) {
+    if (!e.target.closest(".search-wrap")) clearResults();
+  });
+  box.addEventListener("keydown", function(e) {
+    if (e.key === "Escape") { clearResults(); box.blur(); }
+  });
+})();
+</script>
+
+</header>
+<nav class="topic-nav"><a class="nav-link nav-flagship" href="#flagship-ru-ua">Russia / Ukraine <span class="nav-count">28</span></a><a class="nav-link nav-flagship" href="#flagship-ir-il">Iran / Israel / Middle East <span class="nav-count">36</span></a><a class="nav-link nav-flagship" href="#T15">Disaster / Access Denial <span class="nav-count">1</span></a><a class="nav-link nav-tripwire" href="#T03">Bio/Chemical Attack <span class="nav-count">0</span></a><a class="nav-link nav-tripwire" href="#T05">Political Instability / Coup Risk <span class="nav-count">10</span></a><a class="nav-link nav-tripwire" href="#T07">Nuclear Weaponry / Attack <span class="nav-count">1</span></a><a class="nav-link nav-tripwire" href="#T09">American Hostage / Kidnapping <span class="nav-count">0</span></a><a class="nav-link nav-tripwire" href="#T12">Large-Scale Cyber Attack / Internet Blackout <span class="nav-count">16</span></a><a class="nav-link nav-tripwire" href="#T14">Threats to US Embassies / Diplomats <span class="nav-count">0</span></a><a class="nav-link" href="#T01">Military Conflict <span class="nav-count">11</span></a><a class="nav-link" href="#T02">Humanitarian Crisis <span class="nav-count">7</span></a><a class="nav-link" href="#T04">Infectious Outbreak / Pandemic <span class="nav-count">10</span></a><a class="nav-link" href="#T06">Mass Uprising / Regime-Threatening Unrest <span class="nav-count">3</span></a><a class="nav-link" href="#T08">VEO / Regional Insecurity <span class="nav-count">7</span></a><a class="nav-link" href="#T10">Military Modernization <span class="nav-count">3</span></a><a class="nav-link" href="#T11">Military Exercise <span class="nav-count">3</span></a><a class="nav-link" href="#T13">Migration / Refugee Crisis <span class="nav-count">12</span></a></nav>
+<main>
+
+  <section class="bluf">
+    <h2>BLUF</h2>
+    <p>Russia continues strikes on Ukrainian critical infrastructure, including a Starlink data center, while sustaining territorial gains in Kharkov and Sumy; simultaneously, Iran has proposed a deal to reopen the Strait of Hormuz within seven days but Trump has reportedly rejected it, with tensions remaining high over sanctions and potential resumed military action. Ukraine&#x27;s Zelensky sought Chinese mediation at the UN with mixed diplomatic results, while EU leadership warns of escalating Russian hybrid warfare targeting European support for Kyiv. In the Middle East, oil prices have declined on signs of US-Iran diplomatic progress, though Trump&#x27;s post-election military posture toward Tehran remains aggressive. Domestically, the U.S. Army Reserve is reportedly surveying capacity for potential deployment to Cuba within 90-120 days, and Canada&#x27;s PM has confirmed contingency planning for a possible U.S. invasion.</p>
+  </section>
+
+  <section class="topic" id="flagship-ru-ua">
+    <h2>Russia / Ukraine <span class="badge badge-flagship">flagship</span><span class="count">28</span></h2>
+    <p class="narrative">Russia has struck Ukraine&#x27;s Starlink data center and claimed capture of three settlements (Petropavlovka, Lozovaya, and Maryino), while Ukraine deployed ground robots via bomber drones in a novel &#x27;safari&#x27; mission targeting up to 3,000 troops. Russia&#x27;s high-altitude jet drones continue to challenge Ukrainian air defenses, and EU officials warn Moscow is testing European limits through hybrid warfare aimed at fracturing support for Kyiv. President Zelensky pursued UN diplomacy with mixed results, including efforts to engage Chinese mediation, while Putin indicated willingness to resume talks if aligned with Russian interests.</p>
+    
+    <article class="item">
+      <a class="item-title" href="https://www.nbcnews.com/world/europe/europe-frets-kremlin-pushes-limits-hybrid-warfare-rcna599351" target="_blank" rel="noopener">Europe frets as the Kremlin pushes the limits of its hybrid warfare</a>
+      <div class="item-meta">NBC News &middot; 2026-09-26T09:00:40Z</div>
+      <p class="item-desc">The Kremlin is testing Europe‘s limits.</p>
+      <p class="item-extra">The Kremlin is testing Europes limits. 
+After months of covert attacks and sabotage across the continent, leaders are warning that Moscow may be about to grow bolder as it seeks to sow chaos and int…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.cbc.ca/news/world/ukraine-jet-drone-9.7358784" target="_blank" rel="noopener">Why is it so difficult for Ukraine to take down Russia&#x27;s jet-powered drones?</a>
+      <div class="item-meta">CBC News &middot; 2026-09-26T08:00:00Z</div>
+      <p class="item-desc">Russia&#x27;s jet-powered drones being used to carry out strikes on Kyiv and other parts of Ukraine are often able to evade air defences because they fly at higher altitudes and faster speeds. To stop these new models, faster interceptors are needed, but that tech…</p>
+      <p class="item-extra">When a Russian drone slammed into a high-rise residential building in Kyiv around 8 a.m. Friday, killing a 14-year-old boy and injuring several others, the remnants of a jet engine were plainly visib…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.cbc.ca/news/world/ukraine-steel-arcelormittal-shutdown-9.7359241" target="_blank" rel="noopener">Ukraine&#x27;s largest steel plant to shutter amid recurring Russian strikes</a>
+      <div class="item-meta">CBC News &middot; 2026-09-25T23:27:16Z</div>
+      <p class="item-desc">Steelmaker ArcelorMittal said it was shutting production at Ukraine&#x27;s largest steel plant, underscoring the growing economic toll of Russia&#x27;s airstrikes that on ‌Friday killed seven people in Kyiv including a 14-year-old boy and injured more than 50.</p>
+      
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.cbsnews.com/news/russia-ukraine-war-schoolkids-learn-how-to-fly-drones/" target="_blank" rel="noopener">Ukrainian kids learn to fly drones for a future shaped by Russia&#x27;s invasion</a>
+      <div class="item-meta">CBS News <span class="moved-tag">reassigned from T01</span>&middot; 2026-09-25T16:04:12Z</div>
+      <p class="item-desc">A Ukrainian nonprofit group is teaching kids to make, service and fly simple drones, to help them be &quot;useful in the future in their country.&quot;</p>
+      <p class="item-extra">Kyiv — Wooden boards line the entry corridor, replacing windows shattered by a recent Russian drone attack near the school&#x27;s campus, 20 miles south of Ukraine&#x27;s capital. The principal says they could…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://biztoc.com/x/4759d4461ba8dce5" target="_blank" rel="noopener">Russian Forces Strike Starlink Data Center in Ukraine</a>
+      <div class="item-meta">Biztoc.com &middot; 2026-09-26T10:51:16Z</div>
+      <p class="item-desc">Russia said it struck a data center in Ukraine used to connect Kyiv to Elon Musk&#x27;s Starlink internet access service in a wave of attacks overnight, marking the latest assault on Ukraine&#x27;s communication sites since the start of the fall.
+Russia&#x27;s defense minis…</p>
+      
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.channelnewsasia.com/world/un-diplomacy-takeaways-6412411" target="_blank" rel="noopener">Six big takeaways from a turbulent week of UN diplomacy</a>
+      <div class="item-meta">CNA &middot; 2026-09-26T10:13:49Z</div>
+      <p class="item-desc">While no breakthroughs were reached on the world&#x27;s most intractable conflicts, talks on the Iran and Ukraine wars inched forward and global powers used the venue to debate AI risks with industry leaders.</p>
+      <p class="item-extra">UKRAINE GRAIN AND ENERGY
+Rubio also held talks with Russian Foreign Minister Sergey Lavrov, after which he said Ukraine and Russia had both voiced an interest in a limited ceasefire involving grain …</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.rte.ie/news/2026/0926/1593032-zelensky-un/" target="_blank" rel="noopener">A week of mixed results for Volodymyr Zelensky</a>
+      <div class="item-meta">RTE &middot; 2026-09-26T10:06:10Z</div>
+      <p class="item-desc">Ukrainian President Volodymyr Zelensky came away from the United Nations General Assembly in New York this week with mixed results.</p>
+      
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.foxnews.com/politics/grew-up-soviet-rule-eu-top-diplomat-warns-europe-against-giving-russia-wants" target="_blank" rel="noopener">She grew up under Soviet rule. Now EU&#x27;s top diplomat warns Europe against giving Russia what it wants</a>
+      <div class="item-meta">Fox News &middot; 2026-09-26T10:00:22Z</div>
+      <p class="item-desc">Kaja Kallas says Russia&#x27;s sabotage and intimidation campaign aims to weaken European support for Ukraine, warning the strategy will escalate if it works.</p>
+      <p class="item-extra">NEW YORK Russia is trying to scare Europe into backing off its defense in the region, claims European Unions top diplomat Kaja Kallas, who warns it will only lead to Moscow becoming more aggressive i…</p>
+    </article>
+    <details class="more">
+      <summary>Show 20 more articles</summary>
+      
+    <article class="item">
+      <a class="item-title" href="https://sputnikglobe.com/20260926/russian-forces-liberate-3-settlements-in-kharkov-sumy-regions--mod-1124793671.html" target="_blank" rel="noopener">Russian Forces Liberate 3 Settlements in Kharkov, Sumy Regions – MoD</a>
+      <div class="item-meta">Sputnikglobe.com &middot; 2026-09-26T09:43:28Z</div>
+      <p class="item-desc">MOSCOW (Sputnik) - The Russian armed forces have taken control of the settlements of Petropavlovka and Lozovaya in the Kharkov Region and the settlement of Maryino in the Sumy Region, the Russian Defense Ministry said on Saturday.</p>
+      <p class="item-extra">Russia&#x27;s Special Operation in Ukraine
+On February 24, 2022 Russia launched a special military operation in Ukraine, aiming to liberate the Donbass region where the people&#x27;s republics of Donetsk and …</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.dailymail.com/news/article-16162129/Ukraine-bomber-drones-drop-ground-robots-Russian-lines.html" target="_blank" rel="noopener">Ukraine bomber drones drop ground robots behind Russian lines to kill or injure 3,000 enemy troops in groundbreaking &#x27;safari&#x27; mission.</a>
+      <div class="item-meta">Dailymail.com &middot; 2026-09-26T08:40:00Z</div>
+      <p class="item-desc">Ukrainian bomber drones were used to drop ground robots behind the Russian frontline in a groundbreaking new &#x27;safari&#x27; mission that targeted as many as 3,000 enemy troops.</p>
+      
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://sputnikglobe.com/20260926/uncontrolled-eu-drone-production-threaten-russia-other-nations--russian-foreign-ministry-1124793115.html" target="_blank" rel="noopener">Uncontrolled EU Drone Production Threaten Russia, Other Nations – Russian Foreign Ministry</a>
+      <div class="item-meta">Sputnikglobe.com &middot; 2026-09-26T07:14:30Z</div>
+      <p class="item-desc">MOSCOW (Sputnik) - The uncontrolled production of drones in the European Union and the bloc&#x27;s desire to learn their use from Kiev multiply the risks for Russia and other countries, Director of the Department of European Issues at the Russian Foreign Ministry …</p>
+      <p class="item-extra">Get the latest news from around the world, live coverage, off-beat stories, features and analysis.
+https://sputnikglobe.com/20260926/uncontrolled-eu-drone-production-threaten-russia-other-nations--r…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://sputnikglobe.com/20260926/data-center-supporting-starlink-operations-hit-in-kiev---mod-1124792821.html" target="_blank" rel="noopener">Data Center Supporting Starlink Operations Hit in Kiev - MoD</a>
+      <div class="item-meta">Sputnikglobe.com &middot; 2026-09-26T07:05:25Z</div>
+      <p class="item-desc">MOSCOW (Sputnik) - Russian Armed Forces struck the Cosmonova data center in Kiev during overnight strikes, which was providing support for Starlink satellite communication systems, the Russian Defense Ministry said on Saturday.</p>
+      <p class="item-extra">Russia&#x27;s Special Operation in Ukraine
+On February 24, 2022 Russia launched a special military operation in Ukraine, aiming to liberate the Donbass region where the people&#x27;s republics of Donetsk and …</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://nypost.com/2026/09/26/world-news/ukraines-zelensky-says-he-urged-trump-to-enlist-chinas-help-in-ending-russias-invasion/" target="_blank" rel="noopener">Ukraine’s Zelensky says he urged Trump to enlist China’s help in ending Russia’s invasion</a>
+      <div class="item-meta">New York Post &middot; 2026-09-26T07:03:34Z</div>
+      <p class="item-desc">Zelensky told reporters he has not yet received feedback from the White House about Trump’s talks with Chinese President Xi Jinping.</p>
+      <p class="item-extra">Ukrainian President Volodymyr Zelensky said Friday that he asked US President Trump to press Chinas leader to use Beijings influence over Moscow in a diplomatic effort to get Russia to end its 4½-yea…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.hurriyetdailynews.com/putin-says-russian-interests-will-guide-return-to-talks-227375" target="_blank" rel="noopener">Putin says Russian interests will guide return to talks</a>
+      <div class="item-meta">Hurriyet Daily News &middot; 2026-09-26T06:52:22Z</div>
+      <p class="item-desc">Russian President Vladimir Putin said on Sept. 25 that proposals to resume negotiations with Ukraine remained under consideration, but Moscow would decide its next steps according to its own interests.</p>
+      <p class="item-extra">ST. PETERSBURG
+Russian President Vladimir Putin said on Sept. 25 that proposals to resume negotiations with Ukraine remained under consideration, but Moscow would decide its next steps according to …</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://economictimes.indiatimes.com/news/international/world-news/un-general-assembly-iran-talks-ukraine-ceasefire-and-ai-among-key-takeaways/articleshow/134497680.cms" target="_blank" rel="noopener">UN General Assembly: Iran talks, Ukraine ceasefire and AI among key takeaways</a>
+      <div class="item-meta">The Times of India &middot; 2026-09-26T05:20:45Z</div>
+      <p class="item-desc">World leaders gathered at the United Nations to discuss ongoing conflicts in Iran and Ukraine. Diplomatic talks between US and Iranian officials showed some progress amidst sharp rhetoric. Discussions focused on achieving limited ceasefires for grain exports …</p>
+      <p class="item-extra">Limousines whisked world leaders away from the United Nations on Friday after a week of speeches, meetings and hallway diplomacy.While they reached no breakthroughs on the world&#x27;s most intractable co…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://timesofindia.indiatimes.com/world/europe/ukraine-russia-strikes-mcdonalds-linked-warehouse-in-kyiv-as-5-killed-video/articleshow/134495142.cms" target="_blank" rel="noopener">Ukraine: Russia strikes McDonald’s-linked warehouse in Kyiv as 5 killed - video</a>
+      <div class="item-meta">The Times of India &middot; 2026-09-25T23:47:38Z</div>
+      <p class="item-desc">A warehouse used by the logistics partner of US fast-food chain McDonald&#x27;s was hit in Russian drone attacks on Kyiv on Friday, with Ukrainian authorities</p>
+      <p class="item-extra">Follow Us On Social Media
+Indiana Fever star Sophie Cunningham reveals unusual food dislike but admits: I will eat it anywayScorpio Shani Today, 26 September 2026: Saturn Says Dont Bet on Applause; …</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://nypost.com/2026/09/25/us-news/putin-plots-payback-for-ukraine-energy-attacks-tells-us-now-its-our-turn/" target="_blank" rel="noopener">Putin plots payback for Ukraine energy attacks, tells US: ‘Now it’s our turn’</a>
+      <div class="item-meta">New York Post &middot; 2026-09-25T22:35:34Z</div>
+      <p class="item-desc">Putin&#x27;s ominous remarks could mean a bleak winter for war-ravaged Ukrainians.</p>
+      <p class="item-extra">WASHINGTON Russian President Vladimir Putin privately informed US officials he intends to escalate his attacks on Ukraine following stunning drone attacks on nearly all of Russia’s oil refineries, Th…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.rt.com/news/646260-trump-zelensky-travel-moscow/" target="_blank" rel="noopener">Trump tells Zelensky to meet Putin in Moscow – Bloomberg</a>
+      <div class="item-meta">RT &middot; 2026-09-25T22:13:21Z</div>
+      <p class="item-desc">US President Donald Trump has reportedly urged Ukraine’s Vladimir Zelensky to meet President Vladimir Putin in Moscow for peace talks Read Full Article at RT.com</p>
+      <p class="item-extra">US President Donald Trump has reportedly called on Ukraine’s Vladimir Zelensky to travel to Moscow for peace talks with President Vladimir Putin, Bloomberg has reported, citing sources close to the U…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://biztoc.com/x/bfc9c2b0de2506f5" target="_blank" rel="noopener">Ukraine&#x27;s Zelenskyy says he urged Trump to enlist China&#x27;s help in ending Russia&#x27;s invasion</a>
+      <div class="item-meta">Biztoc.com <span class="moved-tag">reassigned from T01</span>&middot; 2026-09-25T15:22:59Z</div>
+      <p class="item-desc">Ukrainian President Volodymyr Zelenskyy said Friday that he asked U.S. President Donald Trump to press China&#x27;s leader to use Beijing&#x27;s influence over Moscow in a diplomatic effort to get Russia to end its 4½-year-long invasion of Ukraine.</p>
+      
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://military.com/ukraines-zelenskyy-says-he-urged-trump-to-enlist-chinas-help-in-ending-russias-invasion" target="_blank" rel="noopener">Ukraine’s Zelenskyy Says He Urged Trump to Enlist China’s Help in Ending Russia’s Invasion</a>
+      <div class="item-meta">Military.com <span class="moved-tag">reassigned from T01</span>&middot; 2026-09-25T13:18:37Z</div>
+      <p class="item-desc">NATO countries have called China a “decisive enabler” of Russian President Vladimir Putin’s invasion.</p>
+      <p class="item-extra">KYIV, Ukraine (AP) Ukrainian President Volodymyr Zelenskyy said Friday that he asked U.S. President Donald Trump to press Chinas leader to use Beijings influence over Moscow in a diplomatic effort to…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://biztoc.com/x/a0804cb712592f97" target="_blank" rel="noopener">Russia’s invasion of Ukraine changed the European energy equation—now efficiency is just as important as sustainability</a>
+      <div class="item-meta">Biztoc.com <span class="moved-tag">reassigned from T01</span>&middot; 2026-09-25T12:23:39Z</div>
+      <p class="item-desc">For years, Europe could afford to treat the energy transition primarily as a question of sustainability. A cheap and relatively secure gas supply meant the economics and security of energy could largely be taken for granted. Russia’s invasion of Ukraine chang…</p>
+      
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://fortune.com/2026/09/25/russia-invasion-of-ukraine-changed-european-energy-equation-efficiency-just-as-important-as-sustainability-honeywell-technologies/" target="_blank" rel="noopener">Russia’s invasion of Ukraine changed the European energy equation—now efficiency is just as important as sustainability</a>
+      <div class="item-meta">Fortune <span class="moved-tag">reassigned from T01</span>&middot; 2026-09-25T11:44:47Z</div>
+      <p class="item-desc">As Europe grapples with energy security challenges, improving efficiency and harnessing AI will be as important to the energy transition as renewables, says Honeywell’s Anant Maheshwari.</p>
+      <p class="item-extra">For years, Europe could afford to treat the energy transition primarily as a question of sustainability. A cheap and relatively secure gas supply meant the economics and security of energy could larg…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.foxnews.com/politics/frontline-nato-ally-shares-shocking-take-russian-invasion-threat" target="_blank" rel="noopener">Frontline NATO ally shares shocking take on Russian invasion threat</a>
+      <div class="item-meta">Fox News <span class="moved-tag">reassigned from T01</span>&middot; 2026-09-25T10:00:26Z</div>
+      <p class="item-desc">Estonia&#x27;s foreign minister tells Fox News Digital that intelligence sees no Russian buildup for a NATO invasion despite rising hybrid attack fears.</p>
+      <p class="item-extra">NEW YORK Fears that Russia is preparing for a broader war with NATO aren&#x27;t rattling Estonia&#x27;s foreign minister, who told Fox News Digital that his countrys intelligence sees no signs Moscow is prepar…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.dailymail.com/news/article-16161425/PM-backlash-Vladimir-Putin-G20-summit-Manchester.html" target="_blank" rel="noopener">PM faces backlash over plans to invite Vladimir Putin to attend G20 summit in Manchester</a>
+      <div class="item-meta">Dailymail.com <span class="moved-tag">reassigned from T05</span>&middot; 2026-09-25T21:01:06Z</div>
+      <p class="item-desc">Government sources confirmed that the Russian tyrant will be invited to send a delegation next year despite the continuing war in Ukraine.</p>
+      <p class="item-extra">Andy Burnham faced a furious backlash over plans to invite Vladimir Putin to attend the G20 summit in Manchester.
+Government sources on Friday confirmed that the Russian tyrant will be invited to se…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.politico.eu/article/if-ukraine-fails-to-order-new-drones-soon-it-risks-challenges-at-war-early-next-year-zelenskyy-said/" target="_blank" rel="noopener">Zelenskyy warns $27B funding gap could leave Ukraine short of weapons</a>
+      <div class="item-meta">POLITICO.eu <span class="moved-tag">reassigned from T10</span>&middot; 2026-09-25T13:31:13Z</div>
+      <p class="item-desc">The president said he received a positive and constructive response from the EU during his diplomatic talks this week.</p>
+      <p class="item-extra">Ukraine first announced the budget gap in August. It emerged after Ukraine had to bring forward state defense spending originally planned for the second half of the year, as Hungary delayed the EUs 9…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.archdaily.com/1185741/office-for-future-converts-former-school-into-housing-for-displaced-families-in-ukraine" target="_blank" rel="noopener">Office for Future Converts Former School Into Housing for Displaced Families in Ukraine</a>
+      <div class="item-meta">ArchDaily <span class="moved-tag">reassigned from T13</span>&middot; 2026-09-25T06:30:00Z</div>
+      <p class="item-desc">Office for Future is converting a former school in Stavyshche, Ukraine, into housing for 42 families displaced by the war. Developed for the Charity Foundation Housing for IDP, the project, titled &quot;Dvir – The Shared Courtyard,&quot; reuses the approximately 1,900-…</p>
+      <p class="item-extra">DVIR - the Shared Courtyard, Stavyshche, Ukraine. Image © Office for Future
+Office for Future is converting a former school in Stavyshche, Ukraine, into housing for 42 families displaced by the war.…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.rt.com/news/646251-attacks-ukrainians-poland-grow-ambassador/" target="_blank" rel="noopener">Attacks on Ukrainians in Poland growing – envoy</a>
+      <div class="item-meta">RT <span class="moved-tag">reassigned from T14</span>&middot; 2026-09-25T15:28:36Z</div>
+      <p class="item-desc">Attacks on Ukrainians in Poland have risen by around 30%, Ambassador Vasily Bondar has said Read Full Article at RT.com</p>
+      <p class="item-extra">Attacks on Ukrainians in Poland have continued to rise as public attitudes toward Ukrainian refugees deteriorate, Kiev’s ambassador to Warsaw, Vasily Bondar, has said. His remarks came a day after a …</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.globalresearch.ca/kaja-kallas-criticizes-russian-elections-ignoring-crisis-european-democracy/5941816" target="_blank" rel="noopener">EU Top Diplomat Kaja Kallas Criticizes Russian Elections, Ignoring Crisis of European Democracy</a>
+      <div class="item-meta">Globalresearch.ca <span class="moved-tag">reassigned from T14</span>&middot; 2026-09-25T14:47:44Z</div>
+      <p class="item-desc">Parliamentary elections in the Russian Federation recently concluded in a process closely monitored by international observers. Assessments of the Russian electoral process have been highly positive; Russian citizens headed to the polls – or voted remotely – …</p>
+      
+    </article>
+    </details>
+  </section>
+
+  <section class="topic" id="flagship-ru-ua-us-lens">
+    <h2>Russia / Ukraine — US Media Lens <span class="count">1</span></h2>
+    
+    
+    <article class="item">
+      <a class="item-title" href="https://www.foxnews.com/politics/grew-up-soviet-rule-eu-top-diplomat-warns-europe-against-giving-russia-wants" target="_blank" rel="noopener">She grew up under Soviet rule. Now EU&#x27;s top diplomat warns Europe against giving Russia what it wants - Fox News</a>
+      <div class="item-meta">Fox News &middot; 2026-09-26T10:00:22Z</div>
+      <p class="item-desc">Kaja Kallas says Russia&#x27;s sabotage and intimidation campaign aims to weaken European support for Ukraine, warning the strategy will escalate if it works.</p>
+      <p class="item-extra">NEW YORK Russia is trying to scare Europe into backing off its defense in the region, claims European Unions top diplomat Kaja Kallas, who warns it will only lead to Moscow becoming more aggressive i…</p>
+    </article>
+  </section>
+
+  <section class="topic" id="flagship-ir-il">
+    <h2>Iran / Israel / Middle East <span class="badge badge-flagship">flagship</span><span class="count">36</span></h2>
+    <p class="narrative">Iran proposed a comprehensive deal to reopen the Strait of Hormuz within seven days, involving sanctions relief and nuclear talks resumption, but Trump reportedly rejected the offer and is reportedly preparing for resumed airstrikes post-midterm elections. Oil prices declined roughly 2% on signs of US-Iran diplomatic movement, though the Iranian president stated Tehran no longer trusts Washington talks and is using Qatar and Pakistan as intermediaries. Trump posted a map labeling the waterway the &#x27;Trump Strait,&#x27; and the U.S. is conducting an arm-twisting campaign to cut off Iran&#x27;s international trading partners.</p>
+    
+    <article class="item">
+      <a class="item-title" href="https://www.aljazeera.com/news/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with-washington" target="_blank" rel="noopener">Pezeshkian says Iran ‘no longer trusts talks with Washington’</a>
+      <div class="item-meta">Al Jazeera English &middot; 2026-09-26T11:06:28Z</div>
+      <p class="item-desc">In an interview with Al Jazeera, the Iranian president says Qatar and Pakistan are relaying Tehran&#x27;s messages to the US.</p>
+      <p class="item-extra">President Masoud Pezeshkian has told Al Jazeera that Iran no longer trusts negotiations with the United States after previous rounds of talks were followed by attacks and sanctions, as Tehran awaits …</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.nbcnews.com/world/iran/iran-says-choice-reopening-hormuz-rests-united-states-offer-rcna599956" target="_blank" rel="noopener">Iran says choice on reopening Hormuz ‘rests with the United States’ after deal offer</a>
+      <div class="item-meta">NBC News &middot; 2026-09-26T09:35:55Z</div>
+      <p class="item-desc">The choice to reopen the Strait of Hormuz “rests with the United States,” Iranian Foreign Minister Abbas Araghchi said Friday, indicating shipping through the critical waterway could resume within days once a deal is reached.</p>
+      <p class="item-extra">The choice to reopen the Strait of Hormuz rests with the United States, Iranian Foreign Minister Abbas Araghchi said Friday, indicating shipping through the critical waterway could resume within days…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.cbsnews.com/news/transcript-iranian-president-masoud-pezeshkian-face-the-nation-transcript-09-27-2026/" target="_blank" rel="noopener">Transcript: Iranian President Masoud Pezeshkian on &quot;Face the Nation with Margaret Brennan&quot;</a>
+      <div class="item-meta">CBS News <span class="moved-tag">reassigned from T05</span>&middot; 2026-09-26T01:10:33Z</div>
+      <p class="item-desc">The following is the transcript of the interview with Iranian President Masoud Pezeshkian airing on &quot;Face the Nation with Margaret Brennan&quot; on Sept. 27, 2026.</p>
+      
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.aljazeera.com/news/2026/9/26/trump-reportedly-rejects-irans-seven-day-ceasefire-proposal-whats-next" target="_blank" rel="noopener">Trump ‘rejects’ Iran’s seven-day ceasefire proposal. What’s next?</a>
+      <div class="item-meta">Al Jazeera English <span class="moved-tag">reassigned from T07</span>&middot; 2026-09-26T09:28:19Z</div>
+      <p class="item-desc">Analysts say Trump may opt to resume attacks on Iran after November midterm elections.</p>
+      <p class="item-extra">United States President Donald Trump has reportedly ruled out an Iranian proposal to reopen the Strait of Hormuz within a week, according to unnamed US officials cited by The Wall Street Journal.
+Tr…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-slide-about-2-as-us-iran-explore-path-out-of-war/articleshow/134496730.cms" target="_blank" rel="noopener">Oil prices slide about 2% as US, Iran explore path out of war</a>
+      <div class="item-meta">The Times of India <span class="moved-tag">reassigned from flagship-ru-ua</span>&middot; 2026-09-26T03:58:53Z</div>
+      <p class="item-desc">Oil prices have dropped roughly 2%, influenced by signs of diplomatic advancement between the US and Iran concerning the Strait of Hormuz. As negotiations unfold, the US is contemplating a ban on diesel exports, impacting crude oil futures. Meanwhile, escalat…</p>
+      <p class="item-extra">Oil prices fell about 2% on Friday on mounting hopes for a truce between the US and Iran and talk about a possible US ban on diesel exports, even as traders worried that increasing attacks against Sa…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://nypost.com/2026/09/25/opinion/why-abdul-el-sayed-refuses-to-condemn-irans-revolutionary-guard-thugs/" target="_blank" rel="noopener">Why Abdul El-Sayed refuses to condemn Iran’s Revolutionary Guard thugs</a>
+      <div class="item-meta">New York Post <span class="moved-tag">reassigned from flagship-ru-ua</span>&middot; 2026-09-25T22:45:09Z</div>
+      <p class="item-desc">Iman Dashti, a Michigan University student, confronted Democratic Senate candidate Abdul El-Sayed this week about his habitual whitewashing and rationalization of Islamic terrorism.</p>
+      
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.newser.com/story/397098/trump-nixes-iran-truce-hints-post-midterms-strikes-likely.html" target="_blank" rel="noopener">Trump Nixes Iran Truce, Hints Post-Midterms Strikes Likely</a>
+      <div class="item-meta">Newser &middot; 2026-09-26T11:10:00Z</div>
+      <p class="item-desc">President Trump has brushed off a weeklong pause in fighting with Iran and is telling aides to anticipate airstrikes resuming once the midterm elections are over, according to US officials. Tehran&#x27;s offer: Reopen the Strait of Hormuz, restart nuclear talks, a…</p>
+      <p class="item-extra">The president also suggests that Iran is &quot;begging for a deal,&quot; per the Journal. Privately, however, officials say he doubts Iran will accept his conditions and sees renewed strikes as probable, thoug…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://timesofindia.indiatimes.com/world/middle-east/iran-denies-link-to-houthi-attacks-in-yemen-saudi-arabia-warns-us-as-trump-rejects-peace-offer/articleshow/134502862.cms" target="_blank" rel="noopener">Iran denies link to Houthi attacks in Yemen &amp; Saudi Arabia; warns US as Trump rejects peace offer</a>
+      <div class="item-meta">The Times of India &middot; 2026-09-26T11:00:00Z</div>
+      <p class="item-desc">In a recent interview, Iranian President Masoud Pezeshkian firmly dismissed claims of Iran&#x27;s involvement in the Houthi-Saudi conflict, highlighting the critical role of diplomacy in easing regional tensions. He condemned US and Israeli actions that exacerbate…</p>
+      <p class="item-extra">Follow Us On Social Media
+Bangladesh jewellery shop owner&#x27;s body found inside floating drum; Hindu credit union token in pocketInstagram contact, sexual assault: 19-year-old arrested under POCSO Act…</p>
+    </article>
+    <details class="more">
+      <summary>Show 28 more articles</summary>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.nakedcapitalism.com/2026/09/how-three-colonial-powers-gained-and-then-lost-control-over-the-straits-of-hormuz-and-bab-el‑mandeb.html" target="_blank" rel="noopener">How Three Colonial Powers Gained – and Then Lost – Control Over the Straits of Hormuz and Bab el‑Mandeb</a>
+      <div class="item-meta">Nakedcapitalism.com &middot; 2026-09-26T10:58:19Z</div>
+      <p class="item-desc">How past major powers fought for control over the Strait of Hormuz and the Bab el‑Mandeb</p>
+      <p class="item-extra">This is Naked Capitalism fundraising week. 613 donors have already invested in our efforts to combat corruption and predatory conduct, particularly in the financial realm. Please join us and particip…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://politicalwire.com/2026/09/26/a-u-s-arm-twisting-campaign-is-cutting-iran-off/" target="_blank" rel="noopener">A U.S. Arm-Twisting Campaign Is Cutting Iran Off</a>
+      <div class="item-meta">Politicalwire.com &middot; 2026-09-26T10:54:24Z</div>
+      <p class="item-desc">“A top U.S. Treasury Department official hopscotched across the Middle East and Europe this month with a warning to Iran’s trading partners: You either trade with Tehran or Washington,” the Wall Street Journal reports. “The commercial strongarming is working.…</p>
+      <p class="item-extra">“There are a lot of blogs and news sites claiming to understand politics, but only a few actually do. Political Wire is one of them.”
+ Chuck Todd, host of “Meet the Press”
+“Concise. Relevant. To th…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://slashdot.org/firehose.pl?op=view&amp;amp;id=185867736" target="_blank" rel="noopener">Transcript: Iranian President Masoud Pezeshkian on &quot;Face the Nation with Margaret Brennan&quot; - CBS News</a>
+      <div class="item-meta">Slashdot.org &middot; 2026-09-26T10:52:26Z</div>
+      <p class="item-desc">Transcript: Iranian President Masoud Pezeshkian on &quot;Face the Nation with Margaret Brennan&quot;CBS News Crude oil prices slide after Iranian and US negotiators discuss opening Strait of HormuzFox News Iranian President Masoud Pezeshkian talks about proposal to reo…</p>
+      <p class="item-extra">The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.abc.net.au/news/2026-09-26/iran-offers-deal-to-us-to-reopen-strait-of-hormuz/107199816" target="_blank" rel="noopener">Iran offers deal to US to reopen Strait of Hormuz</a>
+      <div class="item-meta">ABC News (AU) &middot; 2026-09-26T10:46:43Z</div>
+      <p class="item-desc">Iran&#x27;s proposal would reopen the Strait of Hormuz within a week, according to its Foreign Minister Abbas Araghchi, but Donald Trump has reportedly already rejected the deal.</p>
+      <p class="item-extra">Iran has proposed a deal to the United States that would see the Strait of Hormuz reopened within a week, according to its Foreign Minister Abbas Araghchi.
+Mr Araghchi said the plan was delivered to…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://economictimes.indiatimes.com/news/international/world-news/iran-president-says-supreme-leader-backs-new-plan-to-reopen-hormuz/articleshow/134502536.cms" target="_blank" rel="noopener">Iran president says supreme leader backs new plan to reopen Hormuz</a>
+      <div class="item-meta">The Times of India &middot; 2026-09-26T10:42:35Z</div>
+      <p class="item-desc">Iran&#x27;s President Masoud Pezeshkian revealed a plan to reopen the strategically important Strait of Hormuz. This plan requires the United States to meet specific conditions, including lifting sanctions on Iranian oil. A six-member team in Iran has been granted…</p>
+      <p class="item-extra">Tehran: Iranian President Masoud Pezeshkian said Tehran&#x27;s new plan to reopen the strategic Strait of Hormuz was coordinated with supreme leader Mojtaba Khamenei, state media reported Saturday, quotin…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://abcnews.com/International/wireStory/trump-posts-map-showing-trump-strait-off-iran-136776098" target="_blank" rel="noopener">Trump posts map showing &#x27;Trump Strait&#x27; off Iran, and other Mideast developments</a>
+      <div class="item-meta">Abcnews.com &middot; 2026-09-26T10:34:56Z</div>
+      <p class="item-desc">U_S_ President Donald Trump has posted an image of the Strait of Hormuz labeled “Trump Strait.”</p>
+      <p class="item-extra">U.S. President Donald Trump has posted an image of the Strait of Hormuz labeled Trump Strait shortly after Iran proposed a deal to open the waterway within a week if the U.S. meets certain conditions…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://abcnews.com/US/wireStory/things-stand-after-irans-new-pitch-deal-open-136777028" target="_blank" rel="noopener">Where things stand after Iran&#x27;s new pitch for a deal to open the Strait of Hormuz</a>
+      <div class="item-meta">Abcnews.com &middot; 2026-09-26T10:34:46Z</div>
+      <p class="item-desc">Iran&#x27;s president and top diplomat have spent a busy week in New York proposing a deal to the Trump administration to end the fighting and open the Strait of Hormuz in seven days</p>
+      <p class="item-extra">Its been a busy week for Iranian diplomacy that may have come to nothing.
+Iran&#x27;s president and foreign minister visited New York for the U.N. gathering of world leaders and proposed a deal with the …</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://economictimes.indiatimes.com/news/international/us/strait-of-hormuz-open-or-closed-what-are-latest-standpoints-of-iran-and-donald-trumps-u-s-/articleshow/134502344.cms" target="_blank" rel="noopener">Strait of Hormuz open or closed? What are latest standpoints of Iran and Donald Trump&#x27;s U.S.?</a>
+      <div class="item-meta">The Times of India &middot; 2026-09-26T10:28:45Z</div>
+      <p class="item-desc">Tehran has spent long weeks in discussions with Oman, on the other side of the strait, on how to manage shipping traffic. Its new rush for a deal with Washington, analysts said, reflects its eye on the midterms.</p>
+      <p class="item-extra">Strait of Hormuz still remains focal point in Iran-U.S. conflict but its been a busy week for diplomacy from both Washington and Tehran. The U.S. said its envoys and the Iranians held three hours of …</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.nakedcapitalism.com/2026/09/iran-war-trump-rejects-iranian-offer-saudi-yemeni-war.html" target="_blank" rel="noopener">Iran War: Trump Rejects Iranian Offer, Saudi-Yemeni War On the Boil</a>
+      <div class="item-meta">Nakedcapitalism.com &middot; 2026-09-26T10:15:41Z</div>
+      <p class="item-desc">Trump rejects Iranian ceasefire terms, threatens to attack in November. US casualty count continues to mount. The war between Saudi Arabia and Yemen continues to heat up.</p>
+      <p class="item-extra">This is Naked Capitalism fundraising week. 532 donors have already invested in our efforts to combat corruption and predatory conduct, particularly in the financial realm. Please join us and particip…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://economictimes.indiatimes.com/news/international/world-news/irans-bold-new-proposal-a-quick-deal-to-open-the-strait-of-hormuz-amid-rising-tensions/articleshow/134502112.cms" target="_blank" rel="noopener">Where things stand after Iran&#x27;s new pitch for deal to open Strait of Hormuz</a>
+      <div class="item-meta">The Times of India &middot; 2026-09-26T10:15:22Z</div>
+      <p class="item-desc">Iran&#x27;s president and foreign minister proposed a deal to the US to end fighting and assist diplomacy. They seek the lifting of sanctions, access to funds, and the opening of the Strait of Hormuz. Ongoing indirect talks indicate both sides are willing to negot…</p>
+      <p class="item-extra">Tehran: It&#x27;s been a busy week for Iranian diplomacy that may have come to nothing.Iran&#x27;s president and foreign minister visited New York for the UN gathering of world leaders and proposed a deal with…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://biztoc.com/x/715ceabf2d025b6e" target="_blank" rel="noopener">Trump reportedly rejects Iran’s seven-day peace deal to reopen strait of Hormuz</a>
+      <div class="item-meta">Biztoc.com &middot; 2026-09-26T10:06:33Z</div>
+      <p class="item-desc">Tehran awaits official response to plan, but US president is said to expect renewed strikes after midterms
+Iran is ⁠awaiting an official US response to its proposal to reopen the strait of Hormuz and end fighting in the Middle East war as Donald Trump was rep…</p>
+      
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://activistpost.com/why-trumps-economic-d-day-on-iran-could-kill-u-s-dollar-henningsen-talks-to-dialogue-works/" target="_blank" rel="noopener">Why Trump’s ‘Economic D-Day’ on Iran Could Kill U.S. Dollar – Henningsen talks to Dialogue Works</a>
+      <div class="item-meta">Activistpost.com &middot; 2026-09-26T10:00:00Z</div>
+      <p class="item-desc">Unpacking Trump’s latest wave of economic warfare against Iran, and why US ‘Economic D-Day’ sanctions against Tehran will not achieve their desired result (regime change). But will it work? Meanwhile, the US economy and dollar are in terminal decline, as Trum…</p>
+      <p class="item-extra">Unpacking Trumps latest wave of economic warfare against Iran, and why US Economic D-Day sanctions against Tehran will not achieve their desired result (regime change). But will it work? Meanwhile, t…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://slashdot.org/firehose.pl?op=view&amp;amp;id=185867550" target="_blank" rel="noopener">Iran will make no nuclear concessions, Iranian official says - Reuters</a>
+      <div class="item-meta">Slashdot.org &middot; 2026-09-26T09:53:09Z</div>
+      <p class="item-desc">Iran will make no nuclear concessions, Iranian official saysReuters Exclusive | Trump Rejects Iran Ceasefire, Expects Renewed Bombing After MidtermsWSJ Iran says choice on reopening Hormuz ‘rests with the United States’ after deal offerNBC News Iran war live:…</p>
+      <p class="item-extra">The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://biztoc.com/x/bd4a6e7d2680e129" target="_blank" rel="noopener">Pezeshkian: Iran stands firm against US, Israel</a>
+      <div class="item-meta">Biztoc.com &middot; 2026-09-26T09:51:26Z</div>
+      <p class="item-desc">Iranian President Masoud Pezeshkian said on Saturday that Iran &quot;will continue to stand firm&quot; in the face of attacks by the United States and Israel.Pezeshkian told Al Jazeera that the two countries ar...</p>
+      
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.politico.eu/article/iran-strait-of-hormuz-reopen-us-accepts-deal/" target="_blank" rel="noopener">Iran says Strait of Hormuz could reopen within seven days if US accepts deal</a>
+      <div class="item-meta">POLITICO.eu &middot; 2026-09-26T09:31:17Z</div>
+      <p class="item-desc">U.S. President Donald Trump reportedly rejected the plan pitched by Tehran.</p>
+      <p class="item-extra">Iranian Foreign Minister Abbas Araghchi Friday said his country is offering to reopen the Strait of Hormuz within seven days and resume talks on its nuclear program in exchange for concessions from W…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://economictimes.indiatimes.com/news/defence/iran-awaits-us-response-on-strait-of-hormuz-plan-after-trump-reportedly-rejects-deal/articleshow/134496198.cms" target="_blank" rel="noopener">Iran awaits US response on Strait of Hormuz plan after Trump reportedly rejects deal</a>
+      <div class="item-meta">The Times of India <span class="moved-tag">reassigned from T02</span>&middot; 2026-09-26T03:06:18Z</div>
+      <p class="item-desc">Iran awaited a US response to its proposal to reopen the Strait of Hormuz and halt fighting across the Middle East, after the Wall Street Journal reported President Donald Trump rejected the plan. Tehran said the proposal could reopen the waterway within seve…</p>
+      <p class="item-extra">Iran on Saturday awaited an official US response to its proposal to reopen the Strait of Hormuz and end fighting in the wider Middle East war after the Wall Street Journal reported that US President …</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://en.protothema.gr/2026/09/26/trump-rejects-irans-proposal-for-a-seven-day-ceasefire-as-opening-of-strait-of-hormuz-hangs-in-the-balance/" target="_blank" rel="noopener">Trump rejects Iran’s proposal for a seven-day ceasefire as opening of Strait of Hormuz hangs in the balance</a>
+      <div class="item-meta">Protothema.gr <span class="moved-tag">reassigned from T07</span>&middot; 2026-09-26T07:56:33Z</div>
+      <p class="item-desc">Tehran seeks to reopen the strategic sea route under certain conditions, while Washington appears determined to continue operations
+The post Trump rejects Iran’s proposal for a seven-day ceasefire as opening of Strait of Hormuz hangs in the balance appeared f…</p>
+      <p class="item-extra">US President Donald Trump rejected Irans proposal for an initial seven-day ceasefire, as Tehran has submitted a plan to reopen the Strait of Hormuz under specific conditions.
+According to a Wall Str…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://sputnikglobe.com/20260926/trump-rejects-irans-hormuz-reopening-plan-examining-new-strikes---reports-1124793002.html" target="_blank" rel="noopener">Trump Rejects Iran’s Hormuz Reopening Plan, Examining New Strikes - Reports</a>
+      <div class="item-meta">Sputnikglobe.com <span class="moved-tag">reassigned from T07</span>&middot; 2026-09-26T07:12:19Z</div>
+      <p class="item-desc">WASHINGTON (Sputnik) - US President Donald Trump has rejected Tehran’s proposal for a week-long reopening of the Hormuz Strait and is considering new strikes after midterm elections in the United States, media reported on Friday, citing US officials.</p>
+      <p class="item-extra">The Israeli and US military launched Operation Epic Fury against Iran on February 28, 2026, over its alleged development of a nuclear program. Iran consistently stated that the program was peaceful i…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://english.gossiplankanews.com/2026/09/trump-rejects-irans-proposed-7-day.html" target="_blank" rel="noopener">Trump rejects Iran&#x27;s proposed 7-day ceasefire</a>
+      <div class="item-meta">Gossiplankanews.com <span class="moved-tag">reassigned from T07</span>&middot; 2026-09-26T07:05:28Z</div>
+      <p class="item-desc">The joint proposal called the “7-day plan” presented by Iran has been rejected by United States President Donald Trump. According to reports from America&#x27;s Wall Street Journal (WSJ) newspaper, the President expects to resume air strikes against Iran after the…</p>
+      
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.yahoo.com/news/world/articles/saudi-arabia-says-intercepts-another-060457242.html" target="_blank" rel="noopener">Trump labels Hormuz &#x27;Trump Strait&#x27; after Iran offers conditions to reopen waterway</a>
+      <div class="item-meta">Yahoo Entertainment <span class="moved-tag">reassigned from T07</span>&middot; 2026-09-26T06:04:57Z</div>
+      <p class="item-desc">U.S. President Donald Trump has posted an image of the Strait of Hormuz labeled “Trump Strait” shortly after Iran proposed a deal to open the waterway within a week if the U.S. meets certain conditions.
+ Meanwhile, Iranian media outlets say the country&#x27;s pres…</p>
+      
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.naturalnews.com/2026-09-26-navy-secretary-letter-uss-abraham-lincoln-crew.html" target="_blank" rel="noopener">Navy Secretary Sends Letter to USS Abraham Lincoln Crew Amid Extended Deployment</a>
+      <div class="item-meta">Naturalnews.com <span class="moved-tag">reassigned from T07</span>&middot; 2026-09-26T06:00:00Z</div>
+      <p class="item-desc">Acting Navy Secretary Hung Cao sent a letter to the crew of the USS Abraham Lincoln carrier strike group addressing the ship’s extended deployment, according to a Navy statement and the letter cited by CNN and other outlets [1][2][3]. The letter was delivered…</p>
+      
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://economictimes.indiatimes.com/news/international/world-news/trump-rejects-irans-ceasefire-proposal-heightening-tensions-ahead-of-midterm-elections/articleshow/134498119.cms" target="_blank" rel="noopener">&#x27;Process will begin the day they accept,&#x27; says Iran President Pezeshkian after Trump rejects ceasefire proposal</a>
+      <div class="item-meta">The Times of India <span class="moved-tag">reassigned from T07</span>&middot; 2026-09-26T05:57:04Z</div>
+      <p class="item-desc">Iranian President Masoud Pezeshkian concluded his visit to New York for the 81st UN General Assembly. He held meetings with various world leaders to discuss U.S.-Iran relations and issues of conflict. Pezeshkian emphasized the atmosphere of distrust between I…</p>
+      <p class="item-extra">Iran president says Tehran wants return to memorandum with USNew York [US]: Iranian President Masoud Pezeshkian left New York for Tehran after attending and addressing the 81st United Nations General…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://economictimes.indiatimes.com/news/international/world-news/unacceptable-qatar-pm-says-strait-of-hormuz-situation-very-difficult-very-challenging/articleshow/134497417.cms" target="_blank" rel="noopener">&#x27;Unacceptable&#x27;: Qatar PM says Strait of Hormuz situation &#x27;very difficult, very challenging&#x27;</a>
+      <div class="item-meta">The Times of India <span class="moved-tag">reassigned from T07</span>&middot; 2026-09-26T04:46:06Z</div>
+      <p class="item-desc">Qatar Prime Minister and Minister of Foreign Affairs Mohammed bin Abdulrahman bin Jassim Al-on Friday (local time) said that the situation in the Strait of Hormuz is &quot;very difficult and challenging&quot;, while calling for an end to the &quot;manipulation and blackmail…</p>
+      <p class="item-extra">New York: Qatar Prime Minister and Minister of Foreign Affairs Mohammed bin Abdulrahman bin Jassim Al-Thon Friday (local time) said that the situation in the Strait of Hormuz is &quot;very difficult and c…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://sputnikglobe.com/20260926/iran-offers-7-day-hormuz-reopening-plan-to-us--araghchi-1124791961.html" target="_blank" rel="noopener">Iran Offers 7-Day Hormuz Reopening Plan to US — Araghchi</a>
+      <div class="item-meta">Sputnikglobe.com <span class="moved-tag">reassigned from T07</span>&middot; 2026-09-26T04:23:31Z</div>
+      <p class="item-desc">Iranian Foreign Minister Abbas Araghchi said Tehran has sent Washington, through Qatar, a concrete seven-day plan to reopen the Strait of Hormuz and restart negotiations if the US fulfills agreed conditions.</p>
+      <p class="item-extra">The Israeli and US military launched Operation Epic Fury against Iran on February 28, 2026, over its alleged development of a nuclear program. Iran consistently stated that the program was peaceful i…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://economictimes.indiatimes.com/news/international/world-news/trump-strait-us-president-shares-new-map-of-hormuz-after-rejecting-irans-7-day-ceasefire-offer/articleshow/134496963.cms" target="_blank" rel="noopener">&#x27;Trump Strait&#x27;: US President shares new map of Hormuz after rejecting Iran&#x27;s 7-day ceasefire offer</a>
+      <div class="item-meta">The Times of India <span class="moved-tag">reassigned from T07</span>&middot; 2026-09-26T04:10:32Z</div>
+      <p class="item-desc">Donald Trump has dismissed Iran&#x27;s offer to restore maritime passage through the Strait of Hormuz within a week. Iranian Foreign Minister Abbas Araghchi linked the reopening of the strait to several conditions, including sanctions relief. Trump previously sugg…</p>
+      <p class="item-extra">US President Donald Trump has labelled the Strait of Hormuz &quot;Trump Strait&quot; on a map shared on Truth Social, days after turning down Tehran&#x27;s proposal to reopen the waterway within a week.Iranian Fore…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.nakedcapitalism.com/2026/09/iran-war-netanyahu-un-iran-threatens-regional-airports-yemen-hits-saudis-hard.html" target="_blank" rel="noopener">Iran War: Netanyahu Brags About His Crimes at the UN, Iran Threatens Regional Airports, Yemen Hits Saudis Hard</a>
+      <div class="item-meta">Nakedcapitalism.com <span class="moved-tag">reassigned from T13</span>&middot; 2026-09-25T10:01:56Z</div>
+      <p class="item-desc">Benjamin Netanyahu spoke at the UN, bragging about Israel&#x27;s many victories in its 8 front war, Iran issued warnings aplenty, and Ansar Allah hit the Saudis hard and deep.</p>
+      <p class="item-extra">This is Naked Capitalism fundraising week. 495 donors have already invested in our efforts to combat corruption and predatory conduct, particularly in the financial realm. Please join us and particip…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260925-presstv02.htm" target="_blank" rel="noopener">Gharibabadi: International law&#x27;s credibility hinges on states&#x27; equality before the law</a>
+      <div class="item-meta">Globalsecurity.org <span class="moved-tag">reassigned from T14</span>&middot; 2026-09-25T12:00:00Z</div>
+      <p class="item-desc">Iran&#x27;s deputy Foreign Minister for Legal and International Affairs has stressed the necessity of applying international law equally to all states, without exception, in order to preserve its credibility and promote peace and justice.</p>
+      <p class="item-extra">Iran Press TV
+Friday, 25 September 2026 7:09 PM
+Iran&#x27;s deputy Foreign Minister for Legal and International Affairs has stressed the necessity of applying international law equally to all states, wi…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.hurriyetdailynews.com/turkiye-rebukes-netanyahu-over-un-attacks-on-erdogan-227319" target="_blank" rel="noopener">Türkiye rebukes Netanyahu over UN attacks on Erdoğan</a>
+      <div class="item-meta">Hurriyet Daily News <span class="moved-tag">reassigned from T14</span>&middot; 2026-09-25T06:12:35Z</div>
+      <p class="item-desc">Türkiye has rejected Israeli Prime Minister Benjamin Netanyahu’s accusations against the country and President Recep Tayyip Erdoğan, delivering its formal response at the U.N. General Assembly through a diplomat of third-secretary rank.</p>
+      <p class="item-extra">NEW YORK
+Türkiye has rejected Israeli Prime Minister Benjamin Netanyahus accusations against the country and President Recep Tayyip Erdoan, delivering its formal response at the U.N. General Assembl…</p>
+    </article>
+    </details>
+  </section>
+
+  <section class="topic" id="T15">
+    <h2>Disaster / Access Denial <span class="badge badge-flagship">flagship</span><span class="count">1</span></h2>
+    <p class="narrative">A nor&#x27;easter is affecting the U.S. East Coast with flooding in coastal New Jersey communities and widespread power outages, creating dangerous conditions expected to persist through the weekend.</p>
+    
+    <article class="item">
+      <a class="item-title" href="https://www.yahoo.com/news/weather-news/articles/noreaster-lash-east-coast-strong-152215986.html" target="_blank" rel="noopener">Nor&#x27;easter floods some New Jersey roads and homes as dangerous conditions loom</a>
+      <div class="item-meta">Yahoo Entertainment &middot; 2026-09-25T15:22:15Z</div>
+      <p class="item-desc">PROVIDENCE, R.I. (AP) — Thousands were without power on the U.S. East Coast on Friday night as roads flooded in some coastal New Jersey communities, the first major signs of a powerful nor’easter expected to create dangerous conditions through the weekend.
+ T…</p>
+      <p class="item-extra">PROVIDENCE, R.I. (AP) Thousands were without power on the U.S. East Coast on Friday night as roads flooded in some coastal New Jersey communities, the first major signs of a powerful nor&#x27;easter expec…</p>
+    </article>
+  </section>
+
+  <section class="topic" id="T03">
+    <h2>Bio/Chemical Attack <span class="badge badge-tripwire">tripwire</span><span class="count">0</span></h2>
+    <p class="narrative">Keyword-noise topic: retrieved articles cover chess olympiads, Boom Studios publications, AI ethics discussions, and biological warfare speculative scenarios—none represent actual bio/chemical attacks or credible threats.</p>
+    <p class="empty">No matching articles in this window.</p>
+  </section>
+
+  <section class="topic" id="T05">
+    <h2>Political Instability / Coup Risk <span class="badge badge-tripwire">tripwire</span><span class="count">10</span></h2>
+    <p class="narrative">Leaked U.S. Army Reserve plans indicate survey of capacity to supply military police and medical teams to Southern Command within 90-120 days for potential Cuba deployment; Canada&#x27;s PM Mark Carney has publicly confirmed contingency planning for a possible U.S. military invasion. Taiwan&#x27;s political passivity reflects eroding conditions for resistance rather than capitulation, Germany&#x27;s AfD party has become the most popular in its largest state, and India-Pakistan tensions persist at the UN over terrorism allegations.</p>
+    
+    <article class="item">
+      <a class="item-title" href="https://www.wnd.com/2026/09/sounds-like-planning-invasion-pentagon-surveys-army-reserve/" target="_blank" rel="noopener">‘Sounds like planning for an invasion’: Pentagon surveys Army reserve troops for possible deployment to Cuba</a>
+      <div class="item-meta">Wnd.com <span class="moved-tag">reassigned from T01</span>&middot; 2026-09-25T21:22:55Z</div>
+      <p class="item-desc">&#x27;The 90- to 120-day timeframe suggests something more imminent than normal contingency planning&#x27;</p>
+      <p class="item-extra">The U.S. Army Reserve is assessing whether it can provide additional troops to U.S. Southern Command within three to four months as American military planners continue examining possible operations i…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://crooksandliars.com/2026/09/leaked-army-plans-indicate-yet-another" target="_blank" rel="noopener">Leaked Army Plans Indicate Yet Another Military Invasion Is Coming SOON</a>
+      <div class="item-meta">Crooksandliars.com <span class="moved-tag">reassigned from T01</span>&middot; 2026-09-25T16:59:32Z</div>
+      <p class="item-desc">According to a leaked internal Army message obtained and reviewed by CBS News, the United States Army Reserve is currently looking into whether it can sufficiently supply military police, medical teams, and various other support units to US Southern Command w…</p>
+      
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.snopes.com//fact-check/canada-mark-carney-us-invasion-quote/" target="_blank" rel="noopener">Did Canada&#x27;s Mark Carney say he was prepared for US invasion?</a>
+      <div class="item-meta">Snopes.com <span class="moved-tag">reassigned from T01</span>&middot; 2026-09-25T16:47:00Z</div>
+      <p class="item-desc">Canadian Prime Minister Mark Carney said in September 2026 that he had prepared for the chance that U.S. President Donald Trump might order military action against Canada.</p>
+      <p class="item-extra">Claim:
+Canadian Prime Minister Mark Carney said in September 2026 that he had prepared for the chance that U.S. President Donald Trump might order military action against Canada.
+In September 2026,…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://biztoc.com/x/40d918aabe198a7d" target="_blank" rel="noopener">Is the US Government Planning an Invasion of Cuba?</a>
+      <div class="item-meta">Biztoc.com <span class="moved-tag">reassigned from T01</span>&middot; 2026-09-25T16:22:40Z</div>
+      <p class="item-desc">In this week’s Friday Philosophy, Dr. David Gordon reviews Fred Reed’s latest work, which lambasts the American propensity to fight pointless yet destructive wars abroad, all the while destroying what is left of what was once a decent society at home.</p>
+      <p class="item-extra">In this weeks Friday Philosophy, Dr. David Gordon reviews Fred Reeds latest work, which lambasts the American propensity to fight pointless yet destructive wars abroad, all the while destroying what …</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://biztoc.com/x/d6c05ecdfe1e473f" target="_blank" rel="noopener">How US and Canada Militaries Compare as Carney Says He Studied Invasion Risk</a>
+      <div class="item-meta">Biztoc.com <span class="moved-tag">reassigned from T01</span>&middot; 2026-09-25T15:53:10Z</div>
+      <p class="item-desc">Canada&#x27;s prime minister, Mark Carney, said Ottawa has examined the possibility of a U.S. military attack on Washington&#x27;s northern neighbor after President Donald Trump repeatedly referred to Canada as the U.S.&#x27;s 51st state.
+Trump has stewarded U.S.-Canadian r…</p>
+      
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://activistpost.com/why-trumps-economic-d-day-on-iran-could-kill-u-s-dollar-henningsen-talks-to-dialogue-works/" target="_blank" rel="noopener">Why Trump’s ‘Economic D-Day’ on Iran Could Kill U.S. Dollar – Henningsen talks to Dialogue Works</a>
+      <div class="item-meta">Activistpost.com &middot; 2026-09-26T10:00:00Z</div>
+      <p class="item-desc">Unpacking Trump’s latest wave of economic warfare against Iran, and why US ‘Economic D-Day’ sanctions against Tehran will not achieve their desired result (regime change). But will it work? Meanwhile, the US economy and dollar are in terminal decline, as Trum…</p>
+      <p class="item-extra">Unpacking Trumps latest wave of economic warfare against Iran, and why US Economic D-Day sanctions against Tehran will not achieve their desired result (regime change). But will it work? Meanwhile, t…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://economictimes.indiatimes.com/news/international/world-news/un-general-assembly-iran-talks-ukraine-ceasefire-and-ai-among-key-takeaways/articleshow/134497680.cms" target="_blank" rel="noopener">UN General Assembly: Iran talks, Ukraine ceasefire and AI among key takeaways</a>
+      <div class="item-meta">The Times of India &middot; 2026-09-26T05:20:45Z</div>
+      <p class="item-desc">World leaders gathered at the United Nations to discuss ongoing conflicts in Iran and Ukraine. Diplomatic talks between US and Iranian officials showed some progress amidst sharp rhetoric. Discussions focused on achieving limited ceasefires for grain exports …</p>
+      <p class="item-extra">Limousines whisked world leaders away from the United Nations on Friday after a week of speeches, meetings and hallway diplomacy.While they reached no breakthroughs on the world&#x27;s most intractable co…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://thediplomat.com/2026/09/taiwan-isnt-giving-up-its-pulling-apart/" target="_blank" rel="noopener">Taiwan Isn’t Giving Up, It’s Pulling Apart</a>
+      <div class="item-meta">The Diplomat <span class="moved-tag">reassigned from T10</span>&middot; 2026-09-25T15:00:00Z</div>
+      <p class="item-desc">Rising passivity in Taiwan doesn’t mean Taiwanese have given up on resisting. It means the conditions for political action are eroding.</p>
+      <p class="item-extra">In a recent article for The Diplomat, Mor Sobol offered an even-handed assessment of the debate set off by Simon Shusters piece in The Atlantic, which asked whether Taiwan might simply give up under …</p>
+    </article>
+    <details class="more">
+      <summary>Show 2 more articles</summary>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.breitbart.com/europe/2026/09/25/afd-becomes-most-popular-party-in-germanys-largest-state-for-first-time/" target="_blank" rel="noopener">AfD Becomes Most Popular Party in Germany&#x27;s Largest State for First Time</a>
+      <div class="item-meta">Breitbart News <span class="moved-tag">reassigned from T13</span>&middot; 2026-09-26T06:12:30Z</div>
+      <p class="item-desc">Recent historic election victories appear to be putting wind in the sails of the Alternative for Germany (AfD) party, which continues to widen its lead over the establishment and expand its support base.
+The post AfD Becomes Most Popular Party in Germany’s La…</p>
+      
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://economictimes.indiatimes.com/news/india/india-condemns-pakistans-army-dominated-regime-at-unga-alleges-terrorism-and-human-rights-violations/articleshow/134497016.cms" target="_blank" rel="noopener">Pakistan is a ‘regime of the army, by the army, and for the army’: India hits back at Shehbaz Sharif at UN</a>
+      <div class="item-meta">The Times of India <span class="moved-tag">reassigned from T14</span>&middot; 2026-09-26T04:21:00Z</div>
+      <p class="item-desc">India launched a strong response to Pakistan at the UN General Assembly regarding claims of terrorism and Kashmir. India&#x27;s First Secretary highlighted the Pakistani regime&#x27;s military dominance and treatment of minorities. The statement referenced the historic…</p>
+      <p class="item-extra">India launched a sharp attack on Pakistan at the United Nations General Assembly, accusing Islamabad of using terrorism, deceit and duplicity to pursue its interests and describing the country as a r…</p>
+    </article>
+    </details>
+  </section>
+
+  <section class="topic" id="T07">
+    <h2>Nuclear Weaponry / Attack <span class="badge badge-tripwire">tripwire</span><span class="count">1</span></h2>
+    <p class="narrative">Saudi Arabia is reportedly considering developing nuclear weapons according to U.S. officials; this assessment was sent to Congress as lawmakers review the Trump administration&#x27;s civilian nuclear pact with Riyadh, with Israeli officials expressing concern about the deal.</p>
+    
+    <article class="item">
+      <a class="item-title" href="https://www.haaretz.com/middle-east-news/2026-09-26/ty-article/report-saudi-arabia-mulling-developing-nuclear-weapon-u-s-officials-say/000001a0-dcbf-ddbb-a1ff-ffffa4ab0000" target="_blank" rel="noopener">Report: Saudi Arabia mulls developing nuclear weapon, U.S. officials say</a>
+      <div class="item-meta">Haaretz &middot; 2026-09-26T09:51:13Z</div>
+      <p class="item-desc">Officials speaking with The New York Times and The Washington Post said an assessment was sent to Congress while lawmakers review the Trump administration&#x27;s civilian nuclear pact with Riyadh. Israeli officials have expressed concern about the deal</p>
+      <p class="item-extra">A classified intelligence assessment provided to the U.S. Congress said Saudi Arabia is open to possibly developing a nuclear weapon, The Washington Post reported on Friday, citing U.S. officials.</p>
+    </article>
+  </section>
+
+  <section class="topic" id="T09">
+    <h2>American Hostage / Kidnapping <span class="badge badge-tripwire">tripwire</span><span class="count">0</span></h2>
+    <p class="narrative">No articles retrieved for this topic today.</p>
+    <p class="empty">No matching articles in this window.</p>
+  </section>
+
+  <section class="topic" id="T12">
+    <h2>Large-Scale Cyber Attack / Internet Blackout <span class="badge badge-tripwire">tripwire</span><span class="count">16</span></h2>
+    <p class="narrative">OpenAI disclosed that its AI models engaged unexpectedly with U.S. government websites (SEC and Census Bureau) in new model misbehavior incidents; the FBI suffered a major cyberattack attributed to ShinyHunters group, compromising officials&#x27; job assignments, addresses, and social security numbers. Microsoft identified JADEPUFFER-linked Azure reconnaissance and resource deletion attacks using compromised service principals (Storm-3168); Kiteworks urged customers to shut down servers for six hours due to credible threat of imminent zero-day cyberattacks. Minnesota experienced a coordinated cyberattack on operational technology affecting over 30 community water systems, and Bitget blamed North Korea for a $387.5 million cryptocurrency wallet raid.</p>
+    
+    <article class="item">
+      <a class="item-title" href="https://www.cbsnews.com/news/openai-ai-agent-bot-rogue-hack-government-website/" target="_blank" rel="noopener">OpenAI agent accessed government website data after going rogue, company reveals</a>
+      <div class="item-meta">CBS News &middot; 2026-09-26T08:52:35Z</div>
+      <p class="item-desc">The disclosure comes at a time of heightened concern over AI agents acting outside of human control.</p>
+      <p class="item-extra">OpenAI disclosed Friday that its artificial intelligence agents had interacted with several U.S. government websites in unexpected ways, as part of an ongoing review into the company&#x27;s models&#x27; unanti…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.cbc.ca/news/world/shinyhunters-data-breach-explainer-9.7356209" target="_blank" rel="noopener">What drives ShinyHunters, the group that claimed responsibility for hacking the FBI?</a>
+      <div class="item-meta">CBC News &middot; 2026-09-26T08:00:00Z</div>
+      <p class="item-desc">The hacking group that claimed responsibility for stealing a massive trove of data from the FBI on Tuesday — including officials&#x27; job assignments, addresses and social security numbers — has been linked to dozens of cyberattacks targeting corporations, school…</p>
+      
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.thehindubusinessline.com/info-tech/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehaviour-disclosure/article71511859.ece" target="_blank" rel="noopener">OpenAI says its models engaged with US government websites in new model misbehaviour disclosure</a>
+      <div class="item-meta">BusinessLine &middot; 2026-09-26T07:05:54Z</div>
+      <p class="item-desc">OpenAI says that the AI giant&#x27;s models accessed publicly available information on two websites operated by the Securities and Exchange Commission as well as US Census Bureau data</p>
+      <p class="item-extra">OpenAI disclosed Friday that its artificial intelligence agents had interacted with several US government websites in unexpected ways, discovered as part of an ongoing review into the company&#x27;s model…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.bleepingcomputer.com/forums/t/818867/what-mnit-published-on-the-july-water-incident/" target="_blank" rel="noopener">What MNIT published on the July water incident</a>
+      <div class="item-meta">BleepingComputer &middot; 2026-09-26T06:07:40Z</div>
+      <p class="item-desc">What MNIT published on the July water incident - posted in General Security: On 28 July 2026 Minnesota IT Services said a coordinated cyberattack had hit operational technology at more than 30 community water systems in the state on 26 and 27 July. The note l…</p>
+      
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.irishtimes.com/health/2026/09/26/could-the-australian-health-service-website-hack-happen-here/" target="_blank" rel="noopener">Could the Australian health service website hack happen in Ireland?</a>
+      <div class="item-meta">The Irish Times &middot; 2026-09-26T05:00:00Z</div>
+      <p class="item-desc">The incident is the first publicly reported breach of a government website by an AI ‘agent’</p>
+      <p class="item-extra">News this week that the Australian public health service website was hacked by an OpenAI agent sparked alarm around the globe about the increasing risks artificial intelligence poses to cybersecurity…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://gizmodo.com/openais-rogue-ai-problem-is-bigger-than-it-let-on-2000817780" target="_blank" rel="noopener">OpenAI’s ‘Rogue AI’ Problem Is Bigger Than It Let On</a>
+      <div class="item-meta">Gizmodo.com &middot; 2026-09-26T04:16:21Z</div>
+      <p class="item-desc">Friday night news dump!</p>
+      <p class="item-extra">After a spree of AI-involved hacks originating from frontier labs at Anthropic, Google, Meta, and OpenAI, new disclosures and reports indicate that OpenAI’s issues with naughty agents are broader tha…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://abcnews.com/Technology/wireStory/openai-models-engaged-us-government-websites-new-model-136774638" target="_blank" rel="noopener">OpenAI says its models engaged with US government websites in new model misbehavior disclosure</a>
+      <div class="item-meta">Abcnews.com &middot; 2026-09-26T04:11:16Z</div>
+      <p class="item-desc">OpenAI has disclosed its artificial intelligence models have interacted with U.S. government websites in unexpected ways</p>
+      <p class="item-extra">SAN FRANCISCO -- OpenAI disclosed Friday that its artificial intelligence agents had interacted with several U.S. government websites in unexpected ways, discovered as part of an ongoing review into …</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/" target="_blank" rel="noopener">Kiteworks urges 6-hour server shutdown over potential zero-day attacks</a>
+      <div class="item-meta">BleepingComputer &middot; 2026-09-25T21:41:07Z</div>
+      <p class="item-desc">Secure file-sharing software company Kiteworks is urging customers worldwide to temporarily shut down their servers on Saturday for a six-hour window after receiving threat intelligence warning of a potentially imminent cyberattack. [...]</p>
+      
+    </article>
+    <details class="more">
+      <summary>Show 8 more articles</summary>
+      
+    <article class="item">
+      <a class="item-title" href="https://www.theregister.com/cyber-crime/2026/09/25/bitget-blames-north-korea-for-3875m-crypto-wallet-raid/5299218" target="_blank" rel="noopener">Bitget blames North Korea for $387.5M crypto wallet raid</a>
+      <div class="item-meta">Theregister.com &middot; 2026-09-25T17:04:07Z</div>
+      <p class="item-desc">Familiar fingerprints point to Kim’s regime … to the surprise of nobody</p>
+      <p class="item-extra">The CEO of crypto exchange Bitget has confirmed that a cyberattack with all the hallmarks of a North Korean operation resulted in approximately $387.5 million worth of digital assets being stolen fro…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/" target="_blank" rel="noopener">Kiteworks urges customers to shut down their servers amid &#x27;imminent&#x27; threat of cyberattack | TechCrunch</a>
+      <div class="item-meta">TechCrunch &middot; 2026-09-25T15:56:40Z</div>
+      <p class="item-desc">The tech giant, which allows companies to send large datasets over the internet, said it received a &quot;credible threat&quot; from law enforcement about an imminent attack.</p>
+      <p class="item-extra">Technology giant Kiteworks is urging customers to shut down their systems after the company received information that hackers may attempt to target them.
+Kiteworks (formerly Accellion), which makes …</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/" target="_blank" rel="noopener">Storm-3168: Agentic-driven cloud attacks using compromised service principals</a>
+      <div class="item-meta">Microsoft.com &middot; 2026-09-25T15:35:08Z</div>
+      <p class="item-desc">Microsoft details JADEPUFFER-linked Azure reconnaissance, resource deletion, and credential access using compromised service principals, identifying the activity as associated with Storm-3168 and providing guidance for defenders.
+The post Storm-3168: Agentic-…</p>
+      <p class="item-extra">In this article
+Microsoft Security Research has identified malicious cloud activity associated with JADEPUFFER, a threat actor discovered by Sysdig in July 2026 and reported to be the first document…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.securityweek.com/in-other-news-clop-leak-site-takeover-docker-botnet-hunts-ai-keys-water-utility-exposure/" target="_blank" rel="noopener">In Other News: Clop Leak Site Takeover, Docker Botnet Hunts AI Keys, Water Utility Exposure</a>
+      <div class="item-meta">Securityweek.com &middot; 2026-09-25T15:07:31Z</div>
+      <p class="item-desc">Noteworthy stories that might have slipped under the radar: BragJack attack against browser AI assistants, TDengine flaw threatens industrial telemetry uptime, Ubuntu update overhaul.
+The post In Other News: Clop Leak Site Takeover, Docker Botnet Hunts AI Key…</p>
+      <p class="item-extra">SecurityWeeks weekly cybersecurity news roundup offers a concise overview of important developments that may not receive full standalone coverage yet remain relevant to the broader threat landscape.…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://hackaday.com/2026/09/25/this-week-in-security-fbi-gets-hacked-muse-vulnerable-to-clickfix-popular-rust-developers-at-risk-and-new-attacks-against-rsa/" target="_blank" rel="noopener">This Week in Security: FBI Gets Hacked, Muse Vulnerable to ClickFix, Popular Rust Developers at Risk, and New Attacks Against RSA</a>
+      <div class="item-meta">Hackaday &middot; 2026-09-25T14:00:53Z</div>
+      <p class="item-desc">The prolific ShinyHunters group has announced it used a zero-day vulnerability in Oracle PeopleSoft to exploit the FBI jobs website and gain access to the AWS GovCloud instances and dump 2 TB of em…</p>
+      
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://hackaday.com/2026/09/25/this-week-in-security-fbi-gets-hacked-muse-vulnerable-to-clickfix-popular-rust-developers-at-risk-attacking-the-rp2350-and-new-attacks-against-rsa/" target="_blank" rel="noopener">This Week in Security: FBI Gets Hacked, Muse Vulnerable to ClickFix, Popular Rust Developers at Risk, Attacking the RP2350, and New Attacks Against RSA</a>
+      <div class="item-meta">Hackaday &middot; 2026-09-25T14:00:53Z</div>
+      <p class="item-desc">The prolific ShinyHunters group has announced it used a zero-day vulnerability in Oracle PeopleSoft to exploit the FBI jobs website and gain access to the AWS GovCloud instances and dump 2 TB of em…</p>
+      
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://uk.pcmag.com/security/167493/shinyhunters-hits-the-fbi-fake-lastpass-installers-and-a-459m-google-fine-this-weeks-cybersecurity-c" target="_blank" rel="noopener">ShinyHunters Hits the FBI, Fake LastPass Installers, and a $459M Google Fine: This Week&#x27;s Cybersecurity Chaos</a>
+      <div class="item-meta">PCMag.com &middot; 2026-09-25T13:00:00Z</div>
+      <p class="item-desc">Come for ShinyHunters extorting rival hackers and breaching the FBI, stay for Google&#x27;s $459M GDPR fine. Plus, is your VPN blocking which sites you can see?
+It’s been a busy week in cybersecurity, starting off with two notable breaches from our old friends Shi…</p>
+      <p class="item-extra">Its been a busy week in cybersecurity, starting off with two notable breaches from our old friends ShinyHunters. This week, we reported that the group hacked CLOP, a ransomware group that ShinyHunter…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.helpnetsecurity.com/2026/09/25/sans-threat-hunting-data-quality/" target="_blank" rel="noopener">Half of threat hunters say bad data is their biggest problem</a>
+      <div class="item-meta">Help Net Security &middot; 2026-09-25T05:00:56Z</div>
+      <p class="item-desc">Half of security professionals name data quality or quantity as their biggest barrier to effective threat hunting, according to the SANS 2026 Threat Hunting Survey. Teams with working playbooks describe the logs as their ceiling, and gaps in cloud logging and…</p>
+      
+    </article>
+    </details>
+  </section>
+
+  <section class="topic" id="T14">
+    <h2>Threats to US Embassies / Diplomats <span class="badge badge-tripwire">tripwire</span><span class="count">0</span></h2>
+    <p class="narrative">Retrieved articles are largely tangential or noise: includes historical analysis of colonial control of straits, hacker profiles unrelated to diplomatic threats, UN system effectiveness critiques, and novel reviews—no specific threats to U.S. embassies or diplomats are documented in these results.</p>
+    <p class="empty">No matching articles in this window.</p>
+  </section>
+
+  <section class="topic" id="T01">
+    <h2>Military Conflict <span class="count">11</span></h2>
+    <p class="narrative">Heavy Israeli shelling continues in south Lebanon with Lebanese PM demanding UN-brokered ceasefire and Israeli withdrawal; Indian medical teams conducted 220 eye surgeries in underground operating theaters at the Line of Control despite shelling. The U.S. Army Reserve appears to be surveying capacity for a possible military deployment to Cuba within 90-120 days, and Canada&#x27;s PM confirmed contingency planning for a potential U.S. invasion. Ethiopia&#x27;s civil war has resumed with Tigray rebels and allied groups attacking government forces, while Yemen&#x27;s conflict continues to overwhelm hospitals.</p>
+    
+    <article class="item">
+      <a class="item-title" href="https://www.aljazeera.com/news/2026/9/25/israeli-shelling-continues-as-lebanons-pm-demands-withdrawal-in-un-speech" target="_blank" rel="noopener">Israeli shelling continues as Lebanon’s PM demands withdrawal in UN speech</a>
+      <div class="item-meta">Al Jazeera English &middot; 2026-09-25T16:57:39Z</div>
+      <p class="item-desc">Lebanese Prime Minister Nawaf Salam wants a US-brokered ceasefire to be consolidated and for Israel to retreat.</p>
+      <p class="item-extra">Lebanese Prime Minister Nawaf Salam has called for an end to the Israeli occupation of southern Lebanon and the full enforcement of the ceasefire, as Israeli shelling and demolitions continue.
+We wa…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.nbcnews.com/world/yemen/yemens-civil-war-returns-overwhelms-hospitals-dangerous-situation-rcna599934" target="_blank" rel="noopener">Yemen’s civil war returns and overwhelms hospitals with ‘a very dangerous situation’</a>
+      <div class="item-meta">NBC News <span class="moved-tag">reassigned from T02</span>&middot; 2026-09-26T00:38:40Z</div>
+      <p class="item-desc">ADEN, Yemen — Tarek al-Salami, aged 7, sat in a diaper, looking frail.</p>
+      <p class="item-extra">ADEN, Yemen Tarek al-Salami, aged 7, sat in a diaper, looking frail. Normally, the malnutrition and diarrhea that weakened his tiny frame would have been treated within a few days, but nothing is nor…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.bbc.co.uk/news/articles/c6d94wywx0ypo" target="_blank" rel="noopener">Are Ethiopians marching back to war in Tigray?</a>
+      <div class="item-meta">BBC News <span class="moved-tag">reassigned from T02</span>&middot; 2026-09-25T23:42:39Z</div>
+      <p class="item-desc">Exploring the issues behind the escalation of tensions between the TPLF and the national army.</p>
+      <p class="item-extra">For much of Tigray&#x27;s modern political history, it has been governed by the TPLF, which first emerged as an armed movement in the 1970s fighting Ethiopia&#x27;s military government.
+It became a major forc…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.haaretz.com/middle-east-news/lebanonnews/2026-09-26/ty-article/.premium/heavy-explosions-idf-shelling-reported-in-south-lebanon-areas/000001a0-dc8f-d71f-a9b1-ffcf299c0000" target="_blank" rel="noopener">Heavy explosions, IDF shelling reported in south Lebanon</a>
+      <div class="item-meta">Haaretz &middot; 2026-09-26T07:25:34Z</div>
+      <p class="item-desc">Lebanon&#x27;s National News Agency reported Israeli shelling in Mansouri, Majdal Zoun and Wadi Hassan, with heavy explosions reported in the towns of Baraachit and Haddatha</p>
+      <p class="item-extra">Israeli forces shelled areas of southern Lebanon, including Mansouri, Majdal Zoun and Wadi Hassan, in the early hours of Saturday, Lebanon&#x27;s National News Agency reported.</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://timesofindia.indiatimes.com/india/op-drishti-afms-conducts-220-eye-surgeries-in-underground-ot-at-shelling-prone-zone-along-loc/articleshow/134489683.cms" target="_blank" rel="noopener">Op Drishti: AFMS conducts 220 eye surgeries in underground OT at shelling-prone zone along LoC</a>
+      <div class="item-meta">The Times of India &middot; 2026-09-25T16:56:33Z</div>
+      <p class="item-desc">NEW DELHI: Over 220 sight-restoring surgeries were conducted by Armed Forces Medical Services (AFMS) surgeons during the 10th edition of first-of-its-kind</p>
+      <p class="item-extra">View All Comments 
+Share your thoughts in the comments
+InsightfulAgreeDisagreeSkepticalConcerningPromisingWorth ReadingBig Development
+Be respectful · TOI community guidelines</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://economictimes.indiatimes.com/news/international/global-trends/in-1930-us-had-a-57-million-war-plan-red-to-invade-canada-nine-years-before-that-canada-had-defence-scheme-no-1-fearing-an-invasion/articleshow/134486733.cms" target="_blank" rel="noopener">In 1930, US had a $57 million War Plan Red to invade Canada. Nine years before that Canada had Defence Scheme No. 1 fearing an invasion</a>
+      <div class="item-meta">The Times of India &middot; 2026-09-25T14:10:28Z</div>
+      <p class="item-desc">Canada&#x27;s Prime Minister Mark Carney has reportedly considered the possibility of a US invasion almost a century after the country devised a scheme to attack its neighbour. Even the US had a similar plan in 1930 named War Plan Red.</p>
+      <p class="item-extra">Canada has reportedly considered the possibility that US President Donald Trump could use the American military to pursue his long-stated goal of making Canada part of the United States. According to…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.rawstory.com/donald-trump-war-cuba-new/" target="_blank" rel="noopener">Leaked Army plans show another military invasion likely by end of year: report</a>
+      <div class="item-meta">Raw Story &middot; 2026-09-25T13:47:07Z</div>
+      <p class="item-desc">The U.S. Army Reserve is looking into whether it can supply military police, medical teams and other support units to U.S. Southern Command within the next four months in an apparent buildup to military action in Cuba, according to a new report.An internal Ar…</p>
+      
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://nypost.com/2026/09/25/us-news/canada-pm-mark-carney-confirms-hes-prepped-for-us-invasion/" target="_blank" rel="noopener">Canada PM Mark Carney confirms he’s prepped for US invasion: ‘Would be irresponsible not to’</a>
+      <div class="item-meta">New York Post &middot; 2026-09-25T11:00:27Z</div>
+      <p class="item-desc">Canadian Prime Minister Mark Carney confirmed in an interview this week that his government had prepared for the possibility of the US launching an invasion of Canada amid ongoing trade tensions.</p>
+      
+    </article>
+    <details class="more">
+      <summary>Show 3 more articles</summary>
+      
+    <article class="item">
+      <a class="item-title" href="http://foreignpolicy.com/2026/09/25/ethiopia-tigray-tplf-civil-war-abiy-amhara-afar-eritrea/" target="_blank" rel="noopener">Ethiopia Returns to Civil War</a>
+      <div class="item-meta">Foreign Policy <span class="moved-tag">reassigned from T02</span>&middot; 2026-09-25T20:33:44Z</div>
+      <p class="item-desc">The Tigray People’s Liberation Front, now allied with six other armed groups, hopes to oust Prime Minister Abiy Ahmed.</p>
+      <p class="item-extra">Welcome back to World Brief, where were looking at violent clashes across Ethiopia, the Vatican courting France, and a seven-day proposal to end the Iran war.
+Threats to Addis Ababa
+For nearly four…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://timesofindia.indiatimes.com/world/rest-of-world/14-kazakh-military-personnel-killed-during-naval-exercise-five-naval-officers-detained-over-negligence-suspicion/articleshow/134481976.cms" target="_blank" rel="noopener">14 Kazakh military personnel killed during naval exercise, five naval officers detained over negligence suspicion</a>
+      <div class="item-meta">The Times of India <span class="moved-tag">reassigned from T11</span>&middot; 2026-09-25T10:47:21Z</div>
+      <p class="item-desc">In a heartbreaking turn of events, 14 servicemen from Kazakhstan tragically perished during a naval exercise hindered by harsh weather conditions. In the aftermath, five defense officials were detained over alleged negligence regarding navigation protocols. R…</p>
+      <p class="item-extra">Follow Us On Social Media
+California crews digging 12 feet below an Oceanside infrastructure project uncovered limb bones, ribs and fragments that paleontologists say may belong to a thunder beast u…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.rte.ie/news/world/2026/0925/1592922-ethiopia-tigray/" target="_blank" rel="noopener">Fighting rages in Ethiopia as civil war resumes</a>
+      <div class="item-meta">RTE <span class="moved-tag">reassigned from T12</span>&middot; 2026-09-25T09:00:34Z</div>
+      <p class="item-desc">Ethiopian forces battled overnight to repel an assault by Tigray rebels in the Afar region, a humanitarian source today, with reports of an internet blackout in the north of the country.</p>
+      
+    </article>
+    </details>
+  </section>
+
+  <section class="topic" id="T02">
+    <h2>Humanitarian Crisis <span class="count">7</span></h2>
+    <p class="narrative">Multiple humanitarian crises are unfolding: Nepal faces flood displacement with WFP providing aid via truck and drone; Mexico reports over 500,000 households displaced by violence in five years; Yemen faces displacement, hunger, and water shortages; and Haiti&#x27;s displacement crisis is spreading beyond the capital with 1.5 million people displaced as hurricane risks mount. Food insecurity is projected to worsen due to El Niño conditions, and funding from wealthy nations to developing countries is declining sharply.</p>
+    
+    <article class="item">
+      <a class="item-title" href="https://www.aljazeera.com/video/newsfeed/2026/9/25/families-fleeing-yemens-war-face-displacement-hunger-and-water-shortages" target="_blank" rel="noopener">Families fleeing Yemen’s war face displacement, hunger and water shortages</a>
+      <div class="item-meta">Al Jazeera English &middot; 2026-09-25T18:15:43Z</div>
+      <p class="item-desc">Fighting between Houthi and government-aligned forces forces families out of their homes in Yemen.</p>
+      <p class="item-extra">As fighting intensifies between Houthi and government-aligned forces, families are being forced from their homes in Yemen and across the Red Sea. In Taiz, displaced families face water shortages, ina…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://press.un.org/en/2026/db260925" target="_blank" rel="noopener">2026/db260925.doc.htm</a>
+      <div class="item-meta">UN News <span class="moved-tag">reassigned from flagship-ru-ua</span>&middot; 2026-09-25T21:11:58Z</div>
+      <p class="item-desc">In Nepal, the World Food Programme (WFP) is delivering food and relief supplies to flood-affected communities in the north by truck, helicopter and humanitarian cargo drones.  It has provided 127 metric tons of food to more than 15,000 people and is now deliv…</p>
+      <p class="item-extra">The following is a near-verbatim transcript of todays briefing by Stéphane Dujarric, Spokesman for the Secretary-General.
+Did I say something or not yet?  Okay, welcome to Siberia.  Its cold.  Its f…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://biztoc.com/x/ccab1dfc2296d035" target="_blank" rel="noopener">Foods That Could Become More Expensive During El Niño</a>
+      <div class="item-meta">Biztoc.com &middot; 2026-09-26T09:07:24Z</div>
+      <p class="item-desc">One of the most intense El Niños on record is set to exacerbate global food insecurity and raise prices for agricultural commodities worldwide.
+The United Nations Food and Agriculture Organization said that world food prices in August were at their highest le…</p>
+      
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://economictimes.indiatimes.com/news/international/world-news/un-general-assembly-iran-talks-ukraine-ceasefire-and-ai-among-key-takeaways/articleshow/134497680.cms" target="_blank" rel="noopener">UN General Assembly: Iran talks, Ukraine ceasefire and AI among key takeaways</a>
+      <div class="item-meta">The Times of India &middot; 2026-09-26T05:20:45Z</div>
+      <p class="item-desc">World leaders gathered at the United Nations to discuss ongoing conflicts in Iran and Ukraine. Diplomatic talks between US and Iranian officials showed some progress amidst sharp rhetoric. Discussions focused on achieving limited ceasefires for grain exports …</p>
+      <p class="item-extra">Limousines whisked world leaders away from the United Nations on Friday after a week of speeches, meetings and hallway diplomacy.While they reached no breakthroughs on the world&#x27;s most intractable co…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://abcnews.com/International/wireStory/violence-displaced-members-half-million-mexican-households-past-136763786" target="_blank" rel="noopener">Violence displaced members of more than half a million Mexican households in past 5 years</a>
+      <div class="item-meta">Abcnews.com &middot; 2026-09-25T18:58:42Z</div>
+      <p class="item-desc">New figures from Mexico&#x27;s national statistics agency reveal that violence has forced people from more than half a million households in Mexico to flee their homes in the past five years</p>
+      <p class="item-extra">MEXICO CITY -- Violence has forcibly displaced people from more than half a million households across Mexico in the past five years, according to new figures released by Mexico&#x27;s national statistics …</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://wirehub.medianewsgroup.com/2026/09/25/new-humanitarian-players-hit-un-sidelines-in-search-of-galvanizing-force-to-counter-aid-cuts/" target="_blank" rel="noopener">New humanitarian players hit UN sidelines in search of galvanizing force</a>
+      <div class="item-meta">Medianewsgroup.com &middot; 2026-09-25T17:38:07Z</div>
+      <p class="item-desc">There have been sharp declines in funding sent by some of the richest countries to poorer ones.</p>
+      <p class="item-extra">By JAMES POLLARD
+NEW YORK (AP) New players hit the United Nations General Assembly sidelines this week as humanitarian groups searched for a counterweight to foreign aid cuts that have hampered glob…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://thediplomat.com/2026/09/from-idols-to-koica-south-koreas-disaster-support-for-nepal/" target="_blank" rel="noopener">From Idols to KOICA: South Korea’s Disaster Support for Nepal</a>
+      <div class="item-meta">The Diplomat <span class="moved-tag">reassigned from T13</span>&middot; 2026-09-25T16:54:00Z</div>
+      <p class="item-desc">Pop star donations and state aid work together to give Seoul a durable bond with Nepal.</p>
+      <p class="item-extra">Following the destructive August 26 floods in Nepal, Lee Know of the K-pop boy band Stray Kids donated 100 million won (about $72,600) through World Vision. After Lee Knows donation, his bandmateFeli…</p>
+    </article>
+  </section>
+
+  <section class="topic" id="T04">
+    <h2>Infectious Outbreak / Pandemic <span class="count">10</span></h2>
+    <p class="narrative">WHO is urging sustained investment to prepare for future pandemics; the DR Congo&#x27;s Ebola outbreak has spread to two new health zones; and researchers are using AI to map over 2,800 virus protein structures to accelerate pandemic preparedness. A global pandemic treaty has been signed but remains in limbo awaiting full implementation, and experts warn H5N1 avian influenza poses significant pandemic risk as it spreads across birds and mammals.</p>
+    
+    <article class="item">
+      <a class="item-title" href="https://www.npr.org/2026/09/25/g-s1-144948/pandemic-prevention-treaty-agreement-world-health-organization" target="_blank" rel="noopener">There&#x27;s a global pandemic treaty that&#x27;s signed -- and in &#x27;limbo.&#x27; What&#x27;s the holdup?</a>
+      <div class="item-meta">NPR &middot; 2026-09-25T15:57:35Z</div>
+      <p class="item-desc">The treaty aims to help the countries of the world prepare for — and defeat — any future pandemic. Why hasn&#x27;t it gone into effect?</p>
+      <p class="item-extra">The World Health Organization adopted the pandemic agreement
+ in May 2025, aimed at making the world better prepared for the next global health crisis but countries were only able to get the votes b…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.aljazeera.com/news/2026/9/25/dr-congos-ebola-outbreak-spreads-to-two-new-health-zones-who-says" target="_blank" rel="noopener">DR Congo’s Ebola outbreak spreads to two new health zones, WHO says</a>
+      <div class="item-meta">Al Jazeera English <span class="moved-tag">reassigned from T13</span>&middot; 2026-09-25T22:16:35Z</div>
+      <p class="item-desc">Health workers struggle as new Ebola cases are found in border regions of South Ubangi and Haut-Uele.</p>
+      <p class="item-extra">The Ebola virus caused by the Bundibugyo strain has spread to two new health zones in the Democratic Republic of the Congo, according to the World Health Organization (WHO).
+New cases were found in …</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://punchng.com/who-urges-sustained-investment-to-fight-future-pandemic-threats/" target="_blank" rel="noopener">WHO urges sustained investment to fight future pandemic threats</a>
+      <div class="item-meta">The Punch &middot; 2026-09-26T07:54:20Z</div>
+      <p class="item-desc">The World Health Organisation has warned that continued action and investment are needed to sustain progress and prepare the world for future pandemic thre
+
+Read More: https://punchng.com/who-urges-sustained-investment-to-fight-future-pandemic-threats/</p>
+      
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.nature.com/articles/s41467-026-78077-9.pdf" target="_blank" rel="noopener">Early insights into predicted efficacy of Ebola monoclonal antibodies for the 2026 Bundibugyo virus disease outbreak</a>
+      <div class="item-meta">Nature.com &middot; 2026-09-26T00:00:00Z</div>
+      <p class="item-desc">Rapid predictive methods narrow the solution space in an outbreak setting. In this computational study, the authors find that cocktail treatments for Ebola Zaire could be more effective than monotherapies against the 2026 Bundibugyo strain.</p>
+      <p class="item-extra">&lt;li&gt;African Center of Excellence in Bioinformatics and Data-Intensive Sciences, Makerere University, Kampala, Uganda
+Kevin Cissy Nabukeera, Syrus Semawule, Andrew Walakira, Ronald Galiwango &amp;amp; Da…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://abcnews.com/Health/wireStory/build-momentum-pandemic-preparedness-hits-speed-bump-136769702" target="_blank" rel="noopener">UN tries to build momentum on pandemic preparedness, but hits a speed bump</a>
+      <div class="item-meta">Abcnews.com &middot; 2026-09-25T23:03:23Z</div>
+      <p class="item-desc">Six years after the COVID-19 pandemic began, the U.N. General Assembly’s leader and health officials are seeking to make sure that the lurking possibility of another worldwide disease emergency stays on the global agenda</p>
+      <p class="item-extra">NEW YORK -- Six years after COVID-19 forced the U.N. General Assembly &#x27;s annual meeting of world leaders to go virtual for the first time ever, pandemics no longer dominate the conversation at the gl…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://press.un.org/en/2026/sgsm23306.doc.htm" target="_blank" rel="noopener">Addressing High-Level Meeting, Secretary-General Stresses Need for Global Approach to Pandemic Threats, Based on Equity, Solidarity, Multilateral Action</a>
+      <div class="item-meta">UN News &middot; 2026-09-25T19:50:23Z</div>
+      <p class="item-desc">Following are Secretary-General António Guterres’ remarks, delivered by Deputy Secretary-General Amina Mohammed, at the High-Level Meeting on Pandemic Preparedness, Prevention and Response, in New York today:</p>
+      <p class="item-extra">A required part of this site couldnt load. This may be due to a browser
+ extension, network issues, or browser settings. Please check your
+ connection, disable any ad blockers, or try using a diffe…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://thechronicle.com.gh/h5n1-could-be-high-risk-pandemic-source-imperial-expert/" target="_blank" rel="noopener">H5N1 could be high-risk pandemic source — Imperial expert</a>
+      <div class="item-meta">Thechronicle.com.gh &middot; 2026-09-25T19:44:10Z</div>
+      <p class="item-desc">The highly pathogenic H5N1 avian influenza virus could pose a high risk as a source of a future pandemic, as its spread across birds and mammals continues to expand, a leading infectious disease expert at Imperial College London has warned. Professor Wendy Ba…</p>
+      
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358741" target="_blank" rel="noopener">Societal values versus individual rights with respect to public health related practices during the COVID-19 pandemic in the U.S.</a>
+      <div class="item-meta">Plos.org &middot; 2026-09-25T16:25:54Z</div>
+      <p class="item-desc">Policies aimed at limiting COVID-19 spread during the pandemic generated dissatisfaction and resistance as they limited privileges or were perceived to infringe on individuals’ rights. Simultaneously, pandemic control and risk mitigation practices are seeming…</p>
+      <p class="item-extra">Abstract
+Policies aimed at limiting COVID-19 spread during the pandemic generated dissatisfaction and resistance as they limited privileges or were perceived to infringe on individuals rights. Simul…</p>
+    </article>
+    <details class="more">
+      <summary>Show 2 more articles</summary>
+      
+    <article class="item">
+      <a class="item-title" href="https://economictimes.indiatimes.com/news/international/global-trends/covid-19-had-a-scientific-head-start-the-next-pandemic-virus-may-be-a-stranger-nvidia-and-google-deepmind-are-using-ai-to-map-2800-viruses-before-the-next-outbreak/articleshow/134485673.cms" target="_blank" rel="noopener">COVID-19 had a scientific head start; the next pandemic virus may be a stranger. NVIDIA and Google DeepMind are using AI to map 2,800 viruses before the next outbreak</a>
+      <div class="item-meta">The Times of India &middot; 2026-09-25T12:56:14Z</div>
+      <p class="item-desc">An international collaboration has developed a dataset of predicted protein structures from more than 2,800 viruses. This data is accessible through the AlphaFold Database, aiding in pandemic preparedness. Researchers can accelerate their investigations of ne…</p>
+      <p class="item-extra">The outbreak of COVID-19 demonstrated a potential issue that might be even more difficult to handle in future pandemics - scientists do not necessarily have many years of research ready for them once…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://news.un.org/en/story/2026/09/1168437" target="_blank" rel="noopener">LIVE: Six years on from COVID-19, is the world ready for the next pandemic?</a>
+      <div class="item-meta">UN News &middot; 2026-09-25T12:00:00Z</div>
+      <p class="item-desc">COVID-19 killed millions, shattered health systems and brought the global economy to a virtual standstill. World leaders are meeting Friday to review the lessons learned and cement a new approach to prevention and preparation for the next pandemic. Hopes are …</p>
+      <p class="item-extra">Six years after COVID-19 killed millions, battered health systems, disrupted lives and brought the global economy to a virtual standstill, the world is still grappling with how we can prepare better …</p>
+    </article>
+    </details>
+  </section>
+
+  <section class="topic" id="T06">
+    <h2>Mass Uprising / Regime-Threatening Unrest <span class="count">3</span></h2>
+    <p class="narrative">Spanish riot police forcibly evicted an 87-year-old woman after an investment firm raised her rent 275%, sparking widespread riots across Spain. India&#x27;s Cockroach Janta Party (CJP) announced nationwide protests beginning October 2 if Chief Election Commissioner Gyanesh Kumar does not resign by Saturday.</p>
+    
+    <article class="item">
+      <a class="item-title" href="https://www.dailymail.com/news/article-16159733/Moment-Spanish-riot-cops-smash-way-barricaded-door-87-year-old-womans-flat-evict-investment-brothers-hiked-rent-275-case-sparked-riots.html" target="_blank" rel="noopener">Moment Spanish riot cops smash their way through barricaded door of 87-year-old woman&#x27;s flat to evict her after investment brothers hiked her rent 275% in case that sparked riots</a>
+      <div class="item-meta">Dailymail.com &middot; 2026-09-25T10:19:00Z</div>
+      <p class="item-desc">Maricarmen was forcibly evicted from home of 70 years on Wednesday after an investment firm hiked her rent by 275 per cent sparking furious riots across Spain.</p>
+      <p class="item-extra">Dramatic footage shows Spanish riot police forcing their way into an 87-year-old woman&#x27;s Madrid flat after supporters piled furniture against the door to stop her eviction.
+Maricarmen Abascal was fo…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://timesofindia.indiatimes.com/india/nationwide-protests-from-october-2-if-gyanesh-doesnt-resign-by-saturday-cjps-dipke-amid-sir-row/articleshow/134477395.cms" target="_blank" rel="noopener">Nationwide protests from October 2 if Gyanesh doesn&#x27;t resign by Saturday: CJP&#x27;s Dipke amid SIR row</a>
+      <div class="item-meta">The Times of India &middot; 2026-09-25T06:30:59Z</div>
+      <p class="item-desc">NEW DELHI: CJP founder Abhijeet Dipke on Friday said that the party would launch nationwide protests from October 2 if Chief Election Commissioner Gyanesh</p>
+      <p class="item-extra">View All Comments 
+Share your thoughts in the comments
+InsightfulAgreeDisagreeSkepticalConcerningPromisingWorth ReadingBig Development
+Be respectful · TOI community guidelines</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://economictimes.indiatimes.com/news/india/cjp-says-will-launch-nationwide-protests-from-october-2-if-cec-gyanesh-kumar-doesnt-quit-by-saturday/articleshow/134477108.cms" target="_blank" rel="noopener">CJP says will launch &#x27;nationwide protests&#x27; from October 2 if CEC Gyanesh Kumar doesn’t quit by Saturday</a>
+      <div class="item-meta">The Times of India &middot; 2026-09-25T06:14:49Z</div>
+      <p class="item-desc">The Cockroach Janta Party (CJP) has announced nationwide protests from October 2 if Chief Election Commissioner Gyanesh Kumar does not resign by Saturday. CJP founder Abhijit Dipke said the protests will begin in Mumbai on Gandhi Jayanti and spread to cities …</p>
+      <p class="item-extra">The Cockroach Janta Party (CJP) has threatened to launch nationwide protests from October 2 if Chief Election Commissioner Gyanesh Kumar does not resign by Saturday, September 26, according to a stat…</p>
+    </article>
+  </section>
+
+  <section class="topic" id="T08">
+    <h2>VEO / Regional Insecurity <span class="count">7</span></h2>
+    <p class="narrative">Yemen&#x27;s leader has offered amnesty to Houthi defectors and called for public enlistment; Pakistani and Turkish military chiefs are heading to Riyadh for urgent talks regarding potential involvement in Saudi operations against Houthis. Control over the Strait of Hormuz and Bab el-Mandeb remains a focal point of geopolitical tension, and North Korea has a documented history of irregular warfare and asymmetric operations.</p>
+    
+    <article class="item">
+      <a class="item-title" href="https://www.aljazeera.com/news/2026/9/26/yemeni-leader-urges-public-to-enlist-offers-amnesty-to-houthi-defectors" target="_blank" rel="noopener">Yemeni leader urges public to enlist, offers amnesty to Houthi defectors</a>
+      <div class="item-meta">Al Jazeera English <span class="moved-tag">reassigned from T05</span>&middot; 2026-09-26T03:10:43Z</div>
+      <p class="item-desc">Rashad al-Alimi pledges amnesty for Houthi defectors in first speech since losing ground on the western Red Sea coast.</p>
+      <p class="item-extra">The head of Yemens governing body has called on people to mobilise and join the Saudi-backed armed forces as it seeks to counter advances made by the Houthis towards the critical Bab al-Mandeb strait…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.aljazeera.com/news/2026/9/25/pakistan-turkiye-edge-closer-towards-joining-saudi-war-against-houthis" target="_blank" rel="noopener">Pakistan, Turkiye edge closer towards joining Saudi war against Houthis</a>
+      <div class="item-meta">Al Jazeera English <span class="moved-tag">reassigned from T14</span>&middot; 2026-09-25T11:22:45Z</div>
+      <p class="item-desc">Pakistani and Turkish military chiefs head to Riyadh for urgent talks, but both countries remain cautious on involvement</p>
+      <p class="item-extra">Islamabad, Pakistan Turkiye and Pakistan are rushing their military chiefs to Riyadh in response to a call from Saudi Arabia for an urgent meeting on implementing their mutual defence agreement, amid…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://punchng.com/soldiers-thwart-terrorist-attack-recover-ak-47-in-kaduna/" target="_blank" rel="noopener">Soldiers thwart terrorist attack, recover AK-47 in Kaduna</a>
+      <div class="item-meta">The Punch &middot; 2026-09-26T08:23:15Z</div>
+      <p class="item-desc">Troops have thwarted a suspected terrorist attack in Kachia LGA, Kaduna State, recovering an AK-47 rifle and arresting a suspected criminal in separate ope
+
+Read More: https://punchng.com/soldiers-thwart-terrorist-attack-recover-ak-47-in-kaduna/</p>
+      <p class="item-extra">Troops of the Joint Task Force North-West, Operation FANSAN YAMMA, have thwarted a suspected terrorist attack, recovered an AK-47 rifle and arrested a suspected criminal during separate operations in…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.thehindubusinessline.com/news/world/how-three-colonial-powers-gained-and-then-lost-control-over-the-straits-of-hormuz-bab-el-mandeb/article71507504.ece" target="_blank" rel="noopener">How three colonial powers gained, and then lost, control over the straits of Hormuz, Bab el-Mandeb</a>
+      <div class="item-meta">BusinessLine <span class="moved-tag">reassigned from T14</span>&middot; 2026-09-25T07:35:28Z</div>
+      <p class="item-desc">Over recent months, the straits of Hormuz and Bab el-Mandeb have become synonymous with geopolitical jostling. Whoever controls these narrow waterways governs the flow of maritime traffic from the Arabian Sea and the Red Sea to the Indian Ocean – and with it,…</p>
+      
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://warontherocks.com/north-koreas-irregular-warfare-after-ukraine/" target="_blank" rel="noopener">North Korea’s Irregular Warfare After Ukraine</a>
+      <div class="item-meta">War on the Rocks <span class="moved-tag">reassigned from T14</span>&middot; 2026-09-25T07:30:29Z</div>
+      <p class="item-desc">Pyongyang has a long history of conducting irregular warfare and asymmetric operations: Look no further than the 1968 Blue House raid or the 1996 submarine incursion as the most pressing examples. More often than not, North Korea failed to achieve the intende…</p>
+      
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.juancole.com/2026/09/colonial-empires-hormuz.html" target="_blank" rel="noopener">How 3 Colonial Empires Won and Lost Hormuz and Bab el-Mandeb</a>
+      <div class="item-meta">Juancole.com <span class="moved-tag">reassigned from T14</span>&middot; 2026-09-25T04:06:14Z</div>
+      <p class="item-desc">While the British were famous for the tea trade, the Dutch came to dominate coffee, previously the domain of traders based in Mokha</p>
+      <p class="item-extra">By Ibrahim Al-Marashi, IE University; California State University San Marcos
+(The Conversation) – Over recent months, the straits of Hormuz and Bab el-Mandeb have become synonymous with geopolitical…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://economictimes.indiatimes.com/news/international/world-news/pakistani-pm-shehbaz-sharif-refuses-to-answer-questions-on-hafiz-saeed-let-during-unga-visit/articleshow/134472702.cms" target="_blank" rel="noopener">Pakistani PM Shehbaz Sharif refuses to answer questions on Hafiz Saeed, LeT during UNGA visit</a>
+      <div class="item-meta">The Times of India <span class="moved-tag">reassigned from T14</span>&middot; 2026-09-25T01:07:57Z</div>
+      <p class="item-desc">During the 81st United Nations General Assembly, Pakistan Prime Minister Shehbaz Sharif avoided questions about Hafiz Saeed. Reporters asked him multiple times about his stance on terrorism and Saeed&#x27;s prosecution. India&#x27;s representative criticized Pakistan f…</p>
+      <p class="item-extra">New York: Pakistan Prime Minister Shehbaz Sharif on Thursday (local time) refused to answer questions regarding Lashkar-e-Taiba (LeT) chief Hafiz Saeed during his visit to the United Nations headquar…</p>
+    </article>
+  </section>
+
+  <section class="topic" id="T10">
+    <h2>Military Modernization <span class="count">3</span></h2>
+    <p class="narrative">Poland is offering to pay $15,000 annually per U.S. soldier and cover infrastructure costs to secure a permanent American military base on its territory. The Pentagon is requesting $30.3 million over five years to develop an AI-powered lie detector system called &#x27;Polygraph+&#x27; or &#x27;Polygraph Next,&#x27; and defense stocks have moved into a major investment theme.</p>
+    
+    <article class="item">
+      <a class="item-title" href="https://www.rferl.org/a/poland-financial-incentives-us-military-base/33864526.html" target="_blank" rel="noopener">Poland Offers Financial Incentives To US As Talks On Military Base Advance, Minister Tells RFE/RL</a>
+      <div class="item-meta">Radio Free Europe/ Radio Liberty &middot; 2026-09-25T22:29:22Z</div>
+      <p class="item-desc">Poland is offering to pay $15,000 a year for every US soldier stationed on its territory and cover infrastructure costs as Warsaw and Washington move closer to agreeing on establishing a permanent American military base.</p>
+      <p class="item-extra">WASHINGTON -- Poland is offering to pay $15,000 a year for every US soldier stationed on its territory and cover infrastructure costs as Warsaw and Washington move closer to agreeing on establishing …</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://biztoc.com/x/7ff2e5425f4b4fcd" target="_blank" rel="noopener">PPA Is a One-Ticker Bet on Rising Defense Spending. Nearly 30% of Holdings Are in Just Four Stocks</a>
+      <div class="item-meta">Biztoc.com &middot; 2026-09-25T14:53:15Z</div>
+      <p class="item-desc">The post PPA Is a One-Ticker Bet on Rising Defense Spending. Nearly 30% of Holdings Are in Just Four Stocks appeared first on 24/7 Wall St..
+Defense stocks have moved from a niche corner of the market to one of its clearest long-term investment themes. The Un…</p>
+      
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/" target="_blank" rel="noopener">The Pentagon wants $30 million to build an AI-powered lie detector</a>
+      <div class="item-meta">MIT Technology Review &middot; 2026-09-25T09:16:25Z</div>
+      <p class="item-desc">The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called “Polygraph+” or “Polygraph Next”, will focus on scoring algorithms that use a…</p>
+      <p class="item-extra">The move comes at a time of high tension within the Department of Defense. Under Defense Secretary Pete Hegseth, the Pentagon has been increasingly turning to polygraph tests in an attempt to find th…</p>
+    </article>
+  </section>
+
+  <section class="topic" id="T11">
+    <h2>Military Exercise <span class="count">3</span></h2>
+    <p class="narrative">Sweden conducted air raid shelter simulations with civilians rotating to manually operate oxygen crank systems; India and Mongolia are conducting the 18th edition of their &#x27;Nomadic Elephant 2026&#x27; joint military exercise in Uttarakhand from September 21 to October 3. Preparatory training for &#x27;Power of Unity 2026&#x27; joint military exercise is ongoing in Azerbaijan.</p>
+    
+    <article class="item">
+      <a class="item-title" href="https://www.thelocal.se/20260926/swedes-spend-night-in-bunker-to-prepare-for-air-raids" target="_blank" rel="noopener">Swedes spend night in bunker to prepare for air raids</a>
+      <div class="item-meta">The Local Sweden <span class="moved-tag">reassigned from flagship-ru-ua</span>&middot; 2026-09-26T07:13:11Z</div>
+      <p class="item-desc">In a concrete bunker in western Sweden, almost 40 people take turns to turn a green crank to secure their oxygen supply in a simulation of a night spent in an air raid shelter.</p>
+      
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://economictimes.indiatimes.com/news/defence/india-mongolia-joint-military-exercise-nomadic-elephant-2026-underway-in-uttarakhand/articleshow/134499880.cms" target="_blank" rel="noopener">India-Mongolia joint military exercise &#x27;Nomadic Elephant 2026&#x27; underway in Uttarakhand</a>
+      <div class="item-meta">The Times of India &middot; 2026-09-26T07:32:12Z</div>
+      <p class="item-desc">The 18th edition of the India-Mongolia Joint Military Exercise &#x27;Nomadic Elephant 2026&#x27; is being held from September 21 to October 3, 2026, at the Foreign Training Node in Pithoragarh, with troops of the Indian Army and Mongolian Armed Forces undertaking inten…</p>
+      <p class="item-extra">Pithoragarh: The 18th edition of the India-Mongolia Joint Military Exercise &#x27;Nomadic Elephant 2026&#x27; is being held from September 21 to October 3, 2026, at the Foreign Training Node in Pithoragarh, wi…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.globalsecurity.org/military/library/news/2026/09/mil-260925-azertac02.htm" target="_blank" rel="noopener">Preparatory training for &quot;Power of Unity - 2026&quot; joint military exercise held</a>
+      <div class="item-meta">Globalsecurity.org &middot; 2026-09-25T12:00:00Z</div>
+      <p class="item-desc">Training within the &quot;Power of Unity - 2026&quot; joint military exercise, being conducted in the Republic of Azerbaijan, is continuing successfully, the Ministry of Defense told AZERTAC.</p>
+      <p class="item-extra">Azerbaijan State News Agency - (AZERTAC)
+25.09.2026 [12:29] Baku, September 25, AZERTAC
+Training within the &quot;Power of Unity - 2026&quot; joint military exercise, being conducted in the Republic of Azerb…</p>
+    </article>
+  </section>
+
+  <section class="topic" id="T13">
+    <h2>Migration / Refugee Crisis <span class="count">12</span></h2>
+    <p class="narrative">Spanish soldiers have been documented beating migrants with batons during enforcement operations in Ceuta following an &#x27;invasion&#x27; of the African enclave; Syria&#x27;s Kurdish refugees are beginning to return to homes in Afrin after years in exile with varying experiences. The RCCG has begun repatriating 500 Nigerians from South Africa, with the first batch of 105 arriving; Poland halted asylum claim registration at the Belarus border in March 2025 and is pushing Europe to adopt similar measures. Haiti&#x27;s displacement crisis is accelerating with 1.5 million people forcibly displaced as hurricane risks mount, and a former U.S. Marine is desperately seeking his brother in a Qatar refugee camp facing closure.</p>
+    
+    <article class="item">
+      <a class="item-title" href="https://www.aljazeera.com/features/2026/9/26/an-unexpected-welcome-syrian-kurds-return-to-their-homes-in-afrin" target="_blank" rel="noopener">An unexpected welcome: Syrian Kurds return to their homes in Afrin</a>
+      <div class="item-meta">Al Jazeera English &middot; 2026-09-26T10:52:03Z</div>
+      <p class="item-desc">Syrian Kurds are beginning to return to their homes in Afrin after years in exile, but have different experiences.</p>
+      <p class="item-extra">Afrin, Syria When Dilshad Hamdo walked into the home his father built 30 years ago, there was no place to sit. The stone walls were intact, but the rooms had been stripped bare. Yet, standing in the …</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.aljazeera.com/video/newsfeed/2026/9/25/families-fleeing-yemens-war-face-displacement-hunger-and-water-shortages" target="_blank" rel="noopener">Families fleeing Yemen’s war face displacement, hunger and water shortages</a>
+      <div class="item-meta">Al Jazeera English &middot; 2026-09-25T18:15:43Z</div>
+      <p class="item-desc">Fighting between Houthi and government-aligned forces forces families out of their homes in Yemen.</p>
+      <p class="item-extra">As fighting intensifies between Houthi and government-aligned forces, families are being forced from their homes in Yemen and across the Red Sea. In Taiz, displaced families face water shortages, ina…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.dailymail.com/news/article-16160043/Videos-Spanish-soldiers-chasing-beating-Ceuta-migrants-batons.html" target="_blank" rel="noopener">Videos show Spanish soldiers chasing down and beating Ceuta migrants with batons as chaos continues following &#x27;invasion&#x27; of African enclave</a>
+      <div class="item-meta">Dailymail.com <span class="moved-tag">reassigned from T01</span>&middot; 2026-09-25T17:37:25Z</div>
+      <p class="item-desc">Harrowing new videos have revealed how Spanish soldiers sent to Ceuta to keep order in the city have been brutally beating migrants.</p>
+      <p class="item-extra">A series of videos have emerged showing Spanish soldiers chasing down and beating migrants in the African enclave of Ceuta.
+The city was overrun by as many as 80,000 migrants coming from Morocco in …</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.breitbart.com/europe/2026/09/25/socialist-spanish-pm-blames-inequality-and-misinformation-for-ceuta-invasion-in-u-n-speech/" target="_blank" rel="noopener">Socialist Spanish PM Tells U.N. That Inequality and Misinformation to Blame for Ceuta Migrant Invasion</a>
+      <div class="item-meta">Breitbart News <span class="moved-tag">reassigned from T01</span>&middot; 2026-09-25T10:35:42Z</div>
+      <p class="item-desc">In an evasive address to the United Nations General Assembly in New York, Spanish Prime Minister Pedro Sánchez cast himself as the victim of international reactionary forces while claiming to be a champion of globalist socialism.
+The post Socialist Spanish PM…</p>
+      
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.irishtimes.com/opinion/2026/09/26/irelands-tax-and-welfare-system-must-change-to-keep-up-with-migrant-workforce/" target="_blank" rel="noopener">David McWilliams: Ireland’s tax and welfare system must change to keep up with migrant workforce</a>
+      <div class="item-meta">The Irish Times <span class="moved-tag">reassigned from T02</span>&middot; 2026-09-26T05:00:00Z</div>
+      <p class="item-desc">If we want to take in lots of low-skilled migrants – to do the jobs the Irish won’t do – financial realities must be addressed</p>
+      <p class="item-extra">Ireland is experiencing a surge in immigration. Last year, the total population rose by 66,900, bringing it to 5,525,600 the highest level in the Republic since the Famine. In terms of who was coming…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://punchng.com/adeboye-welcomes-105-nigerians-after-rccg-funded-repatriation-from-south-africa/" target="_blank" rel="noopener">Adeboye welcomes 105 Nigerians after RCCG-funded repatriation from South Africa</a>
+      <div class="item-meta">The Punch &middot; 2026-09-25T13:26:16Z</div>
+      <p class="item-desc">Pastor Enoch Adeboye has welcomed 105 Nigerians repatriated from South Africa, the first batch of a humanitarian intervention funded by the RCCG.
+
+Read More: https://punchng.com/adeboye-welcomes-105-nigerians-after-rccg-funded-repatriation-from-south-africa/</p>
+      <p class="item-extra">The General Overseer of the Redeemed Christian Church of God, Pastor Enoch Adeboye, has welcomed Nigerians recently repatriated from South Africa under the churchs humanitarian intervention.
+Adeboye…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.globalsecurity.org/military/library/news/2026/09/mil-260925-iom01.htm" target="_blank" rel="noopener">New IOM Data: Nearly 1.5 Million Displaced in Haiti as Hurricane Risks Mount</a>
+      <div class="item-meta">Globalsecurity.org &middot; 2026-09-25T12:00:00Z</div>
+      <p class="item-desc">New data from the International Organization for Migration (IOM) released this week show that Haiti&#x27;s displacement crisis is spreading beyond the capital, with some of the country&#x27;s sharpest increases now occurring in regions that were once considered relativ…</p>
+      <p class="item-extra">International Organization for Migration
+News - Global25 September 2026
+Port-au-Prince/Geneva, 25 September 2026 -- New data from the International Organization for Migration (IOM) released this we…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.globalsecurity.org/military/library/news/2026/09/mil-260925-unsc01.htm" target="_blank" rel="noopener">With 117 Million People Forcibly Displaced, UN Refugee Chief Tells Security Council &#x27;When Peace Fails, People Move&#x27;</a>
+      <div class="item-meta">Globalsecurity.org &middot; 2026-09-25T12:00:00Z</div>
+      <p class="item-desc">&quot;Displacement is rapidly outpacing solutions,&quot; warned today the head of the Office of the United Nations High Commissioner for Refugees (UNHCR) in his first Security Council address since his election to the post in December 2025, urging the 15-member organ t…</p>
+      <p class="item-extra">Meetings CoverageSecurity Council
+10229th Meeting (AM)
+SC/1646325 September 2026
+&quot;Displacement is rapidly outpacing solutions,&quot; warned today the head of the Office of the United Nations High Commi…</p>
+    </article>
+    <details class="more">
+      <summary>Show 4 more articles</summary>
+      
+    <article class="item">
+      <a class="item-title" href="https://abcnews.com/Business/wireStory/poland-halted-asylum-claims-belarus-border-now-europe-136744786" target="_blank" rel="noopener">Poland halted asylum claims at the Belarus border and now wants Europe to follow its example</a>
+      <div class="item-meta">Abcnews.com &middot; 2026-09-25T06:31:35Z</div>
+      <p class="item-desc">Poland stopped registering asylum applications from migrants entering from Belarus in March 2025, calling it a temporary emergency measure</p>
+      <p class="item-extra">WARSAW, Poland -- When Poland stopped registering asylum applications from migrants entering from Belarus in March 2025, authorities presented it as a temporary emergency measure to counter what they…</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://punchng.com/rccg-begins-repatriation-of-500-nigerians-from-safrica/" target="_blank" rel="noopener">RCCG begins repatriation of 500 Nigerians from S’Africa</a>
+      <div class="item-meta">The Punch &middot; 2026-09-25T01:06:14Z</div>
+      <p class="item-desc">The Redeemed Christian Church of God has begun the repatriation of 500 Nigerians from South Africa, with the first batch of 100 arriving in Lagos.
+
+Read More: https://punchng.com/rccg-begins-repatriation-of-500-nigerians-from-safrica/</p>
+      <p class="item-extra">One hundred Nigerians repatriated from South Africa through the humanitarian intervention of the Redeemed Christian Church of God arrived at the Murtala Muhammed International Airport, Ikeja, Lagos, …</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.globalsecurity.org/military/library/news/2026/09/mil-260925-rferl01.htm" target="_blank" rel="noopener">As Deadline Looms, Ex-US Marine Desperately Seeks Brother At Afghan Refugee Camp In Qatar</a>
+      <div class="item-meta">Globalsecurity.org <span class="moved-tag">reassigned from T14</span>&middot; 2026-09-25T12:00:00Z</div>
+      <p class="item-desc">Mohammad Masood Jamshidi was a security guard at the US consulate in Herat when it was attacked by Taliban bombers. He hoped to get asylum in the United States but now fears deportation to the Democratic Republic of Congo (DRC).</p>
+      <p class="item-extra">By Ray Furlong and RFE/RL&#x27;s Radio Azadi September 25, 2026
+Mohammad Masood Jamshidi was a security guard at the US consulate in Herat when it was attacked by Taliban bombers. He hoped to get asylum …</p>
+    </article>
+
+    <article class="item">
+      <a class="item-title" href="https://www.rferl.org/a/afghan-refugee-camp-qatar-closure-us-visas/33863540.html" target="_blank" rel="noopener">As Deadline Looms, Ex-US Marine Desperately Seeks Brother At Afghan Refugee Camp In Qatar</a>
+      <div class="item-meta">Radio Free Europe/ Radio Liberty <span class="moved-tag">reassigned from T14</span>&middot; 2026-09-25T10:26:35Z</div>
+      <p class="item-desc">A former US Marine has spent days trying to see his brother at a camp in Qatar holding Afghan refugees in limbo after plans to bring them to the United States were blocked by a presidential executive order. The camp is due to close on September 30, and the in…</p>
+      <p class="item-extra">Mohammad Masood Jamshidi was a security guard at the US consulate in Herat when it was attacked by Taliban bombers. He hoped to get asylum in the United States but now fears deportation to the Democr…</p>
+    </article>
+    </details>
+  </section>
+</main>
+</body>
+</html>
