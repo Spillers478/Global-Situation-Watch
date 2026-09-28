@@ -42,11 +42,26 @@ as every other optional Claude-dependent layer in this pipeline
 One call per topic, not chunked like redteam.py, because the input here
 is already small (at most MAX_ARTICLES_PER_TOPIC articles, title+
 description only) and the output is compact structured JSON, not a
-per-article line -- comfortably inside MAX_TOKENS_PER_CALL, so the
-original chunking/truncation problem redteam.py's docstring describes
-doesn't apply at this scale. A JSON-parse failure for one topic just
-means that topic gets no grouping/contradiction data; it never blocks or
-breaks the rest of the page.
+per-article line. A JSON-parse failure for one topic just means that
+topic gets no grouping/contradiction data; it never blocks or breaks the
+rest of the page.
+
+Retried up to MAX_ATTEMPTS on a failed or truncated call, same pattern
+as redteam.py's classify_topic -- a busy topic (near the
+MAX_ARTICLES_PER_TOPIC cap: the most syndicated wire coverage, the most
+groups, the most contradiction candidates to write out) produces the
+largest response and is exactly the case most likely to hit a transient
+failure or run past MAX_TOKENS_PER_CALL, so a single-shot call with no
+retry silently drops precisely the topics this feature matters most for.
+(First shipped version of this script had no retry and no size margin
+for that reason, and both flagship topics -- capped at
+MAX_ARTICLES_PER_TOPIC, the two busiest topics on the page -- came back
+empty on the first real run. Fixed here.)
+
+Writes data/<date>/dedup/_report.json: {"topics": [...succeeded],
+"skipped": [...too few articles], "failed": [...no result after
+MAX_ATTEMPTS]} so a silent per-topic failure like that is visible
+without digging through GitHub Actions logs.
 
 Requires ANTHROPIC_API_KEY (same secret as redteam.py/synthesize.py).
 Uses Sonnet, not Haiku -- getting a contradiction flag wrong (or missing
@@ -57,6 +72,7 @@ import json
 import os
 import re
 import sys
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -69,7 +85,20 @@ MODEL = "claude-sonnet-5"
 # Same cap redteam.py uses for its per-topic input -- keeps this call's
 # prompt and output size bounded regardless of how noisy a topic's day was.
 MAX_ARTICLES_PER_TOPIC = 25
-MAX_TOKENS_PER_CALL = 4096
+# Matches redteam.py's per-call budget. A busy, near-the-cap topic's
+# response scales with how much duplication and how many contradiction
+# candidates it actually has -- the two flagship topics (always at the
+# cap) turned out to need more room than the original 4096 estimate gave
+# them; see the module docstring.
+MAX_TOKENS_PER_CALL = 8192
+
+# Same retry shape as redteam.py's classify_topic: on a failed or
+# truncated call, wait and try the whole topic again rather than giving
+# up after one attempt -- see the module docstring for why the busiest
+# topics are exactly the ones a single-shot call is most likely to lose.
+MAX_ATTEMPTS = 3
+REQUEST_PAUSE_SECONDS = 0.5
+RETRY_PAUSE_SECONDS = 3.0
 
 VALID_CLAIM_TYPES = {"figures", "attribution", "outcome"}
 _GROUP_LETTER_RE = re.compile(r"^[a-z]$")
@@ -120,6 +149,31 @@ def parse_json_response(text):
         if text.startswith("json"):
             text = text[4:]
     return json.loads(text.strip())
+
+
+def call_with_retry(client, topic_id, label, articles):
+    """One topic's call, retried up to MAX_ATTEMPTS on failure (bad JSON,
+    truncation, or an API/network error the SDK's own retries didn't
+    absorb) -- see the module docstring. Returns (result, last_error):
+    result is None only if every attempt failed."""
+    prompt = build_prompt(label, articles)
+    last_error = None
+    for attempt in range(1, MAX_ATTEMPTS + 1):
+        if attempt > 1:
+            time.sleep(RETRY_PAUSE_SECONDS * (attempt - 1))
+        try:
+            response = client.messages.create(
+                model=MODEL,
+                max_tokens=MAX_TOKENS_PER_CALL,
+                messages=[{"role": "user", "content": prompt}],
+            )
+            text = "".join(b.text for b in response.content if getattr(b, "type", None) == "text")
+            raw = parse_json_response(text)
+            return validate_and_resolve(raw, articles), None
+        except Exception as e:
+            last_error = f"{type(e).__name__}: {e}"
+            print(f"  {topic_id}: attempt {attempt}/{MAX_ATTEMPTS} failed -- {last_error}", file=sys.stderr)
+    return None, last_error
 
 
 def validate_and_resolve(raw, articles):
@@ -228,27 +282,19 @@ def main():
     client = anthropic.Anthropic(api_key=api_key)
     out_dir.mkdir(parents=True, exist_ok=True)
 
-    written, skipped, failed = 0, 0, 0
+    succeeded, skipped, failed = [], [], []
     for topic_id, label in all_topic_defs():
         articles = build_brief.dedupe(build_brief.load_articles(data_dir, topic_id))[:MAX_ARTICLES_PER_TOPIC]
         articles = [a for a in articles if a.get("url")]  # can't key a group without a stable id
         if len(articles) < 2:
-            skipped += 1
+            skipped.append(topic_id)
             continue  # nothing to group or compare
 
-        prompt = build_prompt(label, articles)
-        try:
-            response = client.messages.create(
-                model=MODEL,
-                max_tokens=MAX_TOKENS_PER_CALL,
-                messages=[{"role": "user", "content": prompt}],
-            )
-            text = "".join(b.text for b in response.content if getattr(b, "type", None) == "text")
-            raw = parse_json_response(text)
-            result = validate_and_resolve(raw, articles)
-        except Exception as e:
-            print(f"  {topic_id}: FAILED -- {type(e).__name__}: {e}", file=sys.stderr)
-            failed += 1
+        result, error = call_with_retry(client, topic_id, label, articles)
+        if result is None:
+            print(f"  {topic_id}: FAILED after {MAX_ATTEMPTS} attempts -- {error}", file=sys.stderr)
+            failed.append({"topic": topic_id, "error": error})
+            time.sleep(REQUEST_PAUSE_SECONDS)
             continue
 
         with open(out_dir / f"{topic_id}.json", "w") as f:
@@ -258,10 +304,17 @@ def main():
         print(f"  {topic_id}: {len(articles)} articles -> {n_groups} stories "
               f"({n_dupes} duplicate{'s' if n_dupes != 1 else ''}), "
               f"{len(result['contradictions'])} contradiction(s) flagged")
-        written += 1
+        succeeded.append(topic_id)
+        time.sleep(REQUEST_PAUSE_SECONDS)
 
-    print(f"\nDuplicate/contradiction detection done: {written} topic(s) written, "
-          f"{skipped} skipped (fewer than 2 articles), {failed} failed. Wrote {out_dir}/")
+    with open(out_dir / "_report.json", "w") as f:
+        json.dump({"topics": succeeded, "skipped": skipped, "failed": failed}, f, indent=2)
+
+    print(f"\nDuplicate/contradiction detection done: {len(succeeded)} topic(s) written, "
+          f"{len(skipped)} skipped (fewer than 2 articles), {len(failed)} failed. Wrote {out_dir}/")
+    if failed:
+        print(f"Failed topics (see {out_dir / '_report.json'} for details): "
+              f"{', '.join(f['topic'] for f in failed)}", file=sys.stderr)
 
 
 if __name__ == "__main__":
