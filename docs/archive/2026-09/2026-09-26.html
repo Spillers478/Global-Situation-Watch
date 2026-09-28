@@ -13,6 +13,13 @@
     --muted: #7c8797;
     --accent: #4d9fff;
     --tripwire: #ff5a5a;
+    /* Fallback height for the sticky topic-nav bar, used by section.topic's
+       scroll-margin-top below so a nav-link jump doesn't land a section's
+       heading/narrative underneath the sticky bar. Overwritten with the
+       bar's real measured height by the inline script right before
+       </body> -- see there for why a fixed guess isn't enough on its own
+       (the bar wraps to a different number of rows at different widths). */
+    --nav-h: 160px;
   }
   * { box-sizing: border-box; }
   body {
@@ -68,6 +75,11 @@
   section.topic {
     border-top: 1px solid var(--border);
     padding: 1.75rem 0;
+    /* Without this, jumping here via a nav-link (or a search-widget/jump-
+       list result) lands the heading and narrative box right underneath
+       the sticky topic-nav bar, hidden from view -- the visible scroll
+       position ends up mid-article-list instead. See --nav-h above. */
+    scroll-margin-top: calc(var(--nav-h) + 0.75rem);
   }
   section.topic h2 {
     font-size: 1.05rem;
@@ -175,6 +187,27 @@
   details.more summary:before { content: "+ "; }
   details.more[open] summary:before { content: "− "; }
   details.more[open] summary { margin-bottom: 0.5rem; }
+  #gsw-top-btn {
+    position: fixed;
+    right: 1.25rem;
+    bottom: 1.25rem;
+    z-index: 30;
+    background: var(--panel);
+    color: var(--text);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    padding: 0.55rem 1rem;
+    font-size: 0.8rem;
+    font-family: inherit;
+    cursor: pointer;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.4);
+    opacity: 0;
+    transform: translateY(0.5rem);
+    pointer-events: none;
+    transition: opacity 0.2s ease, transform 0.2s ease, border-color 0.2s ease, color 0.2s ease;
+  }
+  #gsw-top-btn.visible { opacity: 1; transform: translateY(0); pointer-events: auto; }
+  #gsw-top-btn:hover { border-color: var(--accent); color: var(--accent); }
 
   .page-search-wrap { position: relative; margin: 1.1rem 0 0; }
   .page-search-wrap input[type=search] {
@@ -1628,5 +1661,32 @@ The post British Anti-Mass-Migration Activist Arrested After Migrant Boat Deflat
     </details>
   </section>
 </main>
+<button id="gsw-top-btn" type="button" aria-label="Back to top">&uarr; Top</button>
+<script>
+(function() {
+  // Keeps --nav-h (used by section.topic's scroll-margin-top, see :root
+  // above) matched to the sticky topic-nav bar's REAL height -- it wraps to
+  // a different number of rows depending on viewport width, so a single
+  // fixed guess can't stay correct at every width. Re-measures on resize
+  // since a width change can change the wrap count.
+  var nav = document.querySelector(".topic-nav");
+  function syncNavHeight() {
+    if (nav) document.documentElement.style.setProperty("--nav-h", nav.offsetHeight + "px");
+  }
+  syncNavHeight();
+  window.addEventListener("resize", syncNavHeight);
+
+  var topBtn = document.getElementById("gsw-top-btn");
+  function toggleTopBtn() {
+    if (window.scrollY > 500) topBtn.classList.add("visible");
+    else topBtn.classList.remove("visible");
+  }
+  window.addEventListener("scroll", toggleTopBtn, {passive: true});
+  topBtn.addEventListener("click", function() {
+    window.scrollTo({top: 0, behavior: "smooth"});
+  });
+  toggleTopBtn();
+})();
+</script>
 </body>
 </html>
