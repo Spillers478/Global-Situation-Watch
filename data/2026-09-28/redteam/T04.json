@@ -1,0 +1,46 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "David Cox",
+      "title": "Meth is a key driver in Fiji's fast-growing HIV epidemic: 1 in 60 adults are affected",
+      "description": "In mid-September, Fiji's government declared a national emergency because of a startling rise in HIV infections. The country's crystal meth epidemic is a strong contributing factor.",
+      "url": "https://www.npr.org/2026/09/26/g-s1-144667/hiv-crystal-meth-epidemic-fiji",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+156/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffb%2Fdf%2F43ea1eee4821ab65e5f43991df81%2Ffiji-hiv-06220.jpg",
+      "publishedAt": "2026-09-26T11:31:18Z",
+      "content": "Best known as a tropical paradise and honeymoon destination,the island nation of Fiji now has the unfortunate distinction of facing two intertwined epidemics: HIV and addiction to crystal meth.\r\nWith\u2026 [+9714 chars]",
+      "cocom": "USINDOPACOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Punch"
+      },
+      "author": "Punch Newspapers",
+      "title": "WHO urges sustained investment to fight future pandemic threats",
+      "description": "The World Health Organisation has warned that continued action and investment are needed to sustain progress and prepare the world for future pandemic thre\n\nRead More: https://punchng.com/who-urges-sustained-investment-to-fight-future-pandemic-threats/",
+      "url": "https://punchng.com/who-urges-sustained-investment-to-fight-future-pandemic-threats/",
+      "urlToImage": "https://punchng.com/wp-content/uploads/2026/07/World-Health-Organisation_1784640906.webp",
+      "publishedAt": "2026-09-26T07:54:20Z",
+      "content": "The World Health Organisation has warned that continued action and investment are needed to sustain progress and better prepare the world to respond to future pandemic threats.\r\nWHO Director-General,\u2026 [+4920 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": "Kevin Cissy Nabukeera, Gradi Luakanda-Ndelemo, Syrus Semawule, Alisen Ayitewala, Pascal Adroba-Tandele, Andrew Walakira, Adrienne Amuri-Aziza, Daan Jansen, Ronald Galiwango, Eddy Kinganda-Lusamaki, Andrew Tebba, Christian Ngandu, Aloysious Ssemaganda, Olivier Tshiani-Mbaya, Stephen Kanyerezi, Judith Kyokushaba, Prince Akil-Bandali, Carol Makoha, Hellen Rosette Oundo, Servet Kimbonza, Stephen Balinandi, Daniel Mukadi-Bamuleka, Valeria Nakintu, Justus Nsio, Ibrahimm Mugerwa, Daniel Kadobera, Daniel Euriene, Sabue Mulangu, Ahidjo Ayouba, Micheal Eliu, Sam Gidudu, Henry Kyobe Bosa, Misaki Wayengera, Anne W. Rimoin, Benard Lubwama, Atek Kagirita, Steve Ahuka-Mundeke, Dieudonn\u00e9 Mwamba, Andrew Kambugu, Pontiano Kaleebu, Christian Happi, Laurens Liesenborghs, Miles W. Carroll, Piet Maes, Jean B. Nachega, Martine Peeters, Pierre Akilimali, Ronnie Bahatungire, Allan Muruta, Jason Kindrachuk, Andrew Rambaut, Daniel Kyabayinze, Charles Olaro, Koen Vercauteren, Jean-Jacques Muyembe-Tamfum, Susan Nabadda, Diana Atwine, Daudi Jjingo, Tony Wawina-Bokalanga, Placide Mbala-Kingebeni, Isaac Ssewanyana",
+      "title": "Early insights into predicted efficacy of Ebola monoclonal antibodies for the 2026 Bundibugyo virus disease outbreak",
+      "description": "Rapid predictive methods narrow the solution space in an outbreak setting. In this computational study, the authors find that cocktail treatments for Ebola Zaire could be more effective than monotherapies against the 2026 Bundibugyo strain.",
+      "url": "https://www.nature.com/articles/s41467-026-78077-9.pdf",
+      "urlToImage": null,
+      "publishedAt": "2026-09-26T00:00:00Z",
+      "content": "<li>African Center of Excellence in Bioinformatics and Data-Intensive Sciences, Makerere University, Kampala, Uganda\r\nKevin Cissy Nabukeera,\u00a0Syrus Semawule,\u00a0Andrew Walakira,\u00a0Ronald Galiwango\u00a0&amp;\u00a0Da\u2026 [+4140 chars]",
+      "cocom": "USAFRICOM"
+    }
+  ]
+}

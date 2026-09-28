@@ -1,0 +1,49 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Yemen government forces widen attacks against Houthis: What we know",
+      "description": "Yemeni government forces have claimed multiple air and ground operations across Taiz in the last 24 hours.",
+      "url": "https://www.aljazeera.com/news/2026/9/27/yemen-government-forces-widen-attacks-against-houthis-what-we-know",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab8c3182838-1790493464.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-27T09:59:21Z",
+      "content": "Yemens government forces have conducted multiple air and ground operations in southwestern Taiz province in the last 24 hours, as they intensified attacks against the Iran-backed Houthi group.\r\nThe g\u2026 [+8169 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T02"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "NY Post",
+      "title": "Ukraine airdrops killer robots behind enemy lines to take out 3K Russian troops in \u2018historic moment\u2019",
+      "description": "A squad of Ukrainian \u201ckamikaze ground robots\u201d airdropped behind enemy lines have taken out 3,000 Russian soldiers and reclaimed 48 square miles of occupied territory in Donetsk, officials announced. The secretive mission, dubbed \u201cOperation Vivaldi,\u201d began in \u2026",
+      "url": "https://freerepublic.com/focus/f-chat/4396999/posts",
+      "urlToImage": null,
+      "publishedAt": "2026-09-27T00:10:01Z",
+      "content": "Skip to comments.\r\nUkraine airdrops killer robots behind enemy lines to take out 3K Russian troops in historic momentNY Post ^\r\n | 9/26/26\r\n | Gabrielle Fahmy\r\nPosted on 09/26/2026 5:10:01 PM PDT by \u2026 [+4557 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Yemeni army releases footage showing strikes on Saudi military buildups, vehicles",
+      "description": "The Yemeni armed forces have released footage showing strikes targeting the positions and military trucks of Saudi troops in various locations across the Arab country, using a new homegrown strike-reconnaissance drone.",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260926-presstv03.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-26T12:00:00Z",
+      "content": "Iran Press TV\r\nSaturday, 26 September 2026 5:47 PM\r\nThe Yemeni armed forces have released footage showing strikes targeting the positions and military trucks of Saudi troops in various locations acro\u2026 [+1876 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T13"
+    }
+  ]
+}

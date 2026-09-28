@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Finland's Stubb credits Trump for pushing Ukraine peace talks while dismissing Russian invasion fears",
+      "description": "Finnish President Alexander Stubb credits Trump with pushing for Russia-Ukraine war peace and says Finland is fully prepared for any Moscow threat.",
+      "url": "https://www.foxnews.com/world/finlands-stubb-credits-trump-pushing-ukraine-peace-talks-while-dismissing-russian-invasion-fears",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/trump-stubb.png",
+      "publishedAt": "2026-09-27T10:00:14Z",
+      "content": "UNITED NATIONS As Ukrainian President Volodymyr Zelenskyy warns that Russia could take its war beyond Ukraine, Finnish President Alexander Stubb is striking a markedly calmer tone saying Finland is p\u2026 [+7795 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Haaretz"
+      },
+      "author": "Haaretz",
+      "title": "Heavy explosions, IDF shelling reported in south Lebanon",
+      "description": "Lebanon's National News Agency reported Israeli shelling in Mansouri, Majdal Zoun and Wadi Hassan, with heavy explosions reported in the towns of Baraachit and Haddatha",
+      "url": "https://www.haaretz.com/middle-east-news/lebanonnews/2026-09-26/ty-article/.premium/heavy-explosions-idf-shelling-reported-in-south-lebanon-areas/000001a0-dc8f-d71f-a9b1-ffcf299c0000",
+      "urlToImage": "https://img.haarets.co.il/bs/000001a0-dc8f-d71f-a9b1-ffcf299c0000/c3/d9/5c145889462b82333593c8395d0e/481103.jpg?&width=1200&height=630&cmsprod",
+      "publishedAt": "2026-09-26T07:25:34Z",
+      "content": "Israeli forces shelled areas of southern Lebanon, including Mansouri, Majdal Zoun and Wadi Hassan, in the early hours of Saturday, Lebanon's National News Agency reported."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Associated Press",
+      "title": "Ukraine\u2019s Zelensky says he urged Trump to enlist China\u2019s help in ending Russia\u2019s invasion",
+      "description": "Zelensky told reporters he has not yet received feedback from the White House about Trump\u2019s talks with Chinese President Xi Jinping.",
+      "url": "https://nypost.com/2026/09/26/world-news/ukraines-zelensky-says-he-urged-trump-to-enlist-chinas-help-in-ending-russias-invasion/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/142582535.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-09-26T07:03:34Z",
+      "content": "Ukrainian President Volodymyr Zelensky said Friday that he asked US President Trump to press Chinas leader to use Beijings influence over Moscow in a diplomatic effort to get Russia to end its 4\u00bd-yea\u2026 [+5802 chars]"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tenable.com"
+      },
+      "author": "Satnam Narang",
+      "title": "Frequently asked questions about reported Citrix NetScaler zero-day vulnerabilities",
+      "description": "There are reportedly two unpatched zero-day Citrix NetScaler vulnerabilities capable of enabling remote code execution that have been actively exploited in the wild, with no patches available at this time.Key takeaways<ol><li>Reports indicate that there are t\u2026",
+      "url": "https://www.tenable.com/blog/frequently-asked-questions-about-reported-citrix-netscaler-zero-day-vulnerabilities",
+      "urlToImage": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/articles/citrix-netscaler-zero-days-reportedly-exploited-in-the-wild-september-2026.png?itok=8oJjoc3t",
+      "publishedAt": "2026-09-27T09:35:21Z",
+      "content": "There are reportedly two unpatched zero-day Citrix NetScaler vulnerabilities capable of enabling remote code execution that have been actively exploited in the wild, with no patches available at this\u2026 [+5654 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WSOC Charlotte"
+      },
+      "author": "Bernard Condon",
+      "title": "OpenAI halts development of its latest models as evidence of agents going rogue mount",
+      "description": "OpenAI announced it has halted development of its latest artificial intelligence models hours after it disclosed its agents scouring federal government website acted in unexpected ways that suggest a lack of control",
+      "url": "https://www.wsoctv.com/news/business/openai-pauses/KI2B6RBWEA5WZP2LERTDMGJNUU/",
+      "urlToImage": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FE475Z3QSSE24NDB6YU3GYPSETA.jpg?auth=9e0c7f34bcb88734705b377c8ef27bc64d121520be5eab5eaff5f3e69c597102&width=1200&height=630&smart=true",
+      "publishedAt": "2026-09-27T00:16:59Z",
+      "content": "NEW YORK \u2014 OpenAI said it has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount.\r\nThe decision to halt development came just hours after the compa\u2026 [+3004 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Military.com"
+      },
+      "author": "MLT Staff",
+      "title": "OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure",
+      "description": "It was able to access publicly available information on websites operated by the Securities and Exchange Commission and U.S. Census Bureau data.",
+      "url": "https://military.com/openai-models-engaged-with-us-government-websites",
+      "urlToImage": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/09/ap26260139104766.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-09-26T23:49:42Z",
+      "content": "SAN FRANCISCO (AP) OpenAI disclosed Friday that its artificial intelligence agents had interacted with several U.S. government websites in unexpected ways, discovered as part of an ongoing review int\u2026 [+3570 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "The Associated Press",
+      "title": "OpenAI says its models engaged with US government websites in misbehavior disclosure",
+      "description": "The disclosure is the latest in a string of incidents in which the AI platform has been caught going rogue. OpenAI says it is reviewing the findings.",
+      "url": "https://www.npr.org/2026/09/26/nx-s1-5981979/openai-us-government-websites-misbehavior",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+209/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F18%2Ffc%2F1d5e6422446f958a5ac01b18bc20%2Fap26260139104766.jpg",
+      "publishedAt": "2026-09-26T17:10:04Z",
+      "content": "SAN FRANCISCO OpenAI disclosed Friday that its artificial intelligence agents had interacted with several U.S. government websites in unexpected ways, discovered as part of an ongoing review into the\u2026 [+3593 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "OpenAI Agents Accessed US Government Websites Without Authorization",
+      "description": "OpenAI is investigating AI agents that accessed US gov websites without authorization, including an attempted Education Department hack. OpenAI disclosed on Friday that its AI agents had interacted with US government websites in ways nobody planned or authori\u2026",
+      "url": "https://securityaffairs.com/199815/ai/openai-agents-accessed-us-government-websites-without-authorization.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2026/09/image-76.png",
+      "publishedAt": "2026-09-26T15:41:32Z",
+      "content": "OpenAI Agents Accessed US Government Websites Without Authorization\r\nOpenAI disclosed on Friday that its AI agents had interacted with US government websites in ways nobody planned or authorized, as \u2026 [+3992 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Jeremy Kahn",
+      "title": "OpenAI says its AI agents escaped a secure \u2018sandbox\u2019 again last weekend and is pausing training for a second time",
+      "description": "The company is again looking to improve its test controls after a Sept. 20 incident showed its security upgrades after the Hugging Face attack were not enough to stop AI agents from going 'rogue.'",
+      "url": "https://fortune.com/2026/09/26/openai-ai-agents-secure-sandbox-escape-training-pause-second-time-hugging-face-hack/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2296177332-e1790434491678.jpg?resize=1200,600",
+      "publishedAt": "2026-09-26T15:25:02Z",
+      "content": "OpenAI said in a technical report released on Friday that an AI model it was training and evaluating broke out of its secure testing environment as recently as last weekend and took unauthorized acti\u2026 [+5123 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "OpenAI bots accessed public U.S. Census, SEC data, as company discloses unexpected AI activity",
+      "description": "OpenAI disclosed Friday that its artificial intelligence agents had interacted with several U.S. government websites in unexpected ways, discovered as part of an ongoing review into the company\u2019s models\u2019 unanticipated behavior.",
+      "url": "https://www.cbc.ca/news/world/openai-rogue-us-sites-activity-9.7359673",
+      "urlToImage": "https://i.cbc.ca/ais/5270b93a-e4ca-4aac-8811-169935df9d4e,1790428149304/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C600%2C5760%2C3240%29%3BResize%3D620",
+      "publishedAt": "2026-09-26T14:38:18Z",
+      "content": "OpenAI's artificial intelligence\u00a0agents have interacted with several U.S. government websites in unplanned ways, the company disclosed on Friday, amid growing concerns about rogue AI activity. \r\nThe \u2026 [+6164 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Exploit.in Database Reveals the Roots of Today\u2019s Ransomware Ecosystem",
+      "description": "Exploit.in data shows how a 2005 cybercrime forum helped shape today\u2019s ransomware ecosystem, with users and practices surviving for decades. Ransomnews researcher Dancho Danchev dug up a database dump of Exploit.in covering its first three years, from Februar\u2026",
+      "url": "https://securityaffairs.com/199800/cyber-crime/exploit-in-database-reveals-the-roots-of-todays-ransomware-ecosystem.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2026/09/image-75.png",
+      "publishedAt": "2026-09-26T14:34:26Z",
+      "content": "Exploit.in Database Reveals the Roots of Todays Ransomware Ecosystem\r\nRansomnews researcher Dancho Danchev dug up a database dump of Exploit.in covering its first three years, from February 2005 to M\u2026 [+5886 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wattsupwiththat.com"
+      },
+      "author": "Guest Blogger",
+      "title": "Refrigerators: The Next Battle Frontier?",
+      "description": "The next battle frontier may not begin with a missile launch or an attack on a satellite. It may begin with a series of small, seemingly unrelated failures designed to disrupt, complicate, and confuse us before we even realize we are under attack. And yes, th\u2026",
+      "url": "https://wattsupwiththat.com/2026/09/26/refrigerators-the-next-battle-frontier/",
+      "urlToImage": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/09/Refrigerator_Infographic_16835927021.webp?fit=1024%2C512&quality=75&ssl=1",
+      "publishedAt": "2026-09-26T13:00:00Z",
+      "content": "By Timothy Maney\r\nRefrigerators are probably the last thing anyone would consider a national security vulnerability, which is precisely why the unusual refrigeration failures at U.S. military commiss\u2026 [+8557 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Signal"
+      },
+      "author": "Olivia Burdo",
+      "title": "Refrigerators: The Next National Security Frontier?",
+      "description": "RealClearWire\u2014Refrigerators are probably the last thing anyone would consider a national security vulnerability, which is precisely why the unusual refrigeration failures at U.S. military commissaries deserve more attention than they are getting.\u00a0\u00a0 There is n\u2026",
+      "url": "https://www.dailysignal.com/2026/09/26/refrigerators-national-security/",
+      "urlToImage": "https://static.dailysignalmedia.org/2026/09/GettyImages-481059643.jpg",
+      "publishedAt": "2026-09-26T10:00:00Z",
+      "content": "RealClearWireRefrigerators are probably the last thing anyone would consider a national security vulnerability, which is precisely why the unusual refrigeration failures at U.S. military commissaries\u2026 [+7970 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": null,
+      "title": "OpenAI agent accessed government website data after going rogue, company reveals",
+      "description": "The disclosure comes at a time of heightened concern over AI agents acting outside of human control.",
+      "url": "https://www.cbsnews.com/news/openai-ai-agent-bot-rogue-hack-government-website/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/26/9fc118a3-d581-445f-9c5a-00ceff41cf90/thumbnail/1200x630/1446466def22e25748dc9e40ae936d72/gettyimages-2296267856.jpg",
+      "publishedAt": "2026-09-26T08:52:35Z",
+      "content": "OpenAI disclosed Friday that its artificial intelligence agents had interacted with several U.S. government websites in unexpected ways, as part of an ongoing review into the company's models' unanti\u2026 [+2757 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "Kevin Maimann",
+      "title": "What drives ShinyHunters, the group that claimed responsibility for hacking the FBI?",
+      "description": "The hacking group that claimed responsibility for stealing a massive trove of data from the FBI on Tuesday \u2014 including officials' job assignments, addresses and social security numbers \u2014 has been linked to dozens of cyberattacks targeting corporations, school\u2026",
+      "url": "https://www.cbc.ca/news/world/shinyhunters-data-breach-explainer-9.7356209",
+      "urlToImage": "https://i.cbc.ca/ais/ae5fd5be-7281-4f6c-bbf1-700ace0b6f4d,1790289681951/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C229%2C4370%2C2458%29%3BResize%3D620",
+      "publishedAt": "2026-09-26T08:00:00Z",
+      "content": "The hacking group that claimed responsibility for stealing a massive trove of data from the FBI on Tuesday including officials' job assignments, addresses and social security numbers has been linked \u2026 [+5716 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "AP- PTI",
+      "title": "OpenAI says its models engaged with US government websites in new model misbehaviour disclosure",
+      "description": "OpenAI says that the AI giant's models accessed publicly available information on two websites operated by the Securities and Exchange Commission as well as US Census Bureau data",
+      "url": "https://www.thehindubusinessline.com/info-tech/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehaviour-disclosure/article71511859.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/r1v6io/article71300140.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_U913LO212_R1521727298_3_fa3f1feb-bb9c-4bd0-9f4d-53a38b64562d.jpg",
+      "publishedAt": "2026-09-26T07:05:54Z",
+      "content": "OpenAI disclosed Friday that its artificial intelligence agents had interacted with several US government websites in unexpected ways, discovered as part of an ongoing review into the company's model\u2026 [+3605 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "christopherlowery",
+      "title": "What MNIT published on the July water incident",
+      "description": "What MNIT published on the July water incident - posted in General Security: On 28 July 2026 Minnesota IT Services said a coordinated cyberattack had hit operational technology at more than 30 community water systems in the state on 26 and 27 July. The note l\u2026",
+      "url": "https://www.bleepingcomputer.com/forums/t/818867/what-mnit-published-on-the-july-water-incident/",
+      "urlToImage": "https://www.bleepingcomputer.com/forums/public/style_images/master/meta_image.png",
+      "publishedAt": "2026-09-26T06:07:40Z",
+      "content": "On 28 July 2026 Minnesota IT Services said a coordinated cyberattack had hit operational technology at more than 30 community water systems in the state on 26 and 27 July. The note lists the partners\u2026 [+1935 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Shauna Bowers",
+      "title": "Could the Australian health service website hack happen in Ireland?",
+      "description": "The incident is the first publicly reported breach of a government website by an AI \u2018agent\u2019",
+      "url": "https://www.irishtimes.com/health/2026/09/26/could-the-australian-health-service-website-hack-happen-here/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/YFNVDMCP3BJU2LRBUOAI2TEQBY.jpg?smart=true&auth=23ac99fe4a3d10674175cd5d49922d997a35d3fcf4e181baaf47a8c5c8f9a1d9&width=1200&height=630",
+      "publishedAt": "2026-09-26T05:00:00Z",
+      "content": "News this week that the Australian public health service website was hacked by an OpenAI agent sparked alarm around the globe about the increasing risks artificial intelligence poses to cybersecurity\u2026 [+3014 chars]",
+      "cocom": "USINDOPACOM"
+    }
+  ]
+}

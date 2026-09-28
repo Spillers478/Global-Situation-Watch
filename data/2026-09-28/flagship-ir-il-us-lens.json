@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "totalResults": 1,
+  "articles": [
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Trump rejects Iran\u2019s seven-day roadmap to reopen Strait of Hormuz - Al Jazeera",
+      "description": "Tehran submitted a proposal via Qatar to reopen the strait and resume nuclear talks within a week if Washington agreed.",
+      "url": "https://www.aljazeera.com/news/2026/9/26/trump-rejects-irans-seven-day-roadmap-to-reopen-strait-of-hormuz",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab7d4f7ee67-1790432503.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-26T14:48:56Z",
+      "content": "United States President Donald Trump has rejected a roadmap submitted by Iran to open the Strait of Hormuz within a week.\r\nI reject their proposal, Trump told reporters outside the White House on Sat\u2026 [+3289 chars]"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "Chris Brown",
+      "title": "Putin appears to be eyeing NATO. The question is, will he actually attack?",
+      "description": "European military experts warn that Russia is actively planning targeted aggression against NATO to test alliance solidarity. Recent high-alert incidents include a foiled explosive drone plot at a German airport and a strike near the Ukraine-Poland border tar\u2026",
+      "url": "https://www.cbc.ca/news/world/putin-nato-europe-escalation-9.7358582",
+      "urlToImage": "https://i.cbc.ca/ais/939025f3-a19b-4a84-92f0-0bcf9d3d0668,1790373045542/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C18%2C4234%2C2381%29%3BResize%3D620",
+      "publishedAt": "2026-09-27T08:00:00Z",
+      "content": "European military experts are tracking urgent danger signs that suggest Vladimir Putin may be preparing for a direct escalation against the NATO alliance.\r\nWhat analysts are split over is whether the\u2026 [+7783 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Science Desk",
+      "title": "In WWII, one Scottish island became a secret British bioweapon site, stayed toxic for 50 years. Now it is a popular tourist spot",
+      "description": "A picturesque island in the Scottish Highlands, degenerated into a contaminated wasteland during the Second World War. The British government selected the Gruinard Island as testing grounds for biological weapons during the Second World War. In 1942, Wonston \u2026",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/in-wwii-one-scottish-island-became-a-secret-bioweapon-site-stayed-toxic-for-50-years-now-it-is-a-popular-tourist-spot/articleshow/134508777.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134509054,width-1200,height-630,imgsize-123835,overlay-etpanache/articleshow.jpg",
+      "publishedAt": "2026-09-26T18:17:27Z",
+      "content": "An idyllic island in the Scottish highlands became a toxic waste space during World War II. The Gruinard Island became a site for secret bioweapon tests during the Second World War. According to Pop \u2026 [+3927 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rediff.com"
+      },
+      "author": "sports@rediff.co.in (Rediff Sports Desk)",
+      "title": "India's Strong Showing At Chess Olympiad",
+      "description": "The Indian men's chess team secured a dominant 3.5-0.5 victory over Uzbekistan-2, placing them in sole second position at the 46th Chess Olympiad. The Indian women's team drew 2-2 with leaders China, maintaining their third-place standing. Both teams are well\u2026",
+      "url": "https://www.rediff.com/sports/report/chess-olympiad-indian-men-drub-uzbekistan-2-women-draw-china/20260926.htm",
+      "urlToImage": "https://im.rediff.com/1200-630/sports/2024/sep/30gukesh.png",
+      "publishedAt": "2026-09-26T17:13:45Z",
+      "content": "India's chess prodigies, including D Gukesh, Nihal Sarin, and R Praggnanandhaa, have propelled the men's team to second place, while the women's team holds third, keeping medal hopes alive at the 46t\u2026 [+2975 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Isegoria.net"
+      },
+      "author": "Isegoria",
+      "title": "No one outside the small Stanford lab knew anything about the experiment until the following summer",
+      "description": "The engineered plague Annie Jacobsen posits (in Biological War) is not only to be more virulent, more transmissible, and resistant to antibiotics, but it also has a secret back door \u2014 as originally conceived by Soviet bioweapon engineers during the Cold War: \u2026",
+      "url": "https://www.isegoria.net/2026/09/no-one-outside-the-small-stanford-lab-knew-anything-about-the-experiment-until-the-following-summer/",
+      "urlToImage": null,
+      "publishedAt": "2026-09-26T14:55:13Z",
+      "content": "The engineered plague Annie Jacobsen posits (in Biological War) is not only to be more virulent, more transmissible, and resistant to antibiotics, but it also has a secret back door as originally con\u2026 [+4211 chars]"
+    }
+  ]
+}
