@@ -38,6 +38,9 @@
   .sr-title { display: block; color: var(--text); font-size: 0.85rem; font-weight: 600; }
   .sr-meta { display: block; color: var(--muted); font-size: 0.72rem; margin-top: 0.15rem; }
   .sr-empty { color: var(--muted); font-size: 0.82rem; padding: 0.7rem 0.9rem; margin: 0; }
+  mark.gsw-hl {
+    background: #ffe066; color: #1a1e29; border-radius: 2px; padding: 0 0.15em; font-weight: 600;
+  }
 
 </style>
 </head>
@@ -70,6 +73,25 @@
 
   function clearResults() { out.innerHTML = ""; out.hidden = true; }
 
+  // Appends text to el as a mix of plain text nodes and <mark> nodes around
+  // every case-insensitive occurrence of q -- never innerHTML, so nothing
+  // in `text` is ever parsed as markup.
+  function highlightInto(el, text, q) {
+    el.textContent = "";
+    var lower = text.toLowerCase();
+    var ql = q.toLowerCase();
+    var start = 0, i;
+    while ((i = lower.indexOf(ql, start)) !== -1) {
+      if (i > start) el.appendChild(document.createTextNode(text.slice(start, i)));
+      var mark = document.createElement("mark");
+      mark.className = "gsw-hl";
+      mark.textContent = text.slice(i, i + q.length);
+      el.appendChild(mark);
+      start = i + q.length;
+    }
+    el.appendChild(document.createTextNode(text.slice(start)));
+  }
+
   function renderResults(items, q) {
     out.innerHTML = "";
     if (!items.length) {
@@ -86,10 +108,20 @@
       link.href = root + a.h;
       var title = document.createElement("span");
       title.className = "sr-title";
-      title.textContent = a.t;
+      highlightInto(title, a.t, q);
       var meta = document.createElement("span");
       meta.className = "sr-meta";
-      meta.textContent = a.d + " · " + a.l + " · " + a.s;
+      var dateNode = document.createElement("span");
+      dateNode.textContent = a.d;
+      var topicNode = document.createElement("span");
+      highlightInto(topicNode, a.l, q);
+      var sourceNode = document.createElement("span");
+      highlightInto(sourceNode, a.s, q);
+      meta.appendChild(dateNode);
+      meta.appendChild(document.createTextNode(" \u00b7 "));
+      meta.appendChild(topicNode);
+      meta.appendChild(document.createTextNode(" \u00b7 "));
+      meta.appendChild(sourceNode);
       link.appendChild(title);
       link.appendChild(meta);
       out.appendChild(link);
