@@ -494,9 +494,19 @@ def main():
             json.dump({"articles": arts}, f, indent=2)
     with open(out_dir / "_report.json", "w") as f:
         json.dump(report, f, indent=2)
+    errors_path = out_dir / "_errors.json"
     if failures or incomplete:
-        with open(out_dir / "_errors.json", "w") as f:
+        with open(errors_path, "w") as f:
             json.dump({"failures": failures, "incomplete": incomplete}, f, indent=2)
+    elif errors_path.exists():
+        # A prior run that same day failed and left this file; a later
+        # same-day re-run (manual or after a fix) that succeeds cleanly
+        # never removed it, so it kept describing a failure that no
+        # longer applied -- e.g. 2026-09-25's _errors.json still showed
+        # the pre-hardening flagship-ru-ua/T14 truncations hours after a
+        # clean re-run. Remove it so "no _errors.json" reliably means
+        # "this run had no failures," not "the first run of the day didn't."
+        errors_path.unlink()
 
     t = report["totals"]
     print(
