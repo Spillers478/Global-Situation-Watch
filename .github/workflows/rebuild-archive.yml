@@ -1,0 +1,54 @@
+name: Rebuild Archive
+
+# Manual-only. Regenerates docs/index.html, the docs/archive/ pages,
+# docs/search-index.json, and data/history/*.csv from whatever is already
+# in data/<date>/ -- no fetching, no Claude calls, no API keys needed, so
+# it costs nothing and can't consume NewsAPI/newsdata/Anthropic quota.
+# Use this whenever build_brief.py/archive.py need to be re-run by hand
+# (e.g. after deleting old data/<date>/ directories, or after a code
+# change to either script) without waiting for -- or duplicating -- the
+# next scheduled Daily Briefing run.
+
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Rebuild pages, search index, and history CSVs
+        run: |
+          # build_brief.py insists on a data/<today's UTC date> directory
+          # (it renders the live docs/index.html from it) and exits 1
+          # without one -- harmless on a normal day since the scheduled
+          # run already created it, but this workflow can be fired by hand
+          # on any day, including one where that hasn't happened yet.
+          # archive.py has no such requirement: it rebuilds every existing
+          # past day regardless, so it always runs.
+          today=$(date -u +%Y-%m-%d)
+          if [ -d "data/$today" ]; then
+            python scripts/build_brief.py
+          else
+            echo "No data/$today yet -- skipping docs/index.html rebuild; archive.py still runs."
+          fi
+          python scripts/archive.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs data/history
+          git diff --quiet --cached || git commit -m "Rebuild archive, search index, and history CSVs"
+          git pull --rebase origin main
+          git push
