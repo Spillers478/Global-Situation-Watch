@@ -50,6 +50,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from html import escape
 
+from search_widget import SEARCH_CSS, render_search_widget
 from topics import TIER1, TOPICS, TOPIC_SWEEP_ENABLED
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -231,7 +232,10 @@ def load_synthesis(data_dir):
 
 def build_page(date_str, data_dir, archive=False):
     """Renders the full briefing page for data_dir as an HTML string.
-    archive=True adjusts the header links for a page living in docs/archive/."""
+    archive=True adjusts the header links and search-widget path for a page
+    living two directories down, at docs/archive/<YYYY-MM>/<date>.html --
+    archive.py builds the month folder around it and this function never
+    needs to know the month string itself, only that it's two levels deep."""
     synthesis = load_synthesis(data_dir)
     topic_narratives = synthesis.get("topics") or {}
     bluf = synthesis.get("bluf")
@@ -279,12 +283,21 @@ def build_page(date_str, data_dir, archive=False):
   </section>"""
 
     if archive:
-        links = '<a href="index.html">All briefings</a> &middot; <a href="../index.html">Latest</a>'
+        # This page lives at docs/archive/<YYYY-MM>/<date>.html: "index.html"
+        # is this month's own index (sibling file), "../index.html" is the
+        # top-level archive (list of months), "../../index.html" is the
+        # live page -- see search_widget.py's docstring for the same ladder.
+        links = ('<a href="index.html">This month</a> &middot; '
+                 '<a href="../index.html">All months</a> &middot; '
+                 '<a href="../../index.html">Latest</a>')
+        root_prefix = "../../"
     else:
         links = '<a href="archive/index.html">Archive</a>'
+        root_prefix = ""
 
     return TEMPLATE.format(date=date_str, nav=nav_html, bluf=bluf_html,
-                           sections="\n".join(sections), links=links)
+                           sections="\n".join(sections), links=links,
+                           search_css=SEARCH_CSS, search=render_search_widget(root_prefix))
 
 
 def main():
@@ -295,16 +308,18 @@ def main():
         sys.exit(1)
 
     docs_dir = ROOT / "docs"
-    (docs_dir / "archive").mkdir(parents=True, exist_ok=True)
+    month_dir = docs_dir / "archive" / today[:7]
+    month_dir.mkdir(parents=True, exist_ok=True)
 
     with open(docs_dir / "index.html", "w") as f:
         f.write(build_page(today, data_dir))
-    # Same page frozen under its date. Rewritten on every run of the same UTC
-    # day (so a manual re-run replaces it) and never touched on later days.
-    with open(docs_dir / "archive" / f"{today}.html", "w") as f:
+    # Same page frozen under its date, inside that month's archive folder.
+    # Rewritten on every run of the same UTC day (so a manual re-run
+    # replaces it) and never touched on later days.
+    with open(month_dir / f"{today}.html", "w") as f:
         f.write(build_page(today, data_dir, archive=True))
 
-    print(f"Wrote {docs_dir / 'index.html'} and archive/{today}.html for {today}")
+    print(f"Wrote {docs_dir / 'index.html'} and archive/{today[:7]}/{today}.html for {today}")
 
 
 TEMPLATE = """<!DOCTYPE html>
@@ -487,12 +502,14 @@ TEMPLATE = """<!DOCTYPE html>
   details.more summary:before {{ content: "+ "; }}
   details.more[open] summary:before {{ content: "− "; }}
   details.more[open] summary {{ margin-bottom: 0.5rem; }}
+{search_css}
 </style>
 </head>
 <body>
 <header>
   <h1>Global Situation Watch</h1>
   <p>{date} &middot; {links}</p>
+  {search}
 </header>
 {nav}
 <main>
