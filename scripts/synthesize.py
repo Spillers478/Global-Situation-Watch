@@ -95,14 +95,14 @@ Below is today's retrieved data, grouped by topic. FLAGSHIP topics are the two p
 
 {chr(10).join(blocks)}
 
-Write two things and return them as JSON, nothing else (no markdown fences, no commentary before or after):
+Write two things and return them as JSON, nothing else (no markdown fences, no commentary before or after). Write them in THIS order -- the second is built from the first, not a separate pass over the raw headlines:
 
-1. "bluf": A Bottom-Line-Up-Front overview (8-12 sentences) that gives the reader a sense of EVERYTHING happening today across the whole brief, not just the top story -- a reader should be able to read only this paragraph and come away knowing the gist of every topic that had real activity. Lead with the single most significant development across all topics in the first sentence, prioritizing the FLAGSHIP topics and any TRIPWIRE topic with real activity. After that opening, work through the other topics that have meaningful activity today, one to two sentences each, grouping related topics together where it reads naturally. Skip a topic entirely if it had no articles or only noise -- do not manufacture a sentence just to mention it. Be factual and grounded only in what's in the headlines/descriptions above -- do not speculate or add outside knowledge.
+1. "topics": an object mapping each topic id to a 2-3 sentence factual summary of what that topic's headlines describe. If a topic's articles look unrelated to the topic itself (keyword noise -- e.g. a labor "strike" article under a military topic) or too sparse/generic to summarize meaningfully, say so plainly in one sentence rather than inventing a coherent narrative. Cover every one of these topic ids: {", ".join(topic_ids)}
 
-2. "topics": an object mapping each topic id to a 2-3 sentence factual summary of what that topic's headlines describe. If a topic's articles look unrelated to the topic itself (keyword noise -- e.g. a labor "strike" article under a military topic) or too sparse/generic to summarize meaningfully, say so plainly in one sentence rather than inventing a coherent narrative. Cover every one of these topic ids: {", ".join(topic_ids)}
+2. "bluf": A Bottom-Line-Up-Front overview (8-12 sentences) that acts as a page summary, assembled directly from the topic summaries you just wrote in step 1 -- not an independent take on the raw headlines. Lead with the single most significant development across all topics in the first sentence, prioritizing the FLAGSHIP topics and any TRIPWIRE topic with real activity. Then, for every OTHER topic above that had real activity (skip any topic you flagged in step 1 as noise, unrelated, or too sparse), pull one to two sentences from that topic's own summary into this overview, grouping related topics together where it reads naturally -- so a reader who only reads this paragraph gets the gist of every active topic on the page, in language consistent with what each topic section itself says. Be factual and grounded only in what's in the headlines/descriptions above -- do not speculate or add outside knowledge.
 
-Return exactly this JSON shape and nothing else:
-{{"bluf": "...", "topics": {{"flagship-ru-ua": "...", "...": "..."}}}}
+Return exactly this JSON shape and nothing else, with "topics" first since it's written first:
+{{"topics": {{"flagship-ru-ua": "...", "...": "..."}}, "bluf": "..."}}
 """
 
 
