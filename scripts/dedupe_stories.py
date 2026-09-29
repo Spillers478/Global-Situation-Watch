@@ -80,7 +80,7 @@ import build_brief
 from topics import TIER1, TOPICS
 
 ROOT = Path(__file__).resolve().parent.parent
-MODEL = "claude-sonnet-5"
+MODEL = "claude-sonnet-5-5"
 
 # Same cap redteam.py uses for its per-topic input -- keeps this call's
 # prompt and output size bounded regardless of how noisy a topic's day was.

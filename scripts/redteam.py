@@ -106,7 +106,7 @@ from pathlib import Path
 from topics import TIER1, TOPICS
 
 ROOT = Path(__file__).resolve().parent.parent
-MODEL = "claude-sonnet-5"
+MODEL = "claude-sonnet-5-5"
 
 # Caps how many articles per topic are sent to the classifier (most-recent
 # first, since fetch_news.py sorts by publishedAt). Bounds prompt size/

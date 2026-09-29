@@ -279,7 +279,7 @@ failure only leaves that one topic's raw retrieval unfiltered/untagged
   article's URL directly (not implemented -- scraping arbitrary news
   sites is fragile and has its own ToS/legal considerations per site).
 - The Claude model IDs in `synthesize.py` (`claude-haiku-4-5-20251001`)
-  and `redteam.py` (`claude-sonnet-5`) are current as of when this was
+  and `redteam.py` and `dedupe_stories.py` (`claude-sonnet-5-5`) are current as of when this was
   built -- Anthropic's model lineup changes over time, so check
   [platform.claude.com/docs/en/models/overview](https://platform.claude.com/docs/en/models/overview)
   if either step ever starts failing with a model-not-found error.
