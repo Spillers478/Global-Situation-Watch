@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 67,
+  "totalResults": 68,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Slate Magazine"
+      },
+      "author": "Ian Prasad Philbrick",
+      "title": "This Weekend\u2019s Storm Was a Preview of What\u2019s to Come",
+      "description": "Why you\u2019re getting rained on.",
+      "url": "https://slate.com/news-and-politics/2026/09/el-nino-weather-storms-rain-flooding.html",
+      "urlToImage": "https://compote.slate.com/images/fd1c39e5-5d82-463b-9deb-cc2a642a97c1.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "publishedAt": "2026-09-28T21:15:36Z",
+      "content": "This story is adapted from the Slatest newsletter. You can sign up here to get it in your inbox every day.\r\nIf you live along the East Coast, youve probably had a damp few days. Storms, like the nore\u2026 [+4459 chars]"
+    },
     {
       "source": {
         "id": null,

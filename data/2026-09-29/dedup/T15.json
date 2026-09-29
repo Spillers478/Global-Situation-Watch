@@ -1,9 +1,11 @@
 {
   "groups": {
-    "https://www.naturalnews.com/2026-09-28-refrigeration-failures-at-military-commissaries-draw-scrutiny.html": "a",
-    "https://timesofindia.indiatimes.com/city/raipur/chhattisgarh-floods-iaf-rescues-12-stranded-on-hut-roof-as-indravati-rises-above-danger-mark-watch/articleshow/134533891.cms": "b",
+    "https://timesofindia.indiatimes.com/city/raipur/chhattisgarh-floods-iaf-rescues-12-stranded-on-hut-roof-as-indravati-rises-above-danger-mark-watch/articleshow/134533891.cms": "a",
+    "https://www.yahoo.com/news/science/articles/sea-level-rise-reshaping-california-100600946.html": "b",
     "https://peoplesreview.com.np/2026/09/27/rain-floods-damage-power-grid-483-mw-generation-halted/": "c",
-    "https://www.aljazeera.com/video/newsfeed/2026/9/27/09-27-nepal-floods-one-month-sv-mp4": "d",
+    "https://theconversation.com/climate-disasters-are-getting-worse-risks-escalate-when-authoritarian-regimes-keep-neighbours-in-the-dark-291857": "d",
+    "https://www.timeout.com/newyork/news/the-noreaster-state-of-emergency-is-still-in-effect-for-these-ny-areasheres-the-latest-092826": "e",
+    "https://www.aljazeera.com/video/newsfeed/2026/9/27/09-27-nepal-floods-one-month-sv-mp4": "f",
     "https://peoplesreview.com.np/2026/09/27/six-dead-407-rescued-as-floods-landslides-hit-nepal/": "c"
   },
   "contradictions": []

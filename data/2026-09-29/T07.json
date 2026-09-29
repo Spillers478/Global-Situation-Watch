@@ -1,7 +1,137 @@
 {
   "status": "ok",
-  "totalResults": 143,
+  "totalResults": 153,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": "HuffPost",
+      "title": "Trump Is Finally Admitting His War Against Iran Is Not Over And He Has Not Won It",
+      "description": "The concession comes after months of claiming the exact opposite.",
+      "url": "https://www.huffpost.com/entry/trump-iran-war-not-over_n_6ababc2ee4b0cdca1abdc2fa",
+      "urlToImage": "https://img.huffingtonpost.com/asset/6ababd0e18000063fcf1548b.jpeg?cache=5FSifUTzyu&ops=1200_630",
+      "publishedAt": "2026-09-28T21:31:46Z",
+      "content": "President Donald Trump speaks to members of the media on the South Lawn of the White House after arriving on Marine One in Washington, D.C., on Sunday. Iran stuck to its seven-day proposal for reopen\u2026 [+2949 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Israelnationalnews.com"
+      },
+      "author": "Elad Benari",
+      "title": "Trump on Iran: I stopped them from having a nuclear weapon",
+      "description": "Trump says the Iran war will end \u201cvery soon\" with a US victory, warning of the global consequences of a nuclear-armed Iran: Israel would be wiped out, there would be no Middle East",
+      "url": "https://www.israelnationalnews.com/news/433798",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1226590.jpg",
+      "publishedAt": "2026-09-28T21:22:18Z",
+      "content": "US President Donald Trump said Monday that he expects the war with Iran to conclude very soon,\" reiterating his confidence that the United States will prevail.\r\nSpeaking in the Oval Office, Trump sai\u2026 [+2594 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Marisa Schultz, Josh Christenson, Ronny Reyes",
+      "title": "Persian Gulf oil exports hit 72% of prewar levels \u2014 as US says Iran is \u2018exhausted\u2019 by blockade",
+      "description": "Oil flowing out of the Strait of Hormuz is on the rise as ships confidently sail under US protection \u2014 with the Persian Gulf's crude exports reaching an average of more than 13 million barrels a day in September, near pre-war levels, according to analysts.",
+      "url": "https://nypost.com/2026/09/28/world-news/persian-gulf-oil-exports-hit-72-of-prewar-levels-as-us-says-iran-is-exhausted-by-blockade/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/142895020.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-09-28T21:09:26Z",
+      "content": "The oil is flowing again in the Persian Gulf even as Iran is choking on fumes.\r\nOil exports from the region have rebounded to 72% of pre-war levels and crude flow through the Strait of Hormuz is now \u2026 [+4810 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fstoppers"
+      },
+      "author": "Alex Cooke",
+      "title": "Kodak Detected the First Atomic Bomb Test Because Its Film Kept Fogging",
+      "description": "A batch of packaging board made at a mill on the Wabash River on August 6, 1945 came out radioactive, and the X-ray film stacked against it fogged after roughly two weeks in the box. A physicist at Eastman Kodak worked backward from those spots to a bomb test\u2026",
+      "url": "https://fstoppers.com/film/kodak-detected-first-atomic-bomb-test-because-its-film-kept-fogging-904065",
+      "urlToImage": "https://cdn.fstoppers.com/styles/medium/s3/lead/2026/08/kodak-detected-trinity-test-fogged-film-trinity-fireball-16-milliseconds.jpg?itok=tdSNtX4M",
+      "publishedAt": "2026-09-28T21:03:01Z",
+      "content": "A batch of packaging board made at a mill on the Wabash River on August 6, 1945 came out radioactive, and the X-ray film stacked against it fogged after roughly two weeks in the box. A physicist at E\u2026 [+15820 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wattsupwiththat.com"
+      },
+      "author": "Guest Blogger",
+      "title": "The CME Risk to American Infrastructure",
+      "description": "It is past-due time to make upgrading America\u2019s grid a national priority. Preparing for the inevitable CME should be a foundational pillar of that effort. Even so, implementing CME mitigations on existing grid structures must not wait for decades until new in\u2026",
+      "url": "https://wattsupwiththat.com/2026/09/28/the-cme-risk-to-american-infrastructure/",
+      "urlToImage": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/09/Coronal_Rain_Solar_Storm_4445502685.webp?fit=1024%2C512&quality=75&ssl=1",
+      "publishedAt": "2026-09-28T21:00:00Z",
+      "content": "By R. Richard GeddesSol Gruner\r\nThe sun is both friend and foe. The immense energy released by the sun radiates into space as the sunlight that sustains life on Earth. Occasionally a violent solar fl\u2026 [+5275 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Signal"
+      },
+      "author": "Al Perrotta",
+      "title": "Victor Davis Hanson: Is Iran\u2019s Regime About to Crack?",
+      "description": "Editor\u2019s note: This is a lightly edited transcript of today\u2019s video from Daily Signal senior contributor\u00a0Victor Davis Hanson.\u00a0Subscribe to our YouTube channel to see more of his videos. Hello, this is Victor Davis Hanson for the Daily Signal. \u00a0 Sometimes when\u2026",
+      "url": "https://www.dailysignal.com/2026/09/28/hanson-irans-regime-about-to-crack/",
+      "urlToImage": "https://static.dailysignalmedia.org/2026/09/260928_Iranian_President.gif",
+      "publishedAt": "2026-09-28T21:00:00Z",
+      "content": "Editors note: This is a lightly edited transcript of todays video from Daily Signal senior contributor\u00a0Victor Davis Hanson.\u00a0Subscribe to our YouTube channel to see more of his videos.\r\nHello, this is\u2026 [+8317 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newser"
+      },
+      "author": "Rob Quinn",
+      "title": "Stocks Drop as Bond Yields Hit Highest Level Since 2007",
+      "description": "Yields in the US bond market reached their highest levels in roughly two decades on Monday and knocked US stocks further from their record highs. The S&P 500 fell 59.72 points, or 0.8%, to 7,683.69. The Dow Jones Industrial Average fell 347.11 points, or 0....",
+      "url": "https://www.newser.com/story/397209/stocks-drop-as-bond-yields-hit-highest-level-since-2007.html",
+      "urlToImage": "https://cdn.newser.com/image/1714496-12-20260928154200.jpeg",
+      "publishedAt": "2026-09-28T20:42:00Z",
+      "content": "The latest moves for oil prices came after President Trump said over the weekend he's rejecting an offer from Iran to reopen the Strait of Hormuz and resume talks on its nuclear program. \"I'd like to\u2026 [+1894 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rigzone"
+      },
+      "author": "M. Gindis, C. Gorrivan",
+      "title": "Oil Edges Higher as Supply Tightens",
+      "description": "Oil rose modestly as traders weighed tight supplies against progress toward reopening Hormuz.",
+      "url": "https://www.rigzone.com/news/wire/oil_edges_higher_as_supply_tightens-28-sep-2026-184721-article/",
+      "urlToImage": "https://images.rigzone.com/images/news/articles/Oil-Edges-Higher-as-Supply-Tightens-184721-1200x628.png",
+      "publishedAt": "2026-09-28T20:12:57Z",
+      "content": "Oil ticked higher as strong demand for physical barrels collided with easing supply disruptions in the Middle East and progress toward reopening the Strait of Hormuz, though repeated false starts hav\u2026 [+3693 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "TED ANTHONY AP national writer",
+      "title": "In a relatively mild speech, North Korea uses UN platform to lament 'mutual distrust' and tension",
+      "description": "North Korea has used its yearly U_N_ platform to warn other world leaders of \u201ca harsh reality rampant with unprecedented mutual distrust and confrontation.\u201d",
+      "url": "https://abcnews.com/US/wireStory/mild-speech-north-korea-platform-lament-mutual-distrust-136831545",
+      "urlToImage": "https://i.abcnewsfe.com/a/d4728a06-2c77-45b5-8ee3-d3b587a288f2/wirestory_557ae95875686dea8df049914ef712cf_16x9.jpg?w=1600",
+      "publishedAt": "2026-09-28T20:01:53Z",
+      "content": "North Korea used its yearly U.N. platform on Monday to warn other world leaders of a harsh reality rampant with unprecedented mutual distrust and confrontation, but said that it would endure and, in \u2026 [+4135 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "breakingthenews.net",
+      "title": "Iran weighs bill to withdraw from nuclear treaty",
+      "description": "Iran's Parliament is considering a \"triple-urgency\" bill to withdraw from the Nuclear Non-Proliferation Treaty (NPT), First Deputy Speaker Ali Nikzad revealed on Monday. The official said Iranian lawm...",
+      "url": "https://biztoc.com/x/150cc7cb43c4163f",
+      "urlToImage": "https://biztoc.com/cdn/150cc7cb43c4163f_s.webp",
+      "publishedAt": "2026-09-28T19:57:37Z",
+      "content": "Iran's Parliament is considering a \"triple-urgency\" bill to withdraw from the Nuclear Non-Proliferation Treaty (NPT), First Deputy Speaker Ali Nikzad revealed on Monday. The official said Iranian law\u2026 [+69 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1171,136 +1301,6 @@
       "urlToImage": "https://img.huffingtonpost.com/asset/6ab99ba5180000fbdaf15280.jpeg?cache=jQZ8TRZnYr&ops=500_281%2Cscalefit_1200_630",
       "publishedAt": "2026-09-27T23:30:02Z",
       "content": "Mike Waltz, U.S. ambassador to the United Nations, said President Donald Trump will leave all options on the table when asked if the president is preparing to resume military strikes against Iran aft\u2026 [+1867 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Bill Gates warns artificial intelligence 'powerful enough' to cause 'a billion deaths' if unchecked",
-      "description": "Bill Gates warned on NBC's \"Meet the Press\" that AI could drive events causing a billion deaths, calling it irresponsible not to require more safeguards.",
-      "url": "https://www.foxnews.com/media/bill-gates-warns-artificial-intelligence-powerful-enough-cause-billion-deaths-unchecked",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/bill-gates-epstein-interview.jpg",
-      "publishedAt": "2026-09-27T21:06:36Z",
-      "content": "Microsoft co-founder Bill Gates warned that artificial intelligence (AI) could cause \"a billion deaths\" if left unchecked in the latest push to regulate AI on NBC's \"Meet the Press\" on Sunday.\r\nDurin\u2026 [+3483 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "author": "Mediaite",
-      "title": "Trump Offered to Sell American Weapons to China\u2019s Xi Jinping, US Ambassador Says",
-      "description": "President Donald Trump asked Chinese leader Xi Jinping if he would like to buy American weapons during the communist politician\u2019s three day trip to the States last week, according to U.S. Ambassador to China David Purdue. The ambassador shared the surprising \u2026",
-      "url": "https://freerepublic.com/focus/f-chat/4397078/posts",
-      "urlToImage": null,
-      "publishedAt": "2026-09-27T20:54:58Z",
-      "content": "Skip to comments.\r\nTrump Offered to Sell American Weapons to Chinas Xi Jinping, US Ambassador SaysMediaite ^\r\n | September 27, 2026\r\n | Sean James\r\nPosted on 09/27/2026 1:54:58 PM PDT by Miami Rebel\r\u2026 [+3309 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WTAE Pittsburgh"
-      },
-      "author": null,
-      "title": "Anthropic and OpenAI sound the alarm on AI safety",
-      "description": "As tech titans warned an AI-weary world that their own advanced systems could endanger humanity, the question emerged: What do they have to gain?",
-      "url": "https://www.wtae.com/article/anthropic-openai-sound-alarm-on-ai-safety/73909542",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/3b9943c0-acdf-4ad5-8117-94a3b3900c77.jpg?crop=1.00xw%3A0.846xh%3B0%2C0&resize=1200%3A*",
-      "publishedAt": "2026-09-27T20:16:48Z",
-      "content": "SAN FRANCISCOAs tech titans warned an AI-weary world that their own advanced systems could endanger humanity, the question emerged: What do they have to gain?\r\nVideo above: Trump says US won't put br\u2026 [+7615 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WPBF West Palm Beach"
-      },
-      "author": null,
-      "title": "Anthropic and OpenAI sound the alarm on AI safety",
-      "description": "As tech titans warned an AI-weary world that their own advanced systems could endanger humanity, the question emerged: What do they have to gain?",
-      "url": "https://www.wpbf.com/article/anthropic-openai-sound-alarm-on-ai-safety/73909542",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/3b9943c0-acdf-4ad5-8117-94a3b3900c77.jpg?crop=1.00xw%3A0.846xh%3B0%2C0&resize=1200%3A*",
-      "publishedAt": "2026-09-27T20:16:37Z",
-      "content": "SAN FRANCISCOAs tech titans warned an AI-weary world that their own advanced systems could endanger humanity, the question emerged: What do they have to gain?\r\nVideo above: Trump says US won't put br\u2026 [+7615 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WESH Orlando"
-      },
-      "author": null,
-      "title": "Anthropic and OpenAI sound the alarm on AI safety",
-      "description": "As tech titans warned an AI-weary world that their own advanced systems could endanger humanity, the question emerged: What do they have to gain?",
-      "url": "https://www.wesh.com/article/anthropic-openai-sound-alarm-on-ai-safety/73909542",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/3b9943c0-acdf-4ad5-8117-94a3b3900c77.jpg?crop=1.00xw%3A0.846xh%3B0%2C0&resize=1200%3A*",
-      "publishedAt": "2026-09-27T20:16:32Z",
-      "content": "SAN FRANCISCOAs tech titans warned an AI-weary world that their own advanced systems could endanger humanity, the question emerged: What do they have to gain?\r\nVideo above: Trump says US won't put br\u2026 [+7615 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "gcaptain.com"
-      },
-      "author": "Bloomberg",
-      "title": "Iran Says Won\u2019t Soften Demands As Trump Rejects Hormuz Offer",
-      "description": "By\u00a0Eltaf Najafizada and Courtney Subramanian Sep 27, 2026 (Bloomberg) \u2013Iran stuck to its seven-day proposal for reopening the crucial Strait of Hormuz, saying it won\u2019t soften its conditions, while President...",
-      "url": "https://gcaptain.com/iran-says-wont-soften-demands-as-trump-rejects-hormuz-offer/",
-      "urlToImage": "https://gcaptain.com/wp-content/uploads/2026/09/2026-09-14T193943Z_33032287_RC2DINA3FLHM_RTRMADP_3_IRAN-CRISIS-USS-GEORGE-WASHINGTON-800x533.jpg",
-      "publishedAt": "2026-09-27T20:07:19Z",
-      "content": "By\u00a0Eltaf Najafizada and Courtney Subramanian\r\nSep 27, 2026 (Bloomberg) \u2013Iran stuck to its seven-day proposal for reopening the crucial Strait of Hormuz, saying it wont soften its conditions, while Pr\u2026 [+4009 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Israelnationalnews.com"
-      },
-      "author": "Israel National News",
-      "title": "Iran warns US of 'doomsday war,' claims it has changed military tactics",
-      "description": "Iranian Foreign Minister Abbas Araghchi tells NBC that Tehran is prepared for a 'doomsday war' with the US but remains willing to pursue diplomacy.",
-      "url": "https://www.israelnationalnews.com/news/433734",
-      "urlToImage": "https://2.a7.org/files/pictures/000/1194848.jpg",
-      "publishedAt": "2026-09-27T20:02:14Z",
-      "content": "Iranian Foreign Minister Abbas Araghchi warned on Sunday that Iran is fully prepared for renewed military confrontation with the United States, including what he described as a \"doomsday war,\" while \u2026 [+4467 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Al Jazeera Staff",
-      "title": "Bill Gates says AI without regulation is \u2018completely irresponsible\u2019",
-      "description": "The billionaire cofounder of Microsoft says, without restrictions, AI could 'cause a billion deaths'.",
-      "url": "https://www.aljazeera.com/news/2026/9/27/bill-gates-says-ai-without-regulation-is-completely-irresponsible",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6ab9600e-1790533646.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-09-27T19:34:42Z",
-      "content": "Not requiring AI to have safeguards and be subject to outside monitoring is completely irresponsible and could lead to global harm to humanity, said tech mogul Bill Gates, in a series of media appear\u2026 [+3092 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news-au",
-        "name": "ABC News (AU)"
-      },
-      "author": "Alan Kohler",
-      "title": "Interest rates set to rise but likely to be a short-term trend",
-      "description": "The Reserve Bank will increase interest rates on Tuesday, but three new factors entirely outside the bank's control are pulling rates in different directions.",
-      "url": "https://www.abc.net.au/news/2026-09-28/interest-rate-hike-could-be-short-lived/107200848",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/59091fb2176287038945aa61a32cae83?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-      "publishedAt": "2026-09-27T19:03:06Z",
-      "content": "The Reserve Bank will increase interest rates on Tuesday for the fourth time this year, and what's more, it will be a \"hawkish hike\" that is, with suggestions of more to come.\r\nBut there are now thre\u2026 [+9212 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wnd.com"
-      },
-      "author": "RealClearWire",
-      "title": "Why the nuclear analogy is wrong for artificial intelligence",
-      "description": "A 'plateau' won't come from 'balance of power,' but only from control 'of the continuum'",
-      "url": "https://www.wnd.com/2026/09/why-nuclear-analogy-is-wrong-artificial-intelligence/",
-      "urlToImage": "https://www.wnd.com/wp-content/uploads/2023/07/ai-artificial-intelligence-clear-mannequin-dummy-image-of-the-beast-humans-man-clear-see-thhrough-transparent-transparency-pexels-1200x630.jpg",
-      "publishedAt": "2026-09-27T18:41:30Z",
-      "content": "The conventional wisdom is well-established: the race between the United States and China to build powerful artificial intelligence is most akin to the arms race of the atomic age.\u00a0 Sam Altman of Ope\u2026 [+4595 chars]"
     }
   ]
 }

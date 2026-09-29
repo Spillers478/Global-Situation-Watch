@@ -1,9 +1,11 @@
 {
   "groups": {
-    "https://theconversation.com/child-malnutrition-is-one-of-africas-biggest-health-challenges-food-aid-is-only-part-of-the-solution-291163": "a",
-    "https://www.globalsecurity.org/military/library/news/2026/09/mil-260928-unhcr01.htm": "b",
-    "https://www.aljazeera.com/features/2026/9/27/my-hands-are-empty-displaced-palestinians-struggle-to-survive": "c",
-    "https://www.hrw.org/news/2026/09/27/syria-reconstruction-deals-lack-critical-rights-framework": "d"
+    "https://theconversation.com/can-we-predict-genocide-by-listening-to-what-leaders-say-research-finds-common-threads-289042": "a",
+    "https://theconversation.com/child-malnutrition-is-one-of-africas-biggest-health-challenges-food-aid-is-only-part-of-the-solution-291163": "b",
+    "https://www.globalsecurity.org/military/library/news/2026/09/mil-260928-unhcr01.htm": "c",
+    "https://www.globalsecurity.org/military/library/news/2026/09/mil-260928-iom01.htm": "d",
+    "https://www.aljazeera.com/features/2026/9/27/my-hands-are-empty-displaced-palestinians-struggle-to-survive": "e",
+    "https://www.hrw.org/news/2026/09/27/syria-reconstruction-deals-lack-critical-rights-framework": "f"
   },
   "contradictions": []
 }

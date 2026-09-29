@@ -1,7 +1,59 @@
 {
   "status": "ok",
-  "totalResults": 184,
+  "totalResults": 188,
   "articles": [
+    {
+      "source": {
+        "id": "rt",
+        "name": "RT"
+      },
+      "author": "RT",
+      "title": "\u2018Victory will be ours\u2019 \u2013 Putin",
+      "description": "Russia cannot be intimidated or defeated, President Vladimir Putin has said following the country\u2019s parliamentary elections Read Full Article at RT.com",
+      "url": "https://www.rt.com/russia/646385-putin-russia-victory-elections/",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6abacdbc203027789a153e24.jpg",
+      "publishedAt": "2026-09-28T21:11:07Z",
+      "content": "Russia\u2019s parliamentary elections have shown that its people cannot be intimidated or defeated, President Vladimir Putin has said.\r\nSpeaking at a Kremlin meeting with the leadership of political parti\u2026 [+1600 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Defense One"
+      },
+      "author": "Jennifer Hlad",
+      "title": "Treat operational feedback as a strategic resource, new paper argues",
+      "description": "And view software as a continuously developing capability, rather than a completed product.",
+      "url": "https://www.defenseone.com/business/2026/09/treat-operational-feedback-strategic-resource-new-paper-argues/416284/",
+      "urlToImage": "https://cdn.defenseone.com/media/img/cd/2026/09/28/GettyImages_2293343072/open-graph.jpg",
+      "publishedAt": "2026-09-28T20:56:43Z",
+      "content": "As the Pentagon overhauls its acquisition system, it should take lessons from recent and ongoing wars, a new report argues.\r\nFrom Israel, the U.S. should learn that operational feedback should be tre\u2026 [+2790 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rigzone"
+      },
+      "author": "M. Gindis, C. Gorrivan",
+      "title": "Oil Edges Higher as Supply Tightens",
+      "description": "Oil rose modestly as traders weighed tight supplies against progress toward reopening Hormuz.",
+      "url": "https://www.rigzone.com/news/wire/oil_edges_higher_as_supply_tightens-28-sep-2026-184721-article/",
+      "urlToImage": "https://images.rigzone.com/images/news/articles/Oil-Edges-Higher-as-Supply-Tightens-184721-1200x628.png",
+      "publishedAt": "2026-09-28T20:12:57Z",
+      "content": "Oil ticked higher as strong demand for physical barrels collided with easing supply disruptions in the Middle East and progress toward reopening the Strait of Hormuz, though repeated false starts hav\u2026 [+3693 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "OilPrice.com"
+      },
+      "author": "Shahriar Sheikhlar",
+      "title": "The World Is Entering a New Era of Energy Security",
+      "description": "The U.S.\u2013Iran and Russia\u2013Ukraine wars are more than regional or military conflicts. They are exposing weaknesses in the global energy and economic system and demonstrating that energy security can no longer be seen as independent of financial security, transp\u2026",
+      "url": "https://oilprice.com/Energy/Energy-General/The-World-Is-Entering-a-New-Era-of-Energy-Security.html",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-28_kiuxjmaocg.jpg",
+      "publishedAt": "2026-09-28T20:00:00Z",
+      "content": "U.S. crude inventories rose by\u2026\r\nWTI swung sharply as improved\u2026\r\nChina broke ground on the\u2026\r\nBy Shahriar Sheikhlar - Sep 28, 2026, 3:00 PM CDTThe U.S.Iran and RussiaUkraine wars are more than regiona\u2026 [+13403 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1210,58 +1262,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-134532574,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-09-28T05:07:47Z",
       "content": "<ul><li>News</li>\r\n<li>Sheffield weather forecast for September 28: Sunny day with comfortable temperatures and low rain chance</li></ul>\r\nFollow Us On Social Media\r\nIran Behind Fairford Plot? UK Int\u2026 [+3214 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "The Times Of India",
-      "title": "Glasgow weather forecast: Sunny day with temperatures reaching 17\u00b0C and low chance of rain",
-      "description": "Residents of Glasgow can expect a sunny day with mild temperatures ranging from 11\u00b0C to 17\u00b0C. There is a low chance of rain, making it ideal for outdoor activities and gatherings. As the week progresses, temperatures are expected to rise, reaching up to 21\u00b0C \u2026",
-      "url": "https://timesofindia.indiatimes.com/weather/uk/glasgow-weather-forecast-sunny-day-with-temperatures-reaching-17c-and-low-chance-of-rain/articleshow/134532572.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134532570,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-28T05:07:35Z",
-      "content": "<ul><li>News</li>\r\n<li>Glasgow weather forecast: Sunny day with temperatures reaching 17\u00b0C and low chance of rain</li></ul>\r\nFollow Us On Social Media\r\nIran Behind Fairford Plot? UK Intensifies Terro\u2026 [+3200 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "The Times Of India",
-      "title": "Edinburgh weather forecast for September 28, 2026: Sunny skies with temperatures reaching 16\u00b0C",
-      "description": "Edinburgh is set to enjoy a sunny day with temperatures ranging from 8\u00b0C to 16\u00b0C. The weather forecast predicts high humidity levels at 84%, but rain chances remain exceptionally low at less than 5%. Outdoor activities are highly encouraged due to clear skies\u2026",
-      "url": "https://timesofindia.indiatimes.com/weather/uk/edinburgh-weather-forecast-for-september-28-2026-sunny-skies-with-temperatures-reaching-16c/articleshow/134532571.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134532567,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-28T05:07:34Z",
-      "content": "<ul><li>News</li>\r\n<li>Edinburgh weather forecast for September 28, 2026: Sunny skies with temperatures reaching 16\u00b0C</li></ul>\r\nFollow Us On Social Media\r\nIran Behind Fairford Plot? UK Intensifies T\u2026 [+3204 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "The Times Of India",
-      "title": "Pleasant weather in Nottingham: Sunny conditions with temperatures reaching 17\u00b0C today, September 28, 2026",
-      "description": "Nottingham is set to experience pleasant weather today with a high of 17\u00b0C and a low of 10\u00b0C. The forecast indicates minimal chance of rain, making it suitable for outdoor activities or gatherings. Tomorrow, temperatures will rise significantly to 23\u00b0C, ensur\u2026",
-      "url": "https://timesofindia.indiatimes.com/weather/uk/pleasant-weather-in-nottingham-sunny-conditions-with-temperatures-reaching-17c-today-september-28-2026/articleshow/134532568.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134532566,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-28T05:07:33Z",
-      "content": "<ul><li>News</li>\r\n<li>Pleasant weather in Nottingham: Sunny conditions with temperatures reaching 17\u00b0C today, September 28, 2026</li></ul>\r\nFollow Us On Social Media\r\nIran Behind Fairford Plot? UK I\u2026 [+3216 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "The Times Of India",
-      "title": "Bristol weather forecast: Sunny with highs of 19\u00b0C and pleasant outdoor conditions today",
-      "description": "Bristol's weather today is marked by sunny conditions and pleasant temperatures, offering ideal outdoor opportunities. Temperatures will reach a maximum of 19\u00b0C with lows around 13\u00b0C, making it comfortable for residents. The wind may peak at 33.8 kph, but it \u2026",
-      "url": "https://timesofindia.indiatimes.com/weather/uk/bristol-weather-forecast-sunny-with-highs-of-19c-and-pleasant-outdoor-conditions-today/articleshow/134532565.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134532563,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-28T05:07:30Z",
-      "content": "<ul><li>News</li>\r\n<li>Bristol weather forecast: Sunny with highs of 19\u00b0C and pleasant outdoor conditions today</li></ul>\r\nFollow Us On Social Media\r\nIran Behind Fairford Plot? UK Intensifies Terror \u2026 [+3198 chars]"
     }
   ]
 }

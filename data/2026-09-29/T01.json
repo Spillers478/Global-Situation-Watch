@@ -1,7 +1,33 @@
 {
   "status": "ok",
-  "totalResults": 15,
+  "totalResults": 17,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Antiwar.com"
+      },
+      "author": "Dave Decamp",
+      "title": "Saudi Airstrike on Civilian Home in Yemen Kills Four: Yemeni Health Ministry",
+      "description": "A Saudi airstrike hit a home in Yemen's Taiz province on Monday, killing at least four civilians, according to the Yemeni Health Ministry within the Ansar Allah-led government. The Health Ministry said that three women and an elderly man were killed in the at\u2026",
+      "url": "https://news.antiwar.com/2026/09/28/saudi-airstrike-on-civilian-home-in-yemen-kills-four-yemeni-health-ministry/",
+      "urlToImage": "https://news.antiwar.com/wp-content/uploads/2026/09/Yemen-health-minister-scaled.png",
+      "publishedAt": "2026-09-28T20:12:26Z",
+      "content": "A Saudi airstrike hit a home in Yemen\u2019s Taiz province on Monday, killing at least four civilians, according to the Yemeni Health Ministry within the Ansar Allah-led government.\r\nThe Health Ministry s\u2026 [+2548 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "Shane Magee",
+      "title": "Last man sentenced for role in Moncton home invasion that led to teen's death",
+      "description": "A man who backed out of a home invasion and robbery that left a teen dead four years ago in Moncton has avoided jail time.",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/jerek-england-sentence-joedin-leger-9.7361378",
+      "urlToImage": "https://i.cbc.ca/ais/14bd3f8b-65a6-41d2-ae9c-63f490df7670,1788292110980/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2021%2C1136%29%3BResize%3D620",
+      "publishedAt": "2026-09-28T20:10:29Z",
+      "content": "A man who backed out of a home invasion and robbery that left a teen dead four years ago in Moncton has avoided jail time.\r\nJerek John England, 27, received a 19-month conditional sentence that will \u2026 [+5273 chars]"
+    },
     {
       "source": {
         "id": "cbc-news",

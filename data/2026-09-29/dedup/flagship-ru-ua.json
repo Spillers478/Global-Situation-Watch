@@ -1,30 +1,53 @@
 {
   "groups": {
-    "https://www.newser.com/story/397197/ukraines-capture-of-two-n-korean-pows-goes-public.html": "b",
-    "https://nypost.com/2026/09/28/world-news/trump-envoys-tout-real-progress-after-marathon-meetings-at-un-general-assembly/": "c",
-    "https://www.rt.com/russia/646367-ukraine-is-asking-for-truce/": "d",
+    "https://www.rt.com/russia/646385-putin-russia-victory-elections/": "d",
+    "https://www.newser.com/story/397197/ukraines-capture-of-two-n-korean-pows-goes-public.html": "c",
+    "https://nypost.com/2026/09/28/world-news/trump-envoys-tout-real-progress-after-marathon-meetings-at-un-general-assembly/": "e",
+    "https://www.rt.com/russia/646367-ukraine-is-asking-for-truce/": "f",
     "https://www.rte.ie/news/2026/0928/1593267-deadly-russian-strikes-kill-five-and-target-kyiv-academy/": "a",
     "https://www.thejournal.ie/kyiv-drone-strike-today-7176103-Sep2026/": "a",
     "https://www.aljazeera.com/gallery/2026/9/28/photos-aftermath-of-a-russian-drone-attack-in-kyiv": "a",
     "https://www.aljazeera.com/video/newsfeed/2026/9/28/russia-strike-sets-national-academy-of-sciences-of-ukraine-ablaze": "a",
-    "https://voxeurop.eu/en/bulgaria-nato-russia/": "e",
+    "https://voxeurop.eu/en/bulgaria-nato-russia/": "g",
     "https://www.abc.net.au/news/2026-09-29/ukraine-russia-poland-strikes-scientific-centre/107205900": "a",
-    "https://www.politico.eu/article/ukraine-russia-war-territory-pows-front-line-operation-vivaldi/": "f",
-    "https://www.breitbart.com/asia/2026/09/28/leftist-south-korea-demands-ukraine-apologize-after-zelensky-reveals-north-korea-soldiers-shipped-to-seoul/": "b",
-    "https://oilprice.com/Energy/Energy-General/Whats-Putins-Secret-Post-Election-Strategy-To-Test-NATO.html": "g",
-    "https://www.rt.com/news/646370-uk-fairford-escalation-rhetoric-russia/": "h",
+    "https://www.politico.eu/article/ukraine-russia-war-territory-pows-front-line-operation-vivaldi/": "h",
+    "https://www.breitbart.com/asia/2026/09/28/leftist-south-korea-demands-ukraine-apologize-after-zelensky-reveals-north-korea-soldiers-shipped-to-seoul/": "c",
+    "https://oilprice.com/Energy/Energy-General/Whats-Putins-Secret-Post-Election-Strategy-To-Test-NATO.html": "i",
+    "https://www.rt.com/news/646370-uk-fairford-escalation-rhetoric-russia/": "j",
     "https://www.yahoo.com/news/world/articles/russia-pummels-kyiv-latest-deadly-133512181.html": "a",
     "https://www.cbsnews.com/video/russia-blasts-ukraine-with-rare-daytime-drone-strike/": "a",
-    "https://www.rt.com/news/646363-eu-intensifies-military-buildup/": "i",
-    "https://www.irishtimes.com/world/europe/2026/09/28/at-least-five-killed-in-separate-attacks-as-russia-hits-kyivs-national-academy-of-sciences/": "a",
-    "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o": "b",
-    "https://www.rt.com/russia/646352-ukraine-arms-trafficking-azov/": "j",
-    "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260928-rferl01.htm": "k",
+    "https://www.rt.com/russia/646352-ukraine-arms-trafficking-azov/": "k",
+    "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260928-rferl01.htm": "a",
     "https://www.foxnews.com/world/finlands-stubb-credits-trump-pushing-ukraine-peace-talks-while-dismissing-russian-invasion-fears": "l",
     "https://www.cbc.ca/news/world/putin-nato-europe-escalation-9.7358582": "m",
-    "https://www.rt.com/russia/646360-ukraine-admits-failure-plug-defense-hole/": "n",
-    "https://www.channelnewsasia.com/world/pope-leo-urges-concessions-peace-ukraine-war-drags-6415531": "o",
-    "https://www.yahoo.com/news/politics/articles/pope-leo-leans-statesman-role-112710984.html": "o"
+    "https://www.rt.com/russia/646389-ukraine-military-orphans-schools/": "n",
+    "https://www.rt.com/russia/646360-ukraine-admits-failure-plug-defense-hole/": "o",
+    "https://www.channelnewsasia.com/world/pope-leo-urges-concessions-peace-ukraine-war-drags-6415531": "b",
+    "https://www.yahoo.com/news/politics/articles/pope-leo-leans-statesman-role-112710984.html": "b",
+    "https://www.rt.com/news/646361-moscow-responds-swiss-neutrality-referendum-result/": "p"
   },
-  "contradictions": []
+  "contradictions": [
+    {
+      "group": "a",
+      "claim_type": "figures",
+      "summary": "Sources give different death tolls for the same wave of Russian strikes: five nationwide, seven in Kyiv alone, and six across Kyiv region, Kharkiv and Dnipro.",
+      "sources": [
+        {
+          "source": "RTE",
+          "url": "https://www.rte.ie/news/2026/0928/1593267-deadly-russian-strikes-kill-five-and-target-kyiv-academy/",
+          "says": "Strikes across Ukraine killed five people"
+        },
+        {
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/gallery/2026/9/28/photos-aftermath-of-a-russian-drone-attack-in-kyiv",
+          "says": "Strikes killed seven and injured dozens across Kyiv"
+        },
+        {
+          "source": "Globalsecurity.org",
+          "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260928-rferl01.htm",
+          "says": "At least six killed in strikes on Kyiv region, Kharkiv and Dnipro"
+        }
+      ]
+    }
+  ]
 }

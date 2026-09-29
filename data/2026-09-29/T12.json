@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 36,
+  "totalResults": 37,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Jessica Lyons",
+      "title": "JadePuffer crims hijacked Azure identities and used them to blow up cloud resources",
+      "description": "Smells like more agentic ransomware, Redmond warns",
+      "url": "https://www.theregister.com/security/2026/09/28/jadepuffer-crims-hijacked-azure-identities-and-used-them-to-blow-up-cloud-resources/5299591",
+      "urlToImage": "https://image.theregister.com/5299599.jpg?imageId=5299599&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "publishedAt": "2026-09-28T20:30:00Z",
+      "content": "The cyber criminal behind JadePuffer, the first known agentic ransomware infection reported over the summer, has also used stolen Azure identities to conduct destructive attacks on cloud storage and \u2026 [+4625 chars]"
+    },
     {
       "source": {
         "id": null,

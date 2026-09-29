@@ -3,59 +3,16 @@
     {
       "source": {
         "id": null,
-        "name": "Cisa.gov"
+        "name": "Theregister.com"
       },
-      "author": "CISA",
-      "title": "Vulnerability Summary for the Week of September 21, 2026",
-      "description": "High Vulnerabilities\r\n\n<table>\n\n<tr>\n<th>PrimaryVendor -- Product</th>\n<th>Description</th>\n<th>Published</th>\n<th>CVSS Score</th>\n<th>Source Info</th>\n</tr>\n\r\n\n\n<tr>\n<td>101gen--Automation Web Platform Notifications and OTP for WooCommerce, Advanced Country \u2026",
-      "url": "https://www.cisa.gov/news-events/bulletins/sb26-271",
-      "urlToImage": null,
-      "publishedAt": "2026-09-28T11:32:46Z",
-      "content": "The CISA Vulnerability Bulletin provides a summary of new vulnerabilities that have been recorded in the past week. In some cases, the vulnerabilities in the bulletin may not yet have assigned CVSS s\u2026 [+899 chars]",
-      "cocom": "Transregional",
-      "_original_topic_id": "T15"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kitploit.com"
-      },
-      "author": "Kitploit",
-      "title": "LazyOwn",
-      "description": "LazyOwn RedTeam/APT Framework is the first RedTeam Framework with an AI-powered C&C, featuring rootkits to conceal campaigns, undetectable malleable implants compatible with Windows/Linux/Mac OSX, and self-configuring backdoors. With its Web interface and pow\u2026",
-      "url": "https://kitploit.com/en/tools/github/grisuno/lazyown/",
-      "urlToImage": "https://assets.kitploit.com/production/public/tools/56369/bac4f80f9319199f9365a8398978b97e5aa90c36502cfb9bf30946b42f73fc19-social-v1.webp",
-      "publishedAt": "2026-09-28T19:38:18Z",
-      "content": "Skip to contentHacking, PenTest, and Cybersecurity Tools for Your Security Arsenal!\r\nKitploit is a directory of hacking, cybersecurity, and pentesting tools. Discover the latest project updates to fi\u2026 [+112400 chars]",
+      "author": "Jessica Lyons",
+      "title": "JadePuffer crims hijacked Azure identities and used them to blow up cloud resources",
+      "description": "Smells like more agentic ransomware, Redmond warns",
+      "url": "https://www.theregister.com/security/2026/09/28/jadepuffer-crims-hijacked-azure-identities-and-used-them-to-blow-up-cloud-resources/5299591",
+      "urlToImage": "https://image.theregister.com/5299599.jpg?imageId=5299599&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "publishedAt": "2026-09-28T20:30:00Z",
+      "content": "The cyber criminal behind JadePuffer, the first known agentic ransomware infection reported over the summer, has also used stolen Azure identities to conduct destructive attacks on cloud storage and \u2026 [+4625 chars]",
       "cocom": "Transregional"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Ben Shimkus",
-      "title": "OpenAI staffer says he missed his sister's wedding to help with AI safety incidents",
-      "description": "An OpenAI agent-security staffer said he missed his sister's wedding to help respond to recent AI-security incidents.",
-      "url": "https://www.businessinsider.com/openai-missed-wedding-security-breach-hugging-face-2026-9#article",
-      "urlToImage": "https://i.insider.com/6abab385265e3f8e338f7ecb?width=1200&format=jpeg",
-      "publishedAt": "2026-09-28T19:31:51Z",
-      "content": "An OpenAI security staffer said the company has been caught off guard by the model's new powers.Smith Collection/Gado/Getty Images\r\n<ul><li>An OpenAI security staffer said he missed a family wedding \u2026 [+2792 chars]",
-      "cocom": "Transregional"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Hayden Field",
-      "title": "AI is supercharging hacking, and your local hospitals and banks aren\u2019t ready",
-      "description": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headquartered in Alabama, typically provided training, resources, and community to underserved and minority-owned businesses. \u2026",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299205/STK453_Privacy_D_CVirginia.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-      "publishedAt": "2026-09-28T18:25:22Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nAI is supercharging hacking, and your local hospitals and banks arent ready\r\nNew models are helping Big Tech shore up its cyber defenses. What about everyone els\u2026 [+13360 chars]",
-      "cocom": "USNORTHCOM"
     },
     {
       "source": {
@@ -144,20 +101,6 @@
     {
       "source": {
         "id": null,
-        "name": "Dailyhunt.in"
-      },
-      "author": "Ndtv World",
-      "title": "As US Warns Of AI Risks, China Calls It 'Fear Marketing'",
-      "description": "As a debate over AI safety rages on, stakeholders, including Microsoft co-founder Bill Gates, have called for stricter regulations related to the development of advanced models.",
-      "url": "https://m.dailyhunt.in/news/india/english/ndtv+world-epaper-ndtvw/as+us+warns+of+ai+risks+china+calls+it+fear+marketing-newsid-n728453391",
-      "urlToImage": "https://assets-news-bcdn.dailyhunt.in/cmd/resize/1200x630_75/fetchdata20/images/d7/be/64/d7be644e0258c743cba7cdfa7bea0a49955b29cfbbbbf83c60505ce97b3fbf3b.webp",
-      "publishedAt": "2026-09-28T12:57:44Z",
-      "content": "But many in China, much like US President Donald Trump, don't buy it.\r\nCalls have been growing for the US and China to work together on AI safety. While US President Donald Trump has termed the fears\u2026 [+2410 chars]",
-      "cocom": "Transregional"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Internet"
       },
       "author": "info@thehackernews.com (The Hacker News)",
@@ -209,20 +152,6 @@
       "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2025/07/08172050/netscaler-1500-red.webp",
       "publishedAt": "2026-09-28T09:51:32Z",
       "content": "Citrix has patched eight critical and high-severity vulnerabilities in NetScaler ADC and NetScaler Gateway, two of which (CVE-2026-88771, CVE-2026-88772) have been exploited in zero-day attacks to pl\u2026 [+4777 chars]",
-      "cocom": "Transregional"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kitploit.com"
-      },
-      "author": "Kitploit",
-      "title": "DFIR-Companion",
-      "description": "DFIR forensics companion server + capture extension",
-      "url": "https://kitploit.com/en/tools/github/hasamba/dfir-companion/",
-      "urlToImage": "https://assets.kitploit.com/production/public/tools/56345/a7ef0714537560d0e0f8f9eb8acef613d50c5328a3c17a0e3e2d3249051fbc38-social-v1.webp",
-      "publishedAt": "2026-09-28T09:35:07Z",
-      "content": "Skip to contentHacking, PenTest, and Cybersecurity Tools for Your Security Arsenal!\r\nKitploit is a directory of hacking, cybersecurity, and pentesting tools. Discover the latest project updates to fi\u2026 [+114663 chars]",
       "cocom": "Transregional"
     },
     {
@@ -307,20 +236,6 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260927-sam-altman-unga-ww-1431-9a5b8b.jpg",
       "publishedAt": "2026-09-27T22:40:57Z",
       "content": "OpenAI said it has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount.\r\nThe decision to halt development came just hours after the company disclose\u2026 [+3016 chars]",
-      "cocom": "USNORTHCOM"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Tom McKay",
-      "title": "OpenAI to Halt Training of Some Models",
-      "description": "OpenAI is facing a firestorm of criticism over incidents where its agents made unauthorized use of credentials, leaked data, and hacked websites.",
-      "url": "https://gizmodo.com/openai-to-halt-training-of-some-models-2000817912",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/03/sam-altman-nervous-1200x675.jpg",
-      "publishedAt": "2026-09-27T21:21:27Z",
-      "content": "OpenAI has halted training of its latest AI models as reports of them \u201cgoing rogue\u201d stack upincluding a cyberattack on AI platform Hugging Face, other attacks on third parties originating from securi\u2026 [+3029 chars]",
       "cocom": "USNORTHCOM"
     }
   ]

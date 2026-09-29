@@ -2,6 +2,21 @@
   "articles": [
     {
       "source": {
+        "id": null,
+        "name": "Foreign Policy"
+      },
+      "author": "Howard W. French",
+      "title": "What Xi Actually Thinks of Trump",
+      "description": "China\u2019s president has likely concluded that the U.S. under Trump has lost its way.",
+      "url": "http://foreignpolicy.com/2026/09/28/xi-trump-summit-washington-us-china/",
+      "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2026/09/Trump-Xi-summit-GettyImages-2296267633.jpg",
+      "publishedAt": "2026-09-28T20:40:22Z",
+      "content": "One of the most important outcomes of the recent summit in Washington between U.S. President Donald Trump and his Chinese counterpart, Xi Jinping, is something we are unlikely to learn soon, if ever.\u2026 [+7203 chars]",
+      "cocom": "USINDOPACOM",
+      "_original_topic_id": "flagship-ir-il"
+    },
+    {
+      "source": {
         "id": "cbc-news",
         "name": "CBC News"
       },
@@ -100,34 +115,6 @@
     },
     {
       "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Pranjal Pandey",
-      "title": "Evening newswrap: Saudi airstrike kills 7 in Yemen; Delhi PWD minister seen slapping man & more",
-      "description": "A Saudi airstrike killed seven people and wounded 40 at a market in Yemen's Taiz province as fighting intensified following a fresh Houthi offensive.",
-      "url": "https://timesofindia.indiatimes.com/india/evening-newswrap-saudi-airstrike-kills-7-in-yemen-delhi-pwd-minister-seen-slapping-man-more/articleshow/134520704.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134521118,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-27T13:25:37Z",
-      "content": "View All Comments \r\nShare your thoughts in the comments\r\nInsightfulAgreeDisagreeSkepticalConcerningPromisingWorth ReadingBig Development\r\nBe respectful \u00b7 TOI community guidelines",
-      "cocom": "USCENTCOM"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Vijaya Srivastava",
-      "title": "7 killed, 40 wounded as Saudi airstrike hits Yemen market amid fresh Houthi offensive",
-      "description": "A Saudi airstrike in the Taiz province of Yemen killed seven people and injured 40 others, including children. The Houthi-run health ministry reported that the strike targeted a central marketplace, which has seen intensified fighting recently. This assault f\u2026",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/7-killed-40-wounded-as-saudi-airstrike-hits-yemen-market-amid-fresh-houthi-offensive/articleshow/134520692.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134520856,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-27T13:07:48Z",
-      "content": "Follow Us On Social Media\r\nAt least 12 killed after vessel overturns in DR CongoResidents demand long-distance train stoppages at Ghoghardiha station in MadhubaniPost #80: I turned my first 79 posts \u2026 [+1497 chars]",
-      "cocom": "USCENTCOM"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Abcnews.com"
       },
@@ -204,36 +191,6 @@
     {
       "source": {
         "id": null,
-        "name": "Globalresearch.ca"
-      },
-      "author": "Dr. Amir A. Amirshekari",
-      "title": "The Horn of Africa Ablaze: Ethiopia\u2019s Cycle of Violence from a Fragile Accord to Regional Conflict",
-      "description": "Ethiopia, a nation that nurtured aspirations for the cessation of violence following the 2022 peace accord, is gradually being drawn into the maelstrom of a \u2018multi-front war\u2019\u2014a conflict poised to assume dimensions far more devastating than those of its predec\u2026",
-      "url": "https://www.globalresearch.ca/horn-africa-reappraisal-ethiopia-cycle-violence/5941953",
-      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2022/01/Tigray-768x512.jpg",
-      "publishedAt": "2026-09-28T13:21:28Z",
-      "content": "Ethiopia, a nation that nurtured aspirations for the cessation of violence following the 2022 peace accord, is gradually being drawn into the maelstrom of a multi-front wara conflict poised to assume\u2026 [+14124 chars]",
-      "cocom": "USAFRICOM",
-      "_original_topic_id": "T05"
-    },
-    {
-      "source": {
-        "id": "abc-news-au",
-        "name": "ABC News (AU)"
-      },
-      "author": "Bang Xiao",
-      "title": "For Xi, America is no longer the centre of China's strategy",
-      "description": "At the glittering high point of the White House state dinner, the hierarchy of the world's two great powers was laid bare.",
-      "url": "https://www.abc.net.au/news/2026-09-29/china-america-xi-jinping-donald-trump/107205376",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/08932e0c73ff4cad0b667b7070ed045e?impolicy=wcms_watermark_news&cropH=1185&cropW=2107&xPos=0&yPos=520&width=862&height=485&imformat=generic",
-      "publishedAt": "2026-09-28T19:05:11Z",
-      "content": "At the high point of the White House state dinner, the hierarchy of the worlds two great powers was laid bare.\u00a0\r\nAround the head table at the centre of the room sat two of the most powerful leaders, \u2026 [+6174 chars]",
-      "cocom": "USINDOPACOM",
-      "_original_topic_id": "T07"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "The Intercept"
       },
       "author": "Sam Biddle",
@@ -243,51 +200,6 @@
       "urlToImage": "https://theintercept.com/wp-content/uploads/2026/09/AP26259482609914-e1790371958262.jpg?fit=6000%2C3000&w=1200&h=800",
       "publishedAt": "2026-09-28T16:54:05Z",
       "content": "The global tech industry, politicians at home and abroad, and international media coverage are transfixed by one question: Will rogue AI end humanity? Few seem to be asking this question of the Depar\u2026 [+14803 chars]",
-      "cocom": "USINDOPACOM",
-      "_original_topic_id": "T07"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Diplomat"
-      },
-      "author": "Mitch Shin",
-      "title": "Lee Asks Trump to Help Revive North Korea Talks During New York Trip",
-      "description": "During a Lee-Trump meeting at the U.N. General Assembly, Seoul said the U.S. president reaffirmed his willingness to talk with North Korean leader Kim Jong Un.",
-      "url": "https://thediplomat.com/2026/09/lee-asks-trump-to-help-revive-north-korea-talks-during-new-york-trip/",
-      "urlToImage": "https://thediplomat.com/wp-content/uploads/2026/09/sizes/td-story-s-2/thediplomat_2026-09-28-224538.jpg",
-      "publishedAt": "2026-09-28T13:36:00Z",
-      "content": "South Korean President Lee Jae-myung asked U.S. President Donald Trump to help restart talks between the United States and North Korea in an unannounced meeting on the sidelines of the United Nations\u2026 [+11198 chars]",
-      "cocom": "USINDOPACOM",
-      "_original_topic_id": "T07"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Pranjal Pandey",
-      "title": "North Korean mines likely behind blasts that injured 3 South Korean personnel, Seoul says",
-      "description": "Three South Korean officers were injured in explosions, likely caused by North Korean mines within the demilitarised zone. The joint chiefs of staff and US-led United Nations Command confirmed the preliminary findings after an investigation. Witnesses reporte\u2026",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/north-korean-mines-likely-behind-blasts-that-injured-3-south-korean-personnel-seoul-says/articleshow/134543288.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134543873,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-28T13:09:57Z",
-      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service",
-      "cocom": "USINDOPACOM",
-      "_original_topic_id": "T07"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abcnews.com"
-      },
-      "author": "KIM TONG-HYUNG Associated Press",
-      "title": "S. Korea says border blasts injured 3 officers was likely caused by N. Korean mines",
-      "description": "South Korea\u2019s military says a set of explosions that injured three of its officers last week inside the heavily fortified Demilitarized Zone separating the Koreas were likely caused by North Korean mines",
-      "url": "https://abcnews.com/International/wireStory/south-korea-border-blasts-injured-3-officers-caused-136818573",
-      "urlToImage": "https://i.abcnewsfe.com/a/265f9f10-5fee-4f9a-a99d-ff84f3f45081/wirestory_3eb069b3d252d4451958de25893a74ea_16x9.jpg?w=1600",
-      "publishedAt": "2026-09-28T12:47:32Z",
-      "content": "SEOUL, South Korea -- SEOUL, South Korea (AP) North Korea likely planted the land mines that exploded and injured three South Korean soldiers at the countrys heavily-armed border last week, South Kor\u2026 [+5818 chars]",
       "cocom": "USINDOPACOM",
       "_original_topic_id": "T07"
     },

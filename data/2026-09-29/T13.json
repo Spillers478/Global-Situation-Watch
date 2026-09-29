@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 27,
+  "totalResults": 28,
   "articles": [
     {
       "source": {
@@ -99,6 +99,19 @@
         "name": "Globalsecurity.org"
       },
       "author": "John Pike",
+      "title": "'Ballot must replace the bullets', South Sudan tells General Assembly ahead of elections",
+      "description": "South Sudan remains committed to holding general elections in December to conclude its transition period, the country's Permanent Representative to the United Nations Cecilia Adout Majok Adeng, told the General Assembly on Monday, calling for all sanctions, i\u2026",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260928-unnews01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-28T12:00:00Z",
+      "content": "28 September 2026 - South Sudan remains committed to holding general elections in December to conclude its transition period, the country's Permanent Representative to the United Nations Cecilia Adou\u2026 [+2900 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
       "title": "DR Congo Ebola emergency: Calls grow for urgent humanitarian access",
       "description": "Aid teams trying to keep deadly Ebola disease from spreading in the Democratic Republic of the Congo (DRC) are increasingly concerned about ongoing fighting and violence that has forced thousands of people to flee a displacement camp in the vast, resource-ric\u2026",
       "url": "https://www.globalsecurity.org/security/library/news/2026/09/sec-260928-unnews01.htm",
@@ -118,19 +131,6 @@
       "urlToImage": null,
       "publishedAt": "2026-09-28T12:00:00Z",
       "content": "UNOHCHR\r\nPress releasesSpecial Procedures\r\n28 September 2026\r\nGENEVA -- US migration externalization arrangements are already putting migrants at heightened risk of human rights violations, including\u2026 [+10379 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalsecurity.org"
-      },
-      "author": "John Pike",
-      "title": "'Ballot must replace the bullets', South Sudan tells General Assembly ahead of elections",
-      "description": "South Sudan remains committed to holding general elections in December to conclude its transition period, the country's Permanent Representative to the United Nations Cecilia Adout Majok Adeng, told the General Assembly on Monday, calling for all sanctions, i\u2026",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260928-unnews01.htm",
-      "urlToImage": null,
-      "publishedAt": "2026-09-28T12:00:00Z",
-      "content": "28 September 2026 - South Sudan remains committed to holding general elections in December to conclude its transition period, the country's Permanent Representative to the United Nations Cecilia Adou\u2026 [+2900 chars]"
     },
     {
       "source": {

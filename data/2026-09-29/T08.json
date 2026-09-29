@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 7,
+  "totalResults": 8,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "X.com",
+      "title": "\u201cOct 7 was not just a Charlie Hebdo-style terrorist attack. It was an act of war. More than 7,000 Hamas terrorists penetrated the frontier at more than 100 points....they had been instructed to r8pe, behead, torture, and kidnap men, women, and children.\u201d",
+      "description": "Larry Alex Taunton@LarryTaunton\u00b722hPassing time in a tightly packed airport coffee shop recently, I ended up in conversation with a thirty-something couple sitting only inches from me. I was coming from Mexico City and they were going there. After the usual b\u2026",
+      "url": "https://freerepublic.com/focus/f-chat/4397193/posts",
+      "urlToImage": null,
+      "publishedAt": "2026-09-28T20:01:38Z",
+      "content": "Larry Alex Taunton\r\n@LarryTaunton\r\n\u00b722h\r\nPassing time in a tightly packed airport coffee shop recently, I ended up in conversation with a thirty-something couple sitting only inches from me. I was co\u2026 [+3896 chars]"
+    },
     {
       "source": {
         "id": null,

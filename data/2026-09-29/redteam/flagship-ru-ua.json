@@ -2,6 +2,20 @@
   "articles": [
     {
       "source": {
+        "id": "rt",
+        "name": "RT"
+      },
+      "author": "RT",
+      "title": "\u2018Victory will be ours\u2019 \u2013 Putin",
+      "description": "Russia cannot be intimidated or defeated, President Vladimir Putin has said following the country\u2019s parliamentary elections Read Full Article at RT.com",
+      "url": "https://www.rt.com/russia/646385-putin-russia-victory-elections/",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6abacdbc203027789a153e24.jpg",
+      "publishedAt": "2026-09-28T21:11:07Z",
+      "content": "Russia\u2019s parliamentary elections have shown that its people cannot be intimidated or defeated, President Vladimir Putin has said.\r\nSpeaking at a Kremlin meeting with the leadership of political parti\u2026 [+1600 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Newser"
       },
@@ -12,7 +26,7 @@
       "urlToImage": "https://cdn.newser.com/image/1714460-12-20260928143519.jpeg",
       "publishedAt": "2026-09-28T19:19:00Z",
       "content": "Ukraine's transfer of two captured North Korean POWs to South Korea had been a hush-hush affair\u2014until Volodymyr Zelensky told the world in a UN speech last week. The POWs, identified only as Paek and\u2026 [+964 chars]",
-      "cocom": "USINDOPACOM"
+      "cocom": "USEUCOM"
     },
     {
       "source": {
@@ -26,7 +40,7 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/142492319.jpg?quality=75&strip=all&w=1200",
       "publishedAt": "2026-09-28T18:30:39Z",
       "content": "UNITED NATIONS \u2014 President Trump\u2019s peace envoys are touting \u201creal progress\u201d after holding talks on the sidelines of the UN General Assembly, including negotiations on the Russia-Ukraine war and the U\u2026 [+6127 chars]",
-      "cocom": "Transregional"
+      "cocom": "USEUCOM"
     },
     {
       "source": {
@@ -152,7 +166,7 @@
       "urlToImage": "https://media.breitbart.com/media/2026/09/north-korea-soldiers-640x335.jpg",
       "publishedAt": "2026-09-28T16:10:25Z",
       "content": "The leftist government of South Korea demanded a public apology on Sunday from the government of Ukraine after President Volodymyr Zelensky told the United Nations General Assembly last week that his\u2026 [+5806 chars]",
-      "cocom": "USEUCOM"
+      "cocom": "Transregional"
     },
     {
       "source": {
@@ -216,48 +230,6 @@
         "name": "RT"
       },
       "author": "RT",
-      "title": "EU intensifies defense and military buildup push",
-      "description": "The EU has approved five joint defense projects in a new militarization push, with Ukraine joining four of them Read Full Article at RT.com",
-      "url": "https://www.rt.com/news/646363-eu-intensifies-military-buildup/",
-      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6aba786d20302742d701b102.jpg",
-      "publishedAt": "2026-09-28T15:03:29Z",
-      "content": "The EU has greenlit a slew of new joint defense-industrial initiatives, with Ukraine joining most of them, as Brussels presses ahead with its defense buildup despite Russia\u2019s warnings against the blo\u2026 [+3141 chars]",
-      "cocom": "USEUCOM"
-    },
-    {
-      "source": {
-        "id": "the-irish-times",
-        "name": "The Irish Times"
-      },
-      "author": null,
-      "title": "At least five killed in separate attacks as Russia hits Kyiv\u2019s National Academy of Sciences",
-      "description": "\u2018Russia is deliberately expanding the boundaries of what it believes the world will tolerate,\u2019 said foreign minister Andrii Sybiha",
-      "url": "https://www.irishtimes.com/world/europe/2026/09/28/at-least-five-killed-in-separate-attacks-as-russia-hits-kyivs-national-academy-of-sciences/",
-      "urlToImage": "https://www.irishtimes.com/resizer/v2/BVZ3HAQEO3HQPTQ4R7UJIVJIZU.jpg?smart=true&auth=87163a00e60ea16ec5326290fc8d9d6fa2b5a07d665090785db12ce87411d29f&width=1200&height=630",
-      "publishedAt": "2026-09-28T14:57:47Z",
-      "content": "At least one person was killed when a drone hit the National Academy of Sciences in central Kyiv on Monday, as Russia attacked the centre of the Ukrainian capital.\r\nKyiv mayor Vitali Klitschko said a\u2026 [+2441 chars]",
-      "cocom": "USEUCOM"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
-      "description": "Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - which Seoul says was meant to be a secret.",
-      "url": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/39e9/live/bf7ff6f0-bb48-11f1-a071-65d2e11c8f4a.jpg",
-      "publishedAt": "2026-09-28T14:57:31Z",
-      "content": "South Korea has summoned Ukraine's acting ambassador after President Volodymyr Zelensky last week announced his government had transferred two captured North Korean soldiers to Seoul.\r\nVice Foreign M\u2026 [+3595 chars]",
-      "cocom": "USEUCOM"
-    },
-    {
-      "source": {
-        "id": "rt",
-        "name": "RT"
-      },
-      "author": "RT",
       "title": "Weapons stolen from Ukraine front line handed to notorious neo-Nazi unit",
       "description": "Ukraine\u2019s State Bureau of Investigation has reported handing about $100,000 worth of confiscated weapons to the Azov Corps Read Full Article at RT.com",
       "url": "https://www.rt.com/russia/646352-ukraine-arms-trafficking-azov/",
@@ -311,6 +283,21 @@
       "content": "European military experts are tracking urgent danger signs that suggest Vladimir Putin may be preparing for a direct escalation against the NATO alliance.\r\nWhat analysts are split over is whether the\u2026 [+7783 chars]",
       "cocom": "USEUCOM",
       "_original_topic_id": "T03"
+    },
+    {
+      "source": {
+        "id": "rt",
+        "name": "RT"
+      },
+      "author": "RT",
+      "title": "Ukraine trains military orphans to \u2018replace fallen fathers\u2019 \u2013 WaPo",
+      "description": "The Ukrainian government has set up boarding schools for children of fallen servicemen, preparing them for careers in the security services Read Full Article at RT.com",
+      "url": "https://www.rt.com/russia/646389-ukraine-military-orphans-schools/",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6abad930203027722540efa6.jpg",
+      "publishedAt": "2026-09-28T21:17:13Z",
+      "content": "The Ukrainian government has set up five boarding schools for children whose parents were killed, went missing, or were disabled in the conflict with Russia, preparing them for careers in the country\u2026 [+2306 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T05"
     },
     {
       "source": {

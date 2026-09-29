@@ -2,6 +2,21 @@
   "articles": [
     {
       "source": {
+        "id": null,
+        "name": "Defense One"
+      },
+      "author": "Jennifer Hlad",
+      "title": "Treat operational feedback as a strategic resource, new paper argues",
+      "description": "And view software as a continuously developing capability, rather than a completed product.",
+      "url": "https://www.defenseone.com/business/2026/09/treat-operational-feedback-strategic-resource-new-paper-argues/416284/",
+      "urlToImage": "https://cdn.defenseone.com/media/img/cd/2026/09/28/GettyImages_2293343072/open-graph.jpg",
+      "publishedAt": "2026-09-28T20:56:43Z",
+      "content": "As the Pentagon overhauls its acquisition system, it should take lessons from recent and ongoing wars, a new report argues.\r\nFrom Israel, the U.S. should learn that operational feedback should be tre\u2026 [+2790 chars]",
+      "cocom": "USNORTHCOM",
+      "_original_topic_id": "flagship-ru-ua"
+    },
+    {
+      "source": {
         "id": "abc-news-au",
         "name": "ABC News (AU)"
       },
@@ -14,6 +29,36 @@
       "content": "North Korea has long held the reputation as the world's most closed-off and secretive nation.\r\nNow, the \"Hermit Kingdom\" is set to have two bridges linking it to its closest allies.\r\nNorth Korea and \u2026 [+8655 chars]",
       "cocom": "USINDOPACOM",
       "_original_topic_id": "flagship-ru-ua"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Defense One"
+      },
+      "author": "Jennifer Hlad",
+      "title": "Treat operational feedback as a strategic resource, new paper argues",
+      "description": "And view software as a continuously developing capability, rather than a completed product.",
+      "url": "https://www.defenseone.com/business/2026/09/treat-operational-feedback-strategic-resource-new-paper-argues/416284/",
+      "urlToImage": "https://cdn.defenseone.com/media/img/cd/2026/09/28/GettyImages_2293343072/open-graph.jpg",
+      "publishedAt": "2026-09-28T20:56:43Z",
+      "content": "As the Pentagon overhauls its acquisition system, it should take lessons from recent and ongoing wars, a new report argues.\r\nFrom Israel, the U.S. should learn that operational feedback should be tre\u2026 [+2790 chars]",
+      "cocom": "USNORTHCOM",
+      "_original_topic_id": "flagship-ir-il"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Subhadra Srivastava",
+      "title": "Trump denies offering US arms to China\u2019s Xi, contradicts his own envoy",
+      "description": "US president Donald Trump on Monday denied asking Chinese president Xi Jinping whether he wanted to buy American weapons, contradicting US Ambassador to",
+      "url": "https://timesofindia.indiatimes.com/world/us/trump-denies-offering-us-arms-to-chinas-xi-contradicts-his-own-envoy/articleshow/134550046.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134550058,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-28T20:27:07Z",
+      "content": "Follow Us On Social Media\r\nTrump Under Pressure From Veterans &amp; Republican At Home As Iran War Drives Fuel Prices HigherFairford Terror Probe Deepens: Five Suspects Out On Bail, Police Explore Fo\u2026 [+3017 chars]",
+      "cocom": "USINDOPACOM",
+      "_original_topic_id": "flagship-ir-il"
     },
     {
       "source": {
@@ -43,21 +88,6 @@
       "publishedAt": "2026-09-28T16:16:52Z",
       "content": "Relying too heavily on internet-connected commercial AI could introduce dangerous new vulnerabilities into warfare, a top executive told the Daily Caller News Foundation in an exclusive interview.\r\nA\u2026 [+10483 chars]",
       "cocom": "USNORTHCOM",
-      "_original_topic_id": "T07"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Jason M. Blazakis, Professor of the Practice and Director of Center on Terrorism, Extremism and Counterterrorism, Middlebury College",
-      "title": "Trump wants an AI Force like Space Force, but that could make AI\u2019s risks harder to manage",
-      "description": "An AI Force would likely push China to create its own. That arms race could turn a technology already slipping out of human control into a weapon.",
-      "url": "https://theconversation.com/trump-wants-an-ai-force-like-space-force-but-that-could-make-ais-risks-harder-to-manage-292575",
-      "urlToImage": "https://images.theconversation.com/files/761853/original/file-20260923-50-l3n1i4.jpg?ixlib=rb-4.1.1&rect=0%2C1067%2C8256%2C4128&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2026-09-28T12:39:13Z",
-      "content": "Anthropic CEO Dario Amodei appeared by video during a U.N. Security Council meeting on artificial intelligence during the General Assembly in New York on Sept. 23, 2026. Angela Weiss/AFP via Getty Im\u2026 [+6782 chars]",
-      "cocom": "Transregional",
       "_original_topic_id": "T07"
     },
     {

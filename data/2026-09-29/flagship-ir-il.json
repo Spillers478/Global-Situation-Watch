@@ -1,7 +1,566 @@
 {
   "status": "ok",
-  "totalResults": 654,
+  "totalResults": 697,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": "HuffPost",
+      "title": "Trump Is Finally Admitting His War Against Iran Is Not Over And He Has Not Won It",
+      "description": "The concession comes after months of claiming the exact opposite.",
+      "url": "https://www.huffpost.com/entry/trump-iran-war-not-over_n_6ababc2ee4b0cdca1abdc2fa",
+      "urlToImage": "https://img.huffingtonpost.com/asset/6ababd0e18000063fcf1548b.jpeg?cache=5FSifUTzyu&ops=1200_630",
+      "publishedAt": "2026-09-28T21:31:46Z",
+      "content": "President Donald Trump speaks to members of the media on the South Lawn of the White House after arriving on Marine One in Washington, D.C., on Sunday. Iran stuck to its seven-day proposal for reopen\u2026 [+2949 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Megan  Cerullo",
+      "title": "Holiday airfares soar to 10-year high. Here's how to save on flights.",
+      "description": "Airfares for round-trip U.S. flights have jumped 31% compared to the same period last year, and tickets are likely to get pricier, according to a new analysis.",
+      "url": "https://www.cbsnews.com/news/holiday-airfares-10-year-high-jet-fuel-costs/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/28/649515a9-c867-49b3-b841-25486c327dee/thumbnail/1200x630/8356507945bccdac84d54d30df9b1525/gettyimages-2248636814.jpg",
+      "publishedAt": "2026-09-28T21:30:40Z",
+      "content": "Americans traveling for the holidays this year could face sticker shock as high jet fuel costs stemming from the\u00a0Iran war\u00a0drive up domestic airfares, according to a new forecast. \u00a0\r\nThe average round\u2026 [+3367 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "P.Naveen",
+      "title": "TOI Impact: MPPCB starts probe into Kymore asbestos landfill, 700 more claim files in the works",
+      "description": "MPPCB begins probe into Kymore-Kalhara asbestos landfill a decade after ECOH found 2\u201370% chrysotile; 700 new compensation claim files underway.",
+      "url": "https://timesofindia.indiatimes.com/city/bhopal/toi-impact-mppcb-starts-probe-into-kymore-asbestos-landfill-700-more-claim-files-in-the-works/articleshow/134550155.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134550153,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-28T21:29:26Z",
+      "content": "Follow Us On Social Media\r\nBigg Boss 20: Uditi Singh calls her breakup with ex Karan Wahi 'a blessing in disguise'; says 'Woh thoda dominant tha, partner hi demotivate kar raha...''Very soon: Trump p\u2026 [+1709 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Ramendra.Singh",
+      "title": "On the lines of Dubai desert safari, MP to develop Chambal ravine safari",
+      "description": "Madhya Pradesh plans Dubai-style Chambal ravine safari, inviting bids to develop adventure tourism across Gwalior, Morena, Bhind & Sheopur.",
+      "url": "https://timesofindia.indiatimes.com/city/bhopal/on-the-lines-of-dubai-desert-safari-mp-to-develop-chambal-ravine-safari/articleshow/134550146.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134550145,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-28T21:25:45Z",
+      "content": "Follow Us On Social Media\r\nBigg Boss 20: Uditi Singh calls her breakup with ex Karan Wahi 'a blessing in disguise'; says 'Woh thoda dominant tha, partner hi demotivate kar raha...''Very soon: Trump p\u2026 [+1709 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Israelnationalnews.com"
+      },
+      "author": "Elad Benari",
+      "title": "Trump on Iran: I stopped them from having a nuclear weapon",
+      "description": "Trump says the Iran war will end \u201cvery soon\" with a US victory, warning of the global consequences of a nuclear-armed Iran: Israel would be wiped out, there would be no Middle East",
+      "url": "https://www.israelnationalnews.com/news/433798",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1226590.jpg",
+      "publishedAt": "2026-09-28T21:22:18Z",
+      "content": "US President Donald Trump said Monday that he expects the war with Iran to conclude very soon,\" reiterating his confidence that the United States will prevail.\r\nSpeaking in the Oval Office, Trump sai\u2026 [+2594 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Babylonbee.com"
+      },
+      "author": "Babylon Bee",
+      "title": "Click Here To See The List Of Celebrities Who Have Condemned Iran For Sentencing Women To Public Beatings For Uncovering Their Faces",
+      "description": "We are blessed to live in a world where movie stars, musicians, and celebrities of all stripes care so deeply about the oppressed people of the Middle East. There is such power in hearing these voices boldly call out injustice, wherever it may be.",
+      "url": "https://babylonbee.com/news/click-here-to-see-the-list-of-celebrities-who-have-condemned-iran-for-sentencing-women-to-public-beatings-for-uncovering-their-faces",
+      "urlToImage": "https://media.babylonbee.com/articles/6abad729260e76abad729260e8.jpg",
+      "publishedAt": "2026-09-28T21:09:53Z",
+      "content": "We are blessed to live in a world where movie stars, musicians, and celebrities of all stripes care so deeply about the oppressed people of the Middle East. There is such power in hearing these voice\u2026 [+585 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Marisa Schultz, Josh Christenson, Ronny Reyes",
+      "title": "Persian Gulf oil exports hit 72% of prewar levels \u2014 as US says Iran is \u2018exhausted\u2019 by blockade",
+      "description": "Oil flowing out of the Strait of Hormuz is on the rise as ships confidently sail under US protection \u2014 with the Persian Gulf's crude exports reaching an average of more than 13 million barrels a day in September, near pre-war levels, according to analysts.",
+      "url": "https://nypost.com/2026/09/28/world-news/persian-gulf-oil-exports-hit-72-of-prewar-levels-as-us-says-iran-is-exhausted-by-blockade/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/142895020.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-09-28T21:09:26Z",
+      "content": "The oil is flowing again in the Persian Gulf even as Iran is choking on fumes.\r\nOil exports from the region have rebounded to 72% of pre-war levels and crude flow through the Strait of Hormuz is now \u2026 [+4810 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Subhadra Srivastava",
+      "title": "'Very soon\u2019: Trump predicts US victory in Iran war, says gas prices will tumble",
+      "description": "US president Donald Trump said on Monday that the United States would win its war with Iran \u201cvery soon\u201d, predicting that gas prices would tumble and oil",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/very-soon-trump-predicts-us-victory-in-iran-war-says-gas-prices-will-tumble/articleshow/134550107.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134550109,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-28T21:05:59Z",
+      "content": "Follow Us On Social Media\r\nErdogan Demands Accountability For Gaza Deaths, Says Turkey Will Not Change Stance Against IsraelChina Challenges Germanys Industrial Edge As Exports Fall, Carmakers Face P\u2026 [+3196 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Signal"
+      },
+      "author": "Al Perrotta",
+      "title": "Victor Davis Hanson: Is Iran\u2019s Regime About to Crack?",
+      "description": "Editor\u2019s note: This is a lightly edited transcript of today\u2019s video from Daily Signal senior contributor\u00a0Victor Davis Hanson.\u00a0Subscribe to our YouTube channel to see more of his videos. Hello, this is Victor Davis Hanson for the Daily Signal. \u00a0 Sometimes when\u2026",
+      "url": "https://www.dailysignal.com/2026/09/28/hanson-irans-regime-about-to-crack/",
+      "urlToImage": "https://static.dailysignalmedia.org/2026/09/260928_Iranian_President.gif",
+      "publishedAt": "2026-09-28T21:00:00Z",
+      "content": "Editors note: This is a lightly edited transcript of todays video from Daily Signal senior contributor\u00a0Victor Davis Hanson.\u00a0Subscribe to our YouTube channel to see more of his videos.\r\nHello, this is\u2026 [+8317 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Defense One"
+      },
+      "author": "Jennifer Hlad",
+      "title": "Treat operational feedback as a strategic resource, new paper argues",
+      "description": "And view software as a continuously developing capability, rather than a completed product.",
+      "url": "https://www.defenseone.com/business/2026/09/treat-operational-feedback-strategic-resource-new-paper-argues/416284/",
+      "urlToImage": "https://cdn.defenseone.com/media/img/cd/2026/09/28/GettyImages_2293343072/open-graph.jpg",
+      "publishedAt": "2026-09-28T20:56:43Z",
+      "content": "As the Pentagon overhauls its acquisition system, it should take lessons from recent and ongoing wars, a new report argues.\r\nFrom Israel, the U.S. should learn that operational feedback should be tre\u2026 [+2790 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Subhadra Srivastava",
+      "title": "Trump questions UK release of five suspects held over alleged attack on US airbase",
+      "description": "US President Donald Trump has criticised Britain\u2019s decision to release on bail five men arrested over an alleged plot to attack RAF Fairford, a UK airbase",
+      "url": "https://timesofindia.indiatimes.com/world/us/trump-questions-uk-release-of-five-suspects-held-over-alleged-attack-on-us-airbase/articleshow/134550101.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134550102,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-28T20:55:37Z",
+      "content": "Follow Us On Social Media\r\nErdogan Demands Accountability For Gaza Deaths, Says Turkey Will Not Change Stance Against IsraelChina Challenges Germanys Industrial Edge As Exports Fall, Carmakers Face P\u2026 [+3175 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "US, Iran set to hold separate talks with mediators on Monday or Tuesday, official says - Reuters",
+      "description": "US, Iran set to hold separate talks with mediators on Monday or Tuesday, official saysReuters Live Updates: Iran says Trump must choose between war or diplomacy as talks expected to resume this weekCBS News Iran, US complain about each other\u2019s stances as medi\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185891812",
+      "urlToImage": null,
+      "publishedAt": "2026-09-28T20:53:00Z",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Israelnationalnews.com"
+      },
+      "author": "Israel National News",
+      "title": "Second meeting in months | Behind the scenes of the Netanyahu-bin Zayed summit",
+      "description": "The UAE and Prime Minister\u2019s Office officially confirm reports of a previously undisclosed meeting between Prime Minister Benjamin Netanyahu and the UAE President.",
+      "url": "https://www.israelnationalnews.com/news/433797",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1217255.jpg",
+      "publishedAt": "2026-09-28T20:46:49Z",
+      "content": "The official UAE news agency confirmed Monday evening that UAE President Sheikh Mohamed bin Zayed hosted Prime Minister Benjamin Netanyahu on Sunday for a previously undisclosed diplomatic summit\r\n i\u2026 [+2078 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newser"
+      },
+      "author": "Rob Quinn",
+      "title": "Stocks Drop as Bond Yields Hit Highest Level Since 2007",
+      "description": "Yields in the US bond market reached their highest levels in roughly two decades on Monday and knocked US stocks further from their record highs. The S&P 500 fell 59.72 points, or 0.8%, to 7,683.69. The Dow Jones Industrial Average fell 347.11 points, or 0....",
+      "url": "https://www.newser.com/story/397209/stocks-drop-as-bond-yields-hit-highest-level-since-2007.html",
+      "urlToImage": "https://cdn.newser.com/image/1714496-12-20260928154200.jpeg",
+      "publishedAt": "2026-09-28T20:42:00Z",
+      "content": "The latest moves for oil prices came after President Trump said over the weekend he's rejecting an offer from Iran to reopen the Strait of Hormuz and resume talks on its nuclear program. \"I'd like to\u2026 [+1894 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Foreign Policy"
+      },
+      "author": "Howard W. French",
+      "title": "What Xi Actually Thinks of Trump",
+      "description": "China\u2019s president has likely concluded that the U.S. under Trump has lost its way.",
+      "url": "http://foreignpolicy.com/2026/09/28/xi-trump-summit-washington-us-china/",
+      "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2026/09/Trump-Xi-summit-GettyImages-2296267633.jpg",
+      "publishedAt": "2026-09-28T20:40:22Z",
+      "content": "One of the most important outcomes of the recent summit in Washington between U.S. President Donald Trump and his Chinese counterpart, Xi Jinping, is something we are unlikely to learn soon, if ever.\u2026 [+7203 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "times news network",
+      "title": "COEP, JSW join hands for Rs 800 crore indigenous battery technology centre",
+      "description": "COEP Technological University and JSW Projects to set up a Rs 800 crore indigenous battery R&D centre in Pune for lithium-ion and sodium-ion cells, creating 1,000+ jobs.",
+      "url": "https://timesofindia.indiatimes.com/city/pune/coep-jsw-join-hands-for-rs-800-crore-indigenous-battery-technology-centre/articleshow/134550078.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134550077,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-28T20:40:07Z",
+      "content": "Follow Us On Social Media\r\nChina Challenges Germanys Industrial Edge As Exports Fall, Carmakers Face PressureTrump Under Pressure From Veterans &amp; Republican At Home As Iran War Drives Fuel Prices\u2026 [+3108 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Nikhil Sharma",
+      "title": "15-20 overseas gangsters on Haryana Police radar, says DGP",
+      "description": "Haryana DGP says 15-20 overseas gangsters are directing crime remotely; 25 deported in 2 years. Police steps include SOP, ATS, apps and CCTV.",
+      "url": "https://timesofindia.indiatimes.com/city/gurgaon/15-20-overseas-gangsters-on-haryana-police-radar-says-dgp/articleshow/134550076.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-133248602,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-28T20:39:57Z",
+      "content": "Follow Us On Social Media\r\nChina Challenges Germanys Industrial Edge As Exports Fall, Carmakers Face PressureTrump Under Pressure From Veterans &amp; Republican At Home As Iran War Drives Fuel Prices\u2026 [+3108 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Nikhil Sharma",
+      "title": "DGP admits lapses in way city cops cremated Yuvraj\u2019s body",
+      "description": "Haryana DGP admits lapses in Gurgaon police handling of Yuvraj Manchanda\u2019s unidentified body, cremated before ZIPNET upload; court questions autopsy, viscera.",
+      "url": "https://timesofindia.indiatimes.com/city/gurgaon/dgp-admits-lapses-in-way-city-cops-cremated-yuvrajs-body/articleshow/134550075.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-28T20:39:50Z",
+      "content": "Follow Us On Social Media\r\nChina Challenges Germanys Industrial Edge As Exports Fall, Carmakers Face PressureTrump Under Pressure From Veterans &amp; Republican At Home As Iran War Drives Fuel Prices\u2026 [+3108 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Subhadra Srivastava",
+      "title": "Trump denies offering US arms to China\u2019s Xi, contradicts his own envoy",
+      "description": "US president Donald Trump on Monday denied asking Chinese president Xi Jinping whether he wanted to buy American weapons, contradicting US Ambassador to",
+      "url": "https://timesofindia.indiatimes.com/world/us/trump-denies-offering-us-arms-to-chinas-xi-contradicts-his-own-envoy/articleshow/134550046.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134550058,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-28T20:27:07Z",
+      "content": "Follow Us On Social Media\r\nTrump Under Pressure From Veterans &amp; Republican At Home As Iran War Drives Fuel Prices HigherFairford Terror Probe Deepens: Five Suspects Out On Bail, Police Explore Fo\u2026 [+3017 chars]"
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "John Hayward",
+      "title": "UAE Supports Trump Peace Plan for Gaza at U.N. General Assembly",
+      "description": "Khalifa Shaheen al-Marar, Minister of State for the United Arab Emirates (UAE), touted his country\u2019s efforts at diplomacy and mediation during his address to the United Nations General Assembly (UNGA) on Monday.\nThe post UAE Supports Trump Peace Plan for Gaza\u2026",
+      "url": "https://www.breitbart.com/middle-east/2026/09/28/uae-supports-trump-peace-plan-for-gaza-at-u-n-general-assembly/",
+      "urlToImage": "https://media.breitbart.com/media/2026/09/GettyImages-2226949886-640x335.png",
+      "publishedAt": "2026-09-28T20:25:17Z",
+      "content": "Khalifa Shaheen al-Marar, Minister of State for the United Arab Emirates (UAE), touted his countrys efforts at diplomacy and mediation during his address to the United Nations General Assembly (UNGA)\u2026 [+3593 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Sandip Dighe",
+      "title": "Crop-loss panchanamas across Maharashtra from today, says agriculture minister",
+      "description": "Maharashtra to start crop-loss panchanamas Tuesday after kharif damage from rainfall gaps; opposition and farmers demand immediate relief and fodder camps.",
+      "url": "https://timesofindia.indiatimes.com/city/pune/crop-loss-panchanamas-across-maharashtra-from-today-says-agriculture-minister/articleshow/134550053.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134550052,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-28T20:24:18Z",
+      "content": "Follow Us On Social Media\r\nTrump Under Pressure From Veterans &amp; Republican At Home As Iran War Drives Fuel Prices HigherFairford Terror Probe Deepens: Five Suspects Out On Bail, Police Explore Fo\u2026 [+3017 chars]"
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Pam Key",
+      "title": "Sen. Coons: Trump 'Catapulted Us into Instability and Violence in the Middle East'",
+      "description": "On Monday\u2019s broadcast of CNN\u2019s \u201cNews Central,\u201d Sen. Chris Coons (D-DE) said\u00a0President Donald Trump \u201d\u00a0has catapulted us into instability and violence in the Middle East\u201d with his military operation in Iran. Coons said, \u201cTrump\u2019s war of choice with Iran has\nThe \u2026",
+      "url": "https://www.breitbart.com/clips/2026/09/28/sen-coons-trump-catapulted-us-into-instability-and-violence-in-the-middle-east/",
+      "urlToImage": "https://media.breitbart.com/media/2026/02/Coons-26-Thumbnail-640x335.jpg",
+      "publishedAt": "2026-09-28T20:23:31Z",
+      "content": "On Monday\u2019s broadcast of CNN\u2019s \u201cNews Central,\u201d Sen. Chris Coons (D-DE) said\u00a0President Donald Trump \u201d\u00a0has catapulted us into instability and violence in the Middle East\u201d with his military operation in\u2026 [+1044 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Steffy Thevar",
+      "title": "Pune city at high risk of Zika cases in future, states NIV research",
+      "description": "NIV study warns Pune may face more Zika cases due to high Aedes aegypti density and transmission-linked mutations; 2024 outbreak had 109 cases, no fetal defects found.",
+      "url": "https://timesofindia.indiatimes.com/city/pune/pune-city-at-high-risk-of-zika-cases-in-future-states-niv-research/articleshow/134550051.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134550050,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-28T20:22:39Z",
+      "content": "Follow Us On Social Media\r\nTrump Under Pressure From Veterans &amp; Republican At Home As Iran War Drives Fuel Prices HigherFairford Terror Probe Deepens: Five Suspects Out On Bail, Police Explore Fo\u2026 [+3017 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newser"
+      },
+      "author": "Rob Quinn with Newser.AI",
+      "title": "Saudi Arabia Restarts Key East-West Pipeline",
+      "description": "Oil is once again moving across Saudi Arabia instead of around it. Saudi Aramco has restarted exports through its 750-mile East-West pipeline after repairing damage from Sept. 10 drone strikes launched from Iraq, sources tell the Wall Street Journal . Crude i\u2026",
+      "url": "https://www.newser.com/story/397204/saudi-arabia-restarts-key-east-west-pipeline.html",
+      "urlToImage": "https://cdn.newser.com/image/1714482-12-20260928151500.jpeg",
+      "publishedAt": "2026-09-28T20:15:00Z",
+      "content": "Sources told Reuters last week that the kingdom had restarted the pipeline for testing, but crude had yet to be loaded onto tankers, and it could take six weeks or longer for oil to resume flowing at\u2026 [+370 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Harveyreporter.com.au"
+      },
+      "author": "Harvey Waroona Reporter",
+      "title": "Wall St dips as oil spikes after US rejects Iran plan",
+      "description": "US stocks have closed lower as investors monitored developments in the Middle East conflict with Iran.",
+      "url": "https://www.harveyreporter.com.au/business/markets/wall-st-dips-as-oil-spikes-after-us-rejects-iran-plan-c-22939403",
+      "urlToImage": "https://images.thewest.com.au/publication/C-22939403/fcb51e882067f7e21a3ed7c16da81eaae918d4e3-16x9-x0y0w1280h720.jpg?imwidth=1200",
+      "publishedAt": "2026-09-28T20:13:51Z",
+      "content": "SubscriptionTerms &amp; Conditionsapply.\r\nNeed help with a subscription? Call us at 1800 811 855"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rigzone"
+      },
+      "author": "M. Gindis, C. Gorrivan",
+      "title": "Oil Edges Higher as Supply Tightens",
+      "description": "Oil rose modestly as traders weighed tight supplies against progress toward reopening Hormuz.",
+      "url": "https://www.rigzone.com/news/wire/oil_edges_higher_as_supply_tightens-28-sep-2026-184721-article/",
+      "urlToImage": "https://images.rigzone.com/images/news/articles/Oil-Edges-Higher-as-Supply-Tightens-184721-1200x628.png",
+      "publishedAt": "2026-09-28T20:12:57Z",
+      "content": "Oil ticked higher as strong demand for physical barrels collided with easing supply disruptions in the Middle East and progress toward reopening the Strait of Hormuz, though repeated false starts hav\u2026 [+3693 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Midwesttimes.com.au"
+      },
+      "author": "Midwest Times",
+      "title": "Wall St dips as oil spikes after US rejects Iran plan",
+      "description": "US stocks have closed lower as investors monitored developments in the Middle East conflict with Iran.",
+      "url": "https://www.midwesttimes.com.au/business/markets/wall-st-dips-as-oil-spikes-after-us-rejects-iran-plan-c-22939403",
+      "urlToImage": "https://images.thewest.com.au/publication/C-22939403/fcb51e882067f7e21a3ed7c16da81eaae918d4e3-16x9-x0y0w1280h720.jpg?imwidth=1200",
+      "publishedAt": "2026-09-28T20:12:47Z",
+      "content": "SubscriptionTerms &amp; Conditionsapply.\r\nNeed help with a subscription? Call us at 1800 811 855"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Antiwar.com"
+      },
+      "author": "Dave Decamp",
+      "title": "Saudi Airstrike on Civilian Home in Yemen Kills Four: Yemeni Health Ministry",
+      "description": "A Saudi airstrike hit a home in Yemen's Taiz province on Monday, killing at least four civilians, according to the Yemeni Health Ministry within the Ansar Allah-led government. The Health Ministry said that three women and an elderly man were killed in the at\u2026",
+      "url": "https://news.antiwar.com/2026/09/28/saudi-airstrike-on-civilian-home-in-yemen-kills-four-yemeni-health-ministry/",
+      "urlToImage": "https://news.antiwar.com/wp-content/uploads/2026/09/Yemen-health-minister-scaled.png",
+      "publishedAt": "2026-09-28T20:12:26Z",
+      "content": "A Saudi airstrike hit a home in Yemen\u2019s Taiz province on Monday, killing at least four civilians, according to the Yemeni Health Ministry within the Ansar Allah-led government.\r\nThe Health Ministry s\u2026 [+2548 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Subhadra Srivastava",
+      "title": "14 dead in massive blaze at Russian fireworks factory",
+      "description": "At least 14 people were killed in a fire at a fireworks factory in Russia\u2019s Yaroslavl region on Monday, Russian state media reported, citing emergency",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/14-dead-in-massive-blaze-at-russian-fireworks-factory/articleshow/134550018.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134550033,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-28T20:10:28Z",
+      "content": "Follow Us On Social Media\r\nTrump Under Pressure From Veterans &amp; Republican At Home As Iran War Drives Fuel Prices HigherFairford Terror Probe Deepens: Five Suspects Out On Bail, Police Explore Fo\u2026 [+2847 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "X.com",
+      "title": "\u201cOct 7 was not just a Charlie Hebdo-style terrorist attack. It was an act of war. More than 7,000 Hamas terrorists penetrated the frontier at more than 100 points....they had been instructed to r8pe, behead, torture, and kidnap men, women, and children.\u201d",
+      "description": "Larry Alex Taunton@LarryTaunton\u00b722hPassing time in a tightly packed airport coffee shop recently, I ended up in conversation with a thirty-something couple sitting only inches from me. I was coming from Mexico City and they were going there. After the usual b\u2026",
+      "url": "https://freerepublic.com/focus/f-chat/4397193/posts",
+      "urlToImage": null,
+      "publishedAt": "2026-09-28T20:01:38Z",
+      "content": "Larry Alex Taunton\r\n@LarryTaunton\r\n\u00b722h\r\nPassing time in a tightly packed airport coffee shop recently, I ended up in conversation with a thirty-something couple sitting only inches from me. I was co\u2026 [+3896 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailyreckoning.com"
+      },
+      "author": "Adam Sharp",
+      "title": "The Strait Debate Gets Heated",
+      "description": "This post The Strait Debate Gets Heated appeared first on Daily Reckoning.\nIs it open, or closed?\nThe post The Strait Debate Gets Heated appeared first on Daily Reckoning.",
+      "url": "https://dailyreckoning.com/the-strait-debate-gets-heated/",
+      "urlToImage": "https://dailyreckoning.com/wp-content/uploads/2026/09/dr-hero-img-09-28-26.jpg",
+      "publishedAt": "2026-09-28T20:00:22Z",
+      "content": "Is the Strait of Hormuz open or closed?\r\nDepends who you ask.\r\nOil bears will tell you that oil is flowing through the Strait, back at 80-93% of pre-war levels. Here Bloomberg oil specialist Javier B\u2026 [+4089 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "OilPrice.com"
+      },
+      "author": "Shahriar Sheikhlar",
+      "title": "The World Is Entering a New Era of Energy Security",
+      "description": "The U.S.\u2013Iran and Russia\u2013Ukraine wars are more than regional or military conflicts. They are exposing weaknesses in the global energy and economic system and demonstrating that energy security can no longer be seen as independent of financial security, transp\u2026",
+      "url": "https://oilprice.com/Energy/Energy-General/The-World-Is-Entering-a-New-Era-of-Energy-Security.html",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-28_kiuxjmaocg.jpg",
+      "publishedAt": "2026-09-28T20:00:00Z",
+      "content": "U.S. crude inventories rose by\u2026\r\nWTI swung sharply as improved\u2026\r\nChina broke ground on the\u2026\r\nBy Shahriar Sheikhlar - Sep 28, 2026, 3:00 PM CDTThe U.S.Iran and RussiaUkraine wars are more than regiona\u2026 [+13403 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "breakingthenews.net",
+      "title": "Iran weighs bill to withdraw from nuclear treaty",
+      "description": "Iran's Parliament is considering a \"triple-urgency\" bill to withdraw from the Nuclear Non-Proliferation Treaty (NPT), First Deputy Speaker Ali Nikzad revealed on Monday. The official said Iranian lawm...",
+      "url": "https://biztoc.com/x/150cc7cb43c4163f",
+      "urlToImage": "https://biztoc.com/cdn/150cc7cb43c4163f_s.webp",
+      "publishedAt": "2026-09-28T19:57:37Z",
+      "content": "Iran's Parliament is considering a \"triple-urgency\" bill to withdraw from the Nuclear Non-Proliferation Treaty (NPT), First Deputy Speaker Ali Nikzad revealed on Monday. The official said Iranian law\u2026 [+69 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Barabanki student alleges stalking, harassment; case filed",
+      "description": "Barabanki college student alleges stalking, harassment and death threats by youth; police register case, form teams to trace accused, probe underway.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/barabanki-student-alleges-stalking-harassment-case-filed/articleshow/134549996.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-28T19:54:39Z",
+      "content": "Follow Us On Social Media\r\nTrump Under Pressure From Veterans &amp; Republican At Home As Iran War Drives Fuel Prices HigherFairford Terror Probe Deepens: Five Suspects Out On Bail, Police Explore Fo\u2026 [+2885 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "31 get prosthetic limbs, mobility aids at Ayodhya outreach camp",
+      "description": "Ayodhya outreach camp by Ashok Singhal Foundation provides free prosthetic limbs and mobility aids to 31 people, Sept 27-Oct 1 at Karsevakpuram.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/31-get-prosthetic-limbs-mobility-aids-at-ayodhya-outreach-camp/articleshow/134549990.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134549989,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-28T19:53:41Z",
+      "content": "Follow Us On Social Media\r\nTrump Under Pressure From Veterans &amp; Republican At Home As Iran War Drives Fuel Prices HigherFairford Terror Probe Deepens: Five Suspects Out On Bail, Police Explore Fo\u2026 [+2885 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI World Desk",
+      "title": "In 1930, former Maine governor Percival Baxter bought nearly 6,000 acres around Mount Katahdin; 32 years later, his final acquisition brought his gifted parkland to 201,018 acres, now part of a 209,644-acre park",
+      "description": "Percival P. Baxter dedicated over thirty years of his life to creating Baxter State Park in Maine, now one of North America's largest state parks. His vision was to maintain the land's natural beauty, thwarting industrial encroachment and promoting sustainabl\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/us/in-1930-former-maine-governor-percival-baxter-bought-nearly-6000-acres-around-mount-katahdin-32-years-later-his-final-acquisition-brought-his-gifted-parkland-to-201018-acres-now-part-of-a-209644-acre-park/articleshow/134549933.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134549971,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-28T19:52:20Z",
+      "content": "<ul><li>News</li>\r\n<li>World News</li>\r\n<li>US News</li>\r\n<li>In 1930, former Maine governor Percival Baxter bought nearly 6,000 acres around Mount Katahdin; 32 years later, his final acquisition bro\u2026 [+3170 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Science Desk",
+      "title": "Your daily coffee may be doing more than keeping you awake \u2014 scientists found a surprising link between your gut, brain and coffee habit",
+      "description": "A recent study examined how coffee consumption affects mood and gut health in regular drinkers. Researchers found that both caffeinated and decaffeinated coffee influenced psychological measures and gut bacteria. Although changes were noted, the study did not\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/your-daily-coffee-may-be-doing-more-than-keeping-you-awake-scientists-found-a-surprising-link-between-your-gut-brain-and-coffee-habit/articleshow/134547249.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134547489,width-1200,height-630,imgsize-211118,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-28T19:51:48Z",
+      "content": "For many people, coffee is a morning ritual built around one familiar effect: feeling more awake. But new research suggests the drink may be doing more inside the body than simply delivering a caffei\u2026 [+6100 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Yogi orders tough action in assault case",
+      "description": "Yogi Adityanath orders strict action in Rae Bareli assault and robbery case raised at Janata Darshan, stresses strong law and order and land encroachment action.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/yogi-orders-tough-action-in-assault-case/articleshow/134549969.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134549968,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-28T19:49:40Z",
+      "content": "Follow Us On Social Media\r\nTrump Under Pressure From Veterans &amp; Republican At Home As Iran War Drives Fuel Prices HigherFairford Terror Probe Deepens: Five Suspects Out On Bail, Police Explore Fo\u2026 [+2885 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Shailvee Sharda",
+      "title": "Ayushman shield saves over 108 hearts and lives everyday",
+      "description": "Ayushman Bharat (PMJAY) has helped save 108 cardiac patients daily in UP since 2018, funding Rs 2,116.7 crore for advanced procedures, officials say.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/ayushman-shield-saves-over-108-hearts-and-lives-everyday/articleshow/134549974.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134549973,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-28T19:48:29Z",
+      "content": "Follow Us On Social Media\r\nTrump Under Pressure From Veterans &amp; Republican At Home As Iran War Drives Fuel Prices HigherFairford Terror Probe Deepens: Five Suspects Out On Bail, Police Explore Fo\u2026 [+2885 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Dwaipayan Ghosh",
+      "title": "Day after, no class at SRFTI, cop cover for campus, 4 FIRs",
+      "description": "SRFTI Kolkata tense after student-ABGP clash injures 30; police file 4 FIRs, probe CCTV, form fact-finding panel; ABGP plans consumer case; protests continue.",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/day-after-no-class-at-srfti-cop-cover-for-campus-4-firs/articleshow/134549967.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134549966,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-28T19:46:54Z",
+      "content": "Follow Us On Social Media\r\nTrump Under Pressure From Veterans &amp; Republican At Home As Iran War Drives Fuel Prices HigherFairford Terror Probe Deepens: Five Suspects Out On Bail, Police Explore Fo\u2026 [+2744 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Experts discuss new-age infertility treatment",
+      "description": "HOPE CME 2026 in Lucknow highlighted personalized infertility care beyond IVF, featuring AI and robotic surgery, organized by Ajanta Hospital\u2019s Dr Gita Khanna.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/experts-discuss-new-age-infertility-treatment/articleshow/134549964.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134549963,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-28T19:46:10Z",
+      "content": "Follow Us On Social Media\r\nTrump Under Pressure From Veterans &amp; Republican At Home As Iran War Drives Fuel Prices HigherFairford Terror Probe Deepens: Five Suspects Out On Bail, Police Explore Fo\u2026 [+2744 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "CSIR-IITR at 85: Experts urge science-to-society push beyond labs",
+      "description": "CSIR-IITR marks 85 years as experts call for stronger industry ties and scaling innovations beyond labs, highlighting AI, diagnostics, telemedicine and startups.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/csir-iitr-at-85-experts-urge-science-to-society-push-beyond-labs/articleshow/134549960.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134549959,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-28T19:44:45Z",
+      "content": "Follow Us On Social Media\r\nTrump Under Pressure From Veterans &amp; Republican At Home As Iran War Drives Fuel Prices HigherFairford Terror Probe Deepens: Five Suspects Out On Bail, Police Explore Fo\u2026 [+2744 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Israelnationalnews.com"
+      },
+      "author": "Israel National News",
+      "title": "Pager plot: Israel\u2019s secret moves to keep Hezbollah in the dark",
+      "description": "Ahead of the US release of a new documentary, details are being allowed for publication from behind the scenes of the pager operation in September 2024.",
+      "url": "https://www.israelnationalnews.com/news/433793",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1166168.jpg",
+      "publishedAt": "2026-09-28T19:44:20Z",
+      "content": "The documentary \"Paging Hezbollah,\" directed by Justin Falk and set for release in the US on October 30, reveals new details about the secret Israeli operation that detonated thousands of Hezbollah p\u2026 [+1739 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -742,565 +1301,6 @@
       "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
       "publishedAt": "2026-09-28T18:57:44Z",
       "content": "Follow Us On Social Media\r\n'Terrorist Zelensky...: Putin Ally Tears Into Ukraine, Europe At UN; Dire Warning | WatchNaomi Watts Gets Emotional Over David Lynch: He Changed EVERYTHING For MeIndia Eyes\u2026 [+2759 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Times News Network",
-      "title": "BJP slams Rahul over SIR, says Congress undermining constitutional institutions",
-      "description": "Haryana BJP chief Dr Archana Gupta slams Rahul Gandhi over SIR, accuses Congress of undermining institutions; cites govt achievements and Sewa Sankalp Abhiyan.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/bjp-slams-rahul-over-sir-says-congress-undermining-constitutional-institutions/articleshow/134549500.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-133058093,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-28T18:57:07Z",
-      "content": "Follow Us On Social Media\r\n'Terrorist Zelensky...: Putin Ally Tears Into Ukraine, Europe At UN; Dire Warning | WatchNaomi Watts Gets Emotional Over David Lynch: He Changed EVERYTHING For MeIndia Eyes\u2026 [+2759 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Priyanka Dasgupta",
-      "title": "Fear closer home for 1st-yr students staying off campus",
-      "description": "SRFTI Kolkata faces hostel shortage, leaving 70+ first-year students off campus after violence; freshers fear attacks by outsiders and seek on-campus housing.",
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/fear-closer-home-for-1st-yr-students-staying-off-campus/articleshow/134549503.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134549502,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-28T18:57:03Z",
-      "content": "Follow Us On Social Media\r\n'Terrorist Zelensky...: Putin Ally Tears Into Ukraine, Europe At UN; Dire Warning | WatchNaomi Watts Gets Emotional Over David Lynch: He Changed EVERYTHING For MeIndia Eyes\u2026 [+2759 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Manvir Saini",
-      "title": "Haryana eyes \u2018drone capital\u2019 tag, plans expansion of industrial townships",
-      "description": "Haryana targets \u201cdrone capital\u201d status with drone R&D and manufacturing, startup support, and plans to expand and build new IMTs with upgraded infrastructure.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/haryana-eyes-drone-capital-tag-plans-expansion-of-industrial-townships/articleshow/134549457.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-132958962,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-28T18:56:54Z",
-      "content": "Follow Us On Social Media\r\n'Terrorist Zelensky...: Putin Ally Tears Into Ukraine, Europe At UN; Dire Warning | WatchNaomi Watts Gets Emotional Over David Lynch: He Changed EVERYTHING For MeIndia Eyes\u2026 [+2759 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Times News Network",
-      "title": "Road rage case involving BJP MLA\u2019s son; govt will probe: CM",
-      "description": "Goa road rage case: lawyer alleges threats by BJP MLA Rajesh Faldessai\u2019s son Rahul; CM Pramod Sawant orders probe as police review CCTV.",
-      "url": "https://timesofindia.indiatimes.com/city/goa/road-rage-case-involving-bjp-mlas-son-govt-will-probe-cm/articleshow/134549496.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134549490,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-28T18:56:42Z",
-      "content": "Follow Us On Social Media\r\n'Terrorist Zelensky...: Putin Ally Tears Into Ukraine, Europe At UN; Dire Warning | WatchNaomi Watts Gets Emotional Over David Lynch: He Changed EVERYTHING For MeIndia Eyes\u2026 [+2759 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "times news network",
-      "title": "Stranded during theft bid, 2 rescued by cops",
-      "description": "Surat: Two teens suspected of theft were rescued by fire services after getting stranded on a third-floor ledge; one was detained under preventive action.",
-      "url": "https://timesofindia.indiatimes.com/city/surat/stranded-during-theft-bid-2-rescued-by-cops/articleshow/134549486.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-      "publishedAt": "2026-09-28T18:56:31Z",
-      "content": "Follow Us On Social Media\r\n'Terrorist Zelensky...: Putin Ally Tears Into Ukraine, Europe At UN; Dire Warning | WatchNaomi Watts Gets Emotional Over David Lynch: He Changed EVERYTHING For MeIndia Eyes\u2026 [+2759 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "times news network",
-      "title": "\u2018Need unique colour for buses to prevent confusion\u2019",
-      "description": "TNSTC Enthusiasts urge Tamil Nadu to add a unique colour scheme for ordinary-fare mofussil buses to avoid confusion over women\u2019s free travel scheme from Oct 2.",
-      "url": "https://timesofindia.indiatimes.com/city/trichy/need-unique-colour-for-buses-to-prevent-confusion/articleshow/134549476.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-      "publishedAt": "2026-09-28T18:56:15Z",
-      "content": "Follow Us On Social Media\r\n'Terrorist Zelensky...: Putin Ally Tears Into Ukraine, Europe At UN; Dire Warning | WatchNaomi Watts Gets Emotional Over David Lynch: He Changed EVERYTHING For MeIndia Eyes\u2026 [+2759 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Times News Network",
-      "title": "Three killed as two bikes collide on Anand-Borsad Road",
-      "description": "Three youths died and three were seriously injured in a head-on collision between two motorcycles near Vanskhiliya on the Anand-Borsad Road Sunday night.",
-      "url": "https://timesofindia.indiatimes.com/city/vadodara/three-killed-as-two-bikes-collide-on-anand-borsad-road/articleshow/134549471.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134549469,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-28T18:56:05Z",
-      "content": "Follow Us On Social Media\r\n'Terrorist Zelensky...: Putin Ally Tears Into Ukraine, Europe At UN; Dire Warning | WatchNaomi Watts Gets Emotional Over David Lynch: He Changed EVERYTHING For MeIndia Eyes\u2026 [+2759 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TNN",
-      "title": "Elderly woman assaulted over suspicion of black magic; 14 booked",
-      "description": "Hyderabad: 65-year-old woman tied to a neem tree and assaulted over black magic suspicion in Ranga Reddy; police booked 14 villagers, one detained.",
-      "url": "https://timesofindia.indiatimes.com/city/hyderabad/elderly-woman-assaulted-over-suspicion-of-black-magic-14-booked/articleshow/134549460.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134549459,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-28T18:55:57Z",
-      "content": "Follow Us On Social Media\r\n'Terrorist Zelensky...: Putin Ally Tears Into Ukraine, Europe At UN; Dire Warning | WatchNaomi Watts Gets Emotional Over David Lynch: He Changed EVERYTHING For MeIndia Eyes\u2026 [+2759 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TNN",
-      "title": "IIT-BHU to study Green Corridor traffic, redesign key junctions",
-      "description": "IIT-BHU experts to assess Lucknow\u2019s Green Corridor traffic, using simulations to redesign key junctions and ease congestion for future demand.",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/iit-bhu-to-study-green-corridor-traffic-redesign-key-junctions/articleshow/134549465.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134549462,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-28T18:55:53Z",
-      "content": "Follow Us On Social Media\r\n'Terrorist Zelensky...: Putin Ally Tears Into Ukraine, Europe At UN; Dire Warning | WatchNaomi Watts Gets Emotional Over David Lynch: He Changed EVERYTHING For MeIndia Eyes\u2026 [+2759 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TNN",
-      "title": "RLD student wing launches \u2018Campus Connect\u2019 drive across UP",
-      "description": "RLD student wing launches \u2018Campus Connect\u2019 campaign across UP to engage students on education, jobs, health, sports, drug de-addiction; Meerut panchayat Oct 31.",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/rld-student-wing-launches-campus-connect-drive-across-up/articleshow/134549454.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134549452,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-28T18:55:34Z",
-      "content": "Follow Us On Social Media\r\n'Terrorist Zelensky...: Putin Ally Tears Into Ukraine, Europe At UN; Dire Warning | WatchNaomi Watts Gets Emotional Over David Lynch: He Changed EVERYTHING For MeIndia Eyes\u2026 [+2759 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Prashant Rupera",
-      "title": "A single surgery saves man with seven heart ailments",
-      "description": "Karamsad doctors performed a 10-hour single surgery to treat a 55-year-old with seven heart conditions; he recovered well and was discharged on day six.",
-      "url": "https://timesofindia.indiatimes.com/city/vadodara/a-single-surgery-saves-man-with-seven-heart-ailments/articleshow/134549430.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134549429,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-28T18:55:29Z",
-      "content": "Follow Us On Social Media\r\n'Terrorist Zelensky...: Putin Ally Tears Into Ukraine, Europe At UN; Dire Warning | WatchNaomi Watts Gets Emotional Over David Lynch: He Changed EVERYTHING For MeIndia Eyes\u2026 [+2759 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "China is building a new rulebook for dealing with the US \u2014 tariffs are only the beginning of a much broader reset",
-      "description": "China and the United States have established a reciprocal framework for tariff reductions on approximately $30 billion of goods from each side. They created two new boards to facilitate trading and investment discussions as a means of ongoing economic coopera\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/china-is-building-a-new-rulebook-for-dealing-with-the-us-tariffs-are-only-the-beginning-of-a-much-broader-reset/articleshow/134546362.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134546722,width-1200,height-630,imgsize-151986,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-28T18:55:28Z",
-      "content": "China and the United States have spent much of the past few years managing tariffs, export restrictions and supply-chain disputes through rounds of high-level negotiations. The latest talks point to \u2026 [+8711 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "The Times Of India",
-      "title": "UP to run road restoration drive Oct 1\u2013Nov 10 for pipeline-damaged roads",
-      "description": "UP launches Oct 1\u2013Nov 10 road restoration drive to repair pipeline-damaged rural roads; Jal Shakti minister warns action for poor repairs; Jal Sarathi app for complaints.",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/up-to-run-road-restoration-drive-oct-1nov-10-for-pipeline-damaged-roads/articleshow/134549451.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-      "publishedAt": "2026-09-28T18:55:25Z",
-      "content": "'Terrorist Zelensky...: Putin Ally Tears Into Ukraine, Europe At UN; Dire Warning | WatchNaomi Watts Gets Emotional Over David Lynch: He Changed EVERYTHING For MeIndia Eyes Africa For Astra Missile A\u2026 [+2732 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Nalla Ram Babu",
-      "title": "43 litres of hash oil worth over \u20b95 crore seized in Andhra Pradesh\u2019s Anakapalle district; 5 interstate smugglers arrested",
-      "description": "Andhra Pradesh police seized 43 litres of hash oil worth \u20b95.5 crore in Anakapalle, arresting five interstate smugglers transporting it from Odisha to Kerala.",
-      "url": "https://timesofindia.indiatimes.com/city/vijayawada/43-litres-of-hash-oil-worth-over-5-crore-seized-in-andhra-pradeshs-anakapalle-district-5-interstate-smugglers-arrested/articleshow/134549450.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134549449,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-28T18:54:58Z",
-      "content": "<ul><li>News</li>\r\n<li>City News</li>\r\n<li>vijayawada News</li>\r\n<li>43 litres of hash oil worth over 5 crore seized in Andhra Pradeshs Anakapalle district; 5 interstate smugglers arrested</li></ul>\r\u2026 [+2959 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TNN",
-      "title": "HC summons officials over 65-year delay in land compensation",
-      "description": "Allahabad High Court summons Lucknow officials over 65-year delay in 1959 land compensation; only Rs 11.72 lakh paid vs Rs 38.25 lakh due, says LARA.",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/hc-summons-officials-over-65-year-delay-in-land-compensation/articleshow/134549448.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-      "publishedAt": "2026-09-28T18:54:49Z",
-      "content": "Follow Us On Social Media\r\n'Terrorist Zelensky...: Putin Ally Tears Into Ukraine, Europe At UN; Dire Warning | WatchNaomi Watts Gets Emotional Over David Lynch: He Changed EVERYTHING For MeIndia Eyes\u2026 [+2759 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news-au",
-        "name": "ABC News (AU)"
-      },
-      "author": "https://www.abc.net.au/news/ian-verrender/5261264",
-      "title": "Waning trust in Trump's economy is about to hit your mortgage",
-      "description": "Against the backdrop of war in Iran, a trade war with Canada and bond sell-offs, trust in the US dollar appears to be weakening, and it will likely have an impact today when the RBA announces its rate decision.",
-      "url": "https://www.abc.net.au/news/2026-09-29/us-dollar-trust-weakening-due-to-donald-trump-iran-war/107204644",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/2bb014a9fd21ce1abb432937243e7d0f?impolicy=wcms_watermark_news&cropH=472&cropW=840&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-      "publishedAt": "2026-09-28T18:54:37Z",
-      "content": "It is a phrase synonymous with American dominance, especially when it came to matters financial.\r\nIn God We Trust.\r\nWhile it first appeared on a 2-cent coin in 1864, it wasn't officially adopted unti\u2026 [+8149 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "The Times Of India",
-      "title": "MBBS quota: HC demands reply on order compliance",
-      "description": "Allahabad HC Lucknow bench seeks UP govt reply on MBBS counselling quota order compliance; ACS Medical Education to appear on Sep 29 over SC reservation.",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/mbbs-quota-hc-demands-reply-on-order-compliance/articleshow/134549445.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-      "publishedAt": "2026-09-28T18:54:31Z",
-      "content": "Follow Us On Social Media\r\n'Terrorist Zelensky...: Putin Ally Tears Into Ukraine, Europe At UN; Dire Warning | WatchNaomi Watts Gets Emotional Over David Lynch: He Changed EVERYTHING For MeIndia Eyes\u2026 [+2759 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Bharat Khanna",
-      "title": "PSPCL puts power disconnections on hold over incorrect, inflated bills",
-      "description": "PSPCL suspends disconnection of domestic power connections in Punjab over incorrect or inflated bills, pending stabilisation of Oracle Smart Billing System.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/pspcl-puts-power-disconnections-on-hold-over-incorrect-inflated-bills/articleshow/134549444.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134549443,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-28T18:54:27Z",
-      "content": "Follow Us On Social Media\r\n'Terrorist Zelensky...: Putin Ally Tears Into Ukraine, Europe At UN; Dire Warning | WatchNaomi Watts Gets Emotional Over David Lynch: He Changed EVERYTHING For MeIndia Eyes\u2026 [+2759 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Dwaipayan Ghosh,Tamaghna Banerjee",
-      "title": "36 yrs on, cops take jawan\u2019s wife\u2019s missing plaint",
-      "description": "Kolkata Police register FIR 36 years after Army Naik Edwin Rajan went missing in 1990; probe may clear \u201cdeserter\u201d tag and enable family pension claims.",
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/36-yrs-on-cops-take-jawans-wifes-missing-plaint/articleshow/134549442.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134549441,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-28T18:54:21Z",
-      "content": "Follow Us On Social Media\r\n'Terrorist Zelensky...: Putin Ally Tears Into Ukraine, Europe At UN; Dire Warning | WatchNaomi Watts Gets Emotional Over David Lynch: He Changed EVERYTHING For MeIndia Eyes\u2026 [+2759 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Times News Network",
-      "title": "Gujarat to form committee to fix taxi fare within 20 days",
-      "description": "Gujarat to form taxi fare committee in 20 days after taxi-auto union talks; crackdown planned on white-numberplate vehicles and review of Ola/Uber/Rapido rules.",
-      "url": "https://timesofindia.indiatimes.com/city/ahmedabad/gujarat-to-form-committee-to-fix-taxi-fare-within-20-days/articleshow/134549437.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134509245,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-28T18:54:05Z",
-      "content": "Follow Us On Social Media\r\n'Terrorist Zelensky...: Putin Ally Tears Into Ukraine, Europe At UN; Dire Warning | WatchNaomi Watts Gets Emotional Over David Lynch: He Changed EVERYTHING For MeIndia Eyes\u2026 [+2759 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Pinto Deepak",
-      "title": "HC denies bail in Pocso case, says crimes against children impact society at large",
-      "description": "Telangana High Court denied bail to a Khammam man in a POCSO case, stressing child sex crimes harm society and citing intimidation risks despite charge sheet.",
-      "url": "https://timesofindia.indiatimes.com/city/hyderabad/hc-denies-bail-in-pocso-case-says-crimes-against-children-impact-society-at-large/articleshow/134549436.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134549434,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-28T18:53:46Z",
-      "content": "Follow Us On Social Media\r\n'Terrorist Zelensky...: Putin Ally Tears Into Ukraine, Europe At UN; Dire Warning | WatchNaomi Watts Gets Emotional Over David Lynch: He Changed EVERYTHING For MeIndia Eyes\u2026 [+2759 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TNN",
-      "title": "Partly cloudy weather causes maximum temperature to dip in Ahmedabad",
-      "description": "Ahmedabad sees partly cloudy skies as max temp dips to 33.6\u00b0C; IMD predicts similar Tuesday and light rain in parts of Gujarat Wed-Thu.",
-      "url": "https://timesofindia.indiatimes.com/city/ahmedabad/partly-cloudy-weather-causes-maximum-temperature-to-dip-in-ahmedabad/articleshow/134549433.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-      "publishedAt": "2026-09-28T18:53:37Z",
-      "content": "Follow Us On Social Media\r\n'Terrorist Zelensky...: Putin Ally Tears Into Ukraine, Europe At UN; Dire Warning | WatchNaomi Watts Gets Emotional Over David Lynch: He Changed EVERYTHING For MeIndia Eyes\u2026 [+2759 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Manvir Saini",
-      "title": "Digital monitoring of roads, research fund among Haryana\u2019s governance push",
-      "description": "Haryana CM Nayab Singh Saini pushes outcome-based governance: 63,389 km roads digitised, Rs 20 crore research fund, IFMS saves Rs 820 crore subsidy.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/digital-monitoring-of-roads-research-fund-among-haryanas-governance-push/articleshow/134549425.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-132958962,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-28T18:53:36Z",
-      "content": "Follow Us On Social Media\r\n'Terrorist Zelensky...: Putin Ally Tears Into Ukraine, Europe At UN; Dire Warning | WatchNaomi Watts Gets Emotional Over David Lynch: He Changed EVERYTHING For MeIndia Eyes\u2026 [+2759 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Neel Kamal",
-      "title": "Liquor vend salesman killed in Bathinda village",
-      "description": "Liquor vend salesman Sudan Singh, 60, shot dead in Bathinda\u2019s Bibiwala village; assailants fired three rounds, fled with cash bag; case registered.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/liquor-vend-salesman-killed-in-bathinda-village/articleshow/134549403.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134549402,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-28T18:53:27Z",
-      "content": "Follow Us On Social Media\r\n'Terrorist Zelensky...: Putin Ally Tears Into Ukraine, Europe At UN; Dire Warning | WatchNaomi Watts Gets Emotional Over David Lynch: He Changed EVERYTHING For MeIndia Eyes\u2026 [+2759 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TNN",
-      "title": "After green gas scam, fake traffic challan in APK file is new cyber fraud trap",
-      "description": "Lucknow cyber scam: fake traffic challan WhatsApp messages with APK files are stealing money, mirroring the Green Gas scam; police warn to avoid APKs, call 1930.",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/after-green-gas-scam-fake-traffic-challan-in-apk-file-is-new-cyber-fraud-trap/articleshow/134549423.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134549422,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-28T18:52:48Z",
-      "content": "Follow Us On Social Media\r\n'Terrorist Zelensky...: Putin Ally Tears Into Ukraine, Europe At UN; Dire Warning | WatchNaomi Watts Gets Emotional Over David Lynch: He Changed EVERYTHING For MeIndia Eyes\u2026 [+2759 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Times News Network",
-      "title": "Railway engineer loses \u20b912L to online investment scam",
-      "description": "Senior railway engineer in Dabhoi loses \u20b912.29 lakh in Facebook-linked online investment scam; cybercrime police in Vadodara probe multiple transactions.",
-      "url": "https://timesofindia.indiatimes.com/city/vadodara/railway-engineer-loses-12l-to-online-investment-scam/articleshow/134549424.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134085419,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-28T18:52:48Z",
-      "content": "Follow Us On Social Media\r\n'Terrorist Zelensky...: Putin Ally Tears Into Ukraine, Europe At UN; Dire Warning | WatchNaomi Watts Gets Emotional Over David Lynch: He Changed EVERYTHING For MeIndia Eyes\u2026 [+2759 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TNN",
-      "title": "5 kg silver looted as four men rob jeweller on Hardoi highway",
-      "description": "Jewellery trader robbed of nearly 5 kg silver after four men intercepted his vehicle on Hardoi\u2019s Shahabad highway late Sunday; police scanning CCTV.",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/5-kg-silver-looted-as-four-men-rob-jeweller-on-hardoi-highway/articleshow/134549421.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134549420,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-28T18:52:45Z",
-      "content": "Follow Us On Social Media\r\n'Terrorist Zelensky...: Putin Ally Tears Into Ukraine, Europe At UN; Dire Warning | WatchNaomi Watts Gets Emotional Over David Lynch: He Changed EVERYTHING For MeIndia Eyes\u2026 [+2759 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TNN",
-      "title": "Worm, earwigs in food trigger protest at Gujarat University Samras girls\u2019 hostel; AMC imposes Rs 25,000 fine",
-      "description": "Worm and earwigs found in meal at Gujarat University Samras girls\u2019 hostel spark student protest; AMC inspects, collects samples and fines hostel Rs 25,000.",
-      "url": "https://timesofindia.indiatimes.com/city/ahmedabad/worm-earwigs-in-food-trigger-protest-at-gujarat-university-samras-girls-hostel-amc-imposes-rs-25000-fine/articleshow/134549419.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134549417,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-28T18:52:37Z",
-      "content": "Follow Us On Social Media\r\n'Terrorist Zelensky...: Putin Ally Tears Into Ukraine, Europe At UN; Dire Warning | WatchNaomi Watts Gets Emotional Over David Lynch: He Changed EVERYTHING For MeIndia Eyes\u2026 [+2759 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Parth Shastri",
-      "title": "Heart attacks high in men, mortality higher in women",
-      "description": "UNMICRC study: Heart attacks more common in men but more fatal in women; women may have atypical symptoms like fatigue, nausea, jaw/back pain.",
-      "url": "https://timesofindia.indiatimes.com/city/ahmedabad/heart-attacks-high-in-men-mortality-higher-in-women/articleshow/134549416.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134549415,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-28T18:52:28Z",
-      "content": "Follow Us On Social Media\r\n'Terrorist Zelensky...: Putin Ally Tears Into Ukraine, Europe At UN; Dire Warning | WatchNaomi Watts Gets Emotional Over David Lynch: He Changed EVERYTHING For MeIndia Eyes\u2026 [+2759 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "The Times Of India",
-      "title": "Artillery Regiment marks gunners\u2019 day",
-      "description": "Lucknow city digest: Artillery Regiment marks 200th Gunners\u2019 Day; LU students protest electoral roll SIR; LU project picked for Open Education Conference 2026.",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/artillery-regiment-marks-gunners-day/articleshow/134549414.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134549405,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-28T18:52:22Z",
-      "content": "Follow Us On Social Media\r\n'Terrorist Zelensky...: Putin Ally Tears Into Ukraine, Europe At UN; Dire Warning | WatchNaomi Watts Gets Emotional Over David Lynch: He Changed EVERYTHING For MeIndia Eyes\u2026 [+2759 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "IP Singh",
-      "title": "LPU campus, scarred & deserted, under police watch",
-      "description": "Uneasy calm at LPU Phagwara after violent protests over unverified rape-suicide rumours; 2,000 police deployed, classes suspended 10 days, SIT probes.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/lpu-campus-scarred-deserted-under-police-watch/articleshow/134549395.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134549393,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-28T18:51:48Z",
-      "content": "Follow Us On Social Media\r\n'Terrorist Zelensky...: Putin Ally Tears Into Ukraine, Europe At UN; Dire Warning | WatchNaomi Watts Gets Emotional Over David Lynch: He Changed EVERYTHING For MeIndia Eyes\u2026 [+2759 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TNN",
-      "title": "Three arrested for conversion bid in Deoria",
-      "description": "Three arrested in Deoria for alleged conversion attempt, accused of offering money and incentives; booked under UP Unlawful Conversion Act after complaint.",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/three-arrested-for-conversion-bid-in-deoria/articleshow/134549399.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-      "publishedAt": "2026-09-28T18:51:41Z",
-      "content": "Follow Us On Social Media\r\n'Terrorist Zelensky...: Putin Ally Tears Into Ukraine, Europe At UN; Dire Warning | WatchNaomi Watts Gets Emotional Over David Lynch: He Changed EVERYTHING For MeIndia Eyes\u2026 [+2759 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TNN",
-      "title": "UP legislative council poll process begins for 11 seats, notification today",
-      "description": "UP MLC polls process begins for 11 seats: EC issues notification today for 5 graduate and 6 teachers constituencies; voting via STV, no NOTA.",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/up-legislative-council-poll-process-begins-for-11-seats-notification-today/articleshow/134549398.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-      "publishedAt": "2026-09-28T18:51:35Z",
-      "content": "Follow Us On Social Media\r\n'Terrorist Zelensky...: Putin Ally Tears Into Ukraine, Europe At UN; Dire Warning | WatchNaomi Watts Gets Emotional Over David Lynch: He Changed EVERYTHING For MeIndia Eyes\u2026 [+2759 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Kumar Mukesh",
-      "title": "Hisar murder: Woman held for conspiring to kill husband",
-      "description": "Hisar police arrest Asha for allegedly conspiring with others to kill husband Jatin; body found in Data-Gurana canal after missing report.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/hisar-murder-woman-held-for-conspiring-to-kill-husband/articleshow/134549355.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134085653,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-28T18:51:24Z",
-      "content": "Follow Us On Social Media\r\n'Terrorist Zelensky...: Putin Ally Tears Into Ukraine, Europe At UN; Dire Warning | WatchNaomi Watts Gets Emotional Over David Lynch: He Changed EVERYTHING For MeIndia Eyes\u2026 [+2759 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Shashank Didmishe",
-      "title": "Fadnavis gives in-principle approval to Rs1,826cr plan for Chakan, Hinjewadi infrastructure",
-      "description": "Fadnavis grants in-principle approval for Rs1,826 crore to upgrade Chakan and Hinjewadi infrastructure, easing traffic, drainage, roads and power supply.",
-      "url": "https://timesofindia.indiatimes.com/city/pune/fadnavis-gives-in-principle-approval-to-rs1826cr-plan-for-chakan-hinjewadi-infrastructure/articleshow/134549397.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134549396,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-28T18:51:17Z",
-      "content": "<ul><li>News</li>\r\n<li>City News</li>\r\n<li>pune News</li>\r\n<li>Fadnavis gives in-principle approval to Rs1,826cr plan for Chakan, Hinjewadi infrastructure</li></ul>\r\nFollow Us On Social Media\r\n'Terro\u2026 [+2925 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Alim Shaikh",
-      "title": "Maval farmers firm on \u2018Jal Samadhi\u2019 protest on Oct 2 over Pavana pipeline project",
-      "description": "Maval farmers to hold \u2018jal samadhi\u2019 protest Oct 2 against Pavana dam closed pipeline to PCMC, seeking rehabilitation for 1972 dam-affected families.",
-      "url": "https://timesofindia.indiatimes.com/city/pune/maval-farmers-firm-on-jal-samadhi-protest-on-oct-2-over-pavana-pipeline-project/articleshow/134549391.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134549390,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-28T18:51:06Z",
-      "content": "Follow Us On Social Media\r\n'Terrorist Zelensky...: Putin Ally Tears Into Ukraine, Europe At UN; Dire Warning | WatchNaomi Watts Gets Emotional Over David Lynch: He Changed EVERYTHING For MeIndia Eyes\u2026 [+2759 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Times News Network",
-      "title": "MSU students represent varsity at youth festival in Russia",
-      "description": "MSU Vadodara students Jash Bhatt and Dhyeyrajsinh Parmar attended the International Festival of Youth 2026 in Russia, funded by Russian govt.",
-      "url": "https://timesofindia.indiatimes.com/city/vadodara/msu-students-represent-varsity-at-youth-festival-in-russia/articleshow/134549389.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134549388,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-28T18:51:00Z",
-      "content": "Follow Us On Social Media\r\n'Terrorist Zelensky...: Putin Ally Tears Into Ukraine, Europe At UN; Dire Warning | WatchNaomi Watts Gets Emotional Over David Lynch: He Changed EVERYTHING For MeIndia Eyes\u2026 [+2759 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Mahesh Buddi",
-      "title": "20 ACB cases closed as govt denies prosecution sanction",
-      "description": "Telangana ACB closed 20 bribery and DA FIRs since 2023 after government denied prosecution sanction, opting for departmental inquiries instead of trials.",
-      "url": "https://timesofindia.indiatimes.com/city/hyderabad/20-acb-cases-closed-as-govt-denies-prosecution-sanction/articleshow/134549386.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134549385,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-28T18:50:54Z",
-      "content": "Follow Us On Social Media\r\n'Terrorist Zelensky...: Putin Ally Tears Into Ukraine, Europe At UN; Dire Warning | WatchNaomi Watts Gets Emotional Over David Lynch: He Changed EVERYTHING For MeIndia Eyes\u2026 [+2759 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TNN",
-      "title": "HC seeks response over alleged delay in hospital construction",
-      "description": "Delhi High Court seeks Centre\u2019s response on alleged delay in ABVIMS/RML Hospital medical college building construction; compliance report due in 4 weeks.",
-      "url": "https://timesofindia.indiatimes.com/city/delhi/hc-seeks-response-over-alleged-delay-in-hospital-construction/articleshow/134549384.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-      "publishedAt": "2026-09-28T18:50:47Z",
-      "content": "Follow Us On Social Media\r\n'Terrorist Zelensky...: Putin Ally Tears Into Ukraine, Europe At UN; Dire Warning | WatchNaomi Watts Gets Emotional Over David Lynch: He Changed EVERYTHING For MeIndia Eyes\u2026 [+2759 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Daily Signal"
-      },
-      "author": "Al Perrotta",
-      "title": "Victor Davis Hanson on California\u2019s Political Future & the UN\u2019s Hypocrisy",
-      "description": "Editor\u2019s note: This is a lightly edited transcript of \u201cVictor Davis Hanson: In His Own Words\u201d from Daily Signal senior contributor\u00a0Victor Davis Hanson.\u00a0Subscribe to Victor Davis Hanson\u2019s own YouTube channel to watch past episodes. Sami Winc: So, Victor, lots \u2026",
-      "url": "https://www.dailysignal.com/2026/09/28/hanson-californias-future-uns-hypocrisy/",
-      "urlToImage": "https://static.dailysignalmedia.org/2026/09/260928-Benjamin_Netanyahu.gif",
-      "publishedAt": "2026-09-28T18:49:23Z",
-      "content": "Editors note: This is a lightly edited transcript of Victor Davis Hanson: In His Own Words from Daily Signal senior contributor\u00a0Victor Davis Hanson.\u00a0Subscribe to Victor Davis Hansons own YouTube chan\u2026 [+9532 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Texas Tribune"
-      },
-      "author": "Paul Cobler",
-      "title": "Texas Gov. Abbott declares disaster as diesel prices soar to average $5.86 a gallon",
-      "description": "Gov. Greg Abbott declared a statewide disaster on Monday over soaring diesel prices and a worsening fuel shortage created by wars abroad.\n\n\n\nThe 30-day disaster declaration, which can be extended indefinitely, allowed Abbott to lift some restrictions on comme\u2026",
-      "url": "https://www.texastribune.org/2026/09/28/texas-gas-diesel-prices-emergency-declaration-war-abbott/",
-      "urlToImage": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/09/20260825-Affordability-JL-14.jpg?quality=100&w=1200&h=630&ssl=1",
-      "publishedAt": "2026-09-28T18:47:56Z",
-      "content": "Never miss a story! The Texas Tribune's daily newsletter gives readers the most essential Texas news. Sign up for The Brief.\r\nAudio recording is automated for accessibility. Humans wrote and edited t\u2026 [+3974 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Lisa Daftari",
-      "title": "I exposed Iran\u2019s regime \u2014 then came the LA stalker and stolen bikini photos sent to my husband",
-      "description": "As an Iranian-American political analyst who has dedicated my career to exposing the regime in Tehran, I know firsthand the dangers of speaking out against the Islamic Republic. I live in Los Angeles \u2014 home to largest community of Iranians outside the country\u2026",
-      "url": "https://nypost.com/2026/09/28/opinion/iranian-american-analyst-lisa-daftari-reveals-threats-and-stalking-after-exposing-the-regime/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/crop-41008306.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-09-28T18:39:02Z",
-      "content": "As an Iranian-American political analyst who has dedicated my career to exposing the regime in Tehran, I know firsthand the dangers of speaking out against the Islamic Republic.\r\nI live in Los Angele\u2026 [+7637 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Marisa Schultz, Josh Christenson",
-      "title": "Trump envoys tout \u2018real progress\u2019 after marathon meetings at UN General Assembly",
-      "description": "\"I sense a sort of feeling of hope and promise. When all these nations come together and they can talk face to face \u2014 that\u2019s what drives progress,\" Steve Witkoff told The Post.",
-      "url": "https://nypost.com/2026/09/28/world-news/trump-envoys-tout-real-progress-after-marathon-meetings-at-un-general-assembly/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/142492319.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-09-28T18:30:39Z",
-      "content": "UNITED NATIONS \u2014 President Trump\u2019s peace envoys are touting \u201creal progress\u201d after holding talks on the sidelines of the UN General Assembly, including negotiations on the Russia-Ukraine war and the U\u2026 [+6127 chars]"
     }
   ]
 }
