@@ -2,93 +2,32 @@
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "CNA"
+        "id": "cbs-news",
+        "name": "CBS News"
       },
       "author": null,
-      "title": "Houthis say Saudi strikes on Yemen's Taiz leave dozens of casualties",
-      "description": "SANAA: Saudi airstrikes on Taiz in southwest Yemen caused dozens of casualties in an area controlled by the Houthis, the Iran-backed group said on Sunday (Sep 27), as fighting escalated further after a truce broke down.The Houthi military spokesman Yahya Sare\u2026",
-      "url": "https://www.channelnewsasia.com/world/yemen-taiz-strikes-houthis-saudi-arabia-6414126",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--uxqwiIzT--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/28/yemen_taiz_strikes.png?itok=NDTgoQIb",
-      "publishedAt": "2026-09-27T23:08:21Z",
-      "content": "Images broadcast by Al-Masirah showed vehicles with blown-out windows as well as damaged warehouses, where goods were covered in a thick layer of dust.\r\nFollowing several years of relative calm, Yeme\u2026 [+1180 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T02"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DW (English)"
-      },
-      "author": "Jenipher Camino Gonzalez",
-      "title": "Yemen: Houthis report deadly Saudi strikes on Taiz market",
-      "description": "The Houthi-run health ministry accused the Saudi Air Force of committing an \"abominable crime,\" vowing to retaliate. The Houthis' account of the attack cannot be independently verified.",
-      "url": "https://www.dw.com/en/yemen-houthis-report-deadly-saudi-strikes-on-taiz-market/a-79450102",
-      "urlToImage": "https://static.dw.com/image/79449998_6.jpg",
-      "publishedAt": "2026-09-27T17:51:00Z",
-      "content": "Yemen's Houthi rebels on Sunday accused the Saudi Arabian Air Force of having struck a shopping area around the central market of Taiz. The Iran-aligned Houthis\u00a0said at least seven people had been ki\u2026 [+2816 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T02"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fair Observer"
-      },
-      "author": "Alkhadher Sulaiman",
-      "title": "The South Must Be a Strategic Partner in Confronting the Houthi Threat",
-      "description": "The Houthi threat is no longer simply an internal Yemeni issue. Renewed Houthi aggression is a direct threat to Yemen, its neighbors, Red Sea shipping lanes, the flow of oil, and the wider security of the Arabian Peninsula and Horn of Africa. The Houthis are \u2026",
-      "url": "https://www.fairobserver.com/region/middle_east_north_africa/the-south-must-be-a-strategic-partner-in-confronting-the-houthi-threat/",
-      "urlToImage": "https://www.fairobserver.com/wp-content/uploads/2026/09/Houthi-troops.jpg",
-      "publishedAt": "2026-09-27T15:35:28Z",
-      "content": "The Houthi threat is no longer simply an internal Yemeni issue. Renewed Houthi aggression is a direct threat to Yemen, its neighbors, Red Sea shipping lanes, the flow of oil, and the wider security o\u2026 [+5772 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T02"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abcnews.com"
-      },
-      "author": "The Associated Press",
-      "title": "Colombian police capture wife and daughter of Ecuadorian gang leader extradited to the United States",
-      "description": "Colombian police say they have captured the wife and daughter of Jose Adolfo Macias Villamar, a notorious Ecuadorian gang leader",
-      "url": "https://abcnews.com/International/wireStory/colombian-police-capture-wife-daughter-ecuadorian-gang-leader-136802758",
-      "urlToImage": "https://i.abcnewsfe.com/a/41034e5e-4162-4483-9631-ade1469f5909/wirestory_6099ac1cdf1c40495671abd8b0e03101_16x9.jpg?w=1600",
-      "publishedAt": "2026-09-27T21:19:23Z",
-      "content": "BOGOTA, Colombia -- BOGOTA, Colombia (AP) Colombian police on Sunday said they captured the wife and daughter of a notorious Ecuadorian gang leader who was extradited to the U.S. last year on drug tr\u2026 [+1826 chars]",
+      "title": "Wife, daughter of top drug lord held in U.S. are captured in Colombia",
+      "description": "The women, who are wanted for money laundering, were arrested in an operation involving the FBI, President Abelardo de la Espriella said.",
+      "url": "https://www.cbsnews.com/news/wife-daughter-ecuador-drug-lord-fito-held-us-captured-colombia/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/28/a1ca5ea3-d7ec-4624-8ff4-c6625f5f1a33/thumbnail/1200x630g6/db9c4f972b50ca1cbf81a8e8cfc2273d/colombia-htpm2cpxgaeq-oj.jpg",
+      "publishedAt": "2026-09-28T15:26:43Z",
+      "content": "Colombian police have arrested the wife and daughter of one of Ecuador's most powerful drug lords who was extradited to the United States last year, President Abelardo de la Espriella said Sunday.\r\nA\u2026 [+2075 chars]",
       "cocom": "USSOUTHCOM",
       "_original_topic_id": "T05"
     },
     {
       "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
+        "id": null,
+        "name": "Freerepublic.com"
       },
-      "author": null,
-      "title": "Transcript: Alexander Yui, Taiwan's representative to the U.S., on \"Face the Nation with Margaret Brennan,\" Sept. 27, 2026",
-      "description": "The following is the transcript of the interview with Alexander Yui, Taiwan's representative to the U.S., that aired on \"Face the Nation with Margaret Brennan\" on Sept. 27, 2026.",
-      "url": "https://www.cbsnews.com/news/alexander-yui-taiwan-representative-face-the-nation-transcript-09-27-2026/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/27/ae32fd71-1b1d-4497-9f3c-fa1aed01ff5a/thumbnail/1200x630/130b9286ed959aee5b0c26171ced68dd/1790522488812.png",
-      "publishedAt": "2026-09-27T15:22:21Z",
-      "content": "The following is the transcript of the interview with Alexander Yui, Taiwan's representative to the U.S., that aired on \"Face the Nation with Margaret Brennan\" on Sept. 27, 2026.\r\nMARGARET BRENNAN: W\u2026 [+9346 chars]",
-      "cocom": "USINDOPACOM",
-      "_original_topic_id": "T10"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Anders Hagstrom",
-      "title": "Gloucestershire Police arrests suspects near RAF Fairford airbase",
-      "description": "Multiple suspects were arrested under the Explosives Act near RAF Fairford, prompting evacuations as explosive ordnance disposal teams examined vehicles.",
-      "url": "https://www.foxnews.com/world/uk-police-arrest-explosive-suspects-near-us-airbase-key-iran-war",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/raf-fairford.jpg",
-      "publishedAt": "2026-09-27T11:47:27Z",
-      "content": "U.K. police say they arrested multiple suspects for offenses under the \"Explosives Act\" near a U.S. airbase in southwest England on Sunday.\r\nGloucestershire Police say the arrests took place just two\u2026 [+2257 chars]",
-      "cocom": "USEUCOM",
-      "_original_topic_id": "T12"
+      "author": "Townhall",
+      "title": "Here's What We Know About the Foiled Terrorist Attack on a US-Operated Air Base So Far",
+      "description": "New information has come to light in the investigation into five men who were arrested outside of RAF Fairford in three vans presumed to contain explosives.According to Reuters, citing a source with knowledge on the matter, the motive for the foiled plot near\u2026",
+      "url": "https://freerepublic.com/focus/f-news/4397113/posts",
+      "urlToImage": null,
+      "publishedAt": "2026-09-28T04:57:22Z",
+      "content": "Skip to comments.\r\nHere's What We Know About the Foiled Terrorist Attack on a US-Operated Air Base So FarTownhall ^\r\n | 09/27/2026\r\n | Joe Chalfant\r\nPosted on 09/27/2026 9:57:22 PM PDT by SeekAndFind\u2026 [+4171 chars]",
+      "cocom": "USEUCOM"
     },
     {
       "source": {
@@ -102,53 +41,65 @@
       "urlToImage": "https://live-production.wcms.abc-cdn.net.au/ca08c9d30485618006df2a5691ecb990?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
       "publishedAt": "2026-09-27T21:36:36Z",
       "content": "Five men are accused of preparing a terrorist act near an English air base the United States is using in its war against Iran.\r\nLondon's Metropolitan Police, which leads policing efforts involving po\u2026 [+6615 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "Mediaite",
+      "title": "UK Gave Asylum to Hamas\u2019s Top Guard Who Then Plotted a Terrorist Attack Against Jews",
+      "description": "A top Hamas bodyguard was secretly plotting a terror attack against European Jews from inside of the United Kingdom, right under the noses of British intelligence, The Sunday Times reported. The operative, known in the article only as \u201cMr. X\u201d for legal reason\u2026",
+      "url": "https://freerepublic.com/focus/f-chat/4397062/posts",
+      "urlToImage": null,
+      "publishedAt": "2026-09-27T17:33:57Z",
+      "content": "Skip to comments.\r\nUK Gave Asylum to Hamass Top Guard Who Then Plotted a Terrorist Attack Against JewsMediaite\r\n | September 27, 2026\r\n | Jennifer Bowers Bahney\r\nPosted on 09/27/2026 10:33:57 AM PDT \u2026 [+2555 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mediaite"
+      },
+      "author": "Jennifer Bowers Bahney",
+      "title": "UK Gave Asylum to Hamas\u2019s Top Guard Who Then Plotted a Terrorist Attack Against Jews \u2014 Shocking Report Says",
+      "description": "A top Hamas bodyguard was reportedly plotting a terror attack against European Jews from inside of the United Kingdom, right under the noses of MI5.\nThe post UK Gave Asylum to Hamas\u2019s Top Guard Who Then Plotted a Terrorist Attack Against Jews \u2014 Shocking Repor\u2026",
+      "url": "https://www.mediaite.com/media/news/uk-gave-asylum-to-hamass-top-guard-who-then-plotted-a-terrorist-attack-against-jews-shocking-report-says/",
+      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2026/09/hamas-e1790528607755.jpeg",
+      "publishedAt": "2026-09-27T17:14:43Z",
+      "content": "(Sipa via AP Images)\r\nA top Hamas bodyguard was secretly plotting a terror attack against European Jews from inside of the United Kingdom, right under the noses of British intelligence, The Sunday Ti\u2026 [+2137 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "Breitbart",
+      "title": "Suspects in Alleged Terror Plot on Air Force Base Released on Bail, All Said to Be \u2018British Nationals\u2019",
+      "description": "Suspects in Alleged Terror Plot on Air Force Base Released on Bail, All Said to Be \u2018British Nationals\u2019 British Counter Terrorism Police officials said on Monday that the suspects in the alleged terror plot on the Royal Air Force base at Fairford on Sunday hav\u2026",
+      "url": "https://freerepublic.com/focus/f-chat/4397170/posts",
+      "urlToImage": null,
+      "publishedAt": "2026-09-28T17:22:43Z",
+      "content": "Skip to comments.\r\nSuspects in Alleged Terror Plot on Air Force Base Released on Bail, All Said to Be British NationalsBreitbart ^\r\n | 28 Sep 2026\r\n | Kurt Zindulka\r\nPosted on 09/28/2026 10:22:43 AM \u2026 [+3066 chars]",
       "cocom": "USEUCOM",
-      "_original_topic_id": "T14"
+      "_original_topic_id": "T13"
     },
     {
       "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
+        "id": "breitbart-news",
+        "name": "Breitbart News"
       },
-      "author": "Kanchan Yadav",
-      "title": "Taiwan says US 'very much' understands its defence needs amid China threat",
-      "description": "The United States \u201cvery much\u201d understands Taiwan\u2019s defence needs and the severe military threat posed by China, a senior Taiwanese diplomat said on",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/taiwan-says-us-very-much-understands-its-defence-needs-amid-china-threat/articleshow/134514579.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134515161,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-27T05:29:19Z",
-      "content": "Follow Us On Social Media\r\nAsian Games 2026 India Medal Winners: Full List of Athletes and Medals Till September 27AI mural inspired by Banksy sparks backlash in Bristol: Artists spot wrong landmarks\u2026 [+1697 chars]",
-      "cocom": "USINDOPACOM",
-      "_original_topic_id": "T14"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Reuters",
-      "title": "Taiwan says U.S. 'very much' understands its defense needs after Trump-Xi talks",
-      "description": "TAIPEI, Sept 27 (Reuters) - The United States \"very much\" understands Taiwan's defence needs and the severe military threat it faces from China, a senior \u200cTaiwanese diplomat said on Sunday, following a Washington summit between the US \u200cand Chinese leaders. De\u2026",
-      "url": "https://www.yahoo.com/news/articles/us-very-much-understands-taiwans-024356196.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/deb2bca72aab25efbafbab8ecda457dce77b683184624d994b22aa0333432bf5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Ff9b6a1bc175e2f7d5b15d4d7cdcfb611.jpg",
-      "publishedAt": "2026-09-27T02:43:56Z",
-      "content": "TAIPEI, Sept 27 (Reuters) - The United States \"very much\" understands Taiwan's defence needs and the severe military threat it faces from China, a senior Taiwanese diplomat said on Sunday, following \u2026 [+1968 chars]",
-      "cocom": "USINDOPACOM",
-      "_original_topic_id": "T14"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Reuters",
-      "title": "Taiwan says U.S. 'very much' understands its defense needs after Trump-Xi talks",
-      "description": "TAIPEI, Sept 27 (Reuters) - The United States \"very much\" understands Taiwan's defence needs and the severe military threat it faces from China, a senior \u200cTaiwanese diplomat said on Sunday, following a Washington summit between the US \u200cand Chinese leaders. De\u2026",
-      "url": "https://uk.news.yahoo.com/us-very-much-understands-taiwans-024356196.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/fc874c25ca0deafe076f4657f0fd88c51db8fae6471193c91d392a43dc926ebb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fd1dfd6b170082706fcc02b57cfc50a13.jpg",
-      "publishedAt": "2026-09-27T02:43:56Z",
-      "content": "TAIPEI, Sept 27 (Reuters) - The United States \"very much\" understands Taiwan's defence needs and the severe military threat it faces from China, a senior Taiwanese diplomat said on Sunday, following \u2026 [+1968 chars]",
-      "cocom": "USINDOPACOM",
-      "_original_topic_id": "T14"
+      "author": "Kurt Zindulka",
+      "title": "Suspects in Alleged Terror Plot on Air Force Base Released on Bail, All Said to Be 'British Nationals'",
+      "description": "Counter Terrorism officials said that the \"British national\" suspects in the alleged terror plot on RAF Fairford have been released on bail.\nThe post Suspects in Alleged Terror Plot on Air Force Base Released on Bail, All Said to Be \u2018British Nationals\u2019 appear\u2026",
+      "url": "https://www.breitbart.com/europe/2026/09/28/suspects-in-alleged-terror-plot-on-air-force-base-released-on-bail-all-said-to-be-british-nationals/",
+      "urlToImage": "https://media.breitbart.com/media/2026/09/GettyImages-2297506829-1-640x335.jpg",
+      "publishedAt": "2026-09-28T16:05:22Z",
+      "content": "British Counter Terrorism Police officials said on Monday that the suspects in the alleged terror plot on the Royal Air Force base at Fairford on Sunday have been released on bail, while only being i\u2026 [+5918 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T13"
     }
   ]
 }

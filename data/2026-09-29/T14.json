@@ -1,7 +1,72 @@
 {
   "status": "ok",
-  "totalResults": 24,
+  "totalResults": 31,
   "articles": [
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Iran under scrutiny after plot foiled near UK base used by US military",
+      "description": "Experts suspect an Iran link after five were allegedly arrested with explosives near a U.K. U.S. military base. Russia and Islamic terrorists are also under scrutiny.",
+      "url": "https://www.foxnews.com/world/iran-under-scrutiny-after-plot-foiled-near-uk-base-used-us-military",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/english-police-raf-fairford.jpg",
+      "publishedAt": "2026-09-28T18:24:51Z",
+      "content": "Just days after left-wing British Foreign Secretary Ed Miliband shook hands with the Islamic Republic of Irans top diplomat at the United Nations, U.K. authorities arrested five men with possible lin\u2026 [+7181 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Common Dreams"
+      },
+      "author": "Brett Wilkins",
+      "title": "Updated Google Satellite Images Show 'Apocalyptic' Destruction of Gaza by Israel",
+      "description": "Updated Google satellite imagery shared Monday on social media provides a new perspective on the staggering scale of Israel's obliteration of the Gaza Strip, showing entire neighborhoods reduced to rubble and vast stretches of a formerly dense urban landscape\u2026",
+      "url": "https://www.commondreams.org/news/google-satellite-images-of-gaza-destruction",
+      "urlToImage": "https://www.commondreams.org/media-library/image.png?id=67876043&width=1200&height=600&coordinates=0%2C54%2C0%2C55",
+      "publishedAt": "2026-09-28T18:09:34Z",
+      "content": "Updated Google satellite imagery shared Monday on social media provides a new perspective on the staggering scale of Israel's obliteration of the Gaza Strip, showing entire neighborhoods reduced to r\u2026 [+4293 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thenation.com"
+      },
+      "author": "Jeet Heer",
+      "title": "Kimberly Guilfoyle Is a Master of Mafia Diplomacy",
+      "description": "Jeet Heer\n\n\n\nThe US Ambassador to Greece is making suspicious deals for her buddies.\r\n\n\r\n\n\nThe post Kimberly Guilfoyle Is a Master of Mafia Diplomacy appeared first on The Nation.",
+      "url": "https://www.thenation.com/article/politics/kimberly-guilfoyle-is-a-master-of-mafia-diplomacy/",
+      "urlToImage": "https://www.thenation.com/wp-content/uploads/2020/08/kimberly-guilfoyle-rnc-speech-gty-img.jpg",
+      "publishedAt": "2026-09-28T16:53:45Z",
+      "content": "The US Ambassador to Greece is making suspicious deals for her buddies.\r\nEdit\r\nAd Policy\r\nKimberly Guilfoyle speaks during the 2020 Republican National Convention.\r\n(Olivier Douliery / AFP via Getty \u2026 [+7366 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Archis Mohan",
+      "title": "Indian delegation reaches Islamabad for three-day SCO coordinators' meet",
+      "description": "National coordinators will discuss activities under Pakistan's SCO chairmanship and preparations for upcoming meetings ahead of the leaders' summit in August 2027",
+      "url": "https://www.business-standard.com/external-affairs-defence-security/news/indian-delegation-reaches-islamabad-for-three-day-sco-coordinators-meet-126092801270_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/28/thumb/fitandfill/1200X628/1790607031-7872.jpg",
+      "publishedAt": "2026-09-28T14:52:10Z",
+      "content": "National coordinators will discuss activities under Pakistan's SCO chairmanship and preparations for upcoming meetings ahead of the leaders' summit in August 2027\r\nIndia is expected to participate in\u2026 [+4541 chars]"
+    },
+    {
+      "source": {
+        "id": "rt",
+        "name": "RT"
+      },
+      "author": "RT",
+      "title": "Moscow responds to Swiss neutrality referendum result",
+      "description": "Switzerland\u2019s rejection of tighter neutrality rules shows the country is no longer neutral, Russian diplomat Mikhail Ulyanov has said Read Full Article at RT.com",
+      "url": "https://www.rt.com/news/646361-moscow-responds-swiss-neutrality-referendum-result/",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6aba676e85f540333800c753.jpg",
+      "publishedAt": "2026-09-28T13:59:21Z",
+      "content": "Switzerland has shown that it is \u201cnot a neutral state anymore\u201d by rejecting a proposal to tighten the country\u2019s neutrality rules, Russia\u2019s Permanent Representative to International Organizations in V\u2026 [+2013 chars]"
+    },
     {
       "source": {
         "id": null,

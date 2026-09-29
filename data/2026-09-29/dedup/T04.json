@@ -1,0 +1,13 @@
+{
+  "groups": {
+    "https://news.un.org/en/story/2026/09/1168465": "a",
+    "https://www.globalsecurity.org/security/library/news/2026/09/sec-260928-unnews01.htm": "a",
+    "https://timesofindia.indiatimes.com/city/bhopal/bandhavgarh-area-cordoned-off-as-elephant-death-sparks-anthrax-scare/articleshow/134545291.cms": "b",
+    "https://www.gov.uk/government/speeches/uk-statement-at-the-un-high-level-meeting-on-pandemic-prevention-preparedness-and-response": "c",
+    "https://slashdot.org/firehose.pl?op=view&amp;id=185889112": "d",
+    "https://nypost.com/2026/09/28/health/florida-officials-warn-of-disease-outbreak-declare-state-of-emergency/": "d",
+    "https://gizmodo.com/a-wildly-unusual-outbreak-of-dengue-is-hitting-florida-hard-as-several-counties-declare-state-of-emergency-2000818145": "d",
+    "https://economictimes.indiatimes.com/news/international/global-trends/florida-on-alert-as-state-declares-emergency-over-breakbone-fever-dengue-outbreak/articleshow/134547132.cms": "d"
+  },
+  "contradictions": []
+}

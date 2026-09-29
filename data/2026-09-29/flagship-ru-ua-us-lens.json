@@ -1,5 +1,19 @@
 {
   "status": "ok",
-  "totalResults": 0,
-  "articles": []
+  "totalResults": 1,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Financial Times"
+      },
+      "author": null,
+      "title": "Russian drones hit Kyiv science academy and hospital - Financial Times",
+      "description": "One person killed and six injured in attack on capital, as Volodymyr Zelenskyy urges countries to do more to protect Ukraine",
+      "url": "https://www.ft.com/content/e423eb7f-ec97-43ed-9b75-cad8e81ac86b?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1fec3d97-467f-4e07-ac59-e560a2025f6f.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-09-28T15:03:53Z",
+      "content": null
+    }
+  ]
 }

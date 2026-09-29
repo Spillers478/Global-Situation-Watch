@@ -1,5 +1,19 @@
 {
   "status": "ok",
-  "totalResults": 0,
-  "articles": []
+  "totalResults": 1,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "/FILM"
+      },
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "title": "How To Watch Andrew Garfield's The Uprising At Home",
+      "description": "Few folks have caught Paul Greengrass' The Uprising in theaters. Here's how you can catch the Andrew Garfield-front historical action drama at home.",
+      "url": "https://www.slashfilm.com/2271107/how-watch-andrew-garfield-the-uprising-home/",
+      "urlToImage": "https://www.slashfilm.com/img/gallery/how-to-watch-andrew-garfields-the-uprising-at-home/l-intro-1790619359.jpg",
+      "publishedAt": "2026-09-28T18:16:29Z",
+      "content": "\"The Uprising\" is directed by Paul Greengrass, who, aside from overseeing \"Captain Phillips\" and \"United 93,\" is the man who gave us two excellent entries in the Bourne franchise with \"The Bourne Sup\u2026 [+1443 chars]"
+    }
+  ]
 }

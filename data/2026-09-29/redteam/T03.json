@@ -2,6 +2,34 @@
   "articles": [
     {
       "source": {
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "author": "Ana Maria Constantin",
+      "title": "Red Queen Bio is using AI to design antibodies for future viruses, WSJ says",
+      "description": "Red Queen Bio, a biosecurity startup backed by OpenAI, has raised $36 million in total to design antibody drugs against viruses, including ones that AI systems could one day help create, The Wall Street Journal reported. The company is starting with antibodie\u2026",
+      "url": "https://thenextweb.com/news/red-queen-bio-ai-antibodies-openai-wsj",
+      "urlToImage": "https://media.thenextweb.com/2026/09/red-queen-bio-founders-hannu-rajaniemi-nikolai-eroshenko.jpg",
+      "publishedAt": "2026-09-28T17:44:43Z",
+      "content": "Red Queen Bio, a biosecurity startup backed by OpenAI, has raised $36 million in total to design antibody drugs against viruses, including ones that AI systems could one day help create, The Wall Str\u2026 [+1618 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Isegoria.net"
+      },
+      "author": "Isegoria",
+      "title": "Any notes written down during briefings were confiscated by security guards",
+      "description": "Because the Russians\u2019 biological weapons program was a clear violation of the BWC treaty, Annie Jacobsen explains (in Biological War), the Soviets went to great lengths to disguise it: Igor Domaradskij was the first scientific director at Obolensk, and the fi\u2026",
+      "url": "https://www.isegoria.net/2026/09/any-notes-written-down-during-briefings-were-confiscated-by-security-guards/",
+      "urlToImage": null,
+      "publishedAt": "2026-09-28T14:21:03Z",
+      "content": "Because the Russians biological weapons program was a clear violation of the BWC treaty, Annie Jacobsen explains (in Biological War), the Soviets went to great lengths to disguise it: Igor Domaradski\u2026 [+1451 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
         "id": "abc-news-au",
         "name": "ABC News (AU)"
       },

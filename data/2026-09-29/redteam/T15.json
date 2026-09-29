@@ -2,21 +2,6 @@
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "Naturalnews.com"
-      },
-      "author": "Edison Reed",
-      "title": "Refrigeration Failures at Military Commissaries Draw Scrutiny Over Infrastructure Security",
-      "description": "Multiple U.S. military commissaries experienced refrigeration failures within a short period, according to public accounts, raising questions about the security and resilience of the operational technology that supports everyday functions on American military\u2026",
-      "url": "https://www.naturalnews.com/2026-09-28-refrigeration-failures-at-military-commissaries-draw-scrutiny.html",
-      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/military-commissaries-refrigeration-failures-infrastructure-security-4546-original.jpg",
-      "publishedAt": "2026-09-28T06:00:00Z",
-      "content": "Multiple U.S. military commissaries experienced refrigeration failures within a short period, according to public accounts, raising questions about the security and resilience of the operational tech\u2026 [+10052 chars]",
-      "cocom": "USNORTHCOM",
-      "_original_topic_id": "flagship-ru-ua"
-    },
-    {
-      "source": {
         "id": "the-times-of-india",
         "name": "The Times of India"
       },
@@ -32,6 +17,20 @@
     {
       "source": {
         "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "AMY TAXIN",
+      "title": "Sea level rise is reshaping a California beach town and threatening a key rail line",
+      "description": "SAN CLEMENTE, Calif. (AP) \u2014 For years, residents of this Southern California beach town could walk a mile along a stretch of cream-colored sand and dip their toes in the waves lapping ashore.\n That trip has been cut short.\n Coastal erosion has been eating awa\u2026",
+      "url": "https://www.yahoo.com/news/science/articles/sea-level-rise-reshaping-california-100600946.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/f3b48cc9517287f04a84507b9821985767f1177f338c8293adbd8e3e8e09033f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F9b3be3dedc49100fd39678cfd0531049.jpg",
+      "publishedAt": "2026-09-27T10:06:00Z",
+      "content": "SAN CLEMENTE, Calif. (AP) For years, residents of this Southern California beach town could walk a mile along a stretch of cream-colored sand and dip their toes in the waves lapping ashore.\r\nThat tri\u2026 [+5129 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Peoplesreview.com.np"
       },
       "author": "team1",
@@ -42,6 +41,66 @@
       "publishedAt": "2026-09-27T06:58:15Z",
       "content": "Kathmandu, Sept 27: Incessant rainfall, strong winds, floods, landslides, and lightning have damaged electricity transmission and distribution infrastructure across the country, disrupting power supp\u2026 [+2191 chars]",
       "cocom": "USINDOPACOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Natasha Lindstaedt, Professor in the Department of Government, University of Essex",
+      "title": "Climate disasters are getting worse \u2013 risks escalate when authoritarian regimes keep neighbours in the dark",
+      "description": "With extreme weather and glacier melt predicted to increase, neighbouring nations will need to act together to prevent deaths.",
+      "url": "https://theconversation.com/climate-disasters-are-getting-worse-risks-escalate-when-authoritarian-regimes-keep-neighbours-in-the-dark-291857",
+      "urlToImage": "https://images.theconversation.com/files/762091/original/file-20260924-50-vcx8bl.jpg?ixlib=rb-4.1.1&rect=0%2C143%2C1000%2C500&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-09-28T13:01:36Z",
+      "content": "shankar bhujel/Shutterstock\r\nAuthoritarian regimes have a history of keeping information about escalating disasters secret, even when it could harm their own citizens. \n\nWith more weather-related dis\u2026 [+5331 chars]",
+      "cocom": "USINDOPACOM",
+      "_original_topic_id": "T02"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Ananya Swaroop",
+      "title": "Moment shark swims through streets of flooded New Jersey suburb after monster nor'easter",
+      "description": "These baby sharks are common to areas close to the western Atlantic Ocean.",
+      "url": "https://www.dailymail.com/news/article-16166463/shark-swims-streets-flooded-New-Jersey-suburb-monster-noreaster.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/09/28/19/111525081-0-image-a-33_1790620327791.jpg",
+      "publishedAt": "2026-09-28T18:42:52Z",
+      "content": "A New Jersey resident spotted an unusual guest outside his house during the weekends horrific noreaster floods on the East Coast.\r\nDrew Procaccino, a Surf City resident, found a small harmless shark \u2026 [+2589 chars]",
+      "cocom": "USNORTHCOM",
+      "_original_topic_id": "T05"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Time Out"
+      },
+      "author": "Primary Author: Laura Ratliff",
+      "title": "The nor\u2019easter state of emergency is still in effect for these NY areas\u2014here\u2019s the latest",
+      "description": "The state of emergency covers all five boroughs, Long Island and Westchester as rain and coastal flooding linger into Monday.",
+      "url": "https://www.timeout.com/newyork/news/the-noreaster-state-of-emergency-is-still-in-effect-for-these-ny-areasheres-the-latest-092826",
+      "urlToImage": "https://media.timeout.com/images/106451601/image.jpg",
+      "publishedAt": "2026-09-28T15:24:18Z",
+      "content": "The nor\u2019easter that spent the weekend making itself thoroughly unwelcome (and canceled major events like Global Citizen Festival) isn\u2019t quite finished with New York. Rain is expected to linger throug\u2026 [+2211 chars]",
+      "cocom": "USNORTHCOM",
+      "_original_topic_id": "T05"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Natasha Lindstaedt, Professor in the Department of Government, University of Essex",
+      "title": "Climate disasters are getting worse \u2013 risks escalate when authoritarian regimes keep neighbours in the dark",
+      "description": "With extreme weather and glacier melt predicted to increase, neighbouring nations will need to act together to prevent deaths.",
+      "url": "https://theconversation.com/climate-disasters-are-getting-worse-risks-escalate-when-authoritarian-regimes-keep-neighbours-in-the-dark-291857",
+      "urlToImage": "https://images.theconversation.com/files/762091/original/file-20260924-50-vcx8bl.jpg?ixlib=rb-4.1.1&rect=0%2C143%2C1000%2C500&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-09-28T13:01:36Z",
+      "content": "shankar bhujel/Shutterstock\r\nAuthoritarian regimes have a history of keeping information about escalating disasters secret, even when it could harm their own citizens. \n\nWith more weather-related dis\u2026 [+5331 chars]",
+      "cocom": "Transregional",
+      "_original_topic_id": "T13"
     },
     {
       "source": {

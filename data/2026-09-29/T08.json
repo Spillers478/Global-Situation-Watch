@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 6,
+  "totalResults": 7,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Thomas L. Murray",
+      "title": "Raiders\u2019 Jack Bech suffers broken arm in return to New Orleans amid brother\u2019s murder in terrorist attack",
+      "description": "An emotional return to the Caesars Superdome ended in devastating fashion for Las Vegas Raiders wide receiver Jack Bech. During the Raiders\u2019 35-27 victory against the New Orleans Saints, Bech suffered an arm injury after colliding with Saints safety Justin Re\u2026",
+      "url": "https://nypost.com/2026/09/28/sports/raiders-jack-beck-suffers-a-devastating-arm-fracture/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-mnrzwi1op-1790567161691.jpg?quality=75&strip=all&1790552800&w=1200",
+      "publishedAt": "2026-09-28T12:00:00Z",
+      "content": "An emotional return to the Caesars Superdome ended in devastating fashion for Las Vegas Raiders wide receiver Jack Bech.\r\nDuring the Raiders\u2019 35-27 victory against the New Orleans Saints, Bech suffer\u2026 [+1968 chars]"
+    },
     {
       "source": {
         "id": null,

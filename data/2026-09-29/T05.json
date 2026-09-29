@@ -1,7 +1,436 @@
 {
   "status": "ok",
-  "totalResults": 52,
+  "totalResults": 85,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Svitlana Chernykh, Senior Lecturer, School of Politics & International Relations, Australian National University, Benjamin E. Goldsmith, Professor of Political Science, Australian National University, Sascha Nanlohy, Honorary Associate, School of Social and Political Sciences, University of Sydney; Australian National University",
+      "title": "Can we predict genocide by listening to what leaders say? Research finds common threads",
+      "description": "As mass atrocities continue worldwide, finding ways to spot warning signs earlier could help mitigate or prevent future catastrophe.",
+      "url": "https://theconversation.com/can-we-predict-genocide-by-listening-to-what-leaders-say-research-finds-common-threads-289042",
+      "urlToImage": "https://images.theconversation.com/files/761361/original/file-20260922-50-gbipv3.jpg?ixlib=rb-4.1.1&rect=0%2C259%2C2581%2C1290&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-09-28T19:42:10Z",
+      "content": "Serbian Communist Party leader Slobodan Milo\u0161evi\u0107 addresses a crowd in 1988. Patrick Hertzog/AFP via Getty Images\r\nOn the eve of the full-scale invasion of Ukraine on February 24 2022, Russian Presid\u2026 [+6983 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Myanmar army air strike kills dozens in Rakhine state",
+      "description": "Nearly half a million people are displaced in Rakhine as a result of the conflict between the military and rebel groups.",
+      "url": "https://www.aljazeera.com/news/2026/9/28/myanmar-army-air-strike-kills-dozens-in-rakhine-state",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6abaaadb255f-1790618331.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-28T19:31:27Z",
+      "content": "An air strike carried out by Myanmars military has killed at least 33 people in territory controlled by rebel factions.\r\nThe attack near a market in the north of the Rakhine state in the west of the \u2026 [+2845 chars]"
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Christian K. Caruzo",
+      "title": "El Salvador at the U.N.: No Country Should Accept Collapse as Its Fate",
+      "description": "Foreign Minister of El Salvador Alexandra Hill Tinoco on Monday affirmed during her U.N. General Assembly speech that no country should be forced to accept collapse as its fate.\nThe post El Salvador at the U.N.: No Country Should Accept Collapse as Its Fate a\u2026",
+      "url": "https://www.breitbart.com/latin-america/2026/09/28/el-salvador-at-the-u-n-no-country-should-accept-collapse-as-its-fate/",
+      "urlToImage": "https://media.breitbart.com/media/2026/09/GettyImages-2297042385-640x335.png",
+      "publishedAt": "2026-09-28T19:06:52Z",
+      "content": "Foreign Minister of El Salvador Alexandra Hill Tinoco on Monday affirmed during her U.N. General Assembly speech that no country should be forced to accept collapse as its fate.\r\nThe minister emphasi\u2026 [+5068 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "https://www.abc.net.au/news/ian-verrender/5261264",
+      "title": "Waning trust in Trump's economy is about to hit your mortgage",
+      "description": "Against the backdrop of war in Iran, a trade war with Canada and bond sell-offs, trust in the US dollar appears to be weakening, and it will likely have an impact today when the RBA announces its rate decision.",
+      "url": "https://www.abc.net.au/news/2026-09-29/us-dollar-trust-weakening-due-to-donald-trump-iran-war/107204644",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/2bb014a9fd21ce1abb432937243e7d0f?impolicy=wcms_watermark_news&cropH=472&cropW=840&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-09-28T18:54:37Z",
+      "content": "It is a phrase synonymous with American dominance, especially when it came to matters financial.\r\nIn God We Trust.\r\nWhile it first appeared on a 2-cent coin in 1864, it wasn't officially adopted unti\u2026 [+8149 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Ananya Swaroop",
+      "title": "Moment shark swims through streets of flooded New Jersey suburb after monster nor'easter",
+      "description": "These baby sharks are common to areas close to the western Atlantic Ocean.",
+      "url": "https://www.dailymail.com/news/article-16166463/shark-swims-streets-flooded-New-Jersey-suburb-monster-noreaster.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/09/28/19/111525081-0-image-a-33_1790620327791.jpg",
+      "publishedAt": "2026-09-28T18:42:52Z",
+      "content": "A New Jersey resident spotted an unusual guest outside his house during the weekends horrific noreaster floods on the East Coast.\r\nDrew Procaccino, a Surf City resident, found a small harmless shark \u2026 [+2589 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Ananya Swaroop",
+      "title": "Moment shark swims through streets of flooded New Jersey suburb after monster nor'easter",
+      "description": "These baby sharks are common to areas close to the western Atlantic Ocean.",
+      "url": "https://www.dailymail.com/news/article-16166463/shark-swims-streets-flooded-New-Jersey-suburb-monster-noreaster.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/09/28/19/111525081-0-image-a-33_1790620327791.jpg",
+      "publishedAt": "2026-09-28T18:42:52Z",
+      "content": "A New Jersey resident spotted an unusual guest outside his house during the weekends horrific noreaster floods on the East Coast.\r\nDrew Procaccino, a Surf City resident, found a small harmless shark \u2026 [+2589 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Lisa Daftari",
+      "title": "I exposed Iran\u2019s regime \u2014 then came the LA stalker and stolen bikini photos sent to my husband",
+      "description": "As an Iranian-American political analyst who has dedicated my career to exposing the regime in Tehran, I know firsthand the dangers of speaking out against the Islamic Republic. I live in Los Angeles \u2014 home to largest community of Iranians outside the country\u2026",
+      "url": "https://nypost.com/2026/09/28/opinion/iranian-american-analyst-lisa-daftari-reveals-threats-and-stalking-after-exposing-the-regime/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/crop-41008306.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-09-28T18:39:02Z",
+      "content": "As an Iranian-American political analyst who has dedicated my career to exposing the regime in Tehran, I know firsthand the dangers of speaking out against the Islamic Republic.\r\nI live in Los Angele\u2026 [+7637 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boing Boing"
+      },
+      "author": "Jason Weisberger",
+      "title": "Fighting Mother Nature, America has spent $15.7 billion putting sand back on beaches",
+      "description": "It works, for a little while anyway. America is fighting rising sea levels with sand because we don't really have a better plan.\nOn both coasts, the United States' answer to coastal erosion is more beach sand. In just California: Newport Beach wants 200,000 c\u2026",
+      "url": "https://boingboing.net/2026/09/28/beach-erosion-sand-replenishment.html",
+      "urlToImage": "https://boingboing.net/wp-content/uploads/2025/05/Wrightsville-Beach_2C-NC.-Photo-2024-Frame-Craft-.jpg",
+      "publishedAt": "2026-09-28T18:07:55Z",
+      "content": "It works, for a little while anyway. America is fighting rising sea levels with sand because we don't really have a better plan.\r\nOn both coasts, the United States' answer to coastal erosion is more \u2026 [+2319 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wnd.com"
+      },
+      "author": "The Gateway Pundit",
+      "title": "Jan. 6 \u2018was a fixed operation\u2019: Rudy Giuliani explains what happened and names the nefarious person behind it",
+      "description": "America's mayor references 'communist plan to overthrow us,' compares chief instigator to the anti-Christ",
+      "url": "https://www.wnd.com/2026/09/jan-6-was-fixed-operation-rudy-giuliani-explains/",
+      "urlToImage": "https://www.wnd.com/wp-content/uploads/2023/05/capitol-riot-protests-flashpoint-firing-weapons-on-crowd-january-6th-2021-jpg-1200x630.jpg",
+      "publishedAt": "2026-09-28T17:56:57Z",
+      "content": "Former New York City Mayor and Trump attorney Rudy Giuliani dropped a series of explosive allegations Saturday night during the American Martyrs premiere in West Palm Beach, Florida, telling moderato\u2026 [+6861 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": null,
+      "title": "On Election Day it\u2019s save your freedoms or slavery to socialism: it\u2019s up to you Part 1",
+      "description": "Our enemies are tough, smart and determined to enslave us and they will kill our freedoms and abandon their duties to serve and protect anyone they deem to be an enemy. If you are a White male Christian especially a Catholic, a veteran, NRA member Pro-lifer s\u2026",
+      "url": "https://freerepublic.com/focus/f-chat/4397177/posts",
+      "urlToImage": null,
+      "publishedAt": "2026-09-28T17:55:31Z",
+      "content": "Skip to comments.\r\nOn Election Day its save your freedoms or slavery to socialism: its up to you Part 1\r\nSeptember 28, 2026\r\n | Kevin Coach Collins \r\nPosted on 09/28/2026 10:55:31 AM PDT by jmaroneps\u2026 [+10148 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Ed Cara",
+      "title": "A \u2018Wildly Unusual\u2019 Outbreak of Dengue is Hitting Florida Hard As Several Counties Declare State of Emergency",
+      "description": "2026 is set to be the worst year yet for locally acquired cases in the state.",
+      "url": "https://gizmodo.com/a-wildly-unusual-outbreak-of-dengue-is-hitting-florida-hard-as-several-counties-declare-state-of-emergency-2000818145",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Aedes-mosquito-1200x675.jpg",
+      "publishedAt": "2026-09-28T17:30:01Z",
+      "content": "There\u2019s something rotten in the state of Florida, and it\u2019s sporting six legs and a bloodsucking proboscis as the state is currently beset by dengue-spreading mosquitoes.\r\nLast week, three Florida cou\u2026 [+3178 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "Florida on alert as state declares emergency over \u2018breakbone fever\u2019 dengue outbreak",
+      "description": "Florida has recently declared a local state of emergency in response to a rising dengue fever outbreak impacting various counties. With almost 200 locally contracted cases reported this year, showing a dramatic increase from the previous year, officials have \u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/florida-on-alert-as-state-declares-emergency-over-breakbone-fever-dengue-outbreak/articleshow/134547132.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134548079,width-1200,height-630,imgsize-41860,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-28T17:19:10Z",
+      "content": "Florida has declared a local state of emergency over a dengue fever outbreak after health officials reported a sharp rise in locally acquired cases, including one death.The state has recorded nearly \u2026 [+3847 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "Semi-News/Semi-Satire",
+      "title": "Pro and Con on Iran",
+      "description": "Led by Bahrain, 80 countries complained to the UN Security Council that \"Iran and the Houthis threaten international security, navigational rights, and freedoms. Innocent lives are being put at risk.\" They called for \"the full and immediate reopening of the H\u2026",
+      "url": "https://freerepublic.com/focus/f-bloggers/4397167/posts",
+      "urlToImage": null,
+      "publishedAt": "2026-09-28T17:13:09Z",
+      "content": "Skip to comments.\r\nPro and Con on IranSemi-News/Semi-Satire ^\r\n | 27 Sep 2026\r\n | John Semmens\r\nPosted on 09/28/2026 10:13:09 AM PDT by John Semmens\r\nLed by Bahrain, 80 countries complained to the UN\u2026 [+4499 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "yahoo news",
+      "title": "In run for Brazil's presidency, Flavio Bolsonaro tests staying power of father's legacy...",
+      "description": "By Luciana Magalhaes SAO PAULO, Sept 28 (Reuters) - From the bare-walled, 12-square-meter cell where he was serving a 27-year sentence for a failed coup plot...",
+      "url": "https://www.yahoo.com/news/politics/articles/run-brazils-presidency-flavio-bolsonaro-130125145.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/6d7cc82cc37cd73984e73374469c5a4f078f0dcd44ac604b8c0df5370d2f7be5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fbd930729ad9e4d0de17eb5d00d66b539.jpg",
+      "publishedAt": "2026-09-28T17:00:13Z",
+      "content": "By Luciana Magalhaes\r\nSAO PAULO, Sept 28 (Reuters) - From the bare-walled, 12-square-meter cell where he was serving a 27-year sentence for a failed coup plot, former Brazilian President Jair Bolsona\u2026 [+7590 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mondoweiss"
+      },
+      "author": "Mitchell Plitnick",
+      "title": "Saudi Arabia\u2019s desperate situation",
+      "description": "After relying on an unreliable Trump for defense, suspending normalization talks with Israel, and losing access to the Bab-al-Mandab Strait, Saudi Arabia turns to hesitant allies for help.",
+      "url": "https://mondoweiss.net/2026/09/saudi-arabias-desperate-situation/",
+      "urlToImage": "https://mondoweiss.net/wp-content/uploads/2024/11/111124_Saudi_Arabia_SPA_001.jpg",
+      "publishedAt": "2026-09-28T16:52:01Z",
+      "content": "Last Thursday, France announced that it was sending troops, defense systems, and radar equipment to Saudi Arabia to defend key oil infrastructure. The French decision could mark a significant turning\u2026 [+11780 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": null,
+      "title": "Wife, daughter of top drug lord held in U.S. are captured in Colombia",
+      "description": "The women, who are wanted for money laundering, were arrested in an operation involving the FBI, President Abelardo de la Espriella said.",
+      "url": "https://www.cbsnews.com/news/wife-daughter-ecuador-drug-lord-fito-held-us-captured-colombia/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/28/a1ca5ea3-d7ec-4624-8ff4-c6625f5f1a33/thumbnail/1200x630g6/db9c4f972b50ca1cbf81a8e8cfc2273d/colombia-htpm2cpxgaeq-oj.jpg",
+      "publishedAt": "2026-09-28T15:26:43Z",
+      "content": "Colombian police have arrested the wife and daughter of one of Ecuador's most powerful drug lords who was extradited to the United States last year, President Abelardo de la Espriella said Sunday.\r\nA\u2026 [+2075 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Time Out"
+      },
+      "author": "Primary Author: Laura Ratliff",
+      "title": "The nor\u2019easter state of emergency is still in effect for these NY areas\u2014here\u2019s the latest",
+      "description": "The state of emergency covers all five boroughs, Long Island and Westchester as rain and coastal flooding linger into Monday.",
+      "url": "https://www.timeout.com/newyork/news/the-noreaster-state-of-emergency-is-still-in-effect-for-these-ny-areasheres-the-latest-092826",
+      "urlToImage": "https://media.timeout.com/images/106451601/image.jpg",
+      "publishedAt": "2026-09-28T15:24:18Z",
+      "content": "The nor\u2019easter that spent the weekend making itself thoroughly unwelcome (and canceled major events like Global Citizen Festival) isn\u2019t quite finished with New York. Rain is expected to linger throug\u2026 [+2211 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "Florida officials warn of \u2018wildly unusual\u2019 disease outbreak, declare state of emergency - New York Post",
+      "description": "Florida officials warn of \u2018wildly unusual\u2019 disease outbreak, declare state of emergencyNew York Post Florida counties declare emergency over \u2018wildly unusual\u2019 dengue outbreakThe Washington Post Dengue across Tampa Bay: How to prevent infection as cases risewts\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185889112",
+      "urlToImage": null,
+      "publishedAt": "2026-09-28T14:52:19Z",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nakedcapitalism.com"
+      },
+      "author": "Yves Smith",
+      "title": "Michael Hudson: A Clean Slate \u2013 How the Oil War\u2019s Aftermath Will Transform the World Economic Order",
+      "description": "Michael Hudson outlines a sound path for the Global Majority to manage the coming oil war-created crisis. But you can't get there from here.",
+      "url": "https://www.nakedcapitalism.com/2026/09/michael-hudson-a-clean-slate-how-the-oil-wars-aftermath-will-transform-the-world-economic-order.html",
+      "urlToImage": null,
+      "publishedAt": "2026-09-28T14:33:32Z",
+      "content": "This is Naked Capitalism fundraising week. 806 donors have already invested in our efforts to combat corruption and predatory conduct, particularly in the financial realm. Please join us and particip\u2026 [+71789 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Rachel Sacks",
+      "title": "Florida officials warn of \u2018wildly unusual\u2019 disease outbreak, declare state of emergency",
+      "description": "Nearly 200 locally acquired cases have been reported and one death across several counties.",
+      "url": "https://nypost.com/2026/09/28/health/florida-officials-warn-of-disease-outbreak-declare-state-of-emergency/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/142880115.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-09-28T14:19:21Z",
+      "content": "A mosquito-borne illness that\u2019s typically found in other countries has reached a new high in the US.\r\nFlorida health officials have declared a local state of emergency over dengue fever, nicknamed \u201cb\u2026 [+3370 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jason Owens",
+      "title": "Olivia Miles named unanimous Rookie of the Year after remarkable first WNBA season with Lynx",
+      "description": "Miles was named WNBA Rookie of the Year on Monday following a remarkable first campaign with the Minnesota Lynx that left no doubt over who would win the award.",
+      "url": "https://sports.yahoo.com/wnba/breaking-news/article/olivia-miles-named-rookie-of-the-year-after-remarkable-first-wnba-season-with-lynx-140729073.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/6202262530347045e67569c3fe3a75401d1ca75abf8d8a2b56c807dab8c09b3c/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F585f4a30-3c4d-489f-9edc-d31a957a22b1",
+      "publishedAt": "2026-09-28T14:07:29Z",
+      "content": "If you were seeking suspense, this was not the place for you.\r\nOlivia Miles was named the unanimous WNBA Rookie of the Year on Monday following a remarkable first campaign with the Minnesota Lynx tha\u2026 [+2302 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Order-order.com"
+      },
+      "author": "Max Young",
+      "title": "Labour Union Boss Urges Conference to Campaign Against Regime Change in Iran",
+      "description": "As Labour delegates gather in Liverpool for conference, CND activists are handing out their latest newsletter featuring a column from the Transport Salaried Staffs Association union general secretary Maryam Eslamdoust which argues that the left should oppose \u2026",
+      "url": "https://order-order.com/2026/09/28/labour-union-boss-urges-conference-to-campaign-against-regime-change-in-iran/",
+      "urlToImage": "https://order-order.com/wp-content/uploads/2026/09/Featured-Images-2026-09-28T143751.399.png",
+      "publishedAt": "2026-09-28T13:41:52Z",
+      "content": "As Labour delegates gather in Liverpool for conference, CND activists are handing out their latest newsletter featuring a column from the Transport Salaried Staffs Association union general secretary\u2026 [+974 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalresearch.ca"
+      },
+      "author": "Stephen Sefton",
+      "title": "Nicaragua, a True Democracy",
+      "description": "20 years ago, a few weeks before the decisive national elections in Nicaragua that year, 2006, the Swedish ambassador at the time gave an interview about her appreciation of the political situation in the country. \nDuring the conversation, the ambassador \u2026\nTh\u2026",
+      "url": "https://www.globalresearch.ca/nicaragua-true-democracy/5941984",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2026/07/daniel-ortega.jpeg",
+      "publishedAt": "2026-09-28T13:25:08Z",
+      "content": "20 years ago, a few weeks before the decisive national elections in Nicaragua that year, 2006, the Swedish ambassador at the time gave an interview about her appreciation of the political situation i\u2026 [+14301 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalresearch.ca"
+      },
+      "author": "Dr. Amir A. Amirshekari",
+      "title": "The Horn of Africa Ablaze: Ethiopia\u2019s Cycle of Violence from a Fragile Accord to Regional Conflict",
+      "description": "Ethiopia, a nation that nurtured aspirations for the cessation of violence following the 2022 peace accord, is gradually being drawn into the maelstrom of a \u2018multi-front war\u2019\u2014a conflict poised to assume dimensions far more devastating than those of its predec\u2026",
+      "url": "https://www.globalresearch.ca/horn-africa-reappraisal-ethiopia-cycle-violence/5941953",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2022/01/Tigray-768x512.jpg",
+      "publishedAt": "2026-09-28T13:21:28Z",
+      "content": "Ethiopia, a nation that nurtured aspirations for the cessation of violence following the 2022 peace accord, is gradually being drawn into the maelstrom of a multi-front wara conflict poised to assume\u2026 [+14124 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Rosie O\u2019Donnell rips Ed Sheeran for \u2018siding with billionaire elite,\u2019 accuses him of \u2018supporting genocide\u2019",
+      "description": "Rosie O'Donnell accused Ed Sheeran of siding with Robert Kraft and of \"supporting genocide\" after Macklemore was dropped from the \"Loop Tour.\"",
+      "url": "https://www.foxnews.com/media/rosie-odonnell-rips-ed-sheeran-siding-billionaire-elite-accuses-supporting-genocide",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/rosie-odonnell-jimmy-kimmel-live.jpg",
+      "publishedAt": "2026-09-28T13:00:37Z",
+      "content": "Rosie O'Donnell blasted New England Patriots owner Robert Kraft and singer Ed Sheeran on Friday during an appearance on Ireland's \"The Late Late Show,\" accusing Sheeran of making a \"very bad mistake\"\u2026 [+5343 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalresearch.ca"
+      },
+      "author": "James Corbett",
+      "title": "Video: Holding Government Accountable. The Allison Inquiry on Covid Vaccine Injuries",
+      "description": "From vaccine mandates causing injuries and death to governments stealing from the poor to give to their cronies to the attack on humanity in the form of wireless technology and \u201csmart\u201d surveillance meters, we all know the problem: people in \u2026\nThe post Video: \u2026",
+      "url": "https://www.globalresearch.ca/video-holding-government-accountable/5942002",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2021/10/vaccine-mandate.jpg",
+      "publishedAt": "2026-09-28T12:42:39Z",
+      "content": "by Michel Chossudovsky\r\nMichel Chossudovsky reviews in detail how this insidious project destroys peoples lives. He provides\u00a0a comprehensive analysis of everything you need to know about the pandemic\u2026 [+2317 chars]"
+    },
+    {
+      "source": {
+        "id": "rt",
+        "name": "RT"
+      },
+      "author": "RT",
+      "title": "Weapons stolen from Ukraine front line handed to notorious neo-Nazi unit",
+      "description": "Ukraine\u2019s State Bureau of Investigation has reported handing about $100,000 worth of confiscated weapons to the Azov Corps Read Full Article at RT.com",
+      "url": "https://www.rt.com/russia/646352-ukraine-arms-trafficking-azov/",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6aba4b0c20302742e87548ea.jpeg",
+      "publishedAt": "2026-09-28T12:37:11Z",
+      "content": "Ukraine\u2019s State Bureau of Investigation (DBR) has announced the transfer of weapons worth about $100,000 confiscated from an alleged smuggling ring to the notorious Azov Corps.\r\nThe cache, including \u2026 [+2014 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalresearch.ca"
+      },
+      "author": "Helena Glass",
+      "title": "How to Return America to Prosperity and Pride in 10 Steps",
+      "description": "Greenland\nUS, Denmark and Greenland signed a defense pact that allows the US to build two more bases on the island. One in the south and another on the east coast. The purpose is to deny Russia and China any \u2026\nThe post How to Return America to Prosperity and \u2026",
+      "url": "https://www.globalresearch.ca/return-america-prosperity-pride-ten-steps/5941993",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2025/12/american-society.jpeg",
+      "publishedAt": "2026-09-28T12:34:00Z",
+      "content": "Greenland\r\nUS, Denmark and Greenland signed a defense pact that allows the US to build two more bases on the island. One in the south and another on the east coast. The purpose is to deny Russia and \u2026 [+6581 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Reuters",
+      "title": "At least 33 people killed in western Myanmar airstrike, rebel group and aid worker say",
+      "description": "A recent military airstrike in Kyauktaw, Rakhine state, resulted in 33 deaths and numerous injuries. Local sources indicate that the airstrike targeted a civilian area rather than combatants. This incident is among the deadliest since a similar attack on a ho\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/at-least-33-people-killed-in-western-myanmar-airstrike-rebel-group-and-aid-worker-say/articleshow/134542088.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134542301,width-1200,height-630,imgsize-296988,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-28T12:08:21Z",
+      "content": "Dozens of people were killed in a Myanmar military airstrike on Monday near a market in the country's war-torn Rakhine state, which borders Bangladesh, according to a rebel group that controls the ar\u2026 [+1371 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Presse-citron"
+      },
+      "author": "Manon Carpentier",
+      "title": "Moins de fonctionnalit\u00e9s premium pour le m\u00eame prix\u00a0: Que Choisir \u00e9pingle Disney+",
+      "description": "Coup dur pour la plateforme de streaming de Mickey\u2026",
+      "url": "https://www.presse-citron.net/moins-de-fonctionnalites-premium-pour-le-meme-prix-que-choisir-epingle-disney/",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2025/04/disney-1500x900.jpg",
+      "publishedAt": "2026-09-28T11:56:14Z",
+      "content": "Il y a des nouvelles qui ne font jamais plaisir. La plateforme de streaming Disney+ devrait (encore) augmenter ses tarifs dans lHexagone, apr\u00e8s avoir pratiqu\u00e9 une \u00e9ni\u00e8me hausse aux Etats-Unis. Tout p\u2026 [+2537 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Stone"
+      },
+      "author": "Emily Zemler",
+      "title": "The VMAs: The One Night When MTV Pretends to be MTV",
+      "description": "Madonna, Snoop, Nirvana, Taylor, and the ghost of the Nineties loomed large at the annual awards show",
+      "url": "http://www.rollingstone.com/music/music-news/mtv-vmas-2026-madonna-taylor-swift-review-1235632807/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/09/GettyImages-2296954153-1.jpg?w=1600&h=900&crop=1",
+      "publishedAt": "2026-09-28T11:30:43Z",
+      "content": "The star of the 2026 MTV Video Music Awards? That would be the Nineties, which loomed over over the entire night. The ceremony was hosted by Snoop Dogg, with a Video Vanguard tribute to Nirvana. Mado\u2026 [+12515 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "/FILM"
+      },
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "title": "The Gilligan's Island Radio Announcer Appeared As 10 Different Characters In This Western Series",
+      "description": "The actor who played the voice heard on the radio in Gilligan's Island also played 10 different characters on a beloved Western TV series.",
+      "url": "https://www.slashfilm.com/2269239/gilligans-island-radio-announcer-charles-maxwell-western-series-bonanza/",
+      "urlToImage": "https://www.slashfilm.com/img/gallery/the-gilligans-island-radio-announcer-appeared-as-10-different-characters-in-this-western-series/l-intro-1790360454.jpg",
+      "publishedAt": "2026-09-28T11:30:00Z",
+      "content": "Even if you don't know his name, it's likely that you'd recognize prolific character actor Charles Maxwell. He was one of the great \"hey, it's that guy\" actors from the 1950s and 1960s. At the very l\u2026 [+1533 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PetaPixel"
+      },
+      "author": "Matt Growcoot",
+      "title": "A Rock Mo Salah Sat On Has Become a Tourist Photo Spot",
+      "description": "Premier League and Liverpool soccer legend Mo Salah has created an unlikely tourist destination for photos: a random rock in Turkey.\n[Read More]",
+      "url": "https://petapixel.com/2026/09/28/a-rock-mo-salah-sat-on-has-become-a-tourist-photo-spot/",
+      "urlToImage": "https://petapixel.com/assets/uploads/2026/09/Salah-Rock-Photo-Spot.jpg",
+      "publishedAt": "2026-09-28T11:22:22Z",
+      "content": "Premier League and Liverpool soccer legend Mo Salah has created an unlikely tourist destination for photos: a random rock in Turkey. \r\nSalah, who won two Premier League titles and the Champions Leagu\u2026 [+2279 chars]"
+    },
     {
       "source": {
         "id": null,

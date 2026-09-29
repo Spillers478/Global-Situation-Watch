@@ -1,12 +1,27 @@
 {
   "groups": {
-    "https://www.aljazeera.com/video/newsfeed/2026/9/28/al-jazeera-reports-from-near-front-line-in-ethiopias-afar-region": "a",
-    "https://www.bbc.co.uk/news/articles/cw98005ndz7no": "b",
-    "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo": "b",
-    "https://www.globalresearch.ca/trump-prepares-invasion-cuba/5941883": "c",
-    "https://timesofindia.indiatimes.com/india/evening-newswrap-saudi-airstrike-kills-7-in-yemen-delhi-pwd-minister-seen-slapping-man-more/articleshow/134520704.cms": "d",
-    "https://timesofindia.indiatimes.com/world/middle-east/7-killed-40-wounded-as-saudi-airstrike-hits-yemen-market-amid-fresh-houthi-offensive/articleshow/134520692.cms": "d",
-    "https://www.aljazeera.com/news/2026/9/27/yemen-government-forces-widen-attacks-against-houthis-what-we-know": "e"
+    "https://www.cbc.ca/news/world/myanmar-rakhine-arakan-airstrike-9.7361108": "a",
+    "https://www.globalresearch.ca/selected-articles-trump-prepares-invasion-cuba/5942028": "b",
+    "https://economictimes.indiatimes.com/news/international/world-news/at-least-33-people-killed-in-western-myanmar-airstrike-rebel-group-and-aid-worker-say/articleshow/134542088.cms": "a",
+    "https://www.aljazeera.com/video/newsfeed/2026/9/28/al-jazeera-reports-from-near-front-line-in-ethiopias-afar-region": "c",
+    "https://www.bbc.co.uk/news/articles/cw98005ndz7no": "d",
+    "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo": "d",
+    "https://www.globalresearch.ca/trump-prepares-invasion-cuba/5941883": "b",
+    "https://timesofindia.indiatimes.com/india/evening-newswrap-saudi-airstrike-kills-7-in-yemen-delhi-pwd-minister-seen-slapping-man-more/articleshow/134520704.cms": "e",
+    "https://timesofindia.indiatimes.com/world/middle-east/7-killed-40-wounded-as-saudi-airstrike-hits-yemen-market-amid-fresh-houthi-offensive/articleshow/134520692.cms": "e",
+    "https://abcnews.com/International/wireStory/ethiopias-army-chief-accuses-eritrea-sudan-egypt-supporting-136825185": "f",
+    "https://www.globalresearch.ca/statement-cuba-foreign-minister-un-general-assembly/5942019": "g",
+    "https://www.globalresearch.ca/horn-africa-reappraisal-ethiopia-cycle-violence/5941953": "h",
+    "https://theintercept.com/2026/09/28/ai-military-nuclear-war-doomsday/": "i",
+    "https://www.aljazeera.com/news/2026/9/28/myanmar-army-air-strike-kills-dozens-in-rakhine-state": "a",
+    "https://www.abc.net.au/news/2026-09-29/china-america-xi-jinping-donald-trump/107205376": "j",
+    "https://thediplomat.com/2026/09/lee-asks-trump-to-help-revive-north-korea-talks-during-new-york-trip/": "k",
+    "https://timesofindia.indiatimes.com/world/rest-of-world/north-korean-mines-likely-behind-blasts-that-injured-3-south-korean-personnel-seoul-says/articleshow/134543288.cms": "l",
+    "https://abcnews.com/International/wireStory/south-korea-border-blasts-injured-3-officers-caused-136818573": "l",
+    "https://thediplomat.com/2026/09/the-trump-xi-summit-is-over-but-taiwan-is-still-bracing-for-the-fallout/": "m",
+    "https://www.cbsnews.com/news/alexander-yui-taiwan-representative-face-the-nation-transcript-09-27-2026/": "n",
+    "https://timesofindia.indiatimes.com/world/rest-of-world/taiwan-says-us-very-much-understands-its-defence-needs-amid-china-threat/articleshow/134514579.cms": "n",
+    "https://www.yahoo.com/news/articles/us-very-much-understands-taiwans-024356196.html": "n"
   },
   "contradictions": []
 }

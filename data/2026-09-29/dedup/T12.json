@@ -1,57 +1,28 @@
 {
   "groups": {
-    "https://biztoc.com/x/79216ffda8568084": "a",
-    "https://www.intomobile.com/2026/09/28/hackers-are-stealing-ai-accounts-and-selling-them-for-97-off-and-its-getting-worse/": "b",
-    "https://securityaffairs.com/199905/cyber-crime/storm-3168-linked-to-jadepuffer-abused-stolen-azure-identities.html": "c",
-    "https://www.helpnetsecurity.com/2026/09/28/citrix-netscaler-rce-zero-days-exploited-for-weeks-cve-2026-88771-cve-2026-88772/": "d",
-    "https://www.malwarebytes.com/blog/data-breaches/2026/09/fbi-agents-blood-tests-and-doctors-notes-surface-after-breach": "e",
-    "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html": "c",
-    "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/": "d",
-    "https://www.naturalnews.com/2026-09-28-refrigeration-failures-at-military-commissaries-draw-scrutiny.html": "f",
-    "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-pauses-training-of-latest-models-after-agents-probed-us-government-sites-in-unexpected-ways/articleshow/134530903.cms": "g",
-    "https://www.nbcnews.com/tech/tech-news/openai-pauses-training-latest-models-agents-searched-us-government-sit-rcna600098": "g",
-    "https://gizmodo.com/openai-to-halt-training-of-some-models-2000817912": "g",
-    "https://www.wnd.com/2026/09/refrigerators-next-battle-frontier/": "f",
-    "https://www.tenable.com/blog/frequently-asked-questions-about-reported-citrix-netscaler-zero-day-vulnerabilities": "d",
-    "https://www.hurriyetdailynews.com/eu-debates-need-for-nato-style-response-to-russia-hybrid-attacks-227455": "h",
-    "https://www.channelnewsasia.com/world/eu-debates-need-nato-style-response-russia-hybrid-attacks-6414986": "h",
-    "https://punchng.com/eu-defence-ministers-mull-nato-style-mechanism-against-hybrid-attacks/": "h",
-    "https://www.irishtimes.com/world/europe/2026/09/28/eu-countries-consider-nato-style-joint-responses-to-russian-hybrid-attacks/": "h"
+    "https://www.cisa.gov/news-events/bulletins/sb26-271": "a",
+    "https://kitploit.com/en/tools/github/grisuno/lazyown/": "b",
+    "https://www.businessinsider.com/openai-missed-wedding-security-breach-hugging-face-2026-9#article": "c",
+    "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready": "d",
+    "https://freerepublic.com/focus/f-chat/4397164/posts": "e",
+    "https://www.techradar.com/pro/security/citrix-says-two-worrying-netscaler-rce-zero-days-exploited-in-attacks": "f",
+    "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/": "g",
+    "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/": "h",
+    "https://www.techradar.com/pro/security/kiteworks-tells-users-to-shut-down-servers-amid-fears-of-imminent-cyberattack": "i",
+    "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html": "j",
+    "https://m.dailyhunt.in/news/india/english/ndtv+world-epaper-ndtvw/as+us+warns+of+ai+risks+china+calls+it+fear+marketing-newsid-n728453391": "k",
+    "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html": "l",
+    "https://www.intomobile.com/2026/09/28/hackers-are-stealing-ai-accounts-and-selling-them-for-97-off-and-its-getting-worse/": "m",
+    "https://securityaffairs.com/199905/cyber-crime/storm-3168-linked-to-jadepuffer-abused-stolen-azure-identities.html": "n",
+    "https://www.helpnetsecurity.com/2026/09/28/citrix-netscaler-rce-zero-days-exploited-for-weeks-cve-2026-88771-cve-2026-88772/": "f",
+    "https://kitploit.com/en/tools/github/hasamba/dfir-companion/": "o",
+    "https://www.malwarebytes.com/blog/data-breaches/2026/09/fbi-agents-blood-tests-and-doctors-notes-surface-after-breach": "h",
+    "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html": "n",
+    "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/": "f",
+    "https://www.naturalnews.com/2026-09-28-refrigeration-failures-at-military-commissaries-draw-scrutiny.html": "p",
+    "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-pauses-training-of-latest-models-after-agents-probed-us-government-sites-in-unexpected-ways/articleshow/134530903.cms": "e",
+    "https://www.nbcnews.com/tech/tech-news/openai-pauses-training-latest-models-agents-searched-us-government-sit-rcna600098": "e",
+    "https://gizmodo.com/openai-to-halt-training-of-some-models-2000817912": "e"
   },
-  "contradictions": [
-    {
-      "group": "d",
-      "claim_type": "outcome",
-      "summary": "Sources disagree on whether the Citrix NetScaler zero-day vulnerabilities have been patched.",
-      "sources": [
-        {
-          "source": "Help Net Security",
-          "url": "https://www.helpnetsecurity.com/2026/09/28/citrix-netscaler-rce-zero-days-exploited-for-weeks-cve-2026-88771-cve-2026-88772/",
-          "says": "Citrix has patched eight vulnerabilities including the two zero-days"
-        },
-        {
-          "source": "Tenable.com",
-          "url": "https://www.tenable.com/blog/frequently-asked-questions-about-reported-citrix-netscaler-zero-day-vulnerabilities",
-          "says": "The two zero-day vulnerabilities remain unpatched with no patches available"
-        }
-      ]
-    },
-    {
-      "group": "g",
-      "claim_type": "outcome",
-      "summary": "Sources differ on whether OpenAI's agents actually succeeded in hacking government websites.",
-      "sources": [
-        {
-          "source": "The Times of India",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-pauses-training-of-latest-models-after-agents-probed-us-government-sites-in-unexpected-ways/articleshow/134530903.cms",
-          "says": "Agents tried unsuccessfully to hack a Department of Education website"
-        },
-        {
-          "source": "Gizmodo.com",
-          "url": "https://gizmodo.com/openai-to-halt-training-of-some-models-2000817912",
-          "says": "OpenAI agents hacked websites among other unauthorized actions"
-        }
-      ]
-    }
-  ]
+  "contradictions": []
 }

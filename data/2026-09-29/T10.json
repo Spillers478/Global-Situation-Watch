@@ -1,7 +1,163 @@
 {
   "status": "ok",
-  "totalResults": 20,
+  "totalResults": 32,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "POLITICO.eu"
+      },
+      "author": "Matt Honeycombe-Foster",
+      "title": "Labour conference: Top things we learned down the POLITICO Pub",
+      "description": "We swilled pints and grilled Labour politicians \u2014 from Ed Miliband to Bridget Phillipson \u2014 so you didn\u2019t have to.",
+      "url": "https://www.politico.eu/article/labour-conference-politico-pub/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/09/28/Ed-Miliband_5-scaled.jpg",
+      "publishedAt": "2026-09-28T17:46:09Z",
+      "content": "After Chancellor John Healey shed light on his own advice from Brown over the weekend, Foreign Secretary Ed Miliband told the POLITICO Pub he and Browns most recent interaction was a phone chat while\u2026 [+1384 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsonjapan.com"
+      },
+      "author": "News On Japan",
+      "title": "Takaichi Pushes Intelligence Reform As Diet Battle Nears",
+      "description": "Prime Minister Sanae Takaichi moved on September 28 to strengthen Japan\u2019s intelligence functions as her government prepared for an extraordinary Diet session that is expected to test its ability to pass tax relief, defend its economic policy and manage rising\u2026",
+      "url": "https://newsonjapan.com/article/150892.php",
+      "urlToImage": "https://i2.ytimg.com/vi/KgyioFaeynM/maxresdefault.jpg",
+      "publishedAt": "2026-09-28T17:18:19Z",
+      "content": "TOKYO -\r\n Prime Minister Sanae Takaichi moved on September 28 to strengthen Japans intelligence functions as her government prepared for an extraordinary Diet session that is expected to test its abi\u2026 [+12222 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PRNewswire"
+      },
+      "author": null,
+      "title": "US defense investment gap reflects market barriers and shortage of investable opportunity, not any shortage of capital--Bain & Company and AIA report",
+      "description": "Abundant capital and increased defense company valuations mask real gaps that risk disruptors from succeeding and incumbents from replenishing depleted stockpiles Large public defense companies trade at valuation multiples similar to utility companies in a si\u2026",
+      "url": "https://www.prnewswire.com/news-releases/us-defense-investment-gap-reflects-market-barriers-and-shortage-of-investable-opportunity-not-any-shortage-of-capitalbain--company-and-aia-report-302890664.html",
+      "urlToImage": "https://mmx.prnewswire.com/media/MS859388/Bain-and-Company-Logo.jpg?id=OA2971916&p=facebook",
+      "publishedAt": "2026-09-28T16:15:00Z",
+      "content": "<ul><li>Abundant capital and increased defense company valuations mask real gaps that risk disruptors from succeeding and incumbents from replenishing depleted stockpiles</li><li>Large public defense\u2026 [+9903 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Israelnationalnews.com"
+      },
+      "author": "Israel National News",
+      "title": "RAF Fairford: Five suspects released on bail as investigation continues",
+      "description": "RAF Fairford suspects to be released on bail, head of counter-terror police says.",
+      "url": "https://www.israelnationalnews.com/news/433782",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1153778.jpg",
+      "publishedAt": "2026-09-28T16:15:00Z",
+      "content": "The five suspects arrested over an alleged attempt to attack the RAF Fairford air base in Britain have been released on bail, Lawrence Taylor, head of the UK police counterterrorism unit, announced M\u2026 [+1882 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "POLITICO.eu"
+      },
+      "author": "Mason Boycott-Owen",
+      "title": "Wes Streeting: Britain and Europe must get out of \u2018defensive crouch\u2019",
+      "description": "U.K. defense secretary dismissed assertions that the U.S. was disengaging from Europe despite America reviewing its capabilities across the continent.",
+      "url": "https://www.politico.eu/article/wes-streeting-britain-and-europe-must-get-out-of-defensive-crouch/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/09/28/Wes-Streeting-_3-scaled.jpg",
+      "publishedAt": "2026-09-28T15:41:15Z",
+      "content": "British-American relations soured towards the end of Keir Starmers tenure as prime minister, after Britain refused to give the U.S. military support for its war with Iran, including the full use of B\u2026 [+1240 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "POLITICO.eu"
+      },
+      "author": "Noah Keate",
+      "title": "UK reparations not on the table, says top diplomat Miliband",
+      "description": "The British foreign secretary said his priority is addressing the current challenges low-income countries experience.",
+      "url": "https://www.politico.eu/article/uk-reparations-not-on-the-table-says-top-diplomat-miliband/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/09/28/Ed-Miliband_2-scaled.jpg",
+      "publishedAt": "2026-09-28T15:34:21Z",
+      "content": "While condemning the slave trade as \u201cterrible,\u201d Miliband said his focus is on addressing the current problems facing people around the globe.\r\nHe said that included countries \u201con the front line of th\u2026 [+569 chars]"
+    },
+    {
+      "source": {
+        "id": "rt",
+        "name": "RT"
+      },
+      "author": "RT",
+      "title": "Ukraine admits failure to plug $27 bn defense gap",
+      "description": "Ukraine and its European backers have so far failed to cover a $27 billion defense hole, Prime Minister Sergey Koretsky said Read Full Article at RT.com",
+      "url": "https://www.rt.com/russia/646360-ukraine-admits-failure-plug-defense-hole/",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6aba60d985f5404849125ebf.jpg",
+      "publishedAt": "2026-09-28T13:45:03Z",
+      "content": "Ukraine and its Western backers still have not found a way to cover the unexpected $27 billion hole in this year\u2019s defense budget, Prime Minister Sergey Koretsky said. Despite the funding gap, Korets\u2026 [+2769 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNA"
+      },
+      "author": null,
+      "title": "Pope Leo urges concessions for peace as Ukraine war drags on",
+      "description": "METZ, France: Pope Leo said on Monday (Sep 28) that negotiators seeking to end war in Europe must be willing to sacrifice some positions to achieve peace, as efforts to end Russia's bloody war in Ukraine continue to fail.The first US pope, speaking to Europea\u2026",
+      "url": "https://www.channelnewsasia.com/world/pope-leo-urges-concessions-peace-ukraine-war-drags-6415531",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--co1c8Lku--/c_crop,h_449,w_799,x_1,y_42/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-28T101940Z_2_LYNXMPEM8R0PY_RTROPTP_3_POPE-FRANCE.JPG?itok=IWEKN_5d",
+      "publishedAt": "2026-09-28T13:43:13Z",
+      "content": "METZ, France: Pope Leo said on Monday (Sep 28) that negotiators seeking to end war in Europe must be willing to sacrifice some positions to achieve peace, as efforts to end Russia's bloody war in Ukr\u2026 [+3646 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Anthony Faiola, (c) 2026 , The Washington Post",
+      "title": "Pope Leo leans into statesman role, urging peace in an era of renewed war",
+      "description": "METZ, France - Pope Leo XIV capped a four-day trip to France in the intellectual birthplace of the European Union, heralding its success at \u201ctearing down walls that were dividing it\u201d and leaning into his role not only as spiritual leader of 1.4 billion Cathol\u2026",
+      "url": "https://www.yahoo.com/news/politics/articles/pope-leo-leans-statesman-role-112710984.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/415573c8194be2f8b7dbe0f7067f2e8db162c44f974c7de87f5fa028b1082021/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F8f330741-fa31-49db-a49f-50c59e1b1c02",
+      "publishedAt": "2026-09-28T12:46:03Z",
+      "content": "METZ, France - Pope Leo XIV capped a four-day trip to France in the intellectual birthplace of the European Union, heralding its success at \"tearing down walls that were dividing it\" and leaning into\u2026 [+8353 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Diplomat"
+      },
+      "author": "Brian Hioe",
+      "title": "The Trump-Xi Summit Is Over, But Taiwan Is Still Bracing for the Fallout",
+      "description": "Given what happened in May, Taiwanese may have been more nervous after the latest Trump-Xi summit ended.",
+      "url": "https://thediplomat.com/2026/09/the-trump-xi-summit-is-over-but-taiwan-is-still-bracing-for-the-fallout/",
+      "urlToImage": "https://thediplomat.com/wp-content/uploads/2026/09/sizes/td-story-s-2/thediplomat_2026-09-25-041434.jpg",
+      "publishedAt": "2026-09-28T12:45:00Z",
+      "content": "The latest meeting between U.S. President Donald Trump and Chinese President Xi Jinping led to much anxiety in Taiwan, with fears that Trump could potentially throw Taiwan under the bus in the course\u2026 [+15021 chars]"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Helena Horton",
+      "title": "Five men arrested at UK airbase are all UK nationals from London, say police",
+      "description": "Men apprehended outside airbase being used by US air force in its war against Iran",
+      "url": "https://www.irishtimes.com/world/uk/2026/09/28/five-men-arrested-at-uk-airbase-are-all-uk-nationals-from-london-say-police/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/M273KDNC5VGNNKI47VXJPBLBUU.jpg?smart=true&auth=be334ba01e1b8f96bd7b92285ed0a923a0d49b03ddaabcea8594b5629ff854de&width=1200&height=630",
+      "publishedAt": "2026-09-28T12:27:05Z",
+      "content": "Five men arrested on suspicion of terror offences at a UK airbase are all British nationals from London in their 20s, counter-terrorism police have said.\r\nThe men were pictured on Sunday being appreh\u2026 [+3825 chars]"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Joshua McElwee, Elizabeth Pineau",
+      "title": "Pope Leo praises multiculturalism as far right gains strength across Europe",
+      "description": "Pontiff urges \u200bEuropeans to recall EU\u2019s founding values including the rule of law and the equality of all",
+      "url": "https://www.irishtimes.com/world/europe/2026/09/28/pope-leo-praises-multiculturalism-as-far-right-gains-strength-across-europe/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/QCDT3H4XIPEPLDOJPR7MGPCEA4.jpg?smart=true&auth=e8e83556358e585822c8b0bac17c22404255b8cd81de11be4bf0a83740bb4bcd&width=1200&height=630",
+      "publishedAt": "2026-09-28T12:10:24Z",
+      "content": "Pope Leo said on Monday that negotiators seeking to end war in Europe must be willing to sacrifice some positions to achieve peace, as efforts to end Russias bloody war in Ukraine continue to fail.\r\n\u2026 [+3562 chars]"
+    },
     {
       "source": {
         "id": null,

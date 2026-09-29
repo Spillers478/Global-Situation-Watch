@@ -1,7 +1,137 @@
 {
   "status": "ok",
-  "totalResults": 16,
+  "totalResults": 27,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "Breitbart",
+      "title": "Suspects in Alleged Terror Plot on Air Force Base Released on Bail, All Said to Be \u2018British Nationals\u2019",
+      "description": "Suspects in Alleged Terror Plot on Air Force Base Released on Bail, All Said to Be \u2018British Nationals\u2019 British Counter Terrorism Police officials said on Monday that the suspects in the alleged terror plot on the Royal Air Force base at Fairford on Sunday hav\u2026",
+      "url": "https://freerepublic.com/focus/f-chat/4397170/posts",
+      "urlToImage": null,
+      "publishedAt": "2026-09-28T17:22:43Z",
+      "content": "Skip to comments.\r\nSuspects in Alleged Terror Plot on Air Force Base Released on Bail, All Said to Be British NationalsBreitbart ^\r\n | 28 Sep 2026\r\n | Kurt Zindulka\r\nPosted on 09/28/2026 10:22:43 AM \u2026 [+3066 chars]"
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Kurt Zindulka",
+      "title": "Suspects in Alleged Terror Plot on Air Force Base Released on Bail, All Said to Be 'British Nationals'",
+      "description": "Counter Terrorism officials said that the \"British national\" suspects in the alleged terror plot on RAF Fairford have been released on bail.\nThe post Suspects in Alleged Terror Plot on Air Force Base Released on Bail, All Said to Be \u2018British Nationals\u2019 appear\u2026",
+      "url": "https://www.breitbart.com/europe/2026/09/28/suspects-in-alleged-terror-plot-on-air-force-base-released-on-bail-all-said-to-be-british-nationals/",
+      "urlToImage": "https://media.breitbart.com/media/2026/09/GettyImages-2297506829-1-640x335.jpg",
+      "publishedAt": "2026-09-28T16:05:22Z",
+      "content": "British Counter Terrorism Police officials said on Monday that the suspects in the alleged terror plot on the Royal Air Force base at Fairford on Sunday have been released on bail, while only being i\u2026 [+5918 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Foreign Policy"
+      },
+      "author": "Van Jackson",
+      "title": "Trump\u2019s \u2018Greater North America\u2019 Is Fascist Geopolitics",
+      "description": "The administration\u2019s hemispheric vision has dangerous roots and dangerous implications.",
+      "url": "http://foreignpolicy.com/2026/09/28/trump-rubio-hegseth-greenland-cuba-north-america-fascism/",
+      "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2026/09/trump-rubio-hegseth-greenland-cuba-north-america-fascism-2264953697.jpg",
+      "publishedAt": "2026-09-28T13:23:11Z",
+      "content": "The year after fascist Italy forcibly seized Ethiopias capital, in 1937, Benito Mussolinis minister of national education said, A geographical revival is always correlated with a political revival. F\u2026 [+11111 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Natasha Lindstaedt, Professor in the Department of Government, University of Essex",
+      "title": "Climate disasters are getting worse \u2013 risks escalate when authoritarian regimes keep neighbours in the dark",
+      "description": "With extreme weather and glacier melt predicted to increase, neighbouring nations will need to act together to prevent deaths.",
+      "url": "https://theconversation.com/climate-disasters-are-getting-worse-risks-escalate-when-authoritarian-regimes-keep-neighbours-in-the-dark-291857",
+      "urlToImage": "https://images.theconversation.com/files/762091/original/file-20260924-50-vcx8bl.jpg?ixlib=rb-4.1.1&rect=0%2C143%2C1000%2C500&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-09-28T13:01:36Z",
+      "content": "shankar bhujel/Shutterstock\r\nAuthoritarian regimes have a history of keeping information about escalating disasters secret, even when it could harm their own citizens. \n\nWith more weather-related dis\u2026 [+5331 chars]"
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Oliver JJ Lane",
+      "title": "People Smugglers Kill Again: Three Dead in English Channel",
+      "description": "The English Channel human trafficking route has once again seen fatalities, after two adult women and one child died on a smuggler boat off the coast of northern France on Wednesday morning.\nThe post People Smugglers Kill Again: Three Dead in English Channel \u2026",
+      "url": "https://www.breitbart.com/europe/2026/09/28/people-smugglers-kill-again-three-dead-in-english-channel/",
+      "urlToImage": "https://media.breitbart.com/media/2026/09/GettyImages-2296995485-e1790596541683-640x335.jpg",
+      "publishedAt": "2026-09-28T12:12:00Z",
+      "content": "The English Channel human trafficking route has once again seen fatalities, after two adult women and one child died on a smuggler boat off the coast of northern France on Wednesday morning.\r\nTwo wom\u2026 [+3694 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "Over 145k Now Displaced in Yemen, 16,000 Increase in Past Week",
+      "description": "More than 145,000 people have been displaced across eight governorates in Yemen since conflict escalated on the West Coast in June, according to new figures released today by the International Organization for Migration (IOM). As of today, the total stands at\u2026",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260928-iom01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-28T12:00:00Z",
+      "content": "International Organization for Migration\r\nNews - Global28 September 2026\r\nGeneva/Aden, 28 September 2026 -- More than 145,000 people have been displaced across eight governorates in Yemen since confl\u2026 [+2829 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "UN News"
+      },
+      "author": "dpicampaigns",
+      "title": "DR Congo Ebola emergency: Calls grow for urgent humanitarian access",
+      "description": "Aid teams\u00a0trying to keep deadly Ebola disease from spreading in the Democratic Republic of the Congo (DRC) are increasingly concerned about ongoing fighting and violence that has forced thousands of people to flee a displacement camp in the vast, resource-ric\u2026",
+      "url": "https://news.un.org/en/story/2026/09/1168465",
+      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/26-08-2026-UNOCHA-DR-Congo-ebola-06.jpg/image770x420cropped.jpg",
+      "publishedAt": "2026-09-28T12:00:00Z",
+      "content": "The latest alert follows reports of security incidents since 20 September linked to an uptick in families fleeing Kigonze displacement camp in Bunia, northeast Ituri province.\r\nAccording to reports, \u2026 [+3396 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "DR Congo Ebola emergency: Calls grow for urgent humanitarian access",
+      "description": "Aid teams trying to keep deadly Ebola disease from spreading in the Democratic Republic of the Congo (DRC) are increasingly concerned about ongoing fighting and violence that has forced thousands of people to flee a displacement camp in the vast, resource-ric\u2026",
+      "url": "https://www.globalsecurity.org/security/library/news/2026/09/sec-260928-unnews01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-28T12:00:00Z",
+      "content": "28 September 2026 - Aid teams trying to keep deadly Ebola disease from spreading in the Democratic Republic of the Congo (DRC) are increasingly concerned about ongoing fighting and violence that has \u2026 [+3817 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "US migration externalization scheme mires over 35 other states, triggering cascade of human rights violations including torture: Human Rights Experts",
+      "description": "US migration externalization arrangements are already putting migrants at heightened risk of human rights violations, including torture and persecution, Human Rights Experts** warned today, as migrant and asylum seeker transfer agreements expand across over 3\u2026",
+      "url": "https://www.globalsecurity.org/security/library/news/2026/09/sec-260928-ohchr01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-28T12:00:00Z",
+      "content": "UNOHCHR\r\nPress releasesSpecial Procedures\r\n28 September 2026\r\nGENEVA -- US migration externalization arrangements are already putting migrants at heightened risk of human rights violations, including\u2026 [+10379 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "'Ballot must replace the bullets', South Sudan tells General Assembly ahead of elections",
+      "description": "South Sudan remains committed to holding general elections in December to conclude its transition period, the country's Permanent Representative to the United Nations Cecilia Adout Majok Adeng, told the General Assembly on Monday, calling for all sanctions, i\u2026",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260928-unnews01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-28T12:00:00Z",
+      "content": "28 September 2026 - South Sudan remains committed to holding general elections in December to conclude its transition period, the country's Permanent Representative to the United Nations Cecilia Adou\u2026 [+2900 chars]"
+    },
     {
       "source": {
         "id": "breitbart-news",

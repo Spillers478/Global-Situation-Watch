@@ -2,6 +2,48 @@
   "articles": [
     {
       "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "Myanmar military airstrike hits market, killing at least 33 people in Rakhine state",
+      "description": "An airstrike carried out by Myanmar's military near a market in territory controlled by a powerful rebel group killed at least 33 people and wounded 36 others on Monday, the group and a rescue official said.",
+      "url": "https://www.cbc.ca/news/world/myanmar-rakhine-arakan-airstrike-9.7361108",
+      "urlToImage": "https://i.cbc.ca/ais/6a4a0287-a0d8-4e95-8b1c-1603244262fa,1790613705463/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4032%2C2268%29%3BResize%3D620",
+      "publishedAt": "2026-09-28T17:06:25Z",
+      "content": "An airstrike carried out by Myanmar's military near a market in territory controlled by a powerful rebel group killed at least 33 people and wounded 36 others on Monday, the group and a rescue offici\u2026 [+2445 chars]",
+      "cocom": "USINDOPACOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalresearch.ca"
+      },
+      "author": "Global Research News",
+      "title": "Selected Articles: Trump Prepares for an Invasion of Cuba",
+      "description": "Trump Prepares for an Invasion of Cuba\nBy Kurt Nimmo, September 27, 2026\nOn May 21, Marco Rubio stood on the tarmac at the Miami Homestead Airport and told reporters Cuba \u201chas been one of the leading sponsors of \u2026\nThe post Selected Articles: Trump Prepares fo\u2026",
+      "url": "https://www.globalresearch.ca/selected-articles-trump-prepares-invasion-cuba/5942028",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2021/10/vaccine-mandate.jpg",
+      "publishedAt": "2026-09-28T13:36:30Z",
+      "content": "Trump Prepares for an Invasion of Cuba\r\nBy Kurt Nimmo, September 27, 2026\r\nOn May 21, Marco Rubio stood on the tarmac at the Miami Homestead Airport and told reporters Cuba has been one of the leadin\u2026 [+2948 chars]",
+      "cocom": "USSOUTHCOM"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Reuters",
+      "title": "At least 33 people killed in western Myanmar airstrike, rebel group and aid worker say",
+      "description": "A recent military airstrike in Kyauktaw, Rakhine state, resulted in 33 deaths and numerous injuries. Local sources indicate that the airstrike targeted a civilian area rather than combatants. This incident is among the deadliest since a similar attack on a ho\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/at-least-33-people-killed-in-western-myanmar-airstrike-rebel-group-and-aid-worker-say/articleshow/134542088.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134542301,width-1200,height-630,imgsize-296988,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-28T12:08:21Z",
+      "content": "Dozens of people were killed in a Myanmar military airstrike on Monday near a market in the country's war-torn Rakhine state, which borders Bangladesh, according to a rebel group that controls the ar\u2026 [+1371 chars]",
+      "cocom": "USINDOPACOM"
+    },
+    {
+      "source": {
         "id": "al-jazeera-english",
         "name": "Al Jazeera English"
       },
@@ -86,18 +128,228 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "AMANUEL GEBREMEDHIN Associated Press, SAMUEL GETACHEW Associated Press",
+      "title": "Ethiopia\u2019s army chief accuses Eritrea, Sudan and Egypt of supporting Tigray rebels",
+      "description": "Ethiopia's army chief has accused neighboring Eritrea, Sudan and Egypt of backing rebel troops in the renewed fighting in the Tigray region",
+      "url": "https://abcnews.com/International/wireStory/ethiopias-army-chief-accuses-eritrea-sudan-egypt-supporting-136825185",
+      "urlToImage": "https://i.abcnewsfe.com/a/99b70bb1-a2c2-421c-ade3-157a3e1582f2/wirestory_6b3208122a4221f3c2e8dcbe21630016_16x9.jpg?w=1600",
+      "publishedAt": "2026-09-28T16:39:39Z",
+      "content": "ADDIS ABABA, Ethiopia -- The head of Ethiopias army suggested neighboring Eritrea, Sudan and Egypt were supporting rebel troops who have captured several strategic towns in renewed fighting in the no\u2026 [+2672 chars]",
+      "cocom": "USAFRICOM",
+      "_original_topic_id": "T02"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalresearch.ca"
+      },
+      "author": "H.E. Mr. Bruno Rodr\u00edguez Parrilla",
+      "title": "Statement of Cuba\u2019s Foreign Minister at the UN General Assembly. \u201cU.S. Aspiration of to Impose Peace through Force\u201d",
+      "description": "Statement by H.E. Mr. Bruno Rodr\u00edguez Parrilla, Minister of Foreign Affairs of the Republic of Cuba, at the General Debate of the Eighty First Session of the General Assembly of the United Nations. New York, September 26, 2026.\r\n\n***\r\n\n\u2026\r\n\nThe post Statement \u2026",
+      "url": "https://www.globalresearch.ca/statement-cuba-foreign-minister-un-general-assembly/5942019",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2026/09/Bruno-Rodr\u00edguez-Parrilla-cuba-unga.png.jpeg",
+      "publishedAt": "2026-09-28T13:46:08Z",
+      "content": "Statement by H.E. Mr. Bruno Rodr\u00edguez Parrilla, Minister of Foreign Affairs of the Republic of Cuba, at the General Debate of the Eighty First Session of the General Assembly of the United Nations. N\u2026 [+14752 chars]",
+      "cocom": "USSOUTHCOM",
+      "_original_topic_id": "T02"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalresearch.ca"
+      },
+      "author": "Dr. Amir A. Amirshekari",
+      "title": "The Horn of Africa Ablaze: Ethiopia\u2019s Cycle of Violence from a Fragile Accord to Regional Conflict",
+      "description": "Ethiopia, a nation that nurtured aspirations for the cessation of violence following the 2022 peace accord, is gradually being drawn into the maelstrom of a \u2018multi-front war\u2019\u2014a conflict poised to assume dimensions far more devastating than those of its predec\u2026",
+      "url": "https://www.globalresearch.ca/horn-africa-reappraisal-ethiopia-cycle-violence/5941953",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2022/01/Tigray-768x512.jpg",
+      "publishedAt": "2026-09-28T13:21:28Z",
+      "content": "Ethiopia, a nation that nurtured aspirations for the cessation of violence following the 2022 peace accord, is gradually being drawn into the maelstrom of a multi-front wara conflict poised to assume\u2026 [+14124 chars]",
+      "cocom": "USAFRICOM",
+      "_original_topic_id": "T02"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Intercept"
+      },
+      "author": "Sam Biddle",
+      "title": "AI Almost Started a U.S.\u2013China War \u2014 and No One Seems to Cares",
+      "description": "The tech world is too busy dreaming up imaginary doomsday scenarios to focus on a very real one that flared up between nuclear powers.\nThe post AI Almost Started a U.S.\u2013China War \u2014 and No One Seems to Cares appeared first on The Intercept.",
+      "url": "https://theintercept.com/2026/09/28/ai-military-nuclear-war-doomsday/",
+      "urlToImage": "https://theintercept.com/wp-content/uploads/2026/09/AP26259482609914-e1790371958262.jpg?fit=6000%2C3000&w=1200&h=800",
+      "publishedAt": "2026-09-28T16:54:05Z",
+      "content": "The global tech industry, politicians at home and abroad, and international media coverage are transfixed by one question: Will rogue AI end humanity? Few seem to be asking this question of the Depar\u2026 [+14803 chars]",
+      "cocom": "USINDOPACOM",
+      "_original_topic_id": "T03"
+    },
+    {
+      "source": {
         "id": "al-jazeera-english",
         "name": "Al Jazeera English"
       },
       "author": "Al Jazeera Staff",
-      "title": "Yemen government forces widen attacks against Houthis: What we know",
-      "description": "Yemeni government forces have claimed multiple air and ground operations across Taiz in the last 24 hours.",
-      "url": "https://www.aljazeera.com/news/2026/9/27/yemen-government-forces-widen-attacks-against-houthis-what-we-know",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab8c3182838-1790493464.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-09-27T09:59:21Z",
-      "content": "Yemens government forces have conducted multiple air and ground operations in southwestern Taiz province in the last 24 hours, as they intensified attacks against the Iran-backed Houthi group.\r\nThe g\u2026 [+8169 chars]",
-      "cocom": "USCENTCOM",
-      "_original_topic_id": "T02"
+      "title": "Myanmar army air strike kills dozens in Rakhine state",
+      "description": "Nearly half a million people are displaced in Rakhine as a result of the conflict between the military and rebel groups.",
+      "url": "https://www.aljazeera.com/news/2026/9/28/myanmar-army-air-strike-kills-dozens-in-rakhine-state",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6abaaadb255f-1790618331.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-28T19:31:27Z",
+      "content": "An air strike carried out by Myanmars military has killed at least 33 people in territory controlled by rebel factions.\r\nThe attack near a market in the north of the Rakhine state in the west of the \u2026 [+2845 chars]",
+      "cocom": "USINDOPACOM",
+      "_original_topic_id": "T05"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalresearch.ca"
+      },
+      "author": "Dr. Amir A. Amirshekari",
+      "title": "The Horn of Africa Ablaze: Ethiopia\u2019s Cycle of Violence from a Fragile Accord to Regional Conflict",
+      "description": "Ethiopia, a nation that nurtured aspirations for the cessation of violence following the 2022 peace accord, is gradually being drawn into the maelstrom of a \u2018multi-front war\u2019\u2014a conflict poised to assume dimensions far more devastating than those of its predec\u2026",
+      "url": "https://www.globalresearch.ca/horn-africa-reappraisal-ethiopia-cycle-violence/5941953",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2022/01/Tigray-768x512.jpg",
+      "publishedAt": "2026-09-28T13:21:28Z",
+      "content": "Ethiopia, a nation that nurtured aspirations for the cessation of violence following the 2022 peace accord, is gradually being drawn into the maelstrom of a multi-front wara conflict poised to assume\u2026 [+14124 chars]",
+      "cocom": "USAFRICOM",
+      "_original_topic_id": "T05"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "Bang Xiao",
+      "title": "For Xi, America is no longer the centre of China's strategy",
+      "description": "At the glittering high point of the White House state dinner, the hierarchy of the world's two great powers was laid bare.",
+      "url": "https://www.abc.net.au/news/2026-09-29/china-america-xi-jinping-donald-trump/107205376",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/08932e0c73ff4cad0b667b7070ed045e?impolicy=wcms_watermark_news&cropH=1185&cropW=2107&xPos=0&yPos=520&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-09-28T19:05:11Z",
+      "content": "At the high point of the White House state dinner, the hierarchy of the worlds two great powers was laid bare.\u00a0\r\nAround the head table at the centre of the room sat two of the most powerful leaders, \u2026 [+6174 chars]",
+      "cocom": "USINDOPACOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Intercept"
+      },
+      "author": "Sam Biddle",
+      "title": "AI Almost Started a U.S.\u2013China War \u2014 and No One Seems to Cares",
+      "description": "The tech world is too busy dreaming up imaginary doomsday scenarios to focus on a very real one that flared up between nuclear powers.\nThe post AI Almost Started a U.S.\u2013China War \u2014 and No One Seems to Cares appeared first on The Intercept.",
+      "url": "https://theintercept.com/2026/09/28/ai-military-nuclear-war-doomsday/",
+      "urlToImage": "https://theintercept.com/wp-content/uploads/2026/09/AP26259482609914-e1790371958262.jpg?fit=6000%2C3000&w=1200&h=800",
+      "publishedAt": "2026-09-28T16:54:05Z",
+      "content": "The global tech industry, politicians at home and abroad, and international media coverage are transfixed by one question: Will rogue AI end humanity? Few seem to be asking this question of the Depar\u2026 [+14803 chars]",
+      "cocom": "USINDOPACOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Diplomat"
+      },
+      "author": "Mitch Shin",
+      "title": "Lee Asks Trump to Help Revive North Korea Talks During New York Trip",
+      "description": "During a Lee-Trump meeting at the U.N. General Assembly, Seoul said the U.S. president reaffirmed his willingness to talk with North Korean leader Kim Jong Un.",
+      "url": "https://thediplomat.com/2026/09/lee-asks-trump-to-help-revive-north-korea-talks-during-new-york-trip/",
+      "urlToImage": "https://thediplomat.com/wp-content/uploads/2026/09/sizes/td-story-s-2/thediplomat_2026-09-28-224538.jpg",
+      "publishedAt": "2026-09-28T13:36:00Z",
+      "content": "South Korean President Lee Jae-myung asked U.S. President Donald Trump to help restart talks between the United States and North Korea in an unannounced meeting on the sidelines of the United Nations\u2026 [+11198 chars]",
+      "cocom": "USINDOPACOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Pranjal Pandey",
+      "title": "North Korean mines likely behind blasts that injured 3 South Korean personnel, Seoul says",
+      "description": "Three South Korean officers were injured in explosions, likely caused by North Korean mines within the demilitarised zone. The joint chiefs of staff and US-led United Nations Command confirmed the preliminary findings after an investigation. Witnesses reporte\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/north-korean-mines-likely-behind-blasts-that-injured-3-south-korean-personnel-seoul-says/articleshow/134543288.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134543873,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-28T13:09:57Z",
+      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service",
+      "cocom": "USINDOPACOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "KIM TONG-HYUNG Associated Press",
+      "title": "S. Korea says border blasts injured 3 officers was likely caused by N. Korean mines",
+      "description": "South Korea\u2019s military says a set of explosions that injured three of its officers last week inside the heavily fortified Demilitarized Zone separating the Koreas were likely caused by North Korean mines",
+      "url": "https://abcnews.com/International/wireStory/south-korea-border-blasts-injured-3-officers-caused-136818573",
+      "urlToImage": "https://i.abcnewsfe.com/a/265f9f10-5fee-4f9a-a99d-ff84f3f45081/wirestory_3eb069b3d252d4451958de25893a74ea_16x9.jpg?w=1600",
+      "publishedAt": "2026-09-28T12:47:32Z",
+      "content": "SEOUL, South Korea -- SEOUL, South Korea (AP) North Korea likely planted the land mines that exploded and injured three South Korean soldiers at the countrys heavily-armed border last week, South Kor\u2026 [+5818 chars]",
+      "cocom": "USINDOPACOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Diplomat"
+      },
+      "author": "Brian Hioe",
+      "title": "The Trump-Xi Summit Is Over, But Taiwan Is Still Bracing for the Fallout",
+      "description": "Given what happened in May, Taiwanese may have been more nervous after the latest Trump-Xi summit ended.",
+      "url": "https://thediplomat.com/2026/09/the-trump-xi-summit-is-over-but-taiwan-is-still-bracing-for-the-fallout/",
+      "urlToImage": "https://thediplomat.com/wp-content/uploads/2026/09/sizes/td-story-s-2/thediplomat_2026-09-25-041434.jpg",
+      "publishedAt": "2026-09-28T12:45:00Z",
+      "content": "The latest meeting between U.S. President Donald Trump and Chinese President Xi Jinping led to much anxiety in Taiwan, with fears that Trump could potentially throw Taiwan under the bus in the course\u2026 [+15021 chars]",
+      "cocom": "USINDOPACOM",
+      "_original_topic_id": "T10"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": null,
+      "title": "Transcript: Alexander Yui, Taiwan's representative to the U.S., on \"Face the Nation with Margaret Brennan,\" Sept. 27, 2026",
+      "description": "The following is the transcript of the interview with Alexander Yui, Taiwan's representative to the U.S., that aired on \"Face the Nation with Margaret Brennan\" on Sept. 27, 2026.",
+      "url": "https://www.cbsnews.com/news/alexander-yui-taiwan-representative-face-the-nation-transcript-09-27-2026/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/27/ae32fd71-1b1d-4497-9f3c-fa1aed01ff5a/thumbnail/1200x630/130b9286ed959aee5b0c26171ced68dd/1790522488812.png",
+      "publishedAt": "2026-09-27T15:22:21Z",
+      "content": "The following is the transcript of the interview with Alexander Yui, Taiwan's representative to the U.S., that aired on \"Face the Nation with Margaret Brennan\" on Sept. 27, 2026.\r\nMARGARET BRENNAN: W\u2026 [+9346 chars]",
+      "cocom": "USINDOPACOM",
+      "_original_topic_id": "T10"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Kanchan Yadav",
+      "title": "Taiwan says US 'very much' understands its defence needs amid China threat",
+      "description": "The United States \u201cvery much\u201d understands Taiwan\u2019s defence needs and the severe military threat posed by China, a senior Taiwanese diplomat said on",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/taiwan-says-us-very-much-understands-its-defence-needs-amid-china-threat/articleshow/134514579.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134515161,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-27T05:29:19Z",
+      "content": "Follow Us On Social Media\r\nAsian Games 2026 India Medal Winners: Full List of Athletes and Medals Till September 27AI mural inspired by Banksy sparks backlash in Bristol: Artists spot wrong landmarks\u2026 [+1697 chars]",
+      "cocom": "USINDOPACOM",
+      "_original_topic_id": "T14"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Reuters",
+      "title": "Taiwan says U.S. 'very much' understands its defense needs after Trump-Xi talks",
+      "description": "TAIPEI, Sept 27 (Reuters) - The United States \"very much\" understands Taiwan's defence needs and the severe military threat it faces from China, a senior \u200cTaiwanese diplomat said on Sunday, following a Washington summit between the US \u200cand Chinese leaders. De\u2026",
+      "url": "https://www.yahoo.com/news/articles/us-very-much-understands-taiwans-024356196.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/deb2bca72aab25efbafbab8ecda457dce77b683184624d994b22aa0333432bf5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Ff9b6a1bc175e2f7d5b15d4d7cdcfb611.jpg",
+      "publishedAt": "2026-09-27T02:43:56Z",
+      "content": "TAIPEI, Sept 27 (Reuters) - The United States \"very much\" understands Taiwan's defence needs and the severe military threat it faces from China, a senior Taiwanese diplomat said on Sunday, following \u2026 [+1968 chars]",
+      "cocom": "USINDOPACOM",
+      "_original_topic_id": "T14"
     }
   ]
 }

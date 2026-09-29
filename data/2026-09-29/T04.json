@@ -1,7 +1,137 @@
 {
   "status": "ok",
-  "totalResults": 2,
+  "totalResults": 12,
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Digital Journal"
+      },
+      "author": "Dr. Tim Sandle",
+      "title": "Carrier-backed authentication emerges as new weapon against Canada\u2019s card fraud epidemic",
+      "description": "As payment fraud losses continue to mount across Canada, a new generation of network-powered authentication technologies is moving fraud detection beyond passwords and one-time codes. The approach could significantly alter how banks, retailers and payment pro\u2026",
+      "url": "https://www.digitaljournal.com/article/carrier-backed-authentication-emerges-as-new-weapon-against-canadas-card-fraud-epidemic/",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2022/03/8545ca023eeb9aa87eaf79e9d957be8e6cd42170.jpg",
+      "publishedAt": "2026-09-28T19:26:47Z",
+      "content": "Card fraud remains a significant challenge for Canada\u2019s financial sector. Criminals are increasingly using stolen credentials, phishing attacks and mobile phone account takeovers to gain access to pa\u2026 [+7383 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Shaun Wooller",
+      "title": "Domestic abuse and sexual violence against women and girls has soared to 'epidemic' levels, Yvette Cooper warns",
+      "description": "The health secretary told a fringe event at the Labour Party conference that more must be done to tackle the issue with the impact treated as a health matter.",
+      "url": "https://www.dailymail.com/news/article-16167499/Domestic-abuse-sexual-violence-against-women-girls-soared-epidemic-levels-Yvette-Cooper-warns.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/09/28/19/111525177-0-image-m-15_1790620312705.jpg",
+      "publishedAt": "2026-09-28T18:40:22Z",
+      "content": "Domestic abuse and sexual violence against women and girls has soared to 'epidemic' levels, Yvette Cooper has warned.\r\nThe health secretary told a fringe event at the Labour Party conference that mor\u2026 [+2984 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AutoExpress"
+      },
+      "author": "Tom Jervis",
+      "title": "New AI ANPR camera tech exposes UK 'ghost' number plate epidemic",
+      "description": "As many as one in 15 cars are thought to be displaying ANPR-dodging number plates, but the police have new tech to spot them",
+      "url": "https://www.autoexpress.co.uk/news/370537/new-ai-anpr-camera-tech-exposes-uk-ghost-number-plate-epidemic",
+      "urlToImage": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1562249163/autoexpress/anpr-camera.jpg",
+      "publishedAt": "2026-09-28T16:18:20Z",
+      "content": "New cameras are uncovering thousands of cars that are driving round displaying so-called ghost number plates every day. These plates are designed to look no different to the naked eye, but are unread\u2026 [+2406 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "fortune.com",
+      "title": "Frankenstein made Mary Shelley immortal. Her other visionary novel anticipated a world of climate change and pandemic",
+      "description": "Even if you have never read it, you know the story of Mary Shelley\u2019s second great work of political science fiction after \u201cFrankenstein.\u201d \u201cThe Last Man,\u201d published in 1826 but set in the late 21st century, tells the tale of a lethal contagion spread by human \u2026",
+      "url": "https://biztoc.com/x/65ccdc0f63c5c12f",
+      "urlToImage": "https://biztoc.com/cdn/65ccdc0f63c5c12f_s.webp",
+      "publishedAt": "2026-09-28T15:42:50Z",
+      "content": "Even if you have never read it, you know the story of Mary Shelleys second great work of political science fiction after Frankenstein. The Last Man, published in 1826 but set in the late 21st century\u2026 [+140 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Www.gov.uk"
+      },
+      "author": "Foreign, Commonwealth & Development Office",
+      "title": "UK Statement at the UN high-level meeting on pandemic prevention, preparedness and response",
+      "description": "Statement by Helen King, UK Ambassador to ECOSOC, at the UN high-level meeting on pandemic prevention, preparedness and response.",
+      "url": "https://www.gov.uk/government/speeches/uk-statement-at-the-un-high-level-meeting-on-pandemic-prevention-preparedness-and-response",
+      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "publishedAt": "2026-09-28T15:36:54Z",
+      "content": "As we gather today, families in the Democratic Republic of the Congo are losing loved ones to Ebola.\r\nThousands of people have died.\r\nHealth workers are risking their lives every single day.\r\nAnd com\u2026 [+1730 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PRNewswire"
+      },
+      "author": null,
+      "title": "U.S. VEHICLE SALES UNLIKELY TO REGAIN PRE-PANDEMIC LEVELS THIS DECADE, MOBILITY GLOBAL FORECAST SHOWS",
+      "description": "DETROIT, Sept. 28, 2026 /PRNewswire/ -- According to Mobility Global's latest forecast, U.S. light-vehicle sales are expected to reach 16.1 million units in 2026 and only 16.4 million by the end of the decade, remaining well below the roughly 17 million annua\u2026",
+      "url": "https://www.prnewswire.com/news-releases/us-vehicle-sales-unlikely-to-regain-pre-pandemic-levels-this-decade-mobility-global-forecast-shows-302891669.html",
+      "urlToImage": "https://mmx.prnewswire.com/media/MS1997406/Mobility-Global-US-light-vehicle-sales-forecast.jpg?id=OA2973699&p=facebook",
+      "publishedAt": "2026-09-28T15:31:00Z",
+      "content": "DETROIT, Sept. 28, 2026 /PRNewswire/ -- According to Mobility Global's latest forecast, U.S. light-vehicle sales are expected to reach 16.1 million units in 2026 and only 16.4 million by the end of t\u2026 [+6602 chars]"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Eileen Hunt, The Conversation",
+      "title": "Frankenstein made Mary Shelley immortal. Her other visionary novel anticipated a world of climate change and pandemic",
+      "description": "The Last Man follows a contagion from Constantinople outward. A new edition pairs the novel with Shelley\u2019s private journal of grief after personal loss.",
+      "url": "https://fortune.com/2026/09/28/mary-shelley-last-man-novel/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-531015888-e1790608096173.jpg?resize=1200,600",
+      "publishedAt": "2026-09-28T15:08:55Z",
+      "content": "In The Last Man and the countless books and movies on its themes that followed, a human-made epidemic becomes the mega-monster that threatens the extinction of humanity itself.Regardless of how many \u2026 [+5379 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "Florida officials warn of \u2018wildly unusual\u2019 disease outbreak, declare state of emergency - New York Post",
+      "description": "Florida officials warn of \u2018wildly unusual\u2019 disease outbreak, declare state of emergencyNew York Post Florida counties declare emergency over \u2018wildly unusual\u2019 dengue outbreakThe Washington Post Dengue across Tampa Bay: How to prevent infection as cases risewts\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185889112",
+      "urlToImage": null,
+      "publishedAt": "2026-09-28T14:52:19Z",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Rachel Sacks",
+      "title": "Florida officials warn of \u2018wildly unusual\u2019 disease outbreak, declare state of emergency",
+      "description": "Nearly 200 locally acquired cases have been reported and one death across several counties.",
+      "url": "https://nypost.com/2026/09/28/health/florida-officials-warn-of-disease-outbreak-declare-state-of-emergency/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/142880115.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-09-28T14:19:21Z",
+      "content": "A mosquito-borne illness that\u2019s typically found in other countries has reached a new high in the US.\r\nFlorida health officials have declared a local state of emergency over dengue fever, nicknamed \u201cb\u2026 [+3370 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "euronews.com",
+      "title": "Nvidia launches platform to quarantine rogue AI agents in 'milliseconds'",
+      "description": "The platform is designed to control what an agent can access and isolate it within milliseconds if it crosses those limits, according to the US chipmaker.",
+      "url": "https://biztoc.com/x/5569a8a3c793dadb",
+      "urlToImage": "https://biztoc.com/cdn/5569a8a3c793dadb_s.webp",
+      "publishedAt": "2026-09-28T11:13:54Z",
+      "content": "The platform is designed to control what an agent can access and isolate it within milliseconds if it crosses those limits, according to the US chipmaker.\r\nThis story appeared on euronews.com, 2026-0\u2026 [+13 chars]"
+    },
     {
       "source": {
         "id": null,

@@ -1,5 +1,19 @@
 {
   "status": "ok",
-  "totalResults": 0,
-  "articles": []
+  "totalResults": 1,
+  "articles": [
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "Bridget Raymundo",
+      "title": "5 books that unlocked Vancouver actor June Laporte\u2019s storytelling magic",
+      "description": "The Canadian American actor stars alongside Jon Hamm in MGM+\u2019s series American Hostage. They connected with CBC Books to chat about the books that shaped their life and work.",
+      "url": "https://www.cbc.ca/books/5-books-that-unlocked-vancouver-actor-june-laportes-storytelling-magic-9.7358678",
+      "urlToImage": "https://i.cbc.ca/ais/88419ffc-b423-415d-bab3-de64bbee2363,1790359635616/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C761%2C1667%2C937%29%3BResize%3D620",
+      "publishedAt": "2026-09-28T17:06:26Z",
+      "content": "What if, as a kid, you got to bring your favourite fictional characters to life?\r\nVancouver-based actor June Laporte found two of their favourite books by playing the leads on stage the titular chara\u2026 [+6674 chars]"
+    }
+  ]
 }

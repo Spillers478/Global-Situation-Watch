@@ -2,100 +2,170 @@
   "articles": [
     {
       "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
+        "id": null,
+        "name": "Newser"
       },
-      "author": "PTI",
-      "title": "India's Russian crude imports fall to five-month low as refiners diversify supplies",
-      "description": "India's crude oil landscape shifted in September as imports from Russia plummeted to their lowest since April, prompting refiners to seek alternatives. Despite this drop, overall crude imports surged, bolstered by robust refinery activity and rising fuel requ\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/indias-russian-crude-imports-fall-to-five-month-low-as-refiners-diversify-supplies/articleshow/134540299.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134540366,width-1200,height-630,imgsize-105640,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-28T11:06:03Z",
-      "content": "New Delhi: India's imports of Russian crude fell to about 1.75 million barrels a day in September, their lowest level since April, as refiners diversified purchases amid geopolitical risks, even as t\u2026 [+4494 chars]",
+      "author": "John Johnson with Newser.AI",
+      "title": "S. Korea Isn't Happy Zelensky Told World About POWs",
+      "description": "Ukraine's transfer of two captured North Korean POWs to South Korea had been a hush-hush affair\u2014until Volodymyr Zelensky told the world in a UN speech last week. The POWs, identified only as Paek and Ri, were captured in January while fighting for Russia in t\u2026",
+      "url": "https://www.newser.com/story/397197/ukraines-capture-of-two-n-korean-pows-goes-public.html",
+      "urlToImage": "https://cdn.newser.com/image/1714460-12-20260928143519.jpeg",
+      "publishedAt": "2026-09-28T19:19:00Z",
+      "content": "Ukraine's transfer of two captured North Korean POWs to South Korea had been a hush-hush affair\u2014until Volodymyr Zelensky told the world in a UN speech last week. The POWs, identified only as Paek and\u2026 [+964 chars]",
+      "cocom": "USINDOPACOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Marisa Schultz, Josh Christenson",
+      "title": "Trump envoys tout \u2018real progress\u2019 after marathon meetings at UN General Assembly",
+      "description": "\"I sense a sort of feeling of hope and promise. When all these nations come together and they can talk face to face \u2014 that\u2019s what drives progress,\" Steve Witkoff told The Post.",
+      "url": "https://nypost.com/2026/09/28/world-news/trump-envoys-tout-real-progress-after-marathon-meetings-at-un-general-assembly/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/142492319.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-09-28T18:30:39Z",
+      "content": "UNITED NATIONS \u2014 President Trump\u2019s peace envoys are touting \u201creal progress\u201d after holding talks on the sidelines of the UN General Assembly, including negotiations on the Russia-Ukraine war and the U\u2026 [+6127 chars]",
       "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": "rt",
+        "name": "RT"
+      },
+      "author": "RT",
+      "title": "Ukraine is asking for a truce. So why is it preparing for a bigger war?",
+      "description": "Washington is pushing for a Russia-Ukraine energy truce, but neither country\u2019s core demands have shifted ahead of winter strikes Read Full Article at RT.com",
+      "url": "https://www.rt.com/russia/646367-ukraine-is-asking-for-truce/",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6aba912885f54046971b13d8.jpg",
+      "publishedAt": "2026-09-28T17:57:03Z",
+      "content": "Washington is pushing for an energy truce between Russia and Ukraine. Kiev supports the initiative, and Moscow has also responded favorably. Another round of shuttle diplomacy has taken place: US Pre\u2026 [+7602 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": "rte",
+        "name": "RTE"
+      },
+      "author": "RT\u00c9 News",
+      "title": "Russian strikes kill five and target Kyiv science academy",
+      "description": "Russian drone attack damages Kyiv's science academy as strikes across Ukraine kill five people and wound many more.",
+      "url": "https://www.rte.ie/news/2026/0928/1593267-deadly-russian-strikes-kill-five-and-target-kyiv-academy/",
+      "urlToImage": "https://www.rte.ie/images/002515b1-1600.jpg",
+      "publishedAt": "2026-09-28T17:56:55Z",
+      "content": "Russian drones struck Ukraine's National Academy of Sciences in the historic heart of Kyiv today, in the latest deadly daytime attack on the Ukrainian capital.\r\nOne person was killed and four others \u2026 [+7699 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheJournal.ie"
+      },
+      "author": "AFP",
+      "title": "Russian drone hits National Academy of Sciences in Kyiv",
+      "description": "The site is in the very centre of Kyiv \u2013 usually well protected from Russian attacks \u2013 close to the German embassy and government buildings.",
+      "url": "https://www.thejournal.ie/kyiv-drone-strike-today-7176103-Sep2026/",
+      "urlToImage": "https://img2.thejournal.ie/article/7176103/river/?height=400&version=7176107",
+      "publishedAt": "2026-09-28T17:37:45Z",
+      "content": "ONE WOMAN WAS killed and three people wounded in a Russian drone strike that triggered a fire inside Ukraines National Academy of Sciences in central Kyiv on Monday, authorities said.\r\nVideos shared \u2026 [+2178 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "Photos: Russian drone strikes pound civilian targets across Kyiv",
+      "description": "Ukraine condemns Russian targeting of civilians as strikes kill seven and injure dozens across Kyiv.",
+      "url": "https://www.aljazeera.com/gallery/2026/9/28/photos-aftermath-of-a-russian-drone-attack-in-kyiv",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26271426330457-1790613089.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-28T17:37:36Z",
+      "content": "Russian drones have struck Ukraines National Academy of Sciences in the historic centre of Kyiv, as Moscows forces continue to pound the capital around the clock.\r\nUkrainian officials reported that a\u2026 [+960 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "Russia strike sets National Academy of Sciences of Ukraine ablaze",
+      "description": "A Russian drone struck the National Academy of Sciences of Ukraine in central Kyiv, killing one person",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/russia-strike-sets-national-academy-of-sciences-of-ukraine-ablaze",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790615153.jpg?resize=1920%2C1080&quality=80",
+      "publishedAt": "2026-09-28T17:06:00Z",
+      "content": "A Russian drone struck the National Academy of Sciences of Ukraine in central Kyiv, killing one person and injuring three. As Al Jazeeras Jonah Hull reports, the strike was part of a wave of intensif\u2026 [+58 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Voxeurop.eu"
+      },
+      "author": "f_barca",
+      "title": "Bulgaria is walking a tightrope between NATO and Moscow",
+      "description": "Under new Prime Minister Rumen Radev, in just six months Bulgaria has shifted from steadfast support for Ukraine to a foreign policy dangling between Euro-Atlantic solidarity and overtures towards Russia.",
+      "url": "https://voxeurop.eu/en/bulgaria-nato-russia/",
+      "urlToImage": "https://voxeurop.eu/wp-content/uploads/2026/09/putins_army__oleksy_kustovsky.jpg",
+      "publishedAt": "2026-09-28T16:50:46Z",
+      "content": "Serving as President of Bulgaria for nine years, Rumen Radev stepped down from this largely symbolic role in January 2026. He then founded his own party, Progressive Bulgaria, and stood as a candidat\u2026 [+8027 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": null,
+      "title": "Russian drone hits Kyiv scientific centre near embassies",
+      "description": "Polish war planes were scrambled into the skies to defend its airspace as Russia carried out strikes on neighbouring Ukraine.",
+      "url": "https://www.abc.net.au/news/2026-09-29/ukraine-russia-poland-strikes-scientific-centre/107205900",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/542dbe882fba87e7484182d8360a03ab?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=323&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-09-28T16:40:18Z",
+      "content": "Russian drones have struck Ukraine's National Academy of Sciences in the historic heart of Kyiv, in the latest deadly daytime attack on the Ukrainian capital.\r\nKyiv has increasingly faced Russian dro\u2026 [+2992 chars]",
+      "cocom": "USEUCOM"
     },
     {
       "source": {
         "id": null,
         "name": "POLITICO.eu"
       },
-      "author": "Jacopo Barigazzi",
-      "title": "EU seeks NATO-style response to Russian hybrid attacks",
-      "description": "The bloc's defense ministers will consider an emergency security protocol amid Moscow's growing threats across Europe.",
-      "url": "https://www.politico.eu/article/defense-ministers-seek-common-eu-response-to-russian-hybrid-attacks/",
-      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/09/28/GettyImages-2295967672-scaled.jpg",
-      "publishedAt": "2026-09-28T11:00:23Z",
-      "content": "Kallas added that Monday's discussion will look at how EU institutions can work with member countries to determine which tools in the EU's arsenal could be used as part of the protocol response. \r\nWh\u2026 [+1878 chars]",
+      "author": "Veronika Melkozerova",
+      "title": "Ukraine regains territory and captures POWs in frontline push",
+      "description": "Operation Vivaldi has seen Ukraine make progress against Russian forces, which had been threatening a key fortress city.",
+      "url": "https://www.politico.eu/article/ukraine-russia-war-territory-pows-front-line-operation-vivaldi/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/09/28/GettyImages-2258310069-scaled.jpg",
+      "publishedAt": "2026-09-28T16:20:24Z",
+      "content": "Biletskyi said the Third Corps deceived Russian forces into believing the main Ukrainian thrust would come toward Shandryholove and Zelena Dolyna, drawing Russian reserves into counterattacks there w\u2026 [+1593 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Frances Martel",
+      "title": "Leftist South Korea Demands Ukraine Apologize After Zelensky Reveals North Korea Soldiers Shipped to Seoul",
+      "description": "The leftist government of South Korea demanded a public apology on Sunday from the government of Ukraine after President Volodymyr Zelensky told the United Nations General Assembly last week that his troops had captured North Korean soldiers on the battlefiel\u2026",
+      "url": "https://www.breitbart.com/asia/2026/09/28/leftist-south-korea-demands-ukraine-apologize-after-zelensky-reveals-north-korea-soldiers-shipped-to-seoul/",
+      "urlToImage": "https://media.breitbart.com/media/2026/09/north-korea-soldiers-640x335.jpg",
+      "publishedAt": "2026-09-28T16:10:25Z",
+      "content": "The leftist government of South Korea demanded a public apology on Sunday from the government of Ukraine after President Volodymyr Zelensky told the United Nations General Assembly last week that his\u2026 [+5806 chars]",
       "cocom": "USEUCOM"
     },
     {
       "source": {
         "id": null,
-        "name": "DW (English)"
+        "name": "OilPrice.com"
       },
-      "author": "Timothy Rooks",
-      "title": "Diesel prices are surging putting further pressure on Europe",
-      "description": "Trucks, farms and industry are powered with diesel. Now prices are soaring due to refinery disruptions, supply shortages and geopolitical tensions. A potential US export ban could make Europe's diesel crunch even worse. Even if you don't fill your own vehicle\u2026",
-      "url": "https://www.dw.com/en/diesel-prices-are-surging-putting-further-pressure-on-europe/a-79390992",
-      "urlToImage": "https://static.dw.com/image/79264448_6.jpg",
-      "publishedAt": "2026-09-28T10:35:00Z",
-      "content": "Even if you don't fill your own vehicle with diesel, its price has a big impact on your life.\r\nWhile gasoline\u00a0is mainly a consumer fuel for cars, diesel powers much of the wider economy, from freight\u2026 [+6296 chars]",
-      "cocom": "USEUCOM"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DW (English)"
-      },
-      "author": "Timothy Rooks",
-      "title": "Diesel prices are surging. Ukraine is only part of the story",
-      "description": "Trucks, farms and industry are powered with diesel. Now prices are soaring due to refinery disruptions, supply shortages and geopolitical tensions. A potential US export ban could make Europe's diesel crunch even worse.",
-      "url": "https://www.dw.com/en/diesel-prices-are-surging-ukraine-is-only-part-of-the-story/a-79390992",
-      "urlToImage": "https://static.dw.com/image/79264448_6.jpg",
-      "publishedAt": "2026-09-28T10:35:00Z",
-      "content": "Even if you don't fill your own vehicle with diesel, its price has a big impact on your life.\r\nWhile petrol is primarily a consumer fuel for cars, diesel is vital in powering much of the wider econom\u2026 [+6323 chars]",
-      "cocom": "USEUCOM"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DW (English)"
-      },
-      "author": "Timothy Rooks",
-      "title": "Diesel prices are surging putting further pressure on Europe. Ukraine is only part of the story.",
-      "description": "Trucks, farms and industry are powered with diesel. Now prices are soaring due to refinery disruptions, supply shortages and geopolitical tensions. A potential US export ban could make Europe's diesel crunch even worse.",
-      "url": "https://www.dw.com/en/diesel-prices-are-surging-putting-further-pressure-on-europe-ukraine-is-only-part-of-the-story/a-79390992",
-      "urlToImage": "https://static.dw.com/image/79264448_6.jpg",
-      "publishedAt": "2026-09-28T10:35:00Z",
-      "content": "Even if you don't fill your own vehicle with diesel, its price has a big impact on your life.\r\nWhile gasoline\u00a0is mainly a consumer fuel for cars, diesel powers much of the wider economy, from freight\u2026 [+6296 chars]",
-      "cocom": "USEUCOM"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "National Observer"
-      },
-      "author": "Dylan Robertson",
-      "title": "Anand hosts conference today on returning Ukrainian children from Russian abduction",
-      "description": "Foreign Affairs Minister Anita Anand is co-hosting a global meeting in Toronto today aimed at advancing work to return Ukrainian children abducted by Russian officials.",
-      "url": "https://www.nationalobserver.com/2026/09/28/news/anand-hosts-conference-today-returning-ukrainian-children-russian-abduction",
-      "urlToImage": "https://www.nationalobserver.com/sites/default/files/styles/social_share/public/img/2026/09/28/568ed3ec8d4915857c385d28da4f5bdb14b89eb76bb8876f50c25a5074025f02.jpg?itok=7v8D3r-N",
-      "publishedAt": "2026-09-28T10:21:32Z",
-      "content": "Foreign Affairs Minister Anita Anand is co-hosting a global meeting in Toronto today aimed at advancing work to return Ukrainian children abducted by Russian officials.\r\nIn 2024, the Trudeau governme\u2026 [+994 chars]",
-      "cocom": "USEUCOM"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abcnews.com"
-      },
-      "author": "HANNA ARHIROVA Associated Press, BARRY HATTON Associated Press",
-      "title": "Russian drones pound civilian areas as Ukraine claims battlefield breakthroughs",
-      "description": "Officials say that Russia\u2019s round-the-clock bombardment of targets in Ukraine killed at least three civilians and wounded 41 others from Sunday to Monday",
-      "url": "https://abcnews.com/International/wireStory/russian-drones-pound-civilian-areas-ukraine-claims-battlefield-136816631",
-      "urlToImage": "https://i.abcnewsfe.com/a/c4ceba14-4415-4ee6-b9c3-1a1dc7cf5d2c/wirestory_d640f7f9862fdd801256f7208eb229d8_16x9.jpg?w=1600",
-      "publishedAt": "2026-09-28T10:18:26Z",
-      "content": "KYIV, Ukraine -- Russias round-the-clock bombardment of targets in Ukraine killed at least three civilians and wounded 41 others, officials said Monday, while Ukraines army claimed more successes in \u2026 [+3218 chars]",
+      "author": "Simon Watkins",
+      "title": "What\u2019s Putin\u2019s Secret Post-Election Strategy To Test NATO?",
+      "description": "The 2026 Russian legislative election to select all 450 seats of the State Duma (the lower house of parliament) ended on 20 September with President Vladimir Putin\u2019s United Russia party securing 57.83% of the vote. Given the State apparatus to ensure a positi\u2026",
+      "url": "https://oilprice.com/Energy/Energy-General/Whats-Putins-Secret-Post-Election-Strategy-To-Test-NATO.html",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-28_z7ekpmooxg.jpg",
+      "publishedAt": "2026-09-28T16:00:00Z",
+      "content": "Saudi Aramco has partially restarted\u2026\r\nRecord diesel prices are being\u2026\r\nUS Energy Secretary Chris Wright\u00a0has\u2026\r\nSet us as your preferred Google source\r\nBy Simon Watkins - Sep 28, 2026, 11:00 AM CDTThe\u2026 [+9448 chars]",
       "cocom": "USEUCOM"
     },
     {
@@ -104,138 +174,12 @@
         "name": "RT"
       },
       "author": "RT",
-      "title": "West risks falling for Kiev\u2019s \u2018nuclear terrorism\u2019 \u2013 Moscow",
-      "description": "Ukraine\u2019s Western backers are ignoring attacks on Europe\u2019s largest nuclear plant and risk facing the consequences themselves, Russian diplomat Rodion Miroshnik says",
-      "url": "https://www.rt.com/russia/646349-nuclear-terrorism-ukraine-miroshnik/",
-      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6aba2e4b85f5404849125e8f.jpg",
-      "publishedAt": "2026-09-28T10:05:22Z",
-      "content": "The West risks becoming a victim of the very \u201cnuclear terrorism\u201d it enables by backing Ukraine, Russian Ambassador-at-Large Rodion Miroshnik has warned.\r\nMiroshnik, who oversees matters tied to Kiev\u2019\u2026 [+2817 chars]",
-      "cocom": "USEUCOM"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nakedcapitalism.com"
-      },
-      "author": "Conor Gallagher",
-      "title": "Amid EU War Hysteria, Bloc Rearmament Remains a Joke",
-      "description": "Lost in the daily gaslighting is the fact Europe has made little to no progress in overcoming key military production hurdles.",
-      "url": "https://www.nakedcapitalism.com/2026/09/amid-eu-war-hysteria-bloc-rearmament-remains-a-joke.html",
-      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2026/09/Screenshot-2026-09-28-at-9.35.04\u202fAM-1003x1024.png",
-      "publishedAt": "2026-09-28T10:00:13Z",
-      "content": "This is Naked Capitalism fundraising week. 792 donors have already invested in our efforts to combat corruption and predatory conduct, particularly in the financial realm. Please join us and particip\u2026 [+12874 chars]",
-      "cocom": "USEUCOM"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "HuffPost"
-      },
-      "author": "HuffPost",
-      "title": "South Korea Demands Apology From Ukraine Over Disclosure Of North Korean PoW Transfer",
-      "description": "South Korea\u2019s presidential office said the incident had seriously damaged trust between the two governments and could harm bilateral relations.",
-      "url": "https://www.huffpost.com/entry/south-korea-demands-ukraine-apology-pow-transfer_n_6aba3576e4b0d1543f54fa03",
-      "urlToImage": "https://img.huffingtonpost.com/asset/6aba360f1800003fe9f1535a.jpeg?cache=4vR1UXEz0x&ops=1200_630",
-      "publishedAt": "2026-09-28T09:44:57Z",
-      "content": "Sept 27 (Reuters) - South Koreas presidential office demanded an official explanation and apology from Ukraine, accusing Kyiv of disclosing the transfer of two North Korean prisoners of war to South \u2026 [+3330 chars]",
-      "cocom": "Transregional"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "HuffPost"
-      },
-      "author": "HuffPost",
-      "title": "Wall Street Journal Has 2 Withering Words For 'Chump' Trump\u2019s Latest Putin Move",
-      "description": "The newspaper\u2019s conservative editorial board warned exactly how the G-20 meeting may play out if the Russian president does indeed attend.",
-      "url": "https://www.huffpost.com/entry/wall-street-journal-donald-trump-putin-g20_n_6aba05dce4b00588e1d4ff0f",
-      "urlToImage": "https://img.huffingtonpost.com/asset/6aba34091c000027e195f85a.jpeg?cache=QAX4Y19CIT&ops=1200_630",
-      "publishedAt": "2026-09-28T09:34:23Z",
-      "content": "The Wall Street Journal has torched Donald Trumps invitation to Russian President Vladimir Putin to attend the G-20 summit that will be hosted at his Trump National Doral club in Miami, Florida, in D\u2026 [+1300 chars]",
-      "cocom": "USEUCOM"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Radio Free Europe/ Radio Liberty"
-      },
-      "author": "RFE/RL",
-      "title": "Russian Overnight Attacks On Ukraine Kill Azerbaijani Citizen, Injure 10 Children",
-      "description": "Russia continued its attacks on Ukraine, killing two people, including an Azerbaijani citizen, and injuring dozens others, including 10 children, in strikes on the Kyiv region and Kharkiv.",
-      "url": "https://www.rferl.org/a/russia-ukraine-deadly-attack-azerbaijani-citizen/33865614.html",
-      "urlToImage": "https://gdb.rferl.org/ca72e6d7-7716-40ba-7177-08df13a869ed_tv_w1200_h630.jpg",
-      "publishedAt": "2026-09-28T09:22:36Z",
-      "content": "Russia continued its attacks on Ukraine, killing two people, including an Azerbaijani citizen, and injuring dozens others, including 10 children, in strikes on the Kyiv region and Kharkiv.\r\nUkrainian\u2026 [+1924 chars]",
-      "cocom": "USEUCOM"
-    },
-    {
-      "source": {
-        "id": "rt",
-        "name": "RT"
-      },
-      "author": "RT",
-      "title": "Bridge section collapses in Russia after Ukraine strike",
-      "description": "Read Full Article at RT.com",
-      "url": "https://www.rt.com/russia/646350-bridge-bryansk-ukraine-drone/",
-      "urlToImage": "https://mf.b37mrtl.ru/files/static.en/article/breaking.jpg",
-      "publishedAt": "2026-09-28T08:29:36Z",
-      "content": "Ukrainian drone strikes have damaged a railway bridge and tracks at three locations in Russia\u2019s Bryansk Region, causing several trains to derail, acting Governor Egor Kovalchuk said on Monday. No inj\u2026 [+483 chars]",
-      "cocom": "USEUCOM"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dailymail.com"
-      },
-      "author": "Perkin Amalaraj",
-      "title": "Swiss reject 'pro-Russian' bid to toughen country's neutrality in referendum",
-      "description": "Voters in Switzerland overwhelmingly rejected a proposal championed by a right-wing populist party to strengthen the country's vaunted neutrality.",
-      "url": "https://www.dailymail.com/news/article-16165763/Switzerland-Russia-neutrality-referendum.html",
-      "urlToImage": "https://i.dailymail.com/1s/2026/09/28/08/111512553-0-image-a-10_1790580511225.jpg",
-      "publishedAt": "2026-09-28T07:29:39Z",
-      "content": "Voters in Switzerland overwhelmingly rejected a proposal championed by a right-wing populist party to strengthen the country's vaunted neutrality.\r\nSupporters of the plan, led by the Swiss People's P\u2026 [+2445 chars]",
-      "cocom": "USEUCOM"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dailymail.com"
-      },
-      "author": "Imogen Garfinkel",
-      "title": "Nato states prepare evacuation plan for Russian attack amid mounting fears of incursion into alliance's 'Achilles heel'",
-      "description": "Lithuania and Poland are developing evacuation plans in the event of full-blown war with Russia.",
-      "url": "https://www.dailymail.com/news/article-16165721/Nato-states-prepare-evacuation-plan-Russian-attack-amid-mounting-fears-incursion-alliances-Achilles-heel.html",
-      "urlToImage": "https://i.dailymail.com/1s/2026/09/28/08/111511609-0-image-a-11_1790580008753.jpg",
-      "publishedAt": "2026-09-28T07:21:53Z",
-      "content": "Lithuania and Poland are developing evacuation plans in the event of full-blown war with Russia.\r\nThe countries are preparing procedures, logistics and infrastructure, including evacuation routes for\u2026 [+4020 chars]",
-      "cocom": "USEUCOM"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abcnews.com"
-      },
-      "author": "HYUNG-JIN KIM Associated Press",
-      "title": "Seoul demands apology after Zelenskyy reveals North Korean prisoners of war transfer",
-      "description": "South Korea has demanded an apology from Ukraine after President Zelenskyy revealed what Seoul says was supposed to be a secret transfer of two North Korean prisoners of war to South Korea",
-      "url": "https://abcnews.com/International/wireStory/seoul-demands-apology-after-zelenskyy-unilaterally-reveals-north-136814400",
-      "urlToImage": "https://i.abcnewsfe.com/a/d227fab9-2656-457c-85ba-07a534d4b81f/wirestory_17df235a34d773c7dcf20a6b73f2b997_16x9.jpg?w=1600",
-      "publishedAt": "2026-09-28T06:41:49Z",
-      "content": "SEOUL, South Korea -- South Korea called for an official apology from Ukraine after the Ukrainian president revealed what Seoul says was supposed to be a secret transfer of two North Korean prisoners\u2026 [+3882 chars]",
-      "cocom": "Transregional"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abcnews.com"
-      },
-      "author": "CLAUDIA CIOBANU Associated Press, RAFAL NIEDZIELSKI Associated Press",
-      "title": "On Poland's border with Ukraine, residents brace for a possible Russian hybrid attack",
-      "description": "Polish Prime Minister Donald Tusk has warned of potential hybrid attacks from Russia on European countries supporting Ukraine, including Poland",
-      "url": "https://abcnews.com/International/wireStory/polands-border-ukraine-residents-brace-russian-hybrid-attack-136813873",
-      "urlToImage": "https://i.abcnewsfe.com/a/0c8d6d05-0b5d-48f7-9acc-f95171c9470a/wirestory_9430977473b06c8d6285fe95608e6f9b_16x9.jpg?w=1600",
-      "publishedAt": "2026-09-28T06:30:49Z",
-      "content": "DOROHUSK, Poland -- Three times in one day, phones lit up across this Polish border community with a warning: A drone or a missile could cross from Ukraine, and residents should stay vigilant in case\u2026 [+4663 chars]",
+      "title": "Escalation watch: West ramping up war rhetoric, \u2018terror plotters\u2019 given bail in UK",
+      "description": "RT monitors the latest wave of war propaganda spread by the UK and its European allies, who say they\u2019re gearing up for conflict with Russia Read Full Article at RT.com",
+      "url": "https://www.rt.com/news/646370-uk-fairford-escalation-rhetoric-russia/",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6aba89312030273f7f546f94.jpg",
+      "publishedAt": "2026-09-28T15:39:38Z",
+      "content": "War rhetoric from the UK and its Western European allies has reached a fever pitch, with British elites warning of an imminent clash with Russia and blaming Iran for a bizarre plot uncovered at a US \u2026 [+2356 chars]",
       "cocom": "USEUCOM"
     },
     {
@@ -243,59 +187,100 @@
         "id": null,
         "name": "Yahoo Entertainment"
       },
-      "author": "HYUNG-JIN KIM",
-      "title": "Seoul demands apology after Zelensky reveals secret North Korean prisoner transfer",
-      "description": "SEOUL, South Korea (AP) \u2014 Seoul has called for an official apology from Ukraine after President Volodymyr Zelenskyy revealed what it says was supposed to be a secret transfer of two North Korean prisoners of war to South Korea.\n Zelenskyy told the U.N. Genera\u2026",
-      "url": "https://www.yahoo.com/news/world/articles/seoul-demands-apology-zelenskyy-unilaterally-062918978.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/d44b30583289b0526fa88df8ff573a4e23012b151969a48d753c01237e0ea8f9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F7c1a95dbcaf6ba82c87c5b8e8fe915a4.jpg",
-      "publishedAt": "2026-09-28T06:29:18Z",
-      "content": "SEOUL, South Korea (AP) Seoul has called for an official apology from Ukraine after President Volodymyr Zelenskyy revealed what it says was supposed to be a secret transfer of two North Korean prison\u2026 [+4296 chars]",
-      "cocom": "Transregional"
+      "author": "Genya SAVILOV",
+      "title": "Russian drones hit science academy in the historic heart of Kyiv",
+      "description": "A residential building was hit in the eastern city of Kharkiv (SERGEY BOBOK)\r\nRussian drones struck Ukraine's National Academy of Sciences in the historic heart of Kyiv on Monday, in the latest deadly daytime attack on the Ukrainian capital.Kyiv has increasin\u2026",
+      "url": "https://www.yahoo.com/news/world/articles/russia-pummels-kyiv-latest-deadly-133512181.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/e2d0c6019aeb7dfcc84eeae1cd643cbd2145259faba1d7199668be2b40874f33/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F6c10bfa99250d9b44086f3be63098d57.jpg",
+      "publishedAt": "2026-09-28T15:18:58Z",
+      "content": "Russian drones struck Ukraine's National Academy of Sciences in the historic heart of Kyiv on Monday, in the latest deadly daytime attack on the Ukrainian capital.\r\nKyiv has increasingly faced Russia\u2026 [+3739 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": null,
+      "title": "Russia blasts Ukraine with rare daytime drone strike",
+      "description": "Russia slammed Ukraine's Kyiv with a daytime drone strike that killed several people, according to officials. CBS News' Aidan Stretch reports.",
+      "url": "https://www.cbsnews.com/video/russia-blasts-ukraine-with-rare-daytime-drone-strike/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/28/be214487-aac8-4029-a9b5-e121445a0190/thumbnail/1200x630/a97959b3a72016fd8d1f61f95251b0a5/cbsn-fusion-russia-blasts-ukraine-with-rare-daytime-drone-strike-thumbnail.jpg",
+      "publishedAt": "2026-09-28T15:08:36Z",
+      "content": "Copyright \u00a92026 CBS Interactive Inc. All rights reserved.",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": "rt",
+        "name": "RT"
+      },
+      "author": "RT",
+      "title": "EU intensifies defense and military buildup push",
+      "description": "The EU has approved five joint defense projects in a new militarization push, with Ukraine joining four of them Read Full Article at RT.com",
+      "url": "https://www.rt.com/news/646363-eu-intensifies-military-buildup/",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6aba786d20302742d701b102.jpg",
+      "publishedAt": "2026-09-28T15:03:29Z",
+      "content": "The EU has greenlit a slew of new joint defense-industrial initiatives, with Ukraine joining most of them, as Brussels presses ahead with its defense buildup despite Russia\u2019s warnings against the blo\u2026 [+3141 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": null,
+      "title": "At least five killed in separate attacks as Russia hits Kyiv\u2019s National Academy of Sciences",
+      "description": "\u2018Russia is deliberately expanding the boundaries of what it believes the world will tolerate,\u2019 said foreign minister Andrii Sybiha",
+      "url": "https://www.irishtimes.com/world/europe/2026/09/28/at-least-five-killed-in-separate-attacks-as-russia-hits-kyivs-national-academy-of-sciences/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/BVZ3HAQEO3HQPTQ4R7UJIVJIZU.jpg?smart=true&auth=87163a00e60ea16ec5326290fc8d9d6fa2b5a07d665090785db12ce87411d29f&width=1200&height=630",
+      "publishedAt": "2026-09-28T14:57:47Z",
+      "content": "At least one person was killed when a drone hit the National Academy of Sciences in central Kyiv on Monday, as Russia attacked the centre of the Ukrainian capital.\r\nKyiv mayor Vitali Klitschko said a\u2026 [+2441 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
+      "description": "Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - which Seoul says was meant to be a secret.",
+      "url": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/39e9/live/bf7ff6f0-bb48-11f1-a071-65d2e11c8f4a.jpg",
+      "publishedAt": "2026-09-28T14:57:31Z",
+      "content": "South Korea has summoned Ukraine's acting ambassador after President Volodymyr Zelensky last week announced his government had transferred two captured North Korean soldiers to Seoul.\r\nVice Foreign M\u2026 [+3595 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": "rt",
+        "name": "RT"
+      },
+      "author": "RT",
+      "title": "Weapons stolen from Ukraine front line handed to notorious neo-Nazi unit",
+      "description": "Ukraine\u2019s State Bureau of Investigation has reported handing about $100,000 worth of confiscated weapons to the Azov Corps Read Full Article at RT.com",
+      "url": "https://www.rt.com/russia/646352-ukraine-arms-trafficking-azov/",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6aba4b0c20302742e87548ea.jpeg",
+      "publishedAt": "2026-09-28T12:37:11Z",
+      "content": "Ukraine\u2019s State Bureau of Investigation (DBR) has announced the transfer of weapons worth about $100,000 confiscated from an alleged smuggling ring to the notorious Azov Corps.\r\nThe cache, including \u2026 [+2014 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T01"
     },
     {
       "source": {
         "id": null,
-        "name": "DW (English)"
+        "name": "Globalsecurity.org"
       },
-      "author": "Timothy Rooks",
-      "title": "Diesel prices are surging putting further pressure on Europe",
-      "description": "Trucks, farms and industry are powered with diesel. Now prices are soaring due to refinery disruptions, supply shortages and geopolitical tensions. A potential US export ban could make Europe's diesel crunch even worse. Even if you don't fill your own vehicle\u2026",
-      "url": "https://www.dw.com/en/diesel-prices-are-surging-putting-further-pressure-on-europe/a-79390992",
-      "urlToImage": "https://static.dw.com/image/79264448_6.jpg",
-      "publishedAt": "2026-09-28T10:35:00Z",
-      "content": "Even if you don't fill your own vehicle with diesel, its price has a big impact on your life.\r\nWhile gasoline\u00a0is mainly a consumer fuel for cars, diesel powers much of the wider economy, from freight\u2026 [+6296 chars]",
+      "author": "John Pike",
+      "title": "Ukraine Reports Deadly Russian Air Strikes On Kyiv, Kharkiv, And Dnipro",
+      "description": "Russia continued its attacks on Ukraine, killing at least six people and injuring dozens of others, including 10 children, in strikes on the Kyiv region, Kharkiv, and Dnipro.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260928-rferl01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-28T12:00:00Z",
+      "content": "By RFE/RL's Ukrainian Service September 28, 2026\r\nKHARKIV -- Russia continued its attacks on Ukraine, killing at least six people and injuring dozens of others, including 10 children, in strikes on t\u2026 [+4350 chars]",
       "cocom": "USEUCOM",
-      "_original_topic_id": "flagship-ir-il"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DW (English)"
-      },
-      "author": "Timothy Rooks",
-      "title": "Diesel prices are surging. Ukraine is only part of the story",
-      "description": "Trucks, farms and industry are powered with diesel. Now prices are soaring due to refinery disruptions, supply shortages and geopolitical tensions. A potential US export ban could make Europe's diesel crunch even worse.",
-      "url": "https://www.dw.com/en/diesel-prices-are-surging-ukraine-is-only-part-of-the-story/a-79390992",
-      "urlToImage": "https://static.dw.com/image/79264448_6.jpg",
-      "publishedAt": "2026-09-28T10:35:00Z",
-      "content": "Even if you don't fill your own vehicle with diesel, its price has a big impact on your life.\r\nWhile petrol is primarily a consumer fuel for cars, diesel is vital in powering much of the wider econom\u2026 [+6323 chars]",
-      "cocom": "USEUCOM",
-      "_original_topic_id": "flagship-ir-il"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DW (English)"
-      },
-      "author": "Timothy Rooks",
-      "title": "Diesel prices are surging putting further pressure on Europe. Ukraine is only part of the story.",
-      "description": "Trucks, farms and industry are powered with diesel. Now prices are soaring due to refinery disruptions, supply shortages and geopolitical tensions. A potential US export ban could make Europe's diesel crunch even worse.",
-      "url": "https://www.dw.com/en/diesel-prices-are-surging-putting-further-pressure-on-europe-ukraine-is-only-part-of-the-story/a-79390992",
-      "urlToImage": "https://static.dw.com/image/79264448_6.jpg",
-      "publishedAt": "2026-09-28T10:35:00Z",
-      "content": "Even if you don't fill your own vehicle with diesel, its price has a big impact on your life.\r\nWhile gasoline\u00a0is mainly a consumer fuel for cars, diesel powers much of the wider economy, from freight\u2026 [+6296 chars]",
-      "cocom": "USEUCOM",
-      "_original_topic_id": "flagship-ir-il"
+      "_original_topic_id": "T01"
     },
     {
       "source": {
@@ -326,6 +311,141 @@
       "content": "European military experts are tracking urgent danger signs that suggest Vladimir Putin may be preparing for a direct escalation against the NATO alliance.\r\nWhat analysts are split over is whether the\u2026 [+7783 chars]",
       "cocom": "USEUCOM",
       "_original_topic_id": "T03"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "OilPrice.com"
+      },
+      "author": "Simon Watkins",
+      "title": "What\u2019s Putin\u2019s Secret Post-Election Strategy To Test NATO?",
+      "description": "The 2026 Russian legislative election to select all 450 seats of the State Duma (the lower house of parliament) ended on 20 September with President Vladimir Putin\u2019s United Russia party securing 57.83% of the vote. Given the State apparatus to ensure a positi\u2026",
+      "url": "https://oilprice.com/Energy/Energy-General/Whats-Putins-Secret-Post-Election-Strategy-To-Test-NATO.html",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-28_z7ekpmooxg.jpg",
+      "publishedAt": "2026-09-28T16:00:00Z",
+      "content": "Saudi Aramco has partially restarted\u2026\r\nRecord diesel prices are being\u2026\r\nUS Energy Secretary Chris Wright\u00a0has\u2026\r\nSet us as your preferred Google source\r\nBy Simon Watkins - Sep 28, 2026, 11:00 AM CDTThe\u2026 [+9448 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": "rt",
+        "name": "RT"
+      },
+      "author": "RT",
+      "title": "Ukraine admits failure to plug $27 bn defense gap",
+      "description": "Ukraine and its European backers have so far failed to cover a $27 billion defense hole, Prime Minister Sergey Koretsky said Read Full Article at RT.com",
+      "url": "https://www.rt.com/russia/646360-ukraine-admits-failure-plug-defense-hole/",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6aba60d985f5404849125ebf.jpg",
+      "publishedAt": "2026-09-28T13:45:03Z",
+      "content": "Ukraine and its Western backers still have not found a way to cover the unexpected $27 billion hole in this year\u2019s defense budget, Prime Minister Sergey Koretsky said. Despite the funding gap, Korets\u2026 [+2769 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T10"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNA"
+      },
+      "author": null,
+      "title": "Pope Leo urges concessions for peace as Ukraine war drags on",
+      "description": "METZ, France: Pope Leo said on Monday (Sep 28) that negotiators seeking to end war in Europe must be willing to sacrifice some positions to achieve peace, as efforts to end Russia's bloody war in Ukraine continue to fail.The first US pope, speaking to Europea\u2026",
+      "url": "https://www.channelnewsasia.com/world/pope-leo-urges-concessions-peace-ukraine-war-drags-6415531",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--co1c8Lku--/c_crop,h_449,w_799,x_1,y_42/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-28T101940Z_2_LYNXMPEM8R0PY_RTROPTP_3_POPE-FRANCE.JPG?itok=IWEKN_5d",
+      "publishedAt": "2026-09-28T13:43:13Z",
+      "content": "METZ, France: Pope Leo said on Monday (Sep 28) that negotiators seeking to end war in Europe must be willing to sacrifice some positions to achieve peace, as efforts to end Russia's bloody war in Ukr\u2026 [+3646 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T10"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Anthony Faiola, (c) 2026 , The Washington Post",
+      "title": "Pope Leo leans into statesman role, urging peace in an era of renewed war",
+      "description": "METZ, France - Pope Leo XIV capped a four-day trip to France in the intellectual birthplace of the European Union, heralding its success at \u201ctearing down walls that were dividing it\u201d and leaning into his role not only as spiritual leader of 1.4 billion Cathol\u2026",
+      "url": "https://www.yahoo.com/news/politics/articles/pope-leo-leans-statesman-role-112710984.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/415573c8194be2f8b7dbe0f7067f2e8db162c44f974c7de87f5fa028b1082021/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F8f330741-fa31-49db-a49f-50c59e1b1c02",
+      "publishedAt": "2026-09-28T12:46:03Z",
+      "content": "METZ, France - Pope Leo XIV capped a four-day trip to France in the intellectual birthplace of the European Union, heralding its success at \"tearing down walls that were dividing it\" and leaning into\u2026 [+8353 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T10"
+    },
+    {
+      "source": {
+        "id": "rt",
+        "name": "RT"
+      },
+      "author": "RT",
+      "title": "Moscow responds to Swiss neutrality referendum result",
+      "description": "Switzerland\u2019s rejection of tighter neutrality rules shows the country is no longer neutral, Russian diplomat Mikhail Ulyanov has said Read Full Article at RT.com",
+      "url": "https://www.rt.com/news/646361-moscow-responds-swiss-neutrality-referendum-result/",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6aba676e85f540333800c753.jpg",
+      "publishedAt": "2026-09-28T13:59:21Z",
+      "content": "Switzerland has shown that it is \u201cnot a neutral state anymore\u201d by rejecting a proposal to tighten the country\u2019s neutrality rules, Russia\u2019s Permanent Representative to International Organizations in V\u2026 [+2013 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T14"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hurriyet Daily News"
+      },
+      "author": "hurriyetdailynews.com",
+      "title": "EU debates need for NATO-style response to Russia \u2018hybrid attacks\u2019",
+      "description": "EU defense ministers on Sept. 28 discussed whether the bloc needs its own NATO-style emergency mechanism to bolster coordination against \u201chybrid attacks\u201d by Russia.",
+      "url": "https://www.hurriyetdailynews.com/eu-debates-need-for-nato-style-response-to-russia-hybrid-attacks-227455",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6aba3fc1ae3a7f6d1df74cb6.jpg",
+      "publishedAt": "2026-09-28T10:23:25Z",
+      "content": "BRUSSELS\r\nDefense ministers of the European Union member states gather at the EU jeadquarters in Brussels to discuss a NATO-style emergency mechanism. (AA Photo)\r\nEU defense ministers on Sept. 28 dis\u2026 [+2594 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T14"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNA"
+      },
+      "author": null,
+      "title": "EU debates need for NATO-style response to Russia 'hybrid attacks'",
+      "description": "BRUSSELS: EU defence ministers on Monday (Sep 28) discussed whether the bloc needs its own NATO-style emergency mechanism to bolster coordination against \"hybrid attacks\" by Russia.European governments say Moscow is stepping up a campaign of sabotage and inte\u2026",
+      "url": "https://www.channelnewsasia.com/world/eu-debates-need-nato-style-response-russia-hybrid-attacks-6414986",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--VLeSSLCG--/c_crop,h_562,w_1000,x_0,y_52/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/Poland_Russia_653_3.jpg?itok=fex4AdMO",
+      "publishedAt": "2026-09-28T09:24:18Z",
+      "content": "BRUSSELS: EU defence ministers on Monday (Sep 28) discussed whether the bloc needs its own NATO-style emergency mechanism to bolster coordination against \"hybrid attacks\" by Russia.\r\nEuropean governm\u2026 [+2164 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T14"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Punch"
+      },
+      "author": "Punch Newspapers",
+      "title": "EU defence ministers mull NATO-style mechanism against hybrid attacks",
+      "description": "EU defence ministers are discussing a new NATO-style emergency mechanism to improve coordination and response to a rising campaign of hybrid attacks from M\n\nRead More: https://punchng.com/eu-defence-ministers-mull-nato-style-mechanism-against-hybrid-attacks/",
+      "url": "https://punchng.com/eu-defence-ministers-mull-nato-style-mechanism-against-hybrid-attacks/",
+      "urlToImage": "https://punchng.com/wp-content/uploads/2026/08/EU-flag-held-big_1786384342.webp",
+      "publishedAt": "2026-09-28T08:54:11Z",
+      "content": "EU defence ministers on Monday discussed whether the bloc needs its own NATO-style emergency mechanism to bolster coordination against \u201chybrid attacks.\u201d\r\nEuropean governments say Moscow is stepping u\u2026 [+2138 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T14"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Henry Foy in Brussels",
+      "title": "EU countries consider Nato-style joint responses to Russian hybrid attacks",
+      "description": "Campaign this year has included drone attacks, bombs and arson, leading to calls for a stronger response",
+      "url": "https://www.irishtimes.com/world/europe/2026/09/28/eu-countries-consider-nato-style-joint-responses-to-russian-hybrid-attacks/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/HGWFKNMUP4X7WNV3EZEY3ZFREQ.jpg?smart=true&auth=6b315d8dbc086ebfff61e98f805b2f00b15ccea6c8758ecc60d2303a87348572&width=1200&height=630",
+      "publishedAt": "2026-09-28T06:33:08Z",
+      "content": "European capitals are debating new collective ways to respond to Russian acts of aggression below the level of an armed attack, as some fear existing mechanisms are failing to deter Moscows so-called\u2026 [+4441 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T14"
     },
     {
       "source": {
@@ -375,6 +495,21 @@
     {
       "source": {
         "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Will Stewart",
+      "title": "Russia stokes fears of World War Three warning Putin can destroy Europe in 'short nuclear war' as Kremlin raises spectre of 'Fourth Reich'",
+      "description": "Top Kremlin diplomat Sergei Lavrov accused Western leaders of pushing Mr Putin to war.",
+      "url": "https://www.dailymail.com/news/article-16163907/Russia-stokes-fears-World-War-Three-warning-Putin-destroy-Europe-short-nuclear-war-Kremlin-raises-spectre-Fourth-Reich.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/09/27/09/111497289-0-image-m-25_1790496051650.jpg",
+      "publishedAt": "2026-09-27T08:01:30Z",
+      "content": "Russia dramatically stoked World War Three fears by claiming Vladimir Putin could destroy Europe in a 'short war'.\r\nTop Kremlin diplomat Sergei Lavrov accused Western leaders of pushing Mr Putin to w\u2026 [+3778 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T14"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "The Local Germany"
       },
       "author": "AFP",
@@ -384,21 +519,6 @@
       "urlToImage": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20260926__C9A28NQ__v1__MidRes__FilesUkraineRussiaConflictWar.jpg@webp",
       "publishedAt": "2026-09-27T06:49:45Z",
       "content": "German Foreign Minister Johann Wadephul called on Moscow to \"abandon its dangerous path of escalation\" during a meeting with Russia's Sergei Lavrov at the UN on Saturday, a diplomat for Berlin said.\r\u2026 [+2354 chars]",
-      "cocom": "USEUCOM",
-      "_original_topic_id": "T14"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Standard"
-      },
-      "author": "AP",
-      "title": "Russia defies German calls to ease off its 'dangerous' escalation toward it",
-      "description": "Russia's top diplomat rejected German calls to ease off its \"dangerous path of escalation\" toward the country, instead accusing Germany of being Ukraine's main sponsor and seeking to be a leading military power in Europe.\n\"Does Berlin understand what this cou\u2026",
-      "url": "https://www.business-standard.com/world-news/russia-defies-german-calls-to-ease-off-its-dangerous-escalation-toward-it-126092700067_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-02/10/thumb/fitandfill/1200X628/1770731576-4144.jpg",
-      "publishedAt": "2026-09-27T02:38:41Z",
-      "content": "Russia's top diplomat rejected German calls to ease off its \"dangerous path of escalation\" toward the country, instead accusing Germany of being Ukraine's main sponsor and seeking to be a leading mil\u2026 [+5329 chars]",
       "cocom": "USEUCOM",
       "_original_topic_id": "T14"
     }

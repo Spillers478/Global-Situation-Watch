@@ -3,17 +3,171 @@
     {
       "source": {
         "id": null,
-        "name": "Biztoc.com"
+        "name": "Cisa.gov"
       },
-      "author": "euronews.com",
-      "title": "North Korean hackers suspected in \u20ac332.8m crypto heist as it leads global hacks",
-      "description": "North Korea, one of the world\u2019s most closed-off countries, has been linked to some of this year\u2019s largest cryptocurrency thefts. Proceeds from such attacks help fund its nuclear weapons and ballistic missile programmes, according to the US government.",
-      "url": "https://biztoc.com/x/79216ffda8568084",
-      "urlToImage": "https://biztoc.com/cdn/79216ffda8568084_s.webp",
-      "publishedAt": "2026-09-28T10:14:16Z",
-      "content": "North Korea, one of the worlds most closed-off countries, has been linked to some of this years largest cryptocurrency thefts. Proceeds from such attacks help fund its nuclear weapons and ballistic m\u2026 [+108 chars]",
-      "cocom": "USINDOPACOM",
-      "_original_topic_id": "T07"
+      "author": "CISA",
+      "title": "Vulnerability Summary for the Week of September 21, 2026",
+      "description": "High Vulnerabilities\r\n\n<table>\n\n<tr>\n<th>PrimaryVendor -- Product</th>\n<th>Description</th>\n<th>Published</th>\n<th>CVSS Score</th>\n<th>Source Info</th>\n</tr>\n\r\n\n\n<tr>\n<td>101gen--Automation Web Platform Notifications and OTP for WooCommerce, Advanced Country \u2026",
+      "url": "https://www.cisa.gov/news-events/bulletins/sb26-271",
+      "urlToImage": null,
+      "publishedAt": "2026-09-28T11:32:46Z",
+      "content": "The CISA Vulnerability Bulletin provides a summary of new vulnerabilities that have been recorded in the past week. In some cases, the vulnerabilities in the bulletin may not yet have assigned CVSS s\u2026 [+899 chars]",
+      "cocom": "Transregional",
+      "_original_topic_id": "T15"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kitploit.com"
+      },
+      "author": "Kitploit",
+      "title": "LazyOwn",
+      "description": "LazyOwn RedTeam/APT Framework is the first RedTeam Framework with an AI-powered C&C, featuring rootkits to conceal campaigns, undetectable malleable implants compatible with Windows/Linux/Mac OSX, and self-configuring backdoors. With its Web interface and pow\u2026",
+      "url": "https://kitploit.com/en/tools/github/grisuno/lazyown/",
+      "urlToImage": "https://assets.kitploit.com/production/public/tools/56369/bac4f80f9319199f9365a8398978b97e5aa90c36502cfb9bf30946b42f73fc19-social-v1.webp",
+      "publishedAt": "2026-09-28T19:38:18Z",
+      "content": "Skip to contentHacking, PenTest, and Cybersecurity Tools for Your Security Arsenal!\r\nKitploit is a directory of hacking, cybersecurity, and pentesting tools. Discover the latest project updates to fi\u2026 [+112400 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Ben Shimkus",
+      "title": "OpenAI staffer says he missed his sister's wedding to help with AI safety incidents",
+      "description": "An OpenAI agent-security staffer said he missed his sister's wedding to help respond to recent AI-security incidents.",
+      "url": "https://www.businessinsider.com/openai-missed-wedding-security-breach-hugging-face-2026-9#article",
+      "urlToImage": "https://i.insider.com/6abab385265e3f8e338f7ecb?width=1200&format=jpeg",
+      "publishedAt": "2026-09-28T19:31:51Z",
+      "content": "An OpenAI security staffer said the company has been caught off guard by the model's new powers.Smith Collection/Gado/Getty Images\r\n<ul><li>An OpenAI security staffer said he missed a family wedding \u2026 [+2792 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Hayden Field",
+      "title": "AI is supercharging hacking, and your local hospitals and banks aren\u2019t ready",
+      "description": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headquartered in Alabama, typically provided training, resources, and community to underserved and minority-owned businesses. \u2026",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299205/STK453_Privacy_D_CVirginia.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "publishedAt": "2026-09-28T18:25:22Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nAI is supercharging hacking, and your local hospitals and banks arent ready\r\nNew models are helping Big Tech shore up its cyber defenses. What about everyone els\u2026 [+13360 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "Associated Press",
+      "title": "OpenAI pauses training of latest AI models after agents probed US government sites in unexpected ways",
+      "description": "NEW YORK (AP) \u2014 OpenAI said it has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount. The decision to halt development came just hours after the company disclosed Friday that it was reviewing several incide\u2026",
+      "url": "https://freerepublic.com/focus/f-chat/4397164/posts",
+      "urlToImage": null,
+      "publishedAt": "2026-09-28T16:50:58Z",
+      "content": "Skip to comments.\r\nOpenAI pauses training of latest AI models after agents probed US government sites in unexpected waysAssociated Press ^\r\n | 09/28/26\r\n | BERNARD CONDON\r\nPosted on 09/28/2026 9:50:5\u2026 [+2324 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Sead Fadilpa\u0161i\u0107",
+      "title": "Citrix says two worrying NetScaler RCE zero-days exploited in attacks",
+      "description": "The company released a fix and urged organizations to patch up immediately.",
+      "url": "https://www.techradar.com/pro/security/citrix-says-two-worrying-netscaler-rce-zero-days-exploited-in-attacks",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/NGKiUcJVFBC8HkMp9dTo9a-1920-80.jpg",
+      "publishedAt": "2026-09-28T15:10:00Z",
+      "content": "<ul><li>Citrix patched two critical zero\u2011days (CVE\u20112026\u201188771, CVE\u20112026\u201188772) in NetScaler ADC/Gateway, both enabling remote code execution</li><li>Exploits already observed; CISA added flaws to KEV\u2026 [+4715 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Krebs on Security"
+      },
+      "author": "BrianKrebs",
+      "title": "Dutch Police Arrest \u2018Reformed\u2019 Hacker in Shiny Hunters Investigation",
+      "description": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters m\u2026",
+      "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
+      "urlToImage": null,
+      "publishedAt": "2026-09-28T15:08:57Z",
+      "content": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediat\u2026 [+11642 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Zack Whittaker",
+      "title": "FBI reportedly declares 'cyber security incident' after hackers steal agents' personal data | TechCrunch",
+      "description": "The bureau has not yet publicly confirmed a breach, but has told its agents that their personal information and Social Security numbers were exposed.",
+      "url": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/09/fbi-edgar-hoover-building-2288940613.jpg?resize=1200,800",
+      "publishedAt": "2026-09-28T14:54:41Z",
+      "content": "The Federal Bureau of Investigation has reportedly told its agents and support staff that their personal information was stolen in a recent cyberattack that targeted the bureau\u2019s job application port\u2026 [+3602 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Sead Fadilpa\u0161i\u0107",
+      "title": "Kiteworks tells users to shut down servers amid fears of 'imminent' cyberattack",
+      "description": "The police notified Kiteworks of apparently imminent attack, leading to the company reacting fast.",
+      "url": "https://www.techradar.com/pro/security/kiteworks-tells-users-to-shut-down-servers-amid-fears-of-imminent-cyberattack",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/x4SmwpYXk8yGgDmYCVeckL-2560-80.jpg",
+      "publishedAt": "2026-09-28T14:20:00Z",
+      "content": "<ul><li>Kiteworks warned customers of a \u201ccredible\u201d planned cyberattack, urging a nine\u2011hour precautionary shutdown</li><li>No breaches reported; advisory lifted Sept 27, systems restored, version 9.5.\u2026 [+5226 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "info@thehackernews.com (The Hacker News)",
+      "title": "\u26a1 Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
+      "description": "A domain used as harmless placeholder text showed up in roughly 1,700 repositories. Then somebody registered it and started serving malicious lures. That is the kind of week this was: forgotten assumptions turning into live attack surface.\n\nElsewhere, weak se\u2026",
+      "url": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4-eWVCAN2nvZGZrKlwm-wminZE56MzJ_bVRK6CJfdBw9TXU4yQy6t9T0hDi0hSOskE9Xs6M-KCVEbVvBuL2DLDkew97W2iobOPZa9zqEBeGPWBnW8cftdD1FwzBLz7CIGVhJb1FwnS-35B62Jqc331zNQ67hZP-V2jKBT7yUxUV4rn8jMr27QCommYp-j/s1700-nu-rw-lo-l85-e365/c-recap.jpg",
+      "publishedAt": "2026-09-28T14:00:53Z",
+      "content": "A domain used as harmless placeholder text showed up in roughly 1,700 repositories. Then somebody registered it and started serving malicious lures. That is the kind of week this was: forgotten assum\u2026 [+19048 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailyhunt.in"
+      },
+      "author": "Ndtv World",
+      "title": "As US Warns Of AI Risks, China Calls It 'Fear Marketing'",
+      "description": "As a debate over AI safety rages on, stakeholders, including Microsoft co-founder Bill Gates, have called for stricter regulations related to the development of advanced models.",
+      "url": "https://m.dailyhunt.in/news/india/english/ndtv+world-epaper-ndtvw/as+us+warns+of+ai+risks+china+calls+it+fear+marketing-newsid-n728453391",
+      "urlToImage": "https://assets-news-bcdn.dailyhunt.in/cmd/resize/1200x630_75/fetchdata20/images/d7/be/64/d7be644e0258c743cba7cdfa7bea0a49955b29cfbbbbf83c60505ce97b3fbf3b.webp",
+      "publishedAt": "2026-09-28T12:57:44Z",
+      "content": "But many in China, much like US President Donald Trump, don't buy it.\r\nCalls have been growing for the US and China to work together on AI safety. While US President Donald Trump has termed the fears\u2026 [+2410 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "info@thehackernews.com (The Hacker News)",
+      "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
+      "description": "Cybersecurity researchers have disclosed details of a new botnet malware called Carbonato that's targeting exposed Docker daemons to deploy an open-source artificial intelligence (AI) agent framework called Hermes Agent.\n\n\"The implant installs the framework u\u2026",
+      "url": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3O4ih8J3-A5sGh57xyYKMGbnSqaXbWhu2g9HBE_mG11gEdedMUmYyeeYpA9TnNPwRsB4t-5V9UTW54iOR0VNzyaaa0fWhOG4Oi46KwGvrrVQRdWIDS7GX6YxjaMrA6sF9RHWNyO8gBttCQ7Nc8LUmrhhH24jSp1lPDuhok9r3CfKxgGJRObZRqRTW-5Gf/s1700-nu-rw-lo-l85-e365/hermes-telegram.jpg",
+      "publishedAt": "2026-09-28T11:46:00Z",
+      "content": "Cybersecurity researchers have disclosed details of a new botnet malware called Carbonato that's targeting exposed Docker daemons to deploy an open-source artificial intelligence (AI) agent framework\u2026 [+6734 chars]",
+      "cocom": "Transregional"
     },
     {
       "source": {
@@ -55,6 +209,20 @@
       "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2025/07/08172050/netscaler-1500-red.webp",
       "publishedAt": "2026-09-28T09:51:32Z",
       "content": "Citrix has patched eight critical and high-severity vulnerabilities in NetScaler ADC and NetScaler Gateway, two of which (CVE-2026-88771, CVE-2026-88772) have been exploited in zero-day attacks to pl\u2026 [+4777 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kitploit.com"
+      },
+      "author": "Kitploit",
+      "title": "DFIR-Companion",
+      "description": "DFIR forensics companion server + capture extension",
+      "url": "https://kitploit.com/en/tools/github/hasamba/dfir-companion/",
+      "urlToImage": "https://assets.kitploit.com/production/public/tools/56345/a7ef0714537560d0e0f8f9eb8acef613d50c5328a3c17a0e3e2d3249051fbc38-social-v1.webp",
+      "publishedAt": "2026-09-28T09:35:07Z",
+      "content": "Skip to contentHacking, PenTest, and Cybersecurity Tools for Your Security Arsenal!\r\nKitploit is a directory of hacking, cybersecurity, and pentesting tools. Discover the latest project updates to fi\u2026 [+114663 chars]",
       "cocom": "Transregional"
     },
     {
@@ -153,95 +321,7 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2026/03/sam-altman-nervous-1200x675.jpg",
       "publishedAt": "2026-09-27T21:21:27Z",
       "content": "OpenAI has halted training of its latest AI models as reports of them \u201cgoing rogue\u201d stack upincluding a cyberattack on AI platform Hugging Face, other attacks on third parties originating from securi\u2026 [+3029 chars]",
-      "cocom": "Transregional"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wnd.com"
-      },
-      "author": "RealClearWire",
-      "title": "Refrigerators: The next battle frontier?",
-      "description": "'If a sophisticated adversary wanted to test its ability to disrupt the infrastructure supporting America's military without firing a shot, is this what it might look like?'",
-      "url": "https://www.wnd.com/2026/09/refrigerators-next-battle-frontier/",
-      "urlToImage": "https://www.wnd.com/wp-content/uploads/2026/09/refrigerators-home-appliances-unsplash-1200x630.jpg",
-      "publishedAt": "2026-09-27T17:40:22Z",
-      "content": "Refrigerators are probably the last thing anyone would consider a national security vulnerability, which is precisely why the unusual refrigeration failures at U.S. military commissaries deserve more\u2026 [+8187 chars]",
       "cocom": "USNORTHCOM"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tenable.com"
-      },
-      "author": "Satnam Narang",
-      "title": "Frequently asked questions about reported Citrix NetScaler zero-day vulnerabilities",
-      "description": "There are reportedly two unpatched zero-day Citrix NetScaler vulnerabilities capable of enabling remote code execution that have been actively exploited in the wild, with no patches available at this time.Key takeaways<ol><li>Reports indicate that there are t\u2026",
-      "url": "https://www.tenable.com/blog/frequently-asked-questions-about-reported-citrix-netscaler-zero-day-vulnerabilities",
-      "urlToImage": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/articles/citrix-netscaler-zero-days-reportedly-exploited-in-the-wild-september-2026.png?itok=8oJjoc3t",
-      "publishedAt": "2026-09-27T09:35:21Z",
-      "content": "There are reportedly two unpatched zero-day Citrix NetScaler vulnerabilities capable of enabling remote code execution that have been actively exploited in the wild, with no patches available at this\u2026 [+5654 chars]",
-      "cocom": "Transregional"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hurriyet Daily News"
-      },
-      "author": "hurriyetdailynews.com",
-      "title": "EU debates need for NATO-style response to Russia \u2018hybrid attacks\u2019",
-      "description": "EU defense ministers on Sept. 28 discussed whether the bloc needs its own NATO-style emergency mechanism to bolster coordination against \u201chybrid attacks\u201d by Russia.",
-      "url": "https://www.hurriyetdailynews.com/eu-debates-need-for-nato-style-response-to-russia-hybrid-attacks-227455",
-      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6aba3fc1ae3a7f6d1df74cb6.jpg",
-      "publishedAt": "2026-09-28T10:23:25Z",
-      "content": "BRUSSELS\r\nDefense ministers of the European Union member states gather at the EU jeadquarters in Brussels to discuss a NATO-style emergency mechanism. (AA Photo)\r\nEU defense ministers on Sept. 28 dis\u2026 [+2594 chars]",
-      "cocom": "USEUCOM",
-      "_original_topic_id": "T14"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNA"
-      },
-      "author": null,
-      "title": "EU debates need for NATO-style response to Russia 'hybrid attacks'",
-      "description": "BRUSSELS: EU defence ministers on Monday (Sep 28) discussed whether the bloc needs its own NATO-style emergency mechanism to bolster coordination against \"hybrid attacks\" by Russia.European governments say Moscow is stepping up a campaign of sabotage and inte\u2026",
-      "url": "https://www.channelnewsasia.com/world/eu-debates-need-nato-style-response-russia-hybrid-attacks-6414986",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--VLeSSLCG--/c_crop,h_562,w_1000,x_0,y_52/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/Poland_Russia_653_3.jpg?itok=fex4AdMO",
-      "publishedAt": "2026-09-28T09:24:18Z",
-      "content": "BRUSSELS: EU defence ministers on Monday (Sep 28) discussed whether the bloc needs its own NATO-style emergency mechanism to bolster coordination against \"hybrid attacks\" by Russia.\r\nEuropean governm\u2026 [+2164 chars]",
-      "cocom": "USEUCOM",
-      "_original_topic_id": "T14"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Punch"
-      },
-      "author": "Punch Newspapers",
-      "title": "EU defence ministers mull NATO-style mechanism against hybrid attacks",
-      "description": "EU defence ministers are discussing a new NATO-style emergency mechanism to improve coordination and response to a rising campaign of hybrid attacks from M\n\nRead More: https://punchng.com/eu-defence-ministers-mull-nato-style-mechanism-against-hybrid-attacks/",
-      "url": "https://punchng.com/eu-defence-ministers-mull-nato-style-mechanism-against-hybrid-attacks/",
-      "urlToImage": "https://punchng.com/wp-content/uploads/2026/08/EU-flag-held-big_1786384342.webp",
-      "publishedAt": "2026-09-28T08:54:11Z",
-      "content": "EU defence ministers on Monday discussed whether the bloc needs its own NATO-style emergency mechanism to bolster coordination against \u201chybrid attacks.\u201d\r\nEuropean governments say Moscow is stepping u\u2026 [+2138 chars]",
-      "cocom": "USEUCOM",
-      "_original_topic_id": "T14"
-    },
-    {
-      "source": {
-        "id": "the-irish-times",
-        "name": "The Irish Times"
-      },
-      "author": "Henry Foy in Brussels",
-      "title": "EU countries consider Nato-style joint responses to Russian hybrid attacks",
-      "description": "Campaign this year has included drone attacks, bombs and arson, leading to calls for a stronger response",
-      "url": "https://www.irishtimes.com/world/europe/2026/09/28/eu-countries-consider-nato-style-joint-responses-to-russian-hybrid-attacks/",
-      "urlToImage": "https://www.irishtimes.com/resizer/v2/HGWFKNMUP4X7WNV3EZEY3ZFREQ.jpg?smart=true&auth=6b315d8dbc086ebfff61e98f805b2f00b15ccea6c8758ecc60d2303a87348572&width=1200&height=630",
-      "publishedAt": "2026-09-28T06:33:08Z",
-      "content": "European capitals are debating new collective ways to respond to Russian acts of aggression below the level of an armed attack, as some fear existing mechanisms are failing to deter Moscows so-called\u2026 [+4441 chars]",
-      "cocom": "USEUCOM",
-      "_original_topic_id": "T14"
     }
   ]
 }

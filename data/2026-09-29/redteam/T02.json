@@ -3,30 +3,60 @@
     {
       "source": {
         "id": null,
-        "name": "Biztoc.com"
+        "name": "The Conversation Africa"
       },
-      "author": "youtube.com",
-      "title": "News Tells You What Happened. Drawing Shows You How It Felt | George Butler | TED",
-      "description": "What does a war look like when you sit still long enough to draw it? Reportage artist and TED Fellow George Butler sketches the people that the news passes by: a 99-year-old survivor of the Holodomor famine in Ukraine, a man gathering books blasted into a ros\u2026",
-      "url": "https://biztoc.com/x/a962cf5a41d2c10d",
-      "urlToImage": "https://biztoc.com/cdn/a962cf5a41d2c10d_s.webp",
-      "publishedAt": "2026-09-27T15:31:29Z",
-      "content": "What does a war look like when you sit still long enough to draw it? Reportage artist and TED Fellow George Butler sketches the people that the news passes by: a 99-year-old survivor of the Holodomor\u2026 [+145 chars]",
-      "cocom": "USEUCOM"
+      "author": "Gabriel Kanuti Ndimbo, Lecturer in Development Studies, University of Dar es Salaam, Chakupewa Joseph Mpambije, Senior Lecturer in Development Studies, University of Dar es Salaam",
+      "title": "Child malnutrition is one of Africa\u2019s biggest health challenges: food aid is only part of the solution",
+      "description": "A lack of food is not the only cause of malnutrition. Poverty, disease, poor sanitation, climate pressures and limited access to healthcare also shape it.",
+      "url": "https://theconversation.com/child-malnutrition-is-one-of-africas-biggest-health-challenges-food-aid-is-only-part-of-the-solution-291163",
+      "urlToImage": "https://images.theconversation.com/files/760797/original/file-20260918-70-z55v3w.jpg?ixlib=rb-4.1.1&rect=0%2C49%2C1094%2C547&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-09-28T13:47:25Z",
+      "content": "Malnutrition among children under five remains one of sub-Saharan Africa\u2019s most persistent public health challenges. Countries and development partners have introduced numerous nutrition programmes. \u2026 [+6374 chars]",
+      "cocom": "USAFRICOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "UNHCR sounds the alarm as 8.3 million risk losing their lifeline",
+      "description": "Continued severe funding cuts are pushing refugee support and protection structures towards breaking point in the world's main displacement situations, forcing UNHCR, the UN Refugee Agency, to scale back core programmes, leaving millions without the support t\u2026",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260928-unhcr01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-28T12:00:00Z",
+      "content": "UNHCR - United Nations High Commissioner for Refugees\r\nPress releases\r\n28 September 2026\r\nGENEVA -- Continued severe funding cuts are pushing refugee support and protection structures towards breakin\u2026 [+4135 chars]",
+      "cocom": "Transregional"
     },
     {
       "source": {
         "id": "al-jazeera-english",
         "name": "Al Jazeera English"
       },
-      "author": null,
-      "title": "Yemen\u2019s health system could collapse in some areas, minister warns",
-      "description": "Yemen's healthcare system may not be able to support the population as war strains resources, minister tells Al Jazeera.",
-      "url": "https://www.aljazeera.com/news/2026/9/27/yemens-health-system-could-collapse-in-some-areas-minister-warns",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab9157e01d4c-1790514558.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-09-27T14:07:55Z",
-      "content": "Some areas in Yemen could suffer from a complete loss of health services if a decline in funding continues, Yemens Minister of Public Health and Population Qasim Buhaibeh has told Al Jazeera.\r\nHe sai\u2026 [+2016 chars]",
-      "cocom": "USCENTCOM"
+      "author": "Al Jazeera Staff",
+      "title": "\u2018My hands are empty\u2019: Displaced Palestinians struggle to survive",
+      "description": "In Tulkarem and other West Bank cities, displaced Palestinians are being forced deeper into debt and poverty.",
+      "url": "https://www.aljazeera.com/features/2026/9/27/my-hands-are-empty-displaced-palestinians-struggle-to-survive",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/s1-1790406480.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-27T10:26:21Z",
+      "content": "Tulkarem, occupied West Bank Hakim Mari spends his days lying on a single bed, his disfigured leg raised. The windows of Maris dilapidated apartment, his latest temporary shelter, are covered with ol\u2026 [+10937 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T13"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Human Rights Watch"
+      },
+      "author": "Human Rights Watch",
+      "title": "Syria: Reconstruction Deals Lack Critical Rights Framework",
+      "description": "Click to expand Image\n \n\n\n\n \n \n \n\n \n \n \n \n A destroyed school in Ghadfa village, Idlib countryside, Syria.\n \u00a9 2026 Ali Haj Suleiman/Human Rights Watch \n \n \n\n\n \n(Amman) \u2013 The\u00a0Syrian transitional government is signing billions of dollars in reconstruction deals\u2026",
+      "url": "https://www.hrw.org/news/2026/09/27/syria-reconstruction-deals-lack-critical-rights-framework",
+      "urlToImage": "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2026/09/202609mena_syria_school_Ghadfa_0D7A1934.JPG?h=f9c36853&itok=QA6caa8l",
+      "publishedAt": "2026-09-27T04:00:00Z",
+      "content": "(Amman) The\u00a0Syrian transitional government is signing billions of dollars in reconstruction deals without a human rights framework that would ensure that rebuilding respects, protects, and fulfills t\u2026 [+23013 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T13"
     }
   ]
 }

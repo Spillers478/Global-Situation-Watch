@@ -1,7 +1,98 @@
 {
   "status": "ok",
-  "totalResults": 8,
+  "totalResults": 15,
   "articles": [
+    {
+      "source": {
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "author": "Ana Maria Constantin",
+      "title": "Red Queen Bio is using AI to design antibodies for future viruses, WSJ says",
+      "description": "Red Queen Bio, a biosecurity startup backed by OpenAI, has raised $36 million in total to design antibody drugs against viruses, including ones that AI systems could one day help create, The Wall Street Journal reported. The company is starting with antibodie\u2026",
+      "url": "https://thenextweb.com/news/red-queen-bio-ai-antibodies-openai-wsj",
+      "urlToImage": "https://media.thenextweb.com/2026/09/red-queen-bio-founders-hannu-rajaniemi-nikolai-eroshenko.jpg",
+      "publishedAt": "2026-09-28T17:44:43Z",
+      "content": "Red Queen Bio, a biosecurity startup backed by OpenAI, has raised $36 million in total to design antibody drugs against viruses, including ones that AI systems could one day help create, The Wall Str\u2026 [+1618 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Intercept"
+      },
+      "author": "Sam Biddle",
+      "title": "AI Almost Started a U.S.\u2013China War \u2014 and No One Seems to Cares",
+      "description": "The tech world is too busy dreaming up imaginary doomsday scenarios to focus on a very real one that flared up between nuclear powers.\nThe post AI Almost Started a U.S.\u2013China War \u2014 and No One Seems to Cares appeared first on The Intercept.",
+      "url": "https://theintercept.com/2026/09/28/ai-military-nuclear-war-doomsday/",
+      "urlToImage": "https://theintercept.com/wp-content/uploads/2026/09/AP26259482609914-e1790371958262.jpg?fit=6000%2C3000&w=1200&h=800",
+      "publishedAt": "2026-09-28T16:54:05Z",
+      "content": "The global tech industry, politicians at home and abroad, and international media coverage are transfixed by one question: Will rogue AI end humanity? Few seem to be asking this question of the Depar\u2026 [+14803 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Maitree Baral",
+      "title": "Delhi-NCR children with asthma, allergies at risk as weather patterns change",
+      "description": "Recent shifts in Delhi-NCR's weather patterns are leading to a rise in respiratory ailments among children. Experts report an uptick in asthma, allergic rhinitis, and persistent cough, attributed to various environmental factors. It is essential for parents t\u2026",
+      "url": "https://timesofindia.indiatimes.com/health/delhi-ncr-children-with-asthma-allergies-at-risk-as-weather-patterns-change/articleshow/134546746.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134546773,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-28T16:44:02Z",
+      "content": "<ul><li>News</li>\r\n<li>Health News</li>\r\n<li>Delhi-NCR children with asthma, allergies at risk as weather patterns change</li></ul>\r\nFollow Us On Social Media\r\nJust two plates for Virat Kohli: How An\u2026 [+1862 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "P.Naveen",
+      "title": "Bandhavgarh area cordoned off as elephant death sparks anthrax scare",
+      "description": "Bandhavgarh Tiger Reserve cordons off 1,500 sq m after a camp elephant\u2019s anthrax death; visitor entry banned for 3 years as elephants get vaccinated and monitored.",
+      "url": "https://timesofindia.indiatimes.com/city/bhopal/bandhavgarh-area-cordoned-off-as-elephant-death-sparks-anthrax-scare/articleshow/134545291.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134545290,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-28T14:22:30Z",
+      "content": "Follow Us On Social Media\r\nTIPRA Motha VC candidate shot, injured in TripuraIISER &amp; NIT-R make discovery for wound healing, cancer cureAnother child rape case registered against granite baron Vee\u2026 [+1522 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Isegoria.net"
+      },
+      "author": "Isegoria",
+      "title": "Any notes written down during briefings were confiscated by security guards",
+      "description": "Because the Russians\u2019 biological weapons program was a clear violation of the BWC treaty, Annie Jacobsen explains (in Biological War), the Soviets went to great lengths to disguise it: Igor Domaradskij was the first scientific director at Obolensk, and the fi\u2026",
+      "url": "https://www.isegoria.net/2026/09/any-notes-written-down-during-briefings-were-confiscated-by-security-guards/",
+      "urlToImage": null,
+      "publishedAt": "2026-09-28T14:21:03Z",
+      "content": "Because the Russians biological weapons program was a clear violation of the BWC treaty, Annie Jacobsen explains (in Biological War), the Soviets went to great lengths to disguise it: Igor Domaradski\u2026 [+1451 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Canan Karako\u00e7, Postdoctoral Scholar in Biological Sciences, Georgia Institute of Technology",
+      "title": "Hibernating bacteria can invade hospitals and survive outer space \u2013 but their high energy bill is a weakness that scientists can strike",
+      "description": "Bacteria make a survival gamble when they devote all their energy to forming spores. Evolution is quick to get rid of this function, and researchers did the accounting to understand why.",
+      "url": "https://theconversation.com/hibernating-bacteria-can-invade-hospitals-and-survive-outer-space-but-their-high-energy-bill-is-a-weakness-that-scientists-can-strike-289354",
+      "urlToImage": "https://images.theconversation.com/files/762153/original/file-20260924-60-gjjww2.jpg?ixlib=rb-4.1.1&rect=0%2C0%2C2776%2C1388&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-09-28T12:39:23Z",
+      "content": "_Bacillus subtilis_ produces near-indestructible spores. Doc. RNDr. Josef Reischig, CSc./Wikimedia Commons, CC BY-SA\r\nA spore is a bacterium\u2019s survival capsule: dried almost solid, wrapped in protein\u2026 [+7705 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Decider"
+      },
+      "author": "mliss1578",
+      "title": "From The Original Elizabeth Holmes Doc to \u2018Mommy Dead and Dearest\u2019: 10 Must-Watch True Crime Documentaries Streaming on HBO Max",
+      "description": "HBO sometimes tends to skew more towards \"journalism\" than \"sensationalism.\"",
+      "url": "https://decider.com/2026/09/28/best-true-crime-documentaries-on-hbo-max/",
+      "urlToImage": "https://decider.com/wp-content/uploads/2026/09/hbo-true-crime-docs.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-09-28T12:00:00Z",
+      "content": "In the apparently lucrative industry of true crime documentary films, HBO Max skews more journalistic integrity than exploitative sensationalism.\r\nThats why the genres HBO titles are more along the l\u2026 [+8423 chars]"
+    },
     {
       "source": {
         "id": null,

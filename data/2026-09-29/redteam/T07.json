@@ -2,32 +2,18 @@
   "articles": [
     {
       "source": {
-        "id": "rt",
-        "name": "RT"
-      },
-      "author": "RT",
-      "title": "West risks falling for Kiev\u2019s \u2018nuclear terrorism\u2019 \u2013 Moscow",
-      "description": "Ukraine\u2019s Western backers are ignoring attacks on Europe\u2019s largest nuclear plant and risk facing the consequences themselves, Russian diplomat Rodion Miroshnik says",
-      "url": "https://www.rt.com/russia/646349-nuclear-terrorism-ukraine-miroshnik/",
-      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6aba2e4b85f5404849125e8f.jpg",
-      "publishedAt": "2026-09-28T10:05:22Z",
-      "content": "The West risks becoming a victim of the very \u201cnuclear terrorism\u201d it enables by backing Ukraine, Russian Ambassador-at-Large Rodion Miroshnik has warned.\r\nMiroshnik, who oversees matters tied to Kiev\u2019\u2026 [+2817 chars]",
-      "cocom": "USEUCOM"
-    },
-    {
-      "source": {
         "id": null,
-        "name": "Dailymail.com"
+        "name": "Ibtimes.com.au"
       },
-      "author": "Will Stewart",
-      "title": "Russia stokes fears of World War Three warning Putin can destroy Europe in 'short nuclear war' as Kremlin raises spectre of 'Fourth Reich'",
-      "description": "Top Kremlin diplomat Sergei Lavrov accused Western leaders of pushing Mr Putin to war.",
-      "url": "https://www.dailymail.com/news/article-16163907/Russia-stokes-fears-World-War-Three-warning-Putin-destroy-Europe-short-nuclear-war-Kremlin-raises-spectre-Fourth-Reich.html",
-      "urlToImage": "https://i.dailymail.com/1s/2026/09/27/09/111497289-0-image-m-25_1790496051650.jpg",
-      "publishedAt": "2026-09-27T08:01:30Z",
-      "content": "Russia dramatically stoked World War Three fears by claiming Vladimir Putin could destroy Europe in a 'short war'.\r\nTop Kremlin diplomat Sergei Lavrov accused Western leaders of pushing Mr Putin to w\u2026 [+3778 chars]",
-      "cocom": "USEUCOM",
-      "_original_topic_id": "T14"
+      "author": "George Anton",
+      "title": "Bill Gates Says Global AI Framework May Be Harder Than Cold War Nuclear Talks and Is Not a Hoax",
+      "description": "Bill Gates said reaching a global agreement on artificial intelligence could be harder than Cold War nuclear arms talks, urging mandatory safeguards and rejecting claims that catastrophic AI risks are a hoax.",
+      "url": "https://www.ibtimes.com.au/bill-gates-global-ai-agreement-cold-war-nuclear-talks-1875963",
+      "urlToImage": "https://d.ibtimes.com.au/en/full/1891735/bill-gates-reveals-he-didnt-feel-successful-decades.jpg",
+      "publishedAt": "2026-09-28T09:12:41Z",
+      "content": "WASHINGTON \u2014 Bill Gates said Sunday that getting countries to agree on a global framework for artificial intelligence could be harder than Cold War talks that limited nuclear weapons, and he rejected\u2026 [+4957 chars]",
+      "cocom": "Transregional",
+      "_original_topic_id": "T12"
     }
   ]
 }

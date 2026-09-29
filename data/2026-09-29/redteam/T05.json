@@ -2,6 +2,51 @@
   "articles": [
     {
       "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Christian K. Caruzo",
+      "title": "Latin America's Communists Back Each Other at U.N. amid Conservative Wave",
+      "description": "Cuba and Nicaragua's communists utilized their platforms at the United Nations General Assembly over the weekend to support each other.\nThe post Latin America\u2019s Communists Back Each Other at U.N. amid Conservative Wave appeared first on Breitbart.",
+      "url": "https://www.breitbart.com/latin-america/2026/09/28/latin-americas-communists-back-each-other-u-n-amid-conservative-wave/",
+      "urlToImage": "https://media.breitbart.com/media/2026/09/Valdrack-Jaentschke-640x335.jpg",
+      "publishedAt": "2026-09-28T17:55:53Z",
+      "content": "The brutally repressive communist regimes of Cuba and Nicaragua utilized their platform at the United Nations General Assembly over the weekend to support each other omitting the ruling communists\u2019 r\u2026 [+4891 chars]",
+      "cocom": "USSOUTHCOM",
+      "_original_topic_id": "flagship-ru-ua"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Five men arrested in RAF Fairford incident released on police bail",
+      "description": "Police are exploring whether proxies or individuals working on behalf of a foreign state are involved.",
+      "url": "https://www.bbc.co.uk/news/articles/c6e9elmpvglno",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b523/live/4b9ddb40-bb6a-11f1-9ecf-8dd029790cef.jpg",
+      "publishedAt": "2026-09-28T19:16:26Z",
+      "content": "Assistant Commissioner Laurence Taylor, head of Counter Terrorism Policing, said on Monday afternoon that the three \"suspicious vehicles\" had been \"subject to extensive examination, with the support \u2026 [+2260 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "flagship-ir-il"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "'Ballot must replace the bullets', South Sudan tells General Assembly ahead of elections",
+      "description": "South Sudan remains committed to holding general elections in December to conclude its transition period, the country's Permanent Representative to the United Nations Cecilia Adout Majok Adeng, told the General Assembly on Monday, calling for all sanctions, i\u2026",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260928-unnews01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-28T12:00:00Z",
+      "content": "28 September 2026 - South Sudan remains committed to holding general elections in December to conclude its transition period, the country's Permanent Representative to the United Nations Cecilia Adou\u2026 [+2900 chars]",
+      "cocom": "USAFRICOM",
+      "_original_topic_id": "T02"
+    },
+    {
+      "source": {
         "id": "the-irish-times",
         "name": "The Irish Times"
       },
@@ -12,21 +57,79 @@
       "urlToImage": "https://www.irishtimes.com/resizer/v2/47MOVW6SFZEEPN6GJUJWNRCEKM.jpg?smart=true&auth=42b9355fb339657a114cc6a94400300ee681a7a64bd0f79868775852c74790b9&width=1200&height=630",
       "publishedAt": "2026-09-28T05:00:00Z",
       "content": "When rebels took power in Syria two years ago, Othman began to hunt for the man who had broken all his teeth. He could see his former captors face in his mind, knew the way his body moved as he meted\u2026 [+15935 chars]",
-      "cocom": "USCENTCOM"
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T03"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Svitlana Chernykh, Senior Lecturer, School of Politics & International Relations, Australian National University, Benjamin E. Goldsmith, Professor of Political Science, Australian National University, Sascha Nanlohy, Honorary Associate, School of Social and Political Sciences, University of Sydney; Australian National University",
+      "title": "Can we predict genocide by listening to what leaders say? Research finds common threads",
+      "description": "As mass atrocities continue worldwide, finding ways to spot warning signs earlier could help mitigate or prevent future catastrophe.",
+      "url": "https://theconversation.com/can-we-predict-genocide-by-listening-to-what-leaders-say-research-finds-common-threads-289042",
+      "urlToImage": "https://images.theconversation.com/files/761361/original/file-20260922-50-gbipv3.jpg?ixlib=rb-4.1.1&rect=0%2C259%2C2581%2C1290&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-09-28T19:42:10Z",
+      "content": "Serbian Communist Party leader Slobodan Milo\u0161evi\u0107 addresses a crowd in 1988. Patrick Hertzog/AFP via Getty Images\r\nOn the eve of the full-scale invasion of Ukraine on February 24 2022, Russian Presid\u2026 [+6983 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Christian K. Caruzo",
+      "title": "El Salvador at the U.N.: No Country Should Accept Collapse as Its Fate",
+      "description": "Foreign Minister of El Salvador Alexandra Hill Tinoco on Monday affirmed during her U.N. General Assembly speech that no country should be forced to accept collapse as its fate.\nThe post El Salvador at the U.N.: No Country Should Accept Collapse as Its Fate a\u2026",
+      "url": "https://www.breitbart.com/latin-america/2026/09/28/el-salvador-at-the-u-n-no-country-should-accept-collapse-as-its-fate/",
+      "urlToImage": "https://media.breitbart.com/media/2026/09/GettyImages-2297042385-640x335.png",
+      "publishedAt": "2026-09-28T19:06:52Z",
+      "content": "Foreign Minister of El Salvador Alexandra Hill Tinoco on Monday affirmed during her U.N. General Assembly speech that no country should be forced to accept collapse as its fate.\r\nThe minister emphasi\u2026 [+5068 chars]",
+      "cocom": "USSOUTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "yahoo news",
+      "title": "In run for Brazil's presidency, Flavio Bolsonaro tests staying power of father's legacy...",
+      "description": "By Luciana Magalhaes SAO PAULO, Sept 28 (Reuters) - From the bare-walled, 12-square-meter cell where he was serving a 27-year sentence for a failed coup plot...",
+      "url": "https://www.yahoo.com/news/politics/articles/run-brazils-presidency-flavio-bolsonaro-130125145.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/6d7cc82cc37cd73984e73374469c5a4f078f0dcd44ac604b8c0df5370d2f7be5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fbd930729ad9e4d0de17eb5d00d66b539.jpg",
+      "publishedAt": "2026-09-28T17:00:13Z",
+      "content": "By Luciana Magalhaes\r\nSAO PAULO, Sept 28 (Reuters) - From the bare-walled, 12-square-meter cell where he was serving a 27-year sentence for a failed coup plot, former Brazilian President Jair Bolsona\u2026 [+7590 chars]",
+      "cocom": "USSOUTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalresearch.ca"
+      },
+      "author": "Stephen Sefton",
+      "title": "Nicaragua, a True Democracy",
+      "description": "20 years ago, a few weeks before the decisive national elections in Nicaragua that year, 2006, the Swedish ambassador at the time gave an interview about her appreciation of the political situation in the country. \nDuring the conversation, the ambassador \u2026\nTh\u2026",
+      "url": "https://www.globalresearch.ca/nicaragua-true-democracy/5941984",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2026/07/daniel-ortega.jpeg",
+      "publishedAt": "2026-09-28T13:25:08Z",
+      "content": "20 years ago, a few weeks before the decisive national elections in Nicaragua that year, 2006, the Swedish ambassador at the time gave an interview about her appreciation of the political situation i\u2026 [+14301 chars]",
+      "cocom": "USSOUTHCOM"
     },
     {
       "source": {
         "id": null,
         "name": "The Diplomat"
       },
-      "author": "Mark Wright",
-      "title": "Another Lao Activist Vanishes in Thailand",
-      "description": "Khieo Lapchanh is the latest Lao exile to fall victim to the growing authoritarian collaboration between the Mekong region's governments.",
-      "url": "https://thediplomat.com/2026/09/another-lao-activist-vanishes-in-thailand/",
-      "urlToImage": "https://thediplomat.com/wp-content/uploads/2026/09/sizes/td-story-s-2/thediplomat_2026-09-28-120714.jpg",
-      "publishedAt": "2026-09-28T03:02:00Z",
-      "content": "In the early hours of September 15, Khieo Lapchanh, a 26-year-old Lao content creator, finished his shift at a restaurant in Thailand\u2019s Samut Sakhon province and vanished. The following day, he was d\u2026 [+14798 chars]",
-      "cocom": "USINDOPACOM"
+      "author": "Valbona Zeneli",
+      "title": "Europe\u2019s Read of the Trump-Xi Summit",
+      "description": "Decisions taken in Washington and Beijing increasingly shape European trade, technology, energy, and security.",
+      "url": "https://thediplomat.com/2026/09/europes-read-of-the-trump-xi-summit/",
+      "urlToImage": "https://thediplomat.com/wp-content/uploads/2026/09/sizes/td-story-s-2/thediplomat_2026-09-28-231559.jpg",
+      "publishedAt": "2026-09-28T14:09:00Z",
+      "content": "The summit between U.S. President Donald Trump and Chinese President Xi Jinping achieved one central objective:\u00a0stabilization. It did not resolve the China-U.S. rivalry but helped contain it, by rest\u2026 [+14173 chars]",
+      "cocom": "Transregional",
+      "_original_topic_id": "T07"
     },
     {
       "source": {
@@ -42,6 +145,51 @@
       "content": "Economy / September 28, 2026\r\nBetween a budget crisis and a cost-of-living squeeze, Macron is leaving a country feeling more insecure than everand ready to take to the streets.\r\nAd Policy\r\nFrench fis\u2026 [+12245 chars]",
       "cocom": "USEUCOM",
       "_original_topic_id": "T10"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Foreign Policy"
+      },
+      "author": "Van Jackson",
+      "title": "Trump\u2019s \u2018Greater North America\u2019 Is Fascist Geopolitics",
+      "description": "The administration\u2019s hemispheric vision has dangerous roots and dangerous implications.",
+      "url": "http://foreignpolicy.com/2026/09/28/trump-rubio-hegseth-greenland-cuba-north-america-fascism/",
+      "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2026/09/trump-rubio-hegseth-greenland-cuba-north-america-fascism-2264953697.jpg",
+      "publishedAt": "2026-09-28T13:23:11Z",
+      "content": "The year after fascist Italy forcibly seized Ethiopias capital, in 1937, Benito Mussolinis minister of national education said, A geographical revival is always correlated with a political revival. F\u2026 [+11111 chars]",
+      "cocom": "USNORTHCOM",
+      "_original_topic_id": "T13"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "'Ballot must replace the bullets', South Sudan tells General Assembly ahead of elections",
+      "description": "South Sudan remains committed to holding general elections in December to conclude its transition period, the country's Permanent Representative to the United Nations Cecilia Adout Majok Adeng, told the General Assembly on Monday, calling for all sanctions, i\u2026",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260928-unnews01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-09-28T12:00:00Z",
+      "content": "28 September 2026 - South Sudan remains committed to holding general elections in December to conclude its transition period, the country's Permanent Representative to the United Nations Cecilia Adou\u2026 [+2900 chars]",
+      "cocom": "USAFRICOM",
+      "_original_topic_id": "T13"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Archis Mohan",
+      "title": "Indian delegation reaches Islamabad for three-day SCO coordinators' meet",
+      "description": "National coordinators will discuss activities under Pakistan's SCO chairmanship and preparations for upcoming meetings ahead of the leaders' summit in August 2027",
+      "url": "https://www.business-standard.com/external-affairs-defence-security/news/indian-delegation-reaches-islamabad-for-three-day-sco-coordinators-meet-126092801270_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/28/thumb/fitandfill/1200X628/1790607031-7872.jpg",
+      "publishedAt": "2026-09-28T14:52:10Z",
+      "content": "National coordinators will discuss activities under Pakistan's SCO chairmanship and preparations for upcoming meetings ahead of the leaders' summit in August 2027\r\nIndia is expected to participate in\u2026 [+4541 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T14"
     }
   ]
 }
