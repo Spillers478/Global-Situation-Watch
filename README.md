@@ -41,9 +41,14 @@ Every day, a GitHub Actions workflow:
    contextually about -- `scripts/redteam.py`. Writes the vetted,
    tagged result to `data/<date>/redteam/`, plus a `_report.json` audit
    summary of what got kept/reassigned/discarded per topic.
-4. Sends the day's (now vetted) headlines to Claude (Haiku) in one
-   batched call to write a BLUF (Bottom-Line-Up-Front) overview plus a
-   short narrative summary for each topic -- `scripts/synthesize.py`.
+3b. Groups same-event articles and flags contradictions --
+   `scripts/dedupe_stories.py` -- then clusters and ranks every story
+   thread and diffs the day against the archive, writing an audit record
+   -- `scripts/rank_day.py` (see "How stories are ranked" below).
+4. Sends the day's ranked headlines to Claude (Haiku) in one batched call
+   to write a BLUF (Bottom-Line-Up-Front) built from the top developments
+   overall, plus a short narrative summary for each topic --
+   `scripts/synthesize.py`. (Runs after dedupe and ranking.)
 5. Renders a static briefing page to `docs/index.html`: a jump-to-topic
    nav bar (plain-language topic names, not internal codes), the BLUF up
    top, then each topic's AI summary with its supporting articles
@@ -236,6 +241,54 @@ page still builds without the BLUF and narrative summaries;
 failure only leaves that one topic's raw retrieval unfiltered/untagged
 (see above) -- the rest of the page is unaffected either way.
 
+## How stories are ranked and compared across days
+
+None of this calls an API; it is plain Python over data already in `data/`,
+and runs in about half a second per day.
+
+**Threads.** Articles about the same event are clustered (TF-IDF cosine,
+average-linkage; `dedupe_stories.py` groups seed it) into one *thread*. A
+thread that touches several topics (e.g. one Fairford bomber story that
+red-team filed under both military and nuclear) appears in full under its
+home topic and as a one-line cross-reference elsewhere, and counts once.
+
+**Score (0-100).** corroboration 30% (independent outlets, saturating at 6) +
+source quality 20% (`source_tiers.py`) + recency 15% (18 h half-life) +
+escalation language 25% (killed, strike, sanctions, mobilization, ...) +
+topic severity 10%. Aggregators add no corroboration, and copies of one
+AP/Reuters/AFP story count as a single source. Every section is sorted by
+this score; the BLUF is built from the top 5 developments overall, chosen so
+no two are the same storyline. The score and its five components are in
+`data/<date>/threads.json`, and each story's "why" is in the page's
+"How this page is ranked" footer.
+
+**No signal.** A topic with zero relevant stories renders as "No signal today"
+with the count of retrieved-but-filtered articles instead of headlines that
+do not belong. The red-team prompt now only assigns tripwire topics (nuclear,
+CBRN, etc.) to actual events or credible threats, not analogies or opinion.
+
+**What changed.** Today's threads are matched to earlier days' threads by
+content similarity (URLs barely repeat day to day) and labelled NEW /
+CONTINUING (day N) / RETURNING, plus GROWING when independent outlets rise
+by 2+ or escalation language sharpens. Category arrows compare a topic's
+ranked activity with its own mean over the previous days and only appear
+after 3 baseline days.
+
+**Limitations to keep in mind.**
+- Merging is lexical, so it is approximate. On a hand-labelled sample it was
+  about 95% precise, with a few false merges and some missed ones. It is
+  tuned to prefer leaving two stories apart over wrongly joining them.
+- The arrows measure *coverage*, not events. A quiet news day looks like
+  de-escalation and a busy one like escalation. "Faded" means "not in today's
+  coverage", not "resolved".
+- A fresh development in a long-running conflict can be labelled NEW, because
+  matching is per event, not per war.
+- Opinion, retrospectives and analysis are only partly penalized, so one can
+  still rank high on a slow day.
+- The thresholds were fitted on 2026-09-25..29. Re-check them with
+  `python -m unittest discover -s tests` after changing anything in
+  `threads.py`, and after a few weeks of new days.
+
 ## Known limitations
 
 - **Retrieval noise.** NewsAPI's `/everything` is a boolean keyword
@@ -419,7 +472,12 @@ scripts/fetch_news.py     pulls raw article JSON from NewsAPI, writes to data/<d
 scripts/fetch_newsdata.py pulls raw article JSON from newsdata.io, normalizes + merges into data/<date>/ (dedup by URL); raw payloads also kept in data/<date>/newsdata/
 scripts/redteam.py        Claude red-team pass: verifies relevance, reassigns topics, tags COCOM, writes data/<date>/redteam/
 scripts/synthesize.py     sends the day's (vetted) headlines to Claude for a BLUF + per-topic narrative, writes data/<date>/synthesis.json
+scripts/source_tiers.py   outlet -> quality tier table used for ranking (edit freely; unknown outlets rank as "unclassified", never dropped)
+scripts/threads.py        deterministic story clustering + importance score (no API calls); `python scripts/threads.py <date>` prints the ranking
+scripts/changes.py        diffs a day against earlier archived days: new / continuing / returning / growing / faded + category arrows
+scripts/rank_day.py       writes data/<date>/threads.json + changes.json (audit record of the above)
 scripts/build_brief.py    renders data/<date>/ (preferring data/<date>/redteam/) into docs/index.html
+tests/                    `python -m unittest discover -s tests` -- merge/no-merge regression cases, ranking, change detection
 .github/workflows/        daily scheduled run
 docs/                     published site (GitHub Pages source)
 data/                     raw daily snapshots (also serves as a running history/ledger)

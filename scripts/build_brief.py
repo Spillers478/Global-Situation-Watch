@@ -18,6 +18,17 @@ Any or all of these three layers can be missing (e.g. ANTHROPIC_API_KEY
 wasn't set, or dedupe_stories.py hasn't been added to the workflow yet)
 and this script still renders a full page, just without them.
 
+Story threads, ranking and change detection (threads.py, changes.py) are
+computed here, in-process and deterministically, from the same article
+files -- no extra pipeline step or API call is required. Sections list
+STORIES ranked by importance rather than raw articles in feed order; a story
+reported under several topics renders in full once (at its "home" topic) and
+as a one-line cross-reference elsewhere; the top of the page gets a
+"Top developments" block and a "Changes since <prior day>" block. If that
+computation ever fails, build_page() logs a warning and falls back to the
+previous flat, per-topic layout (render_section) so the daily publish never
+breaks on a ranking bug.
+
 Retrieval-level noise control (tighter queries, title-only matching,
 excluded domains) lives in topics.py / fetch_news.py -- see topics.py
 "Noise-control tools". This script's job is layout and presentation:
@@ -55,6 +66,9 @@ from datetime import datetime, timezone
 from pathlib import Path
 from html import escape
 
+import changes as C
+import source_tiers
+import threads as T
 from search_widget import PAGE_SEARCH_CSS, render_page_search_widget
 from topics import TIER1, TOPICS, TOPIC_SWEEP_ENABLED
 
@@ -340,13 +354,17 @@ def render_section(section_id, label, articles, badge=None, limit=None, narrativ
 
 def render_nav(nav_items):
     """A jump-to-topic bar so a 16-section page is a dashboard you scan,
-    not a wall you scroll. nav_items: list of (anchor_id, label, badge, count)."""
+    not a wall you scroll. nav_items: list of (anchor_id, label, badge, count)
+    or (anchor_id, label, badge, count, trend_html) -- the optional fifth item
+    is a small coverage-trend arrow (see trend_html)."""
     links = []
-    for anchor_id, label, badge, count in nav_items:
+    for item in nav_items:
+        anchor_id, label, badge, count = item[:4]
+        trend = item[4] if len(item) > 4 else ""
         badge_class = f" nav-{badge}" if badge else ""
         links.append(
             f'<a class="nav-link{badge_class}" href="#{escape(anchor_id)}">'
-            f'{escape(label)} <span class="nav-count">{count}</span></a>'
+            f'{escape(label)}{trend} <span class="nav-count">{count}</span></a>'
         )
     return f'<nav class="topic-nav">{"".join(links)}</nav>'
 
@@ -357,6 +375,349 @@ def load_synthesis(data_dir):
         return {"bluf": None, "topics": {}}
     with open(path) as f:
         return json.load(f)
+
+
+# ---------------------------------------------------------------------------
+# Thread-based rendering (see threads.py / changes.py)
+# ---------------------------------------------------------------------------
+_DAY_CACHE = {}
+
+
+def get_day(data_dir):
+    """(threads_result, changes_report) for this day, or None if ranking
+    failed. Memoized per process: build_page runs twice per build (live +
+    archive copy). Failures are logged and swallowed on purpose -- a ranking
+    bug must degrade the page to the old flat layout, never stop it
+    publishing. Change detection failing alone keeps the ranked threads."""
+    key = str(data_dir)
+    if key not in _DAY_CACHE:
+        try:
+            res = T.build_threads(data_dir)
+        except Exception as e:  # noqa: BLE001
+            print(f"WARNING: thread ranking failed for {data_dir.name}: {type(e).__name__}: {e} "
+                  f"-- rendering flat per-topic lists instead.", file=sys.stderr)
+            _DAY_CACHE[key] = None
+            return None
+        try:
+            rep = C.compute(data_dir.name, data_root=data_dir.parent, cur=res)
+        except Exception as e:  # noqa: BLE001
+            print(f"WARNING: change detection failed for {data_dir.name}: {type(e).__name__}: {e} "
+                  f"-- rendering without trend/new/growing markers.", file=sys.stderr)
+            rep = None
+        _DAY_CACHE[key] = (res, rep)
+    return _DAY_CACHE[key]
+
+
+def _thread_originals(res, thread):
+    """The raw article dicts of a thread, lead first (display order)."""
+    return [res["_records"][i]["article"] for i in thread["_ordered"]]
+
+
+def trend_html(cat):
+    """A small arrow for a category that is clearly above/below its own
+    recent average. 'flat' and 'not enough history' render nothing."""
+    if not cat or cat.get("arrow") not in ("up", "down"):
+        return ""
+    sym, word = ("▲", "up") if cat["arrow"] == "up" else ("▼", "down")
+    tip = (f"Coverage {word}: {cat['today']:.1f} vs {cat['baseline']:.1f} average over "
+           f"{cat['baseline_days']} prior days (a coverage trend, not a measure of events)")
+    return f'<span class="trend trend-{cat["arrow"]}" title="{escape(tip)}" aria-label="{escape(tip)}">{sym}</span>'
+
+
+def flags_html(thread, entry, labels, show_also=True):
+    flags = []
+    if entry:
+        st = entry["status"]
+        if st == "new":
+            flags.append('<span class="flag flag-new">New</span>')
+        elif st == "continuing":
+            flags.append(f'<span class="flag">Day {entry["streak"]}</span>')
+        elif st == "returning":
+            flags.append('<span class="flag">Returning</span>')
+        if entry.get("growing"):
+            flags.append('<span class="flag flag-grow">▲ Growing</span>')
+    others = [labels[t] for t in thread["topics"] if t != thread["home"] and t in labels]
+    if others and show_also:
+        flags.append(f'<span class="flag-also">also under: {escape(" · ".join(others))}</span>')
+    return "".join(flags)
+
+
+def render_thread(res, thread, entry, labels):
+    """One story in full: flags, lead article, other sources, contradictions."""
+    arts = _thread_originals(res, thread)
+    others_html = ""
+    if len(arts) > 1:
+        body = "\n".join(render_article(a) for a in arts[1:])
+        n = len(arts) - 1
+        others_html = f"""
+    <details class="other-sources">
+      <summary>+{n} other source{"s" if n != 1 else ""} on this story</summary>
+      {body}
+    </details>"""
+    flags = flags_html(thread, entry, labels)
+    flags_block = f'<div class="thread-flags">{flags}</div>' if flags else ""
+    contradiction_html = render_contradiction_box(thread.get("contradictions") or [])
+    return f"""
+    <div class="story-cluster" id="{escape(thread["id"])}" data-score="{thread["score"]}">
+      {flags_block}
+      {render_article(arts[0])}
+      {others_html}
+      {contradiction_html}
+    </div>"""
+
+
+def render_ref(res, thread, section_id, labels):
+    """One-line pointer for a story whose full card lives under another topic.
+    Shows THIS topic's own best article so the section still says what it
+    saw, and links to the full story."""
+    mine = [a for a in thread["articles"] if a["topic"] == section_id]
+    a = mine[0] if mine else thread["articles"][0]
+    home_label = labels.get(thread["home"], thread["home"])
+    return f"""
+    <div class="story-ref">
+      <a class="item-title" href="{escape(a.get("url") or "#")}" target="_blank" rel="noopener">{escape(a.get("title") or "(untitled)")}</a>
+      <div class="item-meta">{escape(a.get("source") or "Unknown source")} &middot; part of a larger story under
+        <a class="ref-link" href="#{escape(thread["id"])}">{escape(home_label)}</a>: {escape(thread.get("lead_title") or "")}</div>
+    </div>"""
+
+
+def no_signal_detail(data_dir, topic_id):
+    """Why a section is empty, from the red-team audit report: what was
+    retrieved and what happened to it. '' when there is nothing to say."""
+    path = data_dir / "redteam" / "_report.json"
+    try:
+        with open(path) as f:
+            t = (json.load(f).get("topics") or {}).get(topic_id)
+    except (OSError, ValueError):
+        return ""
+    if not t or not t.get("retrieved"):
+        return ""
+    bits = [f'{t["retrieved"]} article{"s" if t["retrieved"] != 1 else ""} retrieved']
+    if t.get("discarded"):
+        bits.append(f'{t["discarded"]} filtered out as not relevant')
+    if t.get("moved_out"):
+        bits.append(f'{t["moved_out"]} moved to a better-fitting topic')
+    return "; ".join(bits) + "."
+
+
+def render_thread_section(section_id, label, res, rep, data_dir, narrative=None, badge=None,
+                          preview_limit=None):
+    labels = res["labels"]
+    by_id = {t["id"]: t for t in res["threads"]}
+    sec = res["sections"].get(section_id) or {"home": [], "linked": []}
+    home = [by_id[i] for i in sec["home"]]
+    linked = [by_id[i] for i in sec["linked"]]
+    per_thread = (rep or {}).get("threads") or {}
+    cat = ((rep or {}).get("categories") or {}).get(section_id)
+
+    if not home and not linked:
+        # Quiet on purpose: no headline that matches a TV series, and no AI
+        # narrative describing noise -- just what was searched and filtered.
+        detail = no_signal_detail(data_dir, section_id)
+        detail_html = f' <span class="empty-detail">{escape(detail)}</span>' if detail else ""
+        body = f'<p class="empty">No signal today.{detail_html}</p>'
+        narrative = None
+    else:
+        def cards(items):
+            return "\n".join(render_thread(res, t, per_thread.get(t["id"]), labels) for t in items)
+
+        if preview_limit and len(home) > preview_limit:
+            visible, rest = home[:preview_limit], home[preview_limit:]
+            body = f"""{cards(visible)}
+    <details class="more">
+      <summary>Show {len(rest)} more stor{"y" if len(rest) == 1 else "ies"}</summary>
+      {cards(rest)}
+    </details>"""
+        else:
+            body = cards(home)
+        if linked:
+            refs = "\n".join(render_ref(res, t, section_id, labels) for t in linked)
+            body += f"""
+    <div class="refs"><div class="refs-label">Also reported here &mdash; full story elsewhere</div>{refs}</div>"""
+
+    badge_html = f'<span class="badge badge-{badge}">{escape(badge)}</span>' if badge else ""
+    narrative_html = f'<p class="narrative">{escape(narrative)}</p>' if narrative else ""
+    n = len(home)
+    count = f'{n} stor{"y" if n == 1 else "ies"}' + (f' <span class="count-linked">+{len(linked)} linked</span>' if linked else "")
+    return f"""
+  <section class="topic" id="{escape(section_id)}">
+    <h2>{escape(label)} {badge_html}{trend_html(cat)}<span class="count">{count}</span></h2>
+    {narrative_html}
+    {body}
+  </section>"""
+
+
+def render_top_developments(res, rep):
+    labels = res["labels"]
+    tops = sorted((t for t in res["threads"] if t.get("top_rank")), key=lambda t: t["top_rank"])
+    if not tops:
+        return ""
+    by_id = {t["id"]: t for t in res["threads"]}
+    per_thread = (rep or {}).get("threads") or {}
+    items = []
+    for t in tops:
+        lead = res["_records"][t["_ordered"][0]]["article"]
+        desc = (lead.get("description") or "").strip()
+        if len(desc) > 200:
+            desc = desc[:197].rsplit(" ", 1)[0] + "…"
+        others = [labels[k] for k in t["topics"] if k != t["home"] and k in labels]
+        meta = [f'{t["n_independent"]} independent source{"s" if t["n_independent"] != 1 else ""}',
+                escape(labels.get(t["home"], t["home"]))]
+        if others:
+            meta.append("also " + escape(", ".join(others)))
+        if t.get("related"):
+            r = len(t["related"])
+            meta.append(f"+{r} related thread{'s' if r != 1 else ''}")
+        rel_titles = "; ".join(by_id[i]["lead_title"] or "" for i in t["related"] if i in by_id)
+        rel_attr = f' title="{escape(rel_titles)}"' if rel_titles else ""
+        items.append(f"""
+      <li>
+        <div class="td-head">{flags_html(t, per_thread.get(t["id"]), labels, show_also=False)}
+          <a class="item-title" href="{escape(lead.get("url") or "#")}" target="_blank" rel="noopener">{escape(lead.get("title") or "(untitled)")}</a></div>
+        <p class="item-desc">{escape(desc)}</p>
+        <div class="item-meta"{rel_attr}>{" &middot; ".join(meta)} &middot; <a class="ref-link" href="#{escape(t["id"])}">full story</a></div>
+      </li>""")
+    return f"""
+  <section class="top-dev">
+    <h2>Top developments</h2>
+    <ol>{"".join(items)}
+    </ol>
+  </section>"""
+
+
+def render_changes(res, rep):
+    if not rep or not rep.get("compared_to"):
+        return ""
+    labels = res["labels"]
+    by_id = {t["id"]: t for t in res["threads"]}
+
+    def link(t):
+        lead = res["_records"][t["_ordered"][0]]["article"]
+        return (f'<li><a class="item-title" href="#{escape(t["id"])}">{escape(lead.get("title") or "")}</a>'
+                f' <span class="item-meta">{escape(labels.get(t["home"], t["home"]))}</span></li>')
+
+    new_top = [by_id[i] for i in rep["new"] if by_id[i]["rank"] <= 15][:5]
+    growing = [by_id[i] for i in rep["growing"]][:5]
+    faded = rep["faded"][:3]
+    ups = [labels[k] for k, c in rep["categories"].items() if c["arrow"] == "up"]
+    downs = [labels[k] for k, c in rep["categories"].items() if c["arrow"] == "down"]
+
+    groups = []
+    if new_top:
+        groups.append('<div class="chg-group"><h3>New in today\'s top 15</h3><ul>' + "".join(link(t) for t in new_top) + "</ul></div>")
+    if growing:
+        groups.append('<div class="chg-group"><h3>Growing</h3><ul>' + "".join(link(t) for t in growing) + "</ul></div>")
+    if faded:
+        rows = "".join(
+            f'<li><a class="item-title" href="{escape(f["url"] or "#")}" target="_blank" rel="noopener">{escape(f["title"] or "")}</a>'
+            f' <span class="item-meta">{escape(labels.get(f["home"], f["home"]))}</span></li>' for f in faded)
+        groups.append('<div class="chg-group"><h3>In yesterday\'s top, not in today\'s coverage</h3><ul>' + rows + "</ul></div>")
+    shifts = []
+    if ups:
+        shifts.append("▲ " + escape(", ".join(ups)))
+    if downs:
+        shifts.append("▼ " + escape(", ".join(downs)))
+    if shifts:
+        groups.append('<div class="chg-group"><h3>Coverage shifts vs. recent average</h3><p class="chg-shifts">' + "<br>".join(shifts) + "</p></div>")
+    if not groups:
+        return ""
+    gap = rep.get("gap_days") or 1
+    when = rep["compared_to"] + ("" if gap == 1 else f" &mdash; latest earlier day on record, {gap} days before")
+    return f"""
+  <section class="changes">
+    <h2>Changes since {when}</h2>
+    <div class="chg-grid">{"".join(groups)}</div>
+    <p class="chg-note">Compared on story text against the {rep["baseline_days"]} earlier day{"s" if rep["baseline_days"] != 1 else ""} on record.
+       &ldquo;New&rdquo; means no close match in those days &mdash; a fresh development in a long-running conflict can still read as new.
+       &ldquo;Not in today&rsquo;s coverage&rdquo; is not the same as resolved.</p>
+  </section>"""
+
+
+def render_method():
+    w = T.RANK_WEIGHTS
+    cats = "".join(
+        f"<li><b>{escape(k.replace('_', ' '))}</b> &middot; weight {v:g}</li>"
+        for k, v in source_tiers.TIER_WEIGHT.items())
+    return f"""
+  <details class="method">
+    <summary>How stories are ranked and compared</summary>
+    <p>Articles about the same event are grouped into one <b>story</b> by text similarity, across topics.
+       Each story is scored 0&ndash;100 from five parts: independent-source corroboration ({w["corroboration"]:.0%}),
+       source quality ({w["quality"]:.0%}), recency ({w["recency"]:.0%}), escalation and casualty language ({w["escalation"]:.0%}),
+       and the topic&rsquo;s severity ({w["severity"]:.0%}). Syndicated copies and republisher sites count as one source, not many.
+       Only stories whose best source is an established outlet or better can appear in Top developments.
+       Stories are never hidden for their source &mdash; they are ranked lower.</p>
+    <p>Source categories are functional, not political: <ul class="method-list">{cats}</ul></p>
+    <p>This is an automated heuristic. Grouping is approximate (occasionally two events are merged or one is split),
+       scores measure how much and how credibly something is being reported, not how true or important it ultimately is,
+       and trend arrows reflect news coverage volume, not events on the ground.</p>
+  </details>"""
+
+
+EXTRA_CSS = """
+  section.top-dev, section.changes {
+    background: var(--panel); border: 1px solid var(--border); border-radius: 6px;
+    padding: 1.1rem 1.5rem; margin: 1.25rem 0;
+  }
+  section.top-dev { border-left: 3px solid var(--accent); }
+  section.top-dev h2, section.changes h2 {
+    margin: 0 0 0.7rem; font-size: 0.75rem; letter-spacing: 0.08em;
+    color: var(--accent); text-transform: uppercase;
+  }
+  section.top-dev ol { margin: 0; padding-left: 1.2rem; }
+  section.top-dev li { margin-bottom: 0.95rem; }
+  section.top-dev li:last-child { margin-bottom: 0; }
+  .td-head { line-height: 1.5; }
+  .chg-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 1rem 1.5rem; }
+  .chg-group h3 { margin: 0 0 0.35rem; font-size: 0.75rem; color: var(--muted); font-weight: 600; }
+  .chg-group ul { margin: 0; padding-left: 1.1rem; font-size: 0.85rem; line-height: 1.45; }
+  .chg-group li { margin-bottom: 0.3rem; }
+  .chg-group a { color: var(--text); text-decoration: none; font-size: 0.85rem; font-weight: 500; }
+  .chg-group a:hover { color: var(--accent); }
+  .chg-shifts { margin: 0; font-size: 0.85rem; line-height: 1.6; }
+  .chg-note { margin: 0.9rem 0 0; font-size: 0.72rem; color: var(--muted); line-height: 1.45; }
+  .thread-flags { display: flex; flex-wrap: wrap; align-items: center; gap: 0.35rem; margin: 0 0 0.3rem; }
+  .td-head .flag, .td-head .flag-also { margin-right: 0.35rem; }
+  .flag {
+    font-size: 0.62rem; text-transform: uppercase; letter-spacing: 0.05em; font-weight: 600;
+    padding: 0.1rem 0.42rem; border-radius: 3px; border: 1px solid var(--border); color: var(--muted);
+  }
+  .flag-new { color: var(--accent); border-color: rgba(77,159,255,0.45); }
+  .flag-grow { color: #ffb454; border-color: rgba(255,180,84,0.45); }
+  .flag-also { font-size: 0.68rem; color: var(--muted); font-style: italic; }
+  .trend { font-size: 0.7rem; margin-left: 0.2rem; cursor: help; }
+  .trend-up { color: #ffb454; }
+  .trend-down { color: var(--muted); }
+  .count-linked { color: var(--muted); font-size: 0.72rem; margin-left: 0.3rem; }
+  .refs { margin-top: 0.4rem; padding-top: 0.7rem; border-top: 1px dashed var(--border); }
+  .refs-label { font-size: 0.66rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted); margin-bottom: 0.5rem; }
+  .story-ref { margin-bottom: 0.75rem; }
+  .story-ref .item-title { font-size: 0.88rem; font-weight: 500; }
+  .ref-link { color: var(--accent); text-decoration: none; }
+  .ref-link:hover { text-decoration: underline; }
+  .empty-detail { color: var(--muted); font-style: normal; }
+  details.method { margin: 2.5rem 0 0; border-top: 1px solid var(--border); padding-top: 1rem; }
+  details.method summary { cursor: pointer; color: var(--muted); font-size: 0.8rem; }
+  details.method p, details.method li { font-size: 0.8rem; color: var(--muted); line-height: 1.5; }
+  .method-list { columns: 2; margin: 0.3rem 0 0; padding-left: 1.1rem; }
+"""
+
+# Story cards inside a collapsed "Show N more" <details>, or the "+N other
+# sources" toggle, don't open themselves when a link jumps to them; this
+# opens every closed ancestor <details> of the jump target.
+EXTRA_JS = """
+(function() {
+  function openAncestors(id) {
+    var el = id ? document.getElementById(id) : null;
+    for (; el; el = el.parentElement) { if (el.tagName === "DETAILS") el.open = true; }
+    var t = id ? document.getElementById(id) : null;
+    if (t) t.scrollIntoView({block: "start"});
+  }
+  function onHash() { if (location.hash.length > 1) openAncestors(decodeURIComponent(location.hash.slice(1))); }
+  window.addEventListener("hashchange", onHash);
+  onHash();
+})();
+"""
 
 
 def build_page(date_str, data_dir, archive=False):
@@ -370,7 +731,21 @@ def build_page(date_str, data_dir, archive=False):
     bluf = synthesis.get("bluf")
 
     sections = []
-    nav_items = []  # (anchor_id, label, badge, count) -- drives the jump-to-topic bar
+    nav_items = []  # (anchor_id, label, badge, count[, trend]) -- drives the jump-to-topic bar
+
+    # Ranked stories + change markers (threads.py / changes.py). None means
+    # ranking failed and this page falls back to the flat per-topic layout.
+    day = get_day(data_dir)
+    res, rep = day if day else (None, None)
+    categories = (rep or {}).get("categories") or {}
+
+    def thread_section(tid, label, badge=None):
+        n_home = len((res["sections"].get(tid) or {}).get("home") or [])
+        sections.append(render_thread_section(
+            tid, label, res, rep, data_dir, narrative=topic_narratives.get(tid), badge=badge,
+            preview_limit=ARTICLE_PREVIEW_LIMIT,
+        ))
+        nav_items.append((tid, label, badge, n_home, trend_html(categories.get(tid))))
 
     # Tier 1 flagships get top billing -- no badge/color on these anymore
     # (Matt: drop the "FLAGSHIP" label entirely; position at the top of the
@@ -381,13 +756,16 @@ def build_page(date_str, data_dir, archive=False):
     # high-severity). Leaving TRIPWIRE as the only colored badge/pill makes
     # that distinction unambiguous instead of both looking like one tier.)
     for flagship in TIER1:
-        arts = rank_articles(dedupe(load_articles(data_dir, flagship["id"])))
-        sections.append(render_section(
-            flagship["id"], flagship["label"], arts,
-            narrative=topic_narratives.get(flagship["id"]), preview_limit=ARTICLE_PREVIEW_LIMIT,
-            dedup=load_dedup(data_dir, flagship["id"]),
-        ))
-        nav_items.append((flagship["id"], flagship["label"], None, len(arts)))
+        if res:
+            thread_section(flagship["id"], flagship["label"])
+        else:
+            arts = rank_articles(dedupe(load_articles(data_dir, flagship["id"])))
+            sections.append(render_section(
+                flagship["id"], flagship["label"], arts,
+                narrative=topic_narratives.get(flagship["id"]), preview_limit=ARTICLE_PREVIEW_LIMIT,
+                dedup=load_dedup(data_dir, flagship["id"]),
+            ))
+            nav_items.append((flagship["id"], flagship["label"], None, len(arts)))
         us_lens = rank_articles(dedupe(load_articles(data_dir, f"{flagship['id']}-us-lens")))
         if us_lens:
             sections.append(render_section(
@@ -401,14 +779,17 @@ def build_page(date_str, data_dir, archive=False):
     if TOPIC_SWEEP_ENABLED:
         ordered = sorted(TOPICS, key=lambda t: (t["tier"] != "tripwire", t["id"]))
         for topic in ordered:
-            arts = rank_articles(dedupe(load_articles(data_dir, topic["id"])))
             badge = "tripwire" if topic["tier"] == "tripwire" else None
-            sections.append(render_section(
-                topic["id"], topic["label"], arts, badge=badge,
-                narrative=topic_narratives.get(topic["id"]), preview_limit=ARTICLE_PREVIEW_LIMIT,
-                dedup=load_dedup(data_dir, topic["id"]),
-            ))
-            nav_items.append((topic["id"], topic["label"], badge, len(arts)))
+            if res:
+                thread_section(topic["id"], topic["label"], badge=badge)
+            else:
+                arts = rank_articles(dedupe(load_articles(data_dir, topic["id"])))
+                sections.append(render_section(
+                    topic["id"], topic["label"], arts, badge=badge,
+                    narrative=topic_narratives.get(topic["id"]), preview_limit=ARTICLE_PREVIEW_LIMIT,
+                    dedup=load_dedup(data_dir, topic["id"]),
+                ))
+                nav_items.append((topic["id"], topic["label"], badge, len(arts)))
 
     nav_html = render_nav(nav_items)
 
@@ -434,9 +815,15 @@ def build_page(date_str, data_dir, archive=False):
     else:
         links = '<a href="archive/index.html">Archive</a>'
 
+    topdev_html = render_top_developments(res, rep) if res else ""
+    changes_html = render_changes(res, rep) if res else ""
+    method_html = render_method() if res else ""
+
     return TEMPLATE.format(date=date_str, nav=nav_html, bluf=bluf_html,
+                           topdev=topdev_html, changes=changes_html, method=method_html,
                            sections="\n".join(sections), links=links,
-                           search_css=PAGE_SEARCH_CSS, search=render_page_search_widget())
+                           search_css=PAGE_SEARCH_CSS, search=render_page_search_widget(),
+                           extra_css=EXTRA_CSS, extra_js=EXTRA_JS)
 
 
 def main():
@@ -713,6 +1100,7 @@ TEMPLATE = """<!DOCTYPE html>
   #gsw-top-btn.visible {{ opacity: 1; transform: translateY(0); pointer-events: auto; }}
   #gsw-top-btn:hover {{ border-color: var(--accent); color: var(--accent); }}
 {search_css}
+{extra_css}
 </style>
 </head>
 <body>
@@ -724,7 +1112,10 @@ TEMPLATE = """<!DOCTYPE html>
 {nav}
 <main>
 {bluf}
+{topdev}
+{changes}
 {sections}
+{method}
 </main>
 <button id="gsw-top-btn" type="button" aria-label="Back to top">&uarr; Top</button>
 <script>
@@ -752,6 +1143,7 @@ TEMPLATE = """<!DOCTYPE html>
   }});
   toggleTopBtn();
 }})();
+{extra_js}
 </script>
 </body>
 </html>

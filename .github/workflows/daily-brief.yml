@@ -49,24 +49,37 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python scripts/redteam.py
 
-      - name: Generate BLUF + per-topic narrative synthesis
-        continue-on-error: true
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python scripts/synthesize.py
-
       # Groups same-event articles into one story ("+N other sources") and
       # flags narrow figures/attribution/outcome contradictions between
       # them -- see dedupe_stories.py. Runs after redteam.py so it works
       # from the same final, vetted article list build_brief.py will
       # render, not the raw pre-filter retrieval. An enhancement layer
-      # like the two above it: build_brief.py falls back to a flat,
+      # like the red team above it: build_brief.py falls back to a flat,
       # ungrouped list per topic when this step's output is missing.
       - name: Detect duplicate/contradictory reporting per topic
         continue-on-error: true
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python scripts/dedupe_stories.py
+
+      # Ranks every story thread (independent sources, source tier, recency,
+      # escalation language) and diffs today against the archive; writes
+      # data/<date>/threads.json + changes.json for audit. build_brief.py and
+      # synthesize.py recompute the same result in-process, so this step is
+      # purely a record -- it cannot change what gets published. It runs
+      # after dedupe_stories.py because the dedup groups seed the clustering.
+      - name: Rank stories + detect changes vs. archive (audit files)
+        continue-on-error: true
+        run: python scripts/rank_day.py
+
+      # Runs after dedupe + ranking so the BLUF is built from the day's
+      # top-ranked developments, not from feed order. If ranking fails,
+      # synthesize.py falls back to the old flat per-topic prompt.
+      - name: Generate BLUF + per-topic narrative synthesis
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/synthesize.py
 
       # Not continue-on-error: if the page itself can't be rendered there
       # is no brief to publish, and build_brief.py already degrades

@@ -20,6 +20,15 @@ Design note: this makes ONE batched API call covering every topic (BLUF
 keeps cost and latency down, and lets the BLUF be informed by everything
 else in a single pass. See README for the cost estimate at this volume.
 
+Ranked input: when threads.py can rank the day's stories (it is deterministic
+and needs no API), the prompt is built from STORIES ranked by importance
+instead of raw headlines in feed order. Each topic block lists that topic's
+stories best-first (a story reported under several topics appears once at its
+home topic and as a pointer elsewhere), and a TOP DEVELOPMENTS list is given
+to the model with the instruction to build the BLUF from it, in order. If
+ranking fails, the original flat prompt is used. A topic with no stories is
+told to return an empty summary rather than describing noise.
+
 Honesty note: even with the red team pass, this is model judgment, not
 verified fact. The prompt instructs the model to say so plainly when a
 topic's articles still look unrelated or too sparse to summarize, rather
@@ -75,7 +84,93 @@ def build_topic_block(topic_id, label, articles, extra=""):
     return "\n".join(lines)
 
 
+MAX_STORIES_PER_TOPIC = 8
+
+
+def ranked_day(data_dir):
+    """threads.build_threads() for this day, or None if it can't be built
+    (logged; the caller then falls back to the flat prompt)."""
+    try:
+        import threads as T
+        return T.build_threads(data_dir)
+    except Exception as e:  # noqa: BLE001
+        print(f"Ranking unavailable ({type(e).__name__}: {e}); using the flat headline prompt.", file=sys.stderr)
+        return None
+
+
+def _lead(res, thread):
+    return res["_records"][thread["_ordered"][0]]["article"]
+
+
+def build_ranked_topic_block(res, topic_id, label, extra=""):
+    lines = [f"### {topic_id} — {label}{extra}"]
+    by_id = {t["id"]: t for t in res["threads"]}
+    sec = res["sections"].get(topic_id) or {"home": [], "linked": []}
+    home = [by_id[i] for i in sec["home"]][:MAX_STORIES_PER_TOPIC]
+    linked = [by_id[i] for i in sec["linked"]][:4]
+    if not home and not linked:
+        lines.append("(no relevant stories today -- return an empty string for this topic)")
+        return "\n".join(lines)
+    for t in home:
+        a = _lead(res, t)
+        title = (a.get("title") or "").strip()
+        desc = (a.get("description") or "").strip()
+        src = f'{t["n_independent"]} source{"s" if t["n_independent"] != 1 else ""}'
+        lines.append(f"- [{src}] {title} :: {desc}")
+    for t in linked:
+        a = _lead(res, t)
+        lines.append(f'- [also covered under {res["labels"].get(t["home"], t["home"])}] {(a.get("title") or "").strip()}')
+    return "\n".join(lines)
+
+
+def build_top_developments(res):
+    tops = sorted((t for t in res["threads"] if t.get("top_rank")), key=lambda t: t["top_rank"])
+    lines = []
+    for t in tops:
+        a = _lead(res, t)
+        lines.append(f'{t["top_rank"]}. [{t["n_independent"]} independent sources; {res["labels"].get(t["home"], t["home"])}] '
+                     f'{(a.get("title") or "").strip()} :: {(a.get("description") or "").strip()}')
+    return "\n".join(lines)
+
+
 def build_prompt(data_dir):
+    res = ranked_day(data_dir)
+    if res is not None and res["threads"]:
+        return build_ranked_prompt(data_dir, res)
+    return build_flat_prompt(data_dir)
+
+
+def build_ranked_prompt(data_dir, res):
+    blocks = []
+    for flagship in TIER1:
+        blocks.append(build_ranked_topic_block(res, flagship["id"], flagship["label"], extra=" [FLAGSHIP]"))
+    for topic in TOPICS:
+        extra = " [TRIPWIRE]" if topic["tier"] == "tripwire" else ""
+        blocks.append(build_ranked_topic_block(res, topic["id"], topic["label"], extra=extra))
+    topic_ids = [t["id"] for t in TIER1] + [t["id"] for t in TOPICS]
+
+    return f"""You are drafting the written portion of a daily open-source geopolitical/military awareness brief, built from keyword-searched news (not a curated intelligence feed -- treat the input as noisy search results, not verified fact).
+
+The input has already been grouped into STORIES (one entry = one real-world event, with the number of independent outlets carrying it) and ranked by an automated importance score. Stories are listed best-first within each topic. FLAGSHIP topics are the two priority geographic flashpoints. TRIPWIRE topics are the highest-severity categories (nuclear, coup, bio/chem, hostage, cyber, embassy threats). A story that spans several topics is written out once, under its main topic, and appears elsewhere only as an "also covered under" pointer.
+
+TOP DEVELOPMENTS today, ranked by the automated score (highest first):
+{build_top_developments(res)}
+
+Stories by topic:
+{chr(10).join(blocks)}
+
+Write two things and return them as JSON, nothing else (no markdown fences, no commentary before or after). Write them in THIS order -- the second is built from the first and from TOP DEVELOPMENTS, not a separate pass over the raw headlines:
+
+1. "topics": an object mapping each topic id to a 2-3 sentence factual summary of that topic's stories, leading with its highest-ranked story. If a topic says there are no relevant stories, return an empty string "" for it -- do not describe noise or explain the absence. If its stories are too sparse or generic to summarize meaningfully, say so plainly in one sentence rather than inventing a coherent narrative. Cover every one of these topic ids: {", ".join(topic_ids)}
+
+2. "bluf": A Bottom-Line-Up-Front paragraph (6-10 sentences). Build it from the TOP DEVELOPMENTS list, in that order: one or two sentences for each, most important first, so the first sentence is the #1 development. Then, only if a topic summary in step 1 describes something genuinely notable that is NOT already covered -- a real escalation, a shift in posture or policy, a first-of-its-kind event -- add it at the end, at most two such items. Never pad, and never mention a topic just because it had articles. Be factual and grounded only in what is above -- do not speculate or add outside knowledge. Where a story is carried by a single outlet, say "reportedly" rather than stating it as established.
+
+Return exactly this JSON shape and nothing else, with "topics" first since it is written first:
+{{"topics": {{"flagship-ru-ua": "...", "...": "..."}}, "bluf": "..."}}
+"""
+
+
+def build_flat_prompt(data_dir):
     blocks = []
 
     for flagship in TIER1:

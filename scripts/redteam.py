@@ -208,6 +208,32 @@ _COCOM_LIST = (
 )
 
 
+def _tripwire_rule():
+    """Extra strictness for the high-severity alert categories (tier
+    "tripwire" in topics.py). The rest of this prompt is deliberately
+    recall-biased -- "when unsure, pick the closer topic rather than
+    discard" -- which is right for ordinary topics but wrong for a category
+    whose whole purpose is to signal that something happened. Observed
+    2026-09-29: a Bill Gates interview comparing AI safeguards to Cold War
+    nuclear arms talks was placed under Nuclear Weaponry / Attack, so that
+    alert category showed activity when there was none.
+
+    Built from topics.py so it stays correct if the tripwire set changes.
+    Never causes a discard by itself: it redirects an article that is
+    relevant but is not itself a tripwire event to the closest ordinary
+    topic."""
+    ids = ", ".join(f"{t['id']} ({t['label']})" for t in TOPICS if t.get("tier") == "tripwire")
+    return (
+        f"Tripwire topics ({ids}) are high-severity alert categories. Assign an article to one of "
+        "them ONLY if it reports an actual event, incident, credible threat or official statement "
+        "in that category. Do NOT assign it there because it mentions the theme in passing, uses it "
+        "as an analogy or comparison (e.g. AI policy likened to Cold War nuclear talks), is opinion "
+        "or a historical retrospective, is fiction or entertainment, or is a product or marketing "
+        "story. If such an article is still relevant to the taxonomy, choose the closest non-tripwire "
+        "topic instead of discarding it."
+    )
+
+
 def build_prompt(topic_id, indexed_arts, topic_defs):
     """One topic's articles (or one chunk of them) per call -- see module
     docstring for why. indexed_arts is [(index, article), ...] where index
@@ -239,6 +265,8 @@ Articles (format: <id> :: title :: description):
 {chr(10).join(lines)}
 
 Be conservative about discarding: only set "topic" to null when the article clearly has no genuine military/security/geopolitical relevance, not merely because it's a slow day for that specific topic. When genuinely unsure between two adjacent topics, pick the closer one rather than discarding.
+
+{_tripwire_rule()}
 
 Answer with exactly one line per article and nothing else -- no reasoning, no commentary, no markdown, no JSON. Each line is the article's id, the topic id (or a single "-" to discard), and the COCOM, separated by "|":
 
