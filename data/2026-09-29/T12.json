@@ -1,0 +1,331 @@
+{
+  "status": "ok",
+  "totalResults": 25,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Intomobile.com"
+      },
+      "author": "Dusan Belic",
+      "title": "Hackers are stealing AI accounts and selling them for 97% off \u2014 and it\u2019s getting worse",
+      "description": "Google's top threat analyst says LLM-hijacking is surging, and the economics are badly stacked against defenders",
+      "url": "https://www.intomobile.com/2026/09/28/hackers-are-stealing-ai-accounts-and-selling-them-for-97-off-and-its-getting-worse/",
+      "urlToImage": "https://www.intomobile.com/wp-content/uploads/2026/09/multisite_img_6aba4945d7f6f.jpeg",
+      "publishedAt": "2026-09-28T11:02:31Z",
+      "content": "Someone out there is selling access to Claude and ChatGPT on the dark web for 97% off retail. That\u2019s not a leaked promo code. That\u2019s stolen credentials, and according to Google\u2019s chief threat analyst\u2026 [+3605 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Storm-3168, Linked to JADEPUFFER, Abused Stolen Azure Identities",
+      "description": "Microsoft details Storm-3168, the JADEPUFFER-linked actor that used stolen service principals to delete Azure storage in minutes and harvest keys. Microsoft just published the first detailed look at what JADEPUFFER does inside Azure. Sysdig first spotted the \u2026",
+      "url": "https://securityaffairs.com/199905/cyber-crime/storm-3168-linked-to-jadepuffer-abused-stolen-azure-identities.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2026/09/image-77.png",
+      "publishedAt": "2026-09-28T10:46:05Z",
+      "content": "Storm-3168, Linked to JADEPUFFER, Abused Stolen Azure Identities\r\nMicrosoft just published the first detailed look at what JADEPUFFER does inside Azure. Sysdig first spotted the group\u2019s activity in J\u2026 [+7371 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "author": "GlobeNewswire",
+      "title": "Hudbay Enhances Gold Production Profile at Snow Lake, Extends Reserve Mine Life to 18 Years and Identifies Further Growth Potential from Resource Conversion and the Britannia Gold Project",
+      "description": "TORONTO, Sept. 28, 2026 (GLOBE NEWSWIRE) \u2014 Hudbay Minerals Inc. (\u201cHudbay\u201d or the \u201cCompany\u201d) (TSX, NYSE: HBM) today released an updated mine plan for its Snow Lake operations in Manitoba, Canada. All amounts are in U.S. dollars, unless otherwise noted. Snow La\u2026",
+      "url": "https://financialpost.com/globe-newswire/hudbay-enhances-gold-production-profile-at-snow-lake-extends-reserve-mine-life-to-18-years-and-identifies-further-growth-potential-from-resource-conversion-and-the-britannia-gold-project",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/09/figure-4-optimizing-processing-infrastructure-and-increasing.jpeg",
+      "publishedAt": "2026-09-28T10:04:22Z",
+      "content": "The risks, uncertainties, contingencies and other factors that may cause actual results to differ materially from those expressed or implied by the forward-looking information may include, but are no\u2026 [+6001 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Help Net Security"
+      },
+      "author": "Zeljka Zorz",
+      "title": "Citrix NetScaler RCE zero-days exploited globally for weeks (CVE-2026-88771, CVE-2026-88772)",
+      "description": "Citrix has patched eight critical and high-severity vulnerabilities in NetScaler ADC and NetScaler Gateway, two of which (CVE-2026-88771, CVE-2026-88772) have been exploited in zero-day attacks to plant webshells on compromised devices. Rumors about their exi\u2026",
+      "url": "https://www.helpnetsecurity.com/2026/09/28/citrix-netscaler-rce-zero-days-exploited-for-weeks-cve-2026-88771-cve-2026-88772/",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2025/07/08172050/netscaler-1500-red.webp",
+      "publishedAt": "2026-09-28T09:51:32Z",
+      "content": "Citrix has patched eight critical and high-severity vulnerabilities in NetScaler ADC and NetScaler Gateway, two of which (CVE-2026-88771, CVE-2026-88772) have been exploited in zero-day attacks to pl\u2026 [+4777 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kitploit.com"
+      },
+      "author": "Kitploit",
+      "title": "DFIR-Companion",
+      "description": "DFIR forensics companion server + capture extension",
+      "url": "https://kitploit.com/en/tools/github/hasamba/dfir-companion/",
+      "urlToImage": "https://assets.kitploit.com/production/public/tools/56345/a7ef0714537560d0e0f8f9eb8acef613d50c5328a3c17a0e3e2d3249051fbc38-social-v1.webp",
+      "publishedAt": "2026-09-28T09:35:07Z",
+      "content": "Skip to contentHacking, PenTest, and Cybersecurity Tools for Your Security Arsenal!\r\nKitploit is a directory of hacking, cybersecurity, and pentesting tools. Discover the latest project updates to fi\u2026 [+114663 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Malwarebytes.com"
+      },
+      "author": "Pieter Arntz",
+      "title": "FBI agents\u2019 blood tests and doctors\u2019 notes surface after breach",
+      "description": "A \u201cshellfish and banana allergy\u201d is among the details in medical records hackers showed reporters. They claim to hold records on thousands of FBI staff.",
+      "url": "https://www.malwarebytes.com/blog/data-breaches/2026/09/fbi-agents-blood-tests-and-doctors-notes-surface-after-breach",
+      "urlToImage": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2024/02/FBI_at_work.png",
+      "publishedAt": "2026-09-28T09:28:31Z",
+      "content": "BBC News reports it has seen samples of stolen FBI agents\u2019 medical examinations. The fitness-for-work reports identify FBI agents by name and address, and reveal even more personal details. They incl\u2026 [+3310 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ibtimes.com.au"
+      },
+      "author": "George Anton",
+      "title": "Bill Gates Says Global AI Framework May Be Harder Than Cold War Nuclear Talks and Is Not a Hoax",
+      "description": "Bill Gates said reaching a global agreement on artificial intelligence could be harder than Cold War nuclear arms talks, urging mandatory safeguards and rejecting claims that catastrophic AI risks are a hoax.",
+      "url": "https://www.ibtimes.com.au/bill-gates-global-ai-agreement-cold-war-nuclear-talks-1875963",
+      "urlToImage": "https://d.ibtimes.com.au/en/full/1891735/bill-gates-reveals-he-didnt-feel-successful-decades.jpg",
+      "publishedAt": "2026-09-28T09:12:41Z",
+      "content": "WASHINGTON \u2014 Bill Gates said Sunday that getting countries to agree on a global framework for artificial intelligence could be harder than Cold War talks that limited nuclear weapons, and he rejected\u2026 [+4957 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "info@thehackernews.com (The Hacker News)",
+      "title": "JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources",
+      "description": "The threat actor known as JADEPUFFER has been observed orchestrating destructive actions within a Microsoft Azure environment using compromised service principals.\n\nMicrosoft, which is tracking the activity under the name Storm-3168, has called it an evolutio\u2026",
+      "url": "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHYvL1hsEQjB3x7u-jNflFT0QK3a9IEFse8ghWqV9SxkawlFerAn8pzjfYgztccVleVlLzZcDlOSvu7gqJhHP_XLWL1lqZkeIVCifya8Ohinriqk_o-kpzzdtv4x7NinDhQgWbE9B7yJliuJPGZ2x0qh9jRgkWfyNyPexujdTWpLTbfe7MKRVQT1Z3BAQ9/s1700-nu-rw-lo-l85-e365/azure-ai.jpg",
+      "publishedAt": "2026-09-28T09:08:21Z",
+      "content": "The threat actor known as JADEPUFFER has been observed orchestrating destructive actions within a Microsoft Azure environment using compromised service principals.\r\nMicrosoft, which is tracking the a\u2026 [+5060 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Sergiu Gatlan",
+      "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
+      "description": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies over the weekend to secure their systems against attacks exploiting two critical Citrix NetScaler vulnerabilities. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/08/20/Citrix.jpg",
+      "publishedAt": "2026-09-28T06:24:19Z",
+      "content": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies over the weekend to secure their systems against attacks exploiting two critical Citrix NetScaler vuln\u2026 [+4115 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Edison Reed",
+      "title": "Refrigeration Failures at Military Commissaries Draw Scrutiny Over Infrastructure Security",
+      "description": "Multiple U.S. military commissaries experienced refrigeration failures within a short period, according to public accounts, raising questions about the security and resilience of the operational technology that supports everyday functions on American military\u2026",
+      "url": "https://www.naturalnews.com/2026-09-28-refrigeration-failures-at-military-commissaries-draw-scrutiny.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/military-commissaries-refrigeration-failures-infrastructure-security-4546-original.jpg",
+      "publishedAt": "2026-09-28T06:00:00Z",
+      "content": "Multiple U.S. military commissaries experienced refrigeration failures within a short period, according to public accounts, raising questions about the security and resilience of the operational tech\u2026 [+10052 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "AP",
+      "title": "OpenAI pauses training of latest models after agents probed US government sites in unexpected ways",
+      "description": "Separately, AI evaluator Transluce said agents that appeared to come from OpenAI tried unsuccessfully to hack into a Department of Education website, a detail that OpenAI has not confirmed.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-pauses-training-of-latest-models-after-agents-probed-us-government-sites-in-unexpected-ways/articleshow/134530903.cms",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-57376,resizemode-75,msid-134530903/tech/artificial-intelligence/openai-pauses-training-of-latest-models-after-agents-probed-us-government-sites-in-unexpected-ways.jpg",
+      "publishedAt": "2026-09-28T03:27:10Z",
+      "content": "OpenAI said it has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount.The decision to halt development came just hours after the company disclosed \u2026 [+2855 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "The Associated Press",
+      "title": "OpenAI pauses training of latest models after agents searched U.S. government sites in unexpected ways",
+      "description": "AI labs are facing pressure from lawmakers and tech experts to slow development so they can build guardrails to stop agents from acting on their own.",
+      "url": "https://www.nbcnews.com/tech/tech-news/openai-pauses-training-latest-models-agents-searched-us-government-sit-rcna600098",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260927-sam-altman-unga-ww-1431-9a5b8b.jpg",
+      "publishedAt": "2026-09-27T22:40:57Z",
+      "content": "OpenAI said it has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount.\r\nThe decision to halt development came just hours after the company disclose\u2026 [+3016 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Tom McKay",
+      "title": "OpenAI to Halt Training of Some Models",
+      "description": "OpenAI is facing a firestorm of criticism over incidents where its agents made unauthorized use of credentials, leaked data, and hacked websites.",
+      "url": "https://gizmodo.com/openai-to-halt-training-of-some-models-2000817912",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/03/sam-altman-nervous-1200x675.jpg",
+      "publishedAt": "2026-09-27T21:21:27Z",
+      "content": "OpenAI has halted training of its latest AI models as reports of them \u201cgoing rogue\u201d stack upincluding a cyberattack on AI platform Hugging Face, other attacks on third parties originating from securi\u2026 [+3029 chars]"
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Pam Key",
+      "title": "Bill Gates: We 'Need Law Enforcement and the Politicians' to Monitor AI",
+      "description": "Sunday on NBC\u2019s \"Meet the Press,\" Microsoft co-founder Bill Gates said we \"need law enforcement and the politicians\" to get into the discussion about safeguards and monitoring for artificial intelligence.\nThe post Bill Gates: We \u2018Need Law Enforcement and the \u2026",
+      "url": "https://www.breitbart.com/clips/2026/09/27/bill-gates-we-need-law-enforcement-and-the-politicians-to-monitor-ai/",
+      "urlToImage": "https://media.breitbart.com/media/2026/09/billgates456-640x335.jpg",
+      "publishedAt": "2026-09-27T18:21:34Z",
+      "content": "Sunday on NBC\u2019s \u201cMeet the Press,\u201d Microsoft co-founder Bill Gates said we \u201cneed law enforcement and the politicians\u201d to get into the discussion about safeguards and monitoring for artificial intellig\u2026 [+1540 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wnd.com"
+      },
+      "author": "RealClearWire",
+      "title": "Refrigerators: The next battle frontier?",
+      "description": "'If a sophisticated adversary wanted to test its ability to disrupt the infrastructure supporting America's military without firing a shot, is this what it might look like?'",
+      "url": "https://www.wnd.com/2026/09/refrigerators-next-battle-frontier/",
+      "urlToImage": "https://www.wnd.com/wp-content/uploads/2026/09/refrigerators-home-appliances-unsplash-1200x630.jpg",
+      "publishedAt": "2026-09-27T17:40:22Z",
+      "content": "Refrigerators are probably the last thing anyone would consider a national security vulnerability, which is precisely why the unusual refrigeration failures at U.S. military commissaries deserve more\u2026 [+8187 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KQED"
+      },
+      "author": "Samantha Kennedy",
+      "title": "OpenAI Pauses Training of Latest Models After Agents Probed Government Sites in Unexpected Ways",
+      "description": "It's the second time in three months the company paused development.",
+      "url": "https://www.kqed.org/news/12101526/openai-pauses-training-of-latest-models-after-agents-probed-government-sites-in-unexpected-ways",
+      "urlToImage": "https://cdn.kqed.org/wp-content/uploads/sites/10/2025/10/SamAltmanGetty.jpg",
+      "publishedAt": "2026-09-27T15:30:00Z",
+      "content": "San Francisco-based OpenAI said it has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount.\r\nThe decision to halt development came just hours after \u2026 [+1990 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "EditorDavid",
+      "title": "After Dozens of Incidents at OpenAI and Anthropic, OpenAI Pauses Model Training to Build More Safeguards",
+      "description": "\"OpenAI said it has paused training of its latest AI models,\" reports the Associated Press, \"as reports of AI agents going rogue mount.\"\n\nThe decision to halt development came just hours after the company disclosed Friday that it was reviewing several inciden\u2026",
+      "url": "https://slashdot.org/story/26/09/27/078251/after-dozens-of-incidents-at-openai-and-anthropic-openai-pauses-model-training-to-build-more-safeguards",
+      "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
+      "publishedAt": "2026-09-27T14:34:00Z",
+      "content": "\"OpenAI said it has paused training of its latest AI models,\" reports the Associated Press, \"as reports of AI agents going rogue mount.\"\r\nThe decision to halt development came just hours after the co\u2026 [+5290 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "OpenAI pauses training of latest models after AI agents probed U.S. government sites in unexpected ways",
+      "description": "OpenAI said it has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount.",
+      "url": "https://www.cbc.ca/news/business/openai-pause-training-after-probes-9.7360166",
+      "urlToImage": "https://i.cbc.ca/ais/c117d8df-6441-463b-b295-34b6e4d3711e,1790517059579/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C417%2C8015%2C4508%29%3BResize%3D620",
+      "publishedAt": "2026-09-27T14:16:04Z",
+      "content": "OpenAI said it has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount.\r\nThe decision to halt development came just hours after the company disclose\u2026 [+3207 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Security Affairs newsletter Round 597 by Pierluigi Paganini \u2013 INTERNATIONAL EDITION",
+      "description": "A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including international press. OpenAI Agent\u2026",
+      "url": "https://securityaffairs.com/199841/breaking-news/security-affairs-newsletter-round-597-by-pierluigi-paganini-international-edition.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2026/09/securityaffairs-newsletter.jpg",
+      "publishedAt": "2026-09-27T13:40:23Z",
+      "content": "Security Affairs newsletter Round 597 by Pierluigi Paganini INTERNATIONAL EDITION\r\nEnjoy a new round of the weekly SecurityAffairs newsletter, including international press.\r\nInternational Press News\u2026 [+3322 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Alexandra Marquez",
+      "title": "Bill Gates says getting countries to agree on AI regulations will be harder than Cold War-era nuclear negotiations",
+      "description": "Bill Gates called on the U.S. to lead in the global regulation of AI growth but warned agreeing on a global AI regulation could be \u201cmore difficult\u201d than Cold War-era nuclear negotiations.",
+      "url": "https://www.nbcnews.com/news/us-news/bill-gates-global-artificial-intelligence-regulations-nuclear-rcna599646",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260925-bill-gates-ch-1017-22a3cb.jpg",
+      "publishedAt": "2026-09-27T13:00:40Z",
+      "content": "Microsoft co-founder and billionaire philanthropist Bill Gates on Wednesday called on the U.S. to be a leader in the global regulation of artificial intelligence growth but warned that getting countr\u2026 [+8034 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Anders Hagstrom",
+      "title": "Gloucestershire Police arrests suspects near RAF Fairford airbase",
+      "description": "Multiple suspects were arrested under the Explosives Act near RAF Fairford, prompting evacuations as explosive ordnance disposal teams examined vehicles.",
+      "url": "https://www.foxnews.com/world/uk-police-arrest-explosive-suspects-near-us-airbase-key-iran-war",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/raf-fairford.jpg",
+      "publishedAt": "2026-09-27T11:47:27Z",
+      "content": "U.K. police say they arrested multiple suspects for offenses under the \"Explosives Act\" near a U.S. airbase in southwest England on Sunday.\r\nGloucestershire Police say the arrests took place just two\u2026 [+2257 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tenable.com"
+      },
+      "author": "Satnam Narang",
+      "title": "Frequently asked questions about reported Citrix NetScaler zero-day vulnerabilities",
+      "description": "There are reportedly two unpatched zero-day Citrix NetScaler vulnerabilities capable of enabling remote code execution that have been actively exploited in the wild, with no patches available at this time.Key takeaways<ol><li>Reports indicate that there are t\u2026",
+      "url": "https://www.tenable.com/blog/frequently-asked-questions-about-reported-citrix-netscaler-zero-day-vulnerabilities",
+      "urlToImage": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/articles/citrix-netscaler-zero-days-reportedly-exploited-in-the-wild-september-2026.png?itok=8oJjoc3t",
+      "publishedAt": "2026-09-27T09:35:21Z",
+      "content": "There are reportedly two unpatched zero-day Citrix NetScaler vulnerabilities capable of enabling remote code execution that have been actively exploited in the wild, with no patches available at this\u2026 [+5654 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Kyle Torpey",
+      "title": "A New Paper Claims Zcash-Style Privacy for Bitcoin, No Fork Required",
+      "description": "Shielded Bitcoin is the latest idea to improve privacy for the world's largest and most popular cryptocurrency.",
+      "url": "https://gizmodo.com/a-new-paper-claims-zcash-style-privacy-for-bitcoin-no-fork-required-2000817803",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/10/bitcoin_cryptocurrency_price-1200x675.jpg",
+      "publishedAt": "2026-09-27T09:30:08Z",
+      "content": "Alloc Init, a cryptography research shop that styles the name as [[alloc] init] on its website, published a paper Thursday that tries to put Zcash-style private transfers onto Bitcoin itself. Recipie\u2026 [+8356 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Online-tech-tips.com"
+      },
+      "author": "Aseem Kishore",
+      "title": "OpenAI Pauses AI Training After Sandbox Escape: What to Know",
+      "description": "OpenAI pauses AI training on its most capable models after a sandbox escape. Here's what happened, what it means for ChatGPT users, and who should care.\nThe post OpenAI Pauses AI Training After Sandbox Escape: What to Know first appeared on Online Tech Tips.",
+      "url": "https://www.online-tech-tips.com/openai-pauses-ai-training-sandbox-escape/#article",
+      "urlToImage": "https://www.online-tech-tips.com/wp-content/uploads/2026/09/openai-pauses-ai-training-sandbox-escape-featured.webp",
+      "publishedAt": "2026-09-27T05:12:31Z",
+      "content": "OpenAI has paused work on its most capable AI models, covering their training, evaluation, and any inference that uses tools, according to an incident report OpenAI published on September 25, 2026 an\u2026 [+10453 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WSOC Charlotte"
+      },
+      "author": "Bernard Condon",
+      "title": "OpenAI halts development of its latest models as evidence of agents going rogue mount",
+      "description": "OpenAI announced it has halted development of its latest artificial intelligence models hours after it disclosed its agents scouring federal government website acted in unexpected ways that suggest a lack of control",
+      "url": "https://www.wsoctv.com/news/business/openai-pauses/KI2B6RBWEA5WZP2LERTDMGJNUU/",
+      "urlToImage": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FE475Z3QSSE24NDB6YU3GYPSETA.jpg?auth=9e0c7f34bcb88734705b377c8ef27bc64d121520be5eab5eaff5f3e69c597102&width=1200&height=630&smart=true",
+      "publishedAt": "2026-09-27T00:16:59Z",
+      "content": "NEW YORK \u2014 OpenAI said it has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount.\r\nThe decision to halt development came just hours after the compa\u2026 [+3004 chars]"
+    }
+  ]
+}

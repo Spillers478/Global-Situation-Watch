@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "theglobeandmail.com",
+      "title": "Remote work is finally ending as the pandemic era fades",
+      "description": "John Turley-Ewart is a contributing columnist for The Globe and Mail, a regulatory compliance consultant and a Canadian banking historian.",
+      "url": "https://biztoc.com/x/6aa8b58147753c73",
+      "urlToImage": "https://biztoc.com/cdn/6aa8b58147753c73_s.webp",
+      "publishedAt": "2026-09-28T09:29:14Z",
+      "content": "John Turley-Ewart is a contributing columnist for The Globe and Mail, a regulatory compliance consultant and a Canadian banking historian.\r\nThis story appeared on theglobeandmail.com, 2026-09-28 09:0\u2026 [+4 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Claire Ellicot",
+      "title": "Surge in landfill tax blamed for fly-tip epidemic blighting Britain",
+      "description": "Landfill levies have increased from \u00a37 per tonne in 1996 to \u00a3126.15 in 2025 - yet revenues have roughly halved in real terms, a think-tank found.",
+      "url": "https://www.dailymail.com/news/article-16164975/Surge-landfill-tax-blamed-fly-tip-epidemic.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/09/27/22/111504371-0-image-m-65_1790544978151.jpg",
+      "publishedAt": "2026-09-27T21:37:04Z",
+      "content": "Soaring landfill taxes are driving record amounts of fly-tipping, a report warns.\r\nLandfill levies have increased from \u00a37 per tonne in 1996 to \u00a3126.15 in 2025 yet revenues have roughly halved in real\u2026 [+2488 chars]"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "youtube.com",
+      "title": "News Tells You What Happened. Drawing Shows You How It Felt | George Butler | TED",
+      "description": "What does a war look like when you sit still long enough to draw it? Reportage artist and TED Fellow George Butler sketches the people that the news passes by: a 99-year-old survivor of the Holodomor famine in Ukraine, a man gathering books blasted into a ros\u2026",
+      "url": "https://biztoc.com/x/a962cf5a41d2c10d",
+      "urlToImage": "https://biztoc.com/cdn/a962cf5a41d2c10d_s.webp",
+      "publishedAt": "2026-09-27T15:31:29Z",
+      "content": "What does a war look like when you sit still long enough to draw it? Reportage artist and TED Fellow George Butler sketches the people that the news passes by: a 99-year-old survivor of the Holodomor\u2026 [+145 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "Yemen\u2019s health system could collapse in some areas, minister warns",
+      "description": "Yemen's healthcare system may not be able to support the population as war strains resources, minister tells Al Jazeera.",
+      "url": "https://www.aljazeera.com/news/2026/9/27/yemens-health-system-could-collapse-in-some-areas-minister-warns",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab9157e01d4c-1790514558.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-27T14:07:55Z",
+      "content": "Some areas in Yemen could suffer from a complete loss of health services if a decline in funding continues, Yemens Minister of Public Health and Population Qasim Buhaibeh has told Al Jazeera.\r\nHe sai\u2026 [+2016 chars]",
+      "cocom": "USCENTCOM"
+    }
+  ]
+}

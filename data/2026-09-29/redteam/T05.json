@@ -1,0 +1,47 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Malaika Kanaaneh Tapper in Homs",
+      "title": "Justice or stability? Syria confronts the legacy of Assad",
+      "description": "Many citizens are desperate to see past crimes punished. Others worry about reigniting violence",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/09/28/justice-or-stability-syria-confronts-the-legacy-of-assad/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/47MOVW6SFZEEPN6GJUJWNRCEKM.jpg?smart=true&auth=42b9355fb339657a114cc6a94400300ee681a7a64bd0f79868775852c74790b9&width=1200&height=630",
+      "publishedAt": "2026-09-28T05:00:00Z",
+      "content": "When rebels took power in Syria two years ago, Othman began to hunt for the man who had broken all his teeth. He could see his former captors face in his mind, knew the way his body moved as he meted\u2026 [+15935 chars]",
+      "cocom": "USCENTCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Diplomat"
+      },
+      "author": "Mark Wright",
+      "title": "Another Lao Activist Vanishes in Thailand",
+      "description": "Khieo Lapchanh is the latest Lao exile to fall victim to the growing authoritarian collaboration between the Mekong region's governments.",
+      "url": "https://thediplomat.com/2026/09/another-lao-activist-vanishes-in-thailand/",
+      "urlToImage": "https://thediplomat.com/wp-content/uploads/2026/09/sizes/td-story-s-2/thediplomat_2026-09-28-120714.jpg",
+      "publishedAt": "2026-09-28T03:02:00Z",
+      "content": "In the early hours of September 15, Khieo Lapchanh, a 26-year-old Lao content creator, finished his shift at a restaurant in Thailand\u2019s Samut Sakhon province and vanished. The following day, he was d\u2026 [+14798 chars]",
+      "cocom": "USINDOPACOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thenation.com"
+      },
+      "author": "Harrison Stetler",
+      "title": "Emmanuel Macron\u2019s Turbulent Exit",
+      "description": "Harrison Stetler\n\n\n\nBetween a budget crisis and a cost-of-living squeeze, Macron is leaving a country feeling more insecure than ever\u2014and ready to take to the streets.\r\n\n\r\n\n\nThe post Emmanuel Macron\u2019s Turbulent Exit appeared first on The Nation.",
+      "url": "https://www.thenation.com/article/world/france-macron-fuel-prices-cost-of-living-crisis/",
+      "urlToImage": "https://www.thenation.com/wp-content/uploads/2026/09/french_fishermen.jpg",
+      "publishedAt": "2026-09-28T09:00:00Z",
+      "content": "Economy / September 28, 2026\r\nBetween a budget crisis and a cost-of-living squeeze, Macron is leaving a country feeling more insecure than everand ready to take to the streets.\r\nAd Policy\r\nFrench fis\u2026 [+12245 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T10"
+    }
+  ]
+}

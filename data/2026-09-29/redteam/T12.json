@@ -1,0 +1,247 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "euronews.com",
+      "title": "North Korean hackers suspected in \u20ac332.8m crypto heist as it leads global hacks",
+      "description": "North Korea, one of the world\u2019s most closed-off countries, has been linked to some of this year\u2019s largest cryptocurrency thefts. Proceeds from such attacks help fund its nuclear weapons and ballistic missile programmes, according to the US government.",
+      "url": "https://biztoc.com/x/79216ffda8568084",
+      "urlToImage": "https://biztoc.com/cdn/79216ffda8568084_s.webp",
+      "publishedAt": "2026-09-28T10:14:16Z",
+      "content": "North Korea, one of the worlds most closed-off countries, has been linked to some of this years largest cryptocurrency thefts. Proceeds from such attacks help fund its nuclear weapons and ballistic m\u2026 [+108 chars]",
+      "cocom": "USINDOPACOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Intomobile.com"
+      },
+      "author": "Dusan Belic",
+      "title": "Hackers are stealing AI accounts and selling them for 97% off \u2014 and it\u2019s getting worse",
+      "description": "Google's top threat analyst says LLM-hijacking is surging, and the economics are badly stacked against defenders",
+      "url": "https://www.intomobile.com/2026/09/28/hackers-are-stealing-ai-accounts-and-selling-them-for-97-off-and-its-getting-worse/",
+      "urlToImage": "https://www.intomobile.com/wp-content/uploads/2026/09/multisite_img_6aba4945d7f6f.jpeg",
+      "publishedAt": "2026-09-28T11:02:31Z",
+      "content": "Someone out there is selling access to Claude and ChatGPT on the dark web for 97% off retail. That\u2019s not a leaked promo code. That\u2019s stolen credentials, and according to Google\u2019s chief threat analyst\u2026 [+3605 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Storm-3168, Linked to JADEPUFFER, Abused Stolen Azure Identities",
+      "description": "Microsoft details Storm-3168, the JADEPUFFER-linked actor that used stolen service principals to delete Azure storage in minutes and harvest keys. Microsoft just published the first detailed look at what JADEPUFFER does inside Azure. Sysdig first spotted the \u2026",
+      "url": "https://securityaffairs.com/199905/cyber-crime/storm-3168-linked-to-jadepuffer-abused-stolen-azure-identities.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2026/09/image-77.png",
+      "publishedAt": "2026-09-28T10:46:05Z",
+      "content": "Storm-3168, Linked to JADEPUFFER, Abused Stolen Azure Identities\r\nMicrosoft just published the first detailed look at what JADEPUFFER does inside Azure. Sysdig first spotted the group\u2019s activity in J\u2026 [+7371 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Help Net Security"
+      },
+      "author": "Zeljka Zorz",
+      "title": "Citrix NetScaler RCE zero-days exploited globally for weeks (CVE-2026-88771, CVE-2026-88772)",
+      "description": "Citrix has patched eight critical and high-severity vulnerabilities in NetScaler ADC and NetScaler Gateway, two of which (CVE-2026-88771, CVE-2026-88772) have been exploited in zero-day attacks to plant webshells on compromised devices. Rumors about their exi\u2026",
+      "url": "https://www.helpnetsecurity.com/2026/09/28/citrix-netscaler-rce-zero-days-exploited-for-weeks-cve-2026-88771-cve-2026-88772/",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2025/07/08172050/netscaler-1500-red.webp",
+      "publishedAt": "2026-09-28T09:51:32Z",
+      "content": "Citrix has patched eight critical and high-severity vulnerabilities in NetScaler ADC and NetScaler Gateway, two of which (CVE-2026-88771, CVE-2026-88772) have been exploited in zero-day attacks to pl\u2026 [+4777 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Malwarebytes.com"
+      },
+      "author": "Pieter Arntz",
+      "title": "FBI agents\u2019 blood tests and doctors\u2019 notes surface after breach",
+      "description": "A \u201cshellfish and banana allergy\u201d is among the details in medical records hackers showed reporters. They claim to hold records on thousands of FBI staff.",
+      "url": "https://www.malwarebytes.com/blog/data-breaches/2026/09/fbi-agents-blood-tests-and-doctors-notes-surface-after-breach",
+      "urlToImage": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2024/02/FBI_at_work.png",
+      "publishedAt": "2026-09-28T09:28:31Z",
+      "content": "BBC News reports it has seen samples of stolen FBI agents\u2019 medical examinations. The fitness-for-work reports identify FBI agents by name and address, and reveal even more personal details. They incl\u2026 [+3310 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "info@thehackernews.com (The Hacker News)",
+      "title": "JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources",
+      "description": "The threat actor known as JADEPUFFER has been observed orchestrating destructive actions within a Microsoft Azure environment using compromised service principals.\n\nMicrosoft, which is tracking the activity under the name Storm-3168, has called it an evolutio\u2026",
+      "url": "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHYvL1hsEQjB3x7u-jNflFT0QK3a9IEFse8ghWqV9SxkawlFerAn8pzjfYgztccVleVlLzZcDlOSvu7gqJhHP_XLWL1lqZkeIVCifya8Ohinriqk_o-kpzzdtv4x7NinDhQgWbE9B7yJliuJPGZ2x0qh9jRgkWfyNyPexujdTWpLTbfe7MKRVQT1Z3BAQ9/s1700-nu-rw-lo-l85-e365/azure-ai.jpg",
+      "publishedAt": "2026-09-28T09:08:21Z",
+      "content": "The threat actor known as JADEPUFFER has been observed orchestrating destructive actions within a Microsoft Azure environment using compromised service principals.\r\nMicrosoft, which is tracking the a\u2026 [+5060 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Sergiu Gatlan",
+      "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
+      "description": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies over the weekend to secure their systems against attacks exploiting two critical Citrix NetScaler vulnerabilities. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/08/20/Citrix.jpg",
+      "publishedAt": "2026-09-28T06:24:19Z",
+      "content": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies over the weekend to secure their systems against attacks exploiting two critical Citrix NetScaler vuln\u2026 [+4115 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Edison Reed",
+      "title": "Refrigeration Failures at Military Commissaries Draw Scrutiny Over Infrastructure Security",
+      "description": "Multiple U.S. military commissaries experienced refrigeration failures within a short period, according to public accounts, raising questions about the security and resilience of the operational technology that supports everyday functions on American military\u2026",
+      "url": "https://www.naturalnews.com/2026-09-28-refrigeration-failures-at-military-commissaries-draw-scrutiny.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/military-commissaries-refrigeration-failures-infrastructure-security-4546-original.jpg",
+      "publishedAt": "2026-09-28T06:00:00Z",
+      "content": "Multiple U.S. military commissaries experienced refrigeration failures within a short period, according to public accounts, raising questions about the security and resilience of the operational tech\u2026 [+10052 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "AP",
+      "title": "OpenAI pauses training of latest models after agents probed US government sites in unexpected ways",
+      "description": "Separately, AI evaluator Transluce said agents that appeared to come from OpenAI tried unsuccessfully to hack into a Department of Education website, a detail that OpenAI has not confirmed.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-pauses-training-of-latest-models-after-agents-probed-us-government-sites-in-unexpected-ways/articleshow/134530903.cms",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-57376,resizemode-75,msid-134530903/tech/artificial-intelligence/openai-pauses-training-of-latest-models-after-agents-probed-us-government-sites-in-unexpected-ways.jpg",
+      "publishedAt": "2026-09-28T03:27:10Z",
+      "content": "OpenAI said it has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount.The decision to halt development came just hours after the company disclosed \u2026 [+2855 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "The Associated Press",
+      "title": "OpenAI pauses training of latest models after agents searched U.S. government sites in unexpected ways",
+      "description": "AI labs are facing pressure from lawmakers and tech experts to slow development so they can build guardrails to stop agents from acting on their own.",
+      "url": "https://www.nbcnews.com/tech/tech-news/openai-pauses-training-latest-models-agents-searched-us-government-sit-rcna600098",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260927-sam-altman-unga-ww-1431-9a5b8b.jpg",
+      "publishedAt": "2026-09-27T22:40:57Z",
+      "content": "OpenAI said it has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount.\r\nThe decision to halt development came just hours after the company disclose\u2026 [+3016 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Tom McKay",
+      "title": "OpenAI to Halt Training of Some Models",
+      "description": "OpenAI is facing a firestorm of criticism over incidents where its agents made unauthorized use of credentials, leaked data, and hacked websites.",
+      "url": "https://gizmodo.com/openai-to-halt-training-of-some-models-2000817912",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/03/sam-altman-nervous-1200x675.jpg",
+      "publishedAt": "2026-09-27T21:21:27Z",
+      "content": "OpenAI has halted training of its latest AI models as reports of them \u201cgoing rogue\u201d stack upincluding a cyberattack on AI platform Hugging Face, other attacks on third parties originating from securi\u2026 [+3029 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wnd.com"
+      },
+      "author": "RealClearWire",
+      "title": "Refrigerators: The next battle frontier?",
+      "description": "'If a sophisticated adversary wanted to test its ability to disrupt the infrastructure supporting America's military without firing a shot, is this what it might look like?'",
+      "url": "https://www.wnd.com/2026/09/refrigerators-next-battle-frontier/",
+      "urlToImage": "https://www.wnd.com/wp-content/uploads/2026/09/refrigerators-home-appliances-unsplash-1200x630.jpg",
+      "publishedAt": "2026-09-27T17:40:22Z",
+      "content": "Refrigerators are probably the last thing anyone would consider a national security vulnerability, which is precisely why the unusual refrigeration failures at U.S. military commissaries deserve more\u2026 [+8187 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tenable.com"
+      },
+      "author": "Satnam Narang",
+      "title": "Frequently asked questions about reported Citrix NetScaler zero-day vulnerabilities",
+      "description": "There are reportedly two unpatched zero-day Citrix NetScaler vulnerabilities capable of enabling remote code execution that have been actively exploited in the wild, with no patches available at this time.Key takeaways<ol><li>Reports indicate that there are t\u2026",
+      "url": "https://www.tenable.com/blog/frequently-asked-questions-about-reported-citrix-netscaler-zero-day-vulnerabilities",
+      "urlToImage": "https://www.tenable.com/sites/default/files/styles/640x360/public/images/articles/citrix-netscaler-zero-days-reportedly-exploited-in-the-wild-september-2026.png?itok=8oJjoc3t",
+      "publishedAt": "2026-09-27T09:35:21Z",
+      "content": "There are reportedly two unpatched zero-day Citrix NetScaler vulnerabilities capable of enabling remote code execution that have been actively exploited in the wild, with no patches available at this\u2026 [+5654 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hurriyet Daily News"
+      },
+      "author": "hurriyetdailynews.com",
+      "title": "EU debates need for NATO-style response to Russia \u2018hybrid attacks\u2019",
+      "description": "EU defense ministers on Sept. 28 discussed whether the bloc needs its own NATO-style emergency mechanism to bolster coordination against \u201chybrid attacks\u201d by Russia.",
+      "url": "https://www.hurriyetdailynews.com/eu-debates-need-for-nato-style-response-to-russia-hybrid-attacks-227455",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6aba3fc1ae3a7f6d1df74cb6.jpg",
+      "publishedAt": "2026-09-28T10:23:25Z",
+      "content": "BRUSSELS\r\nDefense ministers of the European Union member states gather at the EU jeadquarters in Brussels to discuss a NATO-style emergency mechanism. (AA Photo)\r\nEU defense ministers on Sept. 28 dis\u2026 [+2594 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T14"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNA"
+      },
+      "author": null,
+      "title": "EU debates need for NATO-style response to Russia 'hybrid attacks'",
+      "description": "BRUSSELS: EU defence ministers on Monday (Sep 28) discussed whether the bloc needs its own NATO-style emergency mechanism to bolster coordination against \"hybrid attacks\" by Russia.European governments say Moscow is stepping up a campaign of sabotage and inte\u2026",
+      "url": "https://www.channelnewsasia.com/world/eu-debates-need-nato-style-response-russia-hybrid-attacks-6414986",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--VLeSSLCG--/c_crop,h_562,w_1000,x_0,y_52/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/Poland_Russia_653_3.jpg?itok=fex4AdMO",
+      "publishedAt": "2026-09-28T09:24:18Z",
+      "content": "BRUSSELS: EU defence ministers on Monday (Sep 28) discussed whether the bloc needs its own NATO-style emergency mechanism to bolster coordination against \"hybrid attacks\" by Russia.\r\nEuropean governm\u2026 [+2164 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T14"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Punch"
+      },
+      "author": "Punch Newspapers",
+      "title": "EU defence ministers mull NATO-style mechanism against hybrid attacks",
+      "description": "EU defence ministers are discussing a new NATO-style emergency mechanism to improve coordination and response to a rising campaign of hybrid attacks from M\n\nRead More: https://punchng.com/eu-defence-ministers-mull-nato-style-mechanism-against-hybrid-attacks/",
+      "url": "https://punchng.com/eu-defence-ministers-mull-nato-style-mechanism-against-hybrid-attacks/",
+      "urlToImage": "https://punchng.com/wp-content/uploads/2026/08/EU-flag-held-big_1786384342.webp",
+      "publishedAt": "2026-09-28T08:54:11Z",
+      "content": "EU defence ministers on Monday discussed whether the bloc needs its own NATO-style emergency mechanism to bolster coordination against \u201chybrid attacks.\u201d\r\nEuropean governments say Moscow is stepping u\u2026 [+2138 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T14"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Henry Foy in Brussels",
+      "title": "EU countries consider Nato-style joint responses to Russian hybrid attacks",
+      "description": "Campaign this year has included drone attacks, bombs and arson, leading to calls for a stronger response",
+      "url": "https://www.irishtimes.com/world/europe/2026/09/28/eu-countries-consider-nato-style-joint-responses-to-russian-hybrid-attacks/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/HGWFKNMUP4X7WNV3EZEY3ZFREQ.jpg?smart=true&auth=6b315d8dbc086ebfff61e98f805b2f00b15ccea6c8758ecc60d2303a87348572&width=1200&height=630",
+      "publishedAt": "2026-09-28T06:33:08Z",
+      "content": "European capitals are debating new collective ways to respond to Russian acts of aggression below the level of an armed attack, as some fear existing mechanisms are failing to deter Moscows so-called\u2026 [+4441 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T14"
+    }
+  ]
+}

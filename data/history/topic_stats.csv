@@ -67,3 +67,19 @@ date,topic_id,topic_label,retrieved,kept_here,moved_out,discarded,unclassified,d
 2026-09-28,T12,Large-Scale Cyber Attack / Internet Blackout,25,20,1,4,0,21,1,ok
 2026-09-28,T13,Migration / Refugee Crisis,23,5,9,9,0,8,1,ok
 2026-09-28,T14,Threats to US Embassies / Diplomats,25,2,20,3,0,2,1,ok
+2026-09-29,flagship-ru-ua,Russia / Ukraine,25,18,2,5,0,25,1,ok
+2026-09-29,flagship-ir-il,Iran / Israel / Middle East,25,12,3,10,0,36,1,ok
+2026-09-29,flagship-ir-il-us-lens,Iran / Israel / Middle East — US Media Lens,2,,,,,2,0,not_run
+2026-09-29,T15,Disaster / Access Denial,3,2,0,1,0,5,1,ok
+2026-09-29,T01,Military Conflict,9,6,2,1,0,7,1,ok
+2026-09-29,T02,Humanitarian Crisis,25,2,7,16,0,2,1,ok
+2026-09-29,T03,Bio/Chemical Attack,8,1,2,5,0,1,1,ok
+2026-09-29,T04,Infectious Outbreak / Pandemic,2,0,0,2,0,0,1,ok
+2026-09-29,T05,Political Instability / Coup Risk,25,2,3,20,0,3,1,ok
+2026-09-29,T07,Nuclear Weaponry / Attack,25,1,7,17,0,2,1,ok
+2026-09-29,T08,VEO / Regional Insecurity,6,0,6,0,0,10,1,ok
+2026-09-29,T10,Military Modernization,20,9,4,7,0,11,1,ok
+2026-09-29,T11,Military Exercise,1,1,0,0,0,1,1,ok
+2026-09-29,T12,Large-Scale Cyber Attack / Internet Blackout,25,12,1,12,0,17,1,ok
+2026-09-29,T13,Migration / Refugee Crisis,13,1,7,5,0,2,1,ok
+2026-09-29,T14,Threats to US Embassies / Diplomats,23,1,17,5,0,1,1,ok

@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Kayla Hayempour",
+      "title": "U.S. Marines injured in Iran attack and Taylor Swift sets VMAs record: Morning Rundown - NBC News",
+      "description": "U.S.",
+      "url": "https://www.nbcnews.com/news/us-news/us-marines-injured-iran-attack-taylor-swift-sets-vmas-record-morning-r-rcna600050",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260927-mtv-vma-taylor-swift-ww-1707-b09bea.jpg",
+      "publishedAt": "2026-09-28T11:03:49Z",
+      "content": "U.S. Marines were injured in an Iranian attack that the Pentagon did not disclose. Right-wing conservatives push to drop the D.C. pipe bomb case. And the star quarterback whos losing his luster. \r\nHe\u2026 [+6859 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Duarte  Dias",
+      "title": "Live Updates: Iran says Trump must choose war or diplomacy as talks expected to resume this week - cbsnews.com",
+      "description": "As the war with Iran hits the 7-month mark, Trump tells Axios he expects talks to resume despite neither side signaling willingness to change demands.",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-strait-of-hormuz/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/28/8650d82a-f9ec-4511-bfb0-d2cf0fc15f78/thumbnail/1200x630/f0731decdfdc6b26eb029f8eef693777/gettyimages-2296954351.jpg",
+      "publishedAt": "2026-09-28T09:21:15Z",
+      "content": "epublican Sen. John Kennedy of Louisiana said Iran's proposed plan to reopen the Strait of Hormuz and restart talks was \"not a serious offer.\"\r\n\"The president's not Bambi's baby brother. He turned it\u2026 [+544 chars]"
+    }
+  ]
+}

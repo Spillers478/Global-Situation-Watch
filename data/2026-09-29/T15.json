@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Rashmi Drolia",
+      "title": "Chhattisgarh floods: IAF rescues 12 stranded on hut roof as Indravati rises above danger mark; watch",
+      "description": "Twelve individuals, including women and children, were rescued from flooding in Bastar by the Indian Air Force. The Indravati river had risen significantly, prompting the evacuation of over 1,000 residents to relief camps. A helicopter crew located the strand\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/raipur/chhattisgarh-floods-iaf-rescues-12-stranded-on-hut-roof-as-indravati-rises-above-danger-mark-watch/articleshow/134533891.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134534492,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-28T06:40:44Z",
+      "content": "<ul><li>News</li>\r\n<li>City News</li>\r\n<li>raipur News</li>\r\n<li>Chhattisgarh floods: IAF rescues 12 stranded on hut roof as Indravati rises above danger mark; watch</li></ul>\r\nFollow Us On Social Me\u2026 [+119 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "AMY TAXIN",
+      "title": "Sea level rise is reshaping a California beach town and threatening a key rail line",
+      "description": "SAN CLEMENTE, Calif. (AP) \u2014 For years, residents of this Southern California beach town could walk a mile along a stretch of cream-colored sand and dip their toes in the waves lapping ashore.\n That trip has been cut short.\n Coastal erosion has been eating awa\u2026",
+      "url": "https://www.yahoo.com/news/science/articles/sea-level-rise-reshaping-california-100600946.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/f3b48cc9517287f04a84507b9821985767f1177f338c8293adbd8e3e8e09033f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F9b3be3dedc49100fd39678cfd0531049.jpg",
+      "publishedAt": "2026-09-27T10:06:00Z",
+      "content": "SAN CLEMENTE, Calif. (AP) For years, residents of this Southern California beach town could walk a mile along a stretch of cream-colored sand and dip their toes in the waves lapping ashore.\r\nThat tri\u2026 [+5129 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Peoplesreview.com.np"
+      },
+      "author": "team1",
+      "title": "Rain, floods damage power grid, 483 MW generation halted",
+      "description": "Kathmandu, Sept 27: Incessant rainfall, strong winds, floods, landslides, and lightning have damaged electricity transmission and distribution infrastructure across the country, disrupting power supply in several areas. Flooding in rivers and streams has also\u2026",
+      "url": "https://peoplesreview.com.np/2026/09/27/rain-floods-damage-power-grid-483-mw-generation-halted/",
+      "urlToImage": "https://peoplesreview.com.np/wp-content/uploads/2025/06/power3.jpg",
+      "publishedAt": "2026-09-27T06:58:15Z",
+      "content": "Kathmandu, Sept 27: Incessant rainfall, strong winds, floods, landslides, and lightning have damaged electricity transmission and distribution infrastructure across the country, disrupting power supp\u2026 [+2191 chars]"
+    }
+  ]
+}
