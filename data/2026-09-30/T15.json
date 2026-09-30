@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Unity.com"
+      },
+      "author": null,
+      "title": "Stylized - Water Shader by UnicornWay",
+      "description": "Procedural stylized water for Unity 6 URP \u2014 Gerstner waves, caustics, dynamic foam, buoyancy and wakes.- Unity 6 (6000.0+), Universal Render Pipeline (Forward / Forward+)- Fully procedural \u2014 no textures on the water itself- Gerstner vertex-displaced waves wit\u2026",
+      "url": "https://assetstore.unity.com/packages/vfx/shaders/stylized-water-shader-404620",
+      "urlToImage": "https://assetstorev1-prd-cdn.unity3d.com/key-image/52dddf8e-5b80-49a1-84d0-786b3573c100.jpg?v=1",
+      "publishedAt": "2026-09-28T19:40:13Z",
+      "content": "Over 11,000 five-star assets\r\nRated by 85,000+ customers\r\nSupported by 100,000+ forum members\r\nEvery asset moderated by Unity"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Unity.com"
+      },
+      "author": null,
+      "title": "Stylized Elemental Attack Effects by Esti",
+      "description": "Create and customize Stylized Elemental Attack Effects in Unity, featuring Earth Ground Burst, editable assets, runtime controls, and a ready-to-review demo.- Suggested category: VFX / Combat- Unity version used for validation: 6000.0.30f1- Render pipeline: U\u2026",
+      "url": "https://assetstore.unity.com/packages/vfx/stylized-elemental-attack-effects-403816",
+      "urlToImage": "https://assetstorev1-prd-cdn.unity3d.com/key-image/c069bcbf-d750-4c48-b5c5-33efd51f5b17.jpg?v=1",
+      "publishedAt": "2026-09-28T12:31:10Z",
+      "content": "Over 11,000 five-star assets\r\nRated by 85,000+ customers\r\nSupported by 100,000+ forum members\r\nEvery asset moderated by Unity"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cisa.gov"
+      },
+      "author": "CISA",
+      "title": "Vulnerability Summary for the Week of September 21, 2026",
+      "description": "High Vulnerabilities\r\n\n<table>\n\n<tr>\n<th>PrimaryVendor -- Product</th>\n<th>Description</th>\n<th>Published</th>\n<th>CVSS Score</th>\n<th>Source Info</th>\n</tr>\n\r\n\n\n<tr>\n<td>101gen--Automation Web Platform Notifications and OTP for WooCommerce, Advanced Country \u2026",
+      "url": "https://www.cisa.gov/news-events/bulletins/sb26-271",
+      "urlToImage": null,
+      "publishedAt": "2026-09-28T11:32:46Z",
+      "content": "The CISA Vulnerability Bulletin provides a summary of new vulnerabilities that have been recorded in the past week. In some cases, the vulnerabilities in the bulletin may not yet have assigned CVSS s\u2026 [+899 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Rashmi Drolia",
+      "title": "Chhattisgarh floods: IAF rescues 12 stranded on hut roof as Indravati rises above danger mark; watch",
+      "description": "Twelve individuals, including women and children, were rescued from flooding in Bastar by the Indian Air Force. The Indravati river had risen significantly, prompting the evacuation of over 1,000 residents to relief camps. A helicopter crew located the strand\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/raipur/chhattisgarh-floods-iaf-rescues-12-stranded-on-hut-roof-as-indravati-rises-above-danger-mark-watch/articleshow/134533891.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134534492,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-28T06:40:44Z",
+      "content": "<ul><li>News</li>\r\n<li>City News</li>\r\n<li>raipur News</li>\r\n<li>Chhattisgarh floods: IAF rescues 12 stranded on hut roof as Indravati rises above danger mark; watch</li></ul>\r\nFollow Us On Social Me\u2026 [+119 chars]"
+    }
+  ]
+}

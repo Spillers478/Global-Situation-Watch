@@ -1,0 +1,12 @@
+{
+  "groups": {
+    "http://foreignpolicy.com/2026/09/29/russia-putin-elections-war-authoritarianism-rigged-sham-parliament/": "a",
+    "https://www.irishtimes.com/world/middle-east/2026/09/28/justice-or-stability-syria-confronts-the-legacy-of-assad/": "b",
+    "https://cryptobriefing.com/five-killed-in-lima-and-callao-amid-state-of-emergency-impacting-election-odds/": "c",
+    "https://www.rt.com/news/646362-china-backs-cuba-trump-warning/": "d",
+    "https://economictimes.indiatimes.com/news/politics-and-nation/after-cwc-meet-congress-says-pm-has-no-moral-right-to-remain-in-office-announces-nationwide-protests-against-cec-and-sir/articleshow/134561478.cms": "e",
+    "https://www.globalsecurity.org/military/library/news/2026/09/mil-260928-unnews01.htm": "f",
+    "https://www.business-standard.com/external-affairs-defence-security/news/indian-delegation-reaches-islamabad-for-three-day-sco-coordinators-meet-126092801270_1.html": "g"
+  },
+  "contradictions": []
+}

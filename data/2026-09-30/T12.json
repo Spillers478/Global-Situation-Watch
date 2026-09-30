@@ -1,0 +1,396 @@
+{
+  "status": "ok",
+  "totalResults": 30,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Vladan.fr"
+      },
+      "author": "Vladan SEGET",
+      "title": "NAKIVO Backup & Replication v11.2.2: Full vSphere 9.1 + Proxmox VE 9.1/9.2 Support (and the Practical Bits That Matter)",
+      "description": "Hey folks, Vladan here. If you follow my blog for a long time, you already know I keep a close eye on backup tools that stay current with the hypervisors we actually run \u2014 VMware, Proxmox, mixed environments, physical boxes, NAS appliances. NAKIVO has been on\u2026",
+      "url": "https://www.vladan.fr/nakivo-backup-replication-v11-2-2-full-vsphere-9-1-proxmox-ve-9-1-9-2-support-and-the-practical-bits-that-matter/",
+      "urlToImage": "https://www.vladan.fr/wp-content/uploads/images/Real-time-replication-vmware.png",
+      "publishedAt": "2026-09-29T09:55:45Z",
+      "content": "Hey folks, Vladan here. If you follow my blog for a long time, you already know I keep a close eye on backup tools that stay current with the hypervisors we actually run VMware, Proxmox, mixed enviro\u2026 [+8204 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Sergiu Gatlan",
+      "title": "Kiteworks patches critical flaw, brings customer systems online",
+      "description": "American tech company Kiteworks has lifted a precautionary advisory asking customers to shut down systems after patching a critical vulnerability. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/09/29/Kiteworks.jpg",
+      "publishedAt": "2026-09-29T09:04:06Z",
+      "content": "American tech company Kiteworks has lifted a precautionary advisory asking customers to shut down systems after patching a critical vulnerability.\r\nFormerly known as Accellion, it operates a Private \u2026 [+3422 chars]"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Emmet Malone",
+      "title": "AI agents are hacking government agencies. It\u2019s \u2018really scary\u2019 for cybersecurity",
+      "description": "Existential risk remains a \u2018huge leap\u2019, experts say, but concerns are growing over AI capability",
+      "url": "https://www.irishtimes.com/ireland/2026/09/29/ai-agents-are-hacking-government-agencies-its-really-scary-for-cybersecurity/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/6MKKHI6QIZGUTFTJ7SEEAI7KLM.jpg?smart=true&auth=511e4e1051d5d9a627ce8e56876be9e9fd3ec11776700e463105533346fb3bb2&width=1200&height=630",
+      "publishedAt": "2026-09-29T05:00:01Z",
+      "content": "The breaking news last week that OpenAI agents had hacked the Australian public health service and three other agencies while doing what was supposed to be a rather mundane piece of research is the l\u2026 [+7855 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "https://www.abc.net.au/news/ahmed-yussuf/13177774",
+      "title": "North Korean hackers steal millions in crypto heist",
+      "description": "A North Korean hacking group infiltrated 30,000 devices stealing millions of dollars worth of cryptocurrency from people in hundreds of countries.",
+      "url": "https://www.abc.net.au/news/2026-09-29/north-korean-waterplum-steal-millions-ai-crypto-hack/107203942",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/ddeb798202dcdddbd2041ce51ca61371?impolicy=wcms_watermark_news&cropH=2268&cropW=4032&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-09-29T04:52:34Z",
+      "content": "A North Korean hacking group is using job ads to harvest sensitive information from unsuspecting applicants from hundreds of countries, authorities warn.\r\nThe group, known as \"WaterPlum\", infiltrated\u2026 [+4425 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PRNewswire"
+      },
+      "author": null,
+      "title": "Global AI market could hit $6 trillion annually by 2031 through unlocking value and innovation - Bain & Co's 7th Global Technology Report",
+      "description": "As AI compute demand grows and creates value in bottleneck technologies, hardware and semiconductor companies' market capitalization grew at 24% annually from 2020 to 2026 vs. 6% for software AI absorption becomes the competitive variable as enterprises look \u2026",
+      "url": "https://www.prnewswire.com/news-releases/global-ai-market-could-hit-6-trillion-annually-by-2031-through-unlocking-value-and-innovation--bain--cos-7th-global-technology-report-302891178.html",
+      "urlToImage": "https://mmx.prnewswire.com/media/MS859388/Bain-and-Company-Logo.jpg?id=OA2972902&p=facebook",
+      "publishedAt": "2026-09-29T04:05:00Z",
+      "content": "<ul><li>As AI compute demand grows and creates value in bottleneck technologies, hardware and semiconductor companies' market capitalization grew at 24% annually from 2020 to 2026 vs. 6% for software\u2026 [+9735 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "AP- PTI",
+      "title": "Nvidia is touting a software tool to contain runaway AI. How would it work?",
+      "description": "The chipmaker unveiled its Open Agent Safety Platform amid growing AI-safety concerns after several incidents of AI systems acting on their own to breach other organisations",
+      "url": "https://www.thehindubusinessline.com/info-tech/nvidia-is-touting-a-software-tool-to-contain-runaway-ai-how-would-it-work/article71522339.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/4nazcf/article71522452.ece/alternates/LANDSCAPE_1200/2026-09-28T140417Z_1673032965_RC2LEGA79EZ9_RTRMADP_3_NVIDIA-STOCK.JPG",
+      "publishedAt": "2026-09-29T03:49:40Z",
+      "content": "Nvidia says a security platform for artificial intelligence that it announced on Monday can help stop autonomous AI agents from misbehaving.\r\nThe chipmaker unveiled its Open Agent Safety Platform ami\u2026 [+3406 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "AP",
+      "title": "Nvidia is touting a software tool to contain runaway AI. How would it work?",
+      "description": "The chipmaker unveiled its Open Agent Safety Platform amid an intensifying debate about AI safety, fueled a string of alarming recent incidents involving AI systems acting on their own to break into other organisations.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-is-touting-a-software-tool-to-contain-runaway-ai-how-would-it-work/articleshow/134554998.cms",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-86984,resizemode-75,msid-134554998/tech/artificial-intelligence/nvidia-is-touting-a-software-tool-to-contain-runaway-ai-how-would-it-work.jpg",
+      "publishedAt": "2026-09-29T03:15:24Z",
+      "content": "Nvidia says a security platform for artificial intelligence that it announced on Monday can help stop autonomous AI agents from misbehaving.The chipmaker unveiled its Open Agent Safety Platform amid \u2026 [+3381 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Jessica Lyons",
+      "title": "JadePuffer crims hijacked Azure identities and used them to blow up cloud resources",
+      "description": "Smells like more agentic ransomware, Redmond warns",
+      "url": "https://www.theregister.com/security/2026/09/28/jadepuffer-crims-hijacked-azure-identities-and-used-them-to-blow-up-cloud-resources/5299591",
+      "urlToImage": "https://image.theregister.com/5299599.jpg?imageId=5299599&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "publishedAt": "2026-09-28T20:30:00Z",
+      "content": "The cyber criminal behind JadePuffer, the first known agentic ransomware infection reported over the summer, has also used stolen Azure identities to conduct destructive attacks on cloud storage and \u2026 [+4625 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kitploit.com"
+      },
+      "author": "Kitploit",
+      "title": "LazyOwn",
+      "description": "LazyOwn RedTeam/APT Framework is the first RedTeam Framework with an AI-powered C&C, featuring rootkits to conceal campaigns, undetectable malleable implants compatible with Windows/Linux/Mac OSX, and self-configuring backdoors. With its Web interface and pow\u2026",
+      "url": "https://kitploit.com/en/tools/github/grisuno/lazyown/",
+      "urlToImage": "https://assets.kitploit.com/production/public/tools/56369/bac4f80f9319199f9365a8398978b97e5aa90c36502cfb9bf30946b42f73fc19-social-v1.webp",
+      "publishedAt": "2026-09-28T19:38:18Z",
+      "content": "Skip to contentHacking, PenTest, and Cybersecurity Tools for Your Security Arsenal!\r\nKitploit is a directory of hacking, cybersecurity, and pentesting tools. Discover the latest project updates to fi\u2026 [+112400 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Ben Shimkus",
+      "title": "OpenAI staffer says he missed his sister's wedding to help with AI safety incidents",
+      "description": "An OpenAI agent-security staffer said he missed his sister's wedding to help respond to recent AI-security incidents.",
+      "url": "https://www.businessinsider.com/openai-missed-wedding-security-breach-hugging-face-2026-9#article",
+      "urlToImage": "https://i.insider.com/6abab385265e3f8e338f7ecb?width=1200&format=jpeg",
+      "publishedAt": "2026-09-28T19:31:51Z",
+      "content": "An OpenAI security staffer said the company has been caught off guard by the model's new powers.Smith Collection/Gado/Getty Images\r\n<ul><li>An OpenAI security staffer said he missed a family wedding \u2026 [+2792 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Hayden Field",
+      "title": "AI is supercharging hacking, and your local hospitals and banks aren\u2019t ready",
+      "description": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headquartered in Alabama, typically provided training, resources, and community to underserved and minority-owned businesses. \u2026",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299205/STK453_Privacy_D_CVirginia.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "publishedAt": "2026-09-28T18:25:22Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nAI is supercharging hacking, and your local hospitals and banks arent ready\r\nNew models are helping Big Tech shore up its cyber defenses. What about everyone els\u2026 [+13360 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "Associated Press",
+      "title": "OpenAI pauses training of latest AI models after agents probed US government sites in unexpected ways",
+      "description": "NEW YORK (AP) \u2014 OpenAI said it has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount. The decision to halt development came just hours after the company disclosed Friday that it was reviewing several incide\u2026",
+      "url": "https://freerepublic.com/focus/f-chat/4397164/posts",
+      "urlToImage": null,
+      "publishedAt": "2026-09-28T16:50:58Z",
+      "content": "Skip to comments.\r\nOpenAI pauses training of latest AI models after agents probed US government sites in unexpected waysAssociated Press ^\r\n | 09/28/26\r\n | BERNARD CONDON\r\nPosted on 09/28/2026 9:50:5\u2026 [+2324 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Sead Fadilpa\u0161i\u0107",
+      "title": "Citrix says two worrying NetScaler RCE zero-days exploited in attacks",
+      "description": "The company released a fix and urged organizations to patch up immediately.",
+      "url": "https://www.techradar.com/pro/security/citrix-says-two-worrying-netscaler-rce-zero-days-exploited-in-attacks",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/NGKiUcJVFBC8HkMp9dTo9a-1920-80.jpg",
+      "publishedAt": "2026-09-28T15:10:00Z",
+      "content": "<ul><li>Citrix patched two critical zero\u2011days (CVE\u20112026\u201188771, CVE\u20112026\u201188772) in NetScaler ADC/Gateway, both enabling remote code execution</li><li>Exploits already observed; CISA added flaws to KEV\u2026 [+4715 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Krebs on Security"
+      },
+      "author": "BrianKrebs",
+      "title": "Dutch Police Arrest \u2018Reformed\u2019 Hacker in Shiny Hunters Investigation",
+      "description": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters m\u2026",
+      "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
+      "urlToImage": null,
+      "publishedAt": "2026-09-28T15:08:57Z",
+      "content": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediat\u2026 [+11642 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Zack Whittaker",
+      "title": "FBI reportedly declares 'cyber security incident' after hackers steal agents' personal data | TechCrunch",
+      "description": "The bureau has not yet publicly confirmed a breach, but has told its agents that their personal information and Social Security numbers were exposed.",
+      "url": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/09/fbi-edgar-hoover-building-2288940613.jpg?resize=1200,800",
+      "publishedAt": "2026-09-28T14:54:41Z",
+      "content": "The Federal Bureau of Investigation has reportedly told its agents and support staff that their personal information was stolen in a recent cyberattack that targeted the bureau\u2019s job application port\u2026 [+3602 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Sead Fadilpa\u0161i\u0107",
+      "title": "Kiteworks tells users to shut down servers amid fears of 'imminent' cyberattack",
+      "description": "The police notified Kiteworks of apparently imminent attack, leading to the company reacting fast.",
+      "url": "https://www.techradar.com/pro/security/kiteworks-tells-users-to-shut-down-servers-amid-fears-of-imminent-cyberattack",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/x4SmwpYXk8yGgDmYCVeckL-2560-80.jpg",
+      "publishedAt": "2026-09-28T14:20:00Z",
+      "content": "<ul><li>Kiteworks warned customers of a \u201ccredible\u201d planned cyberattack, urging a nine\u2011hour precautionary shutdown</li><li>No breaches reported; advisory lifted Sept 27, systems restored, version 9.5.\u2026 [+5226 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "info@thehackernews.com (The Hacker News)",
+      "title": "\u26a1 Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
+      "description": "A domain used as harmless placeholder text showed up in roughly 1,700 repositories. Then somebody registered it and started serving malicious lures. That is the kind of week this was: forgotten assumptions turning into live attack surface.\n\nElsewhere, weak se\u2026",
+      "url": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4-eWVCAN2nvZGZrKlwm-wminZE56MzJ_bVRK6CJfdBw9TXU4yQy6t9T0hDi0hSOskE9Xs6M-KCVEbVvBuL2DLDkew97W2iobOPZa9zqEBeGPWBnW8cftdD1FwzBLz7CIGVhJb1FwnS-35B62Jqc331zNQ67hZP-V2jKBT7yUxUV4rn8jMr27QCommYp-j/s1700-nu-rw-lo-l85-e365/c-recap.jpg",
+      "publishedAt": "2026-09-28T14:00:53Z",
+      "content": "A domain used as harmless placeholder text showed up in roughly 1,700 repositories. Then somebody registered it and started serving malicious lures. That is the kind of week this was: forgotten assum\u2026 [+19048 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailyhunt.in"
+      },
+      "author": "Ndtv World",
+      "title": "As US Warns Of AI Risks, China Calls It 'Fear Marketing'",
+      "description": "As a debate over AI safety rages on, stakeholders, including Microsoft co-founder Bill Gates, have called for stricter regulations related to the development of advanced models.",
+      "url": "https://m.dailyhunt.in/news/india/english/ndtv+world-epaper-ndtvw/as+us+warns+of+ai+risks+china+calls+it+fear+marketing-newsid-n728453391",
+      "urlToImage": "https://assets-news-bcdn.dailyhunt.in/cmd/resize/1200x630_75/fetchdata20/images/d7/be/64/d7be644e0258c743cba7cdfa7bea0a49955b29cfbbbbf83c60505ce97b3fbf3b.webp",
+      "publishedAt": "2026-09-28T12:57:44Z",
+      "content": "But many in China, much like US President Donald Trump, don't buy it.\r\nCalls have been growing for the US and China to work together on AI safety. While US President Donald Trump has termed the fears\u2026 [+2410 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "info@thehackernews.com (The Hacker News)",
+      "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
+      "description": "Cybersecurity researchers have disclosed details of a new botnet malware called Carbonato that's targeting exposed Docker daemons to deploy an open-source artificial intelligence (AI) agent framework called Hermes Agent.\n\n\"The implant installs the framework u\u2026",
+      "url": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3O4ih8J3-A5sGh57xyYKMGbnSqaXbWhu2g9HBE_mG11gEdedMUmYyeeYpA9TnNPwRsB4t-5V9UTW54iOR0VNzyaaa0fWhOG4Oi46KwGvrrVQRdWIDS7GX6YxjaMrA6sF9RHWNyO8gBttCQ7Nc8LUmrhhH24jSp1lPDuhok9r3CfKxgGJRObZRqRTW-5Gf/s1700-nu-rw-lo-l85-e365/hermes-telegram.jpg",
+      "publishedAt": "2026-09-28T11:46:00Z",
+      "content": "Cybersecurity researchers have disclosed details of a new botnet malware called Carbonato that's targeting exposed Docker daemons to deploy an open-source artificial intelligence (AI) agent framework\u2026 [+6734 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Intomobile.com"
+      },
+      "author": "Dusan Belic",
+      "title": "Hackers are stealing AI accounts and selling them for 97% off \u2014 and it\u2019s getting worse",
+      "description": "Google's top threat analyst says LLM-hijacking is surging, and the economics are badly stacked against defenders",
+      "url": "https://www.intomobile.com/2026/09/28/hackers-are-stealing-ai-accounts-and-selling-them-for-97-off-and-its-getting-worse/",
+      "urlToImage": "https://www.intomobile.com/wp-content/uploads/2026/09/multisite_img_6aba4945d7f6f.jpeg",
+      "publishedAt": "2026-09-28T11:02:31Z",
+      "content": "Someone out there is selling access to Claude and ChatGPT on the dark web for 97% off retail. That\u2019s not a leaked promo code. That\u2019s stolen credentials, and according to Google\u2019s chief threat analyst\u2026 [+3605 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Storm-3168, Linked to JADEPUFFER, Abused Stolen Azure Identities",
+      "description": "Microsoft details Storm-3168, the JADEPUFFER-linked actor that used stolen service principals to delete Azure storage in minutes and harvest keys. Microsoft just published the first detailed look at what JADEPUFFER does inside Azure. Sysdig first spotted the \u2026",
+      "url": "https://securityaffairs.com/199905/cyber-crime/storm-3168-linked-to-jadepuffer-abused-stolen-azure-identities.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2026/09/image-77.png",
+      "publishedAt": "2026-09-28T10:46:05Z",
+      "content": "Storm-3168, Linked to JADEPUFFER, Abused Stolen Azure Identities\r\nMicrosoft just published the first detailed look at what JADEPUFFER does inside Azure. Sysdig first spotted the group\u2019s activity in J\u2026 [+7371 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "author": "GlobeNewswire",
+      "title": "Hudbay Enhances Gold Production Profile at Snow Lake, Extends Reserve Mine Life to 18 Years and Identifies Further Growth Potential from Resource Conversion and the Britannia Gold Project",
+      "description": "TORONTO, Sept. 28, 2026 (GLOBE NEWSWIRE) \u2014 Hudbay Minerals Inc. (\u201cHudbay\u201d or the \u201cCompany\u201d) (TSX, NYSE: HBM) today released an updated mine plan for its Snow Lake operations in Manitoba, Canada. All amounts are in U.S. dollars, unless otherwise noted. Snow La\u2026",
+      "url": "https://financialpost.com/globe-newswire/hudbay-enhances-gold-production-profile-at-snow-lake-extends-reserve-mine-life-to-18-years-and-identifies-further-growth-potential-from-resource-conversion-and-the-britannia-gold-project",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/09/figure-4-optimizing-processing-infrastructure-and-increasing.jpeg",
+      "publishedAt": "2026-09-28T10:04:22Z",
+      "content": "The risks, uncertainties, contingencies and other factors that may cause actual results to differ materially from those expressed or implied by the forward-looking information may include, but are no\u2026 [+6001 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Help Net Security"
+      },
+      "author": "Zeljka Zorz",
+      "title": "Citrix NetScaler RCE zero-days exploited globally for weeks (CVE-2026-88771, CVE-2026-88772)",
+      "description": "Citrix has patched eight critical and high-severity vulnerabilities in NetScaler ADC and NetScaler Gateway, two of which (CVE-2026-88771, CVE-2026-88772) have been exploited in zero-day attacks to plant webshells on compromised devices. Rumors about their exi\u2026",
+      "url": "https://www.helpnetsecurity.com/2026/09/28/citrix-netscaler-rce-zero-days-exploited-for-weeks-cve-2026-88771-cve-2026-88772/",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2025/07/08172050/netscaler-1500-red.webp",
+      "publishedAt": "2026-09-28T09:51:32Z",
+      "content": "Citrix has patched eight critical and high-severity vulnerabilities in NetScaler ADC and NetScaler Gateway, two of which (CVE-2026-88771, CVE-2026-88772) have been exploited in zero-day attacks to pl\u2026 [+4777 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kitploit.com"
+      },
+      "author": "Kitploit",
+      "title": "DFIR-Companion",
+      "description": "DFIR forensics companion server + capture extension",
+      "url": "https://kitploit.com/en/tools/github/hasamba/dfir-companion/",
+      "urlToImage": "https://assets.kitploit.com/production/public/tools/56345/a7ef0714537560d0e0f8f9eb8acef613d50c5328a3c17a0e3e2d3249051fbc38-social-v1.webp",
+      "publishedAt": "2026-09-28T09:35:07Z",
+      "content": "Skip to contentHacking, PenTest, and Cybersecurity Tools for Your Security Arsenal!\r\nKitploit is a directory of hacking, cybersecurity, and pentesting tools. Discover the latest project updates to fi\u2026 [+114663 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Malwarebytes.com"
+      },
+      "author": "Pieter Arntz",
+      "title": "FBI agents\u2019 blood tests and doctors\u2019 notes surface after breach",
+      "description": "A \u201cshellfish and banana allergy\u201d is among the details in medical records hackers showed reporters. They claim to hold records on thousands of FBI staff.",
+      "url": "https://www.malwarebytes.com/blog/data-breaches/2026/09/fbi-agents-blood-tests-and-doctors-notes-surface-after-breach",
+      "urlToImage": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2024/02/FBI_at_work.png",
+      "publishedAt": "2026-09-28T09:28:31Z",
+      "content": "BBC News reports it has seen samples of stolen FBI agents\u2019 medical examinations. The fitness-for-work reports identify FBI agents by name and address, and reveal even more personal details. They incl\u2026 [+3310 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ibtimes.com.au"
+      },
+      "author": "George Anton",
+      "title": "Bill Gates Says Global AI Framework May Be Harder Than Cold War Nuclear Talks and Is Not a Hoax",
+      "description": "Bill Gates said reaching a global agreement on artificial intelligence could be harder than Cold War nuclear arms talks, urging mandatory safeguards and rejecting claims that catastrophic AI risks are a hoax.",
+      "url": "https://www.ibtimes.com.au/bill-gates-global-ai-agreement-cold-war-nuclear-talks-1875963",
+      "urlToImage": "https://d.ibtimes.com.au/en/full/1891735/bill-gates-reveals-he-didnt-feel-successful-decades.jpg",
+      "publishedAt": "2026-09-28T09:12:41Z",
+      "content": "WASHINGTON \u2014 Bill Gates said Sunday that getting countries to agree on a global framework for artificial intelligence could be harder than Cold War talks that limited nuclear weapons, and he rejected\u2026 [+4957 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "info@thehackernews.com (The Hacker News)",
+      "title": "JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources",
+      "description": "The threat actor known as JADEPUFFER has been observed orchestrating destructive actions within a Microsoft Azure environment using compromised service principals.\n\nMicrosoft, which is tracking the activity under the name Storm-3168, has called it an evolutio\u2026",
+      "url": "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHYvL1hsEQjB3x7u-jNflFT0QK3a9IEFse8ghWqV9SxkawlFerAn8pzjfYgztccVleVlLzZcDlOSvu7gqJhHP_XLWL1lqZkeIVCifya8Ohinriqk_o-kpzzdtv4x7NinDhQgWbE9B7yJliuJPGZ2x0qh9jRgkWfyNyPexujdTWpLTbfe7MKRVQT1Z3BAQ9/s1700-nu-rw-lo-l85-e365/azure-ai.jpg",
+      "publishedAt": "2026-09-28T09:08:21Z",
+      "content": "The threat actor known as JADEPUFFER has been observed orchestrating destructive actions within a Microsoft Azure environment using compromised service principals.\r\nMicrosoft, which is tracking the a\u2026 [+5060 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Sergiu Gatlan",
+      "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
+      "description": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies over the weekend to secure their systems against attacks exploiting two critical Citrix NetScaler vulnerabilities. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/08/20/Citrix.jpg",
+      "publishedAt": "2026-09-28T06:24:19Z",
+      "content": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies over the weekend to secure their systems against attacks exploiting two critical Citrix NetScaler vuln\u2026 [+4115 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Edison Reed",
+      "title": "Refrigeration Failures at Military Commissaries Draw Scrutiny Over Infrastructure Security",
+      "description": "Multiple U.S. military commissaries experienced refrigeration failures within a short period, according to public accounts, raising questions about the security and resilience of the operational technology that supports everyday functions on American military\u2026",
+      "url": "https://www.naturalnews.com/2026-09-28-refrigeration-failures-at-military-commissaries-draw-scrutiny.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/military-commissaries-refrigeration-failures-infrastructure-security-4546-original.jpg",
+      "publishedAt": "2026-09-28T06:00:00Z",
+      "content": "Multiple U.S. military commissaries experienced refrigeration failures within a short period, according to public accounts, raising questions about the security and resilience of the operational tech\u2026 [+10052 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "AP",
+      "title": "OpenAI pauses training of latest models after agents probed US government sites in unexpected ways",
+      "description": "Separately, AI evaluator Transluce said agents that appeared to come from OpenAI tried unsuccessfully to hack into a Department of Education website, a detail that OpenAI has not confirmed.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-pauses-training-of-latest-models-after-agents-probed-us-government-sites-in-unexpected-ways/articleshow/134530903.cms",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-57376,resizemode-75,msid-134530903/tech/artificial-intelligence/openai-pauses-training-of-latest-models-after-agents-probed-us-government-sites-in-unexpected-ways.jpg",
+      "publishedAt": "2026-09-28T03:27:10Z",
+      "content": "OpenAI said it has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount.The decision to halt development came just hours after the company disclosed \u2026 [+2855 chars]"
+    }
+  ]
+}

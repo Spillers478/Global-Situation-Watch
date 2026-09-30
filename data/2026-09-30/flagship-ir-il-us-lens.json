@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "totalResults": 1,
+  "articles": [
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "Oil Rises Despite Saudi Pipeline Repair as U.S.-Iran Talks Stall - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-deadlock-in-u-s-iran-ceasefire-talks-288f189e",
+      "urlToImage": null,
+      "publishedAt": "2026-09-29T07:26:00Z",
+      "content": null
+    }
+  ]
+}

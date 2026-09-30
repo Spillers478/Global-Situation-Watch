@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "After CWC meet, Congress says PM has 'no moral right' to remain in office, announces nationwide protests against CEC and SIR",
+      "description": "Congress has called for the immediate suspension of the Special Intensive Revision of electoral rolls. Allegations include the illegal removal of 13 crore voters by the Election Commission. The party is demanding the resignation of Chief Election Commissioner\u2026",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/after-cwc-meet-congress-says-pm-has-no-moral-right-to-remain-in-office-announces-nationwide-protests-against-cec-and-sir/articleshow/134561478.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134561524,width-1200,height-630,imgsize-77888,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-29T09:04:17Z",
+      "content": "The Congress on Tuesday demanded the immediate suspension of the Special Intensive Revision (SIR) of electoral rolls, the restoration of 13 crore voters it alleged were illegally removed by the Elect\u2026 [+5344 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Israelnationalnews.com"
+      },
+      "author": "Israel National News",
+      "title": "Netanyahu condemns Binyamin riots: 'Prosecute the rioters to the fullest extent of the law'",
+      "description": "Prime Minister Benjamin Netanyahu condemned on Tuesday morning the violent riots that took place overnight in the Binyamin region and the attacks on security forces who arrived at the scene.\"The handful of rioters does not represent the law-abiding settler po\u2026",
+      "url": "https://www.israelnationalnews.com/flashes/694379",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1075218.jpg",
+      "publishedAt": "2026-09-29T07:44:00Z",
+      "content": "Prime Minister Benjamin Netanyahu condemned on Tuesday morning the violent riots that took place overnight in the Binyamin region and the attacks on security forces who arrived at the scene.\r\n\"The ha\u2026 [+619 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "/FILM"
+      },
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "title": "How To Watch Andrew Garfield's The Uprising At Home",
+      "description": "Few folks have caught Paul Greengrass' The Uprising in theaters. Here's how you can catch the Andrew Garfield-front historical action drama at home.",
+      "url": "https://www.slashfilm.com/2271107/how-watch-andrew-garfield-the-uprising-home/",
+      "urlToImage": "https://www.slashfilm.com/img/gallery/how-to-watch-andrew-garfields-the-uprising-at-home/l-intro-1790619359.jpg",
+      "publishedAt": "2026-09-28T18:16:29Z",
+      "content": "\"The Uprising\" is directed by Paul Greengrass, who, aside from overseeing \"Captain Phillips\" and \"United 93,\" is the man who gave us two excellent entries in the Bourne franchise with \"The Bourne Sup\u2026 [+1443 chars]"
+    }
+  ]
+}

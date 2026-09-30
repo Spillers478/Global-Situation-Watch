@@ -1,0 +1,48 @@
+{
+  "groups": {
+    "https://slashdot.org/firehose.pl?op=view&amp;id=185896660": "a",
+    "https://www.business-standard.com/world-news/myanmar-military-s-airstrike-near-market-kills-at-least-49-in-rakhine-126092900079_1.html": "a",
+    "https://timesofindia.indiatimes.com/world/rest-of-world/49-killed-in-myanmar-as-junta-carries-out-airstrike-in-rebel-controlled-rakhine-region/articleshow/134554050.cms": "a",
+    "https://www.cbc.ca/news/world/myanmar-rakhine-arakan-airstrike-9.7361108": "a",
+    "https://www.globalresearch.ca/selected-articles-trump-prepares-invasion-cuba/5942028": "b",
+    "https://economictimes.indiatimes.com/news/international/world-news/at-least-33-people-killed-in-western-myanmar-airstrike-rebel-group-and-aid-worker-say/articleshow/134542088.cms": "a",
+    "https://www.aljazeera.com/video/newsfeed/2026/9/28/al-jazeera-reports-from-near-front-line-in-ethiopias-afar-region": "c",
+    "https://theconversation.com/ethiopias-peace-deal-is-unravelling-what-went-wrong-with-the-tigray-agreement-293005": "d",
+    "https://thediplomat.com/2026/09/living-under-a-lethal-sky-myanmars-arakan-on-edge-as-military-airstrikes-on-civilians-grow/": "e",
+    "https://abcnews.com/International/wireStory/ethiopias-army-chief-accuses-eritrea-sudan-egypt-supporting-136825185": "f",
+    "https://theintercept.com/2026/09/28/ai-military-nuclear-war-doomsday/": "g",
+    "https://nypost.com/2026/09/29/us-news/2-us-navy-aviators-eject-while-landing-plane-on-uss-dwight-d-eisenhower-4-sailors-injured/": "h",
+    "https://theconversation.com/why-europe-wants-to-boost-its-arctic-presence-292075": "i",
+    "https://www.israelnationalnews.com/news/433782": "j",
+    "https://thediplomat.com/2026/09/the-trump-xi-summit-is-over-but-taiwan-is-still-bracing-for-the-fallout/": "k"
+  },
+  "contradictions": [
+    {
+      "group": "a",
+      "claim_type": "figures",
+      "summary": "Sources report different death tolls (and injured counts) for the same Rakhine market airstrike: at least 49 dead and 58 wounded versus at least 33 dead and 36 wounded.",
+      "sources": [
+        {
+          "source": "Business Standard",
+          "url": "https://www.business-standard.com/world-news/myanmar-military-s-airstrike-near-market-kills-at-least-49-in-rakhine-126092900079_1.html",
+          "says": "At least 49 killed and 58 wounded"
+        },
+        {
+          "source": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/world/rest-of-world/49-killed-in-myanmar-as-junta-carries-out-airstrike-in-rebel-controlled-rakhine-region/articleshow/134554050.cms",
+          "says": "At least 49 killed"
+        },
+        {
+          "source": "CBC News",
+          "url": "https://www.cbc.ca/news/world/myanmar-rakhine-arakan-airstrike-9.7361108",
+          "says": "At least 33 killed and 36 wounded"
+        },
+        {
+          "source": "The Times of India",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/at-least-33-people-killed-in-western-myanmar-airstrike-rebel-group-and-aid-worker-say/articleshow/134542088.cms",
+          "says": "33 deaths in Kyauktaw, Rakhine state"
+        }
+      ]
+    }
+  ]
+}

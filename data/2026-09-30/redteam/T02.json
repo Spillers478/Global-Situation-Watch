@@ -1,0 +1,46 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Hurriyet Daily News"
+      },
+      "author": "hurriyetdailynews.com",
+      "title": "UN: 8.3 mln refugees at risk due to \u2018severe\u2019 funding cuts",
+      "description": "Nearly 8.3 million refugees and other forcibly displaced people face losing vital assistance from UNHCR, the U.N.\u2019s refugee agency warned on Sept. 29, as protection services crumble due to \u201csevere\u201d funding cuts.",
+      "url": "https://www.hurriyetdailynews.com/un-8-3-mln-refugees-at-risk-due-to-severe-funding-cuts-227498",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6abb6f7294237d06a21413b8.jpg",
+      "publishedAt": "2026-09-29T07:58:33Z",
+      "content": "GENEVA\r\nDisplaced Sudanese children who have returned from Ethiopia gather amid tents fortified against heavy rain by sandbags, in a camp run by the United Nations Refugee Agency (UNHCR) in Sudan's b\u2026 [+3050 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PBS"
+      },
+      "author": "PBS News, PBS NewsHour",
+      "title": "WFP official on addressing global hunger in face of wars and climate disasters",
+      "description": "The United Nations recently announced a new executive director for the World Food Programme. Luke Lindberg was a Trump administration Agriculture Department official and inherits one of the UN's toughest jobs. Hundreds of millions around the world go hungry e\u2026",
+      "url": "https://www.pbs.org/newshour/show/wfp-official-on-addressing-global-hunger-in-face-of-wars-and-climate-disasters",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/globalhunger-1024x683.jpg",
+      "publishedAt": "2026-09-28T22:25:11Z",
+      "content": "The United Nations recently announced a new executive director for the World Food Programme. Luke Lindberg was a Trump administration Agriculture Department official and inherits one of the UN's toug\u2026 [+7621 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "US visa clash exposes Sudan\u2019s forgotten war as foreign powers compete for strategic foothold",
+      "description": "Abdel Fattah al-Burhan struck a defiant tone after Washington withheld his visa amid a dispute over a proposed 90-day humanitarian truce in Sudan.",
+      "url": "https://www.foxnews.com/world/us-visa-clash-exposes-sudans-forgotten-war-foreign-powers-compete-strategic-foothold",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/Sudan-soldiers.jpg",
+      "publishedAt": "2026-09-28T22:15:22Z",
+      "content": "UNITED NATIONS Sudans military leader is openly defying a U.S.-backed ceasefire push after Washington withheld his visa to attend the U.N. General Assembly, exposing a widening rift over a war that h\u2026 [+12408 chars]",
+      "cocom": "USAFRICOM"
+    }
+  ]
+}

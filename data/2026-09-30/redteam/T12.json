@@ -1,0 +1,186 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Emmet Malone",
+      "title": "AI agents are hacking government agencies. It\u2019s \u2018really scary\u2019 for cybersecurity",
+      "description": "Existential risk remains a \u2018huge leap\u2019, experts say, but concerns are growing over AI capability",
+      "url": "https://www.irishtimes.com/ireland/2026/09/29/ai-agents-are-hacking-government-agencies-its-really-scary-for-cybersecurity/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/6MKKHI6QIZGUTFTJ7SEEAI7KLM.jpg?smart=true&auth=511e4e1051d5d9a627ce8e56876be9e9fd3ec11776700e463105533346fb3bb2&width=1200&height=630",
+      "publishedAt": "2026-09-29T05:00:01Z",
+      "content": "The breaking news last week that OpenAI agents had hacked the Australian public health service and three other agencies while doing what was supposed to be a rather mundane piece of research is the l\u2026 [+7855 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "https://www.abc.net.au/news/ahmed-yussuf/13177774",
+      "title": "North Korean hackers steal millions in crypto heist",
+      "description": "A North Korean hacking group infiltrated 30,000 devices stealing millions of dollars worth of cryptocurrency from people in hundreds of countries.",
+      "url": "https://www.abc.net.au/news/2026-09-29/north-korean-waterplum-steal-millions-ai-crypto-hack/107203942",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/ddeb798202dcdddbd2041ce51ca61371?impolicy=wcms_watermark_news&cropH=2268&cropW=4032&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-09-29T04:52:34Z",
+      "content": "A North Korean hacking group is using job ads to harvest sensitive information from unsuspecting applicants from hundreds of countries, authorities warn.\r\nThe group, known as \"WaterPlum\", infiltrated\u2026 [+4425 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Jessica Lyons",
+      "title": "JadePuffer crims hijacked Azure identities and used them to blow up cloud resources",
+      "description": "Smells like more agentic ransomware, Redmond warns",
+      "url": "https://www.theregister.com/security/2026/09/28/jadepuffer-crims-hijacked-azure-identities-and-used-them-to-blow-up-cloud-resources/5299591",
+      "urlToImage": "https://image.theregister.com/5299599.jpg?imageId=5299599&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "publishedAt": "2026-09-28T20:30:00Z",
+      "content": "The cyber criminal behind JadePuffer, the first known agentic ransomware infection reported over the summer, has also used stolen Azure identities to conduct destructive attacks on cloud storage and \u2026 [+4625 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "Associated Press",
+      "title": "OpenAI pauses training of latest AI models after agents probed US government sites in unexpected ways",
+      "description": "NEW YORK (AP) \u2014 OpenAI said it has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount. The decision to halt development came just hours after the company disclosed Friday that it was reviewing several incide\u2026",
+      "url": "https://freerepublic.com/focus/f-chat/4397164/posts",
+      "urlToImage": null,
+      "publishedAt": "2026-09-28T16:50:58Z",
+      "content": "Skip to comments.\r\nOpenAI pauses training of latest AI models after agents probed US government sites in unexpected waysAssociated Press ^\r\n | 09/28/26\r\n | BERNARD CONDON\r\nPosted on 09/28/2026 9:50:5\u2026 [+2324 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Sead Fadilpa\u0161i\u0107",
+      "title": "Citrix says two worrying NetScaler RCE zero-days exploited in attacks",
+      "description": "The company released a fix and urged organizations to patch up immediately.",
+      "url": "https://www.techradar.com/pro/security/citrix-says-two-worrying-netscaler-rce-zero-days-exploited-in-attacks",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/NGKiUcJVFBC8HkMp9dTo9a-1920-80.jpg",
+      "publishedAt": "2026-09-28T15:10:00Z",
+      "content": "<ul><li>Citrix patched two critical zero\u2011days (CVE\u20112026\u201188771, CVE\u20112026\u201188772) in NetScaler ADC/Gateway, both enabling remote code execution</li><li>Exploits already observed; CISA added flaws to KEV\u2026 [+4715 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Krebs on Security"
+      },
+      "author": "BrianKrebs",
+      "title": "Dutch Police Arrest \u2018Reformed\u2019 Hacker in Shiny Hunters Investigation",
+      "description": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters m\u2026",
+      "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
+      "urlToImage": null,
+      "publishedAt": "2026-09-28T15:08:57Z",
+      "content": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediat\u2026 [+11642 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Zack Whittaker",
+      "title": "FBI reportedly declares 'cyber security incident' after hackers steal agents' personal data | TechCrunch",
+      "description": "The bureau has not yet publicly confirmed a breach, but has told its agents that their personal information and Social Security numbers were exposed.",
+      "url": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/09/fbi-edgar-hoover-building-2288940613.jpg?resize=1200,800",
+      "publishedAt": "2026-09-28T14:54:41Z",
+      "content": "The Federal Bureau of Investigation has reportedly told its agents and support staff that their personal information was stolen in a recent cyberattack that targeted the bureau\u2019s job application port\u2026 [+3602 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Sead Fadilpa\u0161i\u0107",
+      "title": "Kiteworks tells users to shut down servers amid fears of 'imminent' cyberattack",
+      "description": "The police notified Kiteworks of apparently imminent attack, leading to the company reacting fast.",
+      "url": "https://www.techradar.com/pro/security/kiteworks-tells-users-to-shut-down-servers-amid-fears-of-imminent-cyberattack",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/x4SmwpYXk8yGgDmYCVeckL-2560-80.jpg",
+      "publishedAt": "2026-09-28T14:20:00Z",
+      "content": "<ul><li>Kiteworks warned customers of a \u201ccredible\u201d planned cyberattack, urging a nine\u2011hour precautionary shutdown</li><li>No breaches reported; advisory lifted Sept 27, systems restored, version 9.5.\u2026 [+5226 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "info@thehackernews.com (The Hacker News)",
+      "title": "\u26a1 Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
+      "description": "A domain used as harmless placeholder text showed up in roughly 1,700 repositories. Then somebody registered it and started serving malicious lures. That is the kind of week this was: forgotten assumptions turning into live attack surface.\n\nElsewhere, weak se\u2026",
+      "url": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4-eWVCAN2nvZGZrKlwm-wminZE56MzJ_bVRK6CJfdBw9TXU4yQy6t9T0hDi0hSOskE9Xs6M-KCVEbVvBuL2DLDkew97W2iobOPZa9zqEBeGPWBnW8cftdD1FwzBLz7CIGVhJb1FwnS-35B62Jqc331zNQ67hZP-V2jKBT7yUxUV4rn8jMr27QCommYp-j/s1700-nu-rw-lo-l85-e365/c-recap.jpg",
+      "publishedAt": "2026-09-28T14:00:53Z",
+      "content": "A domain used as harmless placeholder text showed up in roughly 1,700 repositories. Then somebody registered it and started serving malicious lures. That is the kind of week this was: forgotten assum\u2026 [+19048 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "info@thehackernews.com (The Hacker News)",
+      "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
+      "description": "Cybersecurity researchers have disclosed details of a new botnet malware called Carbonato that's targeting exposed Docker daemons to deploy an open-source artificial intelligence (AI) agent framework called Hermes Agent.\n\n\"The implant installs the framework u\u2026",
+      "url": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3O4ih8J3-A5sGh57xyYKMGbnSqaXbWhu2g9HBE_mG11gEdedMUmYyeeYpA9TnNPwRsB4t-5V9UTW54iOR0VNzyaaa0fWhOG4Oi46KwGvrrVQRdWIDS7GX6YxjaMrA6sF9RHWNyO8gBttCQ7Nc8LUmrhhH24jSp1lPDuhok9r3CfKxgGJRObZRqRTW-5Gf/s1700-nu-rw-lo-l85-e365/hermes-telegram.jpg",
+      "publishedAt": "2026-09-28T11:46:00Z",
+      "content": "Cybersecurity researchers have disclosed details of a new botnet malware called Carbonato that's targeting exposed Docker daemons to deploy an open-source artificial intelligence (AI) agent framework\u2026 [+6734 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Storm-3168, Linked to JADEPUFFER, Abused Stolen Azure Identities",
+      "description": "Microsoft details Storm-3168, the JADEPUFFER-linked actor that used stolen service principals to delete Azure storage in minutes and harvest keys. Microsoft just published the first detailed look at what JADEPUFFER does inside Azure. Sysdig first spotted the \u2026",
+      "url": "https://securityaffairs.com/199905/cyber-crime/storm-3168-linked-to-jadepuffer-abused-stolen-azure-identities.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2026/09/image-77.png",
+      "publishedAt": "2026-09-28T10:46:05Z",
+      "content": "Storm-3168, Linked to JADEPUFFER, Abused Stolen Azure Identities\r\nMicrosoft just published the first detailed look at what JADEPUFFER does inside Azure. Sysdig first spotted the group\u2019s activity in J\u2026 [+7371 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Help Net Security"
+      },
+      "author": "Zeljka Zorz",
+      "title": "Citrix NetScaler RCE zero-days exploited globally for weeks (CVE-2026-88771, CVE-2026-88772)",
+      "description": "Citrix has patched eight critical and high-severity vulnerabilities in NetScaler ADC and NetScaler Gateway, two of which (CVE-2026-88771, CVE-2026-88772) have been exploited in zero-day attacks to plant webshells on compromised devices. Rumors about their exi\u2026",
+      "url": "https://www.helpnetsecurity.com/2026/09/28/citrix-netscaler-rce-zero-days-exploited-for-weeks-cve-2026-88771-cve-2026-88772/",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2025/07/08172050/netscaler-1500-red.webp",
+      "publishedAt": "2026-09-28T09:51:32Z",
+      "content": "Citrix has patched eight critical and high-severity vulnerabilities in NetScaler ADC and NetScaler Gateway, two of which (CVE-2026-88771, CVE-2026-88772) have been exploited in zero-day attacks to pl\u2026 [+4777 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Malwarebytes.com"
+      },
+      "author": "Pieter Arntz",
+      "title": "FBI agents\u2019 blood tests and doctors\u2019 notes surface after breach",
+      "description": "A \u201cshellfish and banana allergy\u201d is among the details in medical records hackers showed reporters. They claim to hold records on thousands of FBI staff.",
+      "url": "https://www.malwarebytes.com/blog/data-breaches/2026/09/fbi-agents-blood-tests-and-doctors-notes-surface-after-breach",
+      "urlToImage": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2024/02/FBI_at_work.png",
+      "publishedAt": "2026-09-28T09:28:31Z",
+      "content": "BBC News reports it has seen samples of stolen FBI agents\u2019 medical examinations. The fitness-for-work reports identify FBI agents by name and address, and reveal even more personal details. They incl\u2026 [+3310 chars]",
+      "cocom": "USNORTHCOM"
+    }
+  ]
+}
