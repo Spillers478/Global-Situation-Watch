@@ -1,0 +1,34 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Newser"
+      },
+      "author": "Jenn Gidman with Newser.AI",
+      "title": "In This Florida County, an 'Immediate and Widespread Threat'",
+      "description": "Florida officials aren't just swatting at mosquitoes anymore\u2014they're treating them as an emergency. Hillsborough County, home to Tampa, has declared a local state of emergency after confirming 134 cases of dengue fever, saying the virus now presents an \"immed\u2026",
+      "url": "https://www.newser.com/story/397275/amid-dengue-spike-fla-counties-declare-emergency.html",
+      "urlToImage": "https://cdn.newser.com/image/1714704-12-20260929165003.jpeg",
+      "publishedAt": "2026-09-29T21:20:00Z",
+      "content": "Florida officials aren't just swatting at mosquitoes anymore\u2014they're treating them as an emergency. Hillsborough County, home to Tampa, has declared a local state of emergency after confirming 134 ca\u2026 [+1681 chars]",
+      "cocom": "USNORTHCOM",
+      "_original_topic_id": "T05"
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Frances Martel",
+      "title": "Ebola: DR Congo Logs 8000+ Cases as Attacks on Officials Increase",
+      "description": "Authorities in the Democratic Republic of Congo have recorded more than 8,000 cases of Ebola since an outbreak was identified there in May.\nThe post Ebola: DR Congo Logs 8000+ Cases as Attacks on Officials Increase appeared first on Breitbart.",
+      "url": "https://www.breitbart.com/africa/2026/09/29/ebola-dr-congo-logs-8000-cases-attacks-officials-increase/",
+      "urlToImage": "https://media.breitbart.com/media/2026/09/DR-Congo-Ebola-attack-on-treatment-center-640x335.jpg",
+      "publishedAt": "2026-09-29T15:42:39Z",
+      "content": "Authorities in the Democratic Republic of Congo (DRC) have documented as of Monday over 8,000 confirmed cases of Ebola Bundibugyo,\u00a0nearly half of them fatal, since an outbreak of the disease was iden\u2026 [+6516 chars]",
+      "cocom": "USAFRICOM",
+      "_original_topic_id": "T13"
+    }
+  ]
+}

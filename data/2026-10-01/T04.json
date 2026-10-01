@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Isabel Baldwin",
+      "title": "Wife of Tennessee football coach reveals he is 'fighting' after being hospitalized with mystery illness... as family calls for 'prayers'",
+      "description": "The University of Tennessee announced last week that William Inge, the team's linebackers coach, was in hospital with an undisclosed health issue. His wife shared an update on social media.",
+      "url": "https://www.dailymail.com/sport/college-football/article-16168079/william-inge-tennessee-football-coach-hospitalized.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/09/29/01/111530295-0-image-m-13_1790642156105.jpg",
+      "publishedAt": "2026-09-29T00:42:59Z",
+      "content": "The wife of University of Tennessee assistant football coach William Inge shared an update on her husband's condition after he was hospitalized.\u00a0\r\nThe school announced last week that Inge, the team's\u2026 [+3208 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": "Duri Lee, Sungrae Kim, Guehwan Jang, Changhee Lee",
+      "title": "A 32-amino-acid deletion in the nonstructural protein 3-coding region of porcine epidemic diarrhea virus is associated with clinical attenuation in piglets",
+      "description": "Scientific Reports - A 32-amino-acid deletion in the nonstructural protein 3-coding region of porcine epidemic diarrhea virus is associated with clinical attenuation in piglets",
+      "url": "https://www.nature.com/articles/s41598-026-72785-4.pdf",
+      "urlToImage": null,
+      "publishedAt": "2026-09-29T00:00:00Z",
+      "content": "Since the global emergence of highly pathogenic genotype 2b (HP-G2b) porcine epidemic diarrhea virus (PEDV) strains in 2013, these viruses have become endemic in South Korea. During local outbreaks, \u2026 [+1291 chars]"
+    }
+  ]
+}

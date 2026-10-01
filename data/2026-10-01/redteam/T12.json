@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "KQED"
+      },
+      "author": "Jess Love",
+      "title": "The Cybersecurity Crisis Is About More Than \u201cRogue AI\u201d (with V.S. Subrahmanian)",
+      "description": "AI is making cyberattacks cheaper, faster, and more sophisticated. Recent reports of autonomous agents compromising Hugging Face show how quickly misaligned systems can create real-world risk. But ideally those same tools could help defenders find and fix vul\u2026",
+      "url": "https://www.kqed.org/news/12101920/the-cybersecurity-crisis-is-about-more-than-rogue-ai-with-v-s-subrahmanian",
+      "urlToImage": "https://cdn.kqed.org/wp-content/uploads/sites/10/2026/09/VS-KQED-Image.png",
+      "publishedAt": "2026-09-30T10:00:00Z",
+      "content": "View Full Episode Transcript\r\nAI is making cyberattacks cheaper, faster, and more sophisticated. Recent reports of autonomous agents compromising Hugging Face show how quickly misaligned systems can \u2026 [+29307 chars]",
+      "cocom": "Transregional",
+      "_original_topic_id": "flagship-ir-il"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Kai Nicol-Schwarz",
+      "title": "OpenAI is sued over rogue AI Hugging Face cyberattack",
+      "description": "The lawsuit appears to be the first publicly reported case seeking to hold an AI developer liable for an incident caused by rogue systems.",
+      "url": "https://www.cnbc.com/2026/09/30/openai-sued-cyberattack.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108367086-1790191953634-gettyimages-2296171253-UNGA_2026.jpeg?v=1790192037&w=1920&h=1080",
+      "publishedAt": "2026-09-30T10:16:36Z",
+      "content": "OpenAI has been sued by a non-profit organization over its models' cyberattack against startup Hugging Face in July.\r\nLegal Advocates for Safe Science and Technology, or LASST, filed the suit in San \u2026 [+2647 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KQED"
+      },
+      "author": "Jess Love",
+      "title": "The Cybersecurity Crisis Is About More Than \u201cRogue AI\u201d (with V.S. Subrahmanian)",
+      "description": "AI is making cyberattacks cheaper, faster, and more sophisticated. Recent reports of autonomous agents compromising Hugging Face show how quickly misaligned systems can create real-world risk. But ideally those same tools could help defenders find and fix vul\u2026",
+      "url": "https://www.kqed.org/news/12101920/the-cybersecurity-crisis-is-about-more-than-rogue-ai-with-v-s-subrahmanian",
+      "urlToImage": "https://cdn.kqed.org/wp-content/uploads/sites/10/2026/09/VS-KQED-Image.png",
+      "publishedAt": "2026-09-30T10:00:00Z",
+      "content": "View Full Episode Transcript\r\nAI is making cyberattacks cheaper, faster, and more sophisticated. Recent reports of autonomous agents compromising Hugging Face show how quickly misaligned systems can \u2026 [+29307 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "Sarah Richards",
+      "title": "Queensland government department loses $800k in cyber attack",
+      "description": "The review, released on Friday, said no government data or sensitive information was compromised during the incident.",
+      "url": "https://www.abc.net.au/news/2026-09-30/qld-government-customer-services-department-cyber-attack/107207128",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/48916d6d9af8d165296c135561a9dc4e?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=274&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-09-29T22:38:19Z",
+      "content": "The Queensland government department delivering the state's first cyber security strategy lost more than $800,000 in a cyber attack, a new report has revealed.\r\nThe Customer Services, Open Data and S\u2026 [+3380 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Jessica Lyons",
+      "title": "Custom malware used in Citrix 0-day attacks targeting govt, banks, professional services",
+      "description": "Two questions remain: who is abusing the CVEs? And why did Citrix take so long to disclose?",
+      "url": "https://www.theregister.com/security/2026/09/29/custom-malware-used-in-citrix-0-day-attacks-targeting-govt-banks-professional-services/5299867",
+      "urlToImage": "https://image.theregister.com/228319.jpg?imageId=228319&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "publishedAt": "2026-09-29T17:49:45Z",
+      "content": "The public still doesnt know who is abusing a critical Citrix vulnerability exploited as a zero-day weeks before disclosure, but we now know that the unknown digital intruders have used CVE-2026-8877\u2026 [+5528 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Microsoft.com"
+      },
+      "author": "Microsoft Defender Experts Cybersecurity Incident Response",
+      "title": "\u200b\u200bBeyond source code: A path to the keys to the kingdom",
+      "description": "Explore how Storm-3068 turned a compromised identity into broader cloud access and the steps organizations can take to defend their identities, pipelines, and cloud infrastructure.\nThe post \u200b\u200bBeyond source code: A path to the keys to the kingdom appeared firs\u2026",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/",
+      "urlToImage": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/09/cyberattackseries_header_imageQ1FY27.png",
+      "publishedAt": "2026-09-29T16:00:00Z",
+      "content": "What began as a single compromised identity quickly expanded into an organization\u2019s development and cloud environments. In our latest Cyberattack Series report, we examine how the Microsoft Detection\u2026 [+7156 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Microsoft.com"
+      },
+      "author": "Microsoft Threat Intelligence",
+      "title": "Star Blizzard refines phishing and malware delivery with the RedFlick technique",
+      "description": "Since January 2026, Microsoft has observed Russian state threat actor Star Blizzard evolve their detection evasion capabilities through large-scale phishing campaigns, the use of accounts on compromised websites, and a novel malware delivery technique, tracke\u2026",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/",
+      "urlToImage": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/09/Star-Blizzard-RedFlick-featued-image-1024x576.png",
+      "publishedAt": "2026-09-29T15:00:00Z",
+      "content": "In this article\r\nSince January 2026, Microsoft has observed Russian state threat actor Star Blizzard evolve their detection evasion capabilities through large-scale phishing campaigns, the use of acc\u2026 [+37284 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T14"
+    }
+  ]
+}

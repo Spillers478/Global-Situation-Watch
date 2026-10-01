@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "The Santa Fe New Mexican",
+      "title": "Hatch, nearby towns advised to evacuate due to \u2018imminent failure\u2019 of dam.",
+      "description": "EL PASO, Texas (KTSM) \u2014 Dona Ana County has now issued evacuation orders for five communities after flooding and a warning about \u201cimminent failure\u201d of a dam on Tuesday, Sept. 29. Dona Ana has now issued evaucation orders for Hatch and Placitas on Tuesday even\u2026",
+      "url": "https://freerepublic.com/focus/f-news/4397379/posts",
+      "urlToImage": null,
+      "publishedAt": "2026-09-30T05:05:09Z",
+      "content": "Skip to comments.\r\nHatch, nearby towns advised to evacuate due to imminent failure of dam. The Santa Fe New Mexican ^\r\n | 09/29/2026\r\n | Eliya Alvidrez\r\nPosted on 09/29/2026 10:05:09 PM PDT by know.y\u2026 [+2095 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI World Desk",
+      "title": "In 2017, a California wildlife-park owner defied a wildfire evacuation to protect 1,000 animals; by morning, he had lost no animal, bird or structure",
+      "description": "On October 8, 2017, Peter Lang chose to remain at his wildlife preserve to protect the animals. Following evacuation orders, he evacuated his wife and employees before defending the facility from wildfires. Lang utilized hoses to combat small fires that threa\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/us/in-2017-a-california-wildlife-park-owner-defied-a-wildfire-evacuation-to-protect-1000-animals-by-morning-he-had-lost-no-animal-bird-or-structure/articleshow/134562146.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134562221,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-29T11:30:53Z",
+      "content": "<ul><li>News</li>\r\n<li>World News</li>\r\n<li>US News</li>\r\n<li>In 2017, a California wildlife-park owner defied a wildfire evacuation to protect 1,000 animals; by morning, he had lost no animal, bird \u2026 [+2421 chars]"
+    }
+  ]
+}

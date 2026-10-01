@@ -1,0 +1,357 @@
+{
+  "status": "ok",
+  "totalResults": 27,
+  "articles": [
+    {
+      "source": {
+        "id": "rte",
+        "name": "RTE"
+      },
+      "author": "RT\u00c9 News",
+      "title": "Russia issues NATO nuclear warning amid Baltic tensions",
+      "description": "Russia has warned NATO it would be ready to resort to nuclear \u2060weapons if the Western alliance attempted to cut off Kaliningrad, a Russian exclave that borders the Baltic Sea.",
+      "url": "https://www.rte.ie/news/2026/0930/1593475-russia-issues-nato-nuclear-warning-amid-baltic-tensions/",
+      "urlToImage": "https://www.rte.ie/images/00251276-1600.jpg",
+      "publishedAt": "2026-09-30T10:03:22Z",
+      "content": "Russia has warned NATO it would be ready to resort to nuclear weapons if the Western alliance attempted to cut off Kaliningrad, a Russian exclave that borders the Baltic Sea.\r\nIn a document sent to N\u2026 [+2876 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Perkin Amalaraj",
+      "title": "From Saddam's execution to the rise and fall of ISIS: Stunning images illustrate America's two decades in Iraq as final US troops leave today",
+      "description": "More than two decades after the invasion of Iraq, the last American troops are pulling out\u00a0from their last bases in the country.",
+      "url": "https://www.dailymail.com/news/article-16171791/Saddam-Hussein-US-Iraq-invasion.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/09/30/08/111558765-0-image-a-8_1790753250739.jpg",
+      "publishedAt": "2026-09-30T09:02:06Z",
+      "content": "At precisely 5.34am on March 20 2003, US-led coalition forces launched the surprise military invasion of Iraq with no fanfare or warning.\u00a0\r\nThat fateful day saw the first wave of hundreds of thousand\u2026 [+11279 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Reuters",
+      "title": "China\u2019s AI agents can lie and scheme \u2013 just like their US rivals",
+      "description": "At least 20 studies show Chinese AI agents from Alibaba and DeepSeek can lie, fabricate files, and evade shutdown in simulated tests.",
+      "url": "https://nypost.com/2026/09/30/business/chinas-ai-agents-can-lie-and-scheme-just-like-their-us-rivals/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-eyh3laetk-1790753428788.jpg?quality=75&strip=all&1790739082&w=1200",
+      "publishedAt": "2026-09-30T08:12:15Z",
+      "content": "Chinese-powered AI agents have learned to deceive, circumvent restrictions and conceal failure, showing the kind of traits in autonomous artificial intelligence that have raised\u00a0global alarm\u00a0about US\u2026 [+10807 chars]"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Gerry Moriarty",
+      "title": "Who is Jamie Bryson, the unelected loyalist standing \u2018front, back and centre\u2019 at Drumcree?",
+      "description": "Bryson is opposed to the Belfast Agreement and wields extraordinary influence within unionism and loyalism",
+      "url": "https://www.irishtimes.com/politics/2026/09/30/who-is-jamie-bryson-the-unelected-loyalist-standing-front-back-and-centre-at-drumcree/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/QZC55QTZDVFY7OWVKMBXNKOASI.JPG?smart=true&auth=af390d42a8c7827f4b899e7f21c95f17144a3bb54e5d318c767c173eca4af972&width=1200&height=630",
+      "publishedAt": "2026-09-30T05:00:00Z",
+      "content": "This week Jamie Bryson was happily repeating a line he first delivered to Orange Order supporters in Portadown early on Monday morning. \r\nEither the Portadown District goes down [the Garvaghy Road] o\u2026 [+5683 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Juancole.com"
+      },
+      "author": "Juan Cole",
+      "title": "Vietnamese Press: US Military Withdrawal from Iraq a victory for Tehran",
+      "description": "The brain-dead Netanyahu-Trump war on Iran was the nail in the coffin for the US troop presence in the Middle East",
+      "url": "https://www.juancole.com/2026/09/vietnamese-military-withdrawal.html",
+      "urlToImage": "https://media.juancole.com/images/2026/09/President_Donald_J._Trump_and_Iraqi_Prime_Minister_Ali_al-Zaidi-1.jpg",
+      "publishedAt": "2026-09-30T04:15:30Z",
+      "content": "Ann Arbor (Informed Comment) \u2013 I was a little surprised to see that the Vietnamese internet news agency Vietnam.vn has an Arabic service. It carried an article yesterday by journalist B\u00e1o Tin Phong o\u2026 [+5413 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Joseph Stepansky",
+      "title": "Iraq begins high-stakes security balancing act as US troops withdraw",
+      "description": "Iraq marks national 'Sovereignty Days' as US troops depart, but must navigate risks of new security landscape.",
+      "url": "https://www.aljazeera.com/news/2026/9/29/iraq-begins-high-stakes-security-balancing-act-as-us-troops-withdraw",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6abbd97ca27c-1790695804.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-29T23:06:53Z",
+      "content": "Iraq is set to hold four Sovereignty Days, a national holiday marking the complete withdrawal of US troops from the country and underscoring the deep symbolism of the exit after more than two decades\u2026 [+10700 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Foreign Policy"
+      },
+      "author": "Steven A. Cook",
+      "title": "Is Egypt\u2019s Diplomacy Clever or Clumsy?",
+      "description": "Regional wars have required Cairo to maneuver between competing demands.",
+      "url": "http://foreignpolicy.com/2026/09/29/egypt-iran-diplomacy-uae-gaza-israel-united-states-houthis/",
+      "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2026/09/GettyImages-2208385193.jpg",
+      "publishedAt": "2026-09-29T20:52:09Z",
+      "content": "It has been almost three years since Hamas kicked off a regional war when its cadres and members of other Palestinian extremist groups slaughtered about 1,200 Israelis. In the endless Middle East new\u2026 [+9474 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Associated Press",
+      "title": "Iran\u2019s currency hits new record low as war destroys country\u2019s economy",
+      "description": "The latest decline came just 27 days after the rial hit its previous record low of 2.2 million to the US dollar on Sept. 2.",
+      "url": "https://nypost.com/2026/09/29/world-news/irans-currency-hits-new-record-low-as-war-destroys-countrys-economy/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/143051164.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-09-29T20:28:50Z",
+      "content": "Irans currency fell to a new record low on Tuesday, with traders in Tehran exchanging more than 2.5 million rials to the US dollar in a stark reflection of how the war in the Middle East has steadily\u2026 [+7281 chars]"
+    },
+    {
+      "source": {
+        "id": "rt",
+        "name": "RT"
+      },
+      "author": "RT",
+      "title": "Lavrov destroys BBC\u2019s \u2018hybrid war\u2019 play (VIDEO)",
+      "description": "Russian Foreign Minister Sergey Lavrov has ridiculed the BBC for accusing Russia of waging \u201chybrid war\u201d when Europe is supplying drones and missiles to Ukraine",
+      "url": "https://www.rt.com/russia/646445-lavrov-bbc-hybrid-war/",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6abc04da203027766a35cba6.jpg",
+      "publishedAt": "2026-09-29T19:18:18Z",
+      "content": "Russian Foreign Minister Sergey Lavrov has treated an accusation from a BBC correspondent with the contempt expected of a veteran diplomat.\u00a0\r\nThe British state broadcaster\u2019s Steve Rosenberg asked Lav\u2026 [+2834 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Reuters",
+      "title": "China's AI agents can lie and scheme, just like their US rivals",
+      "description": "\"These results provide evidence that the ingredients necessary for an uncontrolled escape are present,\" said Colin Shea-Blymyer, a research fellow said",
+      "url": "https://www.business-standard.com/world-news/china-s-ai-agents-can-lie-and-scheme-just-like-their-us-rivals-126092901469_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/27/thumb/fitandfill/1200X628/1787822858-4439.png",
+      "publishedAt": "2026-09-29T18:05:17Z",
+      "content": "\"These results provide evidence that the ingredients necessary for an uncontrolled escape are present,\" said Colin Shea-Blymyer, a research fellow said\r\nRepresentative image of AI agents (AI-generate\u2026 [+10283 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Emily Feng",
+      "title": "Potential Taiwan tension sparked 'last minute' change in Trump-Xi National Archives visit",
+      "description": "The sudden change was precipitated because of Chinese displeasure over one document that the U.S. had planned to show.",
+      "url": "https://www.npr.org/2026/09/29/nx-s1-5984989/digital-archives-trump-xi",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4408x2480+0+269/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2b%2Fbf%2Ff612e9154c1f92d1c4a55d775a55%2Fgettyimages-2297118196.jpg",
+      "publishedAt": "2026-09-29T17:17:04Z",
+      "content": "On Friday, the National Archives Museum prepared to welcome President Trump and the Chinese leader Xi Jinping.\r\nInside the museum's main foyer, a long table had been set up in the center of the room \u2026 [+5370 chars]"
+    },
+    {
+      "source": {
+        "id": "rt",
+        "name": "RT"
+      },
+      "author": "RT",
+      "title": "EU nation reacts to Israel stripping West Bank diplomat\u2019s credentials",
+      "description": "Israel has canceled the credentials of Netherlands diplomats in Ramallah, effectively ending Dutch representation in the West Bank Read Full Article at RT.com",
+      "url": "https://www.rt.com/news/646438-israel-netherlands-diplomatic-row/",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6abbebe82030276de3071246.jpg",
+      "publishedAt": "2026-09-29T16:48:48Z",
+      "content": "The Netherlands on Monday said it had summoned Israeli Ambassador Zvi Aviner Vapni over a decision to revoke the diplomatic status of Dutch representatives at the mission in Ramallah in the occupied \u2026 [+2225 chars]"
+    },
+    {
+      "source": {
+        "id": "rt",
+        "name": "RT"
+      },
+      "author": "RT",
+      "title": "EU states push farm aid cuts to fund military buildup",
+      "description": "Germany and five other EU countries have threatened to block the next budget unless Brussels cuts spending and shifts funding away from farmers and poorer regions",
+      "url": "https://www.rt.com/news/646435-germany-eu-budget-cuts/",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6abbd9532030273b720b0f81.jpg",
+      "publishedAt": "2026-09-29T16:41:51Z",
+      "content": "The EU\u2019s next budget should be cut by hundreds of billions of euros and shift funding away from agricultural subsidies and towards military spending, Germany and five other member states have demande\u2026 [+2774 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Smallwarsjournal.com"
+      },
+      "author": "David Maxwell",
+      "title": "9/29/26 National Security and Korean News and Commentary",
+      "description": "Access National Security News HERE. Access Korean News HERE. National Security News: 1. The New Forever War: Why America and Iran Fight On Without Victory 2. Withdraw from the first island chain? Reinforce the wall of Asia Pacific democracies from Korea to Au\u2026",
+      "url": "https://smallwarsjournal.com/2026/09/29/9-29-26-national-security-and-korean-news-and-commentary/",
+      "urlToImage": "https://smallwarsjournal.com/wp-content/uploads/2024/09/og-img.png",
+      "publishedAt": "2026-09-29T15:52:10Z",
+      "content": "Access National Security News HERE.\r\nAccess Korean News HERE.\r\nNational Security News:\r\n1. The New Forever War: Why America and Iran Fight On Without Victory\r\n2. Withdraw from the first island chain?\u2026 [+2377 chars]"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Martin Dunai in Budapest",
+      "title": "Donald Trump\u2019s ambassador to Greece causes stir in Romania",
+      "description": "Kimberly Guilfoyle told embassy dinner in Athens \u2018we can do that to any country\u2019, in reference to Romanian government\u2019s fall",
+      "url": "https://www.irishtimes.com/world/europe/2026/09/29/donald-trumps-ambassador-to-greece-causes-stir-in-romania/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/A2EYHSFXEFM7ZZAIL4FVHHZU5Q.jpg?smart=true&auth=dd8ad398193dface6501a2f802335611b84acd5fedd7dc81646b4e939dae93d2&width=1200&height=630",
+      "publishedAt": "2026-09-29T15:26:10Z",
+      "content": "Donald Trumps ambassador to Greece has caused a political stir in Romania after suggesting the United States could bring down governments, in remarks that appeared to refer to events in Bucharest ear\u2026 [+5538 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Microsoft.com"
+      },
+      "author": "Microsoft Threat Intelligence",
+      "title": "Star Blizzard refines phishing and malware delivery with the RedFlick technique",
+      "description": "Since January 2026, Microsoft has observed Russian state threat actor Star Blizzard evolve their detection evasion capabilities through large-scale phishing campaigns, the use of accounts on compromised websites, and a novel malware delivery technique, tracke\u2026",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/",
+      "urlToImage": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/09/Star-Blizzard-RedFlick-featued-image-1024x576.png",
+      "publishedAt": "2026-09-29T15:00:00Z",
+      "content": "In this article\r\nSince January 2026, Microsoft has observed Russian state threat actor Star Blizzard evolve their detection evasion capabilities through large-scale phishing campaigns, the use of acc\u2026 [+37284 chars]"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Myles McCormick",
+      "title": "Rubio says airbase incident involved \u2018foreign actor\u2019",
+      "description": "RAF Fairford was being used by US Air Force for strikes on Iran",
+      "url": "https://www.irishtimes.com/world/uk/2026/09/29/rubio-says-airbase-incident-involved-foreign-actor/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/5OIC3EYNYJXMHDWJNRCDIVRPQI.jpg?smart=true&auth=41163e05a164964783444f1abf94c573346f5001122428d2cfba3d4b87bfbec9&width=1200&height=630",
+      "publishedAt": "2026-09-29T14:50:07Z",
+      "content": "US secretary of state Marco Rubio said a foreign actor was involved in a suspected terrorist plot near a British air force base this weekend, in remarks that will intensify global scrutiny of the inc\u2026 [+2446 chars]"
+    },
+    {
+      "source": {
+        "id": "rt",
+        "name": "RT"
+      },
+      "author": "RT",
+      "title": "India\u2019s top diplomat reveals main hang-up in relations with US",
+      "description": "External Affairs Minister S. Jaishankar says US failure to understand India\u2019s security concerns is straining ties Read Full Article at RT.com",
+      "url": "https://www.rt.com/india/646419-india-us-pakistan-terrorism-jaishankar/",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.09/article/6abbbc6320302734f543630c.jpg",
+      "publishedAt": "2026-09-29T13:52:03Z",
+      "content": "A lack of US \u201cunderstanding or appreciation or empathy\u201d for India\u2019s concerns over cross-border terrorism is creating problems in ties between New Delhi and Washington, External Affairs Minister S. Ja\u2026 [+2232 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalresearch.ca"
+      },
+      "author": "Timothy Alexander Guzman",
+      "title": "Sex Crimes and Murder: US Military Bases in Okinawa is a Nightmare for Local Residents",
+      "description": "The US is considered a global empire with more than 750 military bases including numerous CIA black sites in more than 80 countries, but former CIA officer, Robert David Steele, exposed what is Washington\u2019s main purpose for those bases \u2026\nThe post Sex Crimes a\u2026",
+      "url": "https://www.globalresearch.ca/us-military-bases-okinawa-nightmare-local-residents/5942082",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2026/09/us-military-okinawa-japan-1024x576.jpeg",
+      "publishedAt": "2026-09-29T13:45:07Z",
+      "content": "The US is considered a global empire with more than 750 military bases including numerous CIA black sites in more than 80 countries, but former CIA officer, Robert David Steele, exposed what is Washi\u2026 [+19146 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Reuters",
+      "title": "China's AI agents can lie and scheme - just like their US rivals",
+      "description": "Reuters examined more than 200 documents, ranging from university research papers to technical reports, and identified at least 20 studies or evaluations since 2025 describing cases where agents displayed behaviour such as deception, replication and challengi\u2026",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-ai-agents-can-lie-and-scheme-just-like-their-us-rivals/articleshow/134565859.cms",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1859423,resizemode-75,msid-134565859/tech/artificial-intelligence/chinas-ai-agents-can-lie-and-scheme-just-like-their-us-rivals.jpg",
+      "publishedAt": "2026-09-29T12:17:24Z",
+      "content": "Chinese-powered AI agents have learnt to deceive, circumvent restrictions and conceal failure, showing the kind of traits in autonomous artificial intelligence that have raised global alarm about US \u2026 [+9832 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Blogspot.com"
+      },
+      "author": "noreply@blogger.com (Unknown)",
+      "title": "Middle East Institute: Ankara\u2019s Nuclear Ambitions in the Post-Iran War Environment",
+      "description": "G\u00f6n\u00fcl Tol*, September 28, 2026A longer version of this article was originally published by MEI on September 10, 2026.In February 2026, Turkish Foreign Minister Hakan Fidan suggested that shifting international dynamics could push Turkey to acquire nuclear wea\u2026",
+      "url": "https://i-epikaira.blogspot.com/2026/09/middle-east-institute-ankaras-nuclear.html",
+      "urlToImage": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uQfiPtVuWl0PWe4ethUZJSkG0iRV9g3Fr1aB_CzGCM99fcFzUB6uscBzcwPVYOESIDtcFiPj0WbbqkASenMQ4-dTgwQXMuyXcz2vT576bCzTGN-N80UpcKS8e32fHiK5oh72jizxOC-KoaFtBuXqZKvAXKqtE8TQjxuSyS377980v82R0JhCtFM__tyApqPHwkXmKvQr11",
+      "publishedAt": "2026-09-29T10:44:40Z",
+      "content": "LIVE GEOPOLITICAL ANALYSIS\r\nLAUNCH INDEX\r\nMonitoring for analysts, investors, journalists, and geopolitical observers by iEpikaira."
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "US\u2019s Marco Rubio says UK airbase incident involved \u2018foreign actor\u2019",
+      "description": "Washington's top diplomat calls the suspected plot 'a very serious situation' after five were arrested over the weekend.",
+      "url": "https://www.aljazeera.com/news/2026/9/29/uss-marco-rubio-says-uk-airbase-incident-involved-foreign-actor",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a74d56096-1786041696.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-29T09:12:37Z",
+      "content": "United States Secretary of State Marco Rubio has said a foreign actor was involved in a suspected bomb plot near an airbase in the United Kingdom used by the US military.\r\nPolice arrested five men, a\u2026 [+2350 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Duarte Dias",
+      "title": "Trump denies offering Iran sanctions relief as indirect talks continue",
+      "description": "What to know about the Iran war today:President Trump denied a report from Axios that he had offered Iran sanctions relief and access to frozen funds in ongoing negotiations. The president confirmed Monday that American and Iranian negotiators are engaged in \u2026",
+      "url": "https://www.yahoo.com/news/politics/articles/iran-says-trump-choose-between-092115082.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/98f5548e0bcfa925bada0b0dcc12b0af5fe87e4b1e81d0228f831c5087a51a16/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F346682345f6e7d74607a9241e9b6e801.jpg",
+      "publishedAt": "2026-09-29T07:21:15Z",
+      "content": "What to know about the Iran war today:\r\nPresident Trump denied a report from Axios that he had offered Iran sanctions relief and access to frozen funds in ongoing negotiations. The president confirme\u2026 [+25015 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Martin Robinson",
+      "title": "RAF Fairford suspected terror plot involved a foreign actor, says Marco Rubio",
+      "description": "In a TV interview, the top diplomat mentioned Iran by name, pointing out it had threatened to attack US interests, but did not directly blame it for the weekend incident in Gloucestershire.",
+      "url": "https://www.dailymail.com/news/article-16168541/RAF-Fairford-suspected-terror-plot-involved-foreign-actor-says-Marco-Rubio.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/09/29/07/111533725-0-image-m-17_1790664699538.jpg",
+      "publishedAt": "2026-09-29T07:03:37Z",
+      "content": "A suspected terror plot against an RAF base used by American forces to bomb Iran 'clearly involves the hand of a foreign actor', US Secretary of State Marco Rubio has insisted, amid controversy over \u2026 [+6344 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Diplomat"
+      },
+      "author": "Rajeev Bhattacharyya",
+      "title": "Living Under a Lethal Sky: Myanmar\u2019s Arakan on Edge as Military Airstrikes on Civilians Grow",
+      "description": "Airstrikes are no longer intermittent dangers as they were two years ago, but a constant hazard. They are part of the people\u2019s daily lives, woven into their collective consciousness.",
+      "url": "https://thediplomat.com/2026/09/living-under-a-lethal-sky-myanmars-arakan-on-edge-as-military-airstrikes-on-civilians-grow/",
+      "urlToImage": "https://thediplomat.com/wp-content/uploads/2026/09/sizes/td-story-s-2/thediplomat_2026-09-29-162205.jpg",
+      "publishedAt": "2026-09-29T07:02:00Z",
+      "content": "The stench of burnt flesh and bones was nauseating even from a distance. Mutilated and burnt body parts lay strewn amid the ruins of bombed houses. Smoke billowed from what was once a thriving market\u2026 [+39776 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "AP",
+      "title": "Trump rejects ambassador's claim he offered US weapons to China's Xi",
+      "description": "President Donald Trump disputed that he asked Chinese leader Xi Jinping if he wanted to buy weapons from the United States, contradicting an account from the US ambassador to China.\nTrump on Monday acted confused when a reporter asked him about Ambassador Dav\u2026",
+      "url": "https://www.business-standard.com/world-news/trump-rejects-ambassador-s-claim-he-offered-us-weapons-to-china-s-xi-126092900043_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/28/thumb/fitandfill/1200X628/1790568944-644.jpg",
+      "publishedAt": "2026-09-29T02:52:28Z",
+      "content": "President Donald Trump disputed that he asked Chinese leader Xi Jinping if he wanted to buy weapons from the United States, contradicting an account from the US ambassador to China.\r\nTrump on Monday \u2026 [+4707 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "AP- PTI",
+      "title": "Trump disputes ambassador's claim he asked Xi if China wants to buy US arms",
+      "description": "The State Department distanced itself from Perdue\u2019s remarks, noting that US law prohibits arms sales to China and there is no offer or plan to sell arms to China",
+      "url": "https://www.thehindubusinessline.com/news/world/trump-disputes-ambassadors-claim-he-asked-xi-if-china-wants-to-buy-us-arms/article71522330.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/z7ljnm/article71522390.ece/alternates/LANDSCAPE_1200/2026-09-28T221649Z_998897836_RC2ISNA09CO2_RTRMADP_3_USA-ELECTION-TRUMP-ADS.JPG",
+      "publishedAt": "2026-09-29T02:33:28Z",
+      "content": "President Donald Trump disputed that he asked Chinese leader Xi Jinping if he wanted to buy weapons from the United States, contradicting an account from the US ambassador to China.\r\nTrump on Monday \u2026 [+4548 chars]"
+    }
+  ]
+}

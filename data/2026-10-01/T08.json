@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Joken Ete",
+      "title": "Assam Rifles jawan killed in Arunachal militant attack",
+      "description": "Assam Rifles havildar killed and four injured in suspected NSCN (K-YA) ambush during patrol near India-Myanmar border in Changlang, Arunachal Pradesh.",
+      "url": "https://timesofindia.indiatimes.com/city/guwahati/assam-rifles-jawan-killed-in-arunachal-militant-attack/articleshow/134569596.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-09-29T15:01:31Z",
+      "content": "Follow Us On Social Media\r\nRavenshaw University student alleges ragging after gaming rowDead mouse found in pickle jar: Influencer shares shocking video as brand recalls peppers over potential pest c\u2026 [+1434 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Abhishek Mishra",
+      "title": "Assam Rifles jawan killed, four injured in suspected militant attack along Myanmar border in Arunachal Pradesh",
+      "description": "NEW DELHI: A jawan of the Assam Rifles was killed and four others were injured in a suspected militant attack along the India-Myanmar border in Changlang",
+      "url": "https://timesofindia.indiatimes.com/india/assam-rifles-jawan-killed-four-injured-in-suspected-militant-attack-along-myanmar-border-in-arunachal-pradesh/articleshow/134561299.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134561357,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-29T08:56:08Z",
+      "content": "<ul><li>News</li>\r\n<li>India News</li>\r\n<li>Assam Rifles jawan killed, four injured in suspected militant attack along Myanmar border in Arunachal Pradesh</li></ul>\r\nFollow Us On Social Media\r\n'Feels\u2026 [+2023 chars]"
+    }
+  ]
+}

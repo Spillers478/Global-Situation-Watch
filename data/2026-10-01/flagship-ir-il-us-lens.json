@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "totalResults": 1,
+  "articles": [
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Iran loses grip on Strait of Hormuz as US as Tehran calls on Americans to vote out Trump - Fox News",
+      "description": "Iran's economy remains crippled by sanctions and a U.S. blockade, leaving Tehran with few options now that its control over the Strait of Hormuz has slipped.",
+      "url": "https://www.foxnews.com/live-news/iran-war-news-trump-oil-september-30",
+      "urlToImage": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/f85ef488b5b03b74fbd6af79ff0968d6.jpg",
+      "publishedAt": "2026-09-30T10:59:08Z",
+      "content": "Iranian security forces have stepped up their presence in Tehran and other cities, with motorcycle patrols, checkpoints and forces positioned across major urban areas as authorities brace for possibl\u2026 [+1599 chars]"
+    }
+  ]
+}

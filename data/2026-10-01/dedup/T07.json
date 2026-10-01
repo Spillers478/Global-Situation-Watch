@@ -1,0 +1,12 @@
+{
+  "groups": {
+    "https://slashdot.org/firehose.pl?op=view&amp;id=185906634": "a",
+    "https://www.rte.ie/news/2026/0930/1593475-russia-issues-nato-nuclear-warning-amid-baltic-tensions/": "a",
+    "https://www.naturalnews.com/2026-09-30-iran-parliament-fast-tracks-bill-withdrawal-npt.html": "b",
+    "https://www.aljazeera.com/news/2026/9/30/trump-calls-kim-jong-un-a-friend-and-plays-down-n-koreas-nuclear-arsenal": "c",
+    "https://www.ewtnnews.com/vatican/cardinal-parolin-tells-un-we-must-set-aside-culture-of-power-for-dialogue": "d",
+    "https://www.globalsecurity.org/wmd/library/news/dprk/2026/dprk-260929-kcna01.htm": "e",
+    "https://i-epikaira.blogspot.com/2026/09/middle-east-institute-ankaras-nuclear.html": "f"
+  },
+  "contradictions": []
+}

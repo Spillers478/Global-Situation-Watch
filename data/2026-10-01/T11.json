@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "totalResults": 1,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Deven Desai, Professor of Business Law and Ethics; Associate Director for Law, Policy, and Ethics at the Machine Learning Center, Georgia Institute of Technology",
+      "title": "The \u2018War Games\u2019 problem: Computer science has long understood what it takes to keep AI under control",
+      "description": "A hit 1983 movie illustrates what computer scientists have long known: If you give an AI agent a goal but don\u2019t control what it can and can\u2019t do, you shouldn\u2019t be surprised by what it does.",
+      "url": "https://theconversation.com/the-war-games-problem-computer-science-has-long-understood-what-it-takes-to-keep-ai-under-control-292884",
+      "urlToImage": "https://images.theconversation.com/files/762638/original/file-20260928-50-saj32q.jpg?ixlib=rb-4.1.1&rect=0%2C142%2C1600%2C800&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-09-29T21:11:58Z",
+      "content": "In the movie 'War Games' an AI plays a game with the real threat of triggering nuclear Armageddon. Courtesy of United Artists/Amazon MGM Studios\r\nAI agents don\u2019t go rogue. That\u2019s something only human\u2026 [+7026 chars]"
+    }
+  ]
+}
