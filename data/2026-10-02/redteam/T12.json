@@ -1,0 +1,89 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "Gemini 4 Argon launched: Google's new AI model can now write up to 1 million words in a single response, here is who can access it and benchmark scores",
+      "description": "Gemini 4: Google has launched Gemini 4 Argon, a new frontier AI model built for long, complex tasks in coding, finance, legal work and cybersecurity. Early access is limited to trusted cyber defenders through a program called Fairwind, with wider release to f\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/gemini-4-argon-launched-googles-new-ai-model-can-now-write-up-to-1-million-words-in-a-single-response-here-is-who-can-access-it-and-benchmark-scores/articleshow/134613466.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134613578,width-1200,height-900,imgsize-78127,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-01T08:53:11Z",
+      "content": "Google has launched a new frontier AI model called Gemini 4 Argon, and early access is going first to a small group of trusted cybersecurity defenders rather than the public. The model is built to ha\u2026 [+4537 chars]",
+      "cocom": "Transregional",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "John Power",
+      "title": "OpenAI \u2018reviewing\u2019 report of failed hacking attempt against Canada\u2019s gov\u2019t",
+      "description": "AI giant says it is reviewing report of attempted cyberattack on Canada's national archives agency.",
+      "url": "https://www.aljazeera.com/economy/2026/10/1/openai-reviewing-report-of-failed-hacking-attempt-against-canadas-govt",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26272706519882-1790828427_19904d-1790832700.jpg?resize=1200%2C630&quality=80",
+      "publishedAt": "2026-10-01T07:56:49Z",
+      "content": "OpenAI has confirmed that it is reviewing a report of a failed hacking attempt against a Canadian government body in the latest incident to highlight cybersecurity concerns about artificial intellige\u2026 [+2401 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Malwarebytes.com"
+      },
+      "author": "Pieter Arntz",
+      "title": "Hackers steal protective order and foster care records from Arizona courts",
+      "description": "Attackers copied sensitive court records, including more than 150,000 foster care reports, raising privacy and safety concerns for those Arizonans affected.",
+      "url": "https://www.malwarebytes.com/blog/data-breaches/2026/09/hackers-steal-protective-order-and-foster-care-records-from-arizona-courts",
+      "urlToImage": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/09/Arizona_State_Courts_building.png",
+      "publishedAt": "2026-09-30T15:29:42Z",
+      "content": "Arizona\u2019s court system was targeted by a cyber attack from criminal hackers or their bots.\r\nThis is how the Arizona Supreme Court announced that hackers had attacked the states court system and stole\u2026 [+3200 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techpinions.com"
+      },
+      "author": "David Graff",
+      "title": "A Gang Hacked the FBI Over a Four-Month-Old Warning. The Warning Threatened Its Business Model.",
+      "description": "ShinyHunters says it stole data on nearly every FBI agent, then asked for a correction instead of a ransom. With most victims now refusing to pay, an extortion gang's credibility is the product, and the FBI's May warning went straight at it.\nThe post A Gang H\u2026",
+      "url": "https://techpinions.com/shinyhunters-fbi-hack-extortion-credibility/",
+      "urlToImage": "https://techpinions.com/wp-content/uploads/2026/09/fbi-headquarters-hoover-building.jpg",
+      "publishedAt": "2026-09-30T15:00:00Z",
+      "content": "Most cybercriminals who break into a federal law enforcement agency want money or secrets. The group that says it broke into the FBI last week wants a correction.\r\nOn September 22, the extortion crew\u2026 [+5930 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Rene Millman",
+      "title": "Russia escalates VPN blocks following State Duma elections in major censorship crackdown",
+      "description": "Fresh off the State Duma elections, Russian authorities have intensified their war on the global web, targeting VPN infrastructure and demanding app store takedowns to crush online freedom.",
+      "url": "https://www.techradar.com/vpn/vpn-privacy-security/russia-escalates-vpn-blocks-following-state-duma-elections-in-major-censorship-crackdown",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZcRSDQuJZS7Ri3PRF8UExf-1920-80.png",
+      "publishedAt": "2026-09-30T14:54:11Z",
+      "content": "<ul><li>At least 10 VPN services reported severe network restrictions, IP blocking </li><li>This new wave of blocking follows Russia's recent parliamentary elections</li><li>About 57 million Russians\u2026 [+4812 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Jenna McLaughlin",
+      "title": "FBI hunting the hackers who stole its employees' sensitive data",
+      "description": "The FBI says it's addressing a massive data breach, vowing to go after the hackers they believe are responsible.",
+      "url": "https://www.npr.org/2026/09/30/nx-s1-5985202/fbi-hack-shinyhunters",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5397x3036+0+282/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc3%2Fe0%2F04058fb141a5a7aed4b559f4a2e2%2Fgettyimages-2237218326.jpg",
+      "publishedAt": "2026-09-30T12:29:05Z",
+      "content": "In a video posted on social media, the assistant director of the FBI's cyber division, Brett Leatherman, vowed Tuesday to hunt down the members of a cybercriminal group going by the name of ShinyHunt\u2026 [+5666 chars]",
+      "cocom": "USNORTHCOM"
+    }
+  ]
+}

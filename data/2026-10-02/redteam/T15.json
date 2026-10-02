@@ -1,0 +1,32 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Muskan Singh",
+      "title": "California Flooding: Hurricane Polo\u2019s remnants bring heavy rain and dangerous flood threat across the Southwest",
+      "description": "Hurricane Polo's remnants are pushing significant tropical moisture northward, exacerbating flood risks in several states. Areas in Texas, Oklahoma, and Colorado could experience historic flooding from saturated ground conditions. Heavy rainfall rates and alr\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/us/california-flooding-hurricane-polos-remnants-bring-heavy-rain-and-dangerous-flood-threat-across-the-southwest/articleshow/134598883.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134599658,width-1200,height-900,imgsize-207298,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-30T17:10:11Z",
+      "content": "The remnants of Hurricane Polo are pushing a major flood threat farther into the United States after already causing dangerous flooding across the Southwest. A huge plume of tropical moisture is movi\u2026 [+3465 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "The Santa Fe New Mexican",
+      "title": "Hatch, nearby towns advised to evacuate due to \u2018imminent failure\u2019 of dam.",
+      "description": "EL PASO, Texas (KTSM) \u2014 Dona Ana County has now issued evacuation orders for five communities after flooding and a warning about \u201cimminent failure\u201d of a dam on Tuesday, Sept. 29. Dona Ana has now issued evaucation orders for Hatch and Placitas on Tuesday even\u2026",
+      "url": "https://freerepublic.com/focus/f-news/4397379/posts",
+      "urlToImage": null,
+      "publishedAt": "2026-09-30T05:05:09Z",
+      "content": "Skip to comments.\r\nHatch, nearby towns advised to evacuate due to imminent failure of dam. The Santa Fe New Mexican ^\r\n | 09/29/2026\r\n | Eliya Alvidrez\r\nPosted on 09/29/2026 10:05:09 PM PDT by know.y\u2026 [+2095 chars]",
+      "cocom": "USNORTHCOM"
+    }
+  ]
+}

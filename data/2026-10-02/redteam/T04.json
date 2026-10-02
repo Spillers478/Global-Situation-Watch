@@ -1,0 +1,47 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Gothamist"
+      },
+      "author": "Caroline Lewis",
+      "title": "South Bronx Legionnaires' disease outbreak declared over, following 2 deaths",
+      "description": "File photo of a water cooling tower in the Bronx.\n \n\nCity health officials said the source of the outbreak has been eliminated. [ more \u203a ]",
+      "url": "https://gothamist.com/news/south-bronx-legionnaires-disease-outbreak-declared-over-following-2-deaths",
+      "urlToImage": "https://api-prod.gothamist.com/images/359513/fill-1200x650|format-webp|webpquality-85/",
+      "publishedAt": "2026-09-30T19:32:07Z",
+      "content": "City health officials on Wednesday declared the end of the South Bronx Legionnaires disease outbreak, saying residents and visitors to the area are no longer at increased risk of contracting the seve\u2026 [+2134 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Guillermo de Anda-J\u00e1uregui, Jos\u00e9 Sifuentes-Osornio, Ofelia Angulo-Guerrero, Juan L. D\u00edaz-De-Le\u00f3n-Santiago, H\u00e9ctor Ben\u00edtez-P\u00e9rez, Luis A. Herrera, Oliva L\u00f3pez-Arellano, Arturo Revuelta-Herrera, Ana R. Rosales-Tapia, Manuel Su\u00e1rez-Lastra, David Kershenobich, Rosaura Ruiz-Guti\u00e9rrez, Enrique Hern\u00e1ndez-Lemus",
+      "title": "Complexity of hospital demand during the COVID-19 pandemic in Mexico City",
+      "description": "The COVID-19 pandemic posed unprecedented challenges to healthcare systems worldwide. In densely populated urban areas such as Mexico City, hospital strain was amplified by high case volumes and limited resources. This study aims to characterize the spatial a\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358798",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0358798.g007&size=inline",
+      "publishedAt": "2026-09-30T14:00:00Z",
+      "content": "Citation: de Anda-J\u00e1uregui G, Sifuentes-Osornio J, Angulo-Guerrero O, D\u00edaz-De-Le\u00f3n-Santiago JL, Ben\u00edtez-P\u00e9rez H, Herrera LA, et al. (2026) Complexity of hospital demand during the COVID-19 pandemic i\u2026 [+29912 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "As dengue continues to rise in Florida, some are worried about underreporting of cases - ABC News - Breaking News, Latest News and Videos",
+      "description": "As dengue continues to rise in Florida, some are worried about underreporting of casesABC News - Breaking News, Latest News and Videos Dengue fever outbreak prompts Florida counties to declare state of emergencyThe Guardian Florida county declares state of em\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185911668",
+      "urlToImage": null,
+      "publishedAt": "2026-09-30T21:12:15Z",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+      "cocom": "USNORTHCOM",
+      "_original_topic_id": "T05"
+    }
+  ]
+}

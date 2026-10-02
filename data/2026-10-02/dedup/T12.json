@@ -1,0 +1,11 @@
+{
+  "groups": {
+    "https://economictimes.indiatimes.com/news/new-updates/gemini-4-argon-launched-googles-new-ai-model-can-now-write-up-to-1-million-words-in-a-single-response-here-is-who-can-access-it-and-benchmark-scores/articleshow/134613466.cms": "a",
+    "https://www.aljazeera.com/economy/2026/10/1/openai-reviewing-report-of-failed-hacking-attempt-against-canadas-govt": "b",
+    "https://www.malwarebytes.com/blog/data-breaches/2026/09/hackers-steal-protective-order-and-foster-care-records-from-arizona-courts": "c",
+    "https://techpinions.com/shinyhunters-fbi-hack-extortion-credibility/": "d",
+    "https://www.techradar.com/vpn/vpn-privacy-security/russia-escalates-vpn-blocks-following-state-duma-elections-in-major-censorship-crackdown": "e",
+    "https://www.npr.org/2026/09/30/nx-s1-5985202/fbi-hack-shinyhunters": "d"
+  },
+  "contradictions": []
+}

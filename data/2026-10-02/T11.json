@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "totalResults": 1,
+  "articles": [
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Conor Lally",
+      "title": "Irish-British governments conduct first joint exercise to plan for subsea cable attack",
+      "description": "\u2018Eastern Pearl\u2019 first exercise of its type, with plans for more complex British-Irish co-operation amid Russian aggression",
+      "url": "https://www.irishtimes.com/ireland/2026/09/30/irish-british-governments-conduct-first-joint-exercise-to-plan-for-subsea-cable-attack/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/AFXKMX62U5AW7M5QKOLYLI7MEY.JPG?smart=true&auth=ad34c2d1f5b7cde29c97cc5447bc2ba20dc3730415fbd830a53acc3dd6b743b1&width=1200&height=630",
+      "publishedAt": "2026-09-30T20:02:24Z",
+      "content": "The Irish and British governments have for the first time conducted a joint exercise testing how they would respond together in the event of an attack on the undersea cables in the Irish Sea.\r\nThe sc\u2026 [+2994 chars]"
+    }
+  ]
+}

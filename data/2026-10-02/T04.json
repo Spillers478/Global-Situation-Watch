@@ -1,0 +1,84 @@
+{
+  "status": "ok",
+  "totalResults": 6,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Anna Wright",
+      "title": "Silent epidemic spreading across the US may trigger suicidal urges... now families of young Americans who killed themselves find hidden infection lurking",
+      "description": "Asher was energetic, often outspoken and intensely curious. He loved school, signed up for a host of extracurricular activities and was always eager to learn something new.",
+      "url": "https://www.dailymail.com/health/article-16155473/infection-psychiatric-symptoms-suicide-americans.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/09/28/21/111522289-0-image-m-9_1790626026998.jpg",
+      "publishedAt": "2026-09-30T22:35:13Z",
+      "content": "Whenever Asher Berglin met someone new, he liked to introduce himself with the same cheerful fact.\r\n'Hi, I'm Asher. Asher means happy,' he'd say with a grin.\r\nAnd, according to his mother, Jill, the \u2026 [+14607 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gothamist"
+      },
+      "author": "Caroline Lewis",
+      "title": "South Bronx Legionnaires' disease outbreak declared over, following 2 deaths",
+      "description": "File photo of a water cooling tower in the Bronx.\n \n\nCity health officials said the source of the outbreak has been eliminated. [ more \u203a ]",
+      "url": "https://gothamist.com/news/south-bronx-legionnaires-disease-outbreak-declared-over-following-2-deaths",
+      "urlToImage": "https://api-prod.gothamist.com/images/359513/fill-1200x650|format-webp|webpquality-85/",
+      "publishedAt": "2026-09-30T19:32:07Z",
+      "content": "City health officials on Wednesday declared the end of the South Bronx Legionnaires disease outbreak, saying residents and visitors to the area are no longer at increased risk of contracting the seve\u2026 [+2134 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "author": "Estefano Gomez",
+      "title": "Utilities stocks face worst quarter since pandemic amid data center concerns",
+      "description": "The downturn in utilities stocks may prompt regulatory shifts and impact future infrastructure investments, affecting electricity demand growth.\nThe post Utilities stocks face worst quarter since pandemic amid data center concerns appeared first on Crypto Bri\u2026",
+      "url": "https://cryptobriefing.com/utilities-stocks-face-worst-quarter-since-pandemic-amid-data-center-concerns/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/30131803/library-utilities-stocks-face-worst-quarter-since-pandemic-amid--1-800x450.png",
+      "publishedAt": "2026-09-30T17:18:04Z",
+      "content": "Utilities stocks are experiencing significant declines, with the sector on track for its worst quarterly performance since the pandemic. This downturn is attributed to the reduced likelihood of plann\u2026 [+1666 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "fortune.com",
+      "title": "LinkedIn CEO says that job seekers are sending out 30% more applications than pre-pandemic\u2014and it\u2019s harder to \u2018know who can actually do the job\u2019",
+      "description": "Job seekers are sending out thousands of applications in hopes of finally landing stable work\u2014and AI has become their best friend in the hunt. But on the hiring side, LinkedIn\u2019s CEO says the tech-enabled flood of applicants is making it harder to find the rig\u2026",
+      "url": "https://biztoc.com/x/1f4b4c39e4e999fd",
+      "urlToImage": "https://biztoc.com/cdn/1f4b4c39e4e999fd_s.webp",
+      "publishedAt": "2026-09-30T16:01:15Z",
+      "content": "Job seekers are sending out thousands of applications in hopes of finally landing stable workand AI has become their best friend in the hunt. But on the hiring side, LinkedIns CEO says the tech-enabl\u2026 [+135 chars]"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Emma Burleigh",
+      "title": "LinkedIn CEO says that job seekers are sending out 30% more applications than pre-pandemic\u2014and it\u2019s harder to \u2018know who can actually do the job\u2019",
+      "description": "The job market has become an all-out AI arms race between applicants and recruiters.",
+      "url": "https://fortune.com/2026/09/30/linkedin-ceo-dan-shapero-says-job-seekers-sending-out-30-more-applications-pre-pandemic-harder-know-who-can-do-job/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/LinkedInCEO-e1790781668666.jpg?resize=1200,600",
+      "publishedAt": "2026-09-30T15:26:55Z",
+      "content": "Job seekers are sending out thousands of applications in hopes of finally landing stable workand AI has become their best friend in the hunt. But on the hiring side, LinkedIns CEO says the tech-enabl\u2026 [+4140 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Guillermo de Anda-J\u00e1uregui, Jos\u00e9 Sifuentes-Osornio, Ofelia Angulo-Guerrero, Juan L. D\u00edaz-De-Le\u00f3n-Santiago, H\u00e9ctor Ben\u00edtez-P\u00e9rez, Luis A. Herrera, Oliva L\u00f3pez-Arellano, Arturo Revuelta-Herrera, Ana R. Rosales-Tapia, Manuel Su\u00e1rez-Lastra, David Kershenobich, Rosaura Ruiz-Guti\u00e9rrez, Enrique Hern\u00e1ndez-Lemus",
+      "title": "Complexity of hospital demand during the COVID-19 pandemic in Mexico City",
+      "description": "The COVID-19 pandemic posed unprecedented challenges to healthcare systems worldwide. In densely populated urban areas such as Mexico City, hospital strain was amplified by high case volumes and limited resources. This study aims to characterize the spatial a\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358798",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0358798.g007&size=inline",
+      "publishedAt": "2026-09-30T14:00:00Z",
+      "content": "Citation: de Anda-J\u00e1uregui G, Sifuentes-Osornio J, Angulo-Guerrero O, D\u00edaz-De-Le\u00f3n-Santiago JL, Ben\u00edtez-P\u00e9rez H, Herrera LA, et al. (2026) Complexity of hospital demand during the COVID-19 pandemic i\u2026 [+29912 chars]"
+    }
+  ]
+}

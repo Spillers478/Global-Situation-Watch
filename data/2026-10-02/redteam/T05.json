@@ -1,0 +1,48 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Punch"
+      },
+      "author": "Punch Newspapers",
+      "title": "Coup trial: Again, court martial defers ruling",
+      "description": "A General Court Martial has for the fourth time postponed its ruling on the admissibility of statements in the trial of military officers accused of a coup\n\nRead More: https://punchng.com/coup-trial-again-court-martial-defers-ruling/",
+      "url": "https://punchng.com/coup-trial-again-court-martial-defers-ruling/",
+      "urlToImage": "https://punchng.com/wp-content/uploads/2026/06/GAVEL.webp",
+      "publishedAt": "2026-10-01T00:52:22Z",
+      "content": "The General Court Martial sitting over the alleged coup plot involving some military officers has again postponed its ruling on the admissibility of statements made by the accused persons.\r\nThe rulin\u2026 [+3954 chars]",
+      "cocom": "USAFRICOM"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "Modi\u2019s India takes on Trump more openly, from \u2018terrorism\u2019 to tariffs",
+      "description": "After months of wait-and-watch, India is calling out differences with Trump head on as domestic pressure mounts.",
+      "url": "https://www.aljazeera.com/news/2026/10/1/modis-india-takes-on-trump-more-openly-from-terrorism-to-tariffs",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-18T140838Z_381384836_RC2ZTCARS57T_RTRMADP_3_UKRAINE-CRISIS-USA-SANCTIONS-INDIA-1790766570.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-01T05:37:39Z",
+      "content": "New Delhi, India Speaking at an event in New York this week, Indias Foreign Affairs Minister S Jaishankar offered a blunt assessment of Washington: It has been an insensitive partner to Indias concer\u2026 [+9941 chars]",
+      "cocom": "USINDOPACOM",
+      "_original_topic_id": "T14"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Gerry Moriarty",
+      "title": "Who is Jamie Bryson, the unelected loyalist standing \u2018front, back and centre\u2019 at Drumcree?",
+      "description": "Bryson is opposed to the Belfast Agreement and wields extraordinary influence within unionism and loyalism",
+      "url": "https://www.irishtimes.com/politics/2026/09/30/who-is-jamie-bryson-the-unelected-loyalist-standing-front-back-and-centre-at-drumcree/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/QZC55QTZDVFY7OWVKMBXNKOASI.JPG?smart=true&auth=af390d42a8c7827f4b899e7f21c95f17144a3bb54e5d318c767c173eca4af972&width=1200&height=630",
+      "publishedAt": "2026-09-30T05:00:00Z",
+      "content": "This week Jamie Bryson was happily repeating a line he first delivered to Orange Order supporters in Portadown early on Monday morning. \r\nEither the Portadown District goes down [the Garvaghy Road] o\u2026 [+5683 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T14"
+    }
+  ]
+}
