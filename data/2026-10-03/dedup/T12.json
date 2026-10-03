@@ -1,0 +1,19 @@
+{
+  "groups": {
+    "https://www.ibtimes.com.au/bill-gates-urges-government-ai-safeguards-1876180": "a",
+    "https://www.helpnetsecurity.com/2026/10/02/ai-cybersecurity-threats-microsoft-report/": "b",
+    "https://biztoc.com/x/6b7b8be7154e936e": "c",
+    "https://www.theregister.com/cyber-crime/2026/10/02/teen-suspected-of-running-killsec-ransomware-group-as-cops-seize-servers-arrest-three/5300784": "c",
+    "https://www.techradar.com/pro/security/police-take-down-dangerous-killsec-ransomware-gang-and-find-out-its-being-run-by-a-teenager": "c",
+    "https://www.infosecurity-magazine.com/news/police-target-killsec-ransomware/": "c",
+    "https://decrypt.co/379913/spanish-police-arrest-16-year-old-accused-of-running-killsec-ransomware-group": "c",
+    "https://securityaffairs.com/200215/ai/investigators-trace-an-ai-agent-s-path-from-research-task-to-reconnaissance.html": "d",
+    "https://cryptobriefing.com/shinhan-bank-ai-cyberattack-25000-customers/": "e",
+    "https://theconversation.com/australias-medicare-breach-reveals-a-new-kind-of-cyber-threat-how-must-nz-respond-293332": "f",
+    "https://securityaffairs.com/200200/cyber-crime/operation-killswitch-police-dismantle-killsec-ransomware-group.html": "c",
+    "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html": "c",
+    "https://abcnews.com/International/wireStory/iranian-national-extradited-us-montenegro-alleged-34b-cyberattack-136923896": "g",
+    "https://uk.pcmag.com/security/167612/europol-leader-of-killsec-ransomware-group-is-a-16-year-old": "c"
+  },
+  "contradictions": []
+}

@@ -1,0 +1,46 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Chinese AI model investigated after researcher says it provided instructions for bioweapons, assassinations",
+      "description": "Researcher Peter Garrigan says Moonshot AI's Kimi model was manipulated into providing instructions for biological weapons and assassination plans.",
+      "url": "https://www.foxnews.com/tech/chinese-ai-model-investigated-researcher-says-provided-instructions-bioweapons-assassinations",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/moonshot-ai-kimi-k3-chinese-ai-model.jpg",
+      "publishedAt": "2026-10-02T01:31:03Z",
+      "content": "Chinese AI company Moonshot AI has launched an internal investigation after a researcher found that one of its models could be manipulated into providing instructions for developing biological weapon\u2026 [+1086 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "author": "Diego Almada Lopez",
+      "title": "Mindgard says it jailbroke Moonshot AI\u2019s Kimi models into giving sarin and terror attack instructions",
+      "description": "This incident underscores the urgent need for stricter AI regulations and oversight to prevent misuse and enhance public safety.\nThe post Mindgard says it jailbroke Moonshot AI\u2019s Kimi models into giving sarin and terror attack instructions appeared first on C\u2026",
+      "url": "https://cryptobriefing.com/mindgard-jailbreak-moonshot-kimi-models/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/01125313/library-mindgard-says-it-jailbroke-moonshot-ai-s-kimi-models-int-800x450.png",
+      "publishedAt": "2026-10-01T16:53:18Z",
+      "content": "A UK security firm says two Chinese AI models dropped their guardrails with minimal prompting, and the developer took weeks to respond A UK cybersecurity firm says it got two Chinese AI models to pro\u2026 [+3033 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Lucas Nolan",
+      "title": "Researchers: Chinese AI Models Provided Instructions on Sarin Gas Production, Terror Attack Advice",
+      "description": "A UK cybersecurity firm says it managed to \"jailbreak\" two Chinese AI models built by Moonshot, prompting them to produce instructions on sarin gas production, malware creation and a terrorist attack on the London Underground.\nThe post Researchers: Chinese AI\u2026",
+      "url": "https://www.breitbart.com/tech/2026/10/01/researchers-chinese-ai-models-provided-instructions-on-sarin-gas-production-terror-attack-advice/",
+      "urlToImage": "https://media.breitbart.com/media/2026/09/AI-turning-evil-640x335.jpg",
+      "publishedAt": "2026-10-01T15:13:25Z",
+      "content": "A UK cybersecurity firm says it managed to \u201cjailbreak\u201d two Chinese AI models built by Moonshot, prompting them to produce instructions on sarin gas production, malware creation and a terrorist attack\u2026 [+4533 chars]",
+      "cocom": "Transregional"
+    }
+  ]
+}

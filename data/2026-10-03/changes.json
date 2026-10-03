@@ -1,0 +1,1248 @@
+{
+ "date": "2026-10-03",
+ "compared_to": "2026-10-02",
+ "gap_days": 1,
+ "baseline_days": 7,
+ "match_threshold": 0.3,
+ "threads": {
+  "th-be3f5de8": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-a1ffc1b9": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-6e28b42b": {
+   "status": "returning",
+   "days_seen": 2,
+   "streak": 1,
+   "first_seen": "2026-09-29",
+   "growing": false,
+   "prev": null
+  },
+  "th-81c0f18e": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-618c7c5c": {
+   "status": "continuing",
+   "days_seen": 2,
+   "streak": 2,
+   "first_seen": "2026-10-02",
+   "growing": true,
+   "prev": {
+    "date": "2026-10-02",
+    "id": "th-618c7c5c",
+    "sim": 0.674,
+    "score": 61.6,
+    "n_independent": 2
+   },
+   "delta_sources": 2,
+   "delta_escalation": -0.233
+  },
+  "th-91c11f44": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-7bf800da": {
+   "status": "continuing",
+   "days_seen": 3,
+   "streak": 2,
+   "first_seen": "2026-09-26",
+   "growing": false,
+   "prev": {
+    "date": "2026-10-02",
+    "id": "th-64760c5d",
+    "sim": 0.394,
+    "score": 81.9,
+    "n_independent": 5
+   },
+   "delta_sources": -2,
+   "delta_escalation": 0.1
+  },
+  "th-3752f2a5": {
+   "status": "continuing",
+   "days_seen": 2,
+   "streak": 2,
+   "first_seen": "2026-10-02",
+   "growing": true,
+   "prev": {
+    "date": "2026-10-02",
+    "id": "th-0c0cbb10",
+    "sim": 0.383,
+    "score": 35.7,
+    "n_independent": 1
+   },
+   "delta_sources": 2,
+   "delta_escalation": 0.528
+  },
+  "th-c471be15": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-4da688c7": {
+   "status": "continuing",
+   "days_seen": 3,
+   "streak": 2,
+   "first_seen": "2026-09-26",
+   "growing": false,
+   "prev": {
+    "date": "2026-10-02",
+    "id": "th-4da688c7",
+    "sim": 0.822,
+    "score": 70.8,
+    "n_independent": 1
+   },
+   "delta_sources": 1,
+   "delta_escalation": 0.0
+  },
+  "th-f32e1d91": {
+   "status": "continuing",
+   "days_seen": 2,
+   "streak": 2,
+   "first_seen": "2026-10-02",
+   "growing": true,
+   "prev": {
+    "date": "2026-10-02",
+    "id": "th-4e626ba4",
+    "sim": 0.533,
+    "score": 48.6,
+    "n_independent": 1
+   },
+   "delta_sources": 3,
+   "delta_escalation": 0.161
+  },
+  "th-20f09a5d": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-c15802d9": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-254fa093": {
+   "status": "continuing",
+   "days_seen": 2,
+   "streak": 2,
+   "first_seen": "2026-10-02",
+   "growing": true,
+   "prev": {
+    "date": "2026-10-02",
+    "id": "th-254fa093",
+    "sim": 0.704,
+    "score": 54.1,
+    "n_independent": 1
+   },
+   "delta_sources": 2,
+   "delta_escalation": 0.0
+  },
+  "th-8e46dd18": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-a760a18d": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-d453113c": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-61eddb7f": {
+   "status": "returning",
+   "days_seen": 2,
+   "streak": 1,
+   "first_seen": "2026-10-01",
+   "growing": false,
+   "prev": null
+  },
+  "th-dd139282": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-e115123f": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-6b6ed745": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-dcddc05f": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-5fd58d19": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-d30c9016": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-05277490": {
+   "status": "continuing",
+   "days_seen": 4,
+   "streak": 4,
+   "first_seen": "2026-09-30",
+   "growing": false,
+   "prev": {
+    "date": "2026-10-02",
+    "id": "th-42428d97",
+    "sim": 0.778,
+    "score": 55.1,
+    "n_independent": 2
+   },
+   "delta_sources": 0,
+   "delta_escalation": 0.0
+  },
+  "th-d86d7ba0": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-efdd72b3": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-54d8def4": {
+   "status": "returning",
+   "days_seen": 2,
+   "streak": 1,
+   "first_seen": "2026-09-28",
+   "growing": false,
+   "prev": null
+  },
+  "th-2fffec21": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-f114affd": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-68e2e55e": {
+   "status": "continuing",
+   "days_seen": 2,
+   "streak": 2,
+   "first_seen": "2026-10-02",
+   "growing": false,
+   "prev": {
+    "date": "2026-10-02",
+    "id": "th-68e2e55e",
+    "sim": 1.0,
+    "score": 61.2,
+    "n_independent": 2
+   },
+   "delta_sources": 0,
+   "delta_escalation": 0.0
+  },
+  "th-139735e7": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-35e2c1ce": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-44cc801d": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-7750194c": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-6810c489": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-63fc9d80": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-49c40fd6": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-571a3ab0": {
+   "status": "continuing",
+   "days_seen": 2,
+   "streak": 2,
+   "first_seen": "2026-10-02",
+   "growing": false,
+   "prev": {
+    "date": "2026-10-02",
+    "id": "th-571a3ab0",
+    "sim": 1.0,
+    "score": 59.0,
+    "n_independent": 1
+   },
+   "delta_sources": 0,
+   "delta_escalation": 0.0
+  },
+  "th-1e068544": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-29e4a3d5": {
+   "status": "returning",
+   "days_seen": 2,
+   "streak": 1,
+   "first_seen": "2026-09-26",
+   "growing": false,
+   "prev": null
+  },
+  "th-32783e7d": {
+   "status": "returning",
+   "days_seen": 2,
+   "streak": 1,
+   "first_seen": "2026-09-27",
+   "growing": false,
+   "prev": null
+  },
+  "th-25a0ac4d": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-d7dc9a1d": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-30079dca": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-a30e8736": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-a1c6f014": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-6424b554": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-5c17190f": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-24760671": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-bff2803f": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-9859f608": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-a170eee5": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-92b47729": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-5e0cea88": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-f07c4b4c": {
+   "status": "returning",
+   "days_seen": 2,
+   "streak": 1,
+   "first_seen": "2026-09-30",
+   "growing": false,
+   "prev": null
+  },
+  "th-4f2fe71f": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-7c530d8d": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-1c378e72": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-94d497e2": {
+   "status": "continuing",
+   "days_seen": 3,
+   "streak": 2,
+   "first_seen": "2026-09-29",
+   "growing": false,
+   "prev": {
+    "date": "2026-10-02",
+    "id": "th-96ad65de",
+    "sim": 0.8,
+    "score": 51.7,
+    "n_independent": 1
+   },
+   "delta_sources": 0,
+   "delta_escalation": 0.0
+  },
+  "th-2e548fd0": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-85e2918d": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-5bf9e5fd": {
+   "status": "continuing",
+   "days_seen": 2,
+   "streak": 2,
+   "first_seen": "2026-10-02",
+   "growing": false,
+   "prev": {
+    "date": "2026-10-02",
+    "id": "th-5bf9e5fd",
+    "sim": 1.0,
+    "score": 51.5,
+    "n_independent": 1
+   },
+   "delta_sources": 0,
+   "delta_escalation": 0.0
+  },
+  "th-18f78908": {
+   "status": "returning",
+   "days_seen": 3,
+   "streak": 1,
+   "first_seen": "2026-09-26",
+   "growing": false,
+   "prev": null
+  },
+  "th-2c2ff719": {
+   "status": "continuing",
+   "days_seen": 2,
+   "streak": 2,
+   "first_seen": "2026-10-02",
+   "growing": false,
+   "prev": {
+    "date": "2026-10-02",
+    "id": "th-64760c5d",
+    "sim": 0.331,
+    "score": 81.9,
+    "n_independent": 5
+   },
+   "delta_sources": -4,
+   "delta_escalation": -0.451
+  },
+  "th-315cd3f9": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-8b2583ed": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-e5350771": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-d9360195": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-0b72ffbc": {
+   "status": "continuing",
+   "days_seen": 2,
+   "streak": 2,
+   "first_seen": "2026-10-02",
+   "growing": false,
+   "prev": {
+    "date": "2026-10-02",
+    "id": "th-0b72ffbc",
+    "sim": 1.0,
+    "score": 50.9,
+    "n_independent": 1
+   },
+   "delta_sources": 0,
+   "delta_escalation": 0.0
+  },
+  "th-ddc65276": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-5764f687": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-473f2a10": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-1f1d39a3": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-0f07f7e5": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-a2e0e8f8": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-5bf140f4": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-2e41ae86": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-96c4da84": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-cfca2baf": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-851e175e": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-51fab9f9": {
+   "status": "continuing",
+   "days_seen": 2,
+   "streak": 2,
+   "first_seen": "2026-10-02",
+   "growing": false,
+   "prev": {
+    "date": "2026-10-02",
+    "id": "th-7f88f2f8",
+    "sim": 0.326,
+    "score": 39.2,
+    "n_independent": 1
+   },
+   "delta_sources": 0,
+   "delta_escalation": 0.0
+  },
+  "th-8b96861c": {
+   "status": "continuing",
+   "days_seen": 2,
+   "streak": 2,
+   "first_seen": "2026-10-02",
+   "growing": false,
+   "prev": {
+    "date": "2026-10-02",
+    "id": "th-8b96861c",
+    "sim": 1.0,
+    "score": 46.5,
+    "n_independent": 1
+   },
+   "delta_sources": 0,
+   "delta_escalation": 0.0
+  },
+  "th-6544b43e": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-88d577cb": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-3b05fd01": {
+   "status": "continuing",
+   "days_seen": 2,
+   "streak": 2,
+   "first_seen": "2026-10-02",
+   "growing": false,
+   "prev": {
+    "date": "2026-10-02",
+    "id": "th-3b05fd01",
+    "sim": 1.0,
+    "score": 46.8,
+    "n_independent": 1
+   },
+   "delta_sources": 0,
+   "delta_escalation": 0.0
+  },
+  "th-a9fc3115": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-445979a0": {
+   "status": "continuing",
+   "days_seen": 2,
+   "streak": 2,
+   "first_seen": "2026-10-02",
+   "growing": false,
+   "prev": {
+    "date": "2026-10-02",
+    "id": "th-146bf534",
+    "sim": 0.317,
+    "score": 44.8,
+    "n_independent": 1
+   },
+   "delta_sources": 0,
+   "delta_escalation": -0.139
+  },
+  "th-c6883cf9": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-69a03725": {
+   "status": "continuing",
+   "days_seen": 2,
+   "streak": 2,
+   "first_seen": "2026-10-02",
+   "growing": false,
+   "prev": {
+    "date": "2026-10-02",
+    "id": "th-9009f8b2",
+    "sim": 0.313,
+    "score": 62.8,
+    "n_independent": 4
+   },
+   "delta_sources": -3,
+   "delta_escalation": -0.221
+  },
+  "th-449998c4": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-2045a6ea": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-c119bc5e": {
+   "status": "continuing",
+   "days_seen": 2,
+   "streak": 2,
+   "first_seen": "2026-10-02",
+   "growing": false,
+   "prev": {
+    "date": "2026-10-02",
+    "id": "th-c119bc5e",
+    "sim": 1.0,
+    "score": 42.9,
+    "n_independent": 1
+   },
+   "delta_sources": 0,
+   "delta_escalation": 0.0
+  },
+  "th-0348e231": {
+   "status": "continuing",
+   "days_seen": 2,
+   "streak": 2,
+   "first_seen": "2026-10-02",
+   "growing": false,
+   "prev": {
+    "date": "2026-10-02",
+    "id": "th-0348e231",
+    "sim": 1.0,
+    "score": 39.6,
+    "n_independent": 1
+   },
+   "delta_sources": 0,
+   "delta_escalation": 0.0
+  },
+  "th-c78cf7d5": {
+   "status": "continuing",
+   "days_seen": 4,
+   "streak": 3,
+   "first_seen": "2026-09-29",
+   "growing": false,
+   "prev": {
+    "date": "2026-10-02",
+    "id": "th-b7da23f3",
+    "sim": 0.627,
+    "score": 41.5,
+    "n_independent": 1
+   },
+   "delta_sources": -1,
+   "delta_escalation": -0.085
+  },
+  "th-b4991321": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-3d37f812": {
+   "status": "continuing",
+   "days_seen": 2,
+   "streak": 2,
+   "first_seen": "2026-10-02",
+   "growing": false,
+   "prev": {
+    "date": "2026-10-02",
+    "id": "th-b0a30d91",
+    "sim": 0.801,
+    "score": 52.8,
+    "n_independent": 2
+   },
+   "delta_sources": -1,
+   "delta_escalation": -0.161
+  },
+  "th-a0d208e2": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-d3f891c6": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-7ad3c0d3": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-79d95f83": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-3b3aea15": {
+   "status": "new",
+   "days_seen": 1,
+   "streak": 1,
+   "first_seen": "2026-10-03",
+   "growing": false,
+   "prev": null
+  },
+  "th-9d3f9983": {
+   "status": "continuing",
+   "days_seen": 2,
+   "streak": 2,
+   "first_seen": "2026-10-02",
+   "growing": false,
+   "prev": {
+    "date": "2026-10-02",
+    "id": "th-9d3f9983",
+    "sim": 1.0,
+    "score": 19.8,
+    "n_independent": 0
+   },
+   "delta_sources": 0,
+   "delta_escalation": 0.0
+  }
+ },
+ "categories": {
+  "flagship-ru-ua": {
+   "arrow": "flat",
+   "today": 10.79,
+   "baseline": 9.14,
+   "threads_today": 22,
+   "baseline_days": 7
+  },
+  "flagship-ir-il": {
+   "arrow": "flat",
+   "today": 12.79,
+   "baseline": 11.42,
+   "threads_today": 27,
+   "baseline_days": 7
+  },
+  "T15": {
+   "arrow": "down",
+   "today": 0.44,
+   "baseline": 1.86,
+   "threads_today": 1,
+   "baseline_days": 7
+  },
+  "T01": {
+   "arrow": "flat",
+   "today": 3.33,
+   "baseline": 4.1,
+   "threads_today": 7,
+   "baseline_days": 7
+  },
+  "T02": {
+   "arrow": "flat",
+   "today": 2.35,
+   "baseline": 2.61,
+   "threads_today": 5,
+   "baseline_days": 7
+  },
+  "T03": {
+   "arrow": "flat",
+   "today": 0.71,
+   "baseline": 0.5,
+   "threads_today": 1,
+   "baseline_days": 7
+  },
+  "T04": {
+   "arrow": "flat",
+   "today": 1.77,
+   "baseline": 2.01,
+   "threads_today": 4,
+   "baseline_days": 7
+  },
+  "T05": {
+   "arrow": "up",
+   "today": 3.52,
+   "baseline": 2.19,
+   "threads_today": 7,
+   "baseline_days": 7
+  },
+  "T06": {
+   "arrow": "up",
+   "today": 1.57,
+   "baseline": 0.44,
+   "threads_today": 4,
+   "baseline_days": 7
+  },
+  "T07": {
+   "arrow": "flat",
+   "today": 1.27,
+   "baseline": 1.53,
+   "threads_today": 2,
+   "baseline_days": 7
+  },
+  "T08": {
+   "arrow": "flat",
+   "today": 1.88,
+   "baseline": 1.77,
+   "threads_today": 3,
+   "baseline_days": 7
+  },
+  "T09": {
+   "arrow": "flat",
+   "today": 0.0,
+   "baseline": 0.0,
+   "threads_today": 0,
+   "baseline_days": 7
+  },
+  "T10": {
+   "arrow": "flat",
+   "today": 2.99,
+   "baseline": 3.01,
+   "threads_today": 8,
+   "baseline_days": 7
+  },
+  "T11": {
+   "arrow": "flat",
+   "today": 0.34,
+   "baseline": 0.56,
+   "threads_today": 1,
+   "baseline_days": 7
+  },
+  "T12": {
+   "arrow": "flat",
+   "today": 3.63,
+   "baseline": 4.45,
+   "threads_today": 7,
+   "baseline_days": 7
+  },
+  "T13": {
+   "arrow": "down",
+   "today": 1.54,
+   "baseline": 2.71,
+   "threads_today": 4,
+   "baseline_days": 7
+  },
+  "T14": {
+   "arrow": "flat",
+   "today": 0.0,
+   "baseline": 0.26,
+   "threads_today": 0,
+   "baseline_days": 7
+  }
+ },
+ "faded": [
+  {
+   "date": "2026-10-02",
+   "id": "th-630bd150",
+   "title": "\u2018No way they can beat us\u2019: Rutte rebuffs Russian nuclear threats to NATO",
+   "url": "https://www.politico.eu/article/no-way-they-can-beat-us-mark-rutte-rebuffs-russian-nuclear-threats-to-nato/",
+   "score": 64.5,
+   "home": "T07",
+   "n_independent": 2
+  },
+  {
+   "date": "2026-10-02",
+   "id": "th-20db99df",
+   "title": "U.S. Forces Leave Behind a Power Vacuum in Iraq",
+   "url": "http://foreignpolicy.com/2026/09/30/us-military-withdraws-troops-iraq-power-vacuum-iran-islamic-state-hegseth/",
+   "score": 57.4,
+   "home": "flagship-ir-il",
+   "n_independent": 2
+  }
+ ],
+ "new": [
+  "th-be3f5de8",
+  "th-a1ffc1b9",
+  "th-81c0f18e",
+  "th-91c11f44",
+  "th-c471be15",
+  "th-20f09a5d",
+  "th-c15802d9",
+  "th-8e46dd18",
+  "th-a760a18d",
+  "th-d453113c",
+  "th-dd139282",
+  "th-e115123f",
+  "th-6b6ed745",
+  "th-dcddc05f",
+  "th-5fd58d19",
+  "th-d30c9016",
+  "th-d86d7ba0",
+  "th-efdd72b3",
+  "th-2fffec21",
+  "th-f114affd",
+  "th-139735e7",
+  "th-35e2c1ce",
+  "th-44cc801d",
+  "th-7750194c",
+  "th-6810c489",
+  "th-63fc9d80",
+  "th-49c40fd6",
+  "th-1e068544",
+  "th-25a0ac4d",
+  "th-d7dc9a1d",
+  "th-30079dca",
+  "th-a30e8736",
+  "th-a1c6f014",
+  "th-6424b554",
+  "th-5c17190f",
+  "th-24760671",
+  "th-bff2803f",
+  "th-9859f608",
+  "th-a170eee5",
+  "th-92b47729",
+  "th-5e0cea88",
+  "th-4f2fe71f",
+  "th-7c530d8d",
+  "th-1c378e72",
+  "th-2e548fd0",
+  "th-85e2918d",
+  "th-315cd3f9",
+  "th-8b2583ed",
+  "th-e5350771",
+  "th-d9360195",
+  "th-ddc65276",
+  "th-5764f687",
+  "th-473f2a10",
+  "th-1f1d39a3",
+  "th-0f07f7e5",
+  "th-a2e0e8f8",
+  "th-5bf140f4",
+  "th-2e41ae86",
+  "th-96c4da84",
+  "th-cfca2baf",
+  "th-851e175e",
+  "th-6544b43e",
+  "th-88d577cb",
+  "th-a9fc3115",
+  "th-c6883cf9",
+  "th-449998c4",
+  "th-2045a6ea",
+  "th-b4991321",
+  "th-a0d208e2",
+  "th-d3f891c6",
+  "th-7ad3c0d3",
+  "th-79d95f83",
+  "th-3b3aea15"
+ ],
+ "returning": [
+  "th-6e28b42b",
+  "th-61eddb7f",
+  "th-54d8def4",
+  "th-29e4a3d5",
+  "th-32783e7d",
+  "th-f07c4b4c",
+  "th-18f78908"
+ ],
+ "growing": [
+  "th-618c7c5c",
+  "th-3752f2a5",
+  "th-f32e1d91",
+  "th-254fa093"
+ ]
+}

@@ -1,0 +1,565 @@
+{
+  "status": "ok",
+  "totalResults": 43,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Help Net Security"
+      },
+      "author": "Sinisa Markovic",
+      "title": "AI is giving attackers a head start, Microsoft warns",
+      "description": "Threat actors are using AI to find bugs, build malware and run intrusions faster than defenders can keep up. Microsoft\u2019s 2026 Digital Defense Report, covering July 2025 to June 2026, describes a near-term period in which attackers collect the benefits of AI f\u2026",
+      "url": "https://www.helpnetsecurity.com/2026/10/02/ai-cybersecurity-threats-microsoft-report/",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/10102449/ai-hand-1500.webp",
+      "publishedAt": "2026-10-02T12:47:00Z",
+      "content": "Threat actors are using AI to find bugs, build malware and run intrusions faster than defenders can keep up.\r\nMicrosoft\u2019s 2026 Digital Defense Report, covering July 2025 to June 2026, describes a nea\u2026 [+4583 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "theregister.com",
+      "title": "Teen suspected of running KillSec ransomware group as cops seize servers, arrest three",
+      "description": "Police suspect a 16-year-old was the main operator of KillSec, a ransomware group linked to around 1,000 suspected attacks worldwide. Authorities announced on Thursday that an international operation had seized the group's infrastructure and made three provis\u2026",
+      "url": "https://biztoc.com/x/6b7b8be7154e936e",
+      "urlToImage": "https://biztoc.com/cdn/6b7b8be7154e936e_s.webp",
+      "publishedAt": "2026-10-02T12:37:24Z",
+      "content": "Police suspect a 16-year-old was the main operator of KillSec, a ransomware group linked to around 1,000 suspected attacks worldwide. Authorities announced on Thursday that an international operation\u2026 [+150 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Connor Jones",
+      "title": "Teen suspected of running KillSec ransomware group as cops seize servers, arrest three",
+      "description": "Operation KillSwitch takes over leak site holding at least 110 TB of stolen data",
+      "url": "https://www.theregister.com/cyber-crime/2026/10/02/teen-suspected-of-running-killsec-ransomware-group-as-cops-seize-servers-arrest-three/5300784",
+      "urlToImage": "https://image.theregister.com/5300787.jpg?imageId=5300787&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "publishedAt": "2026-10-02T11:43:35Z",
+      "content": "Police suspect a 16-year-old was the main operator of KillSec, a ransomware group linked to around 1,000 suspected attacks worldwide.\r\nAuthorities announced on Thursday that an international operatio\u2026 [+3490 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Sead Fadilpa\u0161i\u0107",
+      "title": "Police take down dangerous KillSec ransomware gang \u2014 and find out it's being run by a teenager",
+      "description": "Some people have been arrested, with servers, domains, and proceeds, confiscated, too.",
+      "url": "https://www.techradar.com/pro/security/police-take-down-dangerous-killsec-ransomware-gang-and-find-out-its-being-run-by-a-teenager",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/H6MfM7T3bjECJuLWR6mD5a-1920-80.jpg",
+      "publishedAt": "2026-10-02T11:15:00Z",
+      "content": "<ul><li>Operation KillSwitch dismantled KillSec, seizing infrastructure, cryptocurrency, and 110TB data</li><li>Investigation identified core members; several arrests made, including key operators</l\u2026 [+4622 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Winning the AI race means beating China on innovation, cost and trust",
+      "description": "Booz Allen research shows Chinese AI models introduce more code vulnerabilities in American apps, threatening the entire U.S. software supply chain.",
+      "url": "https://www.foxnews.com/opinion/winning-ai-race-means-beating-china-innovation-cost-trust",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/trump-gold-eagle-ai-cyber-flaws.jpg",
+      "publishedAt": "2026-10-02T11:00:53Z",
+      "content": "Because we operate at the intersection of AI, national security, and cyber, I often get asked the question, \"Are we winning the AI race with China?\"\r\nMy answer is still yes. At the highest level, we \u2026 [+7335 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Kai Nicol-Schwarz",
+      "title": "Google has been playing catch up with OpenAI and Anthropic. Does its new flagship model really compete at the frontier?",
+      "description": "Google has been trailing OpenAI and Anthropic for much of 2026, analysts say Gemini 4 puts it back in the frontier AI conversation.",
+      "url": "https://www.cnbc.com/2026/10/02/tech-download-google-argon-frontier-openai-anthropic.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108371304-1790880866426-gettyimages-2297502695-boivin-photoill261001_np5Yb.jpeg?v=1790881080&w=1920&h=1080",
+      "publishedAt": "2026-10-02T11:00:01Z",
+      "content": "This report is from this week's The Tech Download newsletter. Like what you see? You can subscribe\u00a0here.\r\n2026 has been a turbulent year for Google's AI hopes and dreams.\u00a0\r\nThings started well. Gemin\u2026 [+4198 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Chris Crummey",
+      "title": "Cyberattacks are the ultimate business continuity tests that nearly half of organizations fail",
+      "description": "Can your business keep operating while under attack? New research reveals why cyber resilience is exposing critical gaps in business continuity and what leaders can do to help close them.",
+      "url": "https://www.techradar.com/pro/cyberattacks-are-the-ultimate-business-continuity-tests-that-nearly-half-of-organizations-fail",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/5rDPr5xYvLwnkP7ZvpR2w3-2122-80.jpg",
+      "publishedAt": "2026-10-02T10:04:06Z",
+      "content": "Cyber resilience is no longer just about how fast an organization can come back online after an attack \u2013 it\u2019s now defined by whether you can continue operating while under attack. It\u2019s a shift in min\u2026 [+8580 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Infosecurity Magazine"
+      },
+      "author": "Phil Muncaster",
+      "title": "Police Target KillSec Ransomware Group with Arrests and Seizures",
+      "description": "Investigators have disrupted the operations of ransomware group KillSec and arrested several key suspects",
+      "url": "https://www.infosecurity-magazine.com/news/police-target-killsec-ransomware/",
+      "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/9e0ea354-3941-4799-8154-6dfbe2e1a96a.jpg",
+      "publishedAt": "2026-10-02T09:20:00Z",
+      "content": "Law enforcers have struck at a prolific ransomware group thought to be responsible for hundreds of cyber-attacks, arresting its 16-year-old suspected ringleader.\r\nKillSec has been in operation since \u2026 [+2633 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Decrypt"
+      },
+      "author": "Decrypt Agent",
+      "title": "Spanish Police Arrest 16-Year-Old Accused of Running KillSec Ransomware Group",
+      "description": "A second suspect faces extradition to Puerto Rico, while Investigators are tracing the proceeds of ransoms the group demanded in crypto.",
+      "url": "https://decrypt.co/379913/spanish-police-arrest-16-year-old-accused-of-running-killsec-ransomware-group",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png",
+      "publishedAt": "2026-10-02T09:12:54Z",
+      "content": "In brief\r\n<ul><li>Spanish police arrested a 16-year-old Romanian national in Alicante, suspected of being KillSec's administrator and main operator.</li><li>A Dutch national living in the UK has been\u2026 [+4035 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ibtimes.com.au"
+      },
+      "author": "George Anton",
+      "title": "Bill Gates Calls AI Self-Regulation 'Insane,' Rebuking Trump and Warning of Bioterror and Cyberattack Risks",
+      "description": "Bill Gates has called for government oversight of artificial intelligence, warning that advances in cybersecurity and biological applications have created risks too serious to leave to voluntary industry safeguards.",
+      "url": "https://www.ibtimes.com.au/bill-gates-urges-government-ai-safeguards-1876180",
+      "urlToImage": "https://d.ibtimes.com.au/en/full/1802984/american-billionaire-bill-gates-co-founder-terrapower.jpg",
+      "publishedAt": "2026-10-02T08:38:16Z",
+      "content": "SEATTLE \u2014 Microsoft co-founder Bill Gates has warned that artificial intelligence is \"the most dangerous thing that humans have ever gone near,\" and he rejected the idea that the AI industry can be t\u2026 [+5514 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Investigators trace an AI agent \u2018s path from research task to reconnaissance",
+      "description": "Asymmetric Security traces rogue OpenAI AI agent activity that probed government sites, accessed staging servers, and evaded sandbox limits. Researchers at Asymmetric Security spent 48 hours over the last weekend reconstructing reported rogue OpenAI AI agent \u2026",
+      "url": "https://securityaffairs.com/200215/ai/investigators-trace-an-ai-agent-s-path-from-research-task-to-reconnaissance.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2026/10/image-4.png",
+      "publishedAt": "2026-10-02T06:05:52Z",
+      "content": "Investigators trace an AI agent \u2018s path from research task to reconnaissance\r\nResearchers at Asymmetric Security spent 48 hours over the last weekend reconstructing reported rogue OpenAI AI agent act\u2026 [+6309 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "author": "Diego Almada Lopez",
+      "title": "AI tools suspected in Shinhan Bank cyberattack that exposed 25,000 customers",
+      "description": "The incident underscores the growing need for robust AI-driven cybersecurity in banking, potentially shifting investor focus and capital allocation.\nThe post AI tools suspected in Shinhan Bank cyberattack that exposed 25,000 customers appeared first on Crypto\u2026",
+      "url": "https://cryptobriefing.com/shinhan-bank-ai-cyberattack-25000-customers/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/02020301/library-ai-tools-suspected-in-shinhan-bank-cyberattack-that-expo-800x450.png",
+      "publishedAt": "2026-10-02T06:03:06Z",
+      "content": "Yonhap reports hackers may have used AI to automate a credential-stuffing attack on one of South Korea's largest lenders Hackers may have had some help from artificial intelligence when they broke in\u2026 [+3503 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Alexandra Sims, Professor in Commericial Law, University of Auckland, Waipapa Taumata Rau, Dulani Jayasuriya, Lecturer in Accounting and Finance, University of Auckland, Waipapa Taumata Rau",
+      "title": "Australia\u2019s Medicare breach reveals a new kind of cyber threat. How must NZ respond?",
+      "description": "The Manage My Health hacking breach exposed weaknesses in New Zealand\u2019s digital defences. But the rise of autonomous AI agents poses a very different threat.",
+      "url": "https://theconversation.com/australias-medicare-breach-reveals-a-new-kind-of-cyber-threat-how-must-nz-respond-293332",
+      "urlToImage": "https://images.theconversation.com/files/763241/original/file-20261001-50-vbvo7.jpg?ixlib=rb-4.1.1&rect=0%2C379%2C4543%2C2271&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-10-02T00:36:47Z",
+      "content": "Asanka Ratnayake/Getty Images\r\nLast week, New Zealand\u2019s Privacy Commissioner ordered Manage My Health and Health NZ to make further security improvements following last December\u2019s major data breach.\n\u2026 [+5564 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": null,
+      "title": "Are new laws/regulations needed for AI? (vanity)",
+      "description": "The laws already on the books cover a lot of harmful conduct involving AI, but they do not cover everything cleanly. As of October 2026, the U.S. still does not have one comprehensive federal AI law. Instead, AI is governed through a mixture of existing laws,\u2026",
+      "url": "https://freerepublic.com/focus/f-chat/4397611/posts",
+      "urlToImage": null,
+      "publishedAt": "2026-10-02T00:24:53Z",
+      "content": "The laws already on the books cover a lot of harmful conduct involving AI, but they do not cover everything cleanly. As of October 2026, the U.S. still does not have one comprehensive federal AI law.\u2026 [+7423 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Digital Journal"
+      },
+      "author": "Dr. Tim Sandle",
+      "title": "Cybersecurity awareness month: Why organisations must move beyond awareness to resilience in the AI era",
+      "description": "As Cybersecurity Awareness Month gets underway, security leaders are warning that traditional awareness training is no longer enough to protect organisations from a new generation of AI-enabled threats.\nThe post Cybersecurity awareness month: Why organisation\u2026",
+      "url": "https://www.digitaljournal.com/article/cybersecurity-awareness-month-why-organisations-must-move-beyond-awareness-to-resilience-in-the-ai-era/",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/primages/94322df63250178908fab4e1b2452da7c4b292d1.jpg",
+      "publishedAt": "2026-10-01T21:15:06Z",
+      "content": "Cybersecurity Awareness Month is underway in October 2026. During this period, organisations are facing a paradox. For years, awareness programmes have focused on helping employees recognise suspicio\u2026 [+8831 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "author": "Maria Deutscher",
+      "title": "Armadin nabs $255.5M to detect vulnerabilities with AI agent swarms",
+      "description": "Cybersecurity startup Armadin Inc. today announced that it raised $255.5 million in funding at a valuation exceeding $2.5 billion. Andreessen Horowitz and Accel co-led the Series B round. They were joined by Alphabet Inc.\u2019s GV startup fund, Kleiner Perkins, M\u2026",
+      "url": "https://siliconangle.com/2026/10/01/armadin-nabs-255-5m-to-detect-vulnerabilities-with-ai-agent-swarms/",
+      "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/security-265130_1280.jpg",
+      "publishedAt": "2026-10-01T20:15:38Z",
+      "content": "Cybersecurity startup Armadin Inc. today announced that it raised $255.5 million in funding at a valuation exceeding $2.5 billion.\r\nAndreessen Horowitz and Accel co-led the Series B round. They were \u2026 [+4119 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Megan  Cerullo",
+      "title": "Cyber scams have targeted 9 in 10 Americans as AI fuels fraud",
+      "description": "Cyberattacks and scams are skyrocketing due to artificial intelligence, which is making it easier for criminals to engage in fraud, the report finds.",
+      "url": "https://www.cbsnews.com/news/ai-cyber-scams-consumer-reports-fraud/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/03/19/288a9454-e572-4bb0-b650-cc2496fca86f/thumbnail/1200x630/01496dbf49f76c0b6ce920e1fa93228f/gettyimages-2223154088.jpg",
+      "publishedAt": "2026-10-01T19:50:12Z",
+      "content": "Digital fraud is skyrocketing due to artificial intelligence, which is boosting criminals' ability to separate Americans from their money, new research shows.\u00a0\r\nCyberattacks and scams have targeted n\u2026 [+4422 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Operation KillSwitch: Police Dismantle KillSec Ransomware Group",
+      "description": "Operation KillSwitch: Europol says the KillSec ransomware group, allegedly led by a 16-year-old, was dismantled after attacks on about 1,000 victims. Law enforcement seized control of KillSec \u2018s dark web leak site, the Tor website the group used to threaten v\u2026",
+      "url": "https://securityaffairs.com/200200/cyber-crime/operation-killswitch-police-dismantle-killsec-ransomware-group.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2026/10/image-2-1024x576.png",
+      "publishedAt": "2026-10-01T18:08:47Z",
+      "content": "Operation KillSwitch: Police Dismantle KillSec Ransomware Group\r\nLaw enforcement seized control of KillSec \u2018s dark web leak site, the Tor website the group used to threaten victims with publishing st\u2026 [+3943 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Talosintelligence.com"
+      },
+      "author": "Amy Ciminnisi",
+      "title": "Give yourself room to be human",
+      "description": "In this week\u2019s edition, Amy reflects on the importance of prioritizing family and personal well-being over the pressure to remain constantly productive.",
+      "url": "https://blog.talosintelligence.com/give-yourself-room-to-be-human/",
+      "urlToImage": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/09/threat_source-4.jpg",
+      "publishedAt": "2026-10-01T18:00:52Z",
+      "content": "Welcome to this weeks edition of the Threat Source newsletter.\u00a0\r\nFall is officially here in Maryland, and I cant be more relieved. I flourish in 50 degree weather, where it feels natural to burrow un\u2026 [+8544 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Storagereview.com"
+      },
+      "author": "Harold Fritts",
+      "title": "NetApp Novus Splits pNFS Metadata From AFF A90 Data Nodes for a 100 TB/s AI Factory Target, Orderable Now",
+      "description": "NetApp used its INSIGHT 2026 conference in Las Vegas to announce NetApp Novus, a disaggregated storage architecture for AI factories that separates metadata from the data path and that the company says is designed to exceed 100 TB/s of aggregate throughput, k\u2026",
+      "url": "https://www.storagereview.com/news/netapp-novus-pnfs-metadata-aff-a90-data-nodes-100-tb-s-ai-factory",
+      "urlToImage": "https://www.storagereview.com/wp-content/uploads/2026/10/Storagereview-netapp-novus-image.jpg",
+      "publishedAt": "2026-10-01T17:48:35Z",
+      "content": "NetApp used its INSIGHT 2026 conference in Las Vegas to announce NetApp Novus, a disaggregated storage architecture for AI factories that separates metadata from the data path and that the company sa\u2026 [+10284 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "info@thehackernews.com (The Hacker News)",
+      "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
+      "description": "Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organizations and threatening to publish it on its leak site unless they paid.\n\nThe 16-year-old was one of\u2026",
+      "url": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy6XYYOXNZNjc51viw5FvCk49pWIXCCRS6yr_hl0ZKdwhBWRfYrCQ7bM6AJZJdmI_W3AEz1V3X0DAP6k39KfgjlKFfB5JcFaKN9zzIl1-7c49Vnuaz55yhRXjdmY5K2kIPuY_-7624KyVHqkHzikJIi11iClljnXv_3i2X21JiRCMU8ElmiHiZdHVQ7ws/s1700-nu-rw-lo-l85-e365/killsec-ransomware.jpg",
+      "publishedAt": "2026-10-01T16:55:57Z",
+      "content": "Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organizations and threatening to publish it on\u2026 [+5586 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "PREDRAG MILIC Associated Press",
+      "title": "Iranian national extradited to US by Montenegro over alleged $3.4B cyberattack case",
+      "description": "Montenegro has extradited an Iranian-Turkish dual national to the United States over alleged cyberattacks targeting more than 150 U.S. universities and causing an estimated $3.4 billion in damage",
+      "url": "https://abcnews.com/International/wireStory/iranian-national-extradited-us-montenegro-alleged-34b-cyberattack-136923896",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2026-10-01T16:49:10Z",
+      "content": "PODGORICA, Montenegro -- PODGORICA, Montenegro (AP) Montenegro has extradited an Iranian-Turkish dual national to the United States over alleged cyberattacks targeting more than 150 U.S. universities\u2026 [+1036 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "info@thehackernews.com (The Hacker News)",
+      "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
+      "description": "This week, the useful words are boring ones: inspect, cache, compile, store, trust. Each sounds harmless. Each can become an attack path when a system does a little more than people expect. A model check can run code. A cache can mix up requests. A public sec\u2026",
+      "url": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOZPv0LS8-qPBgL_d1m8BLNikw8psPt9qtB_HiFNoYnVwBacYvwz4DdEixukdlHcy7IXmUB9dI9E_Hcx48HJIL7sQzmDeextP-Y_tHO9SX51i_SditMkVsRgWxyMekufW3yZFn2jI9nf29y3JEM2a_yFv8iTLDb6d3r1roNsea_Yk5TWCiMcvkmE5ZbP6B/s1700-nu-rw-lo-l85-e365/oct-threatsday.jpg",
+      "publishedAt": "2026-10-01T16:45:38Z",
+      "content": "This week, the useful words are boring ones: inspect, cache, compile, store, trust. Each sounds harmless. Each can become an attack path when a system does a little more than people expect. A model c\u2026 [+15620 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "author": "Michael Kan",
+      "title": "Europol: Leader of 'KillSec' Ransomware Group Is a 16-Year-Old",
+      "description": "Investigators allege that at least two teens are behind the KillSec gang, which conducted ransomware attacks and threatened to leak the stolen information unless victims paid up.\nPolice in Europe allege that a 16-year-old is the leader of a ransomware group c\u2026",
+      "url": "https://uk.pcmag.com/security/167612/europol-leader-of-killsec-ransomware-group-is-a-16-year-old",
+      "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/news/e/europol-le/europol-leader-of-killsec-ransomware-group-is-a-16-year-old_3j52.1200.jpg",
+      "publishedAt": "2026-10-01T16:26:46Z",
+      "content": "Police in Europe allege that a 16-year-old is the leader of a ransomware group called KillSec, which tried to extort hundreds of businesses and organizations.\u00a0\r\nEuropol says the investigation also le\u2026 [+1667 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zscaler.com"
+      },
+      "author": "Adam Ford (Chief Technology Officer)",
+      "title": "Ransomware Data Theft Surged 275% in 2026: Schools, Hospitals, and Government Agencies Had Some of the Largest Claims",
+      "description": "Data exfiltrated by leading ransomware groups jumped 275.8% year over year to 896.2 terabytes, according to the\u00a0Zscaler ThreatLabz 2026 Ransomware Report. That is more than seven times the volume recorded during the 2023\u20132024 reporting period. As organization\u2026",
+      "url": "https://www.zscaler.com/blogs/security-research/ransomware-data-theft-surged-275-2026-schools-hospitals-and-government",
+      "urlToImage": "https://cms.zscaler.com/sites/default/files/images/blogs/threatlabz-blog-image.jpg",
+      "publishedAt": "2026-10-01T16:19:24Z",
+      "content": "Based on activity visible on ransomware leak sites, organizations in these sectors were tied to some of the largest data theft incidents observed during this reporting period.\r\nGovernment. Ransomware\u2026 [+1765 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Sead Fadilpa\u0161i\u0107",
+      "title": "Massive Pentagon hack sees records of 2.7 million US military personnel leaked during months-long data breach \u2014 names, military service records and Social Security numbers all revealed",
+      "description": "A bug in a file-sharing service exposed sensitive employee data and allowed malicious actors to extract information on millions of people.",
+      "url": "https://www.techradar.com/pro/security/massive-pentagon-hack-sees-records-of-2-7-million-us-military-personnel-leaked-during-months-long-data-breach-names-military-service-records-and-social-security-numbers-all-revealed",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/RXJoEQoSUWU9QEaNY4YHyN-2560-80.jpg",
+      "publishedAt": "2026-10-01T16:05:00Z",
+      "content": "<ul><li>Breach exposed PII of three million current and former DoD-affiliated individuals</li><li>Attackers accessed unencrypted data for months via vulnerable file-sharing system</li><li>Stolen reco\u2026 [+4278 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Lawrence Abrams",
+      "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
+      "description": "An international law enforcement operation dubbed \"Operation KillSwitch\" seized the KillSec ransomware gang's data leak site and servers, led to three arrests, and identified a 16-year-old as the group's alleged administrator. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/10/01/operation-killswitch-header.jpg",
+      "publishedAt": "2026-10-01T14:25:14Z",
+      "content": "An international law enforcement operation dubbed \u201cOperation KillSwitch\u201d seized the KillSec ransomware gang\u2019s data leak site and servers, led to three arrests, and identified a 16-year-old as the gro\u2026 [+3861 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Alex Hardy, Postdoctoral Research Associate, Communication and Media, University of Liverpool",
+      "title": "As Baltic states face Russian hybrid aggression, our research shows what Europe can do",
+      "description": "Hybrid warfare, including cyberattacks, poses a big threat, not only to Russia\u2019s neighbours, but to the whole of Europe.",
+      "url": "https://theconversation.com/as-baltic-states-face-russian-hybrid-aggression-our-research-shows-what-europe-can-do-292757",
+      "urlToImage": "https://images.theconversation.com/files/763381/original/file-20261001-59-z571em.jpg?ixlib=rb-4.1.1&rect=0%2C266%2C4079%2C2039&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-10-01T14:17:47Z",
+      "content": "EU defence ministers assembled in Brussels on September 28 to try to formulate a response to increasing Russian aggression in Europe. The talks focused on Russias strategy of hybrid warfare that is, \u2026 [+6379 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityweek.com"
+      },
+      "author": "Eduard Kovacs",
+      "title": "Police Shut Down KillSec Ransomware, Identify Alleged Teen Leader",
+      "description": "Police took control of KillSec\u2019s leak site and secured at least 110 terabytes of data stolen from victims.\nThe post Police Shut Down KillSec Ransomware, Identify Alleged Teen Leader appeared first on SecurityWeek.",
+      "url": "https://www.securityweek.com/police-shut-down-killsec-ransomware-identify-alleged-teen-leader/",
+      "urlToImage": "https://www.securityweek.com/wp-content/uploads/2026/10/KillSwitch.jpg",
+      "publishedAt": "2026-10-01T14:17:07Z",
+      "content": "Europol says a 16-year-old is believed to be the administrator and main operator of KillSec, a ransomware group linked to roughly 1,000 suspected attacks worldwide.\r\nThe teen was identified in Operat\u2026 [+2096 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "benedict.collins@futurenet.com (Benedict Collins) , Benedict Collins",
+      "title": "UK faces the most state-sponsored cyberattacks in Europe as AI narrows the attack timeline from days to minutes",
+      "description": "The UK is facing an unprecedented number of state-sponsored cyber attacks, and is now top in Europe.",
+      "url": "https://www.techradar.com/pro/security/uk-faces-the-most-state-sponsored-cyberattacks-in-europe-as-ai-narrows-the-attack-timeline-from-days-to-minutes",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/owbSSGyfRyGGobNhGmqk2Q-1920-80.jpg",
+      "publishedAt": "2026-10-01T14:00:00Z",
+      "content": "<ul><li>New Microsoft report shows cyber activity is increasing around the globe</li><li>AI is reducing the timescale of attacks, but its also helping defenders detect intrusions</li><li>The UK faces\u2026 [+2739 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Help Net Security"
+      },
+      "author": "Sinisa Markovic",
+      "title": "16-year-old suspected leader of KillSec ransomware group arrested",
+      "description": "A 16-year-old is suspected of being the main operator of KillSec, a ransomware group that Eurojust says is responsible for almost 1,000 attacks worldwide. Seizure notice (Source: Eurojust) According to Eurojust, KillSec has been active since 2024. The group g\u2026",
+      "url": "https://www.helpnetsecurity.com/2026/10/01/killsec-ransomware-16-year-old-main-operator-arrested/",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/25153102/ransomware-1500-red.webp",
+      "publishedAt": "2026-10-01T13:59:02Z",
+      "content": "A 16-year-old is suspected of being the main operator of KillSec, a ransomware group that Eurojust says is responsible for almost 1,000 attacks worldwide.\r\nSeizure notice (Source: Eurojust)\r\nAccordin\u2026 [+2279 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Sergiu Gatlan",
+      "title": "Kiteworks patches max severity code injection vulnerability",
+      "description": "Secure file-sharing software company Kiteworks has released security updates to address 126 vulnerabilities, including a max-severity flaw affecting its Email Protection Gateway (EPG) security solution. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/10/01/Kiteworks.jpg",
+      "publishedAt": "2026-10-01T13:51:08Z",
+      "content": "Secure file-sharing software company Kiteworks has released security updates to address 126 vulnerabilities, including a max-severity flaw affecting its Email Protection Gateway (EPG) security soluti\u2026 [+2502 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Skift"
+      },
+      "author": "Kanchi Jain",
+      "title": "Strawberry\u2019s Case for Fixing the Data Before the Model",
+      "description": "Strawberry's tech chief sees AI models commoditizing and the edge moving to clean, connected data. In Europe, she wants regulators judging rules by whether they work as much as by how well they are documented.",
+      "url": "https://skift.com/2026/10/01/skift-data-ai-summit-europe-preview-strawberry-kari-anna-fiskvik/",
+      "urlToImage": "https://skift.com/wp-content/uploads/2026/10/Skift-Data-AI-Summit-Europe-Speaker-Preview-Kari-Anna-Fiskvik-Chief-Digital-and-Technology-Officer-Strawberry.png?resize=1024,683",
+      "publishedAt": "2026-10-01T12:27:11Z",
+      "content": "In 2021, mid-pandemic, a ransomware attack took down most of Strawberry\u2019s systems, and the Nordic hotel group was back online within four days. Kari Anna Fiskvik, its Chief Digital and Technology Off\u2026 [+8197 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cisa.gov"
+      },
+      "author": "CISA",
+      "title": "Armatura LLC Armatura One",
+      "description": "View CSAF\nSummary\nSuccessful exploitation of these vulnerabilities could allow an attacker to gain unauthorized access to the database, execute arbitrary code on the host with the highest level of privilege, or gain control of the physical access-control syst\u2026",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-01",
+      "urlToImage": null,
+      "publishedAt": "2026-10-01T12:00:00Z",
+      "content": "View CSAF\r\nSummary\r\nSuccessful exploitation of these vulnerabilities could allow an attacker to gain unauthorized access to the database, execute arbitrary code on the host with the highest level of \u2026 [+7063 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityweek.com"
+      },
+      "author": "Mike Lennon",
+      "title": "Kevin Mandia\u2019s Armadin Raises $255 Million at $2.5 Billion Valuation",
+      "description": "The Series B brings the AI-powered offensive security startup\u2019s total funding to roughly $445 million only seven months after its public launch.\nThe post Kevin Mandia\u2019s Armadin Raises $255 Million at $2.5 Billion Valuation appeared first on SecurityWeek.",
+      "url": "https://www.securityweek.com/kevin-mandias-armadin-raises-255-million-at-2-5-billion-valuation/",
+      "urlToImage": "https://www.securityweek.com/wp-content/uploads/2026/03/Kevin-Mandia-Armadin.jpg",
+      "publishedAt": "2026-10-01T11:40:51Z",
+      "content": "Armadin, the AI-native cybersecurity startup founded by Mandiant founder Kevin Mandia, has raised $255.5 million in Series B funding at a valuation topping $2.5 billion.\r\nThe company has now raised a\u2026 [+3322 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Connor Jones",
+      "title": "England's schools are getting better at mopping up cyber incidents",
+      "description": "Two-thirds report immediate recovery, although teachers remain divided over whose job security is",
+      "url": "https://www.theregister.com/security/2026/10/01/englands-schools-are-getting-better-at-mopping-up-cyber-incidents/5300465",
+      "urlToImage": "https://image.theregister.com/5251523.jpg?imageId=5251523&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "publishedAt": "2026-10-01T11:40:13Z",
+      "content": "England's secondary schools are reporting slightly fewer cybersecurity incidents and faster recovery when disaster strikes, according to a survey by exams regulator Ofqual.\r\nTwenty-seven percent of s\u2026 [+4339 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Brittney Melton",
+      "title": "Passengers recount chaos on Tel Aviv flight. And, FBI probes employee-data hack",
+      "description": "What we know so far about the tense moments aboard a Tel Aviv-bound flight. And, the FBI investigates a cyberattack involving sensitive employee data.",
+      "url": "https://www.npr.org/2026/10/01/g-s1-145879/up-first-newsletter-tel-aviv-flight-passengers-fbi-employee-data-hack",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+156/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7e%2F1e%2Fa2b3e25143edbffed7853e42712a%2Fgettyimages-2297341952.jpg",
+      "publishedAt": "2026-10-01T11:37:10Z",
+      "content": "Good morning. You're reading the Up First newsletter.\u00a0Subscribe\u00a0here to get it delivered to your inbox, and\u00a0listen\u00a0to the Up First podcast for all the news you need to start your day.\r\nToday's top st\u2026 [+5478 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "author": "Business Wire",
+      "title": "Thales Unveils a Global Framework to Protect Critical Organisations from Frontier AI Attacks",
+      "description": "Thales believes that frontier models call for a revolution in the pace of cyber defence: while the fundamentals of cybersecurity remain valid, they must now be executed at machine speed, without ever relinquishing human judgement over the decisions that matte\u2026",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/thales-unveils-a-global-framework-to-protect-critical-organisations-from-frontier-ai-attacks",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/bw20261001459724_picture1.jpeg",
+      "publishedAt": "2026-10-01T11:28:44Z",
+      "content": "<ul><li>Thales believes that frontier models call for a revolution in the pace of cyber defence: while the fundamentals of cybersecurity remain valid, they must now be executed at machine speed, with\u2026 [+6786 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "How to protect family photos and files from ransomware",
+      "description": "Ransomware can lock your irreplaceable photos and documents in seconds. A tested backup strategy and stronger cybersecurity habits are your best defense.",
+      "url": "https://www.foxnews.com/tech/how-protect-family-photos-files-ransomware",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/Serious-woman-works-on-laptop-computer.jpg",
+      "publishedAt": "2026-10-01T11:16:39Z",
+      "content": "Think about what you would be most upset to lose if something happened to your computer. For me, it would be the photos and videos you cannot replace. But your computer may also hold years of tax ret\u2026 [+12803 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Talosintelligence.com"
+      },
+      "author": "Hazel Burton",
+      "title": "The Fine Art of Frustrating the Adversary",
+      "description": "What really frustrates an adversary? Eight Cisco Talos researchers share practical ways to make their next move slower and riskier. From deception and behavioral detection to breaking attack dependencies and resisting manufactured urgency.",
+      "url": "https://blog.talosintelligence.com/the-fine-art-of-frustrating-the-adversary/",
+      "urlToImage": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/09/CAM26-BlogHeader.jpg",
+      "publishedAt": "2026-10-01T10:00:05Z",
+      "content": "<ul><li>For Cybersecurity Awareness Month, eight Cisco Talos researchers share practical ways defenders can frustrate adversaries at different stages of an operation.</li><li>Deception techniques suc\u2026 [+16279 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "John Power",
+      "title": "OpenAI \u2018reviewing\u2019 report of failed hacking attempt against Canada\u2019s gov\u2019t",
+      "description": "AI giant says it is reviewing report of attempted cyberattack on Canada's national archives agency.",
+      "url": "https://www.aljazeera.com/economy/2026/10/1/openai-reviewing-report-of-failed-hacking-attempt-against-canadas-govt",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26272706519882-1790828427_19904d-1790832700.jpg?resize=1200%2C630&quality=80",
+      "publishedAt": "2026-10-01T07:56:49Z",
+      "content": "OpenAI has confirmed that it is reviewing a report of a failed hacking attempt against a Canadian government body in the latest incident to highlight cybersecurity concerns about artificial intellige\u2026 [+2401 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sharenet.co.za"
+      },
+      "author": "Sharenet",
+      "title": "PHP - PRIMARY HEALTH PROPERTIES PLC - Q3 Update on rental growth and joint ventures - 01/10/2026",
+      "description": "PHP - PRIMARY HEALTH PROPERTIES PLC - Q3 Update on rental growth and joint ventures - 01/10/2026sharenet.co.za",
+      "url": "https://www.sharenet.co.za/v3/sens_display.php?tdate=20261001080000&seq=16&scode=",
+      "urlToImage": "http://www.sharenet.co.za/v3/images/Sharenet_Logo_1.png",
+      "publishedAt": "2026-10-01T06:40:37Z",
+      "content": "For more information about the Coronavirus (COVID-19), please visit https://sacoronavirus.co.za.\r\nAs the world continues to face challenges in dealing with the Coronavirus (COVID-19) pandemic, we are\u2026 [+1644 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PRNewswire"
+      },
+      "author": null,
+      "title": "IGEL Brings Now & Next\u00ae Workspace & Endpoint Security Summit to Dubai",
+      "description": "The event brings together customers, partners, and industry leaders to advance endpoint security, resilience, and secure workspace delivery. DUBAI, UAE, Oct. 1, 2026 /PRNewswire/ -- IGEL\u00ae, a global software company delivering the IGEL Adaptive Secure Endpoint\u2026",
+      "url": "https://www.prnewswire.com/news-releases/igel-brings-now--next-workspace--endpoint-security-summit-to-dubai-302895202.html",
+      "urlToImage": "https://mmx.prnewswire.com/media/MS2000388/IGEL-Image.jpg?id=OA2981849&p=facebook",
+      "publishedAt": "2026-10-01T05:00:00Z",
+      "content": "The event brings together customers, partners, and industry leaders to advance endpoint security, resilience, and secure workspace delivery.\r\nDUBAI, UAE, Oct. 1, 2026 /PRNewswire/ -- IGEL\u00ae\r\n,\u00a0a globa\u2026 [+4166 chars]"
+    }
+  ]
+}

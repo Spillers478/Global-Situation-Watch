@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "totalResults": 1,
+  "articles": [
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Dan Lamothe",
+      "title": "Pentagon prepares for potential surge of naval forces in Middle East - The Washington Post",
+      "description": "The U.S. military may soon have three aircraft carriers in the region as the Trump administration figures out its next steps in the months-long war with Iran.",
+      "url": "https://www.washingtonpost.com/national-security/2026/10/01/pentagon-prepares-potential-surge-naval-forces-middle-east/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/6KVPWFDVSYI6VLM3EVHMTGMTXQ.jpg&w=1440",
+      "publishedAt": "2026-10-02T05:03:04Z",
+      "content": "The U.S. military is planning for a possible surge of thousands of naval forces to the Middle East in coming weeks, as President Donald Trump considers renewing strikes on Iran after the midterm elec\u2026 [+35 chars]"
+    }
+  ]
+}

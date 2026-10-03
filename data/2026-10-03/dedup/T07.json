@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "https://nypost.com/2026/10/02/world-news/putin-says-russia-will-use-all-weapons-in-its-arsenal-if-any-of-its-territory-is-attacked/": "a",
+    "https://www.dailymail.com/news/article-16177877/Putin-warns-NATO-weapon-attack-alliance-response-Western-aggression.html": "a",
+    "https://www.rawstory.com/trump-nuclear-2677983160/": "b",
+    "https://www.ibtimes.com.au/putin-warns-all-weapons-kaliningrad-attack-1876177": "a",
+    "https://slashdot.org/firehose.pl?op=view&amp;id=185949500": "a"
+  },
+  "contradictions": []
+}

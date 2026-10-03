@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Oliver Smith - Senior business producer; Simon Jack - Business editor; Archie Mitchell - Business reporter",
+      "title": "Trump's diesel export threat puts new pressure on Europe as prices hit records",
+      "description": "[AFP via Getty Images]\r\n\nDonald Trump has said he may ask European countries to release some of their diesel reserves as he considers banning US exports of the fuel.The president's comment comes after diesel prices hit record highs on UK forecourts this week,\u2026",
+      "url": "https://www.bbc.com/news/articles/c5zjzjgdeneeo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/95a3/live/c2123c20-be1d-11f1-8202-6fffc4c0ebaa.jpg",
+      "publishedAt": "2026-10-02T09:47:05Z",
+      "content": "Potentially adding to the pressure on the global diesel market, Chinese refiners have reportedly halted October exports of some fuel products as Beijing prioritises domestic supplies.Prices of petrol\u2026 [+261 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Skepticalscience.com"
+      },
+      "author": null,
+      "title": "Skeptical Science New Research for Week #40 2026",
+      "description": "Open access notables\n\nCenturies of global heating from Carbon Majors: Dependence on future emissions pathways, Frierson & Henrie, PLOS Climate\n\nWe perform simulations that attribute the amount of global warming due to corporations, governments and other entit\u2026",
+      "url": "https://skepticalscience.com/new_research_2026_40.html",
+      "urlToImage": "https://skepticalscience.com/public/assets/images/og/button_sks_200.jpg",
+      "publishedAt": "2026-10-01T05:37:09Z",
+      "content": "Posted on 1 October 2026 by Doug Bostrom, Marc Kodack\r\nOpen access notables\r\nCenturies of global heating from Carbon Majors: Dependence on future emissions pathways, Frierson &amp; Henrie, PLOS Clima\u2026 [+73961 chars]"
+    }
+  ]
+}

@@ -1,0 +1,4859 @@
+{
+ "date": "2026-10-03",
+ "labels": {
+  "flagship-ru-ua": "Russia / Ukraine",
+  "flagship-ir-il": "Iran / Israel / Middle East",
+  "T15": "Disaster / Access Denial",
+  "T01": "Military Conflict",
+  "T02": "Humanitarian Crisis",
+  "T03": "Bio/Chemical Attack",
+  "T04": "Infectious Outbreak / Pandemic",
+  "T05": "Political Instability / Coup Risk",
+  "T06": "Mass Uprising / Regime-Threatening Unrest",
+  "T07": "Nuclear Weaponry / Attack",
+  "T08": "VEO / Regional Insecurity",
+  "T09": "American Hostage / Kidnapping",
+  "T10": "Military Modernization",
+  "T11": "Military Exercise",
+  "T12": "Large-Scale Cyber Attack / Internet Blackout",
+  "T13": "Migration / Refugee Crisis",
+  "T14": "Threats to US Embassies / Diplomats"
+ },
+ "sections": {
+  "flagship-ru-ua": {
+   "home": [
+    "th-a1ffc1b9",
+    "th-6e28b42b",
+    "th-c15802d9",
+    "th-254fa093",
+    "th-dd139282",
+    "th-e115123f",
+    "th-5fd58d19",
+    "th-d86d7ba0",
+    "th-6810c489",
+    "th-571a3ab0",
+    "th-bff2803f",
+    "th-9859f608",
+    "th-7c530d8d",
+    "th-1c378e72",
+    "th-94d497e2",
+    "th-2c2ff719",
+    "th-5bf140f4",
+    "th-cfca2baf",
+    "th-88d577cb",
+    "th-445979a0",
+    "th-0348e231",
+    "th-3b3aea15"
+   ],
+   "linked": [
+    "th-7bf800da",
+    "th-6b6ed745"
+   ]
+  },
+  "flagship-ir-il": {
+   "home": [
+    "th-91c11f44",
+    "th-c471be15",
+    "th-20f09a5d",
+    "th-61eddb7f",
+    "th-6b6ed745",
+    "th-dcddc05f",
+    "th-54d8def4",
+    "th-35e2c1ce",
+    "th-7750194c",
+    "th-32783e7d",
+    "th-25a0ac4d",
+    "th-30079dca",
+    "th-24760671",
+    "th-92b47729",
+    "th-5e0cea88",
+    "th-2e548fd0",
+    "th-5bf9e5fd",
+    "th-ddc65276",
+    "th-5764f687",
+    "th-0f07f7e5",
+    "th-96c4da84",
+    "th-851e175e",
+    "th-51fab9f9",
+    "th-c6883cf9",
+    "th-449998c4",
+    "th-c119bc5e",
+    "th-a0d208e2"
+   ],
+   "linked": []
+  },
+  "T15": {
+   "home": [
+    "th-8b2583ed"
+   ],
+   "linked": [
+    "th-61eddb7f"
+   ]
+  },
+  "T01": {
+   "home": [
+    "th-4da688c7",
+    "th-efdd72b3",
+    "th-68e2e55e",
+    "th-5c17190f",
+    "th-85e2918d",
+    "th-3b05fd01",
+    "th-c78cf7d5"
+   ],
+   "linked": []
+  },
+  "T02": {
+   "home": [
+    "th-2fffec21",
+    "th-f114affd",
+    "th-a30e8736",
+    "th-d9360195",
+    "th-8b96861c"
+   ],
+   "linked": []
+  },
+  "T03": {
+   "home": [
+    "th-3752f2a5"
+   ],
+   "linked": []
+  },
+  "T04": {
+   "home": [
+    "th-8e46dd18",
+    "th-a2e0e8f8",
+    "th-6544b43e",
+    "th-a9fc3115"
+   ],
+   "linked": []
+  },
+  "T05": {
+   "home": [
+    "th-d453113c",
+    "th-139735e7",
+    "th-44cc801d",
+    "th-49c40fd6",
+    "th-1e068544",
+    "th-6424b554",
+    "th-0b72ffbc"
+   ],
+   "linked": []
+  },
+  "T06": {
+   "home": [
+    "th-a760a18d",
+    "th-d7dc9a1d",
+    "th-b4991321",
+    "th-d3f891c6"
+   ],
+   "linked": []
+  },
+  "T07": {
+   "home": [
+    "th-7bf800da",
+    "th-d30c9016"
+   ],
+   "linked": []
+  },
+  "T08": {
+   "home": [
+    "th-81c0f18e",
+    "th-618c7c5c",
+    "th-2e41ae86"
+   ],
+   "linked": []
+  },
+  "T09": {
+   "home": [],
+   "linked": []
+  },
+  "T10": {
+   "home": [
+    "th-63fc9d80",
+    "th-4f2fe71f",
+    "th-e5350771",
+    "th-473f2a10",
+    "th-1f1d39a3",
+    "th-69a03725",
+    "th-3d37f812",
+    "th-79d95f83"
+   ],
+   "linked": []
+  },
+  "T11": {
+   "home": [
+    "th-2045a6ea"
+   ],
+   "linked": []
+  },
+  "T12": {
+   "home": [
+    "th-be3f5de8",
+    "th-29e4a3d5",
+    "th-a1c6f014",
+    "th-a170eee5",
+    "th-f07c4b4c",
+    "th-18f78908",
+    "th-315cd3f9"
+   ],
+   "linked": []
+  },
+  "T13": {
+   "home": [
+    "th-f32e1d91",
+    "th-05277490",
+    "th-7ad3c0d3",
+    "th-9d3f9983"
+   ],
+   "linked": []
+  },
+  "T14": {
+   "home": [],
+   "linked": []
+  }
+ },
+ "threads": [
+  {
+   "id": "th-be3f5de8",
+   "home": "T12",
+   "topics": {
+    "T12": 8
+   },
+   "n_articles": 8,
+   "lead_url": "https://www.theregister.com/cyber-crime/2026/10/02/teen-suspected-of-running-killsec-ransomware-group-as-cops-seize-servers-arrest-three/5300784",
+   "lead_title": "Teen suspected of running KillSec ransomware group as cops seize servers, arrest three",
+   "lead_source": "Theregister.com",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T12",
+     "url": "https://www.theregister.com/cyber-crime/2026/10/02/teen-suspected-of-running-killsec-ransomware-group-as-cops-seize-servers-arrest-three/5300784",
+     "title": "Teen suspected of running KillSec ransomware group as cops seize servers, arrest three",
+     "description": "Operation KillSwitch takes over leak site holding at least 110 TB of stolen data",
+     "source": "Theregister.com",
+     "publishedAt": "2026-10-02T11:43:35Z",
+     "domain": "theregister.com",
+     "category": "established",
+     "origin": "theregister.com"
+    },
+    {
+     "topic": "T12",
+     "url": "https://www.techradar.com/pro/security/police-take-down-dangerous-killsec-ransomware-gang-and-find-out-its-being-run-by-a-teenager",
+     "title": "Police take down dangerous KillSec ransomware gang \u2014 and find out it's being run by a teenager",
+     "description": "Some people have been arrested, with servers, domains, and proceeds, confiscated, too.",
+     "source": "TechRadar",
+     "publishedAt": "2026-10-02T11:15:00Z",
+     "domain": "techradar.com",
+     "category": "established",
+     "origin": "techradar.com"
+    },
+    {
+     "topic": "T12",
+     "url": "https://www.infosecurity-magazine.com/news/police-target-killsec-ransomware/",
+     "title": "Police Target KillSec Ransomware Group with Arrests and Seizures",
+     "description": "Investigators have disrupted the operations of ransomware group KillSec and arrested several key suspects",
+     "source": "Infosecurity Magazine",
+     "publishedAt": "2026-10-02T09:20:00Z",
+     "domain": "infosecurity-magazine.com",
+     "category": "established",
+     "origin": "infosecurity-magazine.com"
+    },
+    {
+     "topic": "T12",
+     "url": "https://securityaffairs.com/200200/cyber-crime/operation-killswitch-police-dismantle-killsec-ransomware-group.html",
+     "title": "Operation KillSwitch: Police Dismantle KillSec Ransomware Group",
+     "description": "Operation KillSwitch: Europol says the KillSec ransomware group, allegedly led by a 16-year-old, was dismantled after attacks on about 1,000 victims. Law enforcement seized control of KillSec \u2018s dark web leak site, the Tor website the group used to threaten v\u2026",
+     "source": "Securityaffairs.com",
+     "publishedAt": "2026-10-01T18:08:47Z",
+     "domain": "securityaffairs.com",
+     "category": "established",
+     "origin": "securityaffairs.com"
+    },
+    {
+     "topic": "T12",
+     "url": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
+     "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
+     "description": "Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organizations and threatening to publish it on its leak site unless they paid.\n\nThe 16-year-old was one of\u2026",
+     "source": "Internet",
+     "publishedAt": "2026-10-01T16:55:57Z",
+     "domain": "thehackernews.com",
+     "category": "established",
+     "origin": "thehackernews.com"
+    },
+    {
+     "topic": "T12",
+     "url": "https://uk.pcmag.com/security/167612/europol-leader-of-killsec-ransomware-group-is-a-16-year-old",
+     "title": "Europol: Leader of 'KillSec' Ransomware Group Is a 16-Year-Old",
+     "description": "Investigators allege that at least two teens are behind the KillSec gang, which conducted ransomware attacks and threatened to leak the stolen information unless victims paid up.\nPolice in Europe allege that a 16-year-old is the leader of a ransomware group c\u2026",
+     "source": "PCMag.com",
+     "publishedAt": "2026-10-01T16:26:46Z",
+     "domain": "pcmag.com",
+     "category": "established",
+     "origin": "pcmag.com"
+    },
+    {
+     "topic": "T12",
+     "url": "https://decrypt.co/379913/spanish-police-arrest-16-year-old-accused-of-running-killsec-ransomware-group",
+     "title": "Spanish Police Arrest 16-Year-Old Accused of Running KillSec Ransomware Group",
+     "description": "A second suspect faces extradition to Puerto Rico, while Investigators are tracing the proceeds of ransoms the group demanded in crypto.",
+     "source": "Decrypt",
+     "publishedAt": "2026-10-02T09:12:54Z",
+     "domain": "decrypt.co",
+     "category": "unclassified",
+     "origin": "decrypt.co"
+    },
+    {
+     "topic": "T12",
+     "url": "https://biztoc.com/x/6b7b8be7154e936e",
+     "title": "Teen suspected of running KillSec ransomware group as cops seize servers, arrest three",
+     "description": "Police suspect a 16-year-old was the main operator of KillSec, a ransomware group linked to around 1,000 suspected attacks worldwide. Authorities announced on Thursday that an international operation had seized the group's infrastructure and made three provis\u2026",
+     "source": "Biztoc.com",
+     "publishedAt": "2026-10-02T12:37:24Z",
+     "domain": "biztoc.com",
+     "category": "aggregator",
+     "origin": null
+    }
+   ],
+   "contradictions": [],
+   "score": 87.2,
+   "n_independent": 7,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 1.0,
+    "quality": 0.7,
+    "recency": 0.975,
+    "escalation": 0.823,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T12:37:24+00:00",
+   "rank": 1,
+   "top_rank": 1,
+   "related": []
+  },
+  {
+   "id": "th-a1ffc1b9",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 2
+   },
+   "n_articles": 2,
+   "lead_url": "https://www.bbc.co.uk/news/articles/cj5ydy1yk3yqo",
+   "lead_title": "British paratrooper killed by explosion in Ukraine, coroner rules",
+   "lead_source": "BBC News",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.bbc.co.uk/news/articles/cj5ydy1yk3yqo",
+     "title": "British paratrooper killed by explosion in Ukraine, coroner rules",
+     "description": "L/Cpl George Hooley is the first UK service member to die in Ukraine since Russia's full-scale invasion in February 2022.",
+     "source": "BBC News",
+     "publishedAt": "2026-10-02T09:47:51Z",
+     "domain": "bbc.co.uk",
+     "category": "wire_primary",
+     "origin": "bbc.co.uk"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.dailymail.com/news/article-16177725/British-paratrooper-killed-explosion-Ukraine-coroner-inquest.html",
+     "title": "'Exceptional' British paratrooper, 28, was killed by an explosion in Ukraine, coroner reveals after inquest held in secret",
+     "description": "Lance Corporal George Hooley, 28, of the Parachute Regiment, died\u00a0while observing the testing of a new defensive capability in the war-torn country last December.",
+     "source": "Dailymail.com",
+     "publishedAt": "2026-10-02T06:31:53Z",
+     "domain": "dailymail.com",
+     "category": "established",
+     "origin": "dailymail.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 81.8,
+   "n_independent": 2,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.565,
+    "quality": 0.94,
+    "recency": 0.874,
+    "escalation": 1.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T09:47:51+00:00",
+   "rank": 2,
+   "top_rank": 2,
+   "related": []
+  },
+  {
+   "id": "th-6e28b42b",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 3
+   },
+   "n_articles": 3,
+   "lead_url": "https://www.aljazeera.com/news/2026/10/2/ukraine-calls-for-tighter-sanctions-as-russian-attacks-spark-kyiv-gridlock",
+   "lead_title": "Ukraine calls for tighter sanctions as Russian attacks spark Kyiv gridlock",
+   "lead_source": "Al Jazeera English",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.aljazeera.com/news/2026/10/2/ukraine-calls-for-tighter-sanctions-as-russian-attacks-spark-kyiv-gridlock",
+     "title": "Ukraine calls for tighter sanctions as Russian attacks spark Kyiv gridlock",
+     "description": "Closure of bridges struck by drones in Ukrainian capital causes traffic chaos.",
+     "source": "Al Jazeera English",
+     "publishedAt": "2026-10-02T12:47:30Z",
+     "domain": "aljazeera.com",
+     "category": "wire_primary",
+     "origin": "aljazeera.com"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://abcnews.com/International/wireStory/russian-aerial-strikes-snarl-traffic-3-kyiv-bridges-136944164",
+     "title": "Russian aerial strikes snarl traffic on 3 Kyiv bridges in a new disruption tactic",
+     "description": "Russian aerial attacks have forced the partial closure of three bridges over the Dnipro River in Kyiv, causing traffic chaos",
+     "source": "Abcnews.com",
+     "publishedAt": "2026-10-02T11:06:01Z",
+     "domain": "abcnews.com",
+     "category": "wire_primary",
+     "origin": "abcnews.com"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.dw.com/en/ukraine-kyiv-bridges-shut-after-fatal-russian-drone-assault/a-79510950",
+     "title": "Ukraine: Kyiv bridges shut after fatal Russian drone assault",
+     "description": "The latest Russian attacks killed at least one person and severely disrupted traffic in the Ukrainian capital. Several bridges over the Dnipro River connect western and eastern Kyiv. Several bridges in Kyiv have been closed as the result of new Russian drone \u2026",
+     "source": "DW (English)",
+     "publishedAt": "2026-10-02T09:28:00Z",
+     "domain": "dw.com",
+     "category": "wire_primary",
+     "origin": "dw.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 76.4,
+   "n_independent": 3,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.712,
+    "quality": 1.0,
+    "recency": 0.981,
+    "escalation": 0.491,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T12:47:30+00:00",
+   "rank": 3,
+   "top_rank": 3,
+   "related": []
+  },
+  {
+   "id": "th-81c0f18e",
+   "home": "T08",
+   "topics": {
+    "T08": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.bbc.co.uk/news/articles/cmy0z00wr14xo",
+   "lead_title": "More than 5,000 people killed or injured in Haiti due to gang violence this year, UN says",
+   "lead_source": "BBC News",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T08",
+     "url": "https://www.bbc.co.uk/news/articles/cmy0z00wr14xo",
+     "title": "More than 5,000 people killed or injured in Haiti due to gang violence this year, UN says",
+     "description": "The United Nations said violent gangs continue to \"adapt and expand\" across the country, further threatening its stability.",
+     "source": "BBC News",
+     "publishedAt": "2026-10-02T10:22:52Z",
+     "domain": "bbc.co.uk",
+     "category": "wire_primary",
+     "origin": "bbc.co.uk"
+    }
+   ],
+   "contradictions": [],
+   "score": 74.9,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.894,
+    "escalation": 0.951,
+    "severity": 0.7
+   },
+   "latest": "2026-10-02T10:22:52+00:00",
+   "rank": 4,
+   "top_rank": 4,
+   "related": []
+  },
+  {
+   "id": "th-618c7c5c",
+   "home": "T08",
+   "topics": {
+    "T08": 7
+   },
+   "n_articles": 7,
+   "lead_url": "https://www.aljazeera.com/news/2026/10/1/uae-investigates-possible-terrorist-link-in-attack-on-flight-to-israel",
+   "lead_title": "UAE investigates possible \u2018terrorist\u2019 link in attack on flight to Israel",
+   "lead_source": "Al Jazeera English",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T08",
+     "url": "https://www.aljazeera.com/news/2026/10/1/uae-investigates-possible-terrorist-link-in-attack-on-flight-to-israel",
+     "title": "UAE investigates possible \u2018terrorist\u2019 link in attack on flight to Israel",
+     "description": "Investigators will probe whether incident was linked to any 'terrorist activity or intent', UAE state media reports.",
+     "source": "Al Jazeera English",
+     "publishedAt": "2026-10-01T11:46:08Z",
+     "domain": "aljazeera.com",
+     "category": "wire_primary",
+     "origin": "aljazeera.com"
+    },
+    {
+     "topic": "T08",
+     "url": "https://www.irishtimes.com/world/middle-east/2026/10/01/flydubai-uae-investigates-if-attack-was-terrorist-activity/",
+     "title": "Flydubai: UAE investigates if attack was \u2018terrorist activity\u2019",
+     "description": "Israel also involved in inquiry into cockpit battle",
+     "source": "The Irish Times",
+     "publishedAt": "2026-10-01T09:34:18Z",
+     "domain": "irishtimes.com",
+     "category": "wire_primary",
+     "origin": "irishtimes.com"
+    },
+    {
+     "topic": "T08",
+     "url": "https://timesofindia.indiatimes.com/world/middle-east/terrorist-act-uae-official-on-flydubai-attack-praises-india-pilot-smit-machchhar/articleshow/134637759.cms",
+     "title": "'Terrorist act': UAE official on flydubai attack, praises India pilot Smit Machchhar",
+     "description": "NEW DELHI: A UAE official has described the mid-air incident involving flydubai flight FZ1073 as a \u201cterrorist act\u201d while praising Indian pilot Smit",
+     "source": "The Times of India",
+     "publishedAt": "2026-10-02T11:06:24Z",
+     "domain": "indiatimes.com",
+     "category": "established",
+     "origin": "indiatimes.com"
+    },
+    {
+     "topic": "T08",
+     "url": "https://timesofindia.indiatimes.com/world/us/a-hero-trump-hails-indian-captain-after-flydubai-attack-calls-co-pilot-perhaps-a-terrorist/articleshow/134605863.cms",
+     "title": "'A hero': Trump hails Indian captain after Flydubai attack, calls co-pilot \u2018perhaps a terrorist\u2019",
+     "description": "US President Donald Trump has hailed Indian Flydubai captain Smit Machchhar as \u201ca hero\u201d after he was stabbed by his co-pilot during a mid-air attack on an",
+     "source": "The Times of India",
+     "publishedAt": "2026-10-01T01:47:11Z",
+     "domain": "indiatimes.com",
+     "category": "established",
+     "origin": "indiatimes.com"
+    },
+    {
+     "topic": "T08",
+     "url": "https://economictimes.indiatimes.com/news/international/world-news/terrorist-or-whack-job-trump-on-flydubai-co-pilot-after-mid-air-attack-calls-indian-captain-smit-machchhar-a-hero/articleshow/134605778.cms",
+     "title": "\"Terrorist or whack job\": Trump on flydubai co-pilot after mid-air attack; calls Indian Captain Smit Machchhar a hero",
+     "description": "US President Donald Trump communicated with Israeli Prime Minister Benjamin Netanyahu about an attack on flydubai flight FZ1073. During this incident, an Indian pilot, Captain Smit Machchhar, was stabbed by his co-pilot. The quick actions of passengers helped\u2026",
+     "source": "The Times of India",
+     "publishedAt": "2026-10-01T01:12:05Z",
+     "domain": "indiatimes.com",
+     "category": "established",
+     "origin": "indiatimes.com"
+    },
+    {
+     "topic": "T08",
+     "url": "https://www.breitbart.com/middle-east/2026/10/01/united-arab-emirates-investigates-flight-fz1073-as-terrorist-attack/",
+     "title": "United Arab Emirates Investigates Flight FZ1073 as Terrorist Attack",
+     "description": "Dr. Hamad Saif al-Shamsi, attorney general of the United Arab Emirates (UAE), announced Thursday that a team of public prosecutors will investigate the averted crisis aboard Flydubai Flight FZ1073 on Wednesday morning as a possible organized terrorist attack.\u2026",
+     "source": "Breitbart News",
+     "publishedAt": "2026-10-01T22:35:39Z",
+     "domain": "breitbart.com",
+     "category": "advocacy_opinion",
+     "origin": "breitbart.com"
+    },
+    {
+     "topic": "T08",
+     "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185917014",
+     "title": "UAE investigates if Flydubai attack was \u2018terrorist activity\u2019 - Financial Times",
+     "description": "UAE investigates if Flydubai attack was \u2018terrorist activity\u2019Financial Times Who Is Captain Smit Machchhar, the Pilot Hailed as a Hero After FlyDubai Cockpit Stabbing?The New York Times Passengers foil bid to crash Dubai-Tel Aviv flight, Israel says, after co-\u2026",
+     "source": "Slashdot.org",
+     "publishedAt": "2026-10-01T13:12:48Z",
+     "domain": "slashdot.org",
+     "category": "aggregator",
+     "origin": null
+    }
+   ],
+   "contradictions": [],
+   "score": 72.2,
+   "n_independent": 4,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.827,
+    "quality": 0.96,
+    "recency": 0.919,
+    "escalation": 0.295,
+    "severity": 0.7
+   },
+   "latest": "2026-10-02T11:06:24+00:00",
+   "rank": 5,
+   "top_rank": 5,
+   "related": [
+    "th-5bf9e5fd"
+   ]
+  },
+  {
+   "id": "th-91c11f44",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.democracynow.org/2026/10/2/massacre_at_minab",
+   "lead_title": "\"The School That Became a Grave\": Jeremy Scahill on U.S Bombing of Minab, Killing 120+ Iranian Kids",
+   "lead_source": "Democracy Now!",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.democracynow.org/2026/10/2/massacre_at_minab",
+     "title": "\"The School That Became a Grave\": Jeremy Scahill on U.S Bombing of Minab, Killing 120+ Iranian Kids",
+     "description": "Drop Site News released a major investigation this week into the U.S. bombing of the Shajareh Tayyebeh children\u2019s school in the Iranian city of Minab on February 28, the first day of the U.S.-Israeli war on Iran. Drop Site spoke to survivors, first responders\u2026",
+     "source": "Democracy Now!",
+     "publishedAt": "2026-10-02T12:35:54Z",
+     "domain": "democracynow.org",
+     "category": "established",
+     "origin": "democracynow.org"
+    }
+   ],
+   "contradictions": [],
+   "score": 72.1,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.974,
+    "escalation": 0.993,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T12:35:54+00:00",
+   "rank": 6,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-7bf800da",
+   "home": "T07",
+   "topics": {
+    "flagship-ru-ua": 1,
+    "T07": 3
+   },
+   "n_articles": 4,
+   "lead_url": "https://www.ibtimes.com.au/putin-warns-all-weapons-kaliningrad-attack-1876177",
+   "lead_title": "Putin Warns Russia Could Use 'All Weapons' if Kaliningrad Is Attacked, Admits Ukraine Strikes Cost 1% of GDP",
+   "lead_source": "Ibtimes.com.au",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.ibtimes.com.au/putin-warns-all-weapons-kaliningrad-attack-1876177",
+     "title": "Putin Warns Russia Could Use 'All Weapons' if Kaliningrad Is Attacked, Admits Ukraine Strikes Cost 1% of GDP",
+     "description": "Vladimir Putin warned that Russia could use all weapons in its arsenal, including nuclear arms, if Kaliningrad were attacked, while claiming Ukrainian strikes have cost 1% of GDP.",
+     "source": "Ibtimes.com.au",
+     "publishedAt": "2026-10-02T08:28:30Z",
+     "domain": "ibtimes.com.au",
+     "category": "established",
+     "origin": "ibtimes.com.au"
+    },
+    {
+     "topic": "T07",
+     "url": "https://nypost.com/2026/10/02/world-news/putin-says-russia-will-use-all-weapons-in-its-arsenal-if-any-of-its-territory-is-attacked/",
+     "title": "Putin says Russia will use \u2018all weapons\u2019 in its arsenal if any of its territory is attacked",
+     "description": "Putin accused the West and Europe of escalating tensions by talking about preparing for a war with Moscow in the coming years.",
+     "source": "New York Post",
+     "publishedAt": "2026-10-02T08:21:35Z",
+     "domain": "nypost.com",
+     "category": "established",
+     "origin": "nypost.com"
+    },
+    {
+     "topic": "T07",
+     "url": "https://www.dailymail.com/news/article-16177877/Putin-warns-NATO-weapon-attack-alliance-response-Western-aggression.html",
+     "title": "Putin warns NATO he can use 'any weapon' to attack the alliance in response to Western 'aggression'",
+     "description": "Vladimir Putin has warned that Russia could use 'all weapons' in its arsenal to respond to aggression from European countries.",
+     "source": "Dailymail.com",
+     "publishedAt": "2026-10-02T08:01:55Z",
+     "domain": "dailymail.com",
+     "category": "established",
+     "origin": "dailymail.com"
+    },
+    {
+     "topic": "T07",
+     "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185949500",
+     "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad - BBC",
+     "description": "Putin warns West that Russia is ready to use every weapon to protect KaliningradBBC Putin warns West that Russia is prepared to use \u2018all weapons\u2019 to protect KaliningradCNN Russia warns NATO of a possible nuclear response if Kaliningrad is cut offAP News Putin\u2026",
+     "source": "Slashdot.org",
+     "publishedAt": "2026-10-02T08:13:21Z",
+     "domain": "slashdot.org",
+     "category": "aggregator",
+     "origin": null
+    }
+   ],
+   "contradictions": [],
+   "score": 71.6,
+   "n_independent": 3,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.712,
+    "quality": 0.7,
+    "recency": 0.831,
+    "escalation": 0.551,
+    "severity": 1.0
+   },
+   "latest": "2026-10-02T08:28:30+00:00",
+   "rank": 7,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-3752f2a5",
+   "home": "T03",
+   "topics": {
+    "T03": 3
+   },
+   "n_articles": 3,
+   "lead_url": "https://www.foxnews.com/tech/chinese-ai-model-investigated-researcher-says-provided-instructions-bioweapons-assassinations",
+   "lead_title": "Chinese AI model investigated after researcher says it provided instructions for bioweapons, assassinations",
+   "lead_source": "Fox News",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T03",
+     "url": "https://www.foxnews.com/tech/chinese-ai-model-investigated-researcher-says-provided-instructions-bioweapons-assassinations",
+     "title": "Chinese AI model investigated after researcher says it provided instructions for bioweapons, assassinations",
+     "description": "Researcher Peter Garrigan says Moonshot AI's Kimi model was manipulated into providing instructions for biological weapons and assassination plans.",
+     "source": "Fox News",
+     "publishedAt": "2026-10-02T01:31:03Z",
+     "domain": "foxnews.com",
+     "category": "wire_primary",
+     "origin": "foxnews.com"
+    },
+    {
+     "topic": "T03",
+     "url": "https://cryptobriefing.com/mindgard-jailbreak-moonshot-kimi-models/",
+     "title": "Mindgard says it jailbroke Moonshot AI\u2019s Kimi models into giving sarin and terror attack instructions",
+     "description": "This incident underscores the urgent need for stricter AI regulations and oversight to prevent misuse and enhance public safety.\nThe post Mindgard says it jailbroke Moonshot AI\u2019s Kimi models into giving sarin and terror attack instructions appeared first on C\u2026",
+     "source": "Crypto Briefing",
+     "publishedAt": "2026-10-01T16:53:18Z",
+     "domain": "cryptobriefing.com",
+     "category": "established",
+     "origin": "cryptobriefing.com"
+    },
+    {
+     "topic": "T03",
+     "url": "https://www.breitbart.com/tech/2026/10/01/researchers-chinese-ai-models-provided-instructions-on-sarin-gas-production-terror-attack-advice/",
+     "title": "Researchers: Chinese AI Models Provided Instructions on Sarin Gas Production, Terror Attack Advice",
+     "description": "A UK cybersecurity firm says it managed to \"jailbreak\" two Chinese AI models built by Moonshot, prompting them to produce instructions on sarin gas production, malware creation and a terrorist attack on the London Underground.\nThe post Researchers: Chinese AI\u2026",
+     "source": "Breitbart News",
+     "publishedAt": "2026-10-01T15:13:25Z",
+     "domain": "breitbart.com",
+     "category": "advocacy_opinion",
+     "origin": "breitbart.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 71.4,
+   "n_independent": 3,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.712,
+    "quality": 0.867,
+    "recency": 0.635,
+    "escalation": 0.528,
+    "severity": 1.0
+   },
+   "latest": "2026-10-02T01:31:03+00:00",
+   "rank": 8,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-c471be15",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 3
+   },
+   "n_articles": 3,
+   "lead_url": "https://timesofindia.indiatimes.com/world/us/us-govt-official-arrested-on-charges-of-supporting-iran-backed-houthis-buying-bomb-making-materials/articleshow/134639800.cms",
+   "lead_title": "US govt official arrested on charges of supporting Iran-backed Houthis, buying bomb-making materials",
+   "lead_source": "The Times of India",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://timesofindia.indiatimes.com/world/us/us-govt-official-arrested-on-charges-of-supporting-iran-backed-houthis-buying-bomb-making-materials/articleshow/134639800.cms",
+     "title": "US govt official arrested on charges of supporting Iran-backed Houthis, buying bomb-making materials",
+     "description": "A US Energy Department electrical engineer has been arrested for allegedly providing material support to Yemen\u2019s Iran-backed Houthi rebels, including by",
+     "source": "The Times of India",
+     "publishedAt": "2026-10-02T12:39:30Z",
+     "domain": "indiatimes.com",
+     "category": "established",
+     "origin": "indiatimes.com"
+    },
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://legalinsurrection.com/2026/10/energy-dept-employee-accused-of-attempting-to-help-houthis/",
+     "title": "Energy Dept. Employee Accused of Attempting to Help Houthis",
+     "description": "\u201cAccording to the criminal complaint, Ellaboudy tried to assist the terrorist group improve its communications capabilities, he purchased materials for homemade explosives and drones, and he traveled to Yemen where the Houthis control the capital city.\"\nThe p\u2026",
+     "source": "Legalinsurrection.com",
+     "publishedAt": "2026-10-02T13:00:18Z",
+     "domain": "legalinsurrection.com",
+     "category": "unclassified",
+     "origin": "legalinsurrection.com"
+    },
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://freerepublic.com/focus/f-news/4397666/posts",
+     "title": "DOE Employee Arrested In Alleged Houthi Terror Plot Involving Drones And Explosives",
+     "description": "According to the U.S. Department of Justice, the FBI began examining Ellaboudy after receiving information that he had purchased precursor chemicals, components and other materials associated with improvised explosive devices. Investigators also found purchas\u2026",
+     "source": "Freerepublic.com",
+     "publishedAt": "2026-10-02T13:04:45Z",
+     "domain": "freerepublic.com",
+     "category": "aggregator",
+     "origin": null
+    }
+   ],
+   "contradictions": [],
+   "score": 70.5,
+   "n_independent": 2,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.565,
+    "quality": 0.64,
+    "recency": 0.992,
+    "escalation": 0.713,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T13:04:45+00:00",
+   "rank": 9,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-4da688c7",
+   "home": "T01",
+   "topics": {
+    "T01": 2
+   },
+   "n_articles": 2,
+   "lead_url": "https://www.bbc.co.uk/news/articles/cw4grg92lmr5o",
+   "lead_title": "Pakistan launches deadly air strikes on Afghanistan",
+   "lead_source": "BBC News",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T01",
+     "url": "https://www.bbc.co.uk/news/articles/cw4grg92lmr5o",
+     "title": "Pakistan launches deadly air strikes on Afghanistan",
+     "description": "The Afghan Taliban says nine civilians have died while Pakistan says the strikes killed 22 militants.",
+     "source": "BBC News",
+     "publishedAt": "2026-10-01T06:23:13Z",
+     "domain": "bbc.co.uk",
+     "category": "wire_primary",
+     "origin": "bbc.co.uk"
+    },
+    {
+     "topic": "T01",
+     "url": "https://www.rferl.org/a/pakistan-afghanistan-air-strikes-taliban/33867970.html",
+     "title": "Pakistan Targets Afghan Border Regions With Another Round Of Air Strikes",
+     "description": "Pakistan carried out a round of air strikes on October 1 on two Afghan provinces near the border based on \"credible evidence\" of militant activity in the area.",
+     "source": "Radio Free Europe/ Radio Liberty",
+     "publishedAt": "2026-10-01T14:33:12Z",
+     "domain": "rferl.org",
+     "category": "established",
+     "origin": "rferl.org"
+    }
+   ],
+   "contradictions": [],
+   "score": 69.6,
+   "n_independent": 2,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.565,
+    "quality": 0.94,
+    "recency": 0.417,
+    "escalation": 0.823,
+    "severity": 0.7
+   },
+   "latest": "2026-10-01T14:33:12+00:00",
+   "rank": 10,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-f32e1d91",
+   "home": "T13",
+   "topics": {
+    "T13": 4
+   },
+   "n_articles": 4,
+   "lead_url": "https://www.aljazeera.com/news/2026/10/2/greece-pushes-eu-to-suspend-asylum-during-mass-migration-surges",
+   "lead_title": "Greece pushes EU to suspend asylum during mass migration surges",
+   "lead_source": "Al Jazeera English",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T13",
+     "url": "https://www.aljazeera.com/news/2026/10/2/greece-pushes-eu-to-suspend-asylum-during-mass-migration-surges",
+     "title": "Greece pushes EU to suspend asylum during mass migration surges",
+     "description": "EU migration pact improvements face criticism for insufficient tools to manage large-scale migration emergencies.",
+     "source": "Al Jazeera English",
+     "publishedAt": "2026-10-02T06:16:14Z",
+     "domain": "aljazeera.com",
+     "category": "wire_primary",
+     "origin": "aljazeera.com"
+    },
+    {
+     "topic": "T13",
+     "url": "https://www.dw.com/en/eu-ministers-mull-new-ways-to-curb-irregular-migration/a-79509375",
+     "title": "EU ministers mull new ways to curb irregular migration",
+     "description": "The proposals include setting up so-called return hubs outside the EU and strengthening the border agency Frontex. Greece has even proposed temporarily suspending asylum applications in emergency situations. The interior ministers of European Union countries \u2026",
+     "source": "DW (English)",
+     "publishedAt": "2026-10-02T00:54:00Z",
+     "domain": "dw.com",
+     "category": "wire_primary",
+     "origin": "dw.com"
+    },
+    {
+     "topic": "T13",
+     "url": "https://www.channelnewsasia.com/world/work-migrant-return-hubs-progressing-well-eu-countries-say-6424456",
+     "title": "Work on migrant return hubs 'progressing well', EU countries say",
+     "description": "BRUSSELS: Work to set up migrant return hubs outside the European Union is progressing \"very well\", Denmark said on Thursday (Oct 1) as the bloc's home affairs ministers met in Luxembourg to discuss further ways t",
+     "source": "CNA",
+     "publishedAt": "2026-10-01T14:22:43Z",
+     "domain": "channelnewsasia.com",
+     "category": "wire_primary",
+     "origin": "channelnewsasia.com"
+    },
+    {
+     "topic": "T13",
+     "url": "https://www.irishtimes.com/world/europe/2026/10/01/right-to-asylum-under-threat-as-europe-turns-rightward/",
+     "title": "Right to asylum under threat as Europe turns rightward",
+     "description": "European leaders look set to seek fresh justification for suspending the right to claim legal protection",
+     "source": "The Irish Times",
+     "publishedAt": "2026-10-01T05:00:00Z",
+     "domain": "irishtimes.com",
+     "category": "wire_primary",
+     "origin": "irishtimes.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 66.3,
+   "n_independent": 4,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.827,
+    "quality": 1.0,
+    "recency": 0.763,
+    "escalation": 0.161,
+    "severity": 0.6
+   },
+   "latest": "2026-10-02T06:16:14+00:00",
+   "rank": 11,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-20f09a5d",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 2
+   },
+   "n_articles": 2,
+   "lead_url": "https://www.irishtimes.com/world/middle-east/2026/10/02/us-deploys-thousands-of-troops-to-middle-east-as-donald-trump-weighs-strikes-on-iran/",
+   "lead_title": "US deploys thousands of troops to Middle East as Donald Trump weighs strikes on Iran",
+   "lead_source": "The Irish Times",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.irishtimes.com/world/middle-east/2026/10/02/us-deploys-thousands-of-troops-to-middle-east-as-donald-trump-weighs-strikes-on-iran/",
+     "title": "US deploys thousands of troops to Middle East as Donald Trump weighs strikes on Iran",
+     "description": "Aircraft carrier USS Theodore Roosevelt expected to arrive in the region by the end of November, a US official says",
+     "source": "The Irish Times",
+     "publishedAt": "2026-10-02T12:01:46Z",
+     "domain": "irishtimes.com",
+     "category": "wire_primary",
+     "origin": "irishtimes.com"
+    },
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.aljazeera.com/news/2026/10/2/new-aircraft-carrier-10000-us-troops-is-the-iran-war-about-to-escalate",
+     "title": "New aircraft carrier, 10,000 US troops: Is the Iran war about to escalate?",
+     "description": "By the end of November, three US aircraft carriers and two amphibious landing groups will be positioned near Iran.",
+     "source": "Al Jazeera English",
+     "publishedAt": "2026-10-02T10:06:21Z",
+     "domain": "aljazeera.com",
+     "category": "wire_primary",
+     "origin": "aljazeera.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 65.7,
+   "n_independent": 2,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.565,
+    "quality": 1.0,
+    "recency": 0.953,
+    "escalation": 0.259,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T12:01:46+00:00",
+   "rank": 12,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-c15802d9",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 2
+   },
+   "n_articles": 2,
+   "lead_url": "https://www.aljazeera.com/news/2026/10/2/russia-tries-to-freeze-ukraine-as-it-suffers-record-casualties-and-retreats",
+   "lead_title": "Russia tries to freeze Ukraine as it suffers record casualties and retreats",
+   "lead_source": "Al Jazeera English",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.aljazeera.com/news/2026/10/2/russia-tries-to-freeze-ukraine-as-it-suffers-record-casualties-and-retreats",
+     "title": "Russia tries to freeze Ukraine as it suffers record casualties and retreats",
+     "description": "Moscow has suffered further losses of occupied territory, but is using new drones to beat Ukraine's defences.",
+     "source": "Al Jazeera English",
+     "publishedAt": "2026-10-02T08:03:02Z",
+     "domain": "aljazeera.com",
+     "category": "wire_primary",
+     "origin": "aljazeera.com"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185956616",
+     "title": "Russia Is Planning Its Most Powerful Blow Yet to Try to Freeze Ukraine - The New York Times",
+     "description": "Russia Is Planning Its Most Powerful Blow Yet to Try to Freeze UkraineThe New York Times Putin\u2019s new bombardment of Kyiv has a terrible logicThe Economist Russian Offensive Campaign Assessment, September 25, 2026Institute for the Study of War Russia is stockp\u2026",
+     "source": "Slashdot.org",
+     "publishedAt": "2026-10-02T10:12:55Z",
+     "domain": "slashdot.org",
+     "category": "aggregator",
+     "origin": null
+    }
+   ],
+   "contradictions": [],
+   "score": 63.6,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.888,
+    "escalation": 0.465,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T10:12:55+00:00",
+   "rank": 13,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-254fa093",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 3
+   },
+   "n_articles": 3,
+   "lead_url": "https://www.politico.eu/article/germany-far-right-friedrich-merz-project-strength-resolve-against-vladimir-putin/",
+   "lead_title": "As Germany\u2019s far right rises, weakened Merz looks to project strength and resolve against Putin",
+   "lead_source": "POLITICO.eu",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.politico.eu/article/germany-far-right-friedrich-merz-project-strength-resolve-against-vladimir-putin/",
+     "title": "As Germany\u2019s far right rises, weakened Merz looks to project strength and resolve against Putin",
+     "description": "In a closely watched speech, the chancellor sought to reassure worried allies in Europe and Ukraine while warning Germans to stay the course against Moscow, lest Russia\u2019s war machine \u2018turn against us.\u2019",
+     "source": "POLITICO.eu",
+     "publishedAt": "2026-10-01T18:48:14Z",
+     "domain": "politico.eu",
+     "category": "wire_primary",
+     "origin": "politico.eu"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.dw.com/en/germany-news-merz-lauds-nato-with-westphalian-peace-prize/live-79496180",
+     "title": "Germany news: Merz lauds NATO with Westphalian Peace Prize",
+     "description": "At a ceremony to honor NATO, the German chancellor warned that Russia will threaten the rest of Europe if it isn't stopped in Ukraine. In other news, the German military will set up its first drone regiment. DW has more. NATO awarded annual Westphalian Peace \u2026",
+     "source": "DW (English)",
+     "publishedAt": "2026-10-01T06:12:00Z",
+     "domain": "dw.com",
+     "category": "wire_primary",
+     "origin": "dw.com"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.thelocal.de/20261002/germanys-merz-hails-nato-unity-on-russia-and-rejects-afd-claims",
+     "title": "Germany's Merz hails NATO unity on Russia and rejects AfD claims",
+     "description": "German Chancellor Friedrich Merz on Thursday called for unity in backing Ukraine against Russia \u2013 within NATO, Europe and his own country where the far-right and Moscow-friendly AfD is on the rise.",
+     "source": "The Local Germany",
+     "publishedAt": "2026-10-02T06:42:17Z",
+     "domain": "thelocal.de",
+     "category": "established",
+     "origin": "thelocal.de"
+    }
+   ],
+   "contradictions": [],
+   "score": 63.1,
+   "n_independent": 3,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.712,
+    "quality": 0.96,
+    "recency": 0.776,
+    "escalation": 0.118,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T06:42:17+00:00",
+   "rank": 14,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-8e46dd18",
+   "home": "T04",
+   "topics": {
+    "T04": 2
+   },
+   "n_articles": 2,
+   "lead_url": "https://www.dailymail.com/sport/college-football/article-16176265/san-diego-state-football-mumps-outbreak.html",
+   "lead_title": "San Diego State football in disarray as alarming disease outbreak leaves 32 players on injury report",
+   "lead_source": "Dailymail.com",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T04",
+     "url": "https://www.dailymail.com/sport/college-football/article-16176265/san-diego-state-football-mumps-outbreak.html",
+     "title": "San Diego State football in disarray as alarming disease outbreak leaves 32 players on injury report",
+     "description": "Students were informed by the university on Wednesday that San Diego County Public Health Services has confirmed 14 cases and one probable case so far.",
+     "source": "Dailymail.com",
+     "publishedAt": "2026-10-01T18:01:47Z",
+     "domain": "dailymail.com",
+     "category": "established",
+     "origin": "dailymail.com"
+    },
+    {
+     "topic": "T04",
+     "url": "https://www.si.com/fannation/college/cfb-hq/news/college-football-program-mumps-32-players-san-diego-state",
+     "title": "College Football Program Lists 32 Players on Injury Report Amid Disease Outbreak",
+     "description": "A mumps outbreak has ravaged a college football program coming into this weekend's game.",
+     "source": "Sports Illustrated",
+     "publishedAt": "2026-10-01T20:07:02Z",
+     "domain": "si.com",
+     "category": "unclassified",
+     "origin": "si.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 62.7,
+   "n_independent": 2,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.565,
+    "quality": 0.64,
+    "recency": 0.516,
+    "escalation": 0.73,
+    "severity": 0.7
+   },
+   "latest": "2026-10-01T20:07:02+00:00",
+   "rank": 15,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-a760a18d",
+   "home": "T06",
+   "topics": {
+    "T06": 4
+   },
+   "n_articles": 4,
+   "lead_url": "https://www.foxnews.com/world/france-rocked-student-riots-hundreds-arrested-violence-spreads-nationwide",
+   "lead_title": "France rocked by student riots as hundreds arrested, violence spreads nationwide",
+   "lead_source": "Fox News",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T06",
+     "url": "https://www.foxnews.com/world/france-rocked-student-riots-hundreds-arrested-violence-spreads-nationwide",
+     "title": "France rocked by student riots as hundreds arrested, violence spreads nationwide",
+     "description": "Violent student protests continue to spread across France, with school blockades, clashes with police and officials warning of outside agitators.",
+     "source": "Fox News",
+     "publishedAt": "2026-10-01T16:55:57Z",
+     "domain": "foxnews.com",
+     "category": "wire_primary",
+     "origin": "foxnews.com"
+    },
+    {
+     "topic": "T06",
+     "url": "https://www.dailymail.com/news/article-16176483/policewoman-chased-kicked-paris-france-riots.html",
+     "title": "Policewoman is chased down the street, kicked to the ground and beaten by mob as riots rock France",
+     "description": "A policewoman armed with a teargas cannister has been chased and kicked to the ground by a gang of young rioters as social media is flooded with footage of escalating protests across France.",
+     "source": "Dailymail.com",
+     "publishedAt": "2026-10-01T19:50:45Z",
+     "domain": "dailymail.com",
+     "category": "established",
+     "origin": "dailymail.com"
+    },
+    {
+     "topic": "T06",
+     "url": "https://dailycaller.com/2026/10/01/france-student-protests-riots-violence-injured-arrests-fires",
+     "title": "France Rocked By Student Riots As Dozens Are Left Injured",
+     "description": "Dozens of people have been injured amid nationwide protests in France as high school students gripe over under-resourced schools.",
+     "source": "The Daily Caller",
+     "publishedAt": "2026-10-01T18:57:03Z",
+     "domain": "dailycaller.com",
+     "category": "advocacy_opinion",
+     "origin": "dailycaller.com"
+    },
+    {
+     "topic": "T06",
+     "url": "https://freerepublic.com/focus/f-news/4397535/posts",
+     "title": "'Student' riots rock France as masked men torch schools and douse teachers in petrol",
+     "description": "Student protests have escalated into widespread riots in France with schools set on fire and teachers beaten and doused in petrol. Rioters have unleashed chaos in major cities across the country after what started as largely peaceful demonstrations against th\u2026",
+     "source": "Freerepublic.com",
+     "publishedAt": "2026-10-01T13:59:24Z",
+     "domain": "freerepublic.com",
+     "category": "aggregator",
+     "origin": null
+    }
+   ],
+   "contradictions": [],
+   "score": 60.6,
+   "n_independent": 3,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.712,
+    "quality": 0.867,
+    "recency": 0.511,
+    "escalation": 0.33,
+    "severity": 0.6
+   },
+   "latest": "2026-10-01T19:50:45+00:00",
+   "rank": 16,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-d453113c",
+   "home": "T05",
+   "topics": {
+    "T05": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.aljazeera.com/news/2026/10/2/election-debate-cancelled-in-brazil-bomb-scare-outside-supreme-court",
+   "lead_title": "Election debate cancelled in Brazil, bomb scare outside Supreme Court",
+   "lead_source": "Al Jazeera English",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T05",
+     "url": "https://www.aljazeera.com/news/2026/10/2/election-debate-cancelled-in-brazil-bomb-scare-outside-supreme-court",
+     "title": "Election debate cancelled in Brazil, bomb scare outside Supreme Court",
+     "description": "Brazilian president and opposition candidate snub the final debate ahead of the presidential election.",
+     "source": "Al Jazeera English",
+     "publishedAt": "2026-10-02T06:09:57Z",
+     "domain": "aljazeera.com",
+     "category": "wire_primary",
+     "origin": "aljazeera.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 58.3,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.76,
+    "escalation": 0.33,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T06:09:57+00:00",
+   "rank": 17,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-61eddb7f",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1,
+    "T15": 1
+   },
+   "n_articles": 2,
+   "lead_url": "https://www.bbc.com/news/articles/c5zjzjgdeneeo",
+   "lead_title": "Trump's diesel export threat puts new pressure on Europe as prices hit records",
+   "lead_source": "BBC News",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T15",
+     "url": "https://www.bbc.com/news/articles/c5zjzjgdeneeo",
+     "title": "Trump's diesel export threat puts new pressure on Europe as prices hit records",
+     "description": "[AFP via Getty Images]\r\n\nDonald Trump has said he may ask European countries to release some of their diesel reserves as he considers banning US exports of the fuel.The president's comment comes after diesel prices hit record highs on UK forecourts this week,\u2026",
+     "source": "BBC News",
+     "publishedAt": "2026-10-02T09:47:05Z",
+     "domain": "bbc.com",
+     "category": "wire_primary",
+     "origin": "bbc.com"
+    },
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html",
+     "title": "U.S. urges Europe to \u2018immediately\u2019 release diesel reserves as Iran war fuels record prices",
+     "description": "EU countries are set for crisis talks on soaring diesel prices, with officials warning a U.S. export ban could hurt Europe\u2019s economic outlook.",
+     "source": "CNBC",
+     "publishedAt": "2026-10-02T07:51:56Z",
+     "domain": "cnbc.com",
+     "category": "wire_primary",
+     "origin": "cnbc.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 58.0,
+   "n_independent": 2,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.565,
+    "quality": 1.0,
+    "recency": 0.874,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T09:47:05+00:00",
+   "rank": 18,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-dd139282",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.dailymail.com/news/article-16178423/Putin-orders-military-leaders-abandon-rules-war-Ukraine-sees-increase-attacks-civilians.html",
+   "lead_title": "Putin 'orders his military leaders to abandon the rules of war' as Ukraine sees increase in attacks on civilians",
+   "lead_source": "Dailymail.com",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.dailymail.com/news/article-16178423/Putin-orders-military-leaders-abandon-rules-war-Ukraine-sees-increase-attacks-civilians.html",
+     "title": "Putin 'orders his military leaders to abandon the rules of war' as Ukraine sees increase in attacks on civilians",
+     "description": "Zelensky said that according to intelligence intercepted by Kyiv,\u00a0the Russian president had eliminated the restrictions that governed earlier air campaigns.",
+     "source": "Dailymail.com",
+     "publishedAt": "2026-10-02T13:12:19Z",
+     "domain": "dailymail.com",
+     "category": "established",
+     "origin": "dailymail.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 57.8,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.997,
+    "escalation": 0.408,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T13:12:19+00:00",
+   "rank": 19,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-e115123f",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://timesofindia.indiatimes.com/defence/international/iran-russia-and-now-ukraine-why-ballistic-missiles-are-reshaping-modern-war/articleshow/134635180.cms",
+   "lead_title": "Iran, Russia and now Ukraine: Why ballistic missiles are reshaping modern war",
+   "lead_source": "The Times of India",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://timesofindia.indiatimes.com/defence/international/iran-russia-and-now-ukraine-why-ballistic-missiles-are-reshaping-modern-war/articleshow/134635180.cms",
+     "title": "Iran, Russia and now Ukraine: Why ballistic missiles are reshaping modern war",
+     "description": "Ukraine has reportedly deployed its domestically produced FP-7 tactical ballistic missile in combat for the first time. This missile, which has a range of 250 kilometres, is intended for closer targets including logistics hubs and drone bases. The announcemen\u2026",
+     "source": "The Times of India",
+     "publishedAt": "2026-10-02T09:43:07Z",
+     "domain": "indiatimes.com",
+     "category": "established",
+     "origin": "indiatimes.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 56.7,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.871,
+    "escalation": 0.437,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T09:43:07+00:00",
+   "rank": 20,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-6b6ed745",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ru-ua": 2,
+    "flagship-ir-il": 2
+   },
+   "n_articles": 4,
+   "lead_url": "https://www.rferl.org/a/us-targets-russia-a7-network-iran-sanctions/33868974.html",
+   "lead_title": "US Targets Russia's A7 Network In New Iran Sanctions Push",
+   "lead_source": "Radio Free Europe/ Radio Liberty",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.rferl.org/a/us-targets-russia-a7-network-iran-sanctions/33868974.html",
+     "title": "US Targets Russia's A7 Network In New Iran Sanctions Push",
+     "description": "US authorities designated the A7 financial network as a \"significant transnational criminal organization,\" the latest in a series of steps by Western authorities to try and choke the sprawling Kremlin-backed sanctions-evading scheme.",
+     "source": "Radio Free Europe/ Radio Liberty",
+     "publishedAt": "2026-10-02T09:52:06Z",
+     "domain": "rferl.org",
+     "category": "established",
+     "origin": "rferl.org"
+    },
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://cryptobriefing.com/a7-denies-iran-links-us-sanctions/",
+     "title": "A7 denies Iran links after US Treasury sanctions the Russian payments network",
+     "description": "The sanctions on A7 highlight the increasing scrutiny on digital currencies, potentially reshaping global financial compliance norms.\nThe post A7 denies Iran links after US Treasury sanctions the Russian payments network appeared first on Crypto Briefing.",
+     "source": "Crypto Briefing",
+     "publishedAt": "2026-10-02T08:59:50Z",
+     "domain": "cryptobriefing.com",
+     "category": "established",
+     "origin": "cryptobriefing.com"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://cryptobriefing.com/treasury-sanctions-a7-network-criminal-organization/",
+     "title": "Treasury sanctions A7 Network as transnational criminal organization",
+     "description": "The designation of A7 as a criminal organization highlights the increasing scrutiny on financial networks facilitating sanctions evasion, impacting global compliance.\nThe post Treasury sanctions A7 Network as transnational criminal organization appeared first\u2026",
+     "source": "Crypto Briefing",
+     "publishedAt": "2026-10-01T17:53:18Z",
+     "domain": "cryptobriefing.com",
+     "category": "established",
+     "origin": "cryptobriefing.com"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://decrypt.co/379921/us-designates-russias-a7-network-as-transnational-criminal-organization",
+     "title": "US Designates Russia's A7 Network as Transnational Criminal Organization",
+     "description": "Treasury's proposed rule aims to cut A7's front companies off from U.S. finance\u2014including crypto, where its ruble token moved $179 billion.",
+     "source": "Decrypt",
+     "publishedAt": "2026-10-02T11:28:41Z",
+     "domain": "decrypt.co",
+     "category": "unclassified",
+     "origin": "decrypt.co"
+    }
+   ],
+   "contradictions": [],
+   "score": 56.6,
+   "n_independent": 3,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.712,
+    "quality": 0.66,
+    "recency": 0.933,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T11:28:41+00:00",
+   "rank": 21,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-dcddc05f",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 2
+   },
+   "n_articles": 2,
+   "lead_url": "https://gcaptain.com/no-lights-no-radio-getting-oil-through-hormuz-is-a-risky-job/",
+   "lead_title": "No Lights, No Radio: Getting Oil Through Hormuz Is a Risky\u00a0Job",
+   "lead_source": "gcaptain.com",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://gcaptain.com/no-lights-no-radio-getting-oil-through-hormuz-is-a-risky-job/",
+     "title": "No Lights, No Radio: Getting Oil Through Hormuz Is a Risky\u00a0Job",
+     "description": "The tanker captain summoned his years of experience\u00a0when he saw the blast in front of him. He veered his 300-meter-long ship\u00a0around the vessel ahead and\u00a0could see a fire had started. He\u00a0called the US Navy to tell them of the attack.",
+     "source": "gcaptain.com",
+     "publishedAt": "2026-10-02T11:45:47Z",
+     "domain": "gcaptain.com",
+     "category": "established",
+     "origin": "gcaptain.com"
+    },
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.insurancejournal.com/news/international/2026/10/02/887743.htm",
+     "title": "No Lights, No Radio: Getting Oil Through Strait of Hormuz Is a Risky Job",
+     "description": "The tanker captain summoned his years of experience when he saw the blast in front of him. He veered his 300-meter-long ship around the vessel ahead and could see a fire had started. He called the US Navy to tell \u2026",
+     "source": "Insurance Journal",
+     "publishedAt": "2026-10-02T11:55:13Z",
+     "domain": "insurancejournal.com",
+     "category": "unclassified",
+     "origin": "insurancejournal.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 56.0,
+   "n_independent": 2,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.565,
+    "quality": 0.64,
+    "recency": 0.949,
+    "escalation": 0.161,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T11:55:13+00:00",
+   "rank": 22,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-5fd58d19",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.politico.eu/article/andrius-kubilius-russia-attack-arms-factory-trigger-nato-military-response/",
+   "lead_title": "Kubilius: Russian attack on arms factory would trigger NATO military response",
+   "lead_source": "POLITICO.eu",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.politico.eu/article/andrius-kubilius-russia-attack-arms-factory-trigger-nato-military-response/",
+     "title": "Kubilius: Russian attack on arms factory would trigger NATO military response",
+     "description": "BRUSSELS \u2014 A Russian bombing attack on a European weapons factory should trigger NATO\u2019s Article 5 mutual defense clause, the EU\u2019s top defense official said Thursday. The call comes in t\u2026",
+     "source": "POLITICO.eu",
+     "publishedAt": "2026-10-01T14:04:41Z",
+     "domain": "politico.eu",
+     "category": "wire_primary",
+     "origin": "politico.eu"
+    }
+   ],
+   "contradictions": [],
+   "score": 55.4,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.409,
+    "escalation": 0.423,
+    "severity": 0.8
+   },
+   "latest": "2026-10-01T14:04:41+00:00",
+   "rank": 23,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-d30c9016",
+   "home": "T07",
+   "topics": {
+    "T07": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.rawstory.com/trump-nuclear-2677983160/",
+   "lead_title": "Panic as Pentagon quietly moves to expand Trump's 'nuclear options'",
+   "lead_source": "Raw Story",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T07",
+     "url": "https://www.rawstory.com/trump-nuclear-2677983160/",
+     "title": "Panic as Pentagon quietly moves to expand Trump's 'nuclear options'",
+     "description": "Elbridge Colby\r\n, the under secretary of defense for policy, openly admitted recently that the Defense Department was actively working to increase the \u201c[nuclear] options available\u201d to President Donald Trump \u2014 leaving a number of academics and journalists horr\u2026",
+     "source": "Raw Story",
+     "publishedAt": "2026-10-02T11:54:33Z",
+     "domain": "rawstory.com",
+     "category": "established",
+     "origin": "rawstory.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 55.4,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.948,
+    "escalation": 0.259,
+    "severity": 1.0
+   },
+   "latest": "2026-10-02T11:54:33+00:00",
+   "rank": 24,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-05277490",
+   "home": "T13",
+   "topics": {
+    "T13": 2
+   },
+   "n_articles": 2,
+   "lead_url": "https://www.aljazeera.com/features/2026/10/2/they-are-crying-refugees-in-malaysia-in-fear-amid-myanmar-deportation",
+   "lead_title": "\u2018They are crying\u2019: Refugees in Malaysia in fear amid Myanmar deportation",
+   "lead_source": "Al Jazeera English",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T13",
+     "url": "https://www.aljazeera.com/features/2026/10/2/they-are-crying-refugees-in-malaysia-in-fear-amid-myanmar-deportation",
+     "title": "\u2018They are crying\u2019: Refugees in Malaysia in fear amid Myanmar deportation",
+     "description": "Shrinking resources for refugee support groups in Malaysia collide with increasing hostility towards the Rohingya.",
+     "source": "Al Jazeera English",
+     "publishedAt": "2026-10-02T08:14:18Z",
+     "domain": "aljazeera.com",
+     "category": "wire_primary",
+     "origin": "aljazeera.com"
+    },
+    {
+     "topic": "T13",
+     "url": "https://www.abc.net.au/news/2026-10-01/malaysia-deporting-thousands-myanmar-asylum-seekers/107216076",
+     "title": "Why Malaysia is deporting thousands of Myanmar asylum seekers",
+     "description": "Malaysia this week deported about 1,500 Myanmar nationals, including children, as part of a refugee repatriation programme.",
+     "source": "ABC News (AU)",
+     "publishedAt": "2026-10-01T07:55:27Z",
+     "domain": "abc.net.au",
+     "category": "wire_primary",
+     "origin": "abc.net.au"
+    }
+   ],
+   "contradictions": [],
+   "score": 55.3,
+   "n_independent": 2,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.565,
+    "quality": 1.0,
+    "recency": 0.823,
+    "escalation": 0.0,
+    "severity": 0.6
+   },
+   "latest": "2026-10-02T08:14:18+00:00",
+   "rank": 25,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-d86d7ba0",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.cbc.ca/news/world/commercial-shipping-targeted-black-sea-9.7365129",
+   "lead_title": "The Black Sea is the most dangerous it's been since the start of Russia\u2019s war. And it's choking global grain",
+   "lead_source": "CBC News",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.cbc.ca/news/world/commercial-shipping-targeted-black-sea-9.7365129",
+     "title": "The Black Sea is the most dangerous it's been since the start of Russia\u2019s war. And it's choking global grain",
+     "description": "Strikes against ports and vessels have crippled shipping routes leaving Russia's and Ukraine's combined wheat exports down by 60 per cent over last year. Global wheat prices are already up from a year ago, and experts warn it could get worse.",
+     "source": "CBC News",
+     "publishedAt": "2026-10-02T08:00:00Z",
+     "domain": "cbc.ca",
+     "category": "wire_primary",
+     "origin": "cbc.ca"
+    }
+   ],
+   "contradictions": [],
+   "score": 54.4,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.816,
+    "escalation": 0.139,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T08:00:00+00:00",
+   "rank": 26,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-efdd72b3",
+   "home": "T01",
+   "topics": {
+    "T01": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.aljazeera.com/opinions/2026/10/2/washingtons-diplomacy-in-sudan-has-backfired",
+   "lead_title": "Washington\u2019s diplomacy in Sudan has backfired",
+   "lead_source": "Al Jazeera English",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T01",
+     "url": "https://www.aljazeera.com/opinions/2026/10/2/washingtons-diplomacy-in-sudan-has-backfired",
+     "title": "Washington\u2019s diplomacy in Sudan has backfired",
+     "description": "Pressure meant to isolate Sudan\u2019s army has instead left Washington isolated and a ceasefire further out of reach.",
+     "source": "Al Jazeera English",
+     "publishedAt": "2026-10-02T11:41:45Z",
+     "domain": "aljazeera.com",
+     "category": "wire_primary",
+     "origin": "aljazeera.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 54.2,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.94,
+    "escalation": 0.095,
+    "severity": 0.7
+   },
+   "latest": "2026-10-02T11:41:45+00:00",
+   "rank": 27,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-54d8def4",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.aljazeera.com/news/2026/10/1/saudi-led-coalition-says-power-station-attacked-in-medina-blames-houthis",
+   "lead_title": "Saudi-led coalition says power station attacked in Medina, blames Houthis",
+   "lead_source": "Al Jazeera English",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.aljazeera.com/news/2026/10/1/saudi-led-coalition-says-power-station-attacked-in-medina-blames-houthis",
+     "title": "Saudi-led coalition says power station attacked in Medina, blames Houthis",
+     "description": "At the same time in Yemen, the Saudi-backed government army says it is inflicting heavy losses on the Houthis in Taiz.",
+     "source": "Al Jazeera English",
+     "publishedAt": "2026-10-01T19:03:14Z",
+     "domain": "aljazeera.com",
+     "category": "wire_primary",
+     "origin": "aljazeera.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 53.5,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.495,
+    "escalation": 0.295,
+    "severity": 0.8
+   },
+   "latest": "2026-10-01T19:03:14+00:00",
+   "rank": 28,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-2fffec21",
+   "home": "T02",
+   "topics": {
+    "T02": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.aljazeera.com/news/2026/10/2/ethiopian-govt-aligned-group-claims-close-to-full-control-of-tigray-region",
+   "lead_title": "Ethiopian gov\u2019t-aligned group claims close to full control of Tigray region",
+   "lead_source": "Al Jazeera English",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T02",
+     "url": "https://www.aljazeera.com/news/2026/10/2/ethiopian-govt-aligned-group-claims-close-to-full-control-of-tigray-region",
+     "title": "Ethiopian gov\u2019t-aligned group claims close to full control of Tigray region",
+     "description": "Claim comes as violence flares across northern Ethiopia, deteriorating diplomatic, humanitarian situations.",
+     "source": "Al Jazeera English",
+     "publishedAt": "2026-10-02T12:27:52Z",
+     "domain": "aljazeera.com",
+     "category": "wire_primary",
+     "origin": "aljazeera.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 53.2,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.969,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T12:27:52+00:00",
+   "rank": 29,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-f114affd",
+   "home": "T02",
+   "topics": {
+    "T02": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.aljazeera.com/news/2026/10/2/fao-official-says-he-lost-his-job-for-criticising-israeli-policies-in-gaza",
+   "lead_title": "FAO official says he lost his job for criticising Israeli policies in Gaza",
+   "lead_source": "Al Jazeera English",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T02",
+     "url": "https://www.aljazeera.com/news/2026/10/2/fao-official-says-he-lost-his-job-for-criticising-israeli-policies-in-gaza",
+     "title": "FAO official says he lost his job for criticising Israeli policies in Gaza",
+     "description": "The FAO official said he was told his contract would not be renewed over an alleged breach of impartiality on Gaza.",
+     "source": "Al Jazeera English",
+     "publishedAt": "2026-10-02T04:02:44Z",
+     "domain": "aljazeera.com",
+     "category": "wire_primary",
+     "origin": "aljazeera.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 53.2,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.7,
+    "escalation": 0.161,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T04:02:44+00:00",
+   "rank": 30,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-68e2e55e",
+   "home": "T01",
+   "topics": {
+    "T01": 2
+   },
+   "n_articles": 2,
+   "lead_url": "https://nypost.com/2026/10/01/world-news/us-sees-chinese-invasion-of-taiwan-unlikely-next-year-despite-2027-timeline/",
+   "lead_title": "US sees Chinese invasion of Taiwan unlikely next year despite 2027 timeline",
+   "lead_source": "New York Post",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T01",
+     "url": "https://nypost.com/2026/10/01/world-news/us-sees-chinese-invasion-of-taiwan-unlikely-next-year-despite-2027-timeline/",
+     "title": "US sees Chinese invasion of Taiwan unlikely next year despite 2027 timeline",
+     "description": "US officials believe a Chinese invasion of Taiwan before 2028 is increasingly unlikely despite Chinese President Xi Jinping's instructions for his military to be ready by 2027.",
+     "source": "New York Post",
+     "publishedAt": "2026-10-01T08:10:54Z",
+     "domain": "nypost.com",
+     "category": "established",
+     "origin": "nypost.com"
+    },
+    {
+     "topic": "T01",
+     "url": "https://economictimes.indiatimes.com/news/defence/us-sees-chinese-invasion-of-taiwan-unlikely-next-year-despite-2027-timeline-sources-say/articleshow/134608822.cms",
+     "title": "US sees Chinese invasion of Taiwan unlikely next year despite 2027 timeline, sources say",
+     "description": "US officials believe a Chinese Invasion of Taiwan before 2028 is increasingly improbable despite Chinese President Xi Jinping's direction to his military to be ready for an invasion of Taiwan by 2027. The reasons include the delay in military readiness, the C\u2026",
+     "source": "The Times of India",
+     "publishedAt": "2026-10-01T05:46:59Z",
+     "domain": "indiatimes.com",
+     "category": "established",
+     "origin": "indiatimes.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 52.7,
+   "n_independent": 2,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.565,
+    "quality": 0.7,
+    "recency": 0.326,
+    "escalation": 0.393,
+    "severity": 0.7
+   },
+   "latest": "2026-10-01T08:10:54+00:00",
+   "rank": 31,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-139735e7",
+   "home": "T05",
+   "topics": {
+    "T05": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://en.protothema.gr/2026/10/02/the-situation-has-reached-breaking-point-imprisoned-turkish-mp-can-atalay-begins-hunger-strike-in-turkey/",
+   "lead_title": "\u201cThe situation has reached breaking point\u201d: Imprisoned Turkish MP Can Atalay begins hunger strike in Turkey",
+   "lead_source": "Protothema.gr",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T05",
+     "url": "https://en.protothema.gr/2026/10/02/the-situation-has-reached-breaking-point-imprisoned-turkish-mp-can-atalay-begins-hunger-strike-in-turkey/",
+     "title": "\u201cThe situation has reached breaking point\u201d: Imprisoned Turkish MP Can Atalay begins hunger strike in Turkey",
+     "description": "The elected T\u0130P MP remains imprisoned in Silivri despite Constitutional Court rulings\nThe post \u201cThe situation has reached breaking point\u201d: Imprisoned Turkish MP Can Atalay begins hunger strike in Turkey appeared first on ProtoThema English.",
+     "source": "Protothema.gr",
+     "publishedAt": "2026-10-02T10:31:20Z",
+     "domain": "protothema.gr",
+     "category": "established",
+     "origin": "protothema.gr"
+    }
+   ],
+   "contradictions": [],
+   "score": 52.6,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.899,
+    "escalation": 0.259,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T10:31:20+00:00",
+   "rank": 32,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-35e2c1ce",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 2
+   },
+   "n_articles": 2,
+   "lead_url": "https://www.rawstory.com/trump-iran-2677983424/",
+   "lead_title": "Trump admin 'quietly' setting stage for 'major' military escalation: report",
+   "lead_source": "Raw Story",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.rawstory.com/trump-iran-2677983424/",
+     "title": "Trump admin 'quietly' setting stage for 'major' military escalation: report",
+     "description": "The Trump administration has \u201cquietly\u201d set the stage in recent weeks to potentially \u201cresume major combat operations against Iran,\u201d Axios\u2019 Barak Ravid reported\r\n on Thursday night, citing multiple U.S. officials.On Sunday, the USS Theodore Roosevelt aircraft c\u2026",
+     "source": "Raw Story",
+     "publishedAt": "2026-10-02T13:00:05Z",
+     "domain": "rawstory.com",
+     "category": "established",
+     "origin": "rawstory.com"
+    },
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://biztoc.com/x/d1d9658d6a404787",
+     "title": "Pentagon Reinforces Gulf Energy Sites With Additional Patriot Batteries: Report",
+     "description": "The US military has deployed two additional Patriot missile batteries to protect energy facilities in Saudi Arabia and Qatar amid concerns that President Donald Trump could resume major combat operations against Iran, according to Axios.\n\nOne battery was se\u2026",
+     "source": "Biztoc.com",
+     "publishedAt": "2026-10-02T12:52:07Z",
+     "domain": "biztoc.com",
+     "category": "aggregator",
+     "origin": null
+    }
+   ],
+   "contradictions": [],
+   "score": 52.6,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.989,
+    "escalation": 0.201,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T13:00:05+00:00",
+   "rank": 33,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-44cc801d",
+   "home": "T05",
+   "topics": {
+    "T05": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.politico.eu/article/spains-sanchez-weighs-calling-snap-election-as-housing-defeat-looms/",
+   "lead_title": "Spain\u2019s S\u00e1nchez weighs calling snap election as housing defeat looms",
+   "lead_source": "POLITICO.eu",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T05",
+     "url": "https://www.politico.eu/article/spains-sanchez-weighs-calling-snap-election-as-housing-defeat-looms/",
+     "title": "Spain\u2019s S\u00e1nchez weighs calling snap election as housing defeat looms",
+     "description": "The prime minister could seize on a looming parliamentary defeat to campaign on housing, an issue that has fueled protests across the country.",
+     "source": "POLITICO.eu",
+     "publishedAt": "2026-10-02T09:33:32Z",
+     "domain": "politico.eu",
+     "category": "wire_primary",
+     "origin": "politico.eu"
+    }
+   ],
+   "contradictions": [],
+   "score": 51.7,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.866,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T09:33:32+00:00",
+   "rank": 34,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-7750194c",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://newrepublic.com/post/216159/donald-trump-iran-nuclear-weapons-drugs",
+   "lead_title": "Trump Claims Nuclear Weapons Weren\u2019t the Only Things Iran Was Making",
+   "lead_source": "The New Republic",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://newrepublic.com/post/216159/donald-trump-iran-nuclear-weapons-drugs",
+     "title": "Trump Claims Nuclear Weapons Weren\u2019t the Only Things Iran Was Making",
+     "description": "Donald Trump is attempting to retcon his rationale for attacking Iran.Speaking at a rally in Durant, Oklahoma, Thursday evening, the president suddenly claimed that part of his impetus for launching an all-out assault on the country seven months ago was becau\u2026",
+     "source": "The New Republic",
+     "publishedAt": "2026-10-02T13:17:26Z",
+     "domain": "newrepublic.com",
+     "category": "unclassified",
+     "origin": "newrepublic.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 51.1,
+   "n_independent": 1,
+   "best_tier_weight": 0.4,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.4,
+    "recency": 1.0,
+    "escalation": 0.378,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T13:17:26+00:00",
+   "rank": 35,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-6810c489",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.gov.uk/government/speeches/humanitarian-situation-in-oleshky-uk-statement-to-the-osce",
+   "lead_title": "Humanitarian situation in Oleshky: UK statement to the OSCE",
+   "lead_source": "Www.gov.uk",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.gov.uk/government/speeches/humanitarian-situation-in-oleshky-uk-statement-to-the-osce",
+     "title": "Humanitarian situation in Oleshky: UK statement to the OSCE",
+     "description": "Ambassador Holland expressed deep concern about reports of the deteriorating humanitarian conditions in Oleshky and other temporarily occupied parts of Ukraine\u2019s Kherson region. He called on Russia to respect its obligations under international law.",
+     "source": "Www.gov.uk",
+     "publishedAt": "2026-10-02T07:31:42Z",
+     "domain": "gov.uk",
+     "category": "wire_primary",
+     "origin": "gov.uk"
+    }
+   ],
+   "contradictions": [],
+   "score": 50.7,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.801,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T07:31:42+00:00",
+   "rank": 36,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-63fc9d80",
+   "home": "T10",
+   "topics": {
+    "T10": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.irishtimes.com/world/europe/2026/10/02/europe-rearms-files-reveal-extent-of-plans-for-a-new-defence-union/",
+   "lead_title": "Europe rearms: files reveal extent of plans for a new \u2018defence union\u2019",
+   "lead_source": "The Irish Times",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T10",
+     "url": "https://www.irishtimes.com/world/europe/2026/10/02/europe-rearms-files-reveal-extent-of-plans-for-a-new-defence-union/",
+     "title": "Europe rearms: files reveal extent of plans for a new \u2018defence union\u2019",
+     "description": "Documents show capitals encouraged moves towards common \u2018European defence culture\u2019 and closer Nato cooperation",
+     "source": "The Irish Times",
+     "publishedAt": "2026-10-02T11:48:31Z",
+     "domain": "irishtimes.com",
+     "category": "wire_primary",
+     "origin": "irishtimes.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 49.9,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.945,
+    "escalation": 0.0,
+    "severity": 0.5
+   },
+   "latest": "2026-10-02T11:48:31+00:00",
+   "rank": 37,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-49c40fd6",
+   "home": "T05",
+   "topics": {
+    "T05": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.rferl.org/a/election-arrest-kynev-russia-fraud-torture/33868477.html",
+   "lead_title": "After Russia's Elections, An Expert On Fraud Is Arrested And Reportedly Beaten",
+   "lead_source": "Radio Free Europe/ Radio Liberty",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T05",
+     "url": "https://www.rferl.org/a/election-arrest-kynev-russia-fraud-torture/33868477.html",
+     "title": "After Russia's Elections, An Expert On Fraud Is Arrested And Reportedly Beaten",
+     "description": "In the days between the elections and his arrest, Aleksandr Kynev had pointed to evidence of falsifications benefitting the United Russia party.  Some analysts see his arrest and reported beating as a sign of a power struggle pitting security agencies against\u2026",
+     "source": "Radio Free Europe/ Radio Liberty",
+     "publishedAt": "2026-10-02T08:40:43Z",
+     "domain": "rferl.org",
+     "category": "established",
+     "origin": "rferl.org"
+    }
+   ],
+   "contradictions": [],
+   "score": 49.8,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.837,
+    "escalation": 0.181,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T08:40:43+00:00",
+   "rank": 38,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-571a3ab0",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.rferl.org/a/latvia-russia-nuclear-warning-kaliningrad/33867766.html",
+   "lead_title": "Latvian Defense Minister Says Russia's Hybrid Attacks, Not Nuclear Rhetoric, Are The Main Concern",
+   "lead_source": "Radio Free Europe/ Radio Liberty",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.rferl.org/a/latvia-russia-nuclear-warning-kaliningrad/33867766.html",
+     "title": "Latvian Defense Minister Says Russia's Hybrid Attacks, Not Nuclear Rhetoric, Are The Main Concern",
+     "description": "Latvia\u2019s defense minister has played down any immediate danger after Russia\u2019s latest nuclear warning to NATO over Kaliningrad.",
+     "source": "Radio Free Europe/ Radio Liberty",
+     "publishedAt": "2026-10-01T09:47:27Z",
+     "domain": "rferl.org",
+     "category": "established",
+     "origin": "rferl.org"
+    }
+   ],
+   "contradictions": [],
+   "score": 49.8,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.347,
+    "escalation": 0.478,
+    "severity": 0.8
+   },
+   "latest": "2026-10-01T09:47:27+00:00",
+   "rank": 39,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-1e068544",
+   "home": "T05",
+   "topics": {
+    "T05": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.cnbc.com/2026/10/02/brazil-election-bolsonaro-lula-china-trump.html",
+   "lead_title": "Brazil votes in high-stakes election as U.S.-China rivalry and debt loom large",
+   "lead_source": "CNBC",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T05",
+     "url": "https://www.cnbc.com/2026/10/02/brazil-election-bolsonaro-lula-china-trump.html",
+     "title": "Brazil votes in high-stakes election as U.S.-China rivalry and debt loom large",
+     "description": "Brazil will hold a knife-edge vote as its presidential race kicks off \u2014 but the election's outcome is likely to be felt far beyond the country's borders.",
+     "source": "CNBC",
+     "publishedAt": "2026-10-02T05:00:01Z",
+     "domain": "cnbc.com",
+     "category": "wire_primary",
+     "origin": "cnbc.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 49.6,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.727,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T05:00:01+00:00",
+   "rank": 40,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-29e4a3d5",
+   "home": "T12",
+   "topics": {
+    "T12": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://theconversation.com/australias-medicare-breach-reveals-a-new-kind-of-cyber-threat-how-must-nz-respond-293332",
+   "lead_title": "Australia\u2019s Medicare breach reveals a new kind of cyber threat. How must NZ respond?",
+   "lead_source": "The Conversation Africa",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T12",
+     "url": "https://theconversation.com/australias-medicare-breach-reveals-a-new-kind-of-cyber-threat-how-must-nz-respond-293332",
+     "title": "Australia\u2019s Medicare breach reveals a new kind of cyber threat. How must NZ respond?",
+     "description": "The Manage My Health hacking breach exposed weaknesses in New Zealand\u2019s digital defences. But the rise of autonomous AI agents poses a very different threat.",
+     "source": "The Conversation Africa",
+     "publishedAt": "2026-10-02T00:36:47Z",
+     "domain": "theconversation.com",
+     "category": "established",
+     "origin": "theconversation.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 49.3,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.614,
+    "escalation": 0.295,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T00:36:47+00:00",
+   "rank": 41,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-32783e7d",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://thefederalist.com/2026/10/02/abdul-el-sayed-refused-to-condemn-the-islamic-terror-regime-that-persecuted-my-family-members/",
+   "lead_title": "Abdul El-Sayed Refused To Condemn The Islamic Terror Regime That Persecuted My Family Members",
+   "lead_source": "The Federalist",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://thefederalist.com/2026/10/02/abdul-el-sayed-refused-to-condemn-the-islamic-terror-regime-that-persecuted-my-family-members/",
+     "title": "Abdul El-Sayed Refused To Condemn The Islamic Terror Regime That Persecuted My Family Members",
+     "description": "I didn\u2019t ask Abdul about the war or our role in Iran\u2019s future. I asked him to call out the evil of an Islamic terror state by its name.",
+     "source": "The Federalist",
+     "publishedAt": "2026-10-02T11:35:28Z",
+     "domain": "thefederalist.com",
+     "category": "unclassified",
+     "origin": "thefederalist.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 49.0,
+   "n_independent": 1,
+   "best_tier_weight": 0.4,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.4,
+    "recency": 0.937,
+    "escalation": 0.33,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T11:35:28+00:00",
+   "rank": 42,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-25a0ac4d",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://gcaptain.com/u-s-targets-irans-rail-and-shadow-banking-networks-as-maritime-blockade-tightens/",
+   "lead_title": "U.S. Targets Iran\u2019s Rail and Shadow Banking Networks as Maritime Blockade Tightens",
+   "lead_source": "gcaptain.com",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://gcaptain.com/u-s-targets-irans-rail-and-shadow-banking-networks-as-maritime-blockade-tightens/",
+     "title": "U.S. Targets Iran\u2019s Rail and Shadow Banking Networks as Maritime Blockade Tightens",
+     "description": "The Trump administration expanded its economic campaign against Iran on Thursday, targeting the country\u2019s rail system, major industrial companies and a Russia-linked shadow banking network that U.S. officials say has...",
+     "source": "gcaptain.com",
+     "publishedAt": "2026-10-01T19:58:53Z",
+     "domain": "gcaptain.com",
+     "category": "established",
+     "origin": "gcaptain.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 48.6,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.513,
+    "escalation": 0.33,
+    "severity": 0.8
+   },
+   "latest": "2026-10-01T19:58:53+00:00",
+   "rank": 43,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-d7dc9a1d",
+   "home": "T06",
+   "topics": {
+    "T06": 2
+   },
+   "n_articles": 2,
+   "lead_url": "https://en.protothema.gr/2026/10/02/riots-in-france-school-fires-by-france-born-migrants-expose-multiculturalisms-collapse-and-boost-le-pen-videos/",
+   "lead_title": "Riots in France: School fires by France-born migrants expose multiculturalism\u2019s collapse and boost Le Pen (videos)",
+   "lead_source": "Protothema.gr",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T06",
+     "url": "https://en.protothema.gr/2026/10/02/riots-in-france-school-fires-by-france-born-migrants-expose-multiculturalisms-collapse-and-boost-le-pen-videos/",
+     "title": "Riots in France: School fires by France-born migrants expose multiculturalism\u2019s collapse and boost Le Pen (videos)",
+     "description": "Second and third-generation migrant rioters torch schools and assault people, turning education protests into proof that multiculturalism has failed and that Le Pen\u2019s case is strengthening\nThe post Riots in France: School fires by France-born migrants expose \u2026",
+     "source": "Protothema.gr",
+     "publishedAt": "2026-10-02T05:44:00Z",
+     "domain": "protothema.gr",
+     "category": "established",
+     "origin": "protothema.gr"
+    },
+    {
+     "topic": "T06",
+     "url": "https://biztoc.com/x/98787cd6e10dc792",
+     "title": "Le Pen's Election Odds Surge As Riots Rock France, Pressure Mounts On Macron",
+     "description": "Le Pen's Election Odds Surge As Riots Rock France, Pressure Mounts On Macron\n \nSocial unrest spreading across France, described by the government as \"urban violence,\" is adding to pressure on President Emmanuel Macron and the political establishment.\nOne day \u2026",
+     "source": "Biztoc.com",
+     "publishedAt": "2026-10-02T11:51:02Z",
+     "domain": "biztoc.com",
+     "category": "aggregator",
+     "origin": null
+    }
+   ],
+   "contradictions": [],
+   "score": 48.4,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.946,
+    "escalation": 0.139,
+    "severity": 0.6
+   },
+   "latest": "2026-10-02T11:51:02+00:00",
+   "rank": 44,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-30079dca",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.israelnationalnews.com/flashes/694608",
+   "lead_title": "Reports of IDF strikes in Gaza City and shelling in Deir al-Balah",
+   "lead_source": "Israelnationalnews.com",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.israelnationalnews.com/flashes/694608",
+     "title": "Reports of IDF strikes in Gaza City and shelling in Deir al-Balah",
+     "description": "The Palestinian Arab news agency Shahab reported several IDF strikes in Gaza City in the northern Gaza Strip.At the same time, reports indicated that shelling was carried out in the Deir al-Balah area in central Gaza.",
+     "source": "Israelnationalnews.com",
+     "publishedAt": "2026-10-01T23:00:07Z",
+     "domain": "israelnationalnews.com",
+     "category": "established",
+     "origin": "israelnationalnews.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 47.8,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.577,
+    "escalation": 0.259,
+    "severity": 0.8
+   },
+   "latest": "2026-10-01T23:00:07+00:00",
+   "rank": 45,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-a30e8736",
+   "home": "T02",
+   "topics": {
+    "T02": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://press.un.org/en/2026/gashc4436.doc.htm",
+   "lead_title": "Wars, Racism, Shrinking Civic Space Threaten Human Rights, Delegates Warn as Third Committee Opens General Debate",
+   "lead_source": "UN News",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T02",
+     "url": "https://press.un.org/en/2026/gashc4436.doc.htm",
+     "title": "Wars, Racism, Shrinking Civic Space Threaten Human Rights, Delegates Warn as Third Committee Opens General Debate",
+     "description": "From wars in Gaza and Ukraine to sanctions, racism and shrinking civic space, delegates opening the Third Committee\u2019s general debate today warned of mounting threats to human rights, as calls for accountability competed with concerns over politicization and d\u2026",
+     "source": "UN News",
+     "publishedAt": "2026-10-01T23:27:31Z",
+     "domain": "un.org",
+     "category": "wire_primary",
+     "origin": "un.org"
+    }
+   ],
+   "contradictions": [],
+   "score": 47.5,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.587,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-01T23:27:31+00:00",
+   "rank": 46,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-a1c6f014",
+   "home": "T12",
+   "topics": {
+    "T12": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.helpnetsecurity.com/2026/10/02/ai-cybersecurity-threats-microsoft-report/",
+   "lead_title": "AI is giving attackers a head start, Microsoft warns",
+   "lead_source": "Help Net Security",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T12",
+     "url": "https://www.helpnetsecurity.com/2026/10/02/ai-cybersecurity-threats-microsoft-report/",
+     "title": "AI is giving attackers a head start, Microsoft warns",
+     "description": "Threat actors are using AI to find bugs, build malware and run intrusions faster than defenders can keep up. Microsoft\u2019s 2026 Digital Defense Report, covering July 2025 to June 2026, describes a near-term period in which attackers collect the benefits of AI f\u2026",
+     "source": "Help Net Security",
+     "publishedAt": "2026-10-02T12:47:00Z",
+     "domain": "helpnetsecurity.com",
+     "category": "established",
+     "origin": "helpnetsecurity.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 47.4,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.981,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T12:47:00+00:00",
+   "rank": 47,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-6424b554",
+   "home": "T05",
+   "topics": {
+    "T05": 1
+   },
+   "n_articles": 1,
+   "lead_url": "http://foreignpolicy.com/2026/10/02/brazil-election-president-lula-bolsonaro-military-women-economy/",
+   "lead_title": "The Forces Shaping Brazil\u2019s Election",
+   "lead_source": "Foreign Policy",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T05",
+     "url": "http://foreignpolicy.com/2026/10/02/brazil-election-president-lula-bolsonaro-military-women-economy/",
+     "title": "The Forces Shaping Brazil\u2019s Election",
+     "description": "How gender, civil-military relations, and the economy help explain the contest.",
+     "source": "Foreign Policy",
+     "publishedAt": "2026-10-02T12:00:38Z",
+     "domain": "foreignpolicy.com",
+     "category": "established",
+     "origin": "foreignpolicy.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 47.0,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.952,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T12:00:38+00:00",
+   "rank": 48,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-5c17190f",
+   "home": "T01",
+   "topics": {
+    "T01": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://radaronline.com/p/flydubai-flight-diverted-to-saudi-arabia-after-mid-air-cockpit-attack/",
+   "lead_title": "Flydubai Flight Diverted to Saudi Arabia After Mid-air Cockpit Attack",
+   "lead_source": "Radaronline.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T01",
+     "url": "https://radaronline.com/p/flydubai-flight-diverted-to-saudi-arabia-after-mid-air-cockpit-attack/",
+     "title": "Flydubai Flight Diverted to Saudi Arabia After Mid-air Cockpit Attack",
+     "description": "Flydubai flight FZ1073 has made an emergency landing in Tabuk, Saudi Arabia, following a sharp descent and the activation of emergency codes 7700 and 7500.",
+     "source": "Radaronline.com",
+     "publishedAt": "2026-10-02T05:00:00Z",
+     "domain": "radaronline.com",
+     "category": "unclassified",
+     "origin": "radaronline.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 46.8,
+   "n_independent": 1,
+   "best_tier_weight": 0.4,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.4,
+    "recency": 0.727,
+    "escalation": 0.408,
+    "severity": 0.7
+   },
+   "latest": "2026-10-02T05:00:00+00:00",
+   "rank": 49,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-24760671",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.rferl.org/a/iran-strait-hormuz/33868933.html",
+   "lead_title": "Iran's Hormuz Leverage Is Fading, But It Isn't Gone",
+   "lead_source": "Radio Free Europe/ Radio Liberty",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.rferl.org/a/iran-strait-hormuz/33868933.html",
+     "title": "Iran's Hormuz Leverage Is Fading, But It Isn't Gone",
+     "description": "Oil flows from the Gulf have recovered to prewar levels, but the Strait of Hormuz is far from normal. Iran\u2019s ability to disrupt shipping has weakened, yet tankers still face major risks and rely on US military protection and costly workarounds to move crude.",
+     "source": "Radio Free Europe/ Radio Liberty",
+     "publishedAt": "2026-10-02T11:34:44Z",
+     "domain": "rferl.org",
+     "category": "established",
+     "origin": "rferl.org"
+    }
+   ],
+   "contradictions": [],
+   "score": 46.7,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.936,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T11:34:44+00:00",
+   "rank": 50,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-bff2803f",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.naturalnews.com/2026-10-02-global-crop-largest-quarterly-jump-ukraine-invasion.html",
+   "lead_title": "Global Crop Prices Post Largest Quarterly Jump Since Ukraine Invasion, Index Shows",
+   "lead_source": "Naturalnews.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.naturalnews.com/2026-10-02-global-crop-largest-quarterly-jump-ukraine-invasion.html",
+     "title": "Global Crop Prices Post Largest Quarterly Jump Since Ukraine Invasion, Index Shows",
+     "description": "Global crop prices recorded their largest quarterly increase since Russia invaded Ukraine in early 2022, according to data published by the Bloomberg Agriculture Spot Index. The index rose 13% during the third quarter, the biggest quarterly advance since the \u2026",
+     "source": "Naturalnews.com",
+     "publishedAt": "2026-10-02T06:00:00Z",
+     "domain": "naturalnews.com",
+     "category": "advocacy_opinion",
+     "origin": "naturalnews.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 45.9,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.755,
+    "escalation": 0.393,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T06:00:00+00:00",
+   "rank": 51,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-9859f608",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.dw.com/en/latvians-head-to-the-polls-with-russia-on-their-minds/a-79477614",
+   "lead_title": "Latvians head to the polls with Russia on their minds",
+   "lead_source": "DW (English)",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.dw.com/en/latvians-head-to-the-polls-with-russia-on-their-minds/a-79477614",
+     "title": "Latvians head to the polls with Russia on their minds",
+     "description": "On October 3, Latvians will elect a new parliament with Russia looming large over the campaign. Security fears dominate the agenda, but so does a debate over the economic cost of cutting ties with Moscow. Four German Air Force Eurofighter jets stand ready at \u2026",
+     "source": "DW (English)",
+     "publishedAt": "2026-10-01T17:57:00Z",
+     "domain": "dw.com",
+     "category": "wire_primary",
+     "origin": "dw.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 45.8,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.475,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-01T17:57:00+00:00",
+   "rank": 52,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-a170eee5",
+   "home": "T12",
+   "topics": {
+    "T12": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://abcnews.com/International/wireStory/iranian-national-extradited-us-montenegro-alleged-34b-cyberattack-136923896",
+   "lead_title": "Iranian national extradited to US by Montenegro over alleged $3.4B cyberattack case",
+   "lead_source": "Abcnews.com",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T12",
+     "url": "https://abcnews.com/International/wireStory/iranian-national-extradited-us-montenegro-alleged-34b-cyberattack-136923896",
+     "title": "Iranian national extradited to US by Montenegro over alleged $3.4B cyberattack case",
+     "description": "Montenegro has extradited an Iranian-Turkish dual national to the United States over alleged cyberattacks targeting more than 150 U.S. universities and causing an estimated $3.4 billion in damage",
+     "source": "Abcnews.com",
+     "publishedAt": "2026-10-01T16:49:10Z",
+     "domain": "abcnews.com",
+     "category": "wire_primary",
+     "origin": "wire:ap"
+    }
+   ],
+   "contradictions": [],
+   "score": 45.5,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.455,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-01T16:49:10+00:00",
+   "rank": 53,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-92b47729",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.thenation.com/?post_type=article&p=611288",
+   "lead_title": "The GOP Sells the Mirage of a Hormuz Victory",
+   "lead_source": "Thenation.com",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.thenation.com/?post_type=article&p=611288",
+     "title": "The GOP Sells the Mirage of a Hormuz Victory",
+     "description": "David Faris\n\n\n\nThe American action in the contested strait isn\u2019t sustainable\u2014and won\u2019t alter the economic and political fallout from its closure.\r\n\n\r\n\n\nThe post The GOP Sells the Mirage of a Hormuz Victory appeared first on The Nation.",
+     "source": "Thenation.com",
+     "publishedAt": "2026-10-02T09:00:00Z",
+     "domain": "thenation.com",
+     "category": "established",
+     "origin": "thenation.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 45.4,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.848,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T09:00:00+00:00",
+   "rank": 54,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-5e0cea88",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.rigzone.com/news/wire/iran_wants_sanctions_eased_to_allow_back_nuclear_inspectors-02-oct-2026-184755-article/",
+   "lead_title": "Iran Wants Sanctions Eased to Allow Back Nuclear Inspectors",
+   "lead_source": "Rigzone",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.rigzone.com/news/wire/iran_wants_sanctions_eased_to_allow_back_nuclear_inspectors-02-oct-2026-184755-article/",
+     "title": "Iran Wants Sanctions Eased to Allow Back Nuclear Inspectors",
+     "description": "The concession could help break deadlocked peace talks with the U.S.",
+     "source": "Rigzone",
+     "publishedAt": "2026-10-02T07:41:30Z",
+     "domain": "rigzone.com",
+     "category": "unclassified",
+     "origin": "rigzone.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 45.3,
+   "n_independent": 1,
+   "best_tier_weight": 0.4,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.4,
+    "recency": 0.806,
+    "escalation": 0.259,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T07:41:30+00:00",
+   "rank": 55,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-f07c4b4c",
+   "home": "T12",
+   "topics": {
+    "T12": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.ibtimes.com.au/bill-gates-urges-government-ai-safeguards-1876180",
+   "lead_title": "Bill Gates Calls AI Self-Regulation 'Insane,' Rebuking Trump and Warning of Bioterror and Cyberattack Risks",
+   "lead_source": "Ibtimes.com.au",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T12",
+     "url": "https://www.ibtimes.com.au/bill-gates-urges-government-ai-safeguards-1876180",
+     "title": "Bill Gates Calls AI Self-Regulation 'Insane,' Rebuking Trump and Warning of Bioterror and Cyberattack Risks",
+     "description": "Bill Gates has called for government oversight of artificial intelligence, warning that advances in cybersecurity and biological applications have created risks too serious to leave to voluntary industry safeguards.",
+     "source": "Ibtimes.com.au",
+     "publishedAt": "2026-10-02T08:38:16Z",
+     "domain": "ibtimes.com.au",
+     "category": "established",
+     "origin": "ibtimes.com.au"
+    }
+   ],
+   "contradictions": [],
+   "score": 45.2,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.836,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T08:38:16+00:00",
+   "rank": 56,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-4f2fe71f",
+   "home": "T10",
+   "topics": {
+    "T10": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://thediplomat.com/2026/10/taiwans-new-f-16s-why-they-still-matter/",
+   "lead_title": "Taiwan\u2019s New F-16s: Why They Still Matter",
+   "lead_source": "The Diplomat",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T10",
+     "url": "https://thediplomat.com/2026/10/taiwans-new-f-16s-why-they-still-matter/",
+     "title": "Taiwan\u2019s New F-16s: Why They Still Matter",
+     "description": "The Republic of China Air Force waited 20 years for these aircraft. What are they for?",
+     "source": "The Diplomat",
+     "publishedAt": "2026-10-02T13:10:00Z",
+     "domain": "thediplomat.com",
+     "category": "established",
+     "origin": "thediplomat.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 44.6,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.995,
+    "escalation": 0.0,
+    "severity": 0.5
+   },
+   "latest": "2026-10-02T13:10:00+00:00",
+   "rank": 57,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-7c530d8d",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://theconversation.com/evidence-of-the-very-real-trauma-of-war-in-ukraine-293381",
+   "lead_title": "Evidence of the very real trauma of war in Ukraine",
+   "lead_source": "The Conversation Africa",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://theconversation.com/evidence-of-the-very-real-trauma-of-war-in-ukraine-293381",
+     "title": "Evidence of the very real trauma of war in Ukraine",
+     "description": "A recent study estimates that one in three civilans in Ukraine meet the criteria for PTSD or CPTSD.",
+     "source": "The Conversation Africa",
+     "publishedAt": "2026-10-02T07:05:32Z",
+     "domain": "theconversation.com",
+     "category": "established",
+     "origin": "theconversation.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 44.5,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.788,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T07:05:32+00:00",
+   "rank": 58,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-1c378e72",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.gov.uk/government/speeches/address-by-un-special-representative-for-children-and-armed-conflict-uk-statement-to-the-osce",
+   "lead_title": "Address by UN Special Representative for Children and Armed Conflict: UK statement to the OSCE",
+   "lead_source": "Www.gov.uk",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.gov.uk/government/speeches/address-by-un-special-representative-for-children-and-armed-conflict-uk-statement-to-the-osce",
+     "title": "Address by UN Special Representative for Children and Armed Conflict: UK statement to the OSCE",
+     "description": "Deputy Ambassador James Ford reaffirmed the UK's support for the UN Children and Armed Conflict mandate and called for accountability for grave violations. He urged Russia to end violations against Ukrainian children, implement the Moscow Mechanism\u2019s recommen\u2026",
+     "source": "Www.gov.uk",
+     "publishedAt": "2026-10-01T12:47:55Z",
+     "domain": "gov.uk",
+     "category": "wire_primary",
+     "origin": "gov.uk"
+    }
+   ],
+   "contradictions": [],
+   "score": 44.5,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.389,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-01T12:47:55+00:00",
+   "rank": 59,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-94d497e2",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 2
+   },
+   "n_articles": 2,
+   "lead_url": "https://www.theatlantic.com/magazine/2026/11/baltic-defense-russia/688692/?utm_source=feed",
+   "lead_title": "The Next Front",
+   "lead_source": "The Atlantic",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.theatlantic.com/magazine/2026/11/baltic-defense-russia/688692/?utm_source=feed",
+     "title": "The Next Front",
+     "description": "The Baltics are getting ready for a Russian attack.",
+     "source": "The Atlantic",
+     "publishedAt": "2026-10-01T11:00:00Z",
+     "domain": "theatlantic.com",
+     "category": "established",
+     "origin": "theatlantic.com"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://biztoc.com/x/298f349bae7a9f12",
+     "title": "Russian prisoners of war say they were forced to drink urine on front line",
+     "description": "Ukraine captured 250 Russian soldiers in a sweeping counter-attack using \u201czombie cars\u201d on the front line for the first time.",
+     "source": "Biztoc.com",
+     "publishedAt": "2026-10-01T20:23:54Z",
+     "domain": "biztoc.com",
+     "category": "aggregator",
+     "origin": null
+    }
+   ],
+   "contradictions": [],
+   "score": 44.5,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.522,
+    "escalation": 0.161,
+    "severity": 0.8
+   },
+   "latest": "2026-10-01T20:23:54+00:00",
+   "rank": 60,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-2e548fd0",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.cnn.com/2026/10/01/us/jared-kushner-israel-gaza-investments-invs-vis",
+   "lead_title": "Jared Kushner\u2019s company has large stake in firm with Israeli military links | CNN",
+   "lead_source": "CNN",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.cnn.com/2026/10/01/us/jared-kushner-israel-gaza-investments-invs-vis",
+     "title": "Jared Kushner\u2019s company has large stake in firm with Israeli military links | CNN",
+     "description": "At the same time Jared Kushner has negotiated in the war in Gaza, his company has held the largest stake in a firm backing businesses involved in Israel\u2019s military campaigns.",
+     "source": "CNN",
+     "publishedAt": "2026-10-01T11:40:42Z",
+     "domain": "cnn.com",
+     "category": "wire_primary",
+     "origin": "cnn.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 44.3,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.373,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-01T11:40:42+00:00",
+   "rank": 61,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-85e2918d",
+   "home": "T01",
+   "topics": {
+    "T01": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.dw.com/en/ethiopia-who-could-bring-the-warring-sides-to-the-negotiation-table/a-79475529",
+   "lead_title": "Ethiopia: Who could bring the warring sides to the negotiation table?",
+   "lead_source": "DW (English)",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T01",
+     "url": "https://www.dw.com/en/ethiopia-who-could-bring-the-warring-sides-to-the-negotiation-table/a-79475529",
+     "title": "Ethiopia: Who could bring the warring sides to the negotiation table?",
+     "description": "Ethiopia might be facing its most complex armed conflict in contempary times. The fragile 2022 peace deal has collapsed. International mediators have failed. How will the country return to normal?",
+     "source": "DW (English)",
+     "publishedAt": "2026-10-01T16:02:00Z",
+     "domain": "dw.com",
+     "category": "wire_primary",
+     "origin": "dw.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 44.3,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.441,
+    "escalation": 0.0,
+    "severity": 0.7
+   },
+   "latest": "2026-10-01T16:02:00+00:00",
+   "rank": 62,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-5bf9e5fd",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.israelnationalnews.com/flashes/694531",
+   "lead_title": "US official: Four passengers on attacked Flydubai flight are American citizens",
+   "lead_source": "Israelnationalnews.com",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.israelnationalnews.com/flashes/694531",
+     "title": "US official: Four passengers on attacked Flydubai flight are American citizens",
+     "description": "A US State Department official confirmed to Kan 11 News that four passengers aboard the Flydubai flight that was attacked on its way to Tel Aviv on Wednesday are American citizens. The US Embassy in Riyadh and the US Consulate in Jeddah are in contact with Sa\u2026",
+     "source": "Israelnationalnews.com",
+     "publishedAt": "2026-10-01T03:57:12Z",
+     "domain": "israelnationalnews.com",
+     "category": "established",
+     "origin": "israelnationalnews.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 44.2,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.277,
+    "escalation": 0.295,
+    "severity": 0.8
+   },
+   "latest": "2026-10-01T03:57:12+00:00",
+   "rank": 63,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-18f78908",
+   "home": "T12",
+   "topics": {
+    "T12": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://securityaffairs.com/200215/ai/investigators-trace-an-ai-agent-s-path-from-research-task-to-reconnaissance.html",
+   "lead_title": "Investigators trace an AI agent \u2018s path from research task to reconnaissance",
+   "lead_source": "Securityaffairs.com",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T12",
+     "url": "https://securityaffairs.com/200215/ai/investigators-trace-an-ai-agent-s-path-from-research-task-to-reconnaissance.html",
+     "title": "Investigators trace an AI agent \u2018s path from research task to reconnaissance",
+     "description": "Asymmetric Security traces rogue OpenAI AI agent activity that probed government sites, accessed staging servers, and evaded sandbox limits. Researchers at Asymmetric Security spent 48 hours over the last weekend reconstructing reported rogue OpenAI AI agent \u2026",
+     "source": "Securityaffairs.com",
+     "publishedAt": "2026-10-02T06:05:52Z",
+     "domain": "securityaffairs.com",
+     "category": "established",
+     "origin": "securityaffairs.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 44.1,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.758,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T06:05:52+00:00",
+   "rank": 64,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-2c2ff719",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.business-standard.com/world-news/russia-nato-tensions-why-kaliningrad-matters-and-may-become-a-flashpoint-126100200294_1.html",
+   "lead_title": "Russia-Nato tensions: Why Kaliningrad matters and may become a flashpoint",
+   "lead_source": "Business Standard",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.business-standard.com/world-news/russia-nato-tensions-why-kaliningrad-matters-and-may-become-a-flashpoint-126100200294_1.html",
+     "title": "Russia-Nato tensions: Why Kaliningrad matters and may become a flashpoint",
+     "description": "Wedged between Poland and Lithuania, Kaliningrad hosts key Russian military infrastructure and is central to rising tensions between Moscow and Nato",
+     "source": "Business Standard",
+     "publishedAt": "2026-10-02T06:17:30Z",
+     "domain": "business-standard.com",
+     "category": "established",
+     "origin": "business-standard.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 44.1,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.764,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T06:17:30+00:00",
+   "rank": 65,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-315cd3f9",
+   "home": "T12",
+   "topics": {
+    "T12": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://cryptobriefing.com/shinhan-bank-ai-cyberattack-25000-customers/",
+   "lead_title": "AI tools suspected in Shinhan Bank cyberattack that exposed 25,000 customers",
+   "lead_source": "Crypto Briefing",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T12",
+     "url": "https://cryptobriefing.com/shinhan-bank-ai-cyberattack-25000-customers/",
+     "title": "AI tools suspected in Shinhan Bank cyberattack that exposed 25,000 customers",
+     "description": "The incident underscores the growing need for robust AI-driven cybersecurity in banking, potentially shifting investor focus and capital allocation.\nThe post AI tools suspected in Shinhan Bank cyberattack that exposed 25,000 customers appeared first on Crypto\u2026",
+     "source": "Crypto Briefing",
+     "publishedAt": "2026-10-02T06:03:06Z",
+     "domain": "cryptobriefing.com",
+     "category": "established",
+     "origin": "cryptobriefing.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 44.0,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.757,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T06:03:06+00:00",
+   "rank": 66,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-8b2583ed",
+   "home": "T15",
+   "topics": {
+    "T15": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://warontherocks.com/how-closed-airspace-threatens-u-s-military-mobility-across-eurasia/",
+   "lead_title": "How Closed Airspace Threatens U.S. Military Mobility Across Eurasia",
+   "lead_source": "War on the Rocks",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T15",
+     "url": "https://warontherocks.com/how-closed-airspace-threatens-u-s-military-mobility-across-eurasia/",
+     "title": "How Closed Airspace Threatens U.S. Military Mobility Across Eurasia",
+     "description": "For much of the modern aviation era, geography was something the global aviation industry learned to overcome. Simply put, unlike a railway, a pipeline, or a highway, an aircraft does not require a continuous physical infrastructure between its point of depar\u2026",
+     "source": "War on the Rocks",
+     "publishedAt": "2026-10-02T07:30:03Z",
+     "domain": "warontherocks.com",
+     "category": "established",
+     "origin": "warontherocks.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 43.7,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.8,
+    "escalation": 0.0,
+    "severity": 0.7
+   },
+   "latest": "2026-10-02T07:30:03+00:00",
+   "rank": 67,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-e5350771",
+   "home": "T10",
+   "topics": {
+    "T10": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.cbsnews.com/news/open-weight-ai-models-safety-risks/",
+   "lead_title": "How some AI models are more vulnerable to manipulation",
+   "lead_source": "CBS News",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T10",
+     "url": "https://www.cbsnews.com/news/open-weight-ai-models-safety-risks/",
+     "title": "How some AI models are more vulnerable to manipulation",
+     "description": "China has embraced open-weight models, a development that researchers say is closing the AI capability gap between the country and the U.S.",
+     "source": "CBS News",
+     "publishedAt": "2026-10-01T19:37:00Z",
+     "domain": "cbsnews.com",
+     "category": "wire_primary",
+     "origin": "cbsnews.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 43.3,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.506,
+    "escalation": 0.0,
+    "severity": 0.5
+   },
+   "latest": "2026-10-01T19:37:00+00:00",
+   "rank": 68,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-d9360195",
+   "home": "T02",
+   "topics": {
+    "T02": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://economictimes.indiatimes.com/news/international/business/developing-countries-hit-by-overlapping-crises-undp-chief-warns/articleshow/134631515.cms",
+   "lead_title": "Developing countries hit by overlapping crises, UNDP chief warns",
+   "lead_source": "The Times of India",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T02",
+     "url": "https://economictimes.indiatimes.com/news/international/business/developing-countries-hit-by-overlapping-crises-undp-chief-warns/articleshow/134631515.cms",
+     "title": "Developing countries hit by overlapping crises, UNDP chief warns",
+     "description": "Rising energy costs and El Nino conditions are challenging developing countries facing financial distress. Governments are struggling to manage high fuel prices and increasing debt levels. Recent UNDP surveys indicate that the crisis is affecting approximatel\u2026",
+     "source": "The Times of India",
+     "publishedAt": "2026-10-02T04:10:36Z",
+     "domain": "indiatimes.com",
+     "category": "established",
+     "origin": "indiatimes.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 43.2,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.704,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T04:10:36+00:00",
+   "rank": 69,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-0b72ffbc",
+   "home": "T05",
+   "topics": {
+    "T05": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.aljazeera.com/news/2026/10/1/modis-india-takes-on-trump-more-openly-from-terrorism-to-tariffs",
+   "lead_title": "Modi\u2019s India takes on Trump more openly, from \u2018terrorism\u2019 to tariffs",
+   "lead_source": "Al Jazeera English",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T05",
+     "url": "https://www.aljazeera.com/news/2026/10/1/modis-india-takes-on-trump-more-openly-from-terrorism-to-tariffs",
+     "title": "Modi\u2019s India takes on Trump more openly, from \u2018terrorism\u2019 to tariffs",
+     "description": "After months of wait-and-watch, India is calling out differences with Trump head on as domestic pressure mounts.",
+     "source": "Al Jazeera English",
+     "publishedAt": "2026-10-01T05:37:39Z",
+     "domain": "aljazeera.com",
+     "category": "wire_primary",
+     "origin": "aljazeera.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 43.1,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.295,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-01T05:37:39+00:00",
+   "rank": 70,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-ddc65276",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://activistpost.com/the-collapse-of-the-saudi-american-alliance/",
+   "lead_title": "The Collapse of the Saudi-American Alliance?",
+   "lead_source": "Activistpost.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://activistpost.com/the-collapse-of-the-saudi-american-alliance/",
+     "title": "The Collapse of the Saudi-American Alliance?",
+     "description": "Late last week sudden, unexpected developments in the Middle East forced me to refocus my attention to the ongoing conflict in that region. The\u00a0Houthi forces\u00a0of Yemen\u2014the widely used name for Ansar Allah\u2013launched a sweeping ground offensive against the Saudi \u2026",
+     "source": "Activistpost.com",
+     "publishedAt": "2026-10-02T09:54:00Z",
+     "domain": "activistpost.com",
+     "category": "advocacy_opinion",
+     "origin": "activistpost.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 41.9,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.878,
+    "escalation": 0.161,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T09:54:00+00:00",
+   "rank": 71,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-5764f687",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://thediplomat.com/2026/10/a-tower-of-jelly/",
+   "lead_title": "\u2018A Tower of Jelly\u2019",
+   "lead_source": "The Diplomat",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://thediplomat.com/2026/10/a-tower-of-jelly/",
+     "title": "\u2018A Tower of Jelly\u2019",
+     "description": "The United Nations, U Thant, and the 1967 Arab-Israeli War.",
+     "source": "The Diplomat",
+     "publishedAt": "2026-10-02T00:39:00Z",
+     "domain": "thediplomat.com",
+     "category": "established",
+     "origin": "thediplomat.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 41.9,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.615,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T00:39:00+00:00",
+   "rank": 72,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-473f2a10",
+   "home": "T10",
+   "topics": {
+    "T10": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.politico.eu/article/france-increases-defense-budget-despite-strained-public-finances/",
+   "lead_title": "France increases defense budget despite strained public finances",
+   "lead_source": "POLITICO.eu",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T10",
+     "url": "https://www.politico.eu/article/france-increases-defense-budget-despite-strained-public-finances/",
+     "title": "France increases defense budget despite strained public finances",
+     "description": "The boost is in line with a new military planning law adopted over the summer.",
+     "source": "POLITICO.eu",
+     "publishedAt": "2026-10-01T11:30:27Z",
+     "domain": "politico.eu",
+     "category": "wire_primary",
+     "origin": "politico.eu"
+    }
+   ],
+   "contradictions": [],
+   "score": 41.2,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.371,
+    "escalation": 0.0,
+    "severity": 0.5
+   },
+   "latest": "2026-10-01T11:30:27+00:00",
+   "rank": 73,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-1f1d39a3",
+   "home": "T10",
+   "topics": {
+    "T10": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://economictimes.indiatimes.com/news/defence/chinas-antelope-reef-military-base-strategic-expansion-in-the-south-china-sea-by-mid-2027/articleshow/134633049.cms",
+   "lead_title": "Chinese work gathering pace on Antelope Reef in South China Sea, latest satellite images show",
+   "lead_source": "The Times of India",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T10",
+     "url": "https://economictimes.indiatimes.com/news/defence/chinas-antelope-reef-military-base-strategic-expansion-in-the-south-china-sea-by-mid-2027/articleshow/134633049.cms",
+     "title": "Chinese work gathering pace on Antelope Reef in South China Sea, latest satellite images show",
+     "description": "Chinese construction at Antelope Reef is well underway, aiming to develop a significant military runway. Analysts project its completion by mid-2027, which would strengthen Beijing's military presence in the South China Sea. Satellite imagery reveals extensiv\u2026",
+     "source": "The Times of India",
+     "publishedAt": "2026-10-02T06:03:43Z",
+     "domain": "indiatimes.com",
+     "category": "established",
+     "origin": "indiatimes.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 41.0,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.757,
+    "escalation": 0.0,
+    "severity": 0.5
+   },
+   "latest": "2026-10-02T06:03:43+00:00",
+   "rank": 74,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-0f07f7e5",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.antiwar.com/blog/2026/10/02/john-mearsheimer-says-the-west-has-lost-its-way/",
+   "lead_title": "John Mearsheimer says The West Has Lost Its Way",
+   "lead_source": "Antiwar.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.antiwar.com/blog/2026/10/02/john-mearsheimer-says-the-west-has-lost-its-way/",
+     "title": "John Mearsheimer says The West Has Lost Its Way",
+     "description": "Reprinted from John\u2019s Substack:\u00a0 On September 30, 2026, I was on Glenn Diesen\u2019s popular podcast, talking with him about America\u2019s emerging position in the world, given that it cannot help Ukraine defeat Russia and has been unable to defeat Iran in the Middle \u2026",
+     "source": "Antiwar.com",
+     "publishedAt": "2026-10-02T11:38:40Z",
+     "domain": "antiwar.com",
+     "category": "unclassified",
+     "origin": "antiwar.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 40.8,
+   "n_independent": 1,
+   "best_tier_weight": 0.4,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.4,
+    "recency": 0.939,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T11:38:40+00:00",
+   "rank": 75,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-a2e0e8f8",
+   "home": "T04",
+   "topics": {
+    "T04": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.nature.com/articles/s41591-026-04675-1",
+   "lead_title": "Small quantity lipid-based nutritional supplementation and measles vaccination coverage in children aged 6\u221223\u2009months: a pragmatic cluster-randomized trial",
+   "lead_source": "Nature.com",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T04",
+     "url": "https://www.nature.com/articles/s41591-026-04675-1",
+     "title": "Small quantity lipid-based nutritional supplementation and measles vaccination coverage in children aged 6\u221223\u2009months: a pragmatic cluster-randomized trial",
+     "description": "A pragmatic, superiority, cluster-randomized trial done in Yobe State, northern Nigeria, found that distributing small-quantity lipid-based nutrient supplements alongside routine immunization services substantially increased measles vaccination uptake in chil\u2026",
+     "source": "Nature.com",
+     "publishedAt": "2026-10-02T00:00:00Z",
+     "domain": "nature.com",
+     "category": "established",
+     "origin": "nature.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 40.7,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.599,
+    "escalation": 0.0,
+    "severity": 0.7
+   },
+   "latest": "2026-10-02T00:00:00+00:00",
+   "rank": 76,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-5bf140f4",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.celebitchy.com/1000210/surprise_prince_harry_attended_the_united_for_freedom_fundraising_gala_in_london/",
+   "lead_title": "Surprise, Prince Harry attended the United for Freedom fundraising gala in London",
+   "lead_source": "Celebitchy.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.celebitchy.com/1000210/surprise_prince_harry_attended_the_united_for_freedom_fundraising_gala_in_london/",
+     "title": "Surprise, Prince Harry attended the United for Freedom fundraising gala in London",
+     "description": "Embed from Getty Images Prince Harry has worn his tuxedo more times in the past month than in the three years prior. Harry stepped out on Thursday evening for the United for Freedom gala at the Imperial War Museum in London. It was a fundraiser for Ukraine, a\u2026",
+     "source": "Celebitchy.com",
+     "publishedAt": "2026-10-02T11:25:38Z",
+     "domain": "celebitchy.com",
+     "category": "unclassified",
+     "origin": "celebitchy.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 40.6,
+   "n_independent": 1,
+   "best_tier_weight": 0.4,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.4,
+    "recency": 0.931,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T11:25:38+00:00",
+   "rank": 77,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-2e41ae86",
+   "home": "T08",
+   "topics": {
+    "T08": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://punchng.com/obi-ill-spend-holidays-in-zamfara-borno-if-elected/",
+   "lead_title": "Obi: I\u2019ll spend holidays in Zamfara, Borno if elected",
+   "lead_source": "The Punch",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T08",
+     "url": "https://punchng.com/obi-ill-spend-holidays-in-zamfara-borno-if-elected/",
+     "title": "Obi: I\u2019ll spend holidays in Zamfara, Borno if elected",
+     "description": "The presidential candidate of the Nigeria Democratic Congress, Peter Obi, has vowed not to spend his holidays outside Nigeria if elected President in the 2027 general elections. Obi pledged in his Independence Day address delivered in Abuja on Thursday, sayin\u2026",
+     "source": "The Punch",
+     "publishedAt": "2026-10-01T23:05:47Z",
+     "domain": "punchng.com",
+     "category": "established",
+     "origin": "punchng.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 40.4,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.579,
+    "escalation": 0.0,
+    "severity": 0.7
+   },
+   "latest": "2026-10-01T23:05:47+00:00",
+   "rank": 78,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-96c4da84",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://nypost.com/2026/10/01/us-news/iraq-balks-at-sanctioning-iranian-airlines-ahead-of-dc-talks-we-dont-want-to-be-part-of-this-conflict/",
+   "lead_title": "Iraq balks at sanctioning Iranian airlines ahead of DC talks: \u2018We don\u2019t want to be part of this conflict\u2019",
+   "lead_source": "New York Post",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://nypost.com/2026/10/01/us-news/iraq-balks-at-sanctioning-iranian-airlines-ahead-of-dc-talks-we-dont-want-to-be-part-of-this-conflict/",
+     "title": "Iraq balks at sanctioning Iranian airlines ahead of DC talks: \u2018We don\u2019t want to be part of this conflict\u2019",
+     "description": "\u201cWe became a victim of this war,\" foreign minister Fuad Hussein told a small group of reporters at the Iraqi embassy.",
+     "source": "New York Post",
+     "publishedAt": "2026-10-01T19:02:05Z",
+     "domain": "nypost.com",
+     "category": "established",
+     "origin": "nypost.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 40.1,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.495,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-01T19:02:05+00:00",
+   "rank": 79,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-cfca2baf",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://sputnikglobe.com/20261002/hungary-will-not-send-soldiers-weapons-to-ukraine---state-secretary-1124825237.html",
+   "lead_title": "Hungary Will Not Send Soldiers, Weapons to Ukraine - State Secretary",
+   "lead_source": "Sputnikglobe.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://sputnikglobe.com/20261002/hungary-will-not-send-soldiers-weapons-to-ukraine---state-secretary-1124825237.html",
+     "title": "Hungary Will Not Send Soldiers, Weapons to Ukraine - State Secretary",
+     "description": "MOSCOW (Sputnik) - The Hungarian government does not plan to send either weapons or troops to Ukraine, State Secretary at the Hungarian Foreign Ministry Gyorgy Velkey said.",
+     "source": "Sputnikglobe.com",
+     "publishedAt": "2026-10-02T12:20:09Z",
+     "domain": "sputnikglobe.com",
+     "category": "state_affiliated",
+     "origin": "sputnikglobe.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 39.1,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.964,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T12:20:09+00:00",
+   "rank": 80,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-851e175e",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "http://foreignpolicy.com/2026/10/01/yemen-houthis-saudi-arabia-war-humanitarian-crisis-aid/",
+   "lead_title": "\u2018Everyone Is Depleted\u2019",
+   "lead_source": "Foreign Policy",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "http://foreignpolicy.com/2026/10/01/yemen-houthis-saudi-arabia-war-humanitarian-crisis-aid/",
+     "title": "\u2018Everyone Is Depleted\u2019",
+     "description": "Yemen was already in crisis. Then civil war broke out again.",
+     "source": "Foreign Policy",
+     "publishedAt": "2026-10-01T14:47:39Z",
+     "domain": "foreignpolicy.com",
+     "category": "established",
+     "origin": "foreignpolicy.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 39.0,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.421,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-01T14:47:39+00:00",
+   "rank": 81,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-51fab9f9",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.nakedcapitalism.com/2026/10/iran-war-narratives-president-of-peace-trump-netanyahu-missiles.html",
+   "lead_title": "Iran War: Narratives Continue to Diverge Under \u2018President of Peace\u2019 Trump",
+   "lead_source": "Nakedcapitalism.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.nakedcapitalism.com/2026/10/iran-war-narratives-president-of-peace-trump-netanyahu-missiles.html",
+     "title": "Iran War: Narratives Continue to Diverge Under \u2018President of Peace\u2019 Trump",
+     "description": "The narrative battles to control perceptions of the Iran War continue as does the kinetic battle to control traffic through the Strait of Hormuz, the American pressure on Iran's economy and the Saudi Arabia conflict with Yemen.",
+     "source": "Nakedcapitalism.com",
+     "publishedAt": "2026-10-02T10:01:45Z",
+     "domain": "nakedcapitalism.com",
+     "category": "advocacy_opinion",
+     "origin": "nakedcapitalism.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 37.9,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.882,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T10:01:45+00:00",
+   "rank": 82,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-8b96861c",
+   "home": "T02",
+   "topics": {
+    "T02": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://punchng.com/nigeria-at-66-minister-seeks-support-for-vulnerable-nigerians/",
+   "lead_title": "Nigeria at 66: Minister seeks support for vulnerable Nigerians",
+   "lead_source": "The Punch",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T02",
+     "url": "https://punchng.com/nigeria-at-66-minister-seeks-support-for-vulnerable-nigerians/",
+     "title": "Nigeria at 66: Minister seeks support for vulnerable Nigerians",
+     "description": "As Nigeria marks its 66th Independence Anniversary, the Minister of Humanitarian Affairs, Bernard Doro, has called for solidarity for vulnerable citizens.\n\nRead More: https://punchng.com/nigeria-at-66-minister-seeks-support-for-vulnerable-nigerians/",
+     "source": "The Punch",
+     "publishedAt": "2026-10-01T08:52:59Z",
+     "domain": "punchng.com",
+     "category": "established",
+     "origin": "punchng.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 37.7,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.335,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-01T08:52:59+00:00",
+   "rank": 83,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-6544b43e",
+   "home": "T04",
+   "topics": {
+    "T04": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.fao.org/asiapacific/news/news-detail/as-el-nino-threats-become-reality--one-health-unites-pacific-countries-across-sectors-to-address-health--environmental-and-climate-threats/en",
+   "lead_title": "As El Nino threats become reality, One Health unites Pacific countries across sectors to address health, environmental and climate threats",
+   "lead_source": "Fao.org",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T04",
+     "url": "https://www.fao.org/asiapacific/news/news-detail/as-el-nino-threats-become-reality--one-health-unites-pacific-countries-across-sectors-to-address-health--environmental-and-climate-threats/en",
+     "title": "As El Nino threats become reality, One Health unites Pacific countries across sectors to address health, environmental and climate threats",
+     "description": "As a range of diverse health threats become increasingly interconnected, Pacific countries and areas are strengthening their ability to prevent, detect, and ...",
+     "source": "Fao.org",
+     "publishedAt": "2026-10-02T07:22:59Z",
+     "domain": "fao.org",
+     "category": "unclassified",
+     "origin": "fao.org"
+    }
+   ],
+   "contradictions": [],
+   "score": 37.6,
+   "n_independent": 1,
+   "best_tier_weight": 0.4,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.4,
+    "recency": 0.797,
+    "escalation": 0.0,
+    "severity": 0.7
+   },
+   "latest": "2026-10-02T07:22:59+00:00",
+   "rank": 84,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-88d577cb",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://sputnikglobe.com/20261002/iaea-chief-grossi-says-dialogue-with-lavrov-always-professional-detailed-1124823256.html",
+   "lead_title": "IAEA Chief Grossi Says Dialogue With Lavrov Always Professional, Detailed",
+   "lead_source": "Sputnikglobe.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://sputnikglobe.com/20261002/iaea-chief-grossi-says-dialogue-with-lavrov-always-professional-detailed-1124823256.html",
+     "title": "IAEA Chief Grossi Says Dialogue With Lavrov Always Professional, Detailed",
+     "description": "UNITED NATIONS (Sputnik) - Contacts with Russian Foreign Minister Sergey Lavrov allow for detailed discussions on technical issues related to the work of the International Atomic Energy Agency (IAEA) and are conducted at a highly professional level, Director \u2026",
+     "source": "Sputnikglobe.com",
+     "publishedAt": "2026-10-02T08:17:36Z",
+     "domain": "sputnikglobe.com",
+     "category": "state_affiliated",
+     "origin": "sputnikglobe.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 37.1,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.825,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T08:17:36+00:00",
+   "rank": 85,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-3b05fd01",
+   "home": "T01",
+   "topics": {
+    "T01": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://en.protothema.gr/2026/10/01/trump-said-to-exclude-key-allies-from-nato-meeting-next-month/",
+   "lead_title": "Trump said to exclude key allies from NATO meeting next month",
+   "lead_source": "Protothema.gr",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T01",
+     "url": "https://en.protothema.gr/2026/10/01/trump-said-to-exclude-key-allies-from-nato-meeting-next-month/",
+     "title": "Trump said to exclude key allies from NATO meeting next month",
+     "description": "The US is said to leave out the UK, France and the Baltic states from a NATO working-group meeting in Poland next month, prompting diplomats to question whether Washington is dividing the Alliance into \"good\" and \"bad\" allies\nThe post Trump said to exclude ke\u2026",
+     "source": "Protothema.gr",
+     "publishedAt": "2026-10-01T09:27:00Z",
+     "domain": "protothema.gr",
+     "category": "established",
+     "origin": "protothema.gr"
+    }
+   ],
+   "contradictions": [],
+   "score": 36.8,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.342,
+    "escalation": 0.0,
+    "severity": 0.7
+   },
+   "latest": "2026-10-01T09:27:00+00:00",
+   "rank": 86,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-a9fc3115",
+   "home": "T04",
+   "topics": {
+    "T04": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://wwwnc.cdc.gov/eid/article/32/11/26-1019_article",
+   "lead_title": "The Impermanence of Public Health Gains\u2014Lessons Learned from Measles Resurgence, Bangladesh, 2026",
+   "lead_source": "Cdc.gov",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T04",
+     "url": "https://wwwnc.cdc.gov/eid/article/32/11/26-1019_article",
+     "title": "The Impermanence of Public Health Gains\u2014Lessons Learned from Measles Resurgence, Bangladesh, 2026",
+     "description": "Lessons from Measles Resurgence, Bangladesh, 2026",
+     "source": "Cdc.gov",
+     "publishedAt": "2026-10-02T04:00:00Z",
+     "domain": "cdc.gov",
+     "category": "unclassified",
+     "origin": "cdc.gov"
+    }
+   ],
+   "contradictions": [],
+   "score": 36.2,
+   "n_independent": 1,
+   "best_tier_weight": 0.4,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.4,
+    "recency": 0.699,
+    "escalation": 0.0,
+    "severity": 0.7
+   },
+   "latest": "2026-10-02T04:00:00+00:00",
+   "rank": 87,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-445979a0",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://sputnikglobe.com/20261002/russia-always-open-to-negotiations-with-ukraine---kremlin-1124822882.html",
+   "lead_title": "Russia Always Open to Negotiations With Ukraine - Kremlin",
+   "lead_source": "Sputnikglobe.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://sputnikglobe.com/20261002/russia-always-open-to-negotiations-with-ukraine---kremlin-1124822882.html",
+     "title": "Russia Always Open to Negotiations With Ukraine - Kremlin",
+     "description": "MOSCOW (Sputnik) - Russia is always open to negotiations with Ukraine, Kremlin spokesman Dmitry Peskov said on Friday.",
+     "source": "Sputnikglobe.com",
+     "publishedAt": "2026-10-02T06:11:52Z",
+     "domain": "sputnikglobe.com",
+     "category": "state_affiliated",
+     "origin": "sputnikglobe.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 36.1,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.761,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T06:11:52+00:00",
+   "rank": 88,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-c6883cf9",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.naturalnews.com/2026-10-02-victory-by-november-how-a-defeated-iran-became-trumps-midterm-bargaining-chip.html",
+   "lead_title": "Victory by November? How a \u201cdefeated\u201d Iran became Trump\u2019s midterm bargaining chip",
+   "lead_source": "Naturalnews.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.naturalnews.com/2026-10-02-victory-by-november-how-a-defeated-iran-became-trumps-midterm-bargaining-chip.html",
+     "title": "Victory by November? How a \u201cdefeated\u201d Iran became Trump\u2019s midterm bargaining chip",
+     "description": "In the world of political theater, where President Trump is the ringmaster of coercive\u00a0negotiating tactics, we are now being told that the Iran War will come to an end after the midterm election. But isn\u2019t this the same Iran that has been annihilated and defe\u2026",
+     "source": "Naturalnews.com",
+     "publishedAt": "2026-10-02T06:00:00Z",
+     "domain": "naturalnews.com",
+     "category": "advocacy_opinion",
+     "origin": "naturalnews.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 36.0,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.755,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T06:00:00+00:00",
+   "rank": 89,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-69a03725",
+   "home": "T10",
+   "topics": {
+    "T10": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.ibtimes.com.au/elon-musk-pentagon-project-future-warfare-1876140",
+   "lead_title": "Elon Musk Returns to Co-Lead Pentagon's Project Meridian on Future Warfare With Palmer Luckey, Newt Gingrich",
+   "lead_source": "Ibtimes.com.au",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T10",
+     "url": "https://www.ibtimes.com.au/elon-musk-pentagon-project-future-warfare-1876140",
+     "title": "Elon Musk Returns to Co-Lead Pentagon's Project Meridian on Future Warfare With Palmer Luckey, Newt Gingrich",
+     "description": "Elon Musk, Palmer Luckey and Newt Gingrich will co-lead a 120-day Pentagon review of future warfare, including artificial intelligence, autonomous systems, robotics and space capabilities.",
+     "source": "Ibtimes.com.au",
+     "publishedAt": "2026-10-01T13:14:12Z",
+     "domain": "ibtimes.com.au",
+     "category": "established",
+     "origin": "ibtimes.com.au"
+    }
+   ],
+   "contradictions": [],
+   "score": 35.6,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.396,
+    "escalation": 0.0,
+    "severity": 0.5
+   },
+   "latest": "2026-10-01T13:14:12+00:00",
+   "rank": 90,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-449998c4",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.juancole.com/2026/10/decapitation-doesnt-necessarily.html",
+   "lead_title": "Iran: Why Decapitation Doesn\u2019t Necessarily Defeat a Regime",
+   "lead_source": "Juancole.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.juancole.com/2026/10/decapitation-doesnt-necessarily.html",
+     "title": "Iran: Why Decapitation Doesn\u2019t Necessarily Defeat a Regime",
+     "description": "Removing leaders may demonstrate remarkable intelligence and capabilities of the attacker, but it may not change regime behavior",
+     "source": "Juancole.com",
+     "publishedAt": "2026-10-02T04:06:41Z",
+     "domain": "juancole.com",
+     "category": "advocacy_opinion",
+     "origin": "juancole.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 35.2,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.702,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T04:06:41+00:00",
+   "rank": 91,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-2045a6ea",
+   "home": "T11",
+   "topics": {
+    "T11": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://economictimes.indiatimes.com/news/defence/stealth-frigate-ins-trishul-takes-part-in-bilateral-naval-exercise-varuna-in-france/articleshow/134617286.cms",
+   "lead_title": "Stealth frigate INS Trishul takes part in bilateral naval exercise 'Varuna' in France",
+   "lead_source": "The Times of India",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T11",
+     "url": "https://economictimes.indiatimes.com/news/defence/stealth-frigate-ins-trishul-takes-part-in-bilateral-naval-exercise-varuna-in-france/articleshow/134617286.cms",
+     "title": "Stealth frigate INS Trishul takes part in bilateral naval exercise 'Varuna' in France",
+     "description": "The Indian Navy's stealth frigate INS Trishul has taken part in the flagship bilateral naval exercise 'Varuna' in France. The move aims to strengthen maritime and professional ties between the two countries. INS Trishul is the second ship of the Talwar-class \u2026",
+     "source": "The Times of India",
+     "publishedAt": "2026-10-01T11:28:17Z",
+     "domain": "indiatimes.com",
+     "category": "established",
+     "origin": "indiatimes.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 34.2,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.37,
+    "escalation": 0.0,
+    "severity": 0.4
+   },
+   "latest": "2026-10-01T11:28:17+00:00",
+   "rank": 92,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-c119bc5e",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.rt.com/news/646547-nato-chief-iran-war/",
+   "lead_title": "Chief of NATO \u2018defensive alliance\u2019 advocates war of aggression",
+   "lead_source": "RT",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.rt.com/news/646547-nato-chief-iran-war/",
+     "title": "Chief of NATO \u2018defensive alliance\u2019 advocates war of aggression",
+     "description": "NATO Secretary-General Mark Rutte has criticized European nations for being unable to attack Iran instead of the US and urged them to rearm for similar wars in the future",
+     "source": "RT",
+     "publishedAt": "2026-10-01T09:32:10Z",
+     "domain": "rt.com",
+     "category": "state_affiliated",
+     "origin": "rt.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 33.9,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.343,
+    "escalation": 0.161,
+    "severity": 0.8
+   },
+   "latest": "2026-10-01T09:32:10+00:00",
+   "rank": 93,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-0348e231",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.nakedcapitalism.com/2026/10/links-10-1-2026.html",
+   "lead_title": "Links 10/1/2026",
+   "lead_source": "Nakedcapitalism.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.nakedcapitalism.com/2026/10/links-10-1-2026.html",
+     "title": "Links 10/1/2026",
+     "description": "Our daily links: unpacking FlyDubai incident, Europe going down with Ukraine ship, union-busting AI, underestimating Hegseth, and the subpolar gyre.",
+     "source": "Nakedcapitalism.com",
+     "publishedAt": "2026-10-01T10:55:42Z",
+     "domain": "nakedcapitalism.com",
+     "category": "advocacy_opinion",
+     "origin": "nakedcapitalism.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 30.1,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.362,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-01T10:55:42+00:00",
+   "rank": 94,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-c78cf7d5",
+   "home": "T01",
+   "topics": {
+    "T01": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://biztoc.com/x/1dd9a047f8218eb6",
+   "lead_title": "Victor Davis Hanson: Why Is Mark Carney Preparing For An American Invasion?",
+   "lead_source": "Biztoc.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T01",
+     "url": "https://biztoc.com/x/1dd9a047f8218eb6",
+     "title": "Victor Davis Hanson: Why Is Mark Carney Preparing For An American Invasion?",
+     "description": "By VICTOR DAVIS HANSON, The Daily Signal | September 29, 2026\nEditor\u2019s note: This is a lightly edited transcript of today\u2019s video from Daily Signal senior contributor Victor Davis Hanson.\nHello, this is Victor Davis Hanson for the Daily Signal. I am going to \u2026",
+     "source": "Biztoc.com",
+     "publishedAt": "2026-10-01T23:03:56Z",
+     "domain": "biztoc.com",
+     "category": "aggregator",
+     "origin": null
+    }
+   ],
+   "contradictions": [],
+   "score": 28.5,
+   "n_independent": 0,
+   "best_tier_weight": 0.15,
+   "components": {
+    "corroboration": 0.0,
+    "quality": 0.15,
+    "recency": 0.578,
+    "escalation": 0.393,
+    "severity": 0.7
+   },
+   "latest": "2026-10-01T23:03:56+00:00",
+   "rank": 95,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-b4991321",
+   "home": "T06",
+   "topics": {
+    "T06": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://biztoc.com/x/d27d06890e54855c",
+   "lead_title": "Will the French hard-Left's support of school riots backfire?",
+   "lead_source": "Biztoc.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T06",
+     "url": "https://biztoc.com/x/d27d06890e54855c",
+     "title": "Will the French hard-Left's support of school riots backfire?",
+     "description": "French Leftists have published a guide on how to blockade universities and schools. Union \u00e9tudiante, a student union, published ...",
+     "source": "Biztoc.com",
+     "publishedAt": "2026-10-02T10:43:38Z",
+     "domain": "biztoc.com",
+     "category": "aggregator",
+     "origin": null
+    }
+   ],
+   "contradictions": [],
+   "score": 27.1,
+   "n_independent": 0,
+   "best_tier_weight": 0.15,
+   "components": {
+    "corroboration": 0.0,
+    "quality": 0.15,
+    "recency": 0.906,
+    "escalation": 0.181,
+    "severity": 0.6
+   },
+   "latest": "2026-10-02T10:43:38+00:00",
+   "rank": 96,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-3d37f812",
+   "home": "T10",
+   "topics": {
+    "T10": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.naturalnews.com/2026-10-01-pentagon-briefings-budget-request-senators-raise-concerns.html",
+   "lead_title": "Pentagon Increases Briefings on $1.5 Trillion Budget Request as Senators Raise Timing and Transparency Concerns",
+   "lead_source": "Naturalnews.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T10",
+     "url": "https://www.naturalnews.com/2026-10-01-pentagon-briefings-budget-request-senators-raise-concerns.html",
+     "title": "Pentagon Increases Briefings on $1.5 Trillion Budget Request as Senators Raise Timing and Transparency Concerns",
+     "description": "Pentagon officials have ramped up efforts in recent weeks to help Congress advance President Donald Trump\u2019s $1.5 trillion defense budget request for fiscal 2027, holding a classified Senate briefing Thursday morning led by Deputy Defense Secretary Steve Feinb\u2026",
+     "source": "Naturalnews.com",
+     "publishedAt": "2026-10-01T06:00:00Z",
+     "domain": "naturalnews.com",
+     "category": "advocacy_opinion",
+     "origin": "naturalnews.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 26.2,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.3,
+    "escalation": 0.0,
+    "severity": 0.5
+   },
+   "latest": "2026-10-01T06:00:00+00:00",
+   "rank": 97,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-a0d208e2",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://biztoc.com/x/5013dbe2d9fccc54",
+   "lead_title": "OPEC+ reportedly delays quota review after Iran war disrupts oil projects",
+   "lead_source": "Biztoc.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://biztoc.com/x/5013dbe2d9fccc54",
+     "title": "OPEC+ reportedly delays quota review after Iran war disrupts oil projects",
+     "description": "An OPEC+ review to help to determine members\u2019 2027 oil output quotas has been delayed after the U.S.-Israeli war on Iran disrupted projects to expand capacity across the Middle East, throwing estimates of future production potential into uncertainty, said two\u2026",
+     "source": "Biztoc.com",
+     "publishedAt": "2026-10-02T11:52:16Z",
+     "domain": "biztoc.com",
+     "category": "aggregator",
+     "origin": null
+    }
+   ],
+   "contradictions": [],
+   "score": 25.2,
+   "n_independent": 0,
+   "best_tier_weight": 0.15,
+   "components": {
+    "corroboration": 0.0,
+    "quality": 0.15,
+    "recency": 0.947,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T11:52:16+00:00",
+   "rank": 98,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-d3f891c6",
+   "home": "T06",
+   "topics": {
+    "T06": 3
+   },
+   "n_articles": 3,
+   "lead_url": "https://biztoc.com/x/85fba3666e515a32",
+   "lead_title": "Could Trump invoke the Insurrection Act to seize ballots in the midterms?",
+   "lead_source": "Biztoc.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T06",
+     "url": "https://biztoc.com/x/85fba3666e515a32",
+     "title": "Could Trump invoke the Insurrection Act to seize ballots in the midterms?",
+     "description": "Today, in an interview with TIME magazine, President Trump declined to rule out declaring a national emergency or potentially ...",
+     "source": "Biztoc.com",
+     "publishedAt": "2026-10-01T20:40:59Z",
+     "domain": "biztoc.com",
+     "category": "aggregator",
+     "origin": null
+    },
+    {
+     "topic": "T06",
+     "url": "https://biztoc.com/x/6cd945bb774a5098",
+     "title": "Trump hedges when asked about using the Insurrection Act ahead of midterms",
+     "description": "Donald Trump has never taken advantage of the Insurrection Act, although the president has talked about it quite a bit throughout his political career. A year ago this month, during a Fox News interview, the Republican went so far as to say, \u201cDon\u2019t forget I c\u2026",
+     "source": "Biztoc.com",
+     "publishedAt": "2026-10-01T14:17:38Z",
+     "domain": "biztoc.com",
+     "category": "aggregator",
+     "origin": null
+    },
+    {
+     "topic": "T06",
+     "url": "https://biztoc.com/x/b7b3691febe55804",
+     "title": "Trump won't rule out Insurrection Act before midterms",
+     "description": "US President Donald Trump declined to rule out invoking the Insurrection Act ahead of the midterm elections, telling TIME that his decision would depend on the circumstances.Asked whether he could dec...",
+     "source": "Biztoc.com",
+     "publishedAt": "2026-10-01T11:47:34Z",
+     "domain": "biztoc.com",
+     "category": "aggregator",
+     "origin": null
+    }
+   ],
+   "contradictions": [],
+   "score": 20.9,
+   "n_independent": 0,
+   "best_tier_weight": 0.15,
+   "components": {
+    "corroboration": 0.0,
+    "quality": 0.15,
+    "recency": 0.528,
+    "escalation": 0.161,
+    "severity": 0.6
+   },
+   "latest": "2026-10-01T20:40:59+00:00",
+   "rank": 99,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-7ad3c0d3",
+   "home": "T13",
+   "topics": {
+    "T13": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://slashdot.org/firehose.pl?op=view&amp;id=185926552",
+   "lead_title": "A Front Line at the Border: How Russia Uses Migrants as Weapons Against Europe - The New York Times",
+   "lead_source": "Slashdot.org",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T13",
+     "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185926552",
+     "title": "A Front Line at the Border: How Russia Uses Migrants as Weapons Against Europe - The New York Times",
+     "description": "A Front Line at the Border: How Russia Uses Migrants as Weapons Against EuropeThe New York Times...",
+     "source": "Slashdot.org",
+     "publishedAt": "2026-10-02T05:13:29Z",
+     "domain": "slashdot.org",
+     "category": "aggregator",
+     "origin": null
+    }
+   ],
+   "contradictions": [],
+   "score": 20.0,
+   "n_independent": 0,
+   "best_tier_weight": 0.15,
+   "components": {
+    "corroboration": 0.0,
+    "quality": 0.15,
+    "recency": 0.733,
+    "escalation": 0.0,
+    "severity": 0.6
+   },
+   "latest": "2026-10-02T05:13:29+00:00",
+   "rank": 100,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-79d95f83",
+   "home": "T10",
+   "topics": {
+    "T10": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://biztoc.com/x/e51ec632c8a24102",
+   "lead_title": "The $40 Billion Minerals Gamble: Can Trump Break China's Chokehold Before The West's Rearmament Hits A Wall?",
+   "lead_source": "Biztoc.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T10",
+     "url": "https://biztoc.com/x/e51ec632c8a24102",
+     "title": "The $40 Billion Minerals Gamble: Can Trump Break China's Chokehold Before The West's Rearmament Hits A Wall?",
+     "description": "The $40 Billion Minerals Gamble: Can Trump Break China's Chokehold Before The West's Rearmament Hits A Wall?\n \nThe Trump administration has committed billions of dollars to rebuild conflict-free critical materials supply chains outside China. The question rem\u2026",
+     "source": "Biztoc.com",
+     "publishedAt": "2026-10-02T00:33:50Z",
+     "domain": "biztoc.com",
+     "category": "aggregator",
+     "origin": null
+    }
+   ],
+   "contradictions": [],
+   "score": 17.2,
+   "n_independent": 0,
+   "best_tier_weight": 0.15,
+   "components": {
+    "corroboration": 0.0,
+    "quality": 0.15,
+    "recency": 0.613,
+    "escalation": 0.0,
+    "severity": 0.5
+   },
+   "latest": "2026-10-02T00:33:50+00:00",
+   "rank": 101,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-3b3aea15",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://biztoc.com/x/aa573c5e3e1bd028",
+   "lead_title": "Map Reveals How Ukraine Scored Front Line Breakthrough With Exploding APCs",
+   "lead_source": "Biztoc.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://biztoc.com/x/aa573c5e3e1bd028",
+     "title": "Map Reveals How Ukraine Scored Front Line Breakthrough With Exploding APCs",
+     "description": "Ukraine's military has converted armored personnel carriers (APCs) into improvised explosive devices to make breakthroughs on the front in the Donetsk oblast, one of Kyiv's commanders has said.\n\"To break through the enemy's defenses, the Third Army Corps empl\u2026",
+     "source": "Biztoc.com",
+     "publishedAt": "2026-10-01T12:17:29Z",
+     "domain": "biztoc.com",
+     "category": "aggregator",
+     "origin": null
+    }
+   ],
+   "contradictions": [],
+   "score": 16.7,
+   "n_independent": 0,
+   "best_tier_weight": 0.15,
+   "components": {
+    "corroboration": 0.0,
+    "quality": 0.15,
+    "recency": 0.382,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-01T12:17:29+00:00",
+   "rank": 102,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-9d3f9983",
+   "home": "T13",
+   "topics": {
+    "T13": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://biztoc.com/x/4b06da6fbcd0e7a9",
+   "lead_title": "From Ukraine to the Baltics: Poland prepares for a new refugee crisis",
+   "lead_source": "Biztoc.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T13",
+     "url": "https://biztoc.com/x/4b06da6fbcd0e7a9",
+     "title": "From Ukraine to the Baltics: Poland prepares for a new refugee crisis",
+     "description": "One scenario under consideration is the evacuation of people from the Baltic states",
+     "source": "Biztoc.com",
+     "publishedAt": "2026-10-01T02:32:03Z",
+     "domain": "biztoc.com",
+     "category": "aggregator",
+     "origin": null
+    }
+   ],
+   "contradictions": [],
+   "score": 12.9,
+   "n_independent": 0,
+   "best_tier_weight": 0.15,
+   "components": {
+    "corroboration": 0.0,
+    "quality": 0.15,
+    "recency": 0.262,
+    "escalation": 0.0,
+    "severity": 0.6
+   },
+   "latest": "2026-10-01T02:32:03+00:00",
+   "rank": 103,
+   "top_rank": null,
+   "related": []
+  }
+ ]
+}

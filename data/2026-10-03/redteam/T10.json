@@ -1,0 +1,120 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Jack Power",
+      "title": "Europe rearms: files reveal extent of plans for a new \u2018defence union\u2019",
+      "description": "Documents show capitals encouraged moves towards common \u2018European defence culture\u2019 and closer Nato cooperation",
+      "url": "https://www.irishtimes.com/world/europe/2026/10/02/europe-rearms-files-reveal-extent-of-plans-for-a-new-defence-union/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/H36J5D6OHLW3OGKZMMZS4HHK6A.jpg?smart=true&auth=a262b8a82410438e016d6ce5c8cdfbb31a5d31650a4a144743909e488c851c87&width=1200&height=630",
+      "publishedAt": "2026-10-02T11:48:31Z",
+      "content": "EU states are collectively planning to spend hundreds of billions of euro more to re-equip their militaries between now and the end of the decade in an effort to deter Vladimir Putin from contemplati\u2026 [+7002 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "flagship-ru-ua"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Diplomat"
+      },
+      "author": "Rowan Allport",
+      "title": "Taiwan\u2019s New F-16s: Why They Still Matter",
+      "description": "The Republic of China Air Force waited 20 years for these aircraft. What are they for?",
+      "url": "https://thediplomat.com/2026/10/taiwans-new-f-16s-why-they-still-matter/",
+      "urlToImage": "https://thediplomat.com/wp-content/uploads/2026/10/sizes/td-story-s-2/thediplomat_2026-10-02-221441.jpg",
+      "publishedAt": "2026-10-02T13:10:00Z",
+      "content": "The arrival of the first pair of the 66 F-16C/D Block 70 aircraft on order to the Republic of China Air Force (ROCAF) has been a long time coming and not just because of production delays. First soug\u2026 [+20425 chars]",
+      "cocom": "USINDOPACOM",
+      "_original_topic_id": "flagship-ir-il"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Lauren  Fichten",
+      "title": "How some AI models are more vulnerable to manipulation",
+      "description": "China has embraced open-weight models, a development that researchers say is closing the AI capability gap between the country and the U.S.",
+      "url": "https://www.cbsnews.com/news/open-weight-ai-models-safety-risks/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/01/8dba8b04-1e69-4aaa-af3a-9ea48c954bfa/thumbnail/1200x630/72ff8c3a288b3c8359ff6ca20132affc/gettyimages-2286266455.jpg",
+      "publishedAt": "2026-10-01T19:37:00Z",
+      "content": "The revelation last month that Claude was used \"in ways that could support biological weapons development\" was made possible, in part, because Anthropic's AI models operate on a closed system oversee\u2026 [+8390 chars]",
+      "cocom": "Transregional",
+      "_original_topic_id": "T03"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Reuters",
+      "title": "Chinese work gathering pace on Antelope Reef in South China Sea, latest satellite images show",
+      "description": "Chinese construction at Antelope Reef is well underway, aiming to develop a significant military runway. Analysts project its completion by mid-2027, which would strengthen Beijing's military presence in the South China Sea. Satellite imagery reveals extensiv\u2026",
+      "url": "https://economictimes.indiatimes.com/news/defence/chinas-antelope-reef-military-base-strategic-expansion-in-the-south-china-sea-by-mid-2027/articleshow/134633049.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134633045,width-1200,height-900,imgsize-52702,overlay-etdefence/articleshow.jpg",
+      "publishedAt": "2026-10-02T06:03:43Z",
+      "content": "HONG KONG: Chinese construction of a runway on Antelope Reef in the Paracels archipelago is well underway with analysts estimating it could be completed by mid-2027, strengthening Beijing's military \u2026 [+2859 chars]",
+      "cocom": "USINDOPACOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "zerohedge.com",
+      "title": "The $40 Billion Minerals Gamble: Can Trump Break China's Chokehold Before The West's Rearmament Hits A Wall?",
+      "description": "The $40 Billion Minerals Gamble: Can Trump Break China's Chokehold Before The West's Rearmament Hits A Wall?\n \nThe Trump administration has committed billions of dollars to rebuild conflict-free critical materials supply chains outside China. The question rem\u2026",
+      "url": "https://biztoc.com/x/e51ec632c8a24102",
+      "urlToImage": "https://biztoc.com/cdn/e51ec632c8a24102_s.webp",
+      "publishedAt": "2026-10-02T00:33:50Z",
+      "content": "The $40 Billion Minerals Gamble: Can Trump Break China's Chokehold Before The West's Rearmament Hits A Wall?\r\nThe Trump administration has committed billions of dollars to rebuild conflict-free criti\u2026 [+143 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ibtimes.com.au"
+      },
+      "author": "Scott Lance",
+      "title": "Elon Musk Returns to Co-Lead Pentagon's Project Meridian on Future Warfare With Palmer Luckey, Newt Gingrich",
+      "description": "Elon Musk, Palmer Luckey and Newt Gingrich will co-lead a 120-day Pentagon review of future warfare, including artificial intelligence, autonomous systems, robotics and space capabilities.",
+      "url": "https://www.ibtimes.com.au/elon-musk-pentagon-project-future-warfare-1876140",
+      "urlToImage": "https://d.ibtimes.com.au/en/full/215353/elon-musk-looks-his-mobile-phone.jpg",
+      "publishedAt": "2026-10-01T13:14:12Z",
+      "content": "QUANTICO, Va. \u2014 Elon Musk is returning to government work as one of three co-leaders of a new Pentagon initiative to study the future of warfare, Secretary of War Pete Hegseth announced Wednesday.\r\nT\u2026 [+5432 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "POLITICO.eu"
+      },
+      "author": "Laura Kayali, Paul de Villepin",
+      "title": "France increases defense budget despite strained public finances",
+      "description": "The boost is in line with a new military planning law adopted over the summer.",
+      "url": "https://www.politico.eu/article/france-increases-defense-budget-despite-strained-public-finances/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/01/GettyImages-2208591186-scaled.jpg",
+      "publishedAt": "2026-10-01T11:30:27Z",
+      "content": "\"To ensure our sovereignty, the government plans to strengthen our military capabilities through additional orders for major equipment (surface-to-air defense systems, anti-drone systems, and artific\u2026 [+419 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Belle Carter",
+      "title": "Pentagon Increases Briefings on $1.5 Trillion Budget Request as Senators Raise Timing and Transparency Concerns",
+      "description": "Pentagon officials have ramped up efforts in recent weeks to help Congress advance President Donald Trump\u2019s $1.5 trillion defense budget request for fiscal 2027, holding a classified Senate briefing Thursday morning led by Deputy Defense Secretary Steve Feinb\u2026",
+      "url": "https://www.naturalnews.com/2026-10-01-pentagon-briefings-budget-request-senators-raise-concerns.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/pentagon-budget-request-fiscal-2027-defense-budget-senate-armed-services-committee-4551-original.jpg",
+      "publishedAt": "2026-10-01T06:00:00Z",
+      "content": "Pentagon officials have ramped up efforts in recent weeks to help Congress advance President Donald Trump's $1.5 trillion defense budget request for fiscal 2027, holding a classified Senate briefing \u2026 [+9611 chars]",
+      "cocom": "USNORTHCOM"
+    }
+  ]
+}

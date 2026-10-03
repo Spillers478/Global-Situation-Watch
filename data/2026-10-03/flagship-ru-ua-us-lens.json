@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "totalResults": 1,
+  "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Zahra Ullah",
+      "title": "Putin warns West that Russia is prepared to use \u2018all weapons\u2019 to protect Kaliningrad - CNN",
+      "description": "Russian President Vladimir Putin has warned the West against escalating the war in Ukraine, saying Moscow is prepared to use \u201call weapons\u201d in its arsenal \u2014 including nuclear \u2014 if its Baltic exclave of Kaliningrad comes under attack.",
+      "url": "https://www.cnn.com/2026/10/01/europe/putin-kaliningrad-warning-ukraine-latam-intl",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2297509844.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-10-01T22:30:37Z",
+      "content": "Russian President Vladimir Putin has warned the West against escalating the war in Ukraine, saying Moscow is prepared to use all weapons in its arsenal including nuclear if its Baltic exclave of Kali\u2026 [+5042 chars]"
+    }
+  ]
+}
