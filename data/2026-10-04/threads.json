@@ -1,0 +1,4757 @@
+{
+ "date": "2026-10-04",
+ "labels": {
+  "flagship-ru-ua": "Russia / Ukraine",
+  "flagship-ir-il": "Iran / Israel / Middle East",
+  "T15": "Disaster / Access Denial",
+  "T01": "Military Conflict",
+  "T02": "Humanitarian Crisis",
+  "T03": "Bio/Chemical Attack",
+  "T04": "Infectious Outbreak / Pandemic",
+  "T05": "Political Instability / Coup Risk",
+  "T06": "Mass Uprising / Regime-Threatening Unrest",
+  "T07": "Nuclear Weaponry / Attack",
+  "T08": "VEO / Regional Insecurity",
+  "T09": "American Hostage / Kidnapping",
+  "T10": "Military Modernization",
+  "T11": "Military Exercise",
+  "T12": "Large-Scale Cyber Attack / Internet Blackout",
+  "T13": "Migration / Refugee Crisis",
+  "T14": "Threats to US Embassies / Diplomats"
+ },
+ "sections": {
+  "flagship-ru-ua": {
+   "home": [
+    "th-866c1c62",
+    "th-d458c5fb",
+    "th-efd71063",
+    "th-301c8fc5",
+    "th-a75a2e14",
+    "th-5146321b",
+    "th-d98f8756",
+    "th-b88f246a",
+    "th-b78c1e03",
+    "th-8bc056e2",
+    "th-4591a106",
+    "th-913b3901",
+    "th-32a3f784",
+    "th-b178d1d4",
+    "th-bd68fa31",
+    "th-bff2803f",
+    "th-b07f37a0",
+    "th-0d5a1c8b",
+    "th-8ee4caf4",
+    "th-edbbd86d",
+    "th-b7d0398b",
+    "th-2500f8c2",
+    "th-592ce61d"
+   ],
+   "linked": [
+    "th-6b6ed745"
+   ]
+  },
+  "flagship-ir-il": {
+   "home": [
+    "th-3cbf31f8",
+    "th-df9c0d86",
+    "th-6bb3cdc8",
+    "th-1dc825b7",
+    "th-fba34a79",
+    "th-c1e4adcb",
+    "th-b1cb5b83",
+    "th-1b703118",
+    "th-6b6ed745",
+    "th-c4448e29",
+    "th-7897621b",
+    "th-79e9ca8e",
+    "th-e77b06f3",
+    "th-845776b3",
+    "th-09c41a7b",
+    "th-19b53c93",
+    "th-293e9f49",
+    "th-2bbb0e36"
+   ],
+   "linked": []
+  },
+  "T15": {
+   "home": [
+    "th-e79dbc04"
+   ],
+   "linked": []
+  },
+  "T01": {
+   "home": [
+    "th-ec4c1a67",
+    "th-29e13748",
+    "th-b6519427",
+    "th-efdd72b3",
+    "th-2fffec21",
+    "th-9642904e",
+    "th-eca3a9a9",
+    "th-06304761"
+   ],
+   "linked": []
+  },
+  "T02": {
+   "home": [
+    "th-ffce8dd9",
+    "th-4091160d",
+    "th-b292ee3f"
+   ],
+   "linked": []
+  },
+  "T03": {
+   "home": [
+    "th-a0bf7b3f"
+   ],
+   "linked": []
+  },
+  "T04": {
+   "home": [
+    "th-e5998a68",
+    "th-998780ca",
+    "th-685804a4",
+    "th-aa001f1f"
+   ],
+   "linked": []
+  },
+  "T05": {
+   "home": [
+    "th-b270b6b1",
+    "th-b01b86a0",
+    "th-005aa830",
+    "th-186f35b4",
+    "th-109a25d6",
+    "th-ea3dd030",
+    "th-de564326",
+    "th-6ed066b5",
+    "th-20dfc1aa",
+    "th-068eb847"
+   ],
+   "linked": []
+  },
+  "T06": {
+   "home": [
+    "th-fb5a4239",
+    "th-f5bbf2bc",
+    "th-383a523f",
+    "th-7161b80a",
+    "th-b4991321"
+   ],
+   "linked": [
+    "th-b01b86a0"
+   ]
+  },
+  "T07": {
+   "home": [
+    "th-5d029af0"
+   ],
+   "linked": []
+  },
+  "T08": {
+   "home": [
+    "th-e2e6b63c",
+    "th-4840fabf",
+    "th-f053ca14",
+    "th-41abca42",
+    "th-7f5289ff"
+   ],
+   "linked": [
+    "th-3cbf31f8"
+   ]
+  },
+  "T09": {
+   "home": [],
+   "linked": []
+  },
+  "T10": {
+   "home": [
+    "th-59e76f47",
+    "th-cecdf4f4",
+    "th-3413c21b",
+    "th-79d95f83"
+   ],
+   "linked": []
+  },
+  "T11": {
+   "home": [],
+   "linked": []
+  },
+  "T12": {
+   "home": [
+    "th-289771d5",
+    "th-0ac8e850",
+    "th-1b7029b2",
+    "th-360f4394",
+    "th-f167ab4d",
+    "th-141caed7",
+    "th-92b39de2",
+    "th-9c92ac1f"
+   ],
+   "linked": []
+  },
+  "T13": {
+   "home": [
+    "th-90445f3b",
+    "th-f32e1d91",
+    "th-6221cd91",
+    "th-e4d0ac78",
+    "th-7ad3c0d3"
+   ],
+   "linked": []
+  },
+  "T14": {
+   "home": [
+    "th-622fb802",
+    "th-3e97677b"
+   ],
+   "linked": []
+  }
+ },
+ "threads": [
+  {
+   "id": "th-866c1c62",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 8
+   },
+   "n_articles": 8,
+   "lead_url": "https://www.huffpost.com/entry/russian-attacks-kill-6-in-ukraine-damage-kyivs-northern-bridge_n_6ac13a3be4b0ecc03a2218ec",
+   "lead_title": "Russian Attacks Kill 6 In Ukraine, Damage Kyiv\u2019s Northern Bridge",
+   "lead_source": "HuffPost",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.huffpost.com/entry/russian-attacks-kill-6-in-ukraine-damage-kyivs-northern-bridge_n_6ac13a3be4b0ecc03a2218ec",
+     "title": "Russian Attacks Kill 6 In Ukraine, Damage Kyiv\u2019s Northern Bridge",
+     "description": "Moldovan President Maia Sandu said Saturday that the war is \u201cdangerously reaching\u201d her country, following a spate of airspace incursions.",
+     "source": "HuffPost",
+     "publishedAt": "2026-10-03T17:34:30Z",
+     "domain": "huffpost.com",
+     "category": "wire_primary",
+     "origin": "wire:ap"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.irishtimes.com/wires/pa/2026/10/03/deadly-russian-strikes-damage-kyiv-bridge-as-aerial-assault-intensifies/",
+     "title": "Deadly Russian strikes damage Kyiv bridge as aerial assault intensifies",
+     "description": "Six people were killed in latest attack on Ukraine\u2019s capital",
+     "source": "The Irish Times",
+     "publishedAt": "2026-10-03T13:39:27Z",
+     "domain": "irishtimes.com",
+     "category": "wire_primary",
+     "origin": "irishtimes.com"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.aljazeera.com/news/2026/10/3/five-killed-as-kyiv-and-moscow-trade-strikes-russia-hits-second-bridge",
+     "title": "Five killed as Kyiv and Moscow trade strikes, Russia hits second bridge",
+     "description": "Russia has also attacked another key bridge in Kyiv, the second such strike in two days.",
+     "source": "Al Jazeera English",
+     "publishedAt": "2026-10-03T12:55:54Z",
+     "domain": "aljazeera.com",
+     "category": "wire_primary",
+     "origin": "aljazeera.com"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.breitbart.com/europe/2026/10/03/russia-strikes-kyivs-northern-bridge-in-fresh-tactic-to-disrupt-life-in-ukrainian-capital/",
+     "title": "Russia Strikes Kyiv's Northern Bridge in Fresh Tactic to Disrupt Life in Ukrainian Capital",
+     "description": "A Russian strike damaged Kyiv's Northern Bridge early Saturday, suspending traffic and causing tailbacks for a third day, in Moscow's latest effort to disrupt life in the Ukrainian capital.\nThe post Russia Strikes Kyiv\u2019s Northern Bridge in Fresh Tactic to Dis\u2026",
+     "source": "Breitbart News",
+     "publishedAt": "2026-10-03T10:34:25Z",
+     "domain": "breitbart.com",
+     "category": "wire_primary",
+     "origin": "wire:ap"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://abcnews.com/International/wireStory/russia-strikes-kyivs-northern-bridge-new-tactic-disrupt-136969028",
+     "title": "Russia strikes Kyiv bridge in a new tactic to disrupt life in the Ukrainian capital",
+     "description": "A Russian strike has damaged Kyiv\u2019s Northern Bridge early Saturday, suspending traffic and causing tailbacks for a third day",
+     "source": "Abcnews.com",
+     "publishedAt": "2026-10-03T10:20:50Z",
+     "domain": "abcnews.com",
+     "category": "wire_primary",
+     "origin": "abcnews.com"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://economictimes.indiatimes.com/news/defence/russian-attacks-kill-6-in-ukraine-and-damage-kyivs-northern-bridge/articleshow/134660773.cms",
+     "title": "Russian attacks kill 6 in Ukraine and damage Kyiv's Northern Bridge",
+     "description": "Russian attacks killed at least six people in Ukraine and damaged Kyiv's Northern Bridge, disrupting traffic for a third day, while Moscow confirmed it targeted the structure. Ukrainian strikes also caused casualties in Russia. Moldova's president warned that\u2026",
+     "source": "The Times of India",
+     "publishedAt": "2026-10-03T14:24:23Z",
+     "domain": "indiatimes.com",
+     "category": "established",
+     "origin": "indiatimes.com"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.thejournal.ie/russian-strikes-kyiv-northern-bridge-7181348-Oct2026/",
+     "title": "Major bridge in Kyiv damaged in Russian strikes",
+     "description": "The strike came a day after Russian assaults forced the full or partial closure of three of Kyiv\u2019s six road bridges over the Dnipro River.",
+     "source": "TheJournal.ie",
+     "publishedAt": "2026-10-03T11:18:57Z",
+     "domain": "thejournal.ie",
+     "category": "established",
+     "origin": "thejournal.ie"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://biztoc.com/x/2d3c6e0fec3c8f9c",
+     "title": "Russian airstrike hits Kyiv bridge",
+     "description": "The North Bridge in Kyiv was struck during a Russian airstrike, the city's mayor Vitali Klitschko reported.\"Emergency services are on their way,\" Klitschko wrote on Telegram. The attack follows report...",
+     "source": "Biztoc.com",
+     "publishedAt": "2026-10-03T04:45:24Z",
+     "domain": "biztoc.com",
+     "category": "aggregator",
+     "origin": null
+    }
+   ],
+   "contradictions": [],
+   "score": 90.7,
+   "n_independent": 6,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 1.0,
+    "quality": 1.0,
+    "recency": 0.99,
+    "escalation": 0.713,
+    "severity": 0.8
+   },
+   "latest": "2026-10-03T17:34:30+00:00",
+   "rank": 1,
+   "top_rank": 1,
+   "related": [
+    "th-efd71063",
+    "th-622fb802"
+   ]
+  },
+  {
+   "id": "th-e2e6b63c",
+   "home": "T08",
+   "topics": {
+    "T08": 21
+   },
+   "n_articles": 21,
+   "lead_url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/jerusalem-daily-uae-says-flydubai-co-pilot-attempted-terrorist-attack",
+   "lead_title": "Jerusalem Daily: UAE says Flydubai co-pilot attempted \u2018terrorist\u2019 attack",
+   "lead_source": "Al Jazeera English",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T08",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/jerusalem-daily-uae-says-flydubai-co-pilot-attempted-terrorist-attack",
+     "title": "Jerusalem Daily: UAE says Flydubai co-pilot attempted \u2018terrorist\u2019 attack",
+     "description": "Jerusalem Daily: UAE says Flydubai co-pilot attempted \u2018terrorist\u2019 attack",
+     "source": "Al Jazeera English",
+     "publishedAt": "2026-10-03T16:17:23Z",
+     "domain": "aljazeera.com",
+     "category": "wire_primary",
+     "origin": "aljazeera.com"
+    },
+    {
+     "topic": "T08",
+     "url": "https://www.cnbc.com/2026/10/03/flydubai-co-pilot-attacked-pilot-with-axe-uae-says.html",
+     "title": "FlyDubai plane attack by co-pilot was an attempted 'terrorist' act, UAE says",
+     "description": "The FlyDubai co-pilot attacked the pilot inside the cockpit with a crash axe and attempted to take control of the aircraft, the UAE prosecutor general said.",
+     "source": "CNBC",
+     "publishedAt": "2026-10-03T12:34:59Z",
+     "domain": "cnbc.com",
+     "category": "wire_primary",
+     "origin": "cnbc.com"
+    },
+    {
+     "topic": "T08",
+     "url": "https://www.foxnews.com/world/flydubai-co-pilot-accused-stabbing-captain-identified-29-year-old-omani-national",
+     "title": "FlyDubai co-pilot accused of stabbing captain identified as 29-year-old Omani national",
+     "description": "Hamam al-Hammami, the 29-year-old FlyDubai co-pilot accused of stabbing the captain on a Tel Aviv-bound flight, was previously grounded by Oman Air in 2024.",
+     "source": "Fox News",
+     "publishedAt": "2026-10-03T10:17:23Z",
+     "domain": "foxnews.com",
+     "category": "wire_primary",
+     "origin": "foxnews.com"
+    },
+    {
+     "topic": "T08",
+     "url": "https://www.nbcnews.com/world/middle-east/flydubai-pilot-attacked-captain-cockpits-crash-axe-attempted-terrorist-rcna601259",
+     "title": "Flydubai pilot attacked captain with cockpit\u2019s crash axe in attempted terrorist attack, UAE says",
+     "description": "A Flydubai pilot attacked his fellow pilot using a crash axe and tried to take control of the aircraft\u2019s flight controls in an attempted terrorist attack, officials in the United Arab Emirates said Saturday, adding that investigations into the incident were o\u2026",
+     "source": "NBC News",
+     "publishedAt": "2026-10-03T09:25:46Z",
+     "domain": "nbcnews.com",
+     "category": "wire_primary",
+     "origin": "nbcnews.com"
+    },
+    {
+     "topic": "T08",
+     "url": "https://www.aljazeera.com/news/2026/10/3/who-is-the-mystery-co-pilot-behind-the-flydubai-attack",
+     "title": "Who is the mystery co-pilot behind the Flydubai attack?",
+     "description": "Accused pilot Hamam al-Hammami reportedly barred from flying in Oman due to concerns over extremist views.",
+     "source": "Al Jazeera English",
+     "publishedAt": "2026-10-03T09:25:31Z",
+     "domain": "aljazeera.com",
+     "category": "wire_primary",
+     "origin": "aljazeera.com"
+    },
+    {
+     "topic": "T08",
+     "url": "https://www.dw.com/en/flydubai-co-pilot-attempted-terrorist-attack-uae-says/a-79526641",
+     "title": "Flydubai co-pilot attempted 'terrorist attack,' UAE says",
+     "description": "The man, who stabbed his fellow pilot on an Israel-bound Flydubai flight, was reportedly barred from flying in his native Oman over security concerns.",
+     "source": "DW (English)",
+     "publishedAt": "2026-10-03T08:17:00Z",
+     "domain": "dw.com",
+     "category": "wire_primary",
+     "origin": "dw.com"
+    },
+    {
+     "topic": "T08",
+     "url": "https://www.channelnewsasia.com/world/flydubai-co-pilot-attempted-terrorist-attack-uae-6428876",
+     "title": "Flydubai co-pilot attacked pilot with axe, attempted 'terrorist' attack, UAE says",
+     "description": "DUBAI: The co-pilot of flydubai flight FZ1073, which was bound for Israel, attempted to carry out a \"terrorist attack\" during the flight, the United Arab Emirates prosecutor general said on Saturday (Oct 3), according to the state news agency WAM.The co-pilot\u2026",
+     "source": "CNA",
+     "publishedAt": "2026-10-03T08:12:00Z",
+     "domain": "channelnewsasia.com",
+     "category": "wire_primary",
+     "origin": "channelnewsasia.com"
+    },
+    {
+     "topic": "T08",
+     "url": "https://www.aljazeera.com/news/2026/10/3/flydubai-co-pilot-stabbed-pilot-with-crash-axe-in-terrorist-attack-uae",
+     "title": "Flydubai co-pilot stabbed pilot with crash axe in \u2018terrorist\u2019 attack: UAE",
+     "description": "This is a breaking news story.",
+     "source": "Al Jazeera English",
+     "publishedAt": "2026-10-03T06:16:47Z",
+     "domain": "aljazeera.com",
+     "category": "wire_primary",
+     "origin": "aljazeera.com"
+    },
+    {
+     "topic": "T08",
+     "url": "https://www.dailymail.com/news/article-16180447/FlyDubai-pilot-al-Qaeda-planes-Israel.html",
+     "title": "British-educated Flydubai terrorist was found with al-Qaeda propaganda and plans to target Israeli airplanes three years ago - but was still allowed to fly",
+     "description": "Omani national Hamam Al Hammami, 29, severely wounded captain Smit Machchhar using the onboard crash axe as he attempted to hijack an Israel-bound flight.",
+     "source": "Dailymail.com",
+     "publishedAt": "2026-10-03T15:22:35Z",
+     "domain": "dailymail.com",
+     "category": "established",
+     "origin": "dailymail.com"
+    },
+    {
+     "topic": "T08",
+     "url": "https://fortune.com/2026/10/03/flydubai-copilot-cockpit-crash-axe-israel-flight-oman-extremist-views/",
+     "title": "FlyDubai co-pilot used cockpit\u2019s crash axe to try seizing control of flight and was barred from flying by Oman due to concerns over extremist views",
+     "description": "The co-pilot has been identified as Hamam al-Hammami.",
+     "source": "Fortune",
+     "publishedAt": "2026-10-03T15:02:47Z",
+     "domain": "fortune.com",
+     "category": "established",
+     "origin": "fortune.com"
+    },
+    {
+     "topic": "T08",
+     "url": "https://www.thejournal.ie/co-pilot-attacked-captain-with-axe-flydubai-7181444-Oct2026/",
+     "title": "Co-pilot on FlyDubai plane \u2018attacked captain with axe\u2019",
+     "description": "The co-pilot has also been named by sources as Omani national named Hamam al-Hammami.",
+     "source": "TheJournal.ie",
+     "publishedAt": "2026-10-03T14:42:31Z",
+     "domain": "thejournal.ie",
+     "category": "established",
+     "origin": "thejournal.ie"
+    },
+    {
+     "topic": "T08",
+     "url": "https://nypost.com/2026/10/03/world-news/flydubai-co-pilot-used-crash-ax-to-hack-at-pilot-in-attempted-terrorist-attack-uae-official/",
+     "title": "Flydubai co-pilot used crash ax to hack at pilot in attempted \u2018terrorist attack\u2019: UAE official",
+     "description": "UAE prosecutors say flydubai co-pilot Hamam al-Hammami used a crash axe to attack the pilot in an attempted hijack of an Israel-bound flight.",
+     "source": "New York Post",
+     "publishedAt": "2026-10-03T11:50:04Z",
+     "domain": "nypost.com",
+     "category": "established",
+     "origin": "nypost.com"
+    },
+    {
+     "topic": "T08",
+     "url": "https://www.thehindubusinessline.com/news/world/flydubai-co-pilot-attempted-terrorist-attack-during-flight-uae-says/article71540280.ece",
+     "title": "Flydubai co-pilot attempted \u2018terrorist\u2019 attack during flight, UAE says",
+     "description": "The UAE prosecutor general said a flydubai co-pilot attacked the pilot with a crash axe and attempted to take control of the aircraft.",
+     "source": "BusinessLine",
+     "publishedAt": "2026-10-03T10:09:18Z",
+     "domain": "thehindubusinessline.com",
+     "category": "established",
+     "origin": "thehindubusinessline.com"
+    },
+    {
+     "topic": "T08",
+     "url": "https://timesofindia.indiatimes.com/world/middle-east/co-pilot-attacked-indian-captain-with-crash-axe-uae-on-flydubai-terrorist-attack/articleshow/134653780.cms",
+     "title": "Co-pilot attacked Indian captain with crash axe: UAE on flydubai 'terrorist attack'",
+     "description": "A shocking incident occurred on a FlyDubai flight to Tel Aviv when the co-pilot allegedly launched an attack on the captain with a crash axe, prompting an emergency landing. Passengers reported hearing strange noises and quickly intervened to restrain the ass\u2026",
+     "source": "The Times of India",
+     "publishedAt": "2026-10-03T06:52:23Z",
+     "domain": "indiatimes.com",
+     "category": "established",
+     "origin": "indiatimes.com"
+    },
+    {
+     "topic": "T08",
+     "url": "https://economictimes.indiatimes.com/news/international/world-news/flydubai-co-pilot-attacked-pilot-with-axe-attempted-terrorist-attack-uae-says/articleshow/134653470.cms",
+     "title": "Flydubai co-pilot attacked pilot with axe, attempted 'terrorist' attack, UAE says",
+     "description": "The co-pilot of flydubai flight FZ1073 attacked the pilot with an axe in the cockpit. He attempted to gain control of the aircraft during the incident. The United Arab Emirates prosecutor general has announced that investigations are currently ongoing. Author\u2026",
+     "source": "The Times of India",
+     "publishedAt": "2026-10-03T06:17:13Z",
+     "domain": "indiatimes.com",
+     "category": "established",
+     "origin": "indiatimes.com"
+    },
+    {
+     "topic": "T08",
+     "url": "https://timesofindia.indiatimes.com/world/middle-east/terrorist-act-uae-official-on-flydubai-attack-praises-india-pilot-smit-machchhar/articleshow/134637759.cms",
+     "title": "'Terrorist act': UAE official on flydubai attack, praises India pilot Smit Machchhar",
+     "description": "NEW DELHI: A UAE official has described the mid-air incident involving flydubai flight FZ1073 as a \u201cterrorist act\u201d while praising Indian pilot Smit",
+     "source": "The Times of India",
+     "publishedAt": "2026-10-02T11:06:24Z",
+     "domain": "indiatimes.com",
+     "category": "established",
+     "origin": "indiatimes.com"
+    },
+    {
+     "topic": "T08",
+     "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186013086",
+     "title": "Flydubai pilot attacked captain with cockpit\u2019s crash axe in attempted terrorist attack, UAE official says - NBC News",
+     "description": "Flydubai pilot attacked captain with cockpit\u2019s crash axe in attempted terrorist attack, UAE official saysNBC News FlyDubai Co-Pilot Used Crash Ax in Attack, Says U.A.E.WSJ How FlyDubai Passengers and Crew Averted Disaster After Pilot Was Stabbed During Flight\u2026",
+     "source": "Slashdot.org",
+     "publishedAt": "2026-10-03T12:54:01Z",
+     "domain": "slashdot.org",
+     "category": "aggregator",
+     "origin": null
+    },
+    {
+     "topic": "T08",
+     "url": "https://biztoc.com/x/a8afa7091fa7c5d1",
+     "title": "FlyDubai plane attack by co-pilot was an attempted 'terrorist' act, UAE says",
+     "description": "The co-pilot of a FlyDubai plane who attacked the flight's captain with an axe this week was attempting a terrorist attack, the United Arab Emirates said Saturday.\n\"The co-pilot began executing his plan during the flight, attacking the captain inside the flig\u2026",
+     "source": "Biztoc.com",
+     "publishedAt": "2026-10-03T12:42:39Z",
+     "domain": "biztoc.com",
+     "category": "aggregator",
+     "origin": null
+    },
+    {
+     "topic": "T08",
+     "url": "https://www.newser.com/story/397522/uae-flydubai-incident-was-a-terrorist-attack.html",
+     "title": "UAE: FlyDubai Incident Was a 'Terrorist Attack'",
+     "description": "The co-pilot accused of attacking the captain on an Israel-bound flight and trying to seize the controls was an Omani national who'd been barred from flying on his nation's airline due to concerns about extremist views, officials said on Saturday. The co-pilo\u2026",
+     "source": "Newser",
+     "publishedAt": "2026-10-03T11:30:00Z",
+     "domain": "newser.com",
+     "category": "aggregator",
+     "origin": null
+    },
+    {
+     "topic": "T08",
+     "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186012054",
+     "title": "Flydubai co-pilot attacked pilot with axe, attempted 'terrorist attack', UAE says - reuters.com",
+     "description": "Flydubai co-pilot attacked pilot with axe, attempted 'terrorist attack', UAE saysreuters.com How FlyDubai Passengers and Crew Averted Disaster After Pilot Was Stabbed During FlightThe New York Times Trump warns Iran of fresh strikes if Tehran involved in FlyD\u2026",
+     "source": "Slashdot.org",
+     "publishedAt": "2026-10-03T09:33:06Z",
+     "domain": "slashdot.org",
+     "category": "aggregator",
+     "origin": null
+    },
+    {
+     "topic": "T08",
+     "url": "https://biztoc.com/x/05530b66d61aeced",
+     "title": "UAE calls Flydubai incident attempted terrorist attack",
+     "description": "The incident that occurred earlier this week aboard a Flydubai flight was an attempted terrorist attack, United Arab Emirates (UAE) Attorney General Hamad Saif Al Shamsi said, according to the state-r...",
+     "source": "Biztoc.com",
+     "publishedAt": "2026-10-03T06:42:44Z",
+     "domain": "biztoc.com",
+     "category": "aggregator",
+     "origin": null
+    }
+   ],
+   "contradictions": [],
+   "score": 81.4,
+   "n_independent": 12,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 1.0,
+    "quality": 1.0,
+    "recency": 0.943,
+    "escalation": 0.408,
+    "severity": 0.7
+   },
+   "latest": "2026-10-03T16:17:23+00:00",
+   "rank": 2,
+   "top_rank": 2,
+   "related": [
+    "th-3cbf31f8"
+   ]
+  },
+  {
+   "id": "th-ec4c1a67",
+   "home": "T01",
+   "topics": {
+    "T01": 4
+   },
+   "n_articles": 4,
+   "lead_url": "https://military.com/north-korea-test-fired-intermediate-range-missile-tensions-grow-over-mine-blasts",
+   "lead_title": "North Korea Says It Test-Fired an Intermediate-Range Missile as Tensions Grow Over Mine Blasts",
+   "lead_source": "Military.com",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T01",
+     "url": "https://military.com/north-korea-test-fired-intermediate-range-missile-tensions-grow-over-mine-blasts",
+     "title": "North Korea Says It Test-Fired an Intermediate-Range Missile as Tensions Grow Over Mine Blasts",
+     "description": "The launch came a day after Kim Yo Jong ridiculed South Korean demands for the North to apologize over the Sept. 21 land mine blasts.",
+     "source": "Military.com",
+     "publishedAt": "2026-10-03T16:16:42Z",
+     "domain": "military.com",
+     "category": "wire_primary",
+     "origin": "wire:ap"
+    },
+    {
+     "topic": "T01",
+     "url": "https://www.dw.com/en/north-korea-fires-ballistic-missile-into-sea-seoul-says/a-79526243",
+     "title": "North Korea fires ballistic missile into sea, Seoul says",
+     "description": "North Korea fired a ballistic missile toward the sea off its east coast, the South Korean military has said.",
+     "source": "DW (English)",
+     "publishedAt": "2026-10-02T22:06:00Z",
+     "domain": "dw.com",
+     "category": "wire_primary",
+     "origin": "dw.com"
+    },
+    {
+     "topic": "T01",
+     "url": "https://nypost.com/2026/10/02/world-news/north-korea-test-fires-missiles-amid-tensions-over-blasts-across-the-border/",
+     "title": "North Korea test-fires missiles amid tensions over blasts across the border",
+     "description": "North Korea fired a ballistic missile from Wonsan on Saturday amid tensions over border land mine blasts that injured three South Korean soldiers.",
+     "source": "New York Post",
+     "publishedAt": "2026-10-03T01:28:48Z",
+     "domain": "nypost.com",
+     "category": "established",
+     "origin": "nypost.com"
+    },
+    {
+     "topic": "T01",
+     "url": "https://economictimes.indiatimes.com/news/defence/north-korea-test-fires-ballistic-missile-as-tensions-grow-over-border-mine-blasts/articleshow/134650336.cms",
+     "title": "North Korea test-fires ballistic missile as tensions grow over border mine blasts",
+     "description": "North Korea fired a ballistic missile that flew over 700 kilometers into the sea. This launch followed heightened tensions due to land mine blasts injuring three South Korean soldiers. South Korea condemned the missile tests, calling them a violation of U.N. \u2026",
+     "source": "The Times of India",
+     "publishedAt": "2026-10-03T01:12:56Z",
+     "domain": "indiatimes.com",
+     "category": "established",
+     "origin": "indiatimes.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 76.4,
+   "n_independent": 4,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.827,
+    "quality": 0.96,
+    "recency": 0.942,
+    "escalation": 0.451,
+    "severity": 0.7
+   },
+   "latest": "2026-10-03T16:16:42+00:00",
+   "rank": 3,
+   "top_rank": 3,
+   "related": []
+  },
+  {
+   "id": "th-d458c5fb",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 4
+   },
+   "n_articles": 4,
+   "lead_url": "https://www.breitbart.com/europe/2026/10/03/latvians-vote-for-new-parliament-amid-fears-of-russian-hybrid-attack/",
+   "lead_title": "Latvians Vote for New Parliament Amid Fears of Russian Hybrid Attack",
+   "lead_source": "Breitbart News",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.breitbart.com/europe/2026/10/03/latvians-vote-for-new-parliament-amid-fears-of-russian-hybrid-attack/",
+     "title": "Latvians Vote for New Parliament Amid Fears of Russian Hybrid Attack",
+     "description": "Latvians are electing a new parliament on Saturday as pro-Ukraine Prime Minister Andris Kulbergs seeks a full term. The vote comes as the small republic on NATO's eastern flank contends with growing concern about potential Russian aggression.\nThe post Latvian\u2026",
+     "source": "Breitbart News",
+     "publishedAt": "2026-10-03T13:24:58Z",
+     "domain": "breitbart.com",
+     "category": "wire_primary",
+     "origin": "wire:ap"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.irishtimes.com/world/europe/2026/10/03/latvians-vote-in-election-in-shadow-of-drone-incursions-and-war-in-ukraine/",
+     "title": "Latvians vote in election in shadow of drone incursions and war in Ukraine",
+     "description": "Pro-Ukrainian prime minister Andris Kulbergs is likely to hold on to power",
+     "source": "The Irish Times",
+     "publishedAt": "2026-10-03T11:38:13Z",
+     "domain": "irishtimes.com",
+     "category": "wire_primary",
+     "origin": "irishtimes.com"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://abcnews.com/International/wireStory/latvians-vote-new-parliament-fears-russian-hybrid-attacks-136968645",
+     "title": "Latvians vote for a new parliament as fears of Russian hybrid attacks loom",
+     "description": "Latvians are electing a new parliament as pro-Ukraine Prime Minister Andris Kulbergs seeks a full term",
+     "source": "Abcnews.com",
+     "publishedAt": "2026-10-03T10:19:19Z",
+     "domain": "abcnews.com",
+     "category": "wire_primary",
+     "origin": "abcnews.com"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.lawyersgunsmoneyblog.com/2026/10/election-of-the-weekend-i-latvia",
+     "title": "Election of the Weekend I: Latvia",
+     "description": "Busy electoral weekend kicks off in Latvia. On Saturday, Latvians will elect their 15th Saeima. The Saeima, Latvia\u2019s unicameral legislature, has 100 seats. They are elected by open list proportional representation elections, across five multimember districts \u2026",
+     "source": "Lawyersgunsmoneyblog.com",
+     "publishedAt": "2026-10-03T14:27:33Z",
+     "domain": "lawyersgunsmoneyblog.com",
+     "category": "advocacy_opinion",
+     "origin": "lawyersgunsmoneyblog.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 73.4,
+   "n_independent": 4,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.827,
+    "quality": 1.0,
+    "recency": 0.878,
+    "escalation": 0.295,
+    "severity": 0.8
+   },
+   "latest": "2026-10-03T14:27:33+00:00",
+   "rank": 4,
+   "top_rank": 4,
+   "related": []
+  },
+  {
+   "id": "th-29e13748",
+   "home": "T01",
+   "topics": {
+    "T01": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.channelnewsasia.com/asia/philippines-voices-concern-over-myanmar-airstrike-deaths-injuries-6428901",
+   "lead_title": "Philippines voices concern over Myanmar airstrike\u00a0deaths, injuries",
+   "lead_source": "CNA",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T01",
+     "url": "https://www.channelnewsasia.com/asia/philippines-voices-concern-over-myanmar-airstrike-deaths-injuries-6428901",
+     "title": "Philippines voices concern over Myanmar airstrike\u00a0deaths, injuries",
+     "description": "Monday's (Sep 28) Kyauktaw airstrike,\u00a0Rakhine's deadliest such attack since a December hospital bombing, killed 50 people and wounded dozens more.",
+     "source": "CNA",
+     "publishedAt": "2026-10-03T08:34:09Z",
+     "domain": "channelnewsasia.com",
+     "category": "wire_primary",
+     "origin": "channelnewsasia.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 73.2,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.7,
+    "escalation": 1.0,
+    "severity": 0.7
+   },
+   "latest": "2026-10-03T08:34:09+00:00",
+   "rank": 5,
+   "top_rank": 5,
+   "related": []
+  },
+  {
+   "id": "th-3cbf31f8",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 4,
+    "T08": 2
+   },
+   "n_articles": 6,
+   "lead_url": "https://abcnews.com/International/wireStory/mystery-men-stepped-flydubai-plane-crashing-136973251",
+   "lead_title": "Who are the mystery men who stepped in to keep the FlyDubai plane from crashing?",
+   "lead_source": "Abcnews.com",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://abcnews.com/International/wireStory/mystery-men-stepped-flydubai-plane-crashing-136973251",
+     "title": "Who are the mystery men who stepped in to keep the FlyDubai plane from crashing?",
+     "description": "Three days have passed since FlyDubai attack but the two uniformed crew members who stepped in to stabilize and land the lane are still not publicly identified",
+     "source": "Abcnews.com",
+     "publishedAt": "2026-10-03T15:29:30Z",
+     "domain": "abcnews.com",
+     "category": "wire_primary",
+     "origin": "abcnews.com"
+    },
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://abcnews.com/International/wireStory/pilot-flydubai-attack-identified-mideast-developments-136968085",
+     "title": "Co-pilot in FlyDubai attack is identified, and other Mideast developments",
+     "description": "The co-pilot suspected in this week\u2019s FlyDubai attack has been identified as an Omani national",
+     "source": "Abcnews.com",
+     "publishedAt": "2026-10-03T07:15:12Z",
+     "domain": "abcnews.com",
+     "category": "wire_primary",
+     "origin": "abcnews.com"
+    },
+    {
+     "topic": "T08",
+     "url": "https://abcnews.com/International/wireStory/pilot-flydubai-incident-identified-omani-national-named-hamam-136967542",
+     "title": "Co-pilot in FlyDubai incident is identified as Omani national named Hamam al-Hammami",
+     "description": "The co-pilot suspected of stabbing the captain on an Israel-bound FlyDubai flight has been identified as an Omani national named Hamam al-Hammami",
+     "source": "Abcnews.com",
+     "publishedAt": "2026-10-03T06:16:58Z",
+     "domain": "abcnews.com",
+     "category": "wire_primary",
+     "origin": "abcnews.com"
+    },
+    {
+     "topic": "T08",
+     "url": "https://www.livemint.com/companies/copilot-in-flydubai-incident-is-identified-as-omani-national-hamam-alhammami-11791006508683.html",
+     "title": "Co-pilot in FlyDubai incident is identified as Omani national Hamam al-Hammami",
+     "description": "Co-pilot in FlyDubai incident is identified as Omani national Hamam al-Hammami",
+     "source": "Livemint",
+     "publishedAt": "2026-10-03T05:48:28Z",
+     "domain": "livemint.com",
+     "category": "wire_primary",
+     "origin": "wire:ap"
+    },
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://economictimes.indiatimes.com/news/international/world-news/flydubai-co-pilot-accused-of-attacking-captain-smit-machchhar-identified-as-hamam-al-hammami-was-removed-from-oman-air-duties-over-extremist-concerns/articleshow/134652003.cms",
+     "title": "Flydubai co-pilot accused of attacking captain Smit Machchhar identified as Hamam al-Hammami",
+     "description": "Hamam al-Hammami, a co-pilot, attacked captain Smit Machchhar on a Flydubai flight to Tel Aviv. The incident, which caused the aircraft to rapidly descend, raised serious security concerns. Al-Hammami had previously been removed from Oman Air due to extremist\u2026",
+     "source": "The Times of India",
+     "publishedAt": "2026-10-03T05:09:25Z",
+     "domain": "indiatimes.com",
+     "category": "established",
+     "origin": "indiatimes.com"
+    },
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.breitbart.com/politics/2026/10/02/uae-calls-flydubai-attack-terrorist-act-for-first-time-as-israel-probes-if-hijacker-was-sent/",
+     "title": "UAE Calls Flydubai Attack \u2018Terrorist Act\u2019 for First Time as Israel Probes if Hijacker \u2018Was Sent\u2019",
+     "description": "A senior United Arab Emirates official on Friday publicly described the attempted crashing of a Flydubai passenger jet as a \u201cterrorist act\u201d for the first time, as Israel investigates if the Omani co-pilot accused of trying to bring down the aircraft was actin\u2026",
+     "source": "Breitbart News",
+     "publishedAt": "2026-10-02T23:39:29Z",
+     "domain": "breitbart.com",
+     "category": "advocacy_opinion",
+     "origin": "breitbart.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 73.1,
+   "n_independent": 4,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.827,
+    "quality": 0.96,
+    "recency": 0.914,
+    "escalation": 0.295,
+    "severity": 0.8
+   },
+   "latest": "2026-10-03T15:29:30+00:00",
+   "rank": 6,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-efd71063",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 2
+   },
+   "n_articles": 2,
+   "lead_url": "https://www.dw.com/en/ukraine-to-step-up-oil-attacks-as-russia-hits-kyiv-bridges/a-79527753",
+   "lead_title": "Ukraine to step up oil attacks as Russia hits Kyiv bridges",
+   "lead_source": "DW (English)",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.dw.com/en/ukraine-to-step-up-oil-attacks-as-russia-hits-kyiv-bridges/a-79527753",
+     "title": "Ukraine to step up oil attacks as Russia hits Kyiv bridges",
+     "description": "As Moscow intensifies attacks on Kyiv and other cities, Ukrainian President Volodymyr Zelenskyy has vowed to hit Russian energy infrastructure.",
+     "source": "DW (English)",
+     "publishedAt": "2026-10-03T17:16:00Z",
+     "domain": "dw.com",
+     "category": "wire_primary",
+     "origin": "dw.com"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://economictimes.indiatimes.com/news/defence/ukraine-will-hit-russian-refineries-in-response-to-moscows-new-doctrine-of-airstrikes/articleshow/134662857.cms",
+     "title": "Ukraine will hit Russian refineries in response to Moscow's 'new doctrine' of airstrikes",
+     "description": "Ukraine is set to enhance its attacks on Russian oil refineries in response to recent changes in military tactics. President Volodymyr Zelenskiy emphasized that civilian infrastructure would not be targeted during these operations. Ongoing Ukrainian counterof\u2026",
+     "source": "The Times of India",
+     "publishedAt": "2026-10-03T16:19:35Z",
+     "domain": "indiatimes.com",
+     "category": "established",
+     "origin": "indiatimes.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 70.7,
+   "n_independent": 2,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.565,
+    "quality": 0.94,
+    "recency": 0.979,
+    "escalation": 0.491,
+    "severity": 0.8
+   },
+   "latest": "2026-10-03T17:16:00+00:00",
+   "rank": 7,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-289771d5",
+   "home": "T12",
+   "topics": {
+    "T12": 2
+   },
+   "n_articles": 2,
+   "lead_url": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
+   "lead_title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
+   "lead_source": "Internet",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T12",
+     "url": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
+     "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
+     "description": "The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and Spanish-speaking countries.\n\nThe activity, observed \u2026",
+     "source": "Internet",
+     "publishedAt": "2026-10-03T14:36:33Z",
+     "domain": "thehackernews.com",
+     "category": "established",
+     "origin": "thehackernews.com"
+    },
+    {
+     "topic": "T12",
+     "url": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
+     "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
+     "description": "The China-linked ransomware group Warlock targeted a water utility, a telecom provider, a regional government body, and a university by exploiting SharePoint vulnerabilities to gain initial access. [...]",
+     "source": "BleepingComputer",
+     "publishedAt": "2026-10-02T18:33:01Z",
+     "domain": "bleepingcomputer.com",
+     "category": "established",
+     "origin": "bleepingcomputer.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 69.8,
+   "n_independent": 2,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.565,
+    "quality": 0.7,
+    "recency": 0.884,
+    "escalation": 0.706,
+    "severity": 0.8
+   },
+   "latest": "2026-10-03T14:36:33+00:00",
+   "rank": 8,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-df9c0d86",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.dw.com/en/uk-remands-2-iranians-over-alleged-antisemitic-terror-plot/a-79532184",
+   "lead_title": "UK remands 2 Iranians over alleged antisemitic terror plot",
+   "lead_source": "DW (English)",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.dw.com/en/uk-remands-2-iranians-over-alleged-antisemitic-terror-plot/a-79532184",
+     "title": "UK remands 2 Iranians over alleged antisemitic terror plot",
+     "description": "The pair were arrested on the eve of Yom Kippur and later charged with plotting to attack Jewish targets in Manchester.",
+     "source": "DW (English)",
+     "publishedAt": "2026-10-03T16:10:00Z",
+     "domain": "dw.com",
+     "category": "wire_primary",
+     "origin": "dw.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 67.8,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.938,
+    "escalation": 0.603,
+    "severity": 0.8
+   },
+   "latest": "2026-10-03T16:10:00+00:00",
+   "rank": 9,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-301c8fc5",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://press.un.org/en/2026/db261002.doc.htm",
+   "lead_title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
+   "lead_source": "UN News",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://press.un.org/en/2026/db261002.doc.htm",
+     "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
+     "description": "In Ukraine, another wave of attacks killed 12 civilians and injured nearly 80, according to local authorities, the UN Office for the Coordination of Humanitarian Affairs reports. Homes, energy infrastructure and a Kyiv bridge were damaged, with power disrupte\u2026",
+     "source": "UN News",
+     "publishedAt": "2026-10-02T19:45:59Z",
+     "domain": "un.org",
+     "category": "wire_primary",
+     "origin": "un.org"
+    }
+   ],
+   "contradictions": [],
+   "score": 65.3,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.428,
+    "escalation": 0.809,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T19:45:59+00:00",
+   "rank": 10,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-e5998a68",
+   "home": "T04",
+   "topics": {
+    "T04": 2
+   },
+   "n_articles": 2,
+   "lead_url": "https://www.dailymail.com/news/article-16180203/Pneumonic-plague-outbreak-hits-Siberia-lab-worker-28-dies-breaking-test-tube-200-people-contact-quarantine.html",
+   "lead_title": "Pneumonic plague outbreak hits Siberia as lab worker, 28, dies after breaking test tube and 200 people she was in contact with are put in quarantine",
+   "lead_source": "Dailymail.com",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T04",
+     "url": "https://www.dailymail.com/news/article-16180203/Pneumonic-plague-outbreak-hits-Siberia-lab-worker-28-dies-breaking-test-tube-200-people-contact-quarantine.html",
+     "title": "Pneumonic plague outbreak hits Siberia as lab worker, 28, dies after breaking test tube and 200 people she was in contact with are put in quarantine",
+     "description": "A female lab technician has died in Siberia of pneumonic plague after breaking a test tube, as at least 200 people are put under quarantine.",
+     "source": "Dailymail.com",
+     "publishedAt": "2026-10-03T10:22:19Z",
+     "domain": "dailymail.com",
+     "category": "established",
+     "origin": "dailymail.com"
+    },
+    {
+     "topic": "T04",
+     "url": "https://freerepublic.com/focus/f-news/4397800/posts",
+     "title": "In Russia, lab technician at institute broke test tube containing dangerous infection and died week later. About 200 people had contact with her, and they are being tested [Pneumonic plague]",
+     "description": "In the Irkutsk Oblast of Russia, the aggressor country, a death from pneumonic plague\u2014a dangerous airborne infection with a high fatality rate\u2014has been reported. An employee of a local anti-plague institute died from the disease. This is according to reports \u2026",
+     "source": "Freerepublic.com",
+     "publishedAt": "2026-10-03T17:11:43Z",
+     "domain": "freerepublic.com",
+     "category": "aggregator",
+     "origin": null
+    }
+   ],
+   "contradictions": [],
+   "score": 64.6,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.976,
+    "escalation": 0.73,
+    "severity": 0.7
+   },
+   "latest": "2026-10-03T17:11:43+00:00",
+   "rank": 11,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-a75a2e14",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.politico.eu/article/maia-sandu-slams-russia-as-attack-debris-hits-moldova-in-latest-airspace-violation/",
+   "lead_title": "Sandu slams Russia as attack debris hits Moldova in latest airspace violation",
+   "lead_source": "POLITICO.eu",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.politico.eu/article/maia-sandu-slams-russia-as-attack-debris-hits-moldova-in-latest-airspace-violation/",
+     "title": "Sandu slams Russia as attack debris hits Moldova in latest airspace violation",
+     "description": "Three missile and two drones entered Moldovan airspace and caused collateral damage in the country, local authorities said.",
+     "source": "POLITICO.eu",
+     "publishedAt": "2026-10-03T12:50:53Z",
+     "domain": "politico.eu",
+     "category": "wire_primary",
+     "origin": "politico.eu"
+    }
+   ],
+   "contradictions": [],
+   "score": 63.7,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.826,
+    "escalation": 0.503,
+    "severity": 0.8
+   },
+   "latest": "2026-10-03T12:50:53+00:00",
+   "rank": 12,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-6bb3cdc8",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.dailymail.com/news/article-16180567/Houthis-attack-Riyadh-oil-refinery-Saudis-Yemen-conflict.html",
+   "lead_title": "Houthis launch new attack on Riyadh oil refinery as Saudis hit back with counter-strikes on Yemen as conflict hiking world oil prices intensifies",
+   "lead_source": "Dailymail.com",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.dailymail.com/news/article-16180567/Houthis-attack-Riyadh-oil-refinery-Saudis-Yemen-conflict.html",
+     "title": "Houthis launch new attack on Riyadh oil refinery as Saudis hit back with counter-strikes on Yemen as conflict hiking world oil prices intensifies",
+     "description": "Thick black smoke and flames erupted around an\u00a0oil refinery in the Saudi capital as the Houthis launched a fresh attack, furthering fears of escalating oil prices around the world.",
+     "source": "Dailymail.com",
+     "publishedAt": "2026-10-03T17:41:55Z",
+     "domain": "dailymail.com",
+     "category": "established",
+     "origin": "dailymail.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 61.4,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.995,
+    "escalation": 0.551,
+    "severity": 0.8
+   },
+   "latest": "2026-10-03T17:41:55+00:00",
+   "rank": 13,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-1dc825b7",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 2
+   },
+   "n_articles": 2,
+   "lead_url": "https://gcaptain.com/saudis-plan-assault-on-houthis-to-break-red-sea-chokehold/",
+   "lead_title": "Saudis Plan Assault on Houthis to Break Red Sea Chokehold",
+   "lead_source": "gcaptain.com",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://gcaptain.com/saudis-plan-assault-on-houthis-to-break-red-sea-chokehold/",
+     "title": "Saudis Plan Assault on Houthis to Break Red Sea Chokehold",
+     "description": "Saudi Arabia is planning an offensive against Iran-backed Houthi militants in Yemen, with options being considered including a coastal push to secure the Red Sea\u00a0shipping\u00a0route or an assault on multiple fronts, regional and Western officials told Reuters.",
+     "source": "gcaptain.com",
+     "publishedAt": "2026-10-02T17:07:10Z",
+     "domain": "gcaptain.com",
+     "category": "wire_primary",
+     "origin": "wire:reuters"
+    },
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://economictimes.indiatimes.com/news/international/world-news/saudi-arabia-plans-assault-on-houthis-to-break-red-sea-chokehold/articleshow/134651063.cms",
+     "title": "Saudi Arabia plans assault on Houthis to break Red Sea chokehold",
+     "description": "Saudi Arabia is preparing for an offensive against Houthi militants in Yemen, focusing on securing the Bab el-Mandeb Strait. The operation is expected to include coordinated attacks from multiple fronts alongside Yemeni ground forces. Over 100,000 Yemeni troo\u2026",
+     "source": "The Times of India",
+     "publishedAt": "2026-10-03T02:53:13Z",
+     "domain": "indiatimes.com",
+     "category": "established",
+     "origin": "indiatimes.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 59.6,
+   "n_independent": 2,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.565,
+    "quality": 0.94,
+    "recency": 0.563,
+    "escalation": 0.295,
+    "severity": 0.8
+   },
+   "latest": "2026-10-03T02:53:13+00:00",
+   "rank": 14,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-ffce8dd9",
+   "home": "T02",
+   "topics": {
+    "T02": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.aljazeera.com/features/2026/10/3/a-yemeni-family-spend-a-week-on-the-road-fleeing-another-houthi-offensive",
+   "lead_title": "A Yemeni family spends a week on the road fleeing another Houthi offensive",
+   "lead_source": "Al Jazeera English",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T02",
+     "url": "https://www.aljazeera.com/features/2026/10/3/a-yemeni-family-spend-a-week-on-the-road-fleeing-another-houthi-offensive",
+     "title": "A Yemeni family spends a week on the road fleeing another Houthi offensive",
+     "description": "Displaced Yemenis are fleeing again, as the Houthis capture the Red Sea coast.",
+     "source": "Al Jazeera English",
+     "publishedAt": "2026-10-03T10:48:28Z",
+     "domain": "aljazeera.com",
+     "category": "wire_primary",
+     "origin": "aljazeera.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 59.6,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.763,
+    "escalation": 0.378,
+    "severity": 0.8
+   },
+   "latest": "2026-10-03T10:48:28+00:00",
+   "rank": 15,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-b270b6b1",
+   "home": "T05",
+   "topics": {
+    "T05": 2
+   },
+   "n_articles": 2,
+   "lead_url": "https://abcnews.com/International/wireStory/brazilians-vote-highly-polarized-presidential-race-sunday-heres-136970411",
+   "lead_title": "Brazilians will vote in a highly polarized presidential race on Sunday. Here\u2019s what to know",
+   "lead_source": "Abcnews.com",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T05",
+     "url": "https://abcnews.com/International/wireStory/brazilians-vote-highly-polarized-presidential-race-sunday-heres-136970411",
+     "title": "Brazilians will vote in a highly polarized presidential race on Sunday. Here\u2019s what to know",
+     "description": "Millions of Brazilians are voting in an election featuring two main rivals: President Luiz In\u00e1cio Lula da Silva and Sen. Fl\u00e1vio Bolsonaro",
+     "source": "Abcnews.com",
+     "publishedAt": "2026-10-03T14:54:27Z",
+     "domain": "abcnews.com",
+     "category": "wire_primary",
+     "origin": "abcnews.com"
+    },
+    {
+     "topic": "T05",
+     "url": "https://www.aljazeera.com/news/2026/10/3/what-to-know-about-brazils-2026-presidential-election",
+     "title": "What to know about Brazil\u2019s 2026 presidential election",
+     "description": "Polls show tight race between incumbent Lula and right-wing rival Flavio Bolsonaro amid concerns over crime and economy.",
+     "source": "Al Jazeera English",
+     "publishedAt": "2026-10-03T14:23:55Z",
+     "domain": "aljazeera.com",
+     "category": "wire_primary",
+     "origin": "aljazeera.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 58.3,
+   "n_independent": 2,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.565,
+    "quality": 1.0,
+    "recency": 0.894,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-03T14:54:27+00:00",
+   "rank": 16,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-4091160d",
+   "home": "T02",
+   "topics": {
+    "T02": 2
+   },
+   "n_articles": 2,
+   "lead_url": "https://www.aljazeera.com/news/2026/10/2/three-in-four-households-go-hungry-in-parts-of-yemen-amid-fighting-un",
+   "lead_title": "Three in four households go hungry in parts of Yemen amid fighting: UN",
+   "lead_source": "Al Jazeera English",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T02",
+     "url": "https://www.aljazeera.com/news/2026/10/2/three-in-four-households-go-hungry-in-parts-of-yemen-amid-fighting-un",
+     "title": "Three in four households go hungry in parts of Yemen amid fighting: UN",
+     "description": "World Food Programme warns of 'devastating' impact as conflict displaces thousands and cuts off food supplies.",
+     "source": "Al Jazeera English",
+     "publishedAt": "2026-10-02T16:06:25Z",
+     "domain": "aljazeera.com",
+     "category": "wire_primary",
+     "origin": "aljazeera.com"
+    },
+    {
+     "topic": "T02",
+     "url": "https://www.channelnewsasia.com/world/three-in-four-families-go-hungry-in-parts-yemen-new-fighting-6426751",
+     "title": "Three in four families go hungry in parts of Yemen from new fighting",
+     "description": "GENEVA: Three-in-four families in parts of Yemen are going hungry from the \"absolutely devastating\" impact of a surge in fighting, which has displaced tens of thousands of people and disrupted supplies to millions, the World Food Programme said on Friday (Oct\u2026",
+     "source": "CNA",
+     "publishedAt": "2026-10-02T15:09:03Z",
+     "domain": "channelnewsasia.com",
+     "category": "wire_primary",
+     "origin": "channelnewsasia.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 58.3,
+   "n_independent": 2,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.565,
+    "quality": 1.0,
+    "recency": 0.371,
+    "escalation": 0.313,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T16:06:25+00:00",
+   "rank": 17,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-fba34a79",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.foxnews.com/opinion/senate-remembered-americas-october-7th-victims-time-heal",
+   "lead_title": "The Senate has remembered America\u2019s October 7th victims. Now it\u2019s time to heal",
+   "lead_source": "Fox News",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.foxnews.com/opinion/senate-remembered-americas-october-7th-victims-time-heal",
+     "title": "The Senate has remembered America\u2019s October 7th victims. Now it\u2019s time to heal",
+     "description": "The father of a soldier killed at Nahal Oz on October 7 urges Congress to act after the Senate unanimously honored all 46 American Hamas victims.",
+     "source": "Fox News",
+     "publishedAt": "2026-10-03T14:00:48Z",
+     "domain": "foxnews.com",
+     "category": "wire_primary",
+     "origin": "foxnews.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 57.2,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.864,
+    "escalation": 0.221,
+    "severity": 0.8
+   },
+   "latest": "2026-10-03T14:00:48+00:00",
+   "rank": 18,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-5146321b",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.naturalnews.com/2026-10-03-ukranian-strike-russian-town-12-civilians-injured.html",
+   "lead_title": "Ukrainian Strike on Russian Town Leaves 12 Civilians Injured, Official Says",
+   "lead_source": "Naturalnews.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.naturalnews.com/2026-10-03-ukranian-strike-russian-town-12-civilians-injured.html",
+     "title": "Ukrainian Strike on Russian Town Leaves 12 Civilians Injured, Official Says",
+     "description": "A Ukrainian drone struck the Russian town of Trubchevsk in the Bryansk Region on Sept. 30, 2026, injuring 12 civilians, according to Bryansk Region Acting Governor Egor Kovalchuk. Seven of the injured were college students, and one person was in serious condi\u2026",
+     "source": "Naturalnews.com",
+     "publishedAt": "2026-10-03T06:00:00Z",
+     "domain": "naturalnews.com",
+     "category": "advocacy_opinion",
+     "origin": "naturalnews.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 56.4,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.634,
+    "escalation": 0.887,
+    "severity": 0.8
+   },
+   "latest": "2026-10-03T06:00:00+00:00",
+   "rank": 19,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-d98f8756",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.rferl.org/a/ukraine-russia-war-oleshky-blockade-drone-strikes-kherson/33867247.html",
+   "lead_title": "'We'll Die This Autumn': Ruined And Flooded, Russian-Occupied Oleshky In Ukraine Starves Under A 'Total Blockade'",
+   "lead_source": "Radio Free Europe/ Radio Liberty",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.rferl.org/a/ukraine-russia-war-oleshky-blockade-drone-strikes-kherson/33867247.html",
+     "title": "'We'll Die This Autumn': Ruined And Flooded, Russian-Occupied Oleshky In Ukraine Starves Under A 'Total Blockade'",
+     "description": "People in Russian-held Oleshky in Ukraine's Kherson region have endured war, occupation, and devastating flooding. Now, trapped by land mines and cut off from basic supplies, they face \"hell,\" starving in a virtual ghost town, Ukrainian officials and voluntee\u2026",
+     "source": "Radio Free Europe/ Radio Liberty",
+     "publishedAt": "2026-10-03T10:11:33Z",
+     "domain": "rferl.org",
+     "category": "established",
+     "origin": "rferl.org"
+    }
+   ],
+   "contradictions": [],
+   "score": 55.8,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.745,
+    "escalation": 0.478,
+    "severity": 0.8
+   },
+   "latest": "2026-10-03T10:11:33+00:00",
+   "rank": 20,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-90445f3b",
+   "home": "T13",
+   "topics": {
+    "T13": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.foxnews.com/politics/dhs-exposes-dilemma-behind-scotus-deportation-fight-two-choices",
+   "lead_title": "DHS exposes dilemma behind SCOTUS deportation fight: \u2018We have two choices\u2019",
+   "lead_source": "Fox News",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T13",
+     "url": "https://www.foxnews.com/politics/dhs-exposes-dilemma-behind-scotus-deportation-fight-two-choices",
+     "title": "DHS exposes dilemma behind SCOTUS deportation fight: \u2018We have two choices\u2019",
+     "description": "DHS General Counsel James Percival defends third-country removals on social media as the Supreme Court temporarily stays a lower-court ruling.",
+     "source": "Fox News",
+     "publishedAt": "2026-10-03T14:00:28Z",
+     "domain": "foxnews.com",
+     "category": "wire_primary",
+     "origin": "foxnews.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 55.2,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.863,
+    "escalation": 0.221,
+    "severity": 0.6
+   },
+   "latest": "2026-10-03T14:00:28+00:00",
+   "rank": 21,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-622fb802",
+   "home": "T14",
+   "topics": {
+    "T14": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.rte.ie/news/ukraine/2026/1003/1593888-ukraine-russia/",
+   "lead_title": "Russia warns diplomats, foreigners to leave Kyiv",
+   "lead_source": "RTE",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T14",
+     "url": "https://www.rte.ie/news/ukraine/2026/1003/1593888-ukraine-russia/",
+     "title": "Russia warns diplomats, foreigners to leave Kyiv",
+     "description": "Russia has issued a new call for diplomats and foreigners to leave Kyiv, warning the Ukrainian capital of \"massive\" strikes, in a statement by its foreign ministry.",
+     "source": "RTE",
+     "publishedAt": "2026-10-03T11:22:23Z",
+     "domain": "rte.ie",
+     "category": "wire_primary",
+     "origin": "rte.ie"
+    }
+   ],
+   "contradictions": [],
+   "score": 54.9,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.78,
+    "escalation": 0.139,
+    "severity": 0.9
+   },
+   "latest": "2026-10-03T11:22:23+00:00",
+   "rank": 22,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-c1e4adcb",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.cnn.com/2026/10/03/politics/trump-drug-factories-claim-iran",
+   "lead_title": "Breaking down Trump\u2019s claim about Iranian nuclear sites",
+   "lead_source": "CNN",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.cnn.com/2026/10/03/politics/trump-drug-factories-claim-iran",
+     "title": "Breaking down Trump\u2019s claim about Iranian nuclear sites",
+     "description": "The president said during a rally that the Iranian facilities were also \u2018drug factories.\u2019",
+     "source": "CNN",
+     "publishedAt": "2026-10-03T04:00:44Z",
+     "domain": "cnn.com",
+     "category": "wire_primary",
+     "origin": "cnn.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 54.0,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.588,
+    "escalation": 0.259,
+    "severity": 0.8
+   },
+   "latest": "2026-10-03T04:00:44+00:00",
+   "rank": 23,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-0ac8e850",
+   "home": "T12",
+   "topics": {
+    "T12": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.foxnews.com/politics/how-foreign-hackers-could-crumble-america-targeting-essential-utility",
+   "lead_title": "How foreign hackers could 'crumble' America by targeting one essential utility",
+   "lead_source": "Fox News",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T12",
+     "url": "https://www.foxnews.com/politics/how-foreign-hackers-could-crumble-america-targeting-essential-utility",
+     "title": "How foreign hackers could 'crumble' America by targeting one essential utility",
+     "description": "Environmental Protection Agency officials say cyberattacks on U.S. water systems have surged several fold, shifting from ransomware to disruption.",
+     "source": "Fox News",
+     "publishedAt": "2026-10-03T10:00:38Z",
+     "domain": "foxnews.com",
+     "category": "wire_primary",
+     "origin": "foxnews.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 53.8,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.74,
+    "escalation": 0.161,
+    "severity": 0.8
+   },
+   "latest": "2026-10-03T10:00:38+00:00",
+   "rank": 24,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-3e97677b",
+   "home": "T14",
+   "topics": {
+    "T14": 2
+   },
+   "n_articles": 2,
+   "lead_url": "https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election",
+   "lead_title": "US and Australia suspend diplomatic operations in Brazil before election",
+   "lead_source": "Al Jazeera English",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T14",
+     "url": "https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election",
+     "title": "US and Australia suspend diplomatic operations in Brazil before election",
+     "description": "Security threats prompt US and Australia to suspend diplomatic operations in Brazil before pivotal election day.",
+     "source": "Al Jazeera English",
+     "publishedAt": "2026-10-03T00:46:10Z",
+     "domain": "aljazeera.com",
+     "category": "wire_primary",
+     "origin": "aljazeera.com"
+    },
+    {
+     "topic": "T14",
+     "url": "https://abcnews.com/International/wireStory/us-australia-suspend-consular-services-brazil-ahead-election-136961836",
+     "title": "US, Australia suspend consular services in Brazil ahead of election",
+     "description": "U.S. consular services and the Australian embassy have closed in Brazil due to security concerns",
+     "source": "Abcnews.com",
+     "publishedAt": "2026-10-02T22:26:04Z",
+     "domain": "abcnews.com",
+     "category": "wire_primary",
+     "origin": "abcnews.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 53.7,
+   "n_independent": 2,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.565,
+    "quality": 1.0,
+    "recency": 0.519,
+    "escalation": 0.0,
+    "severity": 0.9
+   },
+   "latest": "2026-10-03T00:46:10+00:00",
+   "rank": 25,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-b01b86a0",
+   "home": "T05",
+   "topics": {
+    "T05": 1,
+    "T06": 1
+   },
+   "n_articles": 2,
+   "lead_url": "https://www.aljazeera.com/news/2026/10/2/spains-parliament-rejects-govt-housing-decrees-amid-mass-protests",
+   "lead_title": "Spain\u2019s parliament rejects gov\u2019t housing decrees amid mass protests",
+   "lead_source": "Al Jazeera English",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T06",
+     "url": "https://www.aljazeera.com/news/2026/10/2/spains-parliament-rejects-govt-housing-decrees-amid-mass-protests",
+     "title": "Spain\u2019s parliament rejects gov\u2019t housing decrees amid mass protests",
+     "description": "Both decrees to tackle housing affordability crisis shot down as critics say measures would tighten the housing market.",
+     "source": "Al Jazeera English",
+     "publishedAt": "2026-10-02T15:01:08Z",
+     "domain": "aljazeera.com",
+     "category": "wire_primary",
+     "origin": "aljazeera.com"
+    },
+    {
+     "topic": "T05",
+     "url": "https://www.politico.eu/article/spains-sanchez-weighs-calling-snap-election-as-housing-defeat-looms/",
+     "title": "Spain\u2019s S\u00e1nchez weighs calling snap election as housing defeat looms",
+     "description": "The prime minister could seize on a looming parliamentary defeat to campaign on housing, an issue that has fueled protests across the country.",
+     "source": "POLITICO.eu",
+     "publishedAt": "2026-10-02T09:33:32Z",
+     "domain": "politico.eu",
+     "category": "wire_primary",
+     "origin": "politico.eu"
+    }
+   ],
+   "contradictions": [],
+   "score": 52.7,
+   "n_independent": 2,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.565,
+    "quality": 1.0,
+    "recency": 0.356,
+    "escalation": 0.095,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T15:01:08+00:00",
+   "rank": 26,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-fb5a4239",
+   "home": "T06",
+   "topics": {
+    "T06": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.foxnews.com/world/frances-teen-riots-take-explosive-new-turn-government-points-finger-hard-left",
+   "lead_title": "France\u2019s teen riots take explosive new turn as government points finger at hard left",
+   "lead_source": "Fox News",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T06",
+     "url": "https://www.foxnews.com/world/frances-teen-riots-take-explosive-new-turn-government-points-finger-hard-left",
+     "title": "France\u2019s teen riots take explosive new turn as government points finger at hard left",
+     "description": "Riot police clashed with teenagers across France as roughly 400 high schools closed and some 2,000 people were arrested amid escalating student unrest.",
+     "source": "Fox News",
+     "publishedAt": "2026-10-02T14:27:11Z",
+     "domain": "foxnews.com",
+     "category": "wire_primary",
+     "origin": "foxnews.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 52.5,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.349,
+    "escalation": 0.423,
+    "severity": 0.6
+   },
+   "latest": "2026-10-02T14:27:11+00:00",
+   "rank": 27,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-4840fabf",
+   "home": "T08",
+   "topics": {
+    "T08": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president",
+   "lead_title": "Somalia won\u2019t accept Israeli presence \u2018under any circumstances\u2019: President",
+   "lead_source": "Al Jazeera English",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T08",
+     "url": "https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president",
+     "title": "Somalia won\u2019t accept Israeli presence \u2018under any circumstances\u2019: President",
+     "description": "In exclusive Al Jazeera interview, President Hassan Sheikh Mohamud says Israel planning a naval base in Berbera.",
+     "source": "Al Jazeera English",
+     "publishedAt": "2026-10-03T16:25:03Z",
+     "domain": "aljazeera.com",
+     "category": "wire_primary",
+     "origin": "aljazeera.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 51.9,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.947,
+    "escalation": 0.0,
+    "severity": 0.7
+   },
+   "latest": "2026-10-03T16:25:03+00:00",
+   "rank": 28,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-f053ca14",
+   "home": "T08",
+   "topics": {
+    "T08": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://timesofindia.indiatimes.com/world/pakistan/policeman-killed-in-gunmen-attack-in-pakistans-khyber-pakhtunkhwa/articleshow/134641420.cms",
+   "lead_title": "Policeman killed in gunmen attack in Pakistan\u2019s khyber pakhtunkhwa",
+   "lead_source": "The Times of India",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T08",
+     "url": "https://timesofindia.indiatimes.com/world/pakistan/policeman-killed-in-gunmen-attack-in-pakistans-khyber-pakhtunkhwa/articleshow/134641420.cms",
+     "title": "Policeman killed in gunmen attack in Pakistan\u2019s khyber pakhtunkhwa",
+     "description": "In a shocking incident in Khyber Pakhtunkhwa, Pakistan, a police officer was brutally killed by two armed assailants on a motorcycle. The attack, which involved the use of a hand grenade and gunfire, occurred outside a hospital. The banned militant group Tehr\u2026",
+     "source": "The Times of India",
+     "publishedAt": "2026-10-02T14:14:29Z",
+     "domain": "indiatimes.com",
+     "category": "established",
+     "origin": "indiatimes.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 51.2,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.346,
+    "escalation": 0.573,
+    "severity": 0.7
+   },
+   "latest": "2026-10-02T14:14:29+00:00",
+   "rank": 29,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-f32e1d91",
+   "home": "T13",
+   "topics": {
+    "T13": 2
+   },
+   "n_articles": 2,
+   "lead_url": "https://www.aljazeera.com/news/2026/10/2/greece-pushes-eu-to-suspend-asylum-during-mass-migration-surges",
+   "lead_title": "Greece pushes EU to suspend asylum during mass migration surges",
+   "lead_source": "Al Jazeera English",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T13",
+     "url": "https://www.aljazeera.com/news/2026/10/2/greece-pushes-eu-to-suspend-asylum-during-mass-migration-surges",
+     "title": "Greece pushes EU to suspend asylum during mass migration surges",
+     "description": "EU migration pact improvements face criticism for insufficient tools to manage large-scale migration emergencies.",
+     "source": "Al Jazeera English",
+     "publishedAt": "2026-10-02T06:16:14Z",
+     "domain": "aljazeera.com",
+     "category": "wire_primary",
+     "origin": "aljazeera.com"
+    },
+    {
+     "topic": "T13",
+     "url": "https://www.dw.com/en/eu-ministers-mull-new-ways-to-curb-irregular-migration/a-79509375",
+     "title": "EU ministers mull new ways to curb irregular migration",
+     "description": "The proposals include setting up so-called return hubs outside the EU and strengthening the border agency Frontex. Greece has even proposed temporarily suspending asylum applications in emergency situations. The interior ministers of European Union countries \u2026",
+     "source": "DW (English)",
+     "publishedAt": "2026-10-02T00:54:00Z",
+     "domain": "dw.com",
+     "category": "wire_primary",
+     "origin": "dw.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 50.8,
+   "n_independent": 2,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.565,
+    "quality": 1.0,
+    "recency": 0.254,
+    "escalation": 0.161,
+    "severity": 0.6
+   },
+   "latest": "2026-10-02T06:16:14+00:00",
+   "rank": 30,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-41abca42",
+   "home": "T08",
+   "topics": {
+    "T08": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.foxnews.com/opinion/broadcast-bias-flydubai-benghazi-media-struggle-keep-politics-out-terrorism",
+   "lead_title": "BROADCAST BIAS: From FlyDubai to Benghazi, the media struggle to keep politics out of terrorism",
+   "lead_source": "Fox News",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T08",
+     "url": "https://www.foxnews.com/opinion/broadcast-bias-flydubai-benghazi-media-struggle-keep-politics-out-terrorism",
+     "title": "BROADCAST BIAS: From FlyDubai to Benghazi, the media struggle to keep politics out of terrorism",
+     "description": "FlyDubai cockpit violence coverage drew criticism as networks worried Trump and Netanyahu might spin the terrorism incident for political gain.",
+     "source": "Fox News",
+     "publishedAt": "2026-10-03T12:00:01Z",
+     "domain": "foxnews.com",
+     "category": "wire_primary",
+     "origin": "foxnews.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 49.7,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.799,
+    "escalation": 0.0,
+    "severity": 0.7
+   },
+   "latest": "2026-10-03T12:00:01+00:00",
+   "rank": 31,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-b6519427",
+   "home": "T01",
+   "topics": {
+    "T01": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.gov.uk/government/news/joint-statement-from-defence-ministers-of-the-joint-expeditionary-force-02-october-2026",
+   "lead_title": "Joint Statement from Defence Ministers of the Joint Expeditionary Force: 02 October 2026",
+   "lead_source": "Www.gov.uk",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T01",
+     "url": "https://www.gov.uk/government/news/joint-statement-from-defence-ministers-of-the-joint-expeditionary-force-02-october-2026",
+     "title": "Joint Statement from Defence Ministers of the Joint Expeditionary Force: 02 October 2026",
+     "description": "Defence Ministers of the Joint Expeditionary Force (JEF) and Allies met at Keflavik Air Base, Iceland, today (02 October) to advance the JEF's role as a key pillar of European and Euro-Atlantic security.",
+     "source": "Www.gov.uk",
+     "publishedAt": "2026-10-03T11:43:18Z",
+     "domain": "gov.uk",
+     "category": "wire_primary",
+     "origin": "gov.uk"
+    }
+   ],
+   "contradictions": [],
+   "score": 49.5,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.791,
+    "escalation": 0.0,
+    "severity": 0.7
+   },
+   "latest": "2026-10-03T11:43:18+00:00",
+   "rank": 32,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-005aa830",
+   "home": "T05",
+   "topics": {
+    "T05": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.cbc.ca/news/politics/alberta-separation-economic-impact-documents-9.7367260",
+   "lead_title": "Internal documents detail Ottawa's economic worries over Alberta referendum",
+   "lead_source": "CBC News",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T05",
+     "url": "https://www.cbc.ca/news/politics/alberta-separation-economic-impact-documents-9.7367260",
+     "title": "Internal documents detail Ottawa's economic worries over Alberta referendum",
+     "description": "Internal federal documents offer insights into how Ottawa is assessing the economic fallout from the possibility of Alberta separating from Canada and becoming an independent state.",
+     "source": "CBC News",
+     "publishedAt": "2026-10-03T08:00:00Z",
+     "domain": "cbc.ca",
+     "category": "wire_primary",
+     "origin": "cbc.ca"
+    }
+   ],
+   "contradictions": [],
+   "score": 49.0,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.685,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-03T08:00:00+00:00",
+   "rank": 33,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-b1cb5b83",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.fairobserver.com/world-news/fo-talks-trumps-dangerous-new-playbook/",
+   "lead_title": "FO Talks: Trump\u2019s Dangerous New Playbook",
+   "lead_source": "Fair Observer",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.fairobserver.com/world-news/fo-talks-trumps-dangerous-new-playbook/",
+     "title": "FO Talks: Trump\u2019s Dangerous New Playbook",
+     "description": "Editor-in-Chief Atul Singh and former US Ambassador Gary Grappo, who served as Envoy and Head of Mission of the Office of the Quartet Representative Tony Blair in Jerusalem, examine the Trump administration\u2019s approach to allies, adversaries and nuclear weapon\u2026",
+     "source": "Fair Observer",
+     "publishedAt": "2026-10-03T13:11:18Z",
+     "domain": "fairobserver.com",
+     "category": "established",
+     "origin": "fairobserver.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 48.7,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.837,
+    "escalation": 0.139,
+    "severity": 0.8
+   },
+   "latest": "2026-10-03T13:11:18+00:00",
+   "rank": 34,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-5d029af0",
+   "home": "T07",
+   "topics": {
+    "T07": 2
+   },
+   "n_articles": 2,
+   "lead_url": "https://www.israelnationalnews.com/flashes/694672",
+   "lead_title": "Senate secures vote on Trump\u2019s Saudi nuclear deal",
+   "lead_source": "Israelnationalnews.com",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T07",
+     "url": "https://www.israelnationalnews.com/flashes/694672",
+     "title": "Senate secures vote on Trump\u2019s Saudi nuclear deal",
+     "description": "US senators secure a vote on Trump\u2019s proposed Saudi nuclear pact, with concerns over uranium enrichment and its potential impact on regional proliferation.(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Simchat\u2026",
+     "source": "Israelnationalnews.com",
+     "publishedAt": "2026-10-02T21:42:18Z",
+     "domain": "israelnationalnews.com",
+     "category": "established",
+     "origin": "israelnationalnews.com"
+    },
+    {
+     "topic": "T07",
+     "url": "https://www.israelnationalnews.com/news/434023",
+     "title": "Senate secures vote on Trump\u2019s Saudi nuclear deal",
+     "description": "US senators secure a vote on Trump\u2019s proposed Saudi nuclear pact, with concerns over uranium enrichment and its potential impact on regional proliferation.",
+     "source": "Israelnationalnews.com",
+     "publishedAt": "2026-10-02T21:42:17Z",
+     "domain": "israelnationalnews.com",
+     "category": "established",
+     "origin": "israelnationalnews.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 48.1,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.461,
+    "escalation": 0.259,
+    "severity": 1.0
+   },
+   "latest": "2026-10-02T21:42:18+00:00",
+   "rank": 35,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-1b703118",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 2
+   },
+   "n_articles": 2,
+   "lead_url": "https://gcaptain.com/us-adds-carrier-and-10000-troops-to-mideast/",
+   "lead_title": "US Adds Carrier And 10,000 Troops To Mideast",
+   "lead_source": "gcaptain.com",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://gcaptain.com/us-adds-carrier-and-10000-troops-to-mideast/",
+     "title": "US Adds Carrier And 10,000 Troops To Mideast",
+     "description": "By\u00a0Tony Capaccio Oct 3, 2026 (Bloomberg) \u2013The Pentagon is deploying an additional aircraft carrier and 10,000 sailors and Marines to the Persian Gulf, according to a US official, a move...",
+     "source": "gcaptain.com",
+     "publishedAt": "2026-10-03T17:49:24Z",
+     "domain": "gcaptain.com",
+     "category": "established",
+     "origin": "gcaptain.com"
+    },
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://biztoc.com/x/0bc88566a3880989",
+     "title": "US Military Buildup Raises Iran Escalation Risk",
+     "description": "Washington Institute research director Dana Stroul tells Bloomberg This Weekend that the US military buildup in the Middle East, ...",
+     "source": "Biztoc.com",
+     "publishedAt": "2026-10-03T16:25:36Z",
+     "domain": "biztoc.com",
+     "category": "aggregator",
+     "origin": null
+    }
+   ],
+   "contradictions": [],
+   "score": 47.7,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 1.0,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-03T17:49:24+00:00",
+   "rank": 36,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-a0bf7b3f",
+   "home": "T03",
+   "topics": {
+    "T03": 2
+   },
+   "n_articles": 2,
+   "lead_url": "https://www.foxnews.com/tech/chinese-ai-model-investigated-researcher-says-provided-instructions-bioweapons-assassinations",
+   "lead_title": "Chinese AI model investigated after researcher says it provided instructions for bioweapons, assassinations",
+   "lead_source": "Fox News",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T03",
+     "url": "https://www.foxnews.com/tech/chinese-ai-model-investigated-researcher-says-provided-instructions-bioweapons-assassinations",
+     "title": "Chinese AI model investigated after researcher says it provided instructions for bioweapons, assassinations",
+     "description": "Researcher Peter Garrigan says Moonshot AI's Kimi model was manipulated into providing instructions for biological weapons and assassination plans.",
+     "source": "Fox News",
+     "publishedAt": "2026-10-02T01:31:03Z",
+     "domain": "foxnews.com",
+     "category": "wire_primary",
+     "origin": "foxnews.com"
+    },
+    {
+     "topic": "T03",
+     "url": "https://freerepublic.com/focus/f-chat/4397746/posts",
+     "title": "Chinese AI model investigated after researcher says it provided instructions for bioweapons, assassinations",
+     "description": "Chinese AI company Moonshot AI has launched an internal investigation after a researcher found that one of its models could be manipulated into providing instructions for developing biological weapons and carrying out assassinations, Fox News senior foreign p\u2026",
+     "source": "Freerepublic.com",
+     "publishedAt": "2026-10-02T22:15:30Z",
+     "domain": "freerepublic.com",
+     "category": "aggregator",
+     "origin": null
+    }
+   ],
+   "contradictions": [],
+   "score": 47.7,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.471,
+    "escalation": 0.0,
+    "severity": 1.0
+   },
+   "latest": "2026-10-02T22:15:30+00:00",
+   "rank": 37,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-b88f246a",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://sputnikglobe.com/20261003/russia-strikes-ukrainian-military-linked-dry-cargo-ship-in-port-of-odessa---mod-1124830195.html",
+   "lead_title": "Russia Strikes Ukrainian Military-Linked Dry-Cargo Ship in Port of Odessa - MoD",
+   "lead_source": "Sputnikglobe.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://sputnikglobe.com/20261003/russia-strikes-ukrainian-military-linked-dry-cargo-ship-in-port-of-odessa---mod-1124830195.html",
+     "title": "Russia Strikes Ukrainian Military-Linked Dry-Cargo Ship in Port of Odessa - MoD",
+     "description": "MOSCOW (Sputnik) - The Russian Armed Forces used drones to strike a dry-cargo ship in the port of Odessa that was delivering military supplies for Ukraine, the Russian Defense Ministry said on Saturday.",
+     "source": "Sputnikglobe.com",
+     "publishedAt": "2026-10-03T16:23:29Z",
+     "domain": "sputnikglobe.com",
+     "category": "state_affiliated",
+     "origin": "sputnikglobe.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 47.5,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.946,
+    "escalation": 0.346,
+    "severity": 0.8
+   },
+   "latest": "2026-10-03T16:23:29+00:00",
+   "rank": 38,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-59e76f47",
+   "home": "T10",
+   "topics": {
+    "T10": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://activistpost.com/america-can-print-money-but-it-cant-print-the-missiles-it-needs/",
+   "lead_title": "America Can Print Money\u2014But It Can\u2019t Print the Missiles It Needs",
+   "lead_source": "Activistpost.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T10",
+     "url": "https://activistpost.com/america-can-print-money-but-it-cant-print-the-missiles-it-needs/",
+     "title": "America Can Print Money\u2014But It Can\u2019t Print the Missiles It Needs",
+     "description": "THAAD is one of the military-industrial complex\u2019s most expensive boondoggles\u2014and most Americans have never heard of it. The Terminal High Altitude Area Defense (THAAD) system ranks among America\u2019s most advanced ballistic-missile defenses. It aims to intercept\u2026",
+     "source": "Activistpost.com",
+     "publishedAt": "2026-10-03T16:07:00Z",
+     "domain": "activistpost.com",
+     "category": "advocacy_opinion",
+     "origin": "activistpost.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 47.4,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.936,
+    "escalation": 0.465,
+    "severity": 0.5
+   },
+   "latest": "2026-10-03T16:07:00+00:00",
+   "rank": 39,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-6b6ed745",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ru-ua": 1,
+    "flagship-ir-il": 2
+   },
+   "n_articles": 3,
+   "lead_url": "https://www.rferl.org/a/us-targets-russia-a7-network-iran-sanctions/33868974.html",
+   "lead_title": "US Targets Russia's A7 Network In New Iran Sanctions Push",
+   "lead_source": "Radio Free Europe/ Radio Liberty",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.rferl.org/a/us-targets-russia-a7-network-iran-sanctions/33868974.html",
+     "title": "US Targets Russia's A7 Network In New Iran Sanctions Push",
+     "description": "US authorities designated the A7 financial network as a \"significant transnational criminal organization,\" the latest in a series of steps by Western authorities to try and choke the sprawling Kremlin-backed sanctions-evading scheme.",
+     "source": "Radio Free Europe/ Radio Liberty",
+     "publishedAt": "2026-10-02T09:52:06Z",
+     "domain": "rferl.org",
+     "category": "established",
+     "origin": "rferl.org"
+    },
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://cryptobriefing.com/a7-denies-iran-links-us-sanctions/",
+     "title": "A7 denies Iran links after US Treasury sanctions the Russian payments network",
+     "description": "The sanctions on A7 highlight the increasing scrutiny on digital currencies, potentially reshaping global financial compliance norms.\nThe post A7 denies Iran links after US Treasury sanctions the Russian payments network appeared first on Crypto Briefing.",
+     "source": "Crypto Briefing",
+     "publishedAt": "2026-10-02T08:59:50Z",
+     "domain": "cryptobriefing.com",
+     "category": "established",
+     "origin": "cryptobriefing.com"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://decrypt.co/379921/us-designates-russias-a7-network-as-transnational-criminal-organization",
+     "title": "US Designates Russia's A7 Network as Transnational Criminal Organization",
+     "description": "Treasury's proposed rule aims to cut A7's front companies off from U.S. finance\u2014including crypto, where its ruble token moved $179 billion.",
+     "source": "Decrypt",
+     "publishedAt": "2026-10-02T11:28:41Z",
+     "domain": "decrypt.co",
+     "category": "unclassified",
+     "origin": "decrypt.co"
+    }
+   ],
+   "contradictions": [],
+   "score": 47.2,
+   "n_independent": 3,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.712,
+    "quality": 0.66,
+    "recency": 0.311,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T11:28:41+00:00",
+   "rank": 40,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-186f35b4",
+   "home": "T05",
+   "topics": {
+    "T05": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.npr.org/2026/10/02/nx-s1-5989727/brazil-election-lula-bolsonaro-flavio-democracy",
+   "lead_title": "Brazil's big political rematch: What to know",
+   "lead_source": "NPR",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T05",
+     "url": "https://www.npr.org/2026/10/02/nx-s1-5989727/brazil-election-lula-bolsonaro-flavio-democracy",
+     "title": "Brazil's big political rematch: What to know",
+     "description": "Four years after President Lula narrowly defeated Jair Bolsonaro, Brazil is back at the ballot box. This time, Lula faces Bolsonaro's son, Fl\u00e1vio, in a high-stakes rematch.",
+     "source": "NPR",
+     "publishedAt": "2026-10-03T02:57:07Z",
+     "domain": "npr.org",
+     "category": "wire_primary",
+     "origin": "npr.org"
+    }
+   ],
+   "contradictions": [],
+   "score": 47.1,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.564,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-03T02:57:07+00:00",
+   "rank": 41,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-1b7029b2",
+   "home": "T12",
+   "topics": {
+    "T12": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://financialpost.com/cybersecurity/hackers-breached-oil-tanker-propulsion-system",
+   "lead_title": "Hackers breached propulsion system of U.S.-bound oil tanker",
+   "lead_source": "Financial Post",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T12",
+     "url": "https://financialpost.com/cybersecurity/hackers-breached-oil-tanker-propulsion-system",
+     "title": "Hackers breached propulsion system of U.S.-bound oil tanker",
+     "description": "U.S. investigators found evidence that hackers accessed the propulsion system of an oil tanker as it approached the Texas coast. Read on",
+     "source": "Financial Post",
+     "publishedAt": "2026-10-02T20:40:27Z",
+     "domain": "financialpost.com",
+     "category": "established",
+     "origin": "financialpost.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 46.7,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.443,
+    "escalation": 0.295,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T20:40:27+00:00",
+   "rank": 42,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-b78c1e03",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://nypost.com/2026/10/02/world-news/putin-orders-russian-troops-to-abandon-rules-of-war-zelensky/",
+   "lead_title": "Putin orders military leaders to target civilians and nuclear facilities, Zelensky warns: \u2018No rules now\u2019",
+   "lead_source": "New York Post",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://nypost.com/2026/10/02/world-news/putin-orders-russian-troops-to-abandon-rules-of-war-zelensky/",
+     "title": "Putin orders military leaders to target civilians and nuclear facilities, Zelensky warns: \u2018No rules now\u2019",
+     "description": "\"He [Putin] said there are no rules now,\" Ukrainian President Volodymyr Zelensky said.",
+     "source": "New York Post",
+     "publishedAt": "2026-10-02T21:58:53Z",
+     "domain": "nypost.com",
+     "category": "established",
+     "origin": "nypost.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 46.2,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.466,
+    "escalation": 0.259,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T21:58:53+00:00",
+   "rank": 43,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-8bc056e2",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://sputnikglobe.com/20261003/russia-to-continue-retaliatory-strikes-on-military-targets-in-ukraine---mod-1124829500.html",
+   "lead_title": "Russia to Continue Retaliatory Strikes on Military Targets in Ukraine - Foreign Ministry",
+   "lead_source": "Sputnikglobe.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://sputnikglobe.com/20261003/russia-to-continue-retaliatory-strikes-on-military-targets-in-ukraine---mod-1124829500.html",
+     "title": "Russia to Continue Retaliatory Strikes on Military Targets in Ukraine - Foreign Ministry",
+     "description": "MOSCOW (Sputnik) - Russia will continue large-scale retaliatory strikes against military targets in Ukraine in response to Kiev's terror against Russians, the Russian Foreign Ministry stated on Saturday.",
+     "source": "Sputnikglobe.com",
+     "publishedAt": "2026-10-03T10:59:13Z",
+     "domain": "sputnikglobe.com",
+     "category": "state_affiliated",
+     "origin": "sputnikglobe.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 46.1,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.769,
+    "escalation": 0.393,
+    "severity": 0.8
+   },
+   "latest": "2026-10-03T10:59:13+00:00",
+   "rank": 44,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-4591a106",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://en.protothema.gr/2026/10/03/lukoils-20-billion-deal-the-oil-battle-uniting-trump-putin-and-gulf-billionaires/",
+   "lead_title": "Lukoil\u2019s $20 billion deal: the oil \u2018battle\u2019 uniting Trump, Putin and Gulf billionaires",
+   "lead_source": "Protothema.gr",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://en.protothema.gr/2026/10/03/lukoils-20-billion-deal-the-oil-battle-uniting-trump-putin-and-gulf-billionaires/",
+     "title": "Lukoil\u2019s $20 billion deal: the oil \u2018battle\u2019 uniting Trump, Putin and Gulf billionaires",
+     "description": "The sale of Lukoil's international assets, worth around $20 billion, has moved from sanctions policy into the talks between Washington and Moscow, with a Boehly-led consortium backed by Gulf investors and a US state agency challenging Carlyle's earlier agreem\u2026",
+     "source": "Protothema.gr",
+     "publishedAt": "2026-10-03T14:33:00Z",
+     "domain": "protothema.gr",
+     "category": "established",
+     "origin": "protothema.gr"
+    }
+   ],
+   "contradictions": [],
+   "score": 45.9,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.882,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-03T14:33:00+00:00",
+   "rank": 45,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-913b3901",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 2
+   },
+   "n_articles": 2,
+   "lead_url": "https://economictimes.indiatimes.com/news/international/world-news/indias-russia-ukraine-peace-proposal-most-comprehensive-among-four-plans-kyiv/articleshow/134661471.cms",
+   "lead_title": "India's Russia-Ukraine peace proposal 'most comprehensive' among four plans: Kyiv",
+   "lead_source": "The Times of India",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://economictimes.indiatimes.com/news/international/world-news/indias-russia-ukraine-peace-proposal-most-comprehensive-among-four-plans-kyiv/articleshow/134661471.cms",
+     "title": "India's Russia-Ukraine peace proposal 'most comprehensive' among four plans: Kyiv",
+     "description": "Ukraine is evaluating four international proposals to resolve the ongoing Russia-Ukraine conflict, highlighting India's comprehensive approach. Foreign Minister Andrii Sybiha noted India's newfound willingness to engage in the peace process. Other proposals i\u2026",
+     "source": "The Times of India",
+     "publishedAt": "2026-10-03T14:23:41Z",
+     "domain": "indiatimes.com",
+     "category": "established",
+     "origin": "indiatimes.com"
+    },
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://timesofindia.indiatimes.com/india/most-comprehensive-plan-ukraine-confirms-india-playing-role-in-mediating-energy-truce-in-black-sea/articleshow/134659507.cms",
+     "title": "'Most comprehensive plan': Ukraine confirms India playing role in mediating energy truce in Black Sea",
+     "description": "Ukraine has expressed readiness to explore India's comprehensive proposal for ending the ongoing Russia-Ukraine conflict. During recent communications, Ukrainian Foreign Minister Andrii Sybiha emphasized the importance of India's mediation role. India's exter\u2026",
+     "source": "The Times of India",
+     "publishedAt": "2026-10-03T12:28:02Z",
+     "domain": "indiatimes.com",
+     "category": "established",
+     "origin": "indiatimes.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 45.8,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.876,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-03T14:23:41+00:00",
+   "rank": 46,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-109a25d6",
+   "home": "T05",
+   "topics": {
+    "T05": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://nypost.com/2026/10/03/opinion/lula-is-turning-brazil-into-another-venezuela/",
+   "lead_title": "Brazilian voters heading to the poll this weekend say Lula is turning the country into \u2018another Venezuela\u2019",
+   "lead_source": "New York Post",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T05",
+     "url": "https://nypost.com/2026/10/03/opinion/lula-is-turning-brazil-into-another-venezuela/",
+     "title": "Brazilian voters heading to the poll this weekend say Lula is turning the country into \u2018another Venezuela\u2019",
+     "description": "This election is turning into a Carnaval.",
+     "source": "New York Post",
+     "publishedAt": "2026-10-03T14:00:00Z",
+     "domain": "nypost.com",
+     "category": "established",
+     "origin": "nypost.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 45.6,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.863,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-03T14:00:00+00:00",
+   "rank": 47,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-c4448e29",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.aljazeera.com/news/2026/10/2/israel-couldve-ended-gaza-war-freed-captives-sooner-israel-ex-negotiator",
+   "lead_title": "Israel could\u2019ve ended Gaza war, freed captives sooner: Israel ex-negotiator",
+   "lead_source": "Al Jazeera English",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.aljazeera.com/news/2026/10/2/israel-couldve-ended-gaza-war-freed-captives-sooner-israel-ex-negotiator",
+     "title": "Israel could\u2019ve ended Gaza war, freed captives sooner: Israel ex-negotiator",
+     "description": "Retired General Nitzan Alon says more captives could have returned alive and a deal was possible 'maybe a year earlier'.",
+     "source": "Al Jazeera English",
+     "publishedAt": "2026-10-02T21:53:17Z",
+     "domain": "aljazeera.com",
+     "category": "wire_primary",
+     "origin": "aljazeera.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 45.6,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.464,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T21:53:17+00:00",
+   "rank": 48,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-7897621b",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.rt.com/news/646682-china-iran-civilian-nuclear-program/",
+   "lead_title": "Iran has \u2018legitimate right\u2019 to civilian nuclear program \u2013 China",
+   "lead_source": "RT",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.rt.com/news/646682-china-iran-civilian-nuclear-program/",
+     "title": "Iran has \u2018legitimate right\u2019 to civilian nuclear program \u2013 China",
+     "description": "China defended Iran\u2019s peaceful nuclear rights after joining Russia in blocking a US resolution on UN sanctions monitoring Read Full Article at RT.com",
+     "source": "RT",
+     "publishedAt": "2026-10-03T16:45:02Z",
+     "domain": "rt.com",
+     "category": "state_affiliated",
+     "origin": "rt.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 45.6,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.96,
+    "escalation": 0.259,
+    "severity": 0.8
+   },
+   "latest": "2026-10-03T16:45:02+00:00",
+   "rank": 49,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-f5bbf2bc",
+   "home": "T06",
+   "topics": {
+    "T06": 2
+   },
+   "n_articles": 2,
+   "lead_url": "https://en.protothema.gr/2026/10/02/riots-in-france-school-fires-by-france-born-migrants-expose-multiculturalisms-collapse-and-boost-le-pen-videos/",
+   "lead_title": "Riots in France: School fires by France-born migrants expose multiculturalism\u2019s collapse and boost Le Pen (videos)",
+   "lead_source": "Protothema.gr",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T06",
+     "url": "https://en.protothema.gr/2026/10/02/riots-in-france-school-fires-by-france-born-migrants-expose-multiculturalisms-collapse-and-boost-le-pen-videos/",
+     "title": "Riots in France: School fires by France-born migrants expose multiculturalism\u2019s collapse and boost Le Pen (videos)",
+     "description": "Second and third-generation migrant rioters torch schools and assault people, turning education protests into proof that multiculturalism has failed and that Le Pen\u2019s case is strengthening\nThe post Riots in France: School fires by France-born migrants expose \u2026",
+     "source": "Protothema.gr",
+     "publishedAt": "2026-10-02T05:44:00Z",
+     "domain": "protothema.gr",
+     "category": "established",
+     "origin": "protothema.gr"
+    },
+    {
+     "topic": "T06",
+     "url": "https://freerepublic.com/focus/f-news/4397750/posts",
+     "title": "Riots in France: School fires by France-born migrants expose multiculturalism\u2019s collapse and boost Le Pen (videos)",
+     "description": "Second and third-generation migrant rioters torch schools and assault people, turning education protests into proof that multiculturalism has failed and that Le Pen\u2019s case is strengtheningSchool blockades in France escalated into arson and assaults on staff a\u2026",
+     "source": "Freerepublic.com",
+     "publishedAt": "2026-10-02T23:37:17Z",
+     "domain": "freerepublic.com",
+     "category": "aggregator",
+     "origin": null
+    }
+   ],
+   "contradictions": [],
+   "score": 45.5,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.496,
+    "escalation": 0.295,
+    "severity": 0.6
+   },
+   "latest": "2026-10-02T23:37:17+00:00",
+   "rank": 50,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-360f4394",
+   "home": "T12",
+   "topics": {
+    "T12": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://abcnews.com/Business/openai-reveals-hack-government-agency-australia/story?id=136945837",
+   "lead_title": "OpenAI reveals another hack into a government agency in Australia",
+   "lead_source": "Abcnews.com",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T12",
+     "url": "https://abcnews.com/Business/openai-reveals-hack-government-agency-australia/story?id=136945837",
+     "title": "OpenAI reveals another hack into a government agency in Australia",
+     "description": "The disclosure adds to a flurry of AI hacks revealed by the company in recent months.",
+     "source": "Abcnews.com",
+     "publishedAt": "2026-10-02T21:08:03Z",
+     "domain": "abcnews.com",
+     "category": "wire_primary",
+     "origin": "abcnews.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 45.4,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.451,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T21:08:03+00:00",
+   "rank": 51,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-f167ab4d",
+   "home": "T12",
+   "topics": {
+    "T12": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.infosecurity-magazine.com/news/microsoft-ai-attack-time-minutes/",
+   "lead_title": "Microsoft: AI Cuts Post-Compromise Attack Time to Minutes",
+   "lead_source": "Infosecurity Magazine",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T12",
+     "url": "https://www.infosecurity-magazine.com/news/microsoft-ai-attack-time-minutes/",
+     "title": "Microsoft: AI Cuts Post-Compromise Attack Time to Minutes",
+     "description": "Microsoft has warned that threat actors have gained the advantage over defenders by using AI to enhance the speed and scale of attacks",
+     "source": "Infosecurity Magazine",
+     "publishedAt": "2026-10-02T14:15:00Z",
+     "domain": "infosecurity-magazine.com",
+     "category": "established",
+     "origin": "infosecurity-magazine.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 45.3,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.346,
+    "escalation": 0.295,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T14:15:00+00:00",
+   "rank": 52,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-efdd72b3",
+   "home": "T01",
+   "topics": {
+    "T01": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.aljazeera.com/opinions/2026/10/2/washingtons-diplomacy-in-sudan-has-backfired",
+   "lead_title": "Washington\u2019s diplomacy in Sudan has backfired",
+   "lead_source": "Al Jazeera English",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T01",
+     "url": "https://www.aljazeera.com/opinions/2026/10/2/washingtons-diplomacy-in-sudan-has-backfired",
+     "title": "Washington\u2019s diplomacy in Sudan has backfired",
+     "description": "Pressure meant to isolate Sudan\u2019s army has instead left Washington isolated and a ceasefire further out of reach.",
+     "source": "Al Jazeera English",
+     "publishedAt": "2026-10-02T11:41:45Z",
+     "domain": "aljazeera.com",
+     "category": "wire_primary",
+     "origin": "aljazeera.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 44.8,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.313,
+    "escalation": 0.095,
+    "severity": 0.7
+   },
+   "latest": "2026-10-02T11:41:45+00:00",
+   "rank": 53,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-32a3f784",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.rt.com/news/646650-rt-top-stories-lavrov-putin/",
+   "lead_title": "UK plays the blame game, terror in the skies, Russia\u2019s red lines: RT stories that shaped the week",
+   "lead_source": "RT",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.rt.com/news/646650-rt-top-stories-lavrov-putin/",
+     "title": "UK plays the blame game, terror in the skies, Russia\u2019s red lines: RT stories that shaped the week",
+     "description": "RT looks at the top news stories this week, including a dubious \u2018terror plot\u2019 at RAF Fairford, a nuclear warning from Moscow, and crisis on board an Israel-bound airliner",
+     "source": "RT",
+     "publishedAt": "2026-10-02T21:00:05Z",
+     "domain": "rt.com",
+     "category": "state_affiliated",
+     "origin": "rt.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 43.7,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.449,
+    "escalation": 0.491,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T21:00:05+00:00",
+   "rank": 54,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-b178d1d4",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.rferl.org/a/margaret-macmillan-russia-ukraine-global-conflict/33869360.html",
+   "lead_title": "'Russia Is Behaving Like A Rogue State': Historian Margaret MacMillan On The Risk Of A Wider Global Conflict",
+   "lead_source": "Radio Free Europe/ Radio Liberty",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.rferl.org/a/margaret-macmillan-russia-ukraine-global-conflict/33869360.html",
+     "title": "'Russia Is Behaving Like A Rogue State': Historian Margaret MacMillan On The Risk Of A Wider Global Conflict",
+     "description": "Historian Margaret MacMillan warns that increasingly interconnected wars are increasing the risk of a wider conflict, as she discusses Ukraine\u2019s future, Putin\u2019s Russia, NATO\u2019s vulnerabilities, and an emerging \u201cnew world disorder.\u201d",
+     "source": "Radio Free Europe/ Radio Liberty",
+     "publishedAt": "2026-10-03T07:45:52Z",
+     "domain": "rferl.org",
+     "category": "established",
+     "origin": "rferl.org"
+    }
+   ],
+   "contradictions": [],
+   "score": 42.9,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.679,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-03T07:45:52+00:00",
+   "rank": 55,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-2fffec21",
+   "home": "T01",
+   "topics": {
+    "T01": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.aljazeera.com/news/2026/10/2/ethiopian-govt-aligned-group-claims-close-to-full-control-of-tigray-region",
+   "lead_title": "Ethiopian gov\u2019t-aligned group claims close to full control of Tigray region",
+   "lead_source": "Al Jazeera English",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T01",
+     "url": "https://www.aljazeera.com/news/2026/10/2/ethiopian-govt-aligned-group-claims-close-to-full-control-of-tigray-region",
+     "title": "Ethiopian gov\u2019t-aligned group claims close to full control of Tigray region",
+     "description": "Claim comes as violence flares across northern Ethiopia, deteriorating diplomatic, humanitarian situations.",
+     "source": "Al Jazeera English",
+     "publishedAt": "2026-10-02T12:27:52Z",
+     "domain": "aljazeera.com",
+     "category": "wire_primary",
+     "origin": "aljazeera.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 42.5,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.323,
+    "escalation": 0.0,
+    "severity": 0.7
+   },
+   "latest": "2026-10-02T12:27:52+00:00",
+   "rank": 56,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-998780ca",
+   "home": "T04",
+   "topics": {
+    "T04": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://news.un.org/en/story/2026/10/1168515",
+   "lead_title": "Global life expectancy bounces back to near pre-pandemic levels, WHO says",
+   "lead_source": "UN News",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T04",
+     "url": "https://news.un.org/en/story/2026/10/1168515",
+     "title": "Global life expectancy bounces back to near pre-pandemic levels, WHO says",
+     "description": "People around the world are living longer again, with global life expectancy almost fully recovered from the disruption of the COVID-19 pandemic, the World Health Organization (WHO) said on Friday. Read Full Story on UN News\nThe post Global life expectancy bo\u2026",
+     "source": "UN News",
+     "publishedAt": "2026-10-02T12:00:00Z",
+     "domain": "un.org",
+     "category": "wire_primary",
+     "origin": "un.org"
+    }
+   ],
+   "contradictions": [],
+   "score": 42.4,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.317,
+    "escalation": 0.0,
+    "severity": 0.7
+   },
+   "latest": "2026-10-02T12:00:00+00:00",
+   "rank": 57,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-9642904e",
+   "home": "T01",
+   "topics": {
+    "T01": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.fairobserver.com/region/middle_east_north_africa/fo-talks-drone-warfare-and-foreign-meddling-in-sudans-devastating-civil-war/",
+   "lead_title": "FO Talks: Drone Warfare and Foreign Meddling in Sudan\u2019s Devastating Civil War",
+   "lead_source": "Fair Observer",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T01",
+     "url": "https://www.fairobserver.com/region/middle_east_north_africa/fo-talks-drone-warfare-and-foreign-meddling-in-sudans-devastating-civil-war/",
+     "title": "FO Talks: Drone Warfare and Foreign Meddling in Sudan\u2019s Devastating Civil War",
+     "description": "Assistant Editor Casey Hermann speaks with Fernando Carvajal, the executive director at The American Center for South Yemen Studies, about Sudan\u2019s bloody civil war. They examine the struggle between General Abdel Fattah al-Burhan\u2019s Sudanese Armed Forces (SAF)\u2026",
+     "source": "Fair Observer",
+     "publishedAt": "2026-10-02T14:00:02Z",
+     "domain": "fairobserver.com",
+     "category": "established",
+     "origin": "fairobserver.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 42.4,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.343,
+    "escalation": 0.221,
+    "severity": 0.7
+   },
+   "latest": "2026-10-02T14:00:02+00:00",
+   "rank": 58,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-e79dbc04",
+   "home": "T15",
+   "topics": {
+    "T15": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://economictimes.indiatimes.com/news/international/world-news/new-islands-appear-after-indonesias-anak-krakatau-volcano-erupts/articleshow/134653487.cms",
+   "lead_title": "New islands appear after Indonesia's Anak Krakatau volcano erupts",
+   "lead_source": "The Times of India",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T15",
+     "url": "https://economictimes.indiatimes.com/news/international/world-news/new-islands-appear-after-indonesias-anak-krakatau-volcano-erupts/articleshow/134653487.cms",
+     "title": "New islands appear after Indonesia's Anak Krakatau volcano erupts",
+     "description": "In the aftermath of last month's major eruption, satellite images show the emergence of two small islands surrounding Mount Anak Krakatau in the Sunda Strait. Authorities are currently evaluating the longevity of these islands, as they may be subject to erosi\u2026",
+     "source": "The Times of India",
+     "publishedAt": "2026-10-03T06:47:37Z",
+     "domain": "indiatimes.com",
+     "category": "established",
+     "origin": "indiatimes.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 41.5,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.654,
+    "escalation": 0.0,
+    "severity": 0.7
+   },
+   "latest": "2026-10-03T06:47:37+00:00",
+   "rank": 59,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-7f5289ff",
+   "home": "T08",
+   "topics": {
+    "T08": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://punchng.com/can-will-criticise-government-when-necessary-says-president/",
+   "lead_title": "CAN will criticise government when necessary, says president",
+   "lead_source": "The Punch",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T08",
+     "url": "https://punchng.com/can-will-criticise-government-when-necessary-says-president/",
+     "title": "CAN will criticise government when necessary, says president",
+     "description": "The Christian Association of Nigeria will criticise the government when it fails to protect citizens or violates their rights, its President, Daniel Okoh,\n\nRead More: https://punchng.com/can-will-criticise-government-when-necessary-says-president/",
+     "source": "The Punch",
+     "publishedAt": "2026-10-03T06:37:56Z",
+     "domain": "punchng.com",
+     "category": "established",
+     "origin": "punchng.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 41.4,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.65,
+    "escalation": 0.0,
+    "severity": 0.7
+   },
+   "latest": "2026-10-03T06:37:56+00:00",
+   "rank": 60,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-383a523f",
+   "home": "T06",
+   "topics": {
+    "T06": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.dailymail.com/news/article-16180097/Shocking-moment-left-wing-Parisian-mayor-joins-dancing-riots-grip-France-firefighter-buman-torch-protesters-threaten-burn-Elysee-Palace.html",
+   "lead_title": "Shocking moment left-wing Parisian mayor joins in the dancing as riots grip France - firefighter becomes buman torch as protesters threaten to burn down the Elysee Palace",
+   "lead_source": "Dailymail.com",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T06",
+     "url": "https://www.dailymail.com/news/article-16180097/Shocking-moment-left-wing-Parisian-mayor-joins-dancing-riots-grip-France-firefighter-buman-torch-protesters-threaten-burn-Elysee-Palace.html",
+     "title": "Shocking moment left-wing Parisian mayor joins in the dancing as riots grip France - firefighter becomes buman torch as protesters threaten to burn down the Elysee Palace",
+     "description": "A French mayor was filmed laughing and dancing with demonstrators outside a school as violent protests continue to grip the country.",
+     "source": "Dailymail.com",
+     "publishedAt": "2026-10-03T08:39:03Z",
+     "domain": "dailymail.com",
+     "category": "established",
+     "origin": "dailymail.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 41.2,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.702,
+    "escalation": 0.0,
+    "severity": 0.6
+   },
+   "latest": "2026-10-03T08:39:03+00:00",
+   "rank": 61,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-6221cd91",
+   "home": "T13",
+   "topics": {
+    "T13": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.aljazeera.com/features/2026/10/2/they-are-crying-refugees-in-malaysia-in-fear-amid-myanmar-deportation",
+   "lead_title": "\u2018They are crying\u2019: Refugees in Malaysia in fear amid Myanmar deportation",
+   "lead_source": "Al Jazeera English",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T13",
+     "url": "https://www.aljazeera.com/features/2026/10/2/they-are-crying-refugees-in-malaysia-in-fear-amid-myanmar-deportation",
+     "title": "\u2018They are crying\u2019: Refugees in Malaysia in fear amid Myanmar deportation",
+     "description": "Shrinking resources for refugee support groups in Malaysia collide with increasing hostility towards the Rohingya.",
+     "source": "Al Jazeera English",
+     "publishedAt": "2026-10-02T08:14:18Z",
+     "domain": "aljazeera.com",
+     "category": "wire_primary",
+     "origin": "aljazeera.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 40.8,
+   "n_independent": 1,
+   "best_tier_weight": 1.0,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 1.0,
+    "recency": 0.274,
+    "escalation": 0.0,
+    "severity": 0.6
+   },
+   "latest": "2026-10-02T08:14:18+00:00",
+   "rank": 62,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-ea3dd030",
+   "home": "T05",
+   "topics": {
+    "T05": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://nationalpost.com/news/world/lula-bolsonaro-in-final-push-for-votes-ahead-of-knife-edge-election",
+   "lead_title": "Lula, Bolsonaro in final push for votes ahead of knife-edge election in Brazil",
+   "lead_source": "National Post",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T05",
+     "url": "https://nationalpost.com/news/world/lula-bolsonaro-in-final-push-for-votes-ahead-of-knife-edge-election",
+     "title": "Lula, Bolsonaro in final push for votes ahead of knife-edge election in Brazil",
+     "description": "Opinion polls show neither candidate is likely to win in the first-round election Sunday, and the two are in a statistical tie for an October 25 runoff.",
+     "source": "National Post",
+     "publishedAt": "2026-10-03T15:51:03Z",
+     "domain": "nationalpost.com",
+     "category": "unclassified",
+     "origin": "nationalpost.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 40.6,
+   "n_independent": 1,
+   "best_tier_weight": 0.4,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.4,
+    "recency": 0.927,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-03T15:51:03+00:00",
+   "rank": 63,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-79e9ca8e",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.juancole.com/2026/10/americans-preserve-hegemony.html",
+   "lead_title": "Are Americans paying the Price to preserve Israel\u2019s Nuclear Hegemony?",
+   "lead_source": "Juancole.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://www.juancole.com/2026/10/americans-preserve-hegemony.html",
+     "title": "Are Americans paying the Price to preserve Israel\u2019s Nuclear Hegemony?",
+     "description": "Trump, at Netanyahu's urging, dropped an agreement that imposed the most stringent restrictions ever placed on a country's nuclear program",
+     "source": "Juancole.com",
+     "publishedAt": "2026-10-03T04:06:00Z",
+     "domain": "juancole.com",
+     "category": "advocacy_opinion",
+     "origin": "juancole.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 40.0,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.59,
+    "escalation": 0.259,
+    "severity": 0.8
+   },
+   "latest": "2026-10-03T04:06:00+00:00",
+   "rank": 64,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-bd68fa31",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.rferl.org/a/russia-tests-nato-us-bill/33869367.html",
+   "lead_title": "As Russia Tests Western Alliance, US Lawmakers Push \u2018NATO Shield\u2019 Bill",
+   "lead_source": "Radio Free Europe/ Radio Liberty",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.rferl.org/a/russia-tests-nato-us-bill/33869367.html",
+     "title": "As Russia Tests Western Alliance, US Lawmakers Push \u2018NATO Shield\u2019 Bill",
+     "description": "As tensions between NATO and Russia intensify amid growing fears of confrontation, US lawmakers are raising questions over the relationship between the United States and the military alliance.",
+     "source": "Radio Free Europe/ Radio Liberty",
+     "publishedAt": "2026-10-02T23:13:20Z",
+     "domain": "rferl.org",
+     "category": "established",
+     "origin": "rferl.org"
+    }
+   ],
+   "contradictions": [],
+   "score": 40.0,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.489,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T23:13:20+00:00",
+   "rank": 65,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-cecdf4f4",
+   "home": "T10",
+   "topics": {
+    "T10": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.hurriyetdailynews.com/europe-must-rely-less-on-us-for-defense-rutte-227651",
+   "lead_title": "Europe must rely less on US for defense: Rutte",
+   "lead_source": "Hurriyet Daily News",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T10",
+     "url": "https://www.hurriyetdailynews.com/europe-must-rely-less-on-us-for-defense-rutte-227651",
+     "title": "Europe must rely less on US for defense: Rutte",
+     "description": "NATO Secretary-General Mark Rutte has said Europe\u2019s heavy reliance on the United States for defense is unsustainable, urging European allies to take greater responsibility for their own security.",
+     "source": "Hurriyet Daily News",
+     "publishedAt": "2026-10-03T07:52:15Z",
+     "domain": "hurriyetdailynews.com",
+     "category": "established",
+     "origin": "hurriyetdailynews.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 39.9,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.682,
+    "escalation": 0.0,
+    "severity": 0.5
+   },
+   "latest": "2026-10-03T07:52:15+00:00",
+   "rank": 66,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-eca3a9a9",
+   "home": "T01",
+   "topics": {
+    "T01": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://truthout.org/articles/report-trump-used-grok-to-help-talk-him-into-illegal-invasion-of-venezuela/",
+   "lead_title": "Report: Trump Used Grok to Help Talk Him Into Illegal Invasion of Venezuela",
+   "lead_source": "Truthout",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T01",
+     "url": "https://truthout.org/articles/report-trump-used-grok-to-help-talk-him-into-illegal-invasion-of-venezuela/",
+     "title": "Report: Trump Used Grok to Help Talk Him Into Illegal Invasion of Venezuela",
+     "description": "The president reportedly used the AI chatbot for hours when Elon Musk visited the White House last December.",
+     "source": "Truthout",
+     "publishedAt": "2026-10-02T18:44:14Z",
+     "domain": "truthout.org",
+     "category": "advocacy_opinion",
+     "origin": "truthout.org"
+    }
+   ],
+   "contradictions": [],
+   "score": 39.7,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.411,
+    "escalation": 0.393,
+    "severity": 0.7
+   },
+   "latest": "2026-10-02T18:44:14+00:00",
+   "rank": 67,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-e77b06f3",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "http://foreignpolicy.com/2026/10/02/g7-release-emergency-diesel-crude-stockpiles-fuel-prices-trump/",
+   "lead_title": "G-7 Agrees to Release 100 Million Barrels of Reserve Diesel",
+   "lead_source": "Foreign Policy",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "http://foreignpolicy.com/2026/10/02/g7-release-emergency-diesel-crude-stockpiles-fuel-prices-trump/",
+     "title": "G-7 Agrees to Release 100 Million Barrels of Reserve Diesel",
+     "description": "The White House had threatened to ban U.S. diesel exports if Europe did not step up.",
+     "source": "Foreign Policy",
+     "publishedAt": "2026-10-02T21:01:12Z",
+     "domain": "foreignpolicy.com",
+     "category": "established",
+     "origin": "foreignpolicy.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 39.4,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.449,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T21:01:12+00:00",
+   "rank": 68,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-685804a4",
+   "home": "T04",
+   "topics": {
+    "T04": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.medicaldaily.com/fort-wayne-zoo-measles-exposure-quarantine-guide-479479",
+   "lead_title": "Unvaccinated Fort Wayne Zoo Visitors Face 21-Day Measles Quarantine After Sept. 27 Exposure as Northeast Indiana Cases Rise",
+   "lead_source": "Medical Daily",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T04",
+     "url": "https://www.medicaldaily.com/fort-wayne-zoo-measles-exposure-quarantine-guide-479479",
+     "title": "Unvaccinated Fort Wayne Zoo Visitors Face 21-Day Measles Quarantine After Sept. 27 Exposure as Northeast Indiana Cases Rise",
+     "description": "Visited the Fort Wayne Zoo on Sept. 27? Allen County says unvaccinated guests should quarantine for 21 days. See key dates, symptoms, and MMR steps.",
+     "source": "Medical Daily",
+     "publishedAt": "2026-10-03T15:31:12Z",
+     "domain": "medicaldaily.com",
+     "category": "unclassified",
+     "origin": "medicaldaily.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 39.4,
+   "n_independent": 1,
+   "best_tier_weight": 0.4,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.4,
+    "recency": 0.915,
+    "escalation": 0.0,
+    "severity": 0.7
+   },
+   "latest": "2026-10-03T15:31:12+00:00",
+   "rank": 69,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-de564326",
+   "home": "T05",
+   "topics": {
+    "T05": 1
+   },
+   "n_articles": 1,
+   "lead_url": "http://foreignpolicy.com/2026/10/02/brazil-lula-bolsonaro-election-trump-china-united-states-cuba/",
+   "lead_title": "What\u2019s at Stake in Brazil\u2019s Election",
+   "lead_source": "Foreign Policy",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T05",
+     "url": "http://foreignpolicy.com/2026/10/02/brazil-lula-bolsonaro-election-trump-china-united-states-cuba/",
+     "title": "What\u2019s at Stake in Brazil\u2019s Election",
+     "description": "Results would have broad implications on foreign policy.",
+     "source": "Foreign Policy",
+     "publishedAt": "2026-10-02T17:09:19Z",
+     "domain": "foreignpolicy.com",
+     "category": "established",
+     "origin": "foreignpolicy.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 38.5,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.387,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T17:09:19+00:00",
+   "rank": 70,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-b292ee3f",
+   "home": "T02",
+   "topics": {
+    "T02": 1
+   },
+   "n_articles": 1,
+   "lead_url": "http://foreignpolicy.com/2026/10/02/undp-alexander-de-croo-ukraine-war-reconstruction-gaza-reconstruction-afghanistan/",
+   "lead_title": "\u2018What Is Happening Today Is Development in Reverse\u2019",
+   "lead_source": "Foreign Policy",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T02",
+     "url": "http://foreignpolicy.com/2026/10/02/undp-alexander-de-croo-ukraine-war-reconstruction-gaza-reconstruction-afghanistan/",
+     "title": "\u2018What Is Happening Today Is Development in Reverse\u2019",
+     "description": "A conversation with UNDP chief Alexander De Croo about building infrastructure in active conflict zones.",
+     "source": "Foreign Policy",
+     "publishedAt": "2026-10-02T16:32:07Z",
+     "domain": "foreignpolicy.com",
+     "category": "established",
+     "origin": "foreignpolicy.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 38.4,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.378,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T16:32:07+00:00",
+   "rank": 71,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-bff2803f",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.naturalnews.com/2026-10-02-global-crop-largest-quarterly-jump-ukraine-invasion.html",
+   "lead_title": "Global Crop Prices Post Largest Quarterly Jump Since Ukraine Invasion, Index Shows",
+   "lead_source": "Naturalnews.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.naturalnews.com/2026-10-02-global-crop-largest-quarterly-jump-ukraine-invasion.html",
+     "title": "Global Crop Prices Post Largest Quarterly Jump Since Ukraine Invasion, Index Shows",
+     "description": "Global crop prices recorded their largest quarterly increase since Russia invaded Ukraine in early 2022, according to data published by the Bloomberg Agriculture Spot Index. The index rose 13% during the third quarter, the biggest quarterly advance since the \u2026",
+     "source": "Naturalnews.com",
+     "publishedAt": "2026-10-02T06:00:00Z",
+     "domain": "naturalnews.com",
+     "category": "advocacy_opinion",
+     "origin": "naturalnews.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 38.3,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.252,
+    "escalation": 0.393,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T06:00:00+00:00",
+   "rank": 72,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-141caed7",
+   "home": "T12",
+   "topics": {
+    "T12": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://peoplesreview.com.np/2026/10/02/hackers-expose-nepals-digital-weaknesses/",
+   "lead_title": "Hackers expose Nepal\u2019s digital weaknesses",
+   "lead_source": "Peoplesreview.com.np",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T12",
+     "url": "https://peoplesreview.com.np/2026/10/02/hackers-expose-nepals-digital-weaknesses/",
+     "title": "Hackers expose Nepal\u2019s digital weaknesses",
+     "description": "By Our Reporter Nepal is rapidly becoming digital without becoming equally secure. Banking, share trading, government procurement, tax payments, passports and many everyday services now depend on computers and online networks. That transition has made life ea\u2026",
+     "source": "Peoplesreview.com.np",
+     "publishedAt": "2026-10-02T15:03:22Z",
+     "domain": "peoplesreview.com.np",
+     "category": "established",
+     "origin": "peoplesreview.com.np"
+    }
+   ],
+   "contradictions": [],
+   "score": 38.0,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.357,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T15:03:22+00:00",
+   "rank": 73,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-06304761",
+   "home": "T01",
+   "topics": {
+    "T01": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia",
+   "lead_title": "The Escalation of War in Ethiopia",
+   "lead_source": "Africanistperspective.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T01",
+     "url": "https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia",
+     "title": "The Escalation of War in Ethiopia",
+     "description": "The coming proxy wars will be devastating for civilians and do little to improve governance and human welfare in Ethiopia and the wider Horn",
+     "source": "Africanistperspective.com",
+     "publishedAt": "2026-10-03T11:54:24Z",
+     "domain": "africanistperspective.com",
+     "category": "unclassified",
+     "origin": "africanistperspective.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 37.6,
+   "n_independent": 1,
+   "best_tier_weight": 0.4,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.4,
+    "recency": 0.796,
+    "escalation": 0.0,
+    "severity": 0.7
+   },
+   "latest": "2026-10-03T11:54:24+00:00",
+   "rank": 74,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-845776b3",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 2
+   },
+   "n_articles": 2,
+   "lead_url": "https://sputnikglobe.com/20261003/trump-defends-prolonged-iran-war-after-earlier-two-or-three-weeks-timeline-1124827876.html",
+   "lead_title": "Trump Defends Prolonged Iran War After Earlier 'Two or Three Weeks' Timeline",
+   "lead_source": "Sputnikglobe.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://sputnikglobe.com/20261003/trump-defends-prolonged-iran-war-after-earlier-two-or-three-weeks-timeline-1124827876.html",
+     "title": "Trump Defends Prolonged Iran War After Earlier 'Two or Three Weeks' Timeline",
+     "description": "US President Donald Trump defended the continuing US war with Iran during a campaign rally in Oklahoma, arguing that his earlier prediction of a quick conclusion referred to what he described as the destruction of Iran\u2019s nuclear capabilities rather than the e\u2026",
+     "source": "Sputnikglobe.com",
+     "publishedAt": "2026-10-03T04:49:38Z",
+     "domain": "sputnikglobe.com",
+     "category": "state_affiliated",
+     "origin": "sputnikglobe.com"
+    },
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://sputnikglobe.com/20261003/trump-calls-on-americans-to-endure-high-fuel-prices-as-war-on-iran-drags-on-1124827742.html",
+     "title": "Trump Calls on Americans to Endure High Fuel Prices as War on Iran Drags on",
+     "description": "US President Donald Trump defended the economic cost of the continuing war with Iran during a campaign appearance in Oklahoma, telling Americans that higher fuel prices were a \u201csmall price\u201d compared with what he described as the danger of Tehran obtaining a n\u2026",
+     "source": "Sputnikglobe.com",
+     "publishedAt": "2026-10-03T04:42:22Z",
+     "domain": "sputnikglobe.com",
+     "category": "state_affiliated",
+     "origin": "sputnikglobe.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 37.3,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.606,
+    "escalation": 0.139,
+    "severity": 0.8
+   },
+   "latest": "2026-10-03T04:49:38+00:00",
+   "rank": 75,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-b07f37a0",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://sputnikglobe.com/20261003/zelenskys-regime-must-be-destroyed---captured-ukrainian-soldier-1124830038.html",
+   "lead_title": "Zelensky's Regime Must Be Destroyed - Captured Ukrainian Soldier",
+   "lead_source": "Sputnikglobe.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://sputnikglobe.com/20261003/zelenskys-regime-must-be-destroyed---captured-ukrainian-soldier-1124830038.html",
+     "title": "Zelensky's Regime Must Be Destroyed - Captured Ukrainian Soldier",
+     "description": "MOSCOW (Sputnik) - Vladimir Zelensky's regime must be destroyed, Vitaly Mosin, a captured Ukrainian armed forces soldier, said in a video released by the Russian Defense Ministry on Saturday.",
+     "source": "Sputnikglobe.com",
+     "publishedAt": "2026-10-03T13:09:15Z",
+     "domain": "sputnikglobe.com",
+     "category": "state_affiliated",
+     "origin": "sputnikglobe.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 37.2,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.835,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-03T13:09:15+00:00",
+   "rank": 76,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-92b39de2",
+   "home": "T12",
+   "topics": {
+    "T12": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://forkast.news/cisco-sd-wans-url-encoding-bypass-grants-unauthenticated-admin-access-federal-agencies-have-24-hours/",
+   "lead_title": "Cisco SD-WAN\u2019s URL Encoding Bypass Grants Unauthenticated Admin Access. Federal Agencies Have 24 Hours.",
+   "lead_source": "Forkast.news",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T12",
+     "url": "https://forkast.news/cisco-sd-wans-url-encoding-bypass-grants-unauthenticated-admin-access-federal-agencies-have-24-hours/",
+     "title": "Cisco SD-WAN\u2019s URL Encoding Bypass Grants Unauthenticated Admin Access. Federal Agencies Have 24 Hours.",
+     "description": "A critical authentication bypass vulnerability, tracked as CVE-2026-76504, is currently being exploited in the wild against Cisco Catalyst SD-WAN Manager. The vulnerability, which carries a CVSS score of 9.8, allows unauthenticated remote attackers to gain ad\u2026",
+     "source": "Forkast.news",
+     "publishedAt": "2026-10-02T18:42:16Z",
+     "domain": "forkast.news",
+     "category": "unclassified",
+     "origin": "forkast.news"
+    }
+   ],
+   "contradictions": [],
+   "score": 36.9,
+   "n_independent": 1,
+   "best_tier_weight": 0.4,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.4,
+    "recency": 0.411,
+    "escalation": 0.161,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T18:42:16+00:00",
+   "rank": 77,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-e4d0ac78",
+   "home": "T13",
+   "topics": {
+    "T13": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.breitbart.com/europe/2026/10/02/reports-waters-of-ceuta-beach-invaded-by-migrants-show-dangerous-levels-of-fecal-contamination/",
+   "lead_title": "Reports: Migrant Invasion of Ceuta Beach Delivers Dangerous Levels of Fecal Contamination",
+   "lead_source": "Breitbart News",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T13",
+     "url": "https://www.breitbart.com/europe/2026/10/02/reports-waters-of-ceuta-beach-invaded-by-migrants-show-dangerous-levels-of-fecal-contamination/",
+     "title": "Reports: Migrant Invasion of Ceuta Beach Delivers Dangerous Levels of Fecal Contamination",
+     "description": "The waters of Ceuta's El\u00a0Trampol\u00edn beach present unsafe levels of fecal contamination, posing a serious sanitary risk for the embattled and invaded city, local outlets warned on Friday morning.\nThe post Reports: Migrant Invasion of Ceuta Beach Delivers Danger\u2026",
+     "source": "Breitbart News",
+     "publishedAt": "2026-10-02T09:42:48Z",
+     "domain": "breitbart.com",
+     "category": "advocacy_opinion",
+     "origin": "breitbart.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 36.9,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.29,
+    "escalation": 0.393,
+    "severity": 0.6
+   },
+   "latest": "2026-10-02T09:42:48+00:00",
+   "rank": 78,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-0d5a1c8b",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.thelocal.de/20261002/germanys-merz-hails-nato-unity-on-russia-and-rejects-afd-claims",
+   "lead_title": "Germany's Merz hails NATO unity on Russia and rejects AfD claims",
+   "lead_source": "The Local Germany",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.thelocal.de/20261002/germanys-merz-hails-nato-unity-on-russia-and-rejects-afd-claims",
+     "title": "Germany's Merz hails NATO unity on Russia and rejects AfD claims",
+     "description": "German Chancellor Friedrich Merz on Thursday called for unity in backing Ukraine against Russia \u2013 within NATO, Europe and his own country where the far-right and Moscow-friendly AfD is on the rise.",
+     "source": "The Local Germany",
+     "publishedAt": "2026-10-02T06:42:17Z",
+     "domain": "thelocal.de",
+     "category": "established",
+     "origin": "thelocal.de"
+    }
+   ],
+   "contradictions": [],
+   "score": 36.6,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.259,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T06:42:17+00:00",
+   "rank": 79,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-8ee4caf4",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.nakedcapitalism.com/2026/10/links-10-3-2026-plus-short-note.html",
+   "lead_title": "Links 10/3/2026 Plus Short Iran War/Narrative Note",
+   "lead_source": "Nakedcapitalism.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.nakedcapitalism.com/2026/10/links-10-3-2026-plus-short-note.html",
+     "title": "Links 10/3/2026 Plus Short Iran War/Narrative Note",
+     "description": "Our scary daily links: pet food toxicity, modern architecture uglies, Russia bans diesel exports unless sanctions go, ozone pollutions, EU energy-produced inflation, India v. Trump. Venezuela toadies to Trump, moar on Israel flight false flag, China two syste\u2026",
+     "source": "Nakedcapitalism.com",
+     "publishedAt": "2026-10-03T10:59:40Z",
+     "domain": "nakedcapitalism.com",
+     "category": "advocacy_opinion",
+     "origin": "nakedcapitalism.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 36.2,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.769,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-03T10:59:40+00:00",
+   "rank": 80,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-9c92ac1f",
+   "home": "T12",
+   "topics": {
+    "T12": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://hackaday.com/2026/10/02/this-week-in-security-shinyhunters-wont-dox-the-fbi-pentagon-data-stolen-and-obs-vulnerable/",
+   "lead_title": "This Week in Security: ShinyHunters Won\u2019t Dox the FBI, Pentagon Data Stolen, and OBS Vulnerable",
+   "lead_source": "Hackaday",
+   "bluf_eligible": true,
+   "articles": [
+    {
+     "topic": "T12",
+     "url": "https://hackaday.com/2026/10/02/this-week-in-security-shinyhunters-wont-dox-the-fbi-pentagon-data-stolen-and-obs-vulnerable/",
+     "title": "This Week in Security: ShinyHunters Won\u2019t Dox the FBI, Pentagon Data Stolen, and OBS Vulnerable",
+     "description": "404 Media reports that the ShinyHunters group who stole multiple terabytes of FBI employee data say they do not plan to release the data. Known for ransomware and extortion of innumerable companies\u2026",
+     "source": "Hackaday",
+     "publishedAt": "2026-10-02T14:00:22Z",
+     "domain": "hackaday.com",
+     "category": "established",
+     "origin": "hackaday.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 35.6,
+   "n_independent": 1,
+   "best_tier_weight": 0.7,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.7,
+    "recency": 0.343,
+    "escalation": 0.161,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T14:00:22+00:00",
+   "rank": 81,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-09c41a7b",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://activistpost.com/doj-seeks-61m-in-iranian-oil-proceeds-laundered-through-binance-accounts/",
+   "lead_title": "DOJ Seeks $61M in Iranian Oil Proceeds Laundered Through Binance Accounts",
+   "lead_source": "Activistpost.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://activistpost.com/doj-seeks-61m-in-iranian-oil-proceeds-laundered-through-binance-accounts/",
+     "title": "DOJ Seeks $61M in Iranian Oil Proceeds Laundered Through Binance Accounts",
+     "description": "The U.S. Department of Justice has filed to forfeit $61 million in crypto it says was generated from Iranian black-market oil sales. The U.S. Department of Justice said Monday it is seizing and seeking to forfeit $61 million in cryptocurrency that it alleges \u2026",
+     "source": "Activistpost.com",
+     "publishedAt": "2026-10-03T01:00:00Z",
+     "domain": "activistpost.com",
+     "category": "advocacy_opinion",
+     "origin": "activistpost.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 35.5,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.523,
+    "escalation": 0.118,
+    "severity": 0.8
+   },
+   "latest": "2026-10-03T01:00:00+00:00",
+   "rank": 82,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-edbbd86d",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.rt.com/news/646655-fourth-reich-in-making-germany/",
+   "lead_title": "Germany is preparing for war \u2013 with an enemy it expects to hold back",
+   "lead_source": "RT",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.rt.com/news/646655-fourth-reich-in-making-germany/",
+     "title": "Germany is preparing for war \u2013 with an enemy it expects to hold back",
+     "description": "Germany is rearming against Russia while expecting Moscow to avoid escalation. What is driving Berlin\u2019s strategy? Read Full Article at RT.com",
+     "source": "RT",
+     "publishedAt": "2026-10-03T08:46:20Z",
+     "domain": "rt.com",
+     "category": "state_affiliated",
+     "origin": "rt.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 35.3,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.706,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-03T08:46:20+00:00",
+   "rank": 83,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-19b53c93",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://biztoc.com/x/3245b7455074cdc2",
+   "lead_title": "Dual UK-Iranian national released on bail over suspected plot against U.S.-run military base",
+   "lead_source": "Biztoc.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://biztoc.com/x/3245b7455074cdc2",
+     "title": "Dual UK-Iranian national released on bail over suspected plot against U.S.-run military base",
+     "description": "The 25-year-old man was arrested Thursday in London on suspicion of preparing terrorist acts close to the RAF Fairford air base, which has been used by American bombers to strike Iran. He was the sixth person taken into custody and then released on bail as de\u2026",
+     "source": "Biztoc.com",
+     "publishedAt": "2026-10-03T15:58:12Z",
+     "domain": "biztoc.com",
+     "category": "aggregator",
+     "origin": null
+    }
+   ],
+   "contradictions": [],
+   "score": 34.8,
+   "n_independent": 0,
+   "best_tier_weight": 0.15,
+   "components": {
+    "corroboration": 0.0,
+    "quality": 0.15,
+    "recency": 0.931,
+    "escalation": 0.393,
+    "severity": 0.8
+   },
+   "latest": "2026-10-03T15:58:12+00:00",
+   "rank": 84,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-6ed066b5",
+   "home": "T05",
+   "topics": {
+    "T05": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.naturalnews.com/2026-10-03-trump-may-invoke-insurrection-act-around-midterms.html",
+   "lead_title": "Trump Says He May Invoke Insurrection Act Around Midterms, Officials Say",
+   "lead_source": "Naturalnews.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T05",
+     "url": "https://www.naturalnews.com/2026-10-03-trump-may-invoke-insurrection-act-around-midterms.html",
+     "title": "Trump Says He May Invoke Insurrection Act Around Midterms, Officials Say",
+     "description": "President Donald Trump said he may invoke the Insurrection Act in connection with the upcoming midterm elections, according to a report by The Hill. The remarks were made to reporters, officials said, without specifying a date or location. The Insurrection Ac\u2026",
+     "source": "Naturalnews.com",
+     "publishedAt": "2026-10-03T06:00:00Z",
+     "domain": "naturalnews.com",
+     "category": "advocacy_opinion",
+     "origin": "naturalnews.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 34.2,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.634,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-03T06:00:00+00:00",
+   "rank": 85,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-b7d0398b",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://wattsupwiththat.com/2026/10/02/when-all-else-fails-start-a-war-europes-descent-from-net-zero-folly-to-military-mobilization/",
+   "lead_title": "When All Else Fails, Start a War: Europe\u2019s Descent From Net Zero Folly to Military Mobilization",
+   "lead_source": "Wattsupwiththat.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://wattsupwiththat.com/2026/10/02/when-all-else-fails-start-a-war-europes-descent-from-net-zero-folly-to-military-mobilization/",
+     "title": "When All Else Fails, Start a War: Europe\u2019s Descent From Net Zero Folly to Military Mobilization",
+     "description": "Vladimir Putin's Russia makes an unusually convenient target: distant enough to be safely feared, weak enough (on Mr Rutte's own telling) to be safely provoked, and useful enough, as an organising threat, to justify the curtailments of speech and dissent that\u2026",
+     "source": "Wattsupwiththat.com",
+     "publishedAt": "2026-10-03T05:00:00Z",
+     "domain": "wattsupwiththat.com",
+     "category": "advocacy_opinion",
+     "origin": "wattsupwiththat.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 33.8,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.61,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-03T05:00:00+00:00",
+   "rank": 86,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-aa001f1f",
+   "home": "T04",
+   "topics": {
+    "T04": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://biztoc.com/x/c118ad48b0bc1178",
+   "lead_title": "Suspected Plague Death at Russian Lab Sparks 'Anti-Epidemic' Lockdown",
+   "lead_source": "Biztoc.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T04",
+     "url": "https://biztoc.com/x/c118ad48b0bc1178",
+     "title": "Suspected Plague Death at Russian Lab Sparks 'Anti-Epidemic' Lockdown",
+     "description": "A woman has died of suspected plague in Siberia, triggering a \"full range of anti-epidemic measures,\" according to Russian officials and media reports.\nIgor Kobzev, the governor of the Russian Irkutsk region, said on Friday he had met with the head of Rospotr\u2026",
+     "source": "Biztoc.com",
+     "publishedAt": "2026-10-03T11:43:04Z",
+     "domain": "biztoc.com",
+     "category": "aggregator",
+     "origin": null
+    }
+   ],
+   "contradictions": [],
+   "score": 31.7,
+   "n_independent": 0,
+   "best_tier_weight": 0.15,
+   "components": {
+    "corroboration": 0.0,
+    "quality": 0.15,
+    "recency": 0.79,
+    "escalation": 0.393,
+    "severity": 0.7
+   },
+   "latest": "2026-10-03T11:43:04+00:00",
+   "rank": 87,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-2500f8c2",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.rt.com/russia/646667-russia-defend-kaliningrad-nato-polyanskiy/",
+   "lead_title": "Russia will use \u2018any means\u2019 necessary to defend Kaliningrad \u2013 Moscow\u2019s envoy to OSCE (VIDEO)",
+   "lead_source": "RT",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.rt.com/russia/646667-russia-defend-kaliningrad-nato-polyanskiy/",
+     "title": "Russia will use \u2018any means\u2019 necessary to defend Kaliningrad \u2013 Moscow\u2019s envoy to OSCE (VIDEO)",
+     "description": "Russia takes NATO\u2019s Kaliningrad threats seriously and will use any means necessary to defend it, Dmitry Polyanskiy has told RT Read Full Article at RT.com",
+     "source": "RT",
+     "publishedAt": "2026-10-02T20:49:35Z",
+     "domain": "rt.com",
+     "category": "state_affiliated",
+     "origin": "rt.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 31.4,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.446,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T20:49:35+00:00",
+   "rank": 88,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-3413c21b",
+   "home": "T10",
+   "topics": {
+    "T10": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.naturalnews.com/2026-10-03-hegseth-appoints-major-maga-donors-pentagon-advisors.html",
+   "lead_title": "Hegseth Appoints Major MAGA Donors as Pentagon Advisors, Raising Conflict of Interest Concerns",
+   "lead_source": "Naturalnews.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T10",
+     "url": "https://www.naturalnews.com/2026-10-03-hegseth-appoints-major-maga-donors-pentagon-advisors.html",
+     "title": "Hegseth Appoints Major MAGA Donors as Pentagon Advisors, Raising Conflict of Interest Concerns",
+     "description": "Secretary of War Pete Hegseth announced a new task force in the Department of War called Project Meridian at an event in Quantico, Virginia on Wednesday, Sept. 30. The Guardian reported that the secretary appointed tech billionaires Elon Musk and Palmer Lucke\u2026",
+     "source": "Naturalnews.com",
+     "publishedAt": "2026-10-03T06:00:00Z",
+     "domain": "naturalnews.com",
+     "category": "advocacy_opinion",
+     "origin": "naturalnews.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 31.2,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.634,
+    "escalation": 0.0,
+    "severity": 0.5
+   },
+   "latest": "2026-10-03T06:00:00+00:00",
+   "rank": 89,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-592ce61d",
+   "home": "flagship-ru-ua",
+   "topics": {
+    "flagship-ru-ua": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.rt.com/russia/646642-oligarch-part-five-ukraines-willy-wonka/",
+   "lead_title": "The Oligarch: Ukraine\u2019s Willy Wonka has a fortune to protect, a war to answer for, and power to reclaim",
+   "lead_source": "RT",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ru-ua",
+     "url": "https://www.rt.com/russia/646642-oligarch-part-five-ukraines-willy-wonka/",
+     "title": "The Oligarch: Ukraine\u2019s Willy Wonka has a fortune to protect, a war to answer for, and power to reclaim",
+     "description": "Explore Pyotr Poroshenko\u2019s business empire, US ties, role in Maidan, and the controversies surrounding his presidency Read Full Article at RT.com",
+     "source": "RT",
+     "publishedAt": "2026-10-02T17:45:35Z",
+     "domain": "rt.com",
+     "category": "state_affiliated",
+     "origin": "rt.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 30.6,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.396,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T17:45:35+00:00",
+   "rank": 90,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-20dfc1aa",
+   "home": "T05",
+   "topics": {
+    "T05": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://dailycaller.com/2026/10/02/bosnia-sunday-elections-srpska",
+   "lead_title": "Bosnia Heads Into Sunday Election With Country\u2019s Postwar Order Under Strain",
+   "lead_source": "The Daily Caller",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T05",
+     "url": "https://dailycaller.com/2026/10/02/bosnia-sunday-elections-srpska",
+     "title": "Bosnia Heads Into Sunday Election With Country\u2019s Postwar Order Under Strain",
+     "description": "Bosnia and Herzegovina heads into elections Sunday with its postwar political settlement under renewed strain.",
+     "source": "The Daily Caller",
+     "publishedAt": "2026-10-02T14:31:00Z",
+     "domain": "dailycaller.com",
+     "category": "advocacy_opinion",
+     "origin": "dailycaller.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 29.9,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.349,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T14:31:00+00:00",
+   "rank": 91,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-068eb847",
+   "home": "T05",
+   "topics": {
+    "T05": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://www.breitbart.com/europe/2026/10/02/burnham-flop-farages-reform-party-overtakes-labour-as-pm-honeymoon-fades/",
+   "lead_title": "Burnham Flop: Farage's Reform Party Overtakes Labour as PM Honeymoon Fades",
+   "lead_source": "Breitbart News",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T05",
+     "url": "https://www.breitbart.com/europe/2026/10/02/burnham-flop-farages-reform-party-overtakes-labour-as-pm-honeymoon-fades/",
+     "title": "Burnham Flop: Farage's Reform Party Overtakes Labour as PM Honeymoon Fades",
+     "description": "Nigel Farage's Reform UK party has reclaimed pole position in Westminster voting intention as the so-called \"bounce\" for the parachuted-in Prime Minsiter Andy Burnham appears to be evaporating just weeks into his tenure in Downing Street.\nThe post Burnham Flo\u2026",
+     "source": "Breitbart News",
+     "publishedAt": "2026-10-02T12:21:35Z",
+     "domain": "breitbart.com",
+     "category": "advocacy_opinion",
+     "origin": "breitbart.com"
+    }
+   ],
+   "contradictions": [],
+   "score": 29.5,
+   "n_independent": 1,
+   "best_tier_weight": 0.3,
+   "components": {
+    "corroboration": 0.356,
+    "quality": 0.3,
+    "recency": 0.322,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-02T12:21:35+00:00",
+   "rank": 92,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-7161b80a",
+   "home": "T06",
+   "topics": {
+    "T06": 2
+   },
+   "n_articles": 2,
+   "lead_url": "https://biztoc.com/x/0039c3518f86bedf",
+   "lead_title": "Far-Left Riots \"Tearing France Apart\" Is Political Gift For Le Pen As Election Odds Soar",
+   "lead_source": "Biztoc.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T06",
+     "url": "https://biztoc.com/x/0039c3518f86bedf",
+     "title": "Far-Left Riots \"Tearing France Apart\" Is Political Gift For Le Pen As Election Odds Soar",
+     "description": "Far-Left Riots \"Tearing France Apart\" Is Political Gift For Le Pen As Election Odds Soar\n \nRiots that French officials blame on far-left groups have morphed into a political crisis, leaving hundreds injured and more than 100 high schools severely damaged. The\u2026",
+     "source": "Biztoc.com",
+     "publishedAt": "2026-10-03T17:27:22Z",
+     "domain": "biztoc.com",
+     "category": "aggregator",
+     "origin": null
+    },
+    {
+     "topic": "T06",
+     "url": "https://biztoc.com/x/98787cd6e10dc792",
+     "title": "Le Pen's Election Odds Surge As Riots Rock France, Pressure Mounts On Macron",
+     "description": "Le Pen's Election Odds Surge As Riots Rock France, Pressure Mounts On Macron\n \nSocial unrest spreading across France, described by the government as \"urban violence,\" is adding to pressure on President Emmanuel Macron and the political establishment.\nOne day \u2026",
+     "source": "Biztoc.com",
+     "publishedAt": "2026-10-02T11:51:02Z",
+     "domain": "biztoc.com",
+     "category": "aggregator",
+     "origin": null
+    }
+   ],
+   "contradictions": [],
+   "score": 27.3,
+   "n_independent": 0,
+   "best_tier_weight": 0.15,
+   "components": {
+    "corroboration": 0.0,
+    "quality": 0.15,
+    "recency": 0.986,
+    "escalation": 0.139,
+    "severity": 0.6
+   },
+   "latest": "2026-10-03T17:27:22+00:00",
+   "rank": 93,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-293e9f49",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://sports.yahoo.com/articles/qatar-abu-dhabi-f1-grand-150548815.html",
+   "lead_title": "Qatar and Abu Dhabi F1 Grand Prix to go ahead - F1 boss",
+   "lead_source": "Yahoo Entertainment",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://sports.yahoo.com/articles/qatar-abu-dhabi-f1-grand-150548815.html",
+     "title": "Qatar and Abu Dhabi F1 Grand Prix to go ahead - F1 boss",
+     "description": "The final races of the Formula One season in Qatar and Abu Dhabi will go ahead as planned despite tensions in the Middle East, the sport's CEO Stefano Domenicali said Saturday.He added that 99 percent of tickets had been sold in Abu Dhabi and that the season-\u2026",
+     "source": "Yahoo Entertainment",
+     "publishedAt": "2026-10-03T15:05:48Z",
+     "domain": "yahoo.com",
+     "category": "aggregator",
+     "origin": null
+    }
+   ],
+   "contradictions": [],
+   "score": 24.5,
+   "n_independent": 0,
+   "best_tier_weight": 0.15,
+   "components": {
+    "corroboration": 0.0,
+    "quality": 0.15,
+    "recency": 0.9,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-03T15:05:48+00:00",
+   "rank": 94,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-2bbb0e36",
+   "home": "flagship-ir-il",
+   "topics": {
+    "flagship-ir-il": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://biztoc.com/x/d124111e00ffec2e",
+   "lead_title": "Israeli shelling reported in southern Lebanon",
+   "lead_source": "Biztoc.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "flagship-ir-il",
+     "url": "https://biztoc.com/x/d124111e00ffec2e",
+     "title": "Israeli shelling reported in southern Lebanon",
+     "description": "Israeli artillery fire was targeted southern Lebanon on Saturday, Hezbollah-affiliated Al-Nour Radio reported, citing its correspondent.According to the outlet, the shelling struck the town of Nabatie...",
+     "source": "Biztoc.com",
+     "publishedAt": "2026-10-03T07:12:38Z",
+     "domain": "biztoc.com",
+     "category": "aggregator",
+     "origin": null
+    }
+   ],
+   "contradictions": [],
+   "score": 21.0,
+   "n_independent": 0,
+   "best_tier_weight": 0.15,
+   "components": {
+    "corroboration": 0.0,
+    "quality": 0.15,
+    "recency": 0.665,
+    "escalation": 0.0,
+    "severity": 0.8
+   },
+   "latest": "2026-10-03T07:12:38+00:00",
+   "rank": 95,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-b4991321",
+   "home": "T06",
+   "topics": {
+    "T06": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://biztoc.com/x/d27d06890e54855c",
+   "lead_title": "Will the French hard-Left's support of school riots backfire?",
+   "lead_source": "Biztoc.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T06",
+     "url": "https://biztoc.com/x/d27d06890e54855c",
+     "title": "Will the French hard-Left's support of school riots backfire?",
+     "description": "French Leftists have published a guide on how to blockade universities and schools. Union \u00e9tudiante, a student union, published ...",
+     "source": "Biztoc.com",
+     "publishedAt": "2026-10-02T10:43:38Z",
+     "domain": "biztoc.com",
+     "category": "aggregator",
+     "origin": null
+    }
+   ],
+   "contradictions": [],
+   "score": 18.1,
+   "n_independent": 0,
+   "best_tier_weight": 0.15,
+   "components": {
+    "corroboration": 0.0,
+    "quality": 0.15,
+    "recency": 0.302,
+    "escalation": 0.181,
+    "severity": 0.6
+   },
+   "latest": "2026-10-02T10:43:38+00:00",
+   "rank": 96,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-7ad3c0d3",
+   "home": "T13",
+   "topics": {
+    "T13": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://slashdot.org/firehose.pl?op=view&amp;id=185926552",
+   "lead_title": "A Front Line at the Border: How Russia Uses Migrants as Weapons Against Europe - The New York Times",
+   "lead_source": "Slashdot.org",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T13",
+     "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185926552",
+     "title": "A Front Line at the Border: How Russia Uses Migrants as Weapons Against Europe - The New York Times",
+     "description": "A Front Line at the Border: How Russia Uses Migrants as Weapons Against EuropeThe New York Times...",
+     "source": "Slashdot.org",
+     "publishedAt": "2026-10-02T05:13:29Z",
+     "domain": "slashdot.org",
+     "category": "aggregator",
+     "origin": null
+    }
+   ],
+   "contradictions": [],
+   "score": 12.7,
+   "n_independent": 0,
+   "best_tier_weight": 0.15,
+   "components": {
+    "corroboration": 0.0,
+    "quality": 0.15,
+    "recency": 0.244,
+    "escalation": 0.0,
+    "severity": 0.6
+   },
+   "latest": "2026-10-02T05:13:29+00:00",
+   "rank": 97,
+   "top_rank": null,
+   "related": []
+  },
+  {
+   "id": "th-79d95f83",
+   "home": "T10",
+   "topics": {
+    "T10": 1
+   },
+   "n_articles": 1,
+   "lead_url": "https://biztoc.com/x/e51ec632c8a24102",
+   "lead_title": "The $40 Billion Minerals Gamble: Can Trump Break China's Chokehold Before The West's Rearmament Hits A Wall?",
+   "lead_source": "Biztoc.com",
+   "bluf_eligible": false,
+   "articles": [
+    {
+     "topic": "T10",
+     "url": "https://biztoc.com/x/e51ec632c8a24102",
+     "title": "The $40 Billion Minerals Gamble: Can Trump Break China's Chokehold Before The West's Rearmament Hits A Wall?",
+     "description": "The $40 Billion Minerals Gamble: Can Trump Break China's Chokehold Before The West's Rearmament Hits A Wall?\n \nThe Trump administration has committed billions of dollars to rebuild conflict-free critical materials supply chains outside China. The question rem\u2026",
+     "source": "Biztoc.com",
+     "publishedAt": "2026-10-02T00:33:50Z",
+     "domain": "biztoc.com",
+     "category": "aggregator",
+     "origin": null
+    }
+   ],
+   "contradictions": [],
+   "score": 11.1,
+   "n_independent": 0,
+   "best_tier_weight": 0.15,
+   "components": {
+    "corroboration": 0.0,
+    "quality": 0.15,
+    "recency": 0.204,
+    "escalation": 0.0,
+    "severity": 0.5
+   },
+   "latest": "2026-10-02T00:33:50+00:00",
+   "rank": 98,
+   "top_rank": null,
+   "related": []
+  }
+ ]
+}

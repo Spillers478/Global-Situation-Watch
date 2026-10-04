@@ -1,0 +1,32 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "Fox News",
+      "title": "Chinese AI model investigated after researcher says it provided instructions for bioweapons, assassinations",
+      "description": "Chinese AI company Moonshot AI has launched an internal investigation after a researcher found that one of its models could be manipulated into providing instructions for developing biological weapons and carrying out assassinations, Fox News senior foreign p\u2026",
+      "url": "https://freerepublic.com/focus/f-chat/4397746/posts",
+      "urlToImage": null,
+      "publishedAt": "2026-10-02T22:15:30Z",
+      "content": "Skip to comments.\r\nChinese AI model investigated after researcher says it provided instructions for bioweapons, assassinationsFox News ^\r\n | 10/01/26\r\n | Brittany Miller\r\nPosted on 10/02/2026 3:15:30\u2026 [+1605 chars]",
+      "cocom": "USINDOPACOM"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Chinese AI model investigated after researcher says it provided instructions for bioweapons, assassinations",
+      "description": "Researcher Peter Garrigan says Moonshot AI's Kimi model was manipulated into providing instructions for biological weapons and assassination plans.",
+      "url": "https://www.foxnews.com/tech/chinese-ai-model-investigated-researcher-says-provided-instructions-bioweapons-assassinations",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/moonshot-ai-kimi-k3-chinese-ai-model.jpg",
+      "publishedAt": "2026-10-02T01:31:03Z",
+      "content": "Chinese AI company Moonshot AI has launched an internal investigation after a researcher found that one of its models could be manipulated into providing instructions for developing biological weapon\u2026 [+1086 chars]",
+      "cocom": "Transregional"
+    }
+  ]
+}

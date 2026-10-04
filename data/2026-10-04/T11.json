@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "totalResults": 1,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "POLITICO.eu"
+      },
+      "author": "Gabriel Gavin, Frida Preu\u00df",
+      "title": "Europe war-games life after Merz",
+      "description": "The German chancellor's foes at home are rejoicing at his political downturn. But those in Brussels aren't.",
+      "url": "https://www.politico.eu/article/europe-contemplates-life-after-friedrich-merz/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/01/IMG_4125-scaled.png",
+      "publishedAt": "2026-10-02T02:00:00Z",
+      "content": "Ultimately Merz\u2019s fellow German conservatives in Brussels Commission President Ursula von der Leyen and European People\u2019s Party chief Manfred Weber stepped in to kill the proposal at the eleventh hou\u2026 [+1985 chars]"
+    }
+  ]
+}

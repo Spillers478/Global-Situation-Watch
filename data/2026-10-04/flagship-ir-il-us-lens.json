@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "totalResults": 1,
+  "articles": [
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Two Iranians charged over alleged plot targeting Jewish community in UK - Al Jazeera",
+      "description": "Two Iranian men are accused of preparing to commit attack in Manchester on or before Yom Kippur.",
+      "url": "https://www.aljazeera.com/news/2026/10/3/two-iranians-charged-over-alleged-plot-targeting-jewish-community-in-uk",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6ac06ade6d-1790995166.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-03T04:00:18Z",
+      "content": "British authorities have charged two Iranian nationals with planning an attack against the Jewish community in northern England.\r\nThe UK Crown Prosecution Service (CPS) said on Friday that Rahman Sal\u2026 [+2597 chars]"
+    }
+  ]
+}

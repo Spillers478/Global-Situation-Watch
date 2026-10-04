@@ -1,0 +1,78 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Three in four households go hungry in parts of Yemen amid fighting: UN",
+      "description": "World Food Programme warns of 'devastating' impact as conflict displaces thousands and cuts off food supplies.",
+      "url": "https://www.aljazeera.com/news/2026/10/2/three-in-four-households-go-hungry-in-parts-of-yemen-amid-fighting-un",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6abfcf7439000-1790955380.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-02T16:06:25Z",
+      "content": "Three out of four families in parts of Yemen are going hungry after a surge in fighting displaced tens of thousands of people and disrupted food supplies, the United Nations food agency says.\r\nSome 7\u2026 [+2678 chars]",
+      "cocom": "USCENTCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Foreign Policy"
+      },
+      "author": "Ravi Agrawal",
+      "title": "\u2018What Is Happening Today Is Development in Reverse\u2019",
+      "description": "A conversation with UNDP chief Alexander De Croo about building infrastructure in active conflict zones.",
+      "url": "http://foreignpolicy.com/2026/10/02/undp-alexander-de-croo-ukraine-war-reconstruction-gaza-reconstruction-afghanistan/",
+      "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2026/10/GettyImages-2222751539.jpg",
+      "publishedAt": "2026-10-02T16:32:07Z",
+      "content": "Development work is hard enough on its own, but how does one build infrastructure while a war is raging around you? According to Alexander De Croo, the administrator of the United Nations Development\u2026 [+15425 chars]",
+      "cocom": "Transregional",
+      "_original_topic_id": "T10"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Saeed Al Batati",
+      "title": "A Yemeni family spends a week on the road fleeing another Houthi offensive",
+      "description": "Displaced Yemenis are fleeing again, as the Houthis capture the Red Sea coast.",
+      "url": "https://www.aljazeera.com/features/2026/10/3/a-yemeni-family-spend-a-week-on-the-road-fleeing-another-houthi-offensive",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/Saeed-second-from-right-and-his-brother-Mohammed-center-pose-with-their-families-behind-a-pile-of-bags-containing-clothes-an-1791014284.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-03T10:48:28Z",
+      "content": "Mukalla, Yemen When waves of Yemeni government forces started to flee the front lines near al-Khokha, a Red Sea town between Hodeidah and Mocha, two of Saeed Hassans sons rushed to alert their father\u2026 [+11148 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T13"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Three in four households go hungry in parts of Yemen amid fighting: UN",
+      "description": "World Food Programme warns of 'devastating' impact as conflict displaces thousands and cuts off food supplies.",
+      "url": "https://www.aljazeera.com/news/2026/10/2/three-in-four-households-go-hungry-in-parts-of-yemen-amid-fighting-un",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6abfcf7439000-1790955380.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-02T16:06:25Z",
+      "content": "Three out of four families in parts of Yemen are going hungry after a surge in fighting displaced tens of thousands of people and disrupted food supplies, the United Nations food agency says.\r\nSome 7\u2026 [+2678 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T13"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNA"
+      },
+      "author": null,
+      "title": "Three in four families go hungry in parts of Yemen from new fighting",
+      "description": "GENEVA: Three-in-four families in parts of Yemen are going hungry from the \"absolutely devastating\" impact of a surge in fighting, which has displaced tens of thousands of people and disrupted supplies to millions, the World Food Programme said on Friday (Oct\u2026",
+      "url": "https://www.channelnewsasia.com/world/three-in-four-families-go-hungry-in-parts-yemen-new-fighting-6426751",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--emx8DKq1--/c_crop,h_449,w_799,x_1,y_84/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-02T102645Z_1_LYNXMPEM910RY_RTROPTP_3_YEMEN-SECURITY-UN.JPG?itok=gxoFug9B",
+      "publishedAt": "2026-10-02T15:09:03Z",
+      "content": "GENEVA: Three-in-four families in parts of Yemen are going hungry from the \"absolutely devastating\" impact of a surge in fighting, which has displaced tens of thousands of people and disrupted suppli\u2026 [+1286 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T13"
+    }
+  ]
+}

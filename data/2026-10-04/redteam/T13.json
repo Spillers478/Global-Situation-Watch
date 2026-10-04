@@ -1,0 +1,90 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Christian K. Caruzo",
+      "title": "Reports: Migrant Invasion of Ceuta Beach Delivers Dangerous Levels of Fecal Contamination",
+      "description": "The waters of Ceuta's El\u00a0Trampol\u00edn beach present unsafe levels of fecal contamination, posing a serious sanitary risk for the embattled and invaded city, local outlets warned on Friday morning.\nThe post Reports: Migrant Invasion of Ceuta Beach Delivers Danger\u2026",
+      "url": "https://www.breitbart.com/europe/2026/10/02/reports-waters-of-ceuta-beach-invaded-by-migrants-show-dangerous-levels-of-fecal-contamination/",
+      "urlToImage": "https://media.breitbart.com/media/2026/10/ceuta-beach-640x335.jpg",
+      "publishedAt": "2026-10-02T09:42:48Z",
+      "content": "The waters of Ceuta\u2019s El\u00a0Trampol\u00edn beach present unsafe levels of fecal contamination, posing a serious sanitary risk for the embattled and invaded city, local outlets warned on Friday morning.\r\nThe \u2026 [+3236 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T01"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "A Front Line at the Border: How Russia Uses Migrants as Weapons Against Europe - The New York Times",
+      "description": "A Front Line at the Border: How Russia Uses Migrants as Weapons Against EuropeThe New York Times...",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185926552",
+      "urlToImage": null,
+      "publishedAt": "2026-10-02T05:13:29Z",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T01"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "DHS exposes dilemma behind SCOTUS deportation fight: \u2018We have two choices\u2019",
+      "description": "DHS General Counsel James Percival defends third-country removals on social media as the Supreme Court temporarily stays a lower-court ruling.",
+      "url": "https://www.foxnews.com/politics/dhs-exposes-dilemma-behind-scotus-deportation-fight-two-choices",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/ice-deportation-flight-dallas.jpg",
+      "publishedAt": "2026-10-03T14:00:28Z",
+      "content": "The Supreme Court temporarily cleared the Trump administration to continue its third-country deportation policy this week, as DHS top lawyer mounts a public defense of an immigration authority the ad\u2026 [+4490 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Samantha Ho",
+      "title": "\u2018They are crying\u2019: Refugees in Malaysia in fear amid Myanmar deportation",
+      "description": "Shrinking resources for refugee support groups in Malaysia collide with increasing hostility towards the Rohingya.",
+      "url": "https://www.aljazeera.com/features/2026/10/2/they-are-crying-refugees-in-malaysia-in-fear-amid-myanmar-deportation",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-07-28T022651Z_1758124644_RC2CMMA6WGXQ_RTRMADP_3_MALAYSIA-REFUGEE-1790681810.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-02T08:14:18Z",
+      "content": "Kuala Lumpur, Malaysia The phone hasnt stopped ringing in recent days. Raf*, a leader of refugees from Myanmar who are living in Malaysia, receives more than 100 calls a day, and they follow a common\u2026 [+9485 chars]",
+      "cocom": "USINDOPACOM"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Greece pushes EU to suspend asylum during mass migration surges",
+      "description": "EU migration pact improvements face criticism for insufficient tools to manage large-scale migration emergencies.",
+      "url": "https://www.aljazeera.com/news/2026/10/2/greece-pushes-eu-to-suspend-asylum-during-mass-migration-surges",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6abf1ea87fda-1790910120_35ee74-1790918756.jpg?resize=1200%2C630&quality=80",
+      "publishedAt": "2026-10-02T06:16:14Z",
+      "content": "Greece has urged the European Union to allow member states to temporarily suspend asylum applications during periods of mass migration, arguing that current rules cannot handle emergencies such as th\u2026 [+2993 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DW (English)"
+      },
+      "author": "Srinivas Mazumdaru",
+      "title": "EU ministers mull new ways to curb irregular migration",
+      "description": "The proposals include setting up so-called return hubs outside the EU and strengthening the border agency Frontex. Greece has even proposed temporarily suspending asylum applications in emergency situations. The interior ministers of European Union countries \u2026",
+      "url": "https://www.dw.com/en/eu-ministers-mull-new-ways-to-curb-irregular-migration/a-79509375",
+      "urlToImage": "https://static.dw.com/image/52538913_6.jpg",
+      "publishedAt": "2026-10-02T00:54:00Z",
+      "content": "The interior ministers of European Union countries met in Luxembourg on Thursday to discuss ways to strengthen border controls and curb undocumented migration into the 27-member bloc.\u00a0\r\nFollowing the\u2026 [+4083 chars]",
+      "cocom": "USEUCOM"
+    }
+  ]
+}

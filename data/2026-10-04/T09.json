@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "totalResults": 1,
+  "articles": [
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "The Senate has remembered America\u2019s October 7th victims. Now it\u2019s time to heal",
+      "description": "The father of a soldier killed at Nahal Oz on October 7 urges Congress to act after the Senate unanimously honored all 46 American Hamas victims.",
+      "url": "https://www.foxnews.com/opinion/senate-remembered-americas-october-7th-victims-time-heal",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/itay-chen-omer-neutra-marco-rubio-mike-huckabee-israel-gaza-war-hostages.jpg",
+      "publishedAt": "2026-10-03T14:00:48Z",
+      "content": "On October 7, 2023, my son Itay was nineteen, an American-Israeli soldier stationed at Nahal Oz protecting the border, when Hamas terrorists kidnapped and murdered him. They held his remains in Gaza \u2026 [+4296 chars]"
+    }
+  ]
+}

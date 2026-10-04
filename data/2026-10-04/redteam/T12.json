@@ -1,0 +1,130 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "info@thehackernews.com (The Hacker News)",
+      "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
+      "description": "The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and Spanish-speaking countries.\n\nThe activity, observed \u2026",
+      "url": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCZSaqs29yWFrct8zgOikM9e4CS0xuAXppzGJ1tskKpKC2gbGuITsYlHYNcnXDMvrFpPuAVS_ZlyEF8Obp7Mgw7CUXe4UsKP3pNEvZWNfszKQVxogslYpoWBZG-QQbEvmS6SDcbgVtXiFFGIEjreD_HSkCYZTfcwL1Rt90qDbbPj946SbMX0FR5CEKRt_H/s1700-nu-rw-lo-l85-e365/sharepoint-ransomware.jpg",
+      "publishedAt": "2026-10-03T14:36:33Z",
+      "content": "The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portugue\u2026 [+3831 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "How foreign hackers could 'crumble' America by targeting one essential utility",
+      "description": "Environmental Protection Agency officials say cyberattacks on U.S. water systems have surged several fold, shifting from ransomware to disruption.",
+      "url": "https://www.foxnews.com/politics/how-foreign-hackers-could-crumble-america-targeting-essential-utility",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/minnesota-water-systems-1.jpg",
+      "publishedAt": "2026-10-03T10:00:38Z",
+      "content": "A massive surge in cyberattacks on Americans' water supply in recent years has exposed a shift in hackers' focus from financially motivated ransomeware to attacks designed to disrupt one of the most \u2026 [+5877 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Max Zahn",
+      "title": "OpenAI reveals another hack into a government agency in Australia",
+      "description": "The disclosure adds to a flurry of AI hacks revealed by the company in recent months.",
+      "url": "https://abcnews.com/Business/openai-reveals-hack-government-agency-australia/story?id=136945837",
+      "urlToImage": "https://i.abcnewsfe.com/a/744e8e75-816b-48c5-b80d-e66adc7cab83/sam-altman-gty-jef-261002_1790951882775_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-10-02T21:08:03Z",
+      "content": "OpenAI on Friday revealed another hack into a second Australian government agency, a week after the disclosure of an initial hack fueled public backlash against the ChatGPT-maker.\r\nAn AI model gained\u2026 [+4604 chars]",
+      "cocom": "USINDOPACOM"
+    },
+    {
+      "source": {
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "author": "Bloomberg News",
+      "title": "Hackers breached propulsion system of U.S.-bound oil tanker",
+      "description": "U.S. investigators found evidence that hackers accessed the propulsion system of an oil tanker as it approached the Texas coast. Read on",
+      "url": "https://financialpost.com/cybersecurity/hackers-breached-oil-tanker-propulsion-system",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/1003-mg-tanker.png",
+      "publishedAt": "2026-10-02T20:40:27Z",
+      "content": "FBI and United States Coast Guard investigators have found evidence that hackers accessed the propulsion system of an oil supertanker as it was approaching the Texas coast this summer, according to U\u2026 [+5705 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forkast.news"
+      },
+      "author": "Heath Callahan",
+      "title": "Cisco SD-WAN\u2019s URL Encoding Bypass Grants Unauthenticated Admin Access. Federal Agencies Have 24 Hours.",
+      "description": "A critical authentication bypass vulnerability, tracked as CVE-2026-76504, is currently being exploited in the wild against Cisco Catalyst SD-WAN Manager. The vulnerability, which carries a CVSS score of 9.8, allows unauthenticated remote attackers to gain ad\u2026",
+      "url": "https://forkast.news/cisco-sd-wans-url-encoding-bypass-grants-unauthenticated-admin-access-federal-agencies-have-24-hours/",
+      "urlToImage": "https://forkast.news/wp-content/uploads/2026/10/cisco-sdwan-url-encoding-bypass-1024x572.jpg",
+      "publishedAt": "2026-10-02T18:42:16Z",
+      "content": "A critical authentication bypass vulnerability, tracked as CVE-2026-76504, is currently being exploited in the wild against Cisco Catalyst SD-WAN Manager. The vulnerability, which carries a CVSS scor\u2026 [+4008 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Ionut Ilascu",
+      "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
+      "description": "The China-linked ransomware group Warlock targeted a water utility, a telecom provider, a regional government body, and a university by exploiting SharePoint vulnerabilities to gain initial access. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/08/26/Microsoft-SharePoint.jpg",
+      "publishedAt": "2026-10-02T18:33:01Z",
+      "content": "The China-linked ransomware group Warlock targeted a water utility, a telecom provider, a regional government body, and a university by exploiting SharePoint vulnerabilities to gain initial access.\r\n\u2026 [+3220 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Peoplesreview.com.np"
+      },
+      "author": "People's Review",
+      "title": "Hackers expose Nepal\u2019s digital weaknesses",
+      "description": "By Our Reporter Nepal is rapidly becoming digital without becoming equally secure. Banking, share trading, government procurement, tax payments, passports and many everyday services now depend on computers and online networks. That transition has made life ea\u2026",
+      "url": "https://peoplesreview.com.np/2026/10/02/hackers-expose-nepals-digital-weaknesses/",
+      "urlToImage": "https://peoplesreview.com.np/wp-content/uploads/2026/10/Nepal-digital-weakness.jpeg",
+      "publishedAt": "2026-10-02T15:03:22Z",
+      "content": "By Our Reporter\r\nNepal is rapidly becoming digital without becoming equally secure. Banking, share trading, government procurement, tax payments, passports and many everyday services now depend on co\u2026 [+4086 chars]",
+      "cocom": "USINDOPACOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Infosecurity Magazine"
+      },
+      "author": "James Coker",
+      "title": "Microsoft: AI Cuts Post-Compromise Attack Time to Minutes",
+      "description": "Microsoft has warned that threat actors have gained the advantage over defenders by using AI to enhance the speed and scale of attacks",
+      "url": "https://www.infosecurity-magazine.com/news/microsoft-ai-attack-time-minutes/",
+      "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/9b3d489e-72d0-48fe-a8b7-aee191666d7c.jpeg",
+      "publishedAt": "2026-10-02T14:15:00Z",
+      "content": "AI has enabled threat actors compressed parts of the cyber-attack lifecycle from days to minutes, presenting a major challenge for defenders, Microsofts Digital Defense Report 2026 has warned.\r\nThe t\u2026 [+4137 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hackaday"
+      },
+      "author": "Mike Kershaw",
+      "title": "This Week in Security: ShinyHunters Won\u2019t Dox the FBI, Pentagon Data Stolen, and OBS Vulnerable",
+      "description": "404 Media reports that the ShinyHunters group who stole multiple terabytes of FBI employee data say they do not plan to release the data. Known for ransomware and extortion of innumerable companies\u2026",
+      "url": "https://hackaday.com/2026/10/02/this-week-in-security-shinyhunters-wont-dox-the-fbi-pentagon-data-stolen-and-obs-vulnerable/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg",
+      "publishedAt": "2026-10-02T14:00:22Z",
+      "content": "404 Media reports that the ShinyHunters group who stole multiple terabytes of FBI employee data say they do not plan to release the data.\r\nKnown for ransomware and extortion of innumerable companies \u2026 [+10965 chars]",
+      "cocom": "USNORTHCOM"
+    }
+  ]
+}

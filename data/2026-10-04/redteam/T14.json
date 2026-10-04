@@ -1,0 +1,63 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "rte",
+        "name": "RTE"
+      },
+      "author": "RT\u00c9 News",
+      "title": "Russia warns diplomats, foreigners to leave Kyiv",
+      "description": "Russia has issued a new call for diplomats and foreigners to leave Kyiv, warning the Ukrainian capital of \"massive\" strikes, in a statement by its foreign ministry.",
+      "url": "https://www.rte.ie/news/ukraine/2026/1003/1593888-ukraine-russia/",
+      "urlToImage": "https://www.rte.ie/images/00251c64-1600.jpg",
+      "publishedAt": "2026-10-03T11:22:23Z",
+      "content": "Russia has issued a new call for diplomats and foreigners to leave Kyiv, warning the Ukrainian capital of \"massive\" strikes, in a statement by its foreign ministry.\r\nMoscow has been pummelling Ukrain\u2026 [+2892 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "flagship-ru-ua"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "US and Australia suspend diplomatic operations in Brazil before election",
+      "description": "Security threats prompt US and Australia to suspend diplomatic operations in Brazil before pivotal election day.",
+      "url": "https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6ac03839c0-1790982201.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-03T00:46:10Z",
+      "content": "The United States has suspended consular services in Brazil, prompting Australia to close its embassy in the Brazilian capital, two days before Brazils presidential election on Sunday.\r\nIn a statemen\u2026 [+2482 chars]",
+      "cocom": "USSOUTHCOM",
+      "_original_topic_id": "T05"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "EL\u00c9ONORE HUGHES Associated Press",
+      "title": "US, Australia suspend consular services in Brazil ahead of election",
+      "description": "U.S. consular services and the Australian embassy have closed in Brazil due to security concerns",
+      "url": "https://abcnews.com/International/wireStory/us-australia-suspend-consular-services-brazil-ahead-election-136961836",
+      "urlToImage": "https://i.abcnewsfe.com/a/55413f75-a93f-4cc1-ac9b-2a34a28cfde4/wirestory_b413b79e9b75feb84a56d1a0440b6330_16x9.jpg?w=1600",
+      "publishedAt": "2026-10-02T22:26:04Z",
+      "content": "RIO DE JANEIRO -- U.S. consular services and the Australian embassy in Brazil closed Friday citing security concerns, two days before the country's presidential election, authorities from both countr\u2026 [+2227 chars]",
+      "cocom": "USSOUTHCOM",
+      "_original_topic_id": "T05"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "US and Australia suspend diplomatic operations in Brazil before election",
+      "description": "Security threats prompt US and Australia to suspend diplomatic operations in Brazil before pivotal election day.",
+      "url": "https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6ac03839c0-1790982201.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-03T00:46:10Z",
+      "content": "The United States has suspended consular services in Brazil, prompting Australia to close its embassy in the Brazilian capital, two days before Brazils presidential election on Sunday.\r\nIn a statemen\u2026 [+2482 chars]",
+      "cocom": "USSOUTHCOM"
+    }
+  ]
+}

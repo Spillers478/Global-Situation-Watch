@@ -1,0 +1,513 @@
+{
+  "status": "ok",
+  "totalResults": 39,
+  "articles": [
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Former Anthropic security leader warns AI agents are becoming too autonomous for humans to keep them in check",
+      "description": "Jeffrey Ladish, a former Anthropic security team member, warns AI agents are colluding and hacking with no reliable solution to keep them in check.",
+      "url": "https://www.foxnews.com/tech/former-anthropic-security-leader-warns-ai-agents-becoming-too-autonomous-humans-keep-check",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/jeffrey-ladish.jpg",
+      "publishedAt": "2026-10-03T17:26:10Z",
+      "content": "Artificial intelligence researcher Jeffrey Ladish told Fox News Digital that humanity does not have any real strategies to keep increasingly autonomous AI models and agents under control as they beco\u2026 [+5807 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MakeUseOf"
+      },
+      "author": "Tashreef Shareef",
+      "title": "The 3-2-1 backup rule everyone repeats is missing a step, and I found out the hard way",
+      "description": "Your backups might already be corrupted, and a success message won't warn you.",
+      "url": "https://www.makeuseof.com/3-2-1-backup-rule-missing-step/",
+      "urlToImage": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/06/internal-hard-drive-dismantled-and-kept-on-a-laptop.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-10-03T15:00:15Z",
+      "content": "If you've ever looked into how to properly back up your important files, chances are someone pointed you to the 3-2-1 backup rule. Keep three copies of your data, store them on two different media ty\u2026 [+5408 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "info@thehackernews.com (The Hacker News)",
+      "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
+      "description": "The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and Spanish-speaking countries.\n\nThe activity, observed \u2026",
+      "url": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCZSaqs29yWFrct8zgOikM9e4CS0xuAXppzGJ1tskKpKC2gbGuITsYlHYNcnXDMvrFpPuAVS_ZlyEF8Obp7Mgw7CUXe4UsKP3pNEvZWNfszKQVxogslYpoWBZG-QQbEvmS6SDcbgVtXiFFGIEjreD_HSkCYZTfcwL1Rt90qDbbPj946SbMX0FR5CEKRt_H/s1700-nu-rw-lo-l85-e365/sharepoint-ransomware.jpg",
+      "publishedAt": "2026-10-03T14:36:33Z",
+      "content": "The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portugue\u2026 [+3831 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "PTI",
+      "title": "RBI committed to remain vigilant of emerging vulnerabilities, keep financial system resilient: Guv",
+      "description": "Speaking at the Kautilya Economic Conclave, he outlined five policy priorities, stressing that financial stability should strengthen the system\u2019s ability to withstand and contain shocks",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/rbi-committed-to-remain-vigilant-of-emerging-vulnerabilities-keep-financial-system-resilient-guv/article71540469.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/1mfbcn/article71540574.ece/alternates/LANDSCAPE_1200/2026-09-11T091743Z_109916859_RC26SMAYJ264_RTRMADP_3_INDIA-RBI-LIQUIDITY.JPG",
+      "publishedAt": "2026-10-03T12:03:21Z",
+      "content": "Reserve Bank Governor Sanjay Malhotra on Saturday cautioned that the financial system's resilience today should not be seen as a guarantee against future vulnerabilities, and called for continued vig\u2026 [+5554 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Sangita Mehta",
+      "title": "Next financial crisis may stem from cyberattack or geopolitical shock, RBI governor says",
+      "description": "RBI Governor Sanjay Malhotra said the next financial crisis may be triggered by geopolitical shocks, cyberattacks or technology failures rather than the banking system itself, calling for stronger resilience across markets, payments, non-banks and critical in\u2026",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/next-financial-crisis-may-stem-from-cyberattack-or-geopolitical-shock-rbi-governor-says/articleshow/134656709.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134656752,width-1200,height-900,imgsize-81566,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-03T10:14:07Z",
+      "content": "The next financial crisis may originate from a geopolitical event, cyberattack or technological failure rather than from banks or the financial sector, Reserve Bank of India Governor Sanjay Malhotra \u2026 [+2909 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "How foreign hackers could 'crumble' America by targeting one essential utility",
+      "description": "Environmental Protection Agency officials say cyberattacks on U.S. water systems have surged several fold, shifting from ransomware to disruption.",
+      "url": "https://www.foxnews.com/politics/how-foreign-hackers-could-crumble-america-targeting-essential-utility",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/minnesota-water-systems-1.jpg",
+      "publishedAt": "2026-10-03T10:00:38Z",
+      "content": "A massive surge in cyberattacks on Americans' water supply in recent years has exposed a shift in hackers' focus from financially motivated ransomeware to attacks designed to disrupt one of the most \u2026 [+5877 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Krity Ambey",
+      "title": "Today's financial resilience may not imply tomorrow's immunity: RBI Guv",
+      "description": "Sanjay Malhotra said future crises could emerge from geopolitics, cyberattacks or technology failures, requiring resilience across banks, markets and financial infrastructure",
+      "url": "https://www.business-standard.com/economy/news/rbi-sanjay-malhotra-financial-stability-risks-kautilya-conclave-126100300415_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/05/thumb/fitandfill/1200X628/1785935499-161.jpg",
+      "publishedAt": "2026-10-03T08:58:47Z",
+      "content": "Sanjay Malhotra said future crises could emerge from geopolitics, cyberattacks or technology failures, requiring resilience across banks, markets and financial infrastructure\r\nMalhotra said the next \u2026 [+3454 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Press Trust of India",
+      "title": "Today's financial resilience does not guarantee future stability: RBI guv",
+      "description": "Reserve Bank Governor Sanjay Malhotra on Saturday said the resilience of the financial system today should not be taken as a guarantee against future vulnerabilities and called for continued vigilance to safeguard financial stability.\nSpeaking at the Kautilya\u2026",
+      "url": "https://www.business-standard.com/economy/news/today-s-financial-resilience-does-not-guarantee-future-stability-rbi-guv-126100300329_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/11/thumb/fitandfill/1200X628/1789109647-1715.jpg",
+      "publishedAt": "2026-10-03T08:25:28Z",
+      "content": "Reserve Bank Governor Sanjay Malhotra on Saturday said the resilience of the financial system today should not be taken as a guarantee against future vulnerabilities and called for continued vigilanc\u2026 [+3228 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "Shishir Sinha",
+      "title": "Resilience of financial system not a guarantee against future vulnerabilities: RBI Guv",
+      "description": "RBI Governor warns resilience isn\u2019t immunity, urging robust risk-management, data, and open, competitive financial systems amid evolving global threats.",
+      "url": "https://www.thehindubusinessline.com/economy/resilience-of-financial-system-not-a-guarantee-against-future-vulnerabilities-rbi-guv/article71540043.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/jrkuok/article71540089.ece/alternates/LANDSCAPE_1200/TH26-BusinessliGNHGAA9KG.3.jpg.jpg",
+      "publishedAt": "2026-10-03T08:24:43Z",
+      "content": "Reserve Bank of Indias Governor Sanjay Malhotra on Saturday said that the domestic financial system remained resilient even as he flagged several risks. Meanwhile, Principal Secretary to the Prime Mi\u2026 [+3736 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PRNewswire"
+      },
+      "author": null,
+      "title": "CAZ Investments LP Data Breach Investigation: Edelson Lechtzin LLP Probes Class Action Claims After Customer Data Is Exposed",
+      "description": "National class action law firm offers free, confidential case evaluations to investors and others whose personal and financial information may have been exposed in the CAZ Investments LP data breach. NEWTOWN, Pa., Oct. 2, 2026 /PRNewswire/ -- Edelson Lechtzin\u2026",
+      "url": "https://www.prnewswire.com/news-releases/caz-investments-lp-data-breach-investigation-edelson-lechtzin-llp-probes-class-action-claims-after-customer-data-is-exposed-302897584.html",
+      "urlToImage": "https://mmx.prnewswire.com/media/MS1803521/safe-image.jpg?id=OA2985552&p=facebook",
+      "publishedAt": "2026-10-03T01:00:00Z",
+      "content": "National class action law firm offers free, confidential case evaluations to investors and others whose personal and financial information may have been exposed in the CAZ Investments LP data breach.\u2026 [+4807 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "Rhianna Schmunk",
+      "title": "Software issue knocked out 911 service for several provinces last month, Bell report says",
+      "description": "A 911 outage that lasted nearly an hour and a half in several Canadian provinces last month was caused by a previously undetected bug in Bell's software, the company said in a report on Friday.",
+      "url": "https://www.cbc.ca/news/canada/911-outage-bell-canada-crtc-report-october-1-2026-9.7367588",
+      "urlToImage": "https://i.cbc.ca/ais/75c3dad5-b905-4a46-a3d5-d79daa72faf8,1790972519233/full/max/0/default.jpg?im=Crop%2Crect%3D%28959%2C426%2C3532%2C1986%29%3BResize%3D620",
+      "publishedAt": "2026-10-02T21:44:46Z",
+      "content": "A 911 outage that lasted nearly an hour and a half in several Canadian provinces last month was caused by a previously undetected bug in Bell's software, the company said in a report on Friday.\r\nThe \u2026 [+3855 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Max Zahn",
+      "title": "OpenAI reveals another hack into a government agency in Australia",
+      "description": "The disclosure adds to a flurry of AI hacks revealed by the company in recent months.",
+      "url": "https://abcnews.com/Business/openai-reveals-hack-government-agency-australia/story?id=136945837",
+      "urlToImage": "https://i.abcnewsfe.com/a/744e8e75-816b-48c5-b80d-e66adc7cab83/sam-altman-gty-jef-261002_1790951882775_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-10-02T21:08:03Z",
+      "content": "OpenAI on Friday revealed another hack into a second Australian government agency, a week after the disclosure of an initial hack fueled public backlash against the ChatGPT-maker.\r\nAn AI model gained\u2026 [+4604 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Singularity Hub"
+      },
+      "author": "Deven Desai",
+      "title": "The \u2018WarGames\u2019 Problem: Computer Science Has Long Understood What It Takes to Keep AI Under Control",
+      "description": "The AI hacking events involving OpenAI, Anthropic, and Google underscore lessons that draw on years of computer science research.\nThe post The \u2018WarGames\u2019 Problem: Computer Science Has Long Understood What It Takes to Keep AI Under Control appeared first on Si\u2026",
+      "url": "https://singularityhub.com/2026/10/02/the-wargames-problem-computer-science-has-long-understood-what-it-takes-to-keep-ai-under-control/#article",
+      "urlToImage": "https://singularityhub.com/uploads/2026/10/glitchy-green-map.jpeg?auto=webp",
+      "publishedAt": "2026-10-02T20:54:15Z",
+      "content": "AI agents dont go rogue. Thats something only humans do.\r\nNevertheless, a New York Times articlerepresentative of much news coverage of described an OpenAI hacking as AI bots going rogue and independ\u2026 [+6785 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "author": "Bloomberg News",
+      "title": "Hackers breached propulsion system of U.S.-bound oil tanker",
+      "description": "U.S. investigators found evidence that hackers accessed the propulsion system of an oil tanker as it approached the Texas coast. Read on",
+      "url": "https://financialpost.com/cybersecurity/hackers-breached-oil-tanker-propulsion-system",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/1003-mg-tanker.png",
+      "publishedAt": "2026-10-02T20:40:27Z",
+      "content": "FBI and United States Coast Guard investigators have found evidence that hackers accessed the propulsion system of an oil supertanker as it was approaching the Texas coast this summer, according to U\u2026 [+5705 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forkast.news"
+      },
+      "author": "Heath Callahan",
+      "title": "Cisco SD-WAN\u2019s URL Encoding Bypass Grants Unauthenticated Admin Access. Federal Agencies Have 24 Hours.",
+      "description": "A critical authentication bypass vulnerability, tracked as CVE-2026-76504, is currently being exploited in the wild against Cisco Catalyst SD-WAN Manager. The vulnerability, which carries a CVSS score of 9.8, allows unauthenticated remote attackers to gain ad\u2026",
+      "url": "https://forkast.news/cisco-sd-wans-url-encoding-bypass-grants-unauthenticated-admin-access-federal-agencies-have-24-hours/",
+      "urlToImage": "https://forkast.news/wp-content/uploads/2026/10/cisco-sdwan-url-encoding-bypass-1024x572.jpg",
+      "publishedAt": "2026-10-02T18:42:16Z",
+      "content": "A critical authentication bypass vulnerability, tracked as CVE-2026-76504, is currently being exploited in the wild against Cisco Catalyst SD-WAN Manager. The vulnerability, which carries a CVSS scor\u2026 [+4008 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Ionut Ilascu",
+      "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
+      "description": "The China-linked ransomware group Warlock targeted a water utility, a telecom provider, a regional government body, and a university by exploiting SharePoint vulnerabilities to gain initial access. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/08/26/Microsoft-SharePoint.jpg",
+      "publishedAt": "2026-10-02T18:33:01Z",
+      "content": "The China-linked ransomware group Warlock targeted a water utility, a telecom provider, a regional government body, and a university by exploiting SharePoint vulnerabilities to gain initial access.\r\n\u2026 [+3220 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "author": "Charlie Warzel",
+      "title": "An Argument Against AI Doom",
+      "description": "The latest hacks reveal a sprawling cybersecurity crisis.",
+      "url": "https://www.theatlantic.com/podcasts/2026/10/an-argument-against-ai-doom/688863/?utm_source=feed",
+      "urlToImage": null,
+      "publishedAt": "2026-10-02T17:00:00Z",
+      "content": "Subscribe here: Apple Podcasts | Spotify | YouTube The flood of reports about AI agents escaping and hacking websites can feel scary. But is this actually just a matter of needing better security to \u2026 [+54354 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Sergiu Gatlan",
+      "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
+      "description": "GitLab warned customers today to immediately patch a critical AI Gateway vulnerability that could let attackers run arbitrary commands on vulnerable instances. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/09/14/GitLab.jpg",
+      "publishedAt": "2026-10-02T16:20:05Z",
+      "content": "GitLab warned customers today to immediately patch a critical AI Gateway vulnerability that could let attackers run arbitrary commands on vulnerable instances.\r\nAI Gateway is a service that gives acc\u2026 [+2724 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PRNewswire"
+      },
+      "author": null,
+      "title": "IDrive Business Offers Affordable, Comprehensive Cloud Backup to Help Small Businesses Safeguard Critical Data",
+      "description": "LOS ANGELES, Oct. 2, 2026 /PRNewswire/ -- IDrive, a leading provider of cloud backup and storage solutions, is helping small businesses protect their critical business data with IDrive Business, an affordable cloud backup solution designed to simplify data pr\u2026",
+      "url": "https://www.prnewswire.com/news-releases/idrive-business-offers-affordable-comprehensive-cloud-backup-to-help-small-businesses-safeguard-critical-data-302897275.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-02T15:36:00Z",
+      "content": "LOS ANGELES, Oct. 2, 2026 /PRNewswire/ -- IDrive, a leading provider of cloud backup\u00a0and storage solutions, is helping small businesses protect their critical business data with IDrive Business, an a\u2026 [+4518 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "author": "PYMNTS",
+      "title": "The Next Compliance Problem for CFOs Is Their Vendor\u2019s Vendor List",
+      "description": "Twenty-seven nations are likely to come up with 27 different definitions of vendor risk. The European Union\u2019s member nations are finding that out in real time. And while the long-standing debate around whether equipment from suppliers such as Huawei should si\u2026",
+      "url": "https://www.pymnts.com/news/b2b-payments/2026/the-next-compliance-problem-for-cfos-is-their-vendors-vendor-list/",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2025/01/supply-chain-procurement.png?quality=82",
+      "publishedAt": "2026-10-02T15:22:07Z",
+      "content": "Twenty-seven nations are likely to come up with 27 different definitions of vendor risk.The European Unions member nations are finding that out in real time. And while the long-standing debate around\u2026 [+4905 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Peoplesreview.com.np"
+      },
+      "author": "People's Review",
+      "title": "Hackers expose Nepal\u2019s digital weaknesses",
+      "description": "By Our Reporter Nepal is rapidly becoming digital without becoming equally secure. Banking, share trading, government procurement, tax payments, passports and many everyday services now depend on computers and online networks. That transition has made life ea\u2026",
+      "url": "https://peoplesreview.com.np/2026/10/02/hackers-expose-nepals-digital-weaknesses/",
+      "urlToImage": "https://peoplesreview.com.np/wp-content/uploads/2026/10/Nepal-digital-weakness.jpeg",
+      "publishedAt": "2026-10-02T15:03:22Z",
+      "content": "By Our Reporter\r\nNepal is rapidly becoming digital without becoming equally secure. Banking, share trading, government procurement, tax payments, passports and many everyday services now depend on co\u2026 [+4086 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "Kenneth  Rogoff",
+      "title": "America\u2019s looming debt reckoning",
+      "description": "The US has the resources to deal with its fiscal issues. What it lacks is the political appetite to make painful choices",
+      "url": "https://www.thehindubusinessline.com/opinion/americas-looming-debt-reckoning/article71537781.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/nw1xiz/article71537776.ece/alternates/LANDSCAPE_1200/BL03_Think_US_debt_1.jpg",
+      "publishedAt": "2026-10-02T14:43:24Z",
+      "content": "Americas fiscal position is increasingly looking like a train hurtling along a twisting mountain track. No one seems willing to slow down for fear of falling behind schedule and losing their job. Eve\u2026 [+4793 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Infosecurity Magazine"
+      },
+      "author": "James Coker",
+      "title": "Microsoft: AI Cuts Post-Compromise Attack Time to Minutes",
+      "description": "Microsoft has warned that threat actors have gained the advantage over defenders by using AI to enhance the speed and scale of attacks",
+      "url": "https://www.infosecurity-magazine.com/news/microsoft-ai-attack-time-minutes/",
+      "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/9b3d489e-72d0-48fe-a8b7-aee191666d7c.jpeg",
+      "publishedAt": "2026-10-02T14:15:00Z",
+      "content": "AI has enabled threat actors compressed parts of the cyber-attack lifecycle from days to minutes, presenting a major challenge for defenders, Microsofts Digital Defense Report 2026 has warned.\r\nThe t\u2026 [+4137 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hackaday"
+      },
+      "author": "Mike Kershaw",
+      "title": "This Week in Security: ShinyHunters Won\u2019t Dox the FBI, Pentagon Data Stolen, and OBS Vulnerable",
+      "description": "404 Media reports that the ShinyHunters group who stole multiple terabytes of FBI employee data say they do not plan to release the data. Known for ransomware and extortion of innumerable companies\u2026",
+      "url": "https://hackaday.com/2026/10/02/this-week-in-security-shinyhunters-wont-dox-the-fbi-pentagon-data-stolen-and-obs-vulnerable/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg",
+      "publishedAt": "2026-10-02T14:00:22Z",
+      "content": "404 Media reports that the ShinyHunters group who stole multiple terabytes of FBI employee data say they do not plan to release the data.\r\nKnown for ransomware and extortion of innumerable companies \u2026 [+10965 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Digital Journal"
+      },
+      "author": "Chris Hogg",
+      "title": "Canada\u2019s top technology leaders honoured at 2026 CanadianCIO Awards",
+      "description": "Technology leaders in aerospace, pensions, medical regulation, utilities and auto retail took home this year\u2019s CanadianCIO of the Year Awards.\nThe post Canada\u2019s top technology leaders honoured at 2026 CanadianCIO Awards appeared first on Digital Journal.",
+      "url": "https://www.digitaljournal.com/article/canadas-top-technology-leaders-honoured-at-2026-canadiancio-awards/",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2026/10/JF_CIOCAN_Lenovo_DSC_5298lr.jpg",
+      "publishedAt": "2026-10-02T13:51:57Z",
+      "content": "This years CanadianCIO of the Year winners run technology for an aerospace manufacturer, protect a provinces power grid, oversee the AI system that helps draft decision letters at Ontarios physician \u2026 [+17479 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Help Net Security"
+      },
+      "author": "Sinisa Markovic",
+      "title": "AI is giving attackers a head start, Microsoft warns",
+      "description": "Threat actors are using AI to find bugs, build malware and run intrusions faster than defenders can keep up. Microsoft\u2019s 2026 Digital Defense Report, covering July 2025 to June 2026, describes a near-term period in which attackers collect the benefits of AI f\u2026",
+      "url": "https://www.helpnetsecurity.com/2026/10/02/ai-cybersecurity-threats-microsoft-report/",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/10102449/ai-hand-1500.webp",
+      "publishedAt": "2026-10-02T12:47:00Z",
+      "content": "Threat actors are using AI to find bugs, build malware and run intrusions faster than defenders can keep up.\r\nMicrosoft\u2019s 2026 Digital Defense Report, covering July 2025 to June 2026, describes a nea\u2026 [+4583 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "theregister.com",
+      "title": "Teen suspected of running KillSec ransomware group as cops seize servers, arrest three",
+      "description": "Police suspect a 16-year-old was the main operator of KillSec, a ransomware group linked to around 1,000 suspected attacks worldwide. Authorities announced on Thursday that an international operation had seized the group's infrastructure and made three provis\u2026",
+      "url": "https://biztoc.com/x/6b7b8be7154e936e",
+      "urlToImage": "https://biztoc.com/cdn/6b7b8be7154e936e_s.webp",
+      "publishedAt": "2026-10-02T12:37:24Z",
+      "content": "Police suspect a 16-year-old was the main operator of KillSec, a ransomware group linked to around 1,000 suspected attacks worldwide. Authorities announced on Thursday that an international operation\u2026 [+150 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Connor Jones",
+      "title": "Teen suspected of running KillSec ransomware group as cops seize servers, arrest three",
+      "description": "Operation KillSwitch takes over leak site holding at least 110 TB of stolen data",
+      "url": "https://www.theregister.com/cyber-crime/2026/10/02/teen-suspected-of-running-killsec-ransomware-group-as-cops-seize-servers-arrest-three/5300784",
+      "urlToImage": "https://image.theregister.com/5300787.jpg?imageId=5300787&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "publishedAt": "2026-10-02T11:43:35Z",
+      "content": "Police suspect a 16-year-old was the main operator of KillSec, a ransomware group linked to around 1,000 suspected attacks worldwide.\r\nAuthorities announced on Thursday that an international operatio\u2026 [+3490 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Sead Fadilpa\u0161i\u0107",
+      "title": "Police take down dangerous KillSec ransomware gang \u2014 and find out it's being run by a teenager",
+      "description": "Some people have been arrested, with servers, domains, and proceeds, confiscated, too.",
+      "url": "https://www.techradar.com/pro/security/police-take-down-dangerous-killsec-ransomware-gang-and-find-out-its-being-run-by-a-teenager",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/H6MfM7T3bjECJuLWR6mD5a-1920-80.jpg",
+      "publishedAt": "2026-10-02T11:15:00Z",
+      "content": "<ul><li>Operation KillSwitch dismantled KillSec, seizing infrastructure, cryptocurrency, and 110TB data</li><li>Investigation identified core members; several arrests made, including key operators</l\u2026 [+4622 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Winning the AI race means beating China on innovation, cost and trust",
+      "description": "Booz Allen research shows Chinese AI models introduce more code vulnerabilities in American apps, threatening the entire U.S. software supply chain.",
+      "url": "https://www.foxnews.com/opinion/winning-ai-race-means-beating-china-innovation-cost-trust",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/trump-gold-eagle-ai-cyber-flaws.jpg",
+      "publishedAt": "2026-10-02T11:00:53Z",
+      "content": "Because we operate at the intersection of AI, national security, and cyber, I often get asked the question, \"Are we winning the AI race with China?\"\r\nMy answer is still yes. At the highest level, we \u2026 [+7335 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Kai Nicol-Schwarz",
+      "title": "Google has been playing catch up with OpenAI and Anthropic. Does its new flagship model really compete at the frontier?",
+      "description": "Google has been trailing OpenAI and Anthropic for much of 2026, analysts say Gemini 4 puts it back in the frontier AI conversation.",
+      "url": "https://www.cnbc.com/2026/10/02/tech-download-google-argon-frontier-openai-anthropic.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108371304-1790880866426-gettyimages-2297502695-boivin-photoill261001_np5Yb.jpeg?v=1790881080&w=1920&h=1080",
+      "publishedAt": "2026-10-02T11:00:01Z",
+      "content": "This report is from this week's The Tech Download newsletter. Like what you see? You can subscribe\u00a0here.\r\n2026 has been a turbulent year for Google's AI hopes and dreams.\u00a0\r\nThings started well. Gemin\u2026 [+4198 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Chris Crummey",
+      "title": "Cyberattacks are the ultimate business continuity tests that nearly half of organizations fail",
+      "description": "Can your business keep operating while under attack? New research reveals why cyber resilience is exposing critical gaps in business continuity and what leaders can do to help close them.",
+      "url": "https://www.techradar.com/pro/cyberattacks-are-the-ultimate-business-continuity-tests-that-nearly-half-of-organizations-fail",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/5rDPr5xYvLwnkP7ZvpR2w3-2122-80.jpg",
+      "publishedAt": "2026-10-02T10:04:06Z",
+      "content": "Cyber resilience is no longer just about how fast an organization can come back online after an attack \u2013 it\u2019s now defined by whether you can continue operating while under attack. It\u2019s a shift in min\u2026 [+8580 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Infosecurity Magazine"
+      },
+      "author": "Phil Muncaster",
+      "title": "Police Target KillSec Ransomware Group with Arrests and Seizures",
+      "description": "Investigators have disrupted the operations of ransomware group KillSec and arrested several key suspects",
+      "url": "https://www.infosecurity-magazine.com/news/police-target-killsec-ransomware/",
+      "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/9e0ea354-3941-4799-8154-6dfbe2e1a96a.jpg",
+      "publishedAt": "2026-10-02T09:20:00Z",
+      "content": "Law enforcers have struck at a prolific ransomware group thought to be responsible for hundreds of cyber-attacks, arresting its 16-year-old suspected ringleader.\r\nKillSec has been in operation since \u2026 [+2633 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Decrypt"
+      },
+      "author": "Decrypt Agent",
+      "title": "Spanish Police Arrest 16-Year-Old Accused of Running KillSec Ransomware Group",
+      "description": "A second suspect faces extradition to Puerto Rico, while Investigators are tracing the proceeds of ransoms the group demanded in crypto.",
+      "url": "https://decrypt.co/379913/spanish-police-arrest-16-year-old-accused-of-running-killsec-ransomware-group",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png",
+      "publishedAt": "2026-10-02T09:12:54Z",
+      "content": "In brief\r\n<ul><li>Spanish police arrested a 16-year-old Romanian national in Alicante, suspected of being KillSec's administrator and main operator.</li><li>A Dutch national living in the UK has been\u2026 [+4035 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ibtimes.com.au"
+      },
+      "author": "George Anton",
+      "title": "Bill Gates Calls AI Self-Regulation 'Insane,' Rebuking Trump and Warning of Bioterror and Cyberattack Risks",
+      "description": "Bill Gates has called for government oversight of artificial intelligence, warning that advances in cybersecurity and biological applications have created risks too serious to leave to voluntary industry safeguards.",
+      "url": "https://www.ibtimes.com.au/bill-gates-urges-government-ai-safeguards-1876180",
+      "urlToImage": "https://d.ibtimes.com.au/en/full/1802984/american-billionaire-bill-gates-co-founder-terrapower.jpg",
+      "publishedAt": "2026-10-02T08:38:16Z",
+      "content": "SEATTLE \u2014 Microsoft co-founder Bill Gates has warned that artificial intelligence is \"the most dangerous thing that humans have ever gone near,\" and he rejected the idea that the AI industry can be t\u2026 [+5514 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Investigators trace an AI agent \u2018s path from research task to reconnaissance",
+      "description": "Asymmetric Security traces rogue OpenAI AI agent activity that probed government sites, accessed staging servers, and evaded sandbox limits. Researchers at Asymmetric Security spent 48 hours over the last weekend reconstructing reported rogue OpenAI AI agent \u2026",
+      "url": "https://securityaffairs.com/200215/ai/investigators-trace-an-ai-agent-s-path-from-research-task-to-reconnaissance.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2026/10/image-4.png",
+      "publishedAt": "2026-10-02T06:05:52Z",
+      "content": "Investigators trace an AI agent \u2018s path from research task to reconnaissance\r\nResearchers at Asymmetric Security spent 48 hours over the last weekend reconstructing reported rogue OpenAI AI agent act\u2026 [+6309 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Crypto Briefing"
+      },
+      "author": "Diego Almada Lopez",
+      "title": "AI tools suspected in Shinhan Bank cyberattack that exposed 25,000 customers",
+      "description": "The incident underscores the growing need for robust AI-driven cybersecurity in banking, potentially shifting investor focus and capital allocation.\nThe post AI tools suspected in Shinhan Bank cyberattack that exposed 25,000 customers appeared first on Crypto\u2026",
+      "url": "https://cryptobriefing.com/shinhan-bank-ai-cyberattack-25000-customers/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/02020301/library-ai-tools-suspected-in-shinhan-bank-cyberattack-that-expo-800x450.png",
+      "publishedAt": "2026-10-02T06:03:06Z",
+      "content": "Yonhap reports hackers may have used AI to automate a credential-stuffing attack on one of South Korea's largest lenders Hackers may have had some help from artificial intelligence when they broke in\u2026 [+3503 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Alexandra Sims, Professor in Commericial Law, University of Auckland, Waipapa Taumata Rau, Dulani Jayasuriya, Lecturer in Accounting and Finance, University of Auckland, Waipapa Taumata Rau",
+      "title": "Australia\u2019s Medicare breach reveals a new kind of cyber threat. How must NZ respond?",
+      "description": "The Manage My Health hacking breach exposed weaknesses in New Zealand\u2019s digital defences. But the rise of autonomous AI agents poses a very different threat.",
+      "url": "https://theconversation.com/australias-medicare-breach-reveals-a-new-kind-of-cyber-threat-how-must-nz-respond-293332",
+      "urlToImage": "https://images.theconversation.com/files/763241/original/file-20261001-50-vbvo7.jpg?ixlib=rb-4.1.1&rect=0%2C379%2C4543%2C2271&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-10-02T00:36:47Z",
+      "content": "Asanka Ratnayake/Getty Images\r\nLast week, New Zealand\u2019s Privacy Commissioner ordered Manage My Health and Health NZ to make further security improvements following last December\u2019s major data breach.\n\u2026 [+5564 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": null,
+      "title": "Are new laws/regulations needed for AI? (vanity)",
+      "description": "The laws already on the books cover a lot of harmful conduct involving AI, but they do not cover everything cleanly. As of October 2026, the U.S. still does not have one comprehensive federal AI law. Instead, AI is governed through a mixture of existing laws,\u2026",
+      "url": "https://freerepublic.com/focus/f-chat/4397611/posts",
+      "urlToImage": null,
+      "publishedAt": "2026-10-02T00:24:53Z",
+      "content": "The laws already on the books cover a lot of harmful conduct involving AI, but they do not cover everything cleanly. As of October 2026, the U.S. still does not have one comprehensive federal AI law.\u2026 [+7423 chars]"
+    }
+  ]
+}
