@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "OilPrice.com"
+      },
+      "author": "RFE/RL staff",
+      "title": "Iran Is Losing Some of Its Leverage Over the Strait of Hormuz - Crude Oil Prices Today | OilPrice.com",
+      "description": "Persian Gulf crude exports have returned to roughly prewar levels outside Iran as producers increasingly rely on pipelines, tanker transfers, and military-protected Hormuz crossings, reducing Iran's leverage over the strategic waterway",
+      "url": "https://oilprice.com/Energy/Energy-General/Iran-Is-Losing-Some-of-Its-Leverage-Over-the-Strait-of-Hormuz.html",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-02_pof87iuacd.jpg",
+      "publishedAt": "2026-10-03T19:00:00Z",
+      "content": "Freight, gasoline, crude oil and\u2026\r\nMiddle East crude exports have\u2026\r\nIran has threatened energy infrastructure\u2026\r\nBy RFE/RL staff - Oct 03, 2026, 2:00 PM CDTThe flow of crude from the Persian Gulf has \u2026 [+4737 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Issy Ronald",
+      "title": "2 Iranian men charged over alleged bomb plot to target UK Jewish community appear in court - CNN",
+      "description": "Two Iranian men charged with terror offenses over an alleged bomb plot to attack the Jewish community in Manchester, England, appeared in a British court on Saturday.",
+      "url": "https://www.cnn.com/2026/10/03/uk/iranians-court-alleged-plot-jewish-community-intl",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/01m40pf25aq9kdx0g0jz0kr0s9.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-10-03T14:38:00Z",
+      "content": "Two Iranian men charged with terror offenses over an alleged bomb plot to attack the Jewish community in Manchester, England, appeared in a British court on Saturday.\r\nThe suspects named as Salam Ahm\u2026 [+3075 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Priyanka Shankar",
+      "title": "G7 to release 100 million barrels of oil and diesel, will it curb prices? - Al Jazeera",
+      "description": "Global energy prices have soared due to the US and Israel\u2019s war on Iran and Russia\u2019s war on Ukraine.",
+      "url": "https://www.aljazeera.com/news/2026/10/3/g7-to-release-100-million-barrels-of-oil-and-diesel-will-it-curb-prices",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2291860482-1788845943.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-03T12:18:34Z",
+      "content": "The Group of Seven (G7) countries have agreed to release 100 billion barrels of crude oil and diesel from emergency reserves over several months in an effort to reduce soaring energy prices after pre\u2026 [+8716 chars]"
+    }
+  ]
+}

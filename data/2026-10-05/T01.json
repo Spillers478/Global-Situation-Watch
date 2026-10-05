@@ -1,0 +1,110 @@
+{
+  "status": "ok",
+  "totalResults": 8,
+  "articles": [
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": null,
+      "title": "Ukraine to target Russian refineries as Zelenskyy responds to air strikes",
+      "description": "Faced with a new Moscow policy designed to force people to abandon Kyiv and other cities, the Ukrainian president says he will double down on attacking Russian oil reserves.",
+      "url": "https://www.abc.net.au/news/2026-10-04/ukraine-to-hit-russian-refineries-in-response-to-moscow-strikes/107226904",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/0afabd341b16e28d9cd9517de7973586?impolicy=wcms_watermark_news&cropH=2719&cropW=4833&xPos=0&yPos=482&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-10-04T04:25:14Z",
+      "content": "Ukraine will double down on attacking Russian oil refineries in response to a new policy of air strikes by Moscow designed to force people to abandon Kyiv and other cities, but will not target civili\u2026 [+4634 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Nadine Yousif",
+      "title": "Why Canada is preparing for a (longshot) US invasion",
+      "description": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
+      "url": "https://www.bbc.com/news/articles/c9m2mjj3yvg4o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4c81/live/804a5860-bd08-11f1-8a64-4f07fd1a6b57.jpg",
+      "publishedAt": "2026-10-03T23:33:27Z",
+      "content": "In the war of 1812, the Americans invaded what was known then as Upper Canada, Lower Canada and the maritime colonies repeatedly, resulting in a stalemate. During that war, British troops famously bu\u2026 [+40 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Why Canada is preparing for a (long shot) US invasion",
+      "description": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
+      "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c81/live/804a5860-bd08-11f1-8a64-4f07fd1a6b57.jpg",
+      "publishedAt": "2026-10-03T23:30:06Z",
+      "content": "Even if a US invasion is extremely unlikely, Matthew Schmidt, an associate professor of national security at the University of New Haven in Connecticut, said the fact that Canadians were preparing wa\u2026 [+2878 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Radio Free Europe/ Radio Liberty"
+      },
+      "author": "RFE/RL",
+      "title": "Zelenskyy Says Ukraine Will Respond As Putin Vows To Escalate Air Strikes, Warns Foreigners",
+      "description": "Russia has vowed to intensify its relentless strikes against Kyiv and warned foreign diplomats and other visitors to leave the country or be exposed to \u201cmortal danger,\u201d while Ukraine's leader said his country will respond to the Kremlin's deadly air campaign.",
+      "url": "https://www.rferl.org/a/putin-zelenskyy-kyiv-russia-ukraine-war-infrastructure/33869793.html",
+      "urlToImage": "https://gdb.rferl.org/31fa22df-99c5-4807-4215-08df13a884cb_cx0_cy12_cw0_w1200_h630.jpg",
+      "publishedAt": "2026-10-03T22:02:24Z",
+      "content": "Russia has vowed to intensify its relentless strikes against Kyiv and warned foreign diplomats and other visitors to leave the country or be exposed to mortal danger, while Ukraine's leader said his \u2026 [+3378 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNA"
+      },
+      "author": null,
+      "title": "Philippines voices concern over Myanmar airstrike\u00a0deaths, injuries",
+      "description": "Monday's (Sep 28) Kyauktaw airstrike,\u00a0Rakhine's deadliest such attack since a December hospital bombing, killed 50 people and wounded dozens more.",
+      "url": "https://www.channelnewsasia.com/asia/philippines-voices-concern-over-myanmar-airstrike-deaths-injuries-6428901",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--BRHQbi3v--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-03T070855Z_1_LYNXMPEM9204D_RTROPTP_3_MYANMAR-CONFLICT.JPG?itok=_i55IFvj",
+      "publishedAt": "2026-10-03T08:34:09Z",
+      "content": "MANILA: The Philippines, chair of the Association of Southeast Asian Nations (ASEAN), expressed concern over an\u00a0airstrike\u00a0in Myanmar's Rakhine state that caused deaths, injuries and destruction, and \u2026 [+1184 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "breakingthenews.net",
+      "title": "Israeli shelling reported in southern Lebanon",
+      "description": "Israeli artillery fire was targeted southern Lebanon on Saturday, Hezbollah-affiliated Al-Nour Radio reported, citing its correspondent.According to the outlet, the shelling struck the town of Nabatie...",
+      "url": "https://biztoc.com/x/d124111e00ffec2e",
+      "urlToImage": "https://biztoc.com/cdn/d124111e00ffec2e_s.webp",
+      "publishedAt": "2026-10-03T07:12:38Z",
+      "content": "Israeli artillery fire was targeted southern Lebanon on Saturday, Hezbollah-affiliated Al-Nour Radio reported, citing its correspondent.According to the outlet, the shelling struck the town of Nabati\u2026 [+69 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "breakingthenews.net",
+      "title": "Russian airstrike hits Kyiv bridge",
+      "description": "The North Bridge in Kyiv was struck during a Russian airstrike, the city's mayor Vitali Klitschko reported.\"Emergency services are on their way,\" Klitschko wrote on Telegram. The attack follows report...",
+      "url": "https://biztoc.com/x/2d3c6e0fec3c8f9c",
+      "urlToImage": "https://biztoc.com/cdn/2d3c6e0fec3c8f9c_s.webp",
+      "publishedAt": "2026-10-03T04:45:24Z",
+      "content": "The North Bridge in Kyiv was struck during a Russian airstrike, the city's mayor Vitali Klitschko reported.\"Emergency services are on their way,\" Klitschko wrote on Telegram. The attack follows repor\u2026 [+69 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Professor Guido Eibl",
+      "title": "I'm an expert on the front line of America's pancreatic cancer explosion. Many of us are more vulnerable than we realize: PROFESSOR GUIDO EIBL",
+      "description": "Exactly what causes pancreatic cancer has long remained a mystery. But one scientist who has studied the disease for more than two decades believes that is changing.",
+      "url": "https://www.dailymail.com/health/article-16177993/pancreatic-cancer-risk-diet-warning.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/10/02/11/100564571-0-image-m-36_1790937085694.jpg",
+      "publishedAt": "2026-10-03T01:10:13Z",
+      "content": "When someone is handed the devastating diagnosis of pancreatic cancer, one question tends to follow the initial shock: Why me?\r\nWas it something they ate or did they drink too much? Was it in their g\u2026 [+16063 chars]"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "groups": {
+    "https://www.bbc.com/news/articles/c9m2mjj3yvg4o": "a",
+    "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o": "a",
+    "https://www.channelnewsasia.com/asia/philippines-voices-concern-over-myanmar-airstrike-deaths-injuries-6428901": "b",
+    "https://www.aljazeera.com/news/2026/10/4/is-the-sudanese-army-gaining-momentum-against-the-rsf": "c",
+    "https://abcnews.com/Business/wireStory/ethiopian-federal-forces-retake-mekelle-airport-tigrayan-fighters-136975197": "d",
+    "https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia": "e",
+    "https://www.dw.com/en/pakistan-vs-afghanistan-from-allies-and-neighbors-to-war/a-79532115": "f"
+  },
+  "contradictions": []
+}

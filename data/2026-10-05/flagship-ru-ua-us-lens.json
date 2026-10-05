@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "totalResults": 1,
+  "articles": [
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Priyanka Shankar",
+      "title": "G7 to release 100 million barrels of oil and diesel, will it curb prices? - Al Jazeera",
+      "description": "Global energy prices have soared due to the US and Israel\u2019s war on Iran and Russia\u2019s war on Ukraine.",
+      "url": "https://www.aljazeera.com/news/2026/10/3/g7-to-release-100-million-barrels-of-oil-and-diesel-will-it-curb-prices",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2291860482-1788845943.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-03T12:18:34Z",
+      "content": "The Group of Seven (G7) countries have agreed to release 100 billion barrels of crude oil and diesel from emergency reserves over several months in an effort to reduce soaring energy prices after pre\u2026 [+8716 chars]"
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "status": "ok",
+  "totalResults": 15,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Help Net Security"
+      },
+      "author": "Sinisa Markovic",
+      "title": "Week in review: Researcher breaks into Microsoft analytics service, NetScaler RCE 0-day exploited",
+      "description": "Here\u2019s an overview of some of last week\u2019s most interesting news, articles, interviews and videos: 16-year-old researcher breaks into Microsoft analytics service with access to 17 trillion rows of data A flaw in Titan, an internal Microsoft analytics service, \u2026",
+      "url": "https://www.helpnetsecurity.com/2026/10/04/week-in-review-researcher-breaks-into-microsoft-analytics-service-netscaler-rce-0-day-exploited/",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/25124830/cybersecurity-week-review-1-1500.webp",
+      "publishedAt": "2026-10-04T08:00:19Z",
+      "content": "Heres an overview of some of last weeks most interesting news, articles, interviews and videos:\r\n16-year-old researcher breaks into Microsoft analytics service with access to 17 trillion rows of data\u2026 [+10442 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Warlock Ransomware Still Exploits Year-Old SharePoint Flaws to Hit Critical Infrastructure",
+      "description": "Warlock ransomware continues to exploit unpatched SharePoint flaws to breach water utilities, telecoms, governments, and universities worldwide. Warlock ransomware made headlines back in mid-2025 for exploiting a chain of SharePoint zero-days collectively dub\u2026",
+      "url": "https://securityaffairs.com/200304/malware/warlock-ransomware-still-exploits-year-old-sharepoint-flaws-to-hit-critical-infrastructure.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2026/10/image-10.png",
+      "publishedAt": "2026-10-04T07:49:27Z",
+      "content": "Warlock Ransomware Still Exploits Year-Old SharePoint Flaws to Hit Critical Infrastructure\r\nWarlock ransomware made headlines back in mid-2025 for exploiting a chain of SharePoint zero-days collectiv\u2026 [+6315 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "info@thehackernews.com (The Hacker News)",
+      "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
+      "description": "A suspected member of the ShinyHunters digital extortion group, who goes by the online alias \"Rey,\" has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familiar with the matter.\n\nRey, whose real name is Saif \u200cal-Din Kha\u2026",
+      "url": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkLNgAfzHHwGX_2W-2iGuIMpKX_ZOPM0xFYMFDUp5kxBp3XfaRHV0EUwHsbvh45q8wVSYvblXfru1NzEKovvRqXHDNA82iWx6IbY_ihCrucvF5Bkr1JU8bVJ9KDzUi0wG1GRYvyPNb-1LcXTWzBhqLS5kRo9o2zf3DnqqcTNqk5gTtfbdC57w5SZnomx5U/s1700-nu-rw-lo-l85-e365/shinyhunters-arrested.jpg",
+      "publishedAt": "2026-10-04T07:22:05Z",
+      "content": "A suspected member of the ShinyHunters digital extortion group, who goes by the online alias \"Rey,\" has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familia\u2026 [+4516 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Lawrence Abrams",
+      "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
+      "description": "A suspected ShinyHunters hacking group member known online as \"Rey\" has reportedly been detained in Jordan and is cooperating with the FBI to help locate other members of the extortion group. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/01/25/Hacker_prison.jpg",
+      "publishedAt": "2026-10-03T19:09:38Z",
+      "content": "A suspected ShinyHunters hacking group member known online as \"Rey\" has reportedly been detained in Jordan and is cooperating with the FBI to help locate other members of the extortion group.\r\nAccord\u2026 [+6829 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "How to check your home title for fraud",
+      "description": "Home title fraud begins when criminals forge your signature on a deed. Here is how to check your own property records and set up free alerts.",
+      "url": "https://www.foxnews.com/tech/how-check-home-title-fraud",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/Home-Title-Fraud-Photo-2.jpg",
+      "publishedAt": "2026-10-03T18:30:21Z",
+      "content": "Your home may be your largest asset, so seeing an ad warning that someone can \"steal\" it online can get your attention fast. But home title fraud does not work like someone hacking into an online acc\u2026 [+12792 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Former Anthropic security leader warns AI agents are becoming too autonomous for humans to keep them in check",
+      "description": "Jeffrey Ladish, a former Anthropic security team member, warns AI agents are colluding and hacking with no reliable solution to keep them in check.",
+      "url": "https://www.foxnews.com/tech/former-anthropic-security-leader-warns-ai-agents-becoming-too-autonomous-humans-keep-check",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/jeffrey-ladish.jpg",
+      "publishedAt": "2026-10-03T17:26:10Z",
+      "content": "Artificial intelligence researcher Jeffrey Ladish told Fox News Digital that humanity does not have any real strategies to keep increasingly autonomous AI models and agents under control as they beco\u2026 [+5807 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MakeUseOf"
+      },
+      "author": "Tashreef Shareef",
+      "title": "The 3-2-1 backup rule everyone repeats is missing a step, and I found out the hard way",
+      "description": "Your backups might already be corrupted, and a success message won't warn you.",
+      "url": "https://www.makeuseof.com/3-2-1-backup-rule-missing-step/",
+      "urlToImage": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/06/internal-hard-drive-dismantled-and-kept-on-a-laptop.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-10-03T15:00:15Z",
+      "content": "If you've ever looked into how to properly back up your important files, chances are someone pointed you to the 3-2-1 backup rule. Keep three copies of your data, store them on two different media ty\u2026 [+5408 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "info@thehackernews.com (The Hacker News)",
+      "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
+      "description": "The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and Spanish-speaking countries.\n\nThe activity, observed \u2026",
+      "url": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCZSaqs29yWFrct8zgOikM9e4CS0xuAXppzGJ1tskKpKC2gbGuITsYlHYNcnXDMvrFpPuAVS_ZlyEF8Obp7Mgw7CUXe4UsKP3pNEvZWNfszKQVxogslYpoWBZG-QQbEvmS6SDcbgVtXiFFGIEjreD_HSkCYZTfcwL1Rt90qDbbPj946SbMX0FR5CEKRt_H/s1700-nu-rw-lo-l85-e365/sharepoint-ransomware.jpg",
+      "publishedAt": "2026-10-03T14:36:33Z",
+      "content": "The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portugue\u2026 [+3831 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "PTI",
+      "title": "RBI committed to remain vigilant of emerging vulnerabilities, keep financial system resilient: Guv",
+      "description": "Speaking at the Kautilya Economic Conclave, he outlined five policy priorities, stressing that financial stability should strengthen the system\u2019s ability to withstand and contain shocks",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/rbi-committed-to-remain-vigilant-of-emerging-vulnerabilities-keep-financial-system-resilient-guv/article71540469.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/1mfbcn/article71540574.ece/alternates/LANDSCAPE_1200/2026-09-11T091743Z_109916859_RC26SMAYJ264_RTRMADP_3_INDIA-RBI-LIQUIDITY.JPG",
+      "publishedAt": "2026-10-03T12:03:21Z",
+      "content": "Reserve Bank Governor Sanjay Malhotra on Saturday cautioned that the financial system's resilience today should not be seen as a guarantee against future vulnerabilities, and called for continued vig\u2026 [+5554 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Sangita Mehta",
+      "title": "Next financial crisis may stem from cyberattack or geopolitical shock, RBI governor says",
+      "description": "RBI Governor Sanjay Malhotra said the next financial crisis may be triggered by geopolitical shocks, cyberattacks or technology failures rather than the banking system itself, calling for stronger resilience across markets, payments, non-banks and critical in\u2026",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/next-financial-crisis-may-stem-from-cyberattack-or-geopolitical-shock-rbi-governor-says/articleshow/134656709.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134656752,width-1200,height-900,imgsize-81566,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-03T10:14:07Z",
+      "content": "The next financial crisis may originate from a geopolitical event, cyberattack or technological failure rather than from banks or the financial sector, Reserve Bank of India Governor Sanjay Malhotra \u2026 [+2909 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "How foreign hackers could 'crumble' America by targeting one essential utility",
+      "description": "Environmental Protection Agency officials say cyberattacks on U.S. water systems have surged several fold, shifting from ransomware to disruption.",
+      "url": "https://www.foxnews.com/politics/how-foreign-hackers-could-crumble-america-targeting-essential-utility",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/minnesota-water-systems-1.jpg",
+      "publishedAt": "2026-10-03T10:00:38Z",
+      "content": "A massive surge in cyberattacks on Americans' water supply in recent years has exposed a shift in hackers' focus from financially motivated ransomeware to attacks designed to disrupt one of the most \u2026 [+5877 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Krity Ambey",
+      "title": "Today's financial resilience may not imply tomorrow's immunity: RBI Guv",
+      "description": "Sanjay Malhotra said future crises could emerge from geopolitics, cyberattacks or technology failures, requiring resilience across banks, markets and financial infrastructure",
+      "url": "https://www.business-standard.com/economy/news/rbi-sanjay-malhotra-financial-stability-risks-kautilya-conclave-126100300415_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/05/thumb/fitandfill/1200X628/1785935499-161.jpg",
+      "publishedAt": "2026-10-03T08:58:47Z",
+      "content": "Sanjay Malhotra said future crises could emerge from geopolitics, cyberattacks or technology failures, requiring resilience across banks, markets and financial infrastructure\r\nMalhotra said the next \u2026 [+3454 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Press Trust of India",
+      "title": "Today's financial resilience does not guarantee future stability: RBI guv",
+      "description": "Reserve Bank Governor Sanjay Malhotra on Saturday said the resilience of the financial system today should not be taken as a guarantee against future vulnerabilities and called for continued vigilance to safeguard financial stability.\nSpeaking at the Kautilya\u2026",
+      "url": "https://www.business-standard.com/economy/news/today-s-financial-resilience-does-not-guarantee-future-stability-rbi-guv-126100300329_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/11/thumb/fitandfill/1200X628/1789109647-1715.jpg",
+      "publishedAt": "2026-10-03T08:25:28Z",
+      "content": "Reserve Bank Governor Sanjay Malhotra on Saturday said the resilience of the financial system today should not be taken as a guarantee against future vulnerabilities and called for continued vigilanc\u2026 [+3228 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "Shishir Sinha",
+      "title": "Resilience of financial system not a guarantee against future vulnerabilities: RBI Guv",
+      "description": "RBI Governor warns resilience isn\u2019t immunity, urging robust risk-management, data, and open, competitive financial systems amid evolving global threats.",
+      "url": "https://www.thehindubusinessline.com/economy/resilience-of-financial-system-not-a-guarantee-against-future-vulnerabilities-rbi-guv/article71540043.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/jrkuok/article71540089.ece/alternates/LANDSCAPE_1200/TH26-BusinessliGNHGAA9KG.3.jpg.jpg",
+      "publishedAt": "2026-10-03T08:24:43Z",
+      "content": "Reserve Bank of Indias Governor Sanjay Malhotra on Saturday said that the domestic financial system remained resilient even as he flagged several risks. Meanwhile, Principal Secretary to the Prime Mi\u2026 [+3736 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PRNewswire"
+      },
+      "author": null,
+      "title": "CAZ Investments LP Data Breach Investigation: Edelson Lechtzin LLP Probes Class Action Claims After Customer Data Is Exposed",
+      "description": "National class action law firm offers free, confidential case evaluations to investors and others whose personal and financial information may have been exposed in the CAZ Investments LP data breach. NEWTOWN, Pa., Oct. 2, 2026 /PRNewswire/ -- Edelson Lechtzin\u2026",
+      "url": "https://www.prnewswire.com/news-releases/caz-investments-lp-data-breach-investigation-edelson-lechtzin-llp-probes-class-action-claims-after-customer-data-is-exposed-302897584.html",
+      "urlToImage": "https://mmx.prnewswire.com/media/MS1803521/safe-image.jpg?id=OA2985552&p=facebook",
+      "publishedAt": "2026-10-03T01:00:00Z",
+      "content": "National class action law firm offers free, confidential case evaluations to investors and others whose personal and financial information may have been exposed in the CAZ Investments LP data breach.\u2026 [+4807 chars]"
+    }
+  ]
+}

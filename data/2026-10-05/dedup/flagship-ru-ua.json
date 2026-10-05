@@ -1,0 +1,30 @@
+{
+  "groups": {
+    "https://www.rt.com/russia/646701-russia-strikes-ukraine-zelensky-threat/": "d",
+    "https://abcnews.com/International/wireStory/pro-ukraine-governing-coalition-wins-35-latvian-election-136984034": "a",
+    "https://sputnikglobe.com/20261004/russia-to-use-entire-arsenal-if-kaliningrad-region-threatened---kremlin-1124832594.html": "b",
+    "https://sputnikglobe.com/20261004/russias-strikes-on-kiev-and-other-regions-are-response-to-actions-by-ukrainian-leadership--mod-1124832437.html": "d",
+    "https://www.rte.ie/news/europe/2026/1004/1593941-latvia-elections/": "a",
+    "https://www.cnn.com/2026/10/04/europe/russian-drone-kyiv-merz-ukraine": "c",
+    "https://www.npr.org/2026/10/04/nx-s1-5737621/fox-news-ukraine-deaths": "e",
+    "https://www.politico.eu/article/latvian-pm-andris-kulbergs-election-win-boosts-chances-for-pro-ukraine-coalition/": "a",
+    "https://www.business-standard.com/world-news/germany-s-merz-visits-kyiv-as-russia-steps-up-attacks-on-ukrainian-cities-126100400245_1.html": "c",
+    "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/": "f",
+    "https://www.dw.com/en/germanys-merz-visits-kyiv-as-russia-strikes-bridge/a-79534734": "c",
+    "https://www.thelocal.de/20261004/germanys-merz-in-kyiv-for-talks-with-zelensky": "c",
+    "https://abcnews.com/International/wireStory/germanys-merz-visits-kyiv-russia-steps-attacks-ukrainian-136983124": "c",
+    "https://www.irishtimes.com/world/europe/2026/10/04/latvian-pm-on-track-to-lead-pro-ukraine-coalition-after-election-win/": "a",
+    "https://www.rte.ie/news/ukraine/2026/1004/1593928-ukraine-russia/": "c",
+    "https://sputnikglobe.com/20261004/ukraine-plans-to-stage-strike-on-zaporozhye-power-plant-linked-facilities---russian-security-source-1124831917.html": "g",
+    "https://sputnikglobe.com/20261004/russia-continues-strikes-on-ukrainian-port-infrastructure-vessels---mod-1124831577.html": "h",
+    "https://www.politico.eu/article/germany-friedrich-merz-visits-kyiv-amid-fears-of-hardest-winter-in-war/": "c",
+    "https://www.dw.com/en/germanys-merz-arrives-in-kyiv-to-pledge-more-support/a-79534734": "c",
+    "https://www.cnbc.com/2026/10/04/russia-ukraine-war-putin-zelenskyy-donbas-lyman.html": "i",
+    "https://www.abc.net.au/news/2026-10-04/ukraine-to-hit-russian-refineries-in-response-to-moscow-strikes/107226904": "d",
+    "https://slashdot.org/firehose.pl?op=view&amp;id=186016804": "d",
+    "https://www.rferl.org/a/putin-zelenskyy-kyiv-russia-ukraine-war-infrastructure/33869793.html": "d",
+    "https://biztoc.com/x/2d3c6e0fec3c8f9c": "c",
+    "https://www.naturalnews.com/2026-10-03-ukranian-strike-russian-town-12-civilians-injured.html": "j"
+  },
+  "contradictions": []
+}

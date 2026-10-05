@@ -1,0 +1,106 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Nadine Yousif",
+      "title": "Why Canada is preparing for a (longshot) US invasion",
+      "description": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
+      "url": "https://www.bbc.com/news/articles/c9m2mjj3yvg4o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4c81/live/804a5860-bd08-11f1-8a64-4f07fd1a6b57.jpg",
+      "publishedAt": "2026-10-03T23:33:27Z",
+      "content": "In the war of 1812, the Americans invaded what was known then as Upper Canada, Lower Canada and the maritime colonies repeatedly, resulting in a stalemate. During that war, British troops famously bu\u2026 [+40 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Why Canada is preparing for a (long shot) US invasion",
+      "description": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
+      "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c81/live/804a5860-bd08-11f1-8a64-4f07fd1a6b57.jpg",
+      "publishedAt": "2026-10-03T23:30:06Z",
+      "content": "Even if a US invasion is extremely unlikely, Matthew Schmidt, an associate professor of national security at the University of New Haven in Connecticut, said the fact that Canadians were preparing wa\u2026 [+2878 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNA"
+      },
+      "author": null,
+      "title": "Philippines voices concern over Myanmar airstrike\u00a0deaths, injuries",
+      "description": "Monday's (Sep 28) Kyauktaw airstrike,\u00a0Rakhine's deadliest such attack since a December hospital bombing, killed 50 people and wounded dozens more.",
+      "url": "https://www.channelnewsasia.com/asia/philippines-voices-concern-over-myanmar-airstrike-deaths-injuries-6428901",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--BRHQbi3v--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-03T070855Z_1_LYNXMPEM9204D_RTROPTP_3_MYANMAR-CONFLICT.JPG?itok=_i55IFvj",
+      "publishedAt": "2026-10-03T08:34:09Z",
+      "content": "MANILA: The Philippines, chair of the Association of Southeast Asian Nations (ASEAN), expressed concern over an\u00a0airstrike\u00a0in Myanmar's Rakhine state that caused deaths, injuries and destruction, and \u2026 [+1184 chars]",
+      "cocom": "USINDOPACOM"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Is the Sudanese army gaining momentum against the RSF?",
+      "description": "The SAF claims victory in a vital North Kordofan town, weakening RSF\u2019s access to fighters and supply routes.",
+      "url": "https://www.aljazeera.com/news/2026/10/4/is-the-sudanese-army-gaining-momentum-against-the-rsf",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/02/2025-03-26T225147Z_1804210971_RC25LDA12HGH_RTRMADP_3_SUDAN-POLITICS-BURHAN-1770119118.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-04T10:56:12Z",
+      "content": "Sudans army has made gains in the war against the Rapid Support Forces (RSF) paramilitary in recent weeks as it tries to gain the upper hand in the three-and-a-half-year war that has ravaged one of t\u2026 [+4652 chars]",
+      "cocom": "USAFRICOM",
+      "_original_topic_id": "T02"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "RODNEY MUHUMUZA Associated Press, AMIR AMAN KIYARO Associated Press",
+      "title": "Ethiopian federal forces retake Mekelle airport from Tigrayan fighters, residents say",
+      "description": "Ethiopian federal forces have retaken Mekelle\u2019s airport from Tigrayan fighters",
+      "url": "https://abcnews.com/Business/wireStory/ethiopian-federal-forces-retake-mekelle-airport-tigrayan-fighters-136975197",
+      "urlToImage": "https://i.abcnewsfe.com/a/ac5992fd-1af7-44b0-895a-2f72099df2cd/wirestory_87740d41b686614b63ccdba54dbd3168_16x9.jpg?w=1600",
+      "publishedAt": "2026-10-03T22:11:20Z",
+      "content": "KAMPALA, Uganda -- Ethiopian federal forces have taken the airport in Mekelle, the capital of the northern Tigray region, according to people in the city who spoke to The Associated Press on Saturday\u2026 [+4565 chars]",
+      "cocom": "USAFRICOM",
+      "_original_topic_id": "T02"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Africanistperspective.com"
+      },
+      "author": "Ken Opalo",
+      "title": "The Escalation of War in Ethiopia",
+      "description": "The coming proxy wars will be devastating for civilians and do little to improve governance and human welfare in Ethiopia and the wider Horn",
+      "url": "https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!O1tC!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fea7d3580-b56e-458e-bee7-b2f9c6446172_1280x853.jpeg",
+      "publishedAt": "2026-10-03T11:54:24Z",
+      "content": "Thank you for being a regular reader of An Africanist Perspective. If you havent done so yet, please hit subscribe to receive timely updates on new posts along with over 36,000 other subscribers. New\u2026 [+16109 chars]",
+      "cocom": "USAFRICOM",
+      "_original_topic_id": "T02"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DW (English)"
+      },
+      "author": "Kersten Knipp",
+      "title": "Pakistan vs. Afghanistan: From allies and neighbors to war",
+      "description": "For years, Pakistan supported the Taliban in Afghanistan. But now Pakistan is bombing its neighbor. How the former allies became adversaries and why negotiations keep failing.",
+      "url": "https://www.dw.com/en/pakistan-vs-afghanistan-from-allies-and-neighbors-to-war/a-79532115",
+      "urlToImage": "https://static.dw.com/image/79406929_6.jpg",
+      "publishedAt": "2026-10-03T18:49:00Z",
+      "content": "On Thursday night, Pakistan attacked targets in Afghanistan. The results of that attack are disputed. The Taliban, the Islamic fundamentalist nationalist movement that controls Afghanistan, says that\u2026 [+7471 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T14"
+    }
+  ]
+}

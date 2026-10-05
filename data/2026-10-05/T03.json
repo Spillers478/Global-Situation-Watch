@@ -1,0 +1,71 @@
+{
+  "status": "ok",
+  "totalResults": 7,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Press Trust of India",
+      "title": "Industry experts call for India-specific AI safety rules, not US model",
+      "description": "India should build its own artificial intelligence (AI) safety framework suited to its languages, scale, and application-led AI ecosystem rather than replicate a voluntary pact signed by US President Donald Trump and top technology firms last week, industry e\u2026",
+      "url": "https://www.business-standard.com/technology/artificial-intelligence/industry-experts-call-for-india-specific-ai-safety-rules-not-us-model-126100400346_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/16/thumb/featurecrop/1200X628/1789540933-7711.JPG",
+      "publishedAt": "2026-10-04T10:27:40Z",
+      "content": "India should build its own artificial intelligence (AI) safety framework suited to its languages, scale, and application-led AI ecosystem rather than replicate a voluntary pact signed by US President\u2026 [+8130 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Activistpost.com"
+      },
+      "author": "Editor",
+      "title": "The Post 9/11 Era: 25 Years of Revisionist History and Imperial Terrorism",
+      "description": "The attacks of September 11th, 2001 didn\u2019t happen in isolation. The interventionist ambitions of American empire abroad not only laid the foundations for 9/11 to occur, but set the stage to usher in an unparalleled era of violence and exploitation. Around thi\u2026",
+      "url": "https://activistpost.com/the-post-9-11-era-25-years-of-revisionist-history-and-imperial-terrorism/",
+      "urlToImage": "https://activistpost.com/wp-content/uploads/2026/09/istockphoto-2287143586-612x612-1.jpg",
+      "publishedAt": "2026-10-04T01:02:00Z",
+      "content": "The attacks of September 11th, 2001 didn\u2019t happen in isolation. The interventionist ambitions of American empire abroad not only laid the foundations for 9/11 to occur, but set the stage to usher in \u2026 [+11698 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "ukranews",
+      "title": "In Russia, lab technician at institute broke test tube containing dangerous infection and died week later. About 200 people had contact with her, and they are being tested [Pneumonic plague]",
+      "description": "In the Irkutsk Oblast of Russia, the aggressor country, a death from pneumonic plague\u2014a dangerous airborne infection with a high fatality rate\u2014has been reported. An employee of a local anti-plague institute died from the disease. This is according to reports \u2026",
+      "url": "https://freerepublic.com/focus/f-news/4397800/posts",
+      "urlToImage": null,
+      "publishedAt": "2026-10-03T17:11:43Z",
+      "content": "Skip to comments.\r\nIn Russia, lab technician at institute broke test tube containing dangerous infection and died week later. About 200 people had contact with her, and they are being tested [Pneumon\u2026 [+3279 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "PTI",
+      "title": "Average home prices in Delhi-NCR rise maximum at 12 pc annually in Jul-Sep: Anarock",
+      "description": "Delhi-NCR housing prices rose up to 12% year-on-year in July\u2013September, averaging \u20b99,980/sq ft amid luxury-focused supply and higher input costs.",
+      "url": "https://www.thehindubusinessline.com/news/real-estate/average-home-prices-in-delhi-ncr-rise-maximum-at-12-pc-annually-in-jul-sep-anarock/article71540732.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/mwlyh7/article71540761.ece/alternates/LANDSCAPE_1200/iStock-1019219898.jpg",
+      "publishedAt": "2026-10-03T12:54:03Z",
+      "content": "Housing prices in Delhi-NCR primary market rose a maximum of 12 per cent annually during the July-September period due to a hike in input costs and builders' increased focus on luxury projects, accor\u2026 [+2075 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Average home prices in Delhi-NCR rise maximum at 12 pc annually in Jul-Sep: Anarock",
+      "description": "Housing prices in the Delhi-NCR region experienced an annual increase of 12 percent during the July-September quarter. This rise is attributed to increased input costs and a focus on luxury projects by builders. Average residential prices increased to Rs 9,98\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/average-home-prices-in-delhi-ncr-rise-maximum-at-12-pc-annually-in-jul-sep-anarock/articleshow/134658001.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134658567,width-1200,height-900,imgsize-209734,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-03T11:41:20Z",
+      "content": "New Delhi: Housing prices in Delhi-NCR primary market rose a maximum of 12 per cent annually during the July-September period due to a hike in input costs and builders' increased focus on luxury proj\u2026 [+2224 chars]"
+    }
+  ]
+}

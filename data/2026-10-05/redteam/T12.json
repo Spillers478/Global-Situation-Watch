@@ -1,0 +1,46 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Warlock Ransomware Still Exploits Year-Old SharePoint Flaws to Hit Critical Infrastructure",
+      "description": "Warlock ransomware continues to exploit unpatched SharePoint flaws to breach water utilities, telecoms, governments, and universities worldwide. Warlock ransomware made headlines back in mid-2025 for exploiting a chain of SharePoint zero-days collectively dub\u2026",
+      "url": "https://securityaffairs.com/200304/malware/warlock-ransomware-still-exploits-year-old-sharepoint-flaws-to-hit-critical-infrastructure.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2026/10/image-10.png",
+      "publishedAt": "2026-10-04T07:49:27Z",
+      "content": "Warlock Ransomware Still Exploits Year-Old SharePoint Flaws to Hit Critical Infrastructure\r\nWarlock ransomware made headlines back in mid-2025 for exploiting a chain of SharePoint zero-days collectiv\u2026 [+6315 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "info@thehackernews.com (The Hacker News)",
+      "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
+      "description": "The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and Spanish-speaking countries.\n\nThe activity, observed \u2026",
+      "url": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCZSaqs29yWFrct8zgOikM9e4CS0xuAXppzGJ1tskKpKC2gbGuITsYlHYNcnXDMvrFpPuAVS_ZlyEF8Obp7Mgw7CUXe4UsKP3pNEvZWNfszKQVxogslYpoWBZG-QQbEvmS6SDcbgVtXiFFGIEjreD_HSkCYZTfcwL1Rt90qDbbPj946SbMX0FR5CEKRt_H/s1700-nu-rw-lo-l85-e365/sharepoint-ransomware.jpg",
+      "publishedAt": "2026-10-03T14:36:33Z",
+      "content": "The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portugue\u2026 [+3831 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "How foreign hackers could 'crumble' America by targeting one essential utility",
+      "description": "Environmental Protection Agency officials say cyberattacks on U.S. water systems have surged several fold, shifting from ransomware to disruption.",
+      "url": "https://www.foxnews.com/politics/how-foreign-hackers-could-crumble-america-targeting-essential-utility",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/minnesota-water-systems-1.jpg",
+      "publishedAt": "2026-10-03T10:00:38Z",
+      "content": "A massive surge in cyberattacks on Americans' water supply in recent years has exposed a shift in hackers' focus from financially motivated ransomeware to attacks designed to disrupt one of the most \u2026 [+5877 chars]",
+      "cocom": "USNORTHCOM"
+    }
+  ]
+}

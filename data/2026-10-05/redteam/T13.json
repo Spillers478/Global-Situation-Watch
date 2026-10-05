@@ -1,0 +1,33 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Hurriyet Daily News"
+      },
+      "author": "hurriyetdailynews.com",
+      "title": "Myanmar migrants returned to war-torn nation from Malaysia",
+      "description": "Nearly 1,500 Myanmar migrants from Malaysia returned to their war-ravaged home country on Oct. 4 under an opaque repatriation scheme that rights monitors say cannot assure their safety.",
+      "url": "https://www.hurriyetdailynews.com/myanmar-migrants-returned-to-war-torn-nation-from-malaysia-227689",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6ac23160934ff28433ad5508.jpg",
+      "publishedAt": "2026-10-04T10:59:03Z",
+      "content": "THANLYIN, Malaysia\r\nMyanmar migrants repatriated from Malaysia arrive at a temple during their official welcoming process in Thanlyin on October 4, 2026. (AFP Photo)\r\nNearly 1,500 Myanmar migrants fr\u2026 [+1869 chars]",
+      "cocom": "USINDOPACOM",
+      "_original_topic_id": "T05"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "DHS exposes dilemma behind SCOTUS deportation fight: \u2018We have two choices\u2019",
+      "description": "DHS General Counsel James Percival defends third-country removals on social media as the Supreme Court temporarily stays a lower-court ruling.",
+      "url": "https://www.foxnews.com/politics/dhs-exposes-dilemma-behind-scotus-deportation-fight-two-choices",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/ice-deportation-flight-dallas.jpg",
+      "publishedAt": "2026-10-03T14:00:28Z",
+      "content": "The Supreme Court temporarily cleared the Trump administration to continue its third-country deportation policy this week, as DHS top lawyer mounts a public defense of an immigration authority the ad\u2026 [+4490 chars]",
+      "cocom": "USNORTHCOM"
+    }
+  ]
+}

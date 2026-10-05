@@ -1,0 +1,48 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "AFP",
+      "title": "New islands appear after Indonesia's Anak Krakatau volcano erupts",
+      "description": "In the aftermath of last month's major eruption, satellite images show the emergence of two small islands surrounding Mount Anak Krakatau in the Sunda Strait. Authorities are currently evaluating the longevity of these islands, as they may be subject to erosi\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/new-islands-appear-after-indonesias-anak-krakatau-volcano-erupts/articleshow/134653487.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134653808,width-1200,height-900,imgsize-168173,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-03T06:47:37Z",
+      "content": "Jakarta: Two new islands have emerged in waters surrounding Mount Anak Krakatau following a major eruption last month that grounded flights for days, the head of Indonesia's volcano monitoring agency\u2026 [+2078 chars]",
+      "cocom": "USINDOPACOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Protothema.gr"
+      },
+      "author": "\u0391\u03bb\u03b5\u03be\u03af\u03b1 \u0391\u03bc\u03b2\u03c1\u03ac\u03b6\u03b7",
+      "title": "Fresh floods leave three villages in Crete without water",
+      "description": "Mylopotamos is under a civil protection state of emergency after one death this week, while Meteo forecasts further storms across Crete until Sunday midday, and an orange weather warning also covers the southern Dodecanese islands\nThe post Fresh floods leave \u2026",
+      "url": "https://en.protothema.gr/2026/10/03/fresh-floods-leave-three-villages-in-crete-without-water/",
+      "urlToImage": "https://en.protothema.gr/wp-content/uploads/2026/10/zoniana_vroxi_5-1024x673.png",
+      "publishedAt": "2026-10-03T19:36:14Z",
+      "content": "Crete is enduring a third day of severe weather, with flooding and landslides causing widespread damage and a fresh forecast warning that the storms will continue until midday on Sunday.\r\nScenes from\u2026 [+6770 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T05"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Peoplesreview.com.np"
+      },
+      "author": "team1",
+      "title": "300 Parbat families displaced after flood and landslides strike",
+      "description": "PARBAT, Oct 4: Floods and landslides have forced 300 families from their homes in Parbat, damaging more than 300 houses and disrupting roads and public infrastructure across much of the district. The District Administration Office said 170 houses were complet\u2026",
+      "url": "https://peoplesreview.com.np/2026/10/04/300-parbat-families-displaced-after-flood-and-landslides-strike/",
+      "urlToImage": "https://peoplesreview.com.np/wp-content/uploads/2026/10/badi.jpg",
+      "publishedAt": "2026-10-04T09:20:00Z",
+      "content": "PARBAT, Oct 4: Floods and landslides have forced 300 families from their homes in Parbat, damaging more than 300 houses and disrupting roads and public infrastructure across much of the district.\r\nTh\u2026 [+1551 chars]",
+      "cocom": "USINDOPACOM",
+      "_original_topic_id": "T13"
+    }
+  ]
+}

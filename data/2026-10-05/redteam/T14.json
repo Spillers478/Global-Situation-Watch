@@ -1,0 +1,33 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Common Dreams"
+      },
+      "author": "Stephen Prager",
+      "title": "Lula Campaign Asks to Probe Sudden US Shutdown of Consular Services as 'Interference in Brazilian Elections'",
+      "description": "Just two days before Brazil's closely watched presidential election, the campaign of its left-wing president, Luiz In\u00e1cio Lula da Silva, has asked the nation's top election court to examine the sudden shutdown of US consular services as part of a broader inve\u2026",
+      "url": "https://www.commondreams.org/news/lula-probe-trump-interference",
+      "urlToImage": "https://www.commondreams.org/media-library/image.jpg?id=68046461&width=1200&height=600&coordinates=0%2C416%2C0%2C417",
+      "publishedAt": "2026-10-03T20:14:59Z",
+      "content": "Just two days before Brazil's closely watched presidential election, the campaign of its left-wing president, Luiz In\u00e1cio Lula da Silva, has asked the nation's top election court to examine the sudde\u2026 [+5470 chars]",
+      "cocom": "USSOUTHCOM",
+      "_original_topic_id": "T05"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "US and Australia suspend diplomatic operations in Brazil before election",
+      "description": "Security threats prompt US and Australia to suspend diplomatic operations in Brazil before pivotal election day.",
+      "url": "https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6ac03839c0-1790982201.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-03T00:46:10Z",
+      "content": "The United States has suspended consular services in Brazil, prompting Australia to close its embassy in the Brazilian capital, two days before Brazils presidential election on Sunday.\r\nIn a statemen\u2026 [+2482 chars]",
+      "cocom": "USSOUTHCOM"
+    }
+  ]
+}
