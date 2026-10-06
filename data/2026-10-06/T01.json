@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Science Desk",
+      "title": "Oklahoma\u2019s Ames crater was tied to a 467-million-year-old meteor bombardment; new zircon dating puts the impact around 370 million years ago, nearly 100 million years younger and close to a major mass extinction",
+      "description": "In a groundbreaking discovery, researchers have re-dated the Ames impact structure to approximately 370 million years ago, bringing it in line with a notable extinction event in Earth's geology. Initial dating based on fossil records suggested an earlier time\u2026",
+      "url": "https://timesofindia.indiatimes.com/science/earth/oklahomas-ames-crater-was-tied-to-a-467-million-year-old-meteor-bombardment-new-zircon-dating-puts-the-impact-around-370-million-years-ago-nearly-100-million-years-younger-and-close-to-a-major-mass-extinction/articleshow/134690752.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134691199,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-10-05T07:55:26Z",
+      "content": "<ul><li>News</li>\r\n<li>Science News</li>\r\n<li>Oklahomas Ames crater was tied to a 467-million-year-old meteor bombardment; new zircon dating puts the impact around 370 million years ago, nearly 100 m\u2026 [+2025 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Subhadra Srivastava",
+      "title": "Yemen launches major military offensive to retake Houthi-held territory as fighting intensifies",
+      "description": "Yemen's internationally recognised government has announced the start of military operations to retake territory held by the Iran-aligned Houthis, as",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/yemen-launches-major-military-offensive-to-retake-houthi-held-territory-as-fighting-intensifies/articleshow/134675915.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134675951,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-10-04T13:30:50Z",
+      "content": "Follow Us On Social Media\r\n'Russia stood by us when our territorial integrity was under threat': Jaishankar in MunichHats off to Cristiano! Zidane shuts down Ronaldo criticism with huge message about\u2026 [+1744 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Reuters",
+      "title": "Zelenskiy says Putin wants to weaken Ukrainian resistance with air strikes",
+      "description": "Ukrainian President Volodymyr Zelenskiy said Russian leader Vladimir Putin is trying to weaken Ukrainian forces by escalating air strikes against the capital. He also said that Ukraine would respond and expressed astonishment at the military escalation. Zelen\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/zelenskiy-says-putin-wants-to-weaken-ukrainian-resistance-with-air-strikes/articleshow/134674961.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134675098,width-1200,height-900,imgsize-88052,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-04T12:28:42Z",
+      "content": "Alpha Trade\r\nGet daily trade ideas from SEBI-registered research analysts.\r\nInvestment Ideas\r\nGrow your wealth with stock ideas &amp; sectoral trends.\r\nStock Reports Plus\r\nAll-in-one stock research w\u2026 [+512 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": null,
+      "title": "Ukraine to target Russian refineries as Zelenskyy responds to air strikes",
+      "description": "Faced with a new Moscow policy designed to force people to abandon Kyiv and other cities, the Ukrainian president says he will double down on attacking Russian oil reserves.",
+      "url": "https://www.abc.net.au/news/2026-10-04/ukraine-to-hit-russian-refineries-in-response-to-moscow-strikes/107226904",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/0afabd341b16e28d9cd9517de7973586?impolicy=wcms_watermark_news&cropH=2719&cropW=4833&xPos=0&yPos=482&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-10-04T04:25:14Z",
+      "content": "Ukraine will double down on attacking Russian oil refineries in response to a new policy of air strikes by Moscow designed to force people to abandon Kyiv and other cities, but will not target civili\u2026 [+4634 chars]"
+    }
+  ]
+}

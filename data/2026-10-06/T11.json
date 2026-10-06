@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Noor Qurashi",
+      "title": "North Korea claims it has developed 'AI-piloted' missiles that leave 'no way to avoid' attack after latest sabre-rattling military drill",
+      "description": "The new technology was trialled around the eastern coastal city of Wonsan early Saturday morning where it flew more than 700km (435 miles), according to South Korea's military.",
+      "url": "https://www.dailymail.com/news/article-16181977/North-Korea-develops-AI-piloted-missiles-avoid-attack.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/10/04/12/111641291-0-image-m-47_1791114799352.jpg",
+      "publishedAt": "2026-10-04T12:34:49Z",
+      "content": "North Korean leader Kim Jong-Un has reportedly developed 'AI-piloted' missiles that are impossible to escape.\r\nThe new technology was trialled around the eastern coastal city of Wonsan early Saturday\u2026 [+4395 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Noor Qurashi",
+      "title": "North Korea claims it has developed 'AI-piloted' missiles that leave 'no way to avoid' attack after latest sabre-rattling military drill",
+      "description": "The new technology was trialled around the eastern coastal city of Wonsan early Saturday morning where it flew more than 700km (435 miles), according to South Korea's military.",
+      "url": "https://www.dailymail.com/news/article-16181977/North-Korea-develops-AI-piloted-missiles-avoid-attack.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/10/04/12/111641291-0-image-m-47_1791114799352.jpg",
+      "publishedAt": "2026-10-04T12:34:49Z",
+      "content": "North Korean leader Kim Jong-Un has reportedly developed 'AI-piloted' missiles that are impossible to escape.\r\nThe new technology was trialled around the eastern coastal city of Wonsan early Saturday\u2026 [+4395 chars]"
+    }
+  ]
+}

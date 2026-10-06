@@ -1,0 +1,110 @@
+{
+  "status": "ok",
+  "totalResults": 9,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Help Net Security"
+      },
+      "author": "Sinisa Markovic",
+      "title": "Detained ShinyHunters hacker reportedly helping FBI track down fellow members",
+      "description": "A suspected ShinyHunters member known as Rey has been detained in Jordan and is reportedly helping the FBI track down the rest of the group. Reuters reports that Jordanian authorities detained Saif al-Din Khader, alias Rey, last week, with two of its three so\u2026",
+      "url": "https://www.helpnetsecurity.com/2026/10/05/shinyhunters-member-rey-detained-jordan-fbi/",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/13143124/cybercrime.webp",
+      "publishedAt": "2026-10-05T10:36:02Z",
+      "content": "A suspected ShinyHunters member known as Rey has been detained in Jordan and is reportedly helping the FBI track down the rest of the group.\r\nReuters reports that Jordanian authorities detained Saif \u2026 [+3985 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "America must defend our digital infrastructure, here and overseas, to win the next war",
+      "description": "Iranian strikes damaged Amazon Web Services data centers in the UAE and Bahrain, exposing why digital infrastructure is now a national security priority.",
+      "url": "https://www.foxnews.com/opinion/america-defend-digital-infrastructure-win-next-war",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/iran-strike-bahrain.jpeg",
+      "publishedAt": "2026-10-05T09:00:27Z",
+      "content": "For most of American history, national defense has been understood geographically. There was American territory and foreign territory, borders to defend, military installations to protect and America\u2026 [+10341 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Insurance Journal"
+      },
+      "author": "Admin",
+      "title": "Hackers Breached Propulsion System of US-Bound Oil Tanker",
+      "description": "FBI and US Coast Guard investigators have found evidence that hackers accessed the propulsion system of an oil supertanker as it was approaching the Texas coast this summer, according to US officials familiar with the matter, an extraordinary breach that \u2026",
+      "url": "https://www.insurancejournal.com/news/southcentral/2026/10/05/887833.htm",
+      "urlToImage": "https://www.insurancejournal.com/img/social/opengraph/ij-social-cyber-1200x630.png",
+      "publishedAt": "2026-10-05T09:00:24Z",
+      "content": "FBI and US Coast Guard investigators have found evidence that hackers accessed the propulsion system of an oil supertanker as it was approaching the Texas coast this summer, according to US officials\u2026 [+3304 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Insurance Journal"
+      },
+      "author": "Admin",
+      "title": "Hackers Breached Propulsion System of US-Bound Oil Tanker",
+      "description": "FBI and US Coast Guard investigators have found evidence that hackers accessed the propulsion system of an oil supertanker as it was approaching the Texas coast this summer, according to US officials familiar with the matter, an extraordinary breach that \u2026",
+      "url": "https://www.insurancejournal.com/news/national/2026/10/05/887853.htm",
+      "urlToImage": "https://www.insurancejournal.com/app/uploads/2020/01/ship-fuel-prices-rise.jpg",
+      "publishedAt": "2026-10-05T05:11:38Z",
+      "content": "FBI and US Coast Guard investigators have found evidence that hackers accessed the propulsion system of an oil supertanker as it was approaching the Texas coast this summer, according to US officials\u2026 [+3344 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "author": "Neil J. Rubenking",
+      "title": "Stop Being Safe: Why You Should Infect Your PC With Malware Today",
+      "description": "Bored with your functional, smooth-running PC? From ransomware skulls to free USB drives, here's your step-by-step guide to bringing back the wild, chaotic days of early computing.\nForty years ago, when personal computers were new, having one in your home was\u2026",
+      "url": "https://uk.pcmag.com/antivirus/116547/stop-being-safe-why-you-should-infect-your-pc-with-malware-today",
+      "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/help/s/stop-being/stop-being-safe-why-you-should-infect-your-pc-with-malware-t_nj9x.1200.jpg",
+      "publishedAt": "2026-10-04T14:33:02Z",
+      "content": "Forty years ago, when personal computers were new, having one in your home was a kind of hobby. Every user needed some serious technical expertise. System won't start? Open the oversized case, wiggle\u2026 [+12005 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Help Net Security"
+      },
+      "author": "Sinisa Markovic",
+      "title": "Week in review: Researcher breaks into Microsoft analytics service, NetScaler RCE 0-day exploited",
+      "description": "Here\u2019s an overview of some of last week\u2019s most interesting news, articles, interviews and videos: 16-year-old researcher breaks into Microsoft analytics service with access to 17 trillion rows of data A flaw in Titan, an internal Microsoft analytics service, \u2026",
+      "url": "https://www.helpnetsecurity.com/2026/10/04/week-in-review-researcher-breaks-into-microsoft-analytics-service-netscaler-rce-0-day-exploited/",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/25124830/cybersecurity-week-review-1-1500.webp",
+      "publishedAt": "2026-10-04T08:00:19Z",
+      "content": "Heres an overview of some of last weeks most interesting news, articles, interviews and videos:\r\n16-year-old researcher breaks into Microsoft analytics service with access to 17 trillion rows of data\u2026 [+10442 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Warlock Ransomware Still Exploits Year-Old SharePoint Flaws to Hit Critical Infrastructure",
+      "description": "Warlock ransomware continues to exploit unpatched SharePoint flaws to breach water utilities, telecoms, governments, and universities worldwide. Warlock ransomware made headlines back in mid-2025 for exploiting a chain of SharePoint zero-days collectively dub\u2026",
+      "url": "https://securityaffairs.com/200304/malware/warlock-ransomware-still-exploits-year-old-sharepoint-flaws-to-hit-critical-infrastructure.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2026/10/image-10.png",
+      "publishedAt": "2026-10-04T07:49:27Z",
+      "content": "Warlock Ransomware Still Exploits Year-Old SharePoint Flaws to Hit Critical Infrastructure\r\nWarlock ransomware made headlines back in mid-2025 for exploiting a chain of SharePoint zero-days collectiv\u2026 [+6315 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "info@thehackernews.com (The Hacker News)",
+      "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
+      "description": "A suspected member of the ShinyHunters digital extortion group, who goes by the online alias \"Rey,\" has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familiar with the matter.\n\nRey, whose real name is Saif \u200cal-Din Kha\u2026",
+      "url": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkLNgAfzHHwGX_2W-2iGuIMpKX_ZOPM0xFYMFDUp5kxBp3XfaRHV0EUwHsbvh45q8wVSYvblXfru1NzEKovvRqXHDNA82iWx6IbY_ihCrucvF5Bkr1JU8bVJ9KDzUi0wG1GRYvyPNb-1LcXTWzBhqLS5kRo9o2zf3DnqqcTNqk5gTtfbdC57w5SZnomx5U/s1700-nu-rw-lo-l85-e365/shinyhunters-arrested.jpg",
+      "publishedAt": "2026-10-04T07:22:05Z",
+      "content": "A suspected member of the ShinyHunters digital extortion group, who goes by the online alias \"Rey,\" has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familia\u2026 [+4516 chars]"
+    }
+  ]
+}

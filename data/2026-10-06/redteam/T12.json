@@ -1,0 +1,74 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Help Net Security"
+      },
+      "author": "Sinisa Markovic",
+      "title": "Detained ShinyHunters hacker reportedly helping FBI track down fellow members",
+      "description": "A suspected ShinyHunters member known as Rey has been detained in Jordan and is reportedly helping the FBI track down the rest of the group. Reuters reports that Jordanian authorities detained Saif al-Din Khader, alias Rey, last week, with two of its three so\u2026",
+      "url": "https://www.helpnetsecurity.com/2026/10/05/shinyhunters-member-rey-detained-jordan-fbi/",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/13143124/cybercrime.webp",
+      "publishedAt": "2026-10-05T10:36:02Z",
+      "content": "A suspected ShinyHunters member known as Rey has been detained in Jordan and is reportedly helping the FBI track down the rest of the group.\r\nReuters reports that Jordanian authorities detained Saif \u2026 [+3985 chars]",
+      "cocom": "USCENTCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Insurance Journal"
+      },
+      "author": "Admin",
+      "title": "Hackers Breached Propulsion System of US-Bound Oil Tanker",
+      "description": "FBI and US Coast Guard investigators have found evidence that hackers accessed the propulsion system of an oil supertanker as it was approaching the Texas coast this summer, according to US officials familiar with the matter, an extraordinary breach that \u2026",
+      "url": "https://www.insurancejournal.com/news/southcentral/2026/10/05/887833.htm",
+      "urlToImage": "https://www.insurancejournal.com/img/social/opengraph/ij-social-cyber-1200x630.png",
+      "publishedAt": "2026-10-05T09:00:24Z",
+      "content": "FBI and US Coast Guard investigators have found evidence that hackers accessed the propulsion system of an oil supertanker as it was approaching the Texas coast this summer, according to US officials\u2026 [+3304 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Insurance Journal"
+      },
+      "author": "Admin",
+      "title": "Hackers Breached Propulsion System of US-Bound Oil Tanker",
+      "description": "FBI and US Coast Guard investigators have found evidence that hackers accessed the propulsion system of an oil supertanker as it was approaching the Texas coast this summer, according to US officials familiar with the matter, an extraordinary breach that \u2026",
+      "url": "https://www.insurancejournal.com/news/national/2026/10/05/887853.htm",
+      "urlToImage": "https://www.insurancejournal.com/app/uploads/2020/01/ship-fuel-prices-rise.jpg",
+      "publishedAt": "2026-10-05T05:11:38Z",
+      "content": "FBI and US Coast Guard investigators have found evidence that hackers accessed the propulsion system of an oil supertanker as it was approaching the Texas coast this summer, according to US officials\u2026 [+3344 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Warlock Ransomware Still Exploits Year-Old SharePoint Flaws to Hit Critical Infrastructure",
+      "description": "Warlock ransomware continues to exploit unpatched SharePoint flaws to breach water utilities, telecoms, governments, and universities worldwide. Warlock ransomware made headlines back in mid-2025 for exploiting a chain of SharePoint zero-days collectively dub\u2026",
+      "url": "https://securityaffairs.com/200304/malware/warlock-ransomware-still-exploits-year-old-sharepoint-flaws-to-hit-critical-infrastructure.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2026/10/image-10.png",
+      "publishedAt": "2026-10-04T07:49:27Z",
+      "content": "Warlock Ransomware Still Exploits Year-Old SharePoint Flaws to Hit Critical Infrastructure\r\nWarlock ransomware made headlines back in mid-2025 for exploiting a chain of SharePoint zero-days collectiv\u2026 [+6315 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "info@thehackernews.com (The Hacker News)",
+      "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
+      "description": "A suspected member of the ShinyHunters digital extortion group, who goes by the online alias \"Rey,\" has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familiar with the matter.\n\nRey, whose real name is Saif \u200cal-Din Kha\u2026",
+      "url": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkLNgAfzHHwGX_2W-2iGuIMpKX_ZOPM0xFYMFDUp5kxBp3XfaRHV0EUwHsbvh45q8wVSYvblXfru1NzEKovvRqXHDNA82iWx6IbY_ihCrucvF5Bkr1JU8bVJ9KDzUi0wG1GRYvyPNb-1LcXTWzBhqLS5kRo9o2zf3DnqqcTNqk5gTtfbdC57w5SZnomx5U/s1700-nu-rw-lo-l85-e365/shinyhunters-arrested.jpg",
+      "publishedAt": "2026-10-04T07:22:05Z",
+      "content": "A suspected member of the ShinyHunters digital extortion group, who goes by the online alias \"Rey,\" has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familia\u2026 [+4516 chars]",
+      "cocom": "USCENTCOM"
+    }
+  ]
+}

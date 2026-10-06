@@ -1,0 +1,117 @@
+{
+  "topics": {
+    "flagship-ru-ua": {
+      "retrieved": 25,
+      "kept_here": 17,
+      "moved_out": 4,
+      "discarded": 4,
+      "unclassified": 0
+    },
+    "flagship-ir-il": {
+      "retrieved": 25,
+      "kept_here": 15,
+      "moved_out": 5,
+      "discarded": 5,
+      "unclassified": 0
+    },
+    "T01": {
+      "retrieved": 4,
+      "kept_here": 1,
+      "moved_out": 2,
+      "discarded": 1,
+      "unclassified": 0
+    },
+    "T02": {
+      "retrieved": 25,
+      "kept_here": 3,
+      "moved_out": 9,
+      "discarded": 13,
+      "unclassified": 0
+    },
+    "T03": {
+      "retrieved": 11,
+      "kept_here": 0,
+      "moved_out": 3,
+      "discarded": 8,
+      "unclassified": 0
+    },
+    "T04": {
+      "retrieved": 10,
+      "kept_here": 6,
+      "moved_out": 0,
+      "discarded": 4,
+      "unclassified": 0
+    },
+    "T05": {
+      "retrieved": 25,
+      "kept_here": 3,
+      "moved_out": 7,
+      "discarded": 15,
+      "unclassified": 0
+    },
+    "T06": {
+      "retrieved": 11,
+      "kept_here": 9,
+      "moved_out": 1,
+      "discarded": 1,
+      "unclassified": 0
+    },
+    "T07": {
+      "retrieved": 25,
+      "kept_here": 0,
+      "moved_out": 16,
+      "discarded": 9,
+      "unclassified": 0
+    },
+    "T08": {
+      "retrieved": 1,
+      "kept_here": 1,
+      "moved_out": 0,
+      "discarded": 0,
+      "unclassified": 0
+    },
+    "T10": {
+      "retrieved": 15,
+      "kept_here": 4,
+      "moved_out": 3,
+      "discarded": 8,
+      "unclassified": 0
+    },
+    "T11": {
+      "retrieved": 1,
+      "kept_here": 0,
+      "moved_out": 1,
+      "discarded": 0,
+      "unclassified": 0
+    },
+    "T12": {
+      "retrieved": 8,
+      "kept_here": 5,
+      "moved_out": 1,
+      "discarded": 2,
+      "unclassified": 0
+    },
+    "T13": {
+      "retrieved": 17,
+      "kept_here": 1,
+      "moved_out": 10,
+      "discarded": 6,
+      "unclassified": 0
+    },
+    "T14": {
+      "retrieved": 9,
+      "kept_here": 0,
+      "moved_out": 9,
+      "discarded": 0,
+      "unclassified": 0
+    }
+  },
+  "totals": {
+    "kept": 65,
+    "reassigned": 71,
+    "discarded": 76,
+    "unclassified": 0
+  },
+  "failed_topics": [],
+  "incomplete_topics": []
+}

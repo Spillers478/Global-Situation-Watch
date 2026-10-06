@@ -1,0 +1,46 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "Gaza mothers seek breastfeeding support amid hunger and siege",
+      "description": "Palestinian mothers are finding it increasingly difficult to breastfeed their babies in Gaza.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/gaza-mothers-seek-breastfeeding-support-amid-hunger-and-siege",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791196819.jpg?resize=1920%2C1080&quality=80",
+      "publishedAt": "2026-10-05T10:42:08Z",
+      "content": "Palestinian mothers are finding it increasingly difficult to breastfeed their babies in Gaza. After three years of Israels genocidal war, women suffer malnutrition, displacement and poor healthcare, \u2026 [+41 chars]",
+      "cocom": "USCENTCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Lauren Sommer",
+      "title": "Super El Ni\u00f1o is here. What's so super about it?",
+      "description": "This year, federal forecasters say the planet could see the strongest El Ni\u00f1o event on record. Here's what you need to know.",
+      "url": "https://www.npr.org/2026/10/05/nx-s1-5981261/super-el-nino-floods-droughts",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1440x810+0+70/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa3%2F80%2F6c8f731e4ea4b843443bb0c860c4%2Fssta-1stweekjune2026-1.jpg",
+      "publishedAt": "2026-10-05T09:00:00Z",
+      "content": "Federal forecasters say this year the planet could see the strongest\r\n El Ni\u00f1o event on record. It's already being called \"Super El Ni\u00f1o\" and even \"Godzilla El Ni\u00f1o.\" El Ni\u00f1o is a natural climate pat\u2026 [+5094 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Grist"
+      },
+      "author": "Katie Myers, Laura Hackett",
+      "title": "Two years after Hurricane Helene, survivors are taking lessons for the future",
+      "description": "How Western North Carolina communities are turning what they learned into solar microgrids, practical skills, and accessible spaces designed to help them weather the next disaster.",
+      "url": "https://grist.org/extreme-weather/two-years-after-hurricane-helene-survivors-are-taking-lessons-for-the-future/",
+      "urlToImage": "https://grist.org/wp-content/uploads/2026/10/image-2026-09-30T135704.047.jpeg",
+      "publishedAt": "2026-10-05T08:30:00Z",
+      "content": "This coverage is made possible through a partnership between Grist andBPR, a public radio station serving western North Carolina.\u00a0\r\nIn the days and weeks after Hurricane Helene, people throughout wes\u2026 [+11938 chars]",
+      "cocom": "USNORTHCOM"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "totalResults": 1,
+  "articles": [
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Violet Jira",
+      "title": "U.S. military removes bombers from U.K. base targeted in suspected terror plot - The Washington Post",
+      "description": "Royal Air Force Fairford has been used by the U.S. for long-range bombing missions in its war against Iran.",
+      "url": "https://www.washingtonpost.com/nation/2026/10/04/us-military-removes-bombers-uk-base-targeted-suspected-terror-plot/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VZQF7QOBFQIBOSJ7SDRPP32G5E_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-10-05T05:22:07Z",
+      "content": "The U.S. military has removed all of its bombers from Royal Air Force Fairford, a base that authorities in the United Kingdom called the target of a suspected terror plot.\r\nThe Pentagon confirmed the\u2026 [+51 chars]"
+    }
+  ]
+}
