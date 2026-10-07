@@ -1,0 +1,350 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Jake Epstein",
+      "title": "Russia\u2019s drones are getting faster and deadlier. The West is racing to catch up.",
+      "description": "Jet-powered drones are wreaking havoc in Ukraine. Defense companies are building a new class of interceptors to defeat them.",
+      "url": "https://www.businessinsider.com/russian-drones-faster-deadlier-west-racing-catch-up-with-interceptors-2026-10#article",
+      "urlToImage": "https://i.insider.com/6ac36258eb7225411267e290?width=1200&format=jpeg",
+      "publishedAt": "2026-10-06T11:07:01Z",
+      "content": "Ukrainian and Western defense firms are making their interceptor drones faster.Ints Kalnins/REUTERS\r\n<ul><li>Russia is increasingly using deadly jet-powered drones to attack Ukrainian cities.</li><li\u2026 [+8205 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Sailors missing after fresh attacks on Black Sea vessels, Bulgaria says",
+      "description": "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
+      "url": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8c81/live/db0ca850-c16a-11f1-a003-8be783290413.jpg",
+      "publishedAt": "2026-10-06T10:37:19Z",
+      "content": "One merchant ship has sunk and its crew is missing after a drone attack in the Black Sea, Bulgarian officials say.\r\nA second vessel - carrying grain - was also hit within Bulgaria's exclusive economi\u2026 [+1870 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": "rte",
+        "name": "RTE"
+      },
+      "author": "RT\u00c9 News",
+      "title": "Massive drone attack kills two in Moscow",
+      "description": "Hundreds of drones hit Moscow overnight, killing two men on the outskirts of the capital and injuring nine others, Russian authorities have said.",
+      "url": "https://www.rte.ie/news/2026/1006/1594202-massive-drone-attack-moscow/",
+      "urlToImage": "https://www.rte.ie/images/00233247-1600.jpg",
+      "publishedAt": "2026-10-06T10:18:45Z",
+      "content": "Hundreds of drones hit Moscow overnight, killing two men on the outskirts of the capital and injuring nine others, Russian authorities have said.\r\nOvernight, \"650 drones were launched toward the Mosc\u2026 [+1386 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Radio Free Europe/ Radio Liberty"
+      },
+      "author": "Rikard Jozwiak",
+      "title": "Wider Europe Briefing: The New EU Enlargement Strategy",
+      "description": "In this week's Wider Europe, Rikard Jozwiak drills down on two issues: the EU's new enlargement strategy and the EU's game plan to keep Russia (and Belarus) out of sports.",
+      "url": "https://www.rferl.org/a/wider-europe-briefing-the-new-eu-enlargement-strategy/33871257.html",
+      "urlToImage": "https://gdb.rferl.org/01000000-0aff-0242-1df2-08dc86cf0bc3_w1200_h630.jpg",
+      "publishedAt": "2026-10-06T10:01:08Z",
+      "content": "Welcome to Wider Europe, RFE/RL's newsletter focusing on the key issues concerning the European Union, NATO, and other institutions and their relationships with the Western Balkans and Europe's Easte\u2026 [+13425 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DW (English)"
+      },
+      "author": "Sabine Kinkartz",
+      "title": "Germany faces a triple threat from Russia, China and domestic far-right extremists",
+      "description": "At a rare public hearing Germany's intelligence agencies identified Russia as the country's most dangerous adversary. The threat from China is also coming into focus. And the homegrown far right also poses a challenge. The heads of Germany's intelligence agen\u2026",
+      "url": "https://www.dw.com/en/germany-faces-a-triple-threat-from-russia-china-and-domestic-far-right-extremists/a-79560490",
+      "urlToImage": "https://static.dw.com/image/78155521_6.jpg",
+      "publishedAt": "2026-10-06T09:41:00Z",
+      "content": "The heads of Germany's intelligence agencies rarely provide information openly. What members of the Bundestag's Parliamentary Control Committee discuss in their bug-proof meeting room with the presid\u2026 [+6730 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "gcaptain.com"
+      },
+      "author": "Reuters",
+      "title": "Drone Sinks Ship in Bulgaria\u2019s Black Sea \u2013 Media Reports",
+      "description": "Drones sunk one ship and damaged another in the Black Sea off Bulgaria on Tuesday, local media reports said.",
+      "url": "https://gcaptain.com/drone-sinks-ship-in-bulgarias-black-sea-media-reports/",
+      "urlToImage": "https://gcaptain.com/wp-content/uploads/2026/08/2026-07-29T093131Z_553251886_RC2HDMA9HMIK_RTRMADP_3_UKRAINE-CRISIS-PIVDENNYI-GOK-800x545.jpg",
+      "publishedAt": "2026-10-06T08:24:36Z",
+      "content": "BELGRADE, Oct 6 (Reuters)\u00a0\u2013\u00a0Drones sunk one ship and damaged another in the Black Sea off Bulgaria on Tuesday, local media reports said.\r\nThe reports said that the vessels were merchant ships. It was\u2026 [+968 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sputnikglobe.com"
+      },
+      "author": "Sputnik International",
+      "title": "Russian Drone Downs Ukrainian Starlink-Equipped FPV Balloon at 10 Km - Military",
+      "description": "MOSCOW (Sputnik) - An FPV Ukrainian balloon equipped with a Starlink module has been downed at an altitude of more than 10 kilometers (6 miles) by a ramming attack of a Russian interceptor drone, the Russian Defense Ministry said on Tuesday.",
+      "url": "https://sputnikglobe.com/20261006/russian-drone-downs-ukrainian-starlink-equipped-fpv-balloon-at-10-km---military-1124841488.html",
+      "urlToImage": "https://cdn.imgsputnikglobe.com/images/sharing/article/eng/1124841488.jpg?11245993391791274997",
+      "publishedAt": "2026-10-06T08:23:16Z",
+      "content": "Russia's Special Operation in Ukraine\r\nOn February 24, 2022 Russia launched a special military operation in Ukraine, aiming to liberate the Donbass region where the people's republics of Donetsk and \u2026 [+2174 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Sabrina Penty",
+      "title": "Russian agents 'defecated in Finnish politicians' toilets after breaking into their homes in bizarre new hybrid war'",
+      "description": "Russia has been accused of sending secret agents to break into and defecate in the homes of Finnish politicians.",
+      "url": "https://www.dailymail.com/news/article-16186187/Russian-agents-defecated-Finnish-politicians-toilets-new-hybrid-war.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/10/06/08/111673491-0-image-m-22_1791273535729.jpg",
+      "publishedAt": "2026-10-06T07:59:45Z",
+      "content": "Russia has been accused of sending secret agents to break into and defecate in the homes of Finnish politicians.\u00a0\r\nIt has emerged that at least 20 MPs have reported mysterious break-ins at their home\u2026 [+4264 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": "rt",
+        "name": "RT"
+      },
+      "author": "RT",
+      "title": "Ukrainian drones kill two in Moscow Region \u2013 officials",
+      "description": "Two Russian civilians have been killed and nine injured as 650 Ukrainian drones target Moscow Region, officials say Read Full Article at RT.com",
+      "url": "https://www.rt.com/russia/646780-ukrainian-drones-kill-two-moscow-region/",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.10/article/6ac4a5e02030272be06efdc3.jpg",
+      "publishedAt": "2026-10-06T07:48:13Z",
+      "content": "Two civilians have been killed and nine injured after Ukraine launched 650 drones toward Moscow and the surrounding region overnight, local officials have said.\r\nMoscow Mayor Sergey Sobyanin said in \u2026 [+2006 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Local Germany"
+      },
+      "author": "Tom Pugh",
+      "title": "Today in Germany: A roundup of the latest news on Tuesday",
+      "description": "Merz insists Baltic defence is Germany's defence, German researchers win Nobel prize in medicine, flight prices from Germany have doubled since 2010 and more news on Tuesday, October 6th.",
+      "url": "https://www.thelocal.de/20261006/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-143",
+      "urlToImage": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/10/watermarks-logo-AFP__20261005__D2AG2YC__v1__HighRes__GermanyLithuaniaPoliticsDiplomacy.jpg@webp",
+      "publishedAt": "2026-10-06T06:33:48Z",
+      "content": "Merz insists Baltic defence is Germany's defence, German researchers win Nobel prize in medicine, flight prices from Germany have doubled since 2010 and more news on Tuesday, October 6th.\r\n Tuesday's\u2026 [+6077 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": "rte",
+        "name": "RTE"
+      },
+      "author": "RT\u00c9 News",
+      "title": "UniCredit Russia unit's reorganisation and sale approved",
+      "description": "President Vladimir Putin has approved the reorganisation of the Russian subsidiary of Italy's UniCredit and the subsequent sale of the newly created unit, according to a decree published on the Russian government's website.",
+      "url": "https://www.rte.ie/news/business/2026/1006/1594152-unicredit-russia-units-reorganisation/",
+      "urlToImage": "https://www.rte.ie/images/001b5588-1600.jpg",
+      "publishedAt": "2026-10-06T06:30:07Z",
+      "content": "President Vladimir Putin has approved the reorganisation of the Russian subsidiary of Italy's UniCredit and the subsequent sale of the newly created unit, according to a decree published on the Russi\u2026 [+1746 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hurriyet Daily News"
+      },
+      "author": "hurriyetdailynews.com",
+      "title": "Two dead as cargo ship sinks in Black Sea",
+      "description": "Two crew members died after a cargo ship part-owned by a Turkish company caught fire and sank in the Black Sea off Romania on Oct. 5, with Ukraine blaming a Russian drone attack.",
+      "url": "https://www.hurriyetdailynews.com/two-dead-as-cargo-ship-sinks-in-black-sea-227764",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6ac48b621a32b1bb2a0901e7.jpg",
+      "publishedAt": "2026-10-06T05:47:16Z",
+      "content": "BUCHAREST\r\nTwo crew members died after a cargo ship part-owned by a Turkish company caught fire and sank in the Black Sea off Romania on Oct. 5, with Ukraine blaming a Russian drone attack.\r\nUkrainia\u2026 [+1756 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "breakingthenews.net",
+      "title": "Ukraine: Russia launched 137 drone strikes overnight",
+      "description": "The Air Force of the Armed Forces of Ukraine stated on Tuesday that Moscow launched 137 airstrikes overnight using drones of various types from the directions of the Orel, Kursk, Shatalovo, Millerovo,...",
+      "url": "https://biztoc.com/x/da0a119fdf584f9e",
+      "urlToImage": "https://biztoc.com/cdn/da0a119fdf584f9e_s.webp",
+      "publishedAt": "2026-10-06T05:35:45Z",
+      "content": "The Air Force of the Armed Forces of Ukraine stated on Tuesday that Moscow launched 137 airstrikes overnight using drones of various types from the directions of the Orel, Kursk, Shatalovo, Millerovo\u2026 [+69 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Shivanghi Payal",
+      "title": "Fueling both sides? South Korea ships 150,000T fuel to Russia while funding Ukraine",
+      "description": "In a nuanced twist, South Korea has been sending considerable quantities of diesel fuel to Russia even as it lends support to Ukraine amidst the ongoing invasion. Recent months have seen multiple shipments, indicating a complex dynamic between the two nations\u2026",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/fueling-both-sides-south-korea-ships-150000t-fuel-to-russia-while-funding-ukraine/articleshow/134723406.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134723849,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-10-06T05:22:16Z",
+      "content": "EMI CalculatorDetermine the monthly installment amount for a loan",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Ava Grace",
+      "title": "Germany\u2019s war preparation: A nation caught between history and hubris",
+      "description": "Berlin has reoriented its defense strategy, becoming Europe\u2019s largest bilateral arms supplier to Ukraine ($10B annually) while dismantling diplomatic ties with Russia, reviving fears of a militarized \u201cFourth Reich\u201d and echoing pre-WWII-era tensions. Centuries\u2026",
+      "url": "https://www.naturalnews.com/2026-10-06-germany-war-preparation-caught-between-history-hubris.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/Germany-Russia-oil-gas-pipeline-map.jpg",
+      "publishedAt": "2026-10-06T06:00:00Z",
+      "content": "<ul><li>Berlin has reoriented its defense strategy, becoming Europe's largest bilateral arms supplier to Ukraine ($10B annually) while dismantling diplomatic ties with Russia, reviving fears of a mil\u2026 [+6790 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T02"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Russian bio-leak secrecy follows Chernobyl playbook, ex-CIA officer warns",
+      "description": "Vladimir Putin faces compounding crises as a Siberian plague researcher's death adds to the Ukraine war toll and Russia's faltering economy.",
+      "url": "https://www.foxnews.com/world/russian-bio-leak-secrecy-follows-chernobyl-playbook-ex-cia-officer-warns",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/vladimir-putin-kremlin-state-awards-ceremony.jpg",
+      "publishedAt": "2026-10-06T00:32:16Z",
+      "content": "Fears of a pneumonic plague outbreak following the death of a Siberian plague research institute employee don't bode well for Russian President Vladimir Putin, who is facing a faltering economy and a\u2026 [+3431 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalresearch.ca"
+      },
+      "author": "Global Research News",
+      "title": "Selected Articles: Cold War Era: We Loved the \u201cCommunist Russians.\u201d Now Western Governments Hate \u201cThe Capitalist Russians.\u201d Why?",
+      "description": "Cold War Era: We Loved the \u201cCommunist Russians.\u201d Now Western Governments Hate \u201cThe Capitalist Russians.\u201d Why?\nBy Prof Michel Chossudovsky, October 05, 2026\nHating the Russians is a propaganda ploy. It has geopolitical implications. It undermines dialogue and \u2026",
+      "url": "https://www.globalresearch.ca/selected-articles-cold-war-era-we-loved-communist-russians-now-western-governments-hate-capitalist-russians/5942684",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2023/06/AZOV-battalion.jpg",
+      "publishedAt": "2026-10-05T14:35:38Z",
+      "content": "Cold War Era: We Loved the Communist Russians. Now Western Governments Hate The Capitalist Russians. Why?\r\nBy Prof Michel Chossudovsky, October 05, 2026\r\nHating the Russians is a propaganda ploy. It \u2026 [+2415 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T10"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Reuters",
+      "title": "Ukraine scrambles for money to fight war as Russian strikes batter economy",
+      "description": "Kryvyi Rih, the hometown of President Volodymyr Zelenskiy, is severely impacted by Russian airstrikes disrupting economic activities. The city's largest employer has halted operations, contributing to a dire financial situation. Ukraine faces a significant bu\u2026",
+      "url": "https://economictimes.indiatimes.com/news/defence/ukraine-scrambles-for-money-to-fight-war-as-russian-strikes-batter-economy/articleshow/134695029.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134695028,width-1200,height-900,imgsize-321124,overlay-etdefence/articleshow.jpg",
+      "publishedAt": "2026-10-05T09:11:57Z",
+      "content": "Kryvyi Rih, the hometown of Ukrainian President Volodymyr Zelenskiy, is struggling to survive. Russian airstrikes have brought the city's huge steel plant and mines to a standstill, dragging the loca\u2026 [+6965 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T10"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Radio Free Europe/ Radio Liberty"
+      },
+      "author": "Alex Raufoglu",
+      "title": "Rubio Heads To NATO Allies As Russian Threat, Middle East War Shape Agenda",
+      "description": "US Secretary of State Marco Rubio is heading to Iceland, Greece, and Portugal on October 5-8 for talks on security, defense, energy, economic cooperation, and technology as NATO allies face growing security concerns over Russia\u2019s military activity and continu\u2026",
+      "url": "https://www.rferl.org/a/rubio-russia-nato-iceland/33870383.html",
+      "urlToImage": "https://gdb.rferl.org/3dd9b2c9-c1b5-49db-b549-9bd80069109f_cx0_cy5_cw0_w1200_h630.jpg",
+      "publishedAt": "2026-10-05T02:18:14Z",
+      "content": "WASHINGTON -- US Secretary of State Marco Rubio is heading to Iceland, Greece, and Portugal on October 5-8 for talks on security, defense, energy, economic cooperation, and technology as NATO allies \u2026 [+5875 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T10"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Foreign Policy"
+      },
+      "author": "Fredrik Wesslau",
+      "title": "Russia\u2019s Air War Aims to Bleed Ukraine Dry",
+      "description": "Vladimir Putin\u2019s latest plan for victory puts a cease-fire well out of reach.",
+      "url": "http://foreignpolicy.com/2026/10/05/russia-ukraine-air-war-missiles-drones-putin-strategy-victory/",
+      "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2026/10/russia-ukraine-air-war-missiles-drones-GettyImages-2294333467-e1791210621117.jpg",
+      "publishedAt": "2026-10-05T14:51:48Z",
+      "content": "Marking a new phase after almost five years of war, Russia is intensifying and widening its air war against Ukraine. Now that Ukrainian forces have stopped and partially reversed\r\n the Russian battle\u2026 [+9742 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T13"
+    },
+    {
+      "source": {
+        "id": "rt",
+        "name": "RT"
+      },
+      "author": "RT",
+      "title": "Don\u2019t know? Blame Russia: Finnish president takes page from NATO chief\u2019s playbook",
+      "description": "Finnish President Alexander Stubb blamed Russia for security threats, including the Ceuta migrant crisis, before walking back his claim Read Full Article at RT.com",
+      "url": "https://www.rt.com/news/646716-stubb-russia-blame-game/",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.10/article/6ac2dabd85f5407a4c2ba763.jpg",
+      "publishedAt": "2026-10-05T04:09:05Z",
+      "content": "Finnish President Alexander Stubb has blamed Russia for a wide range of security concerns facing the EU, including the influx of migrants into Ceuta, Spain\u2019s enclave in Morocco, over the summer. He l\u2026 [+3781 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T13"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Radio Free Europe/ Radio Liberty"
+      },
+      "author": "Rikard Jozwiak",
+      "title": "Wider Europe Briefing: The New EU Enlargement Strategy",
+      "description": "In this week's Wider Europe, Rikard Jozwiak drills down on two issues: the EU's new enlargement strategy and the EU's game plan to keep Russia (and Belarus) out of sports.",
+      "url": "https://www.rferl.org/a/wider-europe-briefing-the-new-eu-enlargement-strategy/33871257.html",
+      "urlToImage": "https://gdb.rferl.org/01000000-0aff-0242-1df2-08dc86cf0bc3_w1200_h630.jpg",
+      "publishedAt": "2026-10-06T10:01:08Z",
+      "content": "Welcome to Wider Europe, RFE/RL's newsletter focusing on the key issues concerning the European Union, NATO, and other institutions and their relationships with the Western Balkans and Europe's Easte\u2026 [+13425 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T14"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "OilPrice.com"
+      },
+      "author": "RFE/RL staff",
+      "title": "Rubio Opens 4-Day NATO Tour in Iceland to Discuss Arctic Security",
+      "description": "US Secretary of State Marco Rubio is heading to Iceland, Greece, and Portugal on October 5-8 for talks on security, defense, energy, economic cooperation, and technology as NATO allies face growing security concerns over Russia\u2019s military activity and continu\u2026",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Rubio-Opens-4-Day-NATO-Tour-in-Iceland-to-Discuss-Arctic-Security.html",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-05_3cb0byulf1.jpg",
+      "publishedAt": "2026-10-05T14:00:00Z",
+      "content": "Burnham promises a pragmatic North\u2026\r\nOverview Energy has secured a\u2026\r\nBy RFE/RL staff - Oct 05, 2026, 9:00 AM CDTUS Secretary of State Marco Rubio is heading to Iceland, Greece, and Portugal on Octobe\u2026 [+6103 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T14"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Radio Free Europe/ Radio Liberty"
+      },
+      "author": "Alex Raufoglu",
+      "title": "Rubio Heads To NATO Allies As Russian Threat, Middle East War Shape Agenda",
+      "description": "US Secretary of State Marco Rubio is heading to Iceland, Greece, and Portugal on October 5-8 for talks on security, defense, energy, economic cooperation, and technology as NATO allies face growing security concerns over Russia\u2019s military activity and continu\u2026",
+      "url": "https://www.rferl.org/a/rubio-russia-nato-iceland/33870383.html",
+      "urlToImage": "https://gdb.rferl.org/3dd9b2c9-c1b5-49db-b549-9bd80069109f_cx0_cy5_cw0_w1200_h630.jpg",
+      "publishedAt": "2026-10-05T02:18:14Z",
+      "content": "WASHINGTON -- US Secretary of State Marco Rubio is heading to Iceland, Greece, and Portugal on October 5-8 for talks on security, defense, energy, economic cooperation, and technology as NATO allies \u2026 [+5875 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T14"
+    }
+  ]
+}

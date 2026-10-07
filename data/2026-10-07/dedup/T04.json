@@ -1,0 +1,51 @@
+{
+  "groups": {
+    "https://www.naturalnews.com/2026-10-06-pneumonic-plague-psyop-explained-why-im-not-afraid.html": "a",
+    "https://www.cbc.ca/news/health/russia-lab-pneumonic-plague-explained-9.7369560": "a",
+    "https://nypost.com/2026/10/05/world-news/plague-outbreak-at-russian-lab-raises-questions-about-bioweapons-and-what-was-actually-happening-in-remote-siberia/": "a",
+    "https://www.nbcnews.com/health/health-news/plague-suspected-russia-lab-pneumonic-siberia-symptoms-treatment-rcna601589": "a",
+    "https://freerepublic.com/focus/f-news/4398026/posts": "a",
+    "https://gizmodo.com/the-death-of-a-russian-plague-lab-worker-sounds-terrifying-how-worried-should-you-be-2000821634": "a",
+    "https://www.dailymail.com/news/article-16183277/Russias-plague-zone-Map-shows-areas-initiated-lockdowns-scientist-killed-countries-tighten-border-health-controls.html": "a",
+    "https://economictimes.indiatimes.com/news/international/global-trends/what-to-know-about-the-russian-anti-plague-research-center-in-siberia-from-where-an-unknown-and-dangerous-infection-got-leaked/articleshow/134699502.cms": "a",
+    "https://www.nature.com/articles/d41586-026-03135-7": "c",
+    "https://radaronline.com/p/white-house-on-alert-suspected-plague-outbreak-russia/": "a",
+    "https://www.dailymail.com/sciencetech/article-16184841/prophet-doom-pandemic-warning-russia-plague.html": "b",
+    "https://biztoc.com/x/63c674d5b66fd462": "a",
+    "https://biztoc.com/x/9eae118f959721a3": "a",
+    "https://slashdot.org/firehose.pl?op=view&amp;id=186030390": "a",
+    "https://www.irishtimes.com/world/middle-east/2026/10/05/mystery-death-at-russian-plague-research-institute-sparks-quarantine-measures-across-siberia/": "a",
+    "https://www.huffpost.com/entry/russian-plague_n_6ac3a518e4b0f45fd4cd7938": "a",
+    "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014789": "d",
+    "https://omny.fm/shows/news-at-one/russia-imposed-anti-epidemic-measures-after-lab-worker-dies-of-a-mysterious-illness": "a",
+    "https://timesofindia.indiatimes.com/toi-plus/health/after-covid-are-we-actually-ready-for-the-next-pandemic-not-quite/articleshow/134699407.cms": "e",
+    "https://www.business-standard.com/health/russia-plague-scare-nearly-200-face-quarantine-after-lab-worker-dies-126100500079_1.html": "a",
+    "https://www.newser.com/story/397635/pennsylvania-measles-outbreak-is-largest-in-us-in-35-years.html": "f",
+    "https://slashdot.org/firehose.pl?op=view&amp;id=186034070": "g",
+    "https://slashdot.org/firehose.pl?op=view&amp;id=186032380": "g"
+  },
+  "contradictions": [
+    {
+      "group": "a",
+      "claim_type": "figures",
+      "summary": "Sources give different numbers for how many people were quarantined after the Russian lab worker's death: dozens, nearly 200, or hundreds.",
+      "sources": [
+        {
+          "source": "Biztoc.com",
+          "url": "https://biztoc.com/x/63c674d5b66fd462",
+          "says": "dozens of people are in quarantine"
+        },
+        {
+          "source": "Business Standard",
+          "url": "https://www.business-standard.com/health/russia-plague-scare-nearly-200-face-quarantine-after-lab-worker-dies-126100500079_1.html",
+          "says": "nearly 200 face quarantine"
+        },
+        {
+          "source": "Radaronline.com",
+          "url": "https://radaronline.com/p/white-house-on-alert-suspected-plague-outbreak-russia/",
+          "says": "hundreds are forced into quarantine"
+        }
+      ]
+    }
+  ]
+}

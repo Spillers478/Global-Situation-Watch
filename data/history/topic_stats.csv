@@ -208,3 +208,18 @@ date,topic_id,topic_label,retrieved,kept_here,moved_out,discarded,unclassified,d
 2026-10-06,T12,Large-Scale Cyber Attack / Internet Blackout,8,5,1,2,0,5,1,ok
 2026-10-06,T13,Migration / Refugee Crisis,17,1,10,6,0,1,1,ok
 2026-10-06,T14,Threats to US Embassies / Diplomats,9,0,9,0,0,2,1,ok
+2026-10-07,flagship-ru-ua,Russia / Ukraine,25,14,4,7,0,22,1,ok
+2026-10-07,flagship-ir-il,Iran / Israel / Middle East,25,12,1,12,0,40,1,ok
+2026-10-07,T15,Disaster / Access Denial,2,0,0,2,0,0,1,ok
+2026-10-07,T01,Military Conflict,9,2,2,5,0,8,1,ok
+2026-10-07,T02,Humanitarian Crisis,25,6,10,9,0,6,1,ok
+2026-10-07,T03,Bio/Chemical Attack,19,0,9,10,0,0,1,ok
+2026-10-07,T04,Infectious Outbreak / Pandemic,19,11,0,8,0,23,1,ok
+2026-10-07,T05,Political Instability / Coup Risk,25,3,6,16,0,9,1,ok
+2026-10-07,T06,Mass Uprising / Regime-Threatening Unrest,15,8,2,5,0,8,1,ok
+2026-10-07,T07,Nuclear Weaponry / Attack,25,1,13,11,0,1,1,ok
+2026-10-07,T08,VEO / Regional Insecurity,7,1,6,0,0,3,1,ok
+2026-10-07,T10,Military Modernization,24,6,7,11,0,11,1,ok
+2026-10-07,T12,Large-Scale Cyber Attack / Internet Blackout,25,8,1,16,0,8,1,ok
+2026-10-07,T13,Migration / Refugee Crisis,22,3,7,12,0,5,1,ok
+2026-10-07,T14,Threats to US Embassies / Diplomats,15,1,11,3,0,2,1,ok

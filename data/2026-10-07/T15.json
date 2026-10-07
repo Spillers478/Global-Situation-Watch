@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Electrek"
+      },
+      "author": "Michelle Lewis",
+      "title": "Six Flags has installed one of the largest solar carports in the US",
+      "description": "Six Flags Magic Mountain is putting its parking lots to work with a new 12.37-megawatt (MW) solar installation \u2013 California\u2019s largest solar carport. It\u2019s expected to generate enough electricity each year to offset the annual power use of both the amusement pa\u2026",
+      "url": "http://electrek.co/2026/10/05/six-flags-has-installed-one-of-the-largest-solar-carports-in-the-us/",
+      "urlToImage": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Six-Flags-Magic-Mountain-solar-carport.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-10-05T23:05:05Z",
+      "content": "Photo: Six Flags Magic Mountain\r\nSix Flags Magic Mountain is putting its parking lots to work with a new 12.37-megawatt (MW) solar installation California\u2019s largest solar carport. It\u2019s expected to ge\u2026 [+2462 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Unity.com"
+      },
+      "author": null,
+      "title": "LowPoly Dig Site - Painted Style by Serwen",
+      "description": "40 hand-painted style low poly props to build an archaeological dig site: tents, excavation gear, survey instruments, hand tools and ancient finds.Number of textures: 3 (albedo, normal map, ambient occlusion) + 14 textures for the demo scene onlyTexture dimen\u2026",
+      "url": "https://assetstore.unity.com/packages/3d/props/exterior/lowpoly-dig-site-painted-style-408390",
+      "urlToImage": "https://assetstorev1-prd-cdn.unity3d.com/key-image/f3c06603-7779-4d78-929b-e70edec50000.jpg?v=1",
+      "publishedAt": "2026-10-05T12:55:09Z",
+      "content": "Over 11,000 five-star assets\r\nRated by 85,000+ customers\r\nSupported by 100,000+ forum members\r\nEvery asset moderated by Unity"
+    }
+  ]
+}

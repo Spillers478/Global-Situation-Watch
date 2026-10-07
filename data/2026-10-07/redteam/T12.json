@@ -1,0 +1,116 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Startupfortune.com"
+      },
+      "author": "Janet Harrison",
+      "title": "Oracle Health Breach From 2025 Now Confirmed to Have Hit 20 Million People - Startup Fortune",
+      "description": "The breach traces back to Cerner, which Oracle bought for $28.3 billion in 2022, after attackers used stolen login credentials to access unmigrated",
+      "url": "https://startupfortune.com/oracle-health-breach-from-2025-now-confirmed-to-have-hit-20-million-people/",
+      "urlToImage": "https://startupfortune.com/wp-content/uploads/2026/10/oracle-cerner-health.jpg",
+      "publishedAt": "2026-10-06T10:04:20Z",
+      "content": "Oracle is pouring tens of billions into AI data centers this year while still cleaning up after a hack that stole Social Security numbers and medical records belonging to nearly 20 million patients.\r\u2026 [+4966 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Infosecurity Magazine"
+      },
+      "author": "Phil Muncaster",
+      "title": "Ransomware Affiliate Double-Crosses RaaS Operator to Steal Victim Funds",
+      "description": "An affiliate of The Gentlemen RaaS group ran a parallel leak site during extortion of two dozen victims",
+      "url": "https://www.infosecurity-magazine.com/news/affiliate-doublecrosses-raas/",
+      "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/e7245bea-6d9d-43e1-90bb-762178aebd7f.jpg",
+      "publishedAt": "2026-10-06T08:30:00Z",
+      "content": "A Russian-speaking cybercriminal betrayed his ransomware-as-a-service (RaaS) partners to make off with funds extorted from over two dozen global victims, CloudSEK has revealed.\r\nThe threat intelligen\u2026 [+2556 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Cameron Fozi",
+      "title": "Oracle 2025 Health Breach Compromised Data of 20 Million People",
+      "description": "A cybersecurity breach last year of Oracle Corp.\u2019s healthcare unit compromised personal information belonging to nearly 20 million people, according to infor...",
+      "url": "https://finance.yahoo.com/healthcare/articles/oracle-2025-health-breach-compromised-230919298.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/d9a7d7d90d11ed831300eff6715e23851afd689233408456bb71bba7006b193c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F71a3ae0d2a408435b9bb97fbbd0f1307.jpg",
+      "publishedAt": "2026-10-06T04:13:07Z",
+      "content": "(Bloomberg) -- A cybersecurity breach last year of Oracle Corp.'s healthcare unit compromised personal information belonging to nearly 20 million people, according to information released by the Texa\u2026 [+1836 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "gcaptain.com"
+      },
+      "author": "Bloomberg",
+      "title": "Hackers Breached Propulsion System of US-Bound Oil Tanker",
+      "description": "FBI and US Coast Guard investigators have found evidence that hackers accessed the propulsion system of an oil supertanker as it was approaching the Texas coast this summer, according to US officials familiar with the matter, an extraordinary breach that high\u2026",
+      "url": "https://gcaptain.com/hackers-breached-propulsion-system-of-us-bound-oil-tanker/",
+      "urlToImage": "https://gcaptain.com/wp-content/uploads/2026/01/2026-01-08T182733Z_594813059_RC2CWIAO7HWG_RTRMADP_3_USA-VENEZUELA-CUBA-FUEL-800x533.jpg",
+      "publishedAt": "2026-10-05T18:02:48Z",
+      "content": "(Bloomberg) \u2013FBI and US Coast Guard investigators have found evidence that hackers accessed the propulsion system of an oil supertanker as it was approaching the Texas coast this summer, according to\u2026 [+3388 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Jessica Lyons",
+      "title": "FBI confirms 'multiple' arrests related to ShinyHunters hack",
+      "description": "Another few bite the dust",
+      "url": "https://www.theregister.com/security/2026/10/05/fbi-confirms-multiple-arrests-related-to-shinyhunters-hack/5301178",
+      "urlToImage": "https://image.theregister.com/252487.jpg?imageId=252487&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "publishedAt": "2026-10-05T17:46:22Z",
+      "content": "The FBI and law enforcement partners have arrested multiple suspects as part of an investigation into a September hack allegedly involving data-theft-and-extortion group ShinyHunters, the bureau told\u2026 [+3586 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Help Net Security"
+      },
+      "author": "Sinisa Markovic",
+      "title": "Detained ShinyHunters hacker reportedly helping FBI track down fellow members",
+      "description": "A suspected ShinyHunters member known as Rey has been detained in Jordan and is reportedly helping the FBI track down the rest of the group. Reuters reports that Jordanian authorities detained Saif al-Din Khader, alias Rey, last week, with two of its three so\u2026",
+      "url": "https://www.helpnetsecurity.com/2026/10/05/shinyhunters-member-rey-detained-jordan-fbi/",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/13143124/cybercrime.webp",
+      "publishedAt": "2026-10-05T10:36:02Z",
+      "content": "A suspected ShinyHunters member known as Rey has been detained in Jordan and is reportedly helping the FBI track down the rest of the group.\r\nReuters reports that Jordanian authorities detained Saif \u2026 [+3985 chars]",
+      "cocom": "USCENTCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Insurance Journal"
+      },
+      "author": "Admin",
+      "title": "Hackers Breached Propulsion System of US-Bound Oil Tanker",
+      "description": "FBI and US Coast Guard investigators have found evidence that hackers accessed the propulsion system of an oil supertanker as it was approaching the Texas coast this summer, according to US officials familiar with the matter, an extraordinary breach that \u2026",
+      "url": "https://www.insurancejournal.com/news/southcentral/2026/10/05/887833.htm",
+      "urlToImage": "https://www.insurancejournal.com/img/social/opengraph/ij-social-cyber-1200x630.png",
+      "publishedAt": "2026-10-05T09:00:24Z",
+      "content": "FBI and US Coast Guard investigators have found evidence that hackers accessed the propulsion system of an oil supertanker as it was approaching the Texas coast this summer, according to US officials\u2026 [+3304 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Insurance Journal"
+      },
+      "author": "Admin",
+      "title": "Hackers Breached Propulsion System of US-Bound Oil Tanker",
+      "description": "FBI and US Coast Guard investigators have found evidence that hackers accessed the propulsion system of an oil supertanker as it was approaching the Texas coast this summer, according to US officials familiar with the matter, an extraordinary breach that \u2026",
+      "url": "https://www.insurancejournal.com/news/national/2026/10/05/887853.htm",
+      "urlToImage": "https://www.insurancejournal.com/app/uploads/2020/01/ship-fuel-prices-rise.jpg",
+      "publishedAt": "2026-10-05T05:11:38Z",
+      "content": "FBI and US Coast Guard investigators have found evidence that hackers accessed the propulsion system of an oil supertanker as it was approaching the Texas coast this summer, according to US officials\u2026 [+3344 chars]",
+      "cocom": "USNORTHCOM"
+    }
+  ]
+}

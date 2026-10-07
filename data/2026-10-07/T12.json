@@ -1,0 +1,331 @@
+{
+  "status": "ok",
+  "totalResults": 26,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Startupfortune.com"
+      },
+      "author": "Janet Harrison",
+      "title": "Oracle Health Breach From 2025 Now Confirmed to Have Hit 20 Million People - Startup Fortune",
+      "description": "The breach traces back to Cerner, which Oracle bought for $28.3 billion in 2022, after attackers used stolen login credentials to access unmigrated",
+      "url": "https://startupfortune.com/oracle-health-breach-from-2025-now-confirmed-to-have-hit-20-million-people/",
+      "urlToImage": "https://startupfortune.com/wp-content/uploads/2026/10/oracle-cerner-health.jpg",
+      "publishedAt": "2026-10-06T10:04:20Z",
+      "content": "Oracle is pouring tens of billions into AI data centers this year while still cleaning up after a hack that stole Social Security numbers and medical records belonging to nearly 20 million patients.\r\u2026 [+4966 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "We Live Security"
+      },
+      "author": null,
+      "title": "The quest for simplicity: Why SMBs want advanced protection without the complexity",
+      "description": "Smaller organizations usually have fewer resources and less expertise to throw at the problem than their larger counterparts. But they absolutely understand the need for advanced protection.",
+      "url": "https://www.welivesecurity.com/en/business-security/quest-simplicity-why-smbs-want-advanced-protection-without-complexity/",
+      "urlToImage": "https://web-assets.esetstatic.com/wls/2026/10-26/smb-cybersecurity-quest-simplicity.jpg",
+      "publishedAt": "2026-10-06T09:00:00Z",
+      "content": "Cybersecurity has never been easy. Threats evolve at breakneck speed. Corporate attack surfaces continue to expand with each new digital investment. Regulatory requirements add extra pressure on stre\u2026 [+11943 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Infosecurity Magazine"
+      },
+      "author": "Phil Muncaster",
+      "title": "Ransomware Affiliate Double-Crosses RaaS Operator to Steal Victim Funds",
+      "description": "An affiliate of The Gentlemen RaaS group ran a parallel leak site during extortion of two dozen victims",
+      "url": "https://www.infosecurity-magazine.com/news/affiliate-doublecrosses-raas/",
+      "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/e7245bea-6d9d-43e1-90bb-762178aebd7f.jpg",
+      "publishedAt": "2026-10-06T08:30:00Z",
+      "content": "A Russian-speaking cybercriminal betrayed his ransomware-as-a-service (RaaS) partners to make off with funds extorted from over two dozen global victims, CloudSEK has revealed.\r\nThe threat intelligen\u2026 [+2556 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Sergiu Gatlan",
+      "title": "Engineer sentenced for locking over 3,000 devices on employer network",
+      "description": "A former core infrastructure engineer at an industrial company headquartered in New Jersey was sentenced to 32 months in prison for locking thousands of devices on his employer's network in a ransomware-style attack. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2025/11/10/Hacker_IAB.jpg",
+      "publishedAt": "2026-10-06T08:19:24Z",
+      "content": "A former core infrastructure engineer at an industrial company headquartered in New Jersey was sentenced to 32 months in prison for locking thousands of devices on his employer's network in a ransomw\u2026 [+2868 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Radio Free Europe/ Radio Liberty"
+      },
+      "author": "Mike Eckel, Mark Krutov, Sergei Dobrynin",
+      "title": "Exclusive: Russian Computers, US Phones, Hunter Biden\u2019s Laptop, Cracked By Powerful Russian-Made Software. Who's Behind It?",
+      "description": "Powerful phone hacking software built by Russian-owned Oxygen Forensics was used by dozens of US and European government agencies, including the FBI and the Secret Service. One former agent used it to pull thousands of hidden files from Hunter Biden\u2019s laptop.",
+      "url": "https://www.rferl.org/a/russia-us-oxygen-software-hack-phone-hunter-biden-laptop/33870622.html",
+      "urlToImage": "https://gdb.rferl.org/5427834b-1690-44dd-e580-08df13a87301_w1200_h630.png",
+      "publishedAt": "2026-10-06T06:05:34Z",
+      "content": "On October 15, 2024, in a hotel ballroom in Alexandria, Virginia, across the Potomac River from Washington, a former US Secret Service agent stood in front of an audience of technology experts and ma\u2026 [+13605 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "info@thehackernews.com (The Hacker News)",
+      "title": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits",
+      "description": "A new type of ClickFix attack is using compromised websites to trick users into executing a malicious payload cached in a web browser's cache.\n\n\"Instead of downloading and executing remote payloads like the typical attack pattern, in this attack, the websites\u2026",
+      "url": "https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8Vjgif5jASBMNSuYjBnVZcm9vGO378mJ7VTFTNo9HRROtViKbP_Nm0F0vf626be5n4cwnfDdqgfWVzjKrKboh0BnbM8ALWzt-W7kNq4PSc_TOUbNlwps6sCQgfNyK5DhXk3FHZCuJSo8D2eMOm4r89VmhNa6l5gPpadRZSgTuB_N2yPZlwj0voYddOoVr/s1700-nu-rw-lo-l85-e365/clickfix.jpg",
+      "publishedAt": "2026-10-06T05:22:55Z",
+      "content": "A new type of ClickFix attack is using compromised websites to trick users into executing a malicious payload cached in a web browser's cache.\r\n\"Instead of downloading and executing remote payloads l\u2026 [+8786 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Cameron Fozi",
+      "title": "Oracle 2025 Health Breach Compromised Data of 20 Million People",
+      "description": "A cybersecurity breach last year of Oracle Corp.\u2019s healthcare unit compromised personal information belonging to nearly 20 million people, according to infor...",
+      "url": "https://finance.yahoo.com/healthcare/articles/oracle-2025-health-breach-compromised-230919298.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/d9a7d7d90d11ed831300eff6715e23851afd689233408456bb71bba7006b193c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F71a3ae0d2a408435b9bb97fbbd0f1307.jpg",
+      "publishedAt": "2026-10-06T04:13:07Z",
+      "content": "(Bloomberg) -- A cybersecurity breach last year of Oracle Corp.'s healthcare unit compromised personal information belonging to nearly 20 million people, according to information released by the Texa\u2026 [+1836 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hoover.org"
+      },
+      "author": "October 6, 2026",
+      "title": "25 Years After 9/11: The History and Future of Surveillance, Technology, and Democracy",
+      "description": null,
+      "url": "https://www.hoover.org/events/25-years-after-911-history-and-future-surveillance-technology-and-democracy",
+      "urlToImage": "https://hoover-s3-website.s3.us-west-2.amazonaws.com/s3fs-public/styles/facebook/public/2026-10/250_Graphic-Nov.png?h=309ac443&itok=9uCifAOe",
+      "publishedAt": "2026-10-06T00:00:00Z",
+      "content": "A quarter century after 9/11, advances in surveillance and technology have transformed how the United States protects its security, and raised enduring questions about privacy, government power, and \u2026 [+3255 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": "Dabo Guan",
+      "title": "How digital breakdowns affect supply chains \u2014 and endanger the global economy",
+      "description": "When supply chains fail, it\u2019s often because of energy, computer or data-network failures. Addressing these requires a way to make interdependencies visible.",
+      "url": "https://www.nature.com/articles/d41586-026-03105-z",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03105-z/d41586-026-03105-z_53781274.jpg",
+      "publishedAt": "2026-10-06T00:00:00Z",
+      "content": "Global supply chains depend on flows of information as much as they do on flows of goods1. Digital designs for products are shared across continents. Inventories and production schedules are managed \u2026 [+9761 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Digital Journal"
+      },
+      "author": "Dr. Tim Sandle",
+      "title": "Cyberattack attempts on universities highlight a growing risk: Confusion",
+      "description": "The institutions that fare best may not simply be those with the strongest technical controls. They may be those that combine strong cybersecurity practices with effective communication, user education, and organizational preparedness. In an era when disrupti\u2026",
+      "url": "https://www.digitaljournal.com/article/cyberattack-attempts-on-universities-highlight-a-growing-risk-confusion/",
+      "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2025/06/af9634d887f2ec28e6ae5a24c07ef5e2bf8c3b63.jpg",
+      "publishedAt": "2026-10-05T20:34:23Z",
+      "content": "The University of Texas at San Antonio (UTSA) recently found itself confronting a challenge that is becoming increasingly familiar across higher education: a cybersecurity incident arriving at precis\u2026 [+6405 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MobileSyrup"
+      },
+      "author": "Kendall Bistretzan",
+      "title": "We attended Fortinet\u2019s Cybersecurity Summit in Calgary to learn about cyber resilience",
+      "description": "Seventeen billion. That\u2019s how many cyberattacks hit Canadians last year, making Canada the second-most targeted country in the world for ransomware, with nearly 400 Canadian organizations extorted. While cyberattacks aren\u2019t new, they are growing in prevalence\u2026",
+      "url": "https://mobilesyrup.com/2026/10/05/fortinet-calgary-cybersecurity-hub/",
+      "urlToImage": "https://images2026.mobilesyrup.com/uploads/2026/10/2H6A8868-copy-scaled.jpg",
+      "publishedAt": "2026-10-05T19:53:11Z",
+      "content": "Seventeen billion. That\u2019s how many cyberattacks hit Canadians last year, making Canada the second-most targeted country in the world for ransomware, with nearly 400 Canadian organizations extorted. W\u2026 [+5581 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "gcaptain.com"
+      },
+      "author": "Bloomberg",
+      "title": "Hackers Breached Propulsion System of US-Bound Oil Tanker",
+      "description": "FBI and US Coast Guard investigators have found evidence that hackers accessed the propulsion system of an oil supertanker as it was approaching the Texas coast this summer, according to US officials familiar with the matter, an extraordinary breach that high\u2026",
+      "url": "https://gcaptain.com/hackers-breached-propulsion-system-of-us-bound-oil-tanker/",
+      "urlToImage": "https://gcaptain.com/wp-content/uploads/2026/01/2026-01-08T182733Z_594813059_RC2CWIAO7HWG_RTRMADP_3_USA-VENEZUELA-CUBA-FUEL-800x533.jpg",
+      "publishedAt": "2026-10-05T18:02:48Z",
+      "content": "(Bloomberg) \u2013FBI and US Coast Guard investigators have found evidence that hackers accessed the propulsion system of an oil supertanker as it was approaching the Texas coast this summer, according to\u2026 [+3388 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Jessica Lyons",
+      "title": "FBI confirms 'multiple' arrests related to ShinyHunters hack",
+      "description": "Another few bite the dust",
+      "url": "https://www.theregister.com/security/2026/10/05/fbi-confirms-multiple-arrests-related-to-shinyhunters-hack/5301178",
+      "urlToImage": "https://image.theregister.com/252487.jpg?imageId=252487&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "publishedAt": "2026-10-05T17:46:22Z",
+      "content": "The FBI and law enforcement partners have arrested multiple suspects as part of an investigation into a September hack allegedly involving data-theft-and-extortion group ShinyHunters, the bureau told\u2026 [+3586 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "info@thehackernews.com (The Hacker News)",
+      "title": "\u26a1 Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
+      "description": "A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week\u2019s threats keep finding leverage in small things that were easy to overlook.\n\nThere are actively exploited bugs in the\u2026",
+      "url": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbylNkbHSjWFkh2Ms0FmUT7jm2Qp-l5l9XwzA-O0LeP6LLE2WY9Z5yTiZ6AjikPfdOuId00XC9R_m_HYap_zbOAxUpLNKMK8UAVGiQHr-1zb_IOLyuhyMo_dhlqB5SM6p9b5qabPdThNFnyaHBznmq3H66qlbHxPAzCSuA_glVaWuKcJy51sOkoZp7BIuf/s1700-nu-rw-lo-l85-e365/infosec-recap.jpg",
+      "publishedAt": "2026-10-05T14:20:43Z",
+      "content": "A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week\u2019s threats keep finding leverage in small things that were\u2026 [+20956 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Nilay Patel",
+      "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+      "description": "Today, I\u2019m talking with Senator Adam Schiff, a Democrat from California. Sen. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology \u2014 it\u2019s all there. I really wanted to ask him about ho\u2026",
+      "url": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_2026-10-05_Schiff.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2026-10-05T14:05:42Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nCongress missed its chance on social media. Can it act on AI?\r\nby\r\nNilay PatelClose\r\nPosts from this author will be added to your daily email digest and your hom\u2026 [+52580 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PRNewswire"
+      },
+      "author": null,
+      "title": "Semperis Announces Two Midnight in the War Room Cybersecurity Industry Panels in Toronto",
+      "description": "At the Cyber Resilience Leadership Summit and at SecTor, the film's creators and cast will discuss the making of Midnight in the War Room and the critical role of human resilience in cybersecurity. HOBOKEN, N.J., Oct. 5, 2026 /PRNewswire/ -- Semperis, the ide\u2026",
+      "url": "https://www.prnewswire.com/news-releases/semperis-announces-two-midnight-in-the-war-room-cybersecurity-industry-panels-in-toronto-302898011.html",
+      "urlToImage": "https://mmx.prnewswire.com/media/MS1122565/Semperis-Logo-Logo-Logo.jpg?id=OA2986051&p=facebook",
+      "publishedAt": "2026-10-05T14:00:00Z",
+      "content": "At the Cyber Resilience Leadership Summit and at SecTor, the film's creators and cast will discuss the making of Midnight in the War Room and the critical role of human resilience in cybersecurity.\r\n\u2026 [+5417 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "author": "Ryan Stevens",
+      "title": "Storage admins get automated guardrails as agents outrun human-in-the-loop review",
+      "description": "Enterprises pushing AI agents into production are finding that cyber resilience now depends as much on governing what autonomous software does with data as on keeping attackers out. Much of the risk doesn\u2019t come from malicious intent at all; it comes from age\u2026",
+      "url": "https://siliconangle.com/2026/10/05/cyber-resilience-now-depends-governing-ai-agent-data-use-netappinsight/",
+      "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/IMG_2592-scaled.jpg",
+      "publishedAt": "2026-10-05T12:56:04Z",
+      "content": "Enterprises pushing AI agents into production are finding that cyber resilience now depends as much on governing what autonomous software does with data as on keeping attackers out. Much of the risk \u2026 [+4432 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Greenbone.net"
+      },
+      "author": "Joseph Lee",
+      "title": "GreenboneOS: September 2026 Threat Report: Unchecked Accumulation of Security Debt in Enterprise IT",
+      "description": "Widespread, unchecked accumulation of security debt in enterprise IT is emerging at an accelerated pace. While the numbers are staggering, defenders need to realize that regular scanning, orderly prioritization, and timely patching are still the most fundamen\u2026",
+      "url": "https://www.greenbone.net/en/blog/september-2026-threat-report/",
+      "urlToImage": "https://www.greenbone.net/wp-content/uploads/EN_september-2026-threat-report.jpeg",
+      "publishedAt": "2026-10-05T12:25:10Z",
+      "content": "Widespread, unchecked accumulation of security debt in enterprise IT is emerging at an accelerated pace. While the numbers are staggering, defenders need to realize that regular scanning, orderly pri\u2026 [+21374 chars]"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Sheryl Estrada",
+      "title": "Booking Holdings spends nearly $9 billion a year to reach travelers. Its CFO explains how AI is changing trip planning",
+      "description": "Ewout Steenbergen says the company is using AI to make travel more personalized and proactive.",
+      "url": "https://fortune.com/2026/10/05/booking-holdings-spends-nearly-9-billion-a-year-reach-travelers-cfo-ai-changing-trip-planning/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/55563536171_3a78140f13_3k.jpg?resize=1200,600",
+      "publishedAt": "2026-10-05T12:05:02Z",
+      "content": "Good morning. The biggest impact of AI on travel may happen before the traveler ever checks into a hotel or boards a plane.At the Fortune AIQ Summit on Oct. 1, I interviewed Ewout Steenbergen, EVP an\u2026 [+7444 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Researchbuzz.me"
+      },
+      "author": "Tara Calishain",
+      "title": "Camera Index, PlaceDB, California Public Safety Alerts, More: Monday ResearchBuzz, October 5, 2026",
+      "description": "NEW RESOURCES Kosmo Foto: PPP Cameras unveils new website aiming to list every film camera ever made. \u201cPPP Cameras\u2019 Pierro Pozella has unveiled a momentous project \u2013 a free-to-access website which intends [\u2026]",
+      "url": "https://researchbuzz.me/2026/10/05/camera-index-placedb-california-public-safety-alerts-more-monday-researchbuzz-october-5-2026/",
+      "urlToImage": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvczAud3AuY29tXC9pXC9ibGFuay5qcGciLCJ0eHQiOiJSZXNlYXJjaEJ1enoiLCJ0ZW1wbGF0ZSI6ImhpZ2h3YXkiLCJmb250IjoiIiwiYmxvZ19pZCI6NDMyODc1Nn0.BjdcPIDlw4ZG0Ki13B-quwxnrzAxn9iB5rJXagRMNlcMQ",
+      "publishedAt": "2026-10-05T12:01:12Z",
+      "content": "NEW RESOURCES \r\nKosmo Foto: PPP Cameras unveils new website aiming to list every film camera ever made. \u201cPPP Cameras Pierro Pozella has unveiled a momentous project a free-to-access website which int\u2026 [+5294 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Untold-arsenal.com"
+      },
+      "author": "Tony Attwood",
+      "title": "If a product you bought sponsored ManC would you stop buying?",
+      "description": "To ban or not to ban and for how long? The questions of what happens to Man C Practical implications of the Manchester City Decision By Tony Attwood The problem with the world today (compared with yesterday) is that in the past if you had something nasty to s\u2026",
+      "url": "https://untold-arsenal.com/archives/123424",
+      "urlToImage": null,
+      "publishedAt": "2026-10-05T11:44:18Z",
+      "content": "By Tony Attwood\r\nThe problem with the world today (compared with yesterday) is that in the past if you had something nasty to say about an organisation, the most you could do would be paint it on a w\u2026 [+4442 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Help Net Security"
+      },
+      "author": "Sinisa Markovic",
+      "title": "Detained ShinyHunters hacker reportedly helping FBI track down fellow members",
+      "description": "A suspected ShinyHunters member known as Rey has been detained in Jordan and is reportedly helping the FBI track down the rest of the group. Reuters reports that Jordanian authorities detained Saif al-Din Khader, alias Rey, last week, with two of its three so\u2026",
+      "url": "https://www.helpnetsecurity.com/2026/10/05/shinyhunters-member-rey-detained-jordan-fbi/",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/13143124/cybercrime.webp",
+      "publishedAt": "2026-10-05T10:36:02Z",
+      "content": "A suspected ShinyHunters member known as Rey has been detained in Jordan and is reportedly helping the FBI track down the rest of the group.\r\nReuters reports that Jordanian authorities detained Saif \u2026 [+3985 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "America must defend our digital infrastructure, here and overseas, to win the next war",
+      "description": "Iranian strikes damaged Amazon Web Services data centers in the UAE and Bahrain, exposing why digital infrastructure is now a national security priority.",
+      "url": "https://www.foxnews.com/opinion/america-defend-digital-infrastructure-win-next-war",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/iran-strike-bahrain.jpeg",
+      "publishedAt": "2026-10-05T09:00:27Z",
+      "content": "For most of American history, national defense has been understood geographically. There was American territory and foreign territory, borders to defend, military installations to protect and America\u2026 [+10341 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Insurance Journal"
+      },
+      "author": "Admin",
+      "title": "Hackers Breached Propulsion System of US-Bound Oil Tanker",
+      "description": "FBI and US Coast Guard investigators have found evidence that hackers accessed the propulsion system of an oil supertanker as it was approaching the Texas coast this summer, according to US officials familiar with the matter, an extraordinary breach that \u2026",
+      "url": "https://www.insurancejournal.com/news/southcentral/2026/10/05/887833.htm",
+      "urlToImage": "https://www.insurancejournal.com/img/social/opengraph/ij-social-cyber-1200x630.png",
+      "publishedAt": "2026-10-05T09:00:24Z",
+      "content": "FBI and US Coast Guard investigators have found evidence that hackers accessed the propulsion system of an oil supertanker as it was approaching the Texas coast this summer, according to US officials\u2026 [+3304 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Insurance Journal"
+      },
+      "author": "Admin",
+      "title": "Hackers Breached Propulsion System of US-Bound Oil Tanker",
+      "description": "FBI and US Coast Guard investigators have found evidence that hackers accessed the propulsion system of an oil supertanker as it was approaching the Texas coast this summer, according to US officials familiar with the matter, an extraordinary breach that \u2026",
+      "url": "https://www.insurancejournal.com/news/national/2026/10/05/887853.htm",
+      "urlToImage": "https://www.insurancejournal.com/app/uploads/2020/01/ship-fuel-prices-rise.jpg",
+      "publishedAt": "2026-10-05T05:11:38Z",
+      "content": "FBI and US Coast Guard investigators have found evidence that hackers accessed the propulsion system of an oil supertanker as it was approaching the Texas coast this summer, according to US officials\u2026 [+3344 chars]"
+    }
+  ]
+}
