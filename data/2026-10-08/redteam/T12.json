@@ -1,0 +1,60 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Alex Valdes",
+      "title": "Oracle Health Hack Exposes Data of Nearly 20 Million People",
+      "description": "Patient names, Social Security numbers, doctors and diagnoses might have been breached in the cyberattack.",
+      "url": "https://www.cnet.com/tech/services-and-software/oracle-health-care-data-breach/",
+      "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2218025448.jpg",
+      "publishedAt": "2026-10-06T18:58:01Z",
+      "content": "A cyberattack against Oracle Health last year exposed the personal data of almost 20 million people, the Texas attorney general\u2019s office said in a report, according to Bloomberg.\r\nThe personal inform\u2026 [+2178 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MobileSyrup"
+      },
+      "author": "Matthew Mountjoy",
+      "title": "Bell reveals cause behind 87-minute 911 outage across six provinces",
+      "description": "Bell has revealed the cause of an 87-minute outage that disrupted 911 services across six provinces on September 17. PlanHub says the outage affected Manitoba, Ontario, Quebec, New Brunswick, Nova Scotia, and Prince Edward Island. According to the telecom gia\u2026",
+      "url": "https://mobilesyrup.com/2026/10/06/bell-reveals-cause-behind-87-minute-911-outage-across-six-provinces/",
+      "urlToImage": "https://images2026.mobilesyrup.com/uploads/2026/05/bell-header-20260501-scaled.jpg",
+      "publishedAt": "2026-10-06T16:59:31Z",
+      "content": "Bell has revealed the cause of an 87-minute outage that disrupted 911 services across six provinces on September 17.\r\nPlanHub says the outage affected Manitoba, Ontario, Quebec, New Brunswick, Nova S\u2026 [+1451 chars]",
+      "cocom": "USNORTHCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+      "title": "Hackers suspected of using AI agents for cyberattacks on South Korean banks, exposing data from about 25,000 customers",
+      "description": "South Korean president Lee Jae Myung told his cabinet that there were signs that hackers used AI to execute the attacks on the banks.",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/hackers-suspected-of-using-ai-agents-for-cyberattacks-on-south-korean-banks-exposing-data-from-about-25-000-customers-officials-believe-ai-models-enable-actors-to-hack-with-ease-even-without-specialized-skills",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZrusnZa5yvdJgXGqZTkaHm-1920-80.png",
+      "publishedAt": "2026-10-06T12:15:00Z",
+      "content": "Cyberattacks using AI agents against several of the largest South Korean banks, including Hana Bank, KB Kookmin Bank, and Shinhan Bank, are currently being investigated by South Korean authorities. A\u2026 [+2981 chars]",
+      "cocom": "USINDOPACOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Startupfortune.com"
+      },
+      "author": "Janet Harrison",
+      "title": "Oracle Health Breach From 2025 Now Confirmed to Have Hit 20 Million People - Startup Fortune",
+      "description": "The breach traces back to Cerner, which Oracle bought for $28.3 billion in 2022, after attackers used stolen login credentials to access unmigrated",
+      "url": "https://startupfortune.com/oracle-health-breach-from-2025-now-confirmed-to-have-hit-20-million-people/",
+      "urlToImage": "https://startupfortune.com/wp-content/uploads/2026/10/oracle-cerner-health.jpg",
+      "publishedAt": "2026-10-06T10:04:20Z",
+      "content": "Oracle is pouring tens of billions into AI data centers this year while still cleaning up after a hack that stole Social Security numbers and medical records belonging to nearly 20 million patients.\r\u2026 [+4966 chars]",
+      "cocom": "USNORTHCOM"
+    }
+  ]
+}

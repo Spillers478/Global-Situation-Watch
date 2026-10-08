@@ -1,0 +1,435 @@
+{
+  "status": "ok",
+  "totalResults": 34,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Aidan Radnedge",
+      "title": "'It looks like a hearse': Jaguar's new 'woke' \u00a3120,000 electric car sparks backlash from fans",
+      "description": "British actress Florence Pugh, new Jaguar brand ambassador,\u00a0featured at the unveiling of the British manufacturer's new Type 01 model at a New York event.",
+      "url": "https://www.dailymail.com/news/article-16189471/Jaguar-new-woke-electric-car-backlash.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/10/07/11/111701047-0-image-m-18_1791369211754.jpg",
+      "publishedAt": "2026-10-07T10:33:39Z",
+      "content": "Jaguar has launched its new \u00a3120,000 electric vehicle only to prompt a backlash from critics including claims the supposedly 'woke' car resembles a funeral hearse.\r\nBritish actress Florence Pugh, new\u2026 [+10381 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityweek.com"
+      },
+      "author": "Eduard Kovacs",
+      "title": "Anthropic Introduces 3-Tier Cyber Verification Program for AI Access",
+      "description": "Anthropic is integrating the CVP and Project Glasswing into a single offering, with three levels of access to its most capable AI models.\nThe post Anthropic Introduces 3-Tier Cyber Verification Program for AI Access appeared first on SecurityWeek.",
+      "url": "https://www.securityweek.com/anthropic-introduces-3-tier-cyber-verification-program-for-ai-access/",
+      "urlToImage": "https://www.securityweek.com/wp-content/uploads/2026/02/Anthropic-AI_Military.jpg",
+      "publishedAt": "2026-10-07T10:07:09Z",
+      "content": "Anthropic on Tuesday announced a revamped Cyber Verification Program (CVP), integrating the CVP and Project Glasswing into a single offering, with three levels of access to its most capable AI models\u2026 [+3299 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Anthropic Creates Three Tiers for Claude Cyber Access",
+      "description": "Anthropic created three access tiers for Claude\u2019s offensive security use, matching cyber capabilities and safeguards to the user\u2019s level of trust. Anthropic is trying to solve the difficult balance between using AI for cybersecurity and preventing misuse. The\u2026",
+      "url": "https://securityaffairs.com/200521/ai/anthropic-creates-three-tiers-for-claude-cyber-access.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2026/10/image-16.png",
+      "publishedAt": "2026-10-07T10:06:28Z",
+      "content": "Anthropic Creates Three Tiers for Claude Cyber Access\r\nAnthropic is trying to solve the difficult balance between using AI for cybersecurity and preventing misuse. The same model that helps security \u2026 [+4656 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Talosintelligence.com"
+      },
+      "author": "Jerzy \u2018Yuri\u2019 Kramarz",
+      "title": "One breach, please, and make no mistakes",
+      "description": "The cybersecurity community has seen examples of autonomous agents, built inside AI labs, attacking public infrastructure. How you prepare for agentic threats is what makes the difference during real incidents.",
+      "url": "https://blog.talosintelligence.com/one-breach-please-and-make-no-mistakes/",
+      "urlToImage": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/10/OneBreachPlease-BlogHeader.jpg",
+      "publishedAt": "2026-10-07T10:00:25Z",
+      "content": "For some time now, the cybersecurity community has seen examples of autonomous agents, built inside AI labs, attacking public infrastructure (to name a few, Hugging Face\r\n, DSEWiki\r\n, and RubyGems\r\n)\u2026 [+8112 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Help Net Security"
+      },
+      "author": "Anamarija Pogorelec",
+      "title": "Anthropic loosens Claude\u2019s cyber restrictions for verified defenders",
+      "description": "Anthropic expanded its Cyber Verification Program (CVP), giving approved security professionals access to advanced Claude capabilities with fewer automated blocks on work such as malware analysis and vulnerability testing. Three tiers for cybersecurity work T\u2026",
+      "url": "https://www.helpnetsecurity.com/2026/10/07/anthropic-expands-cyber-verification-program/",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2026/10/07102628/anthropic-computer-1500.webp",
+      "publishedAt": "2026-10-07T09:00:20Z",
+      "content": "Anthropic expanded its Cyber Verification Program (CVP), giving approved security professionals access to advanced Claude capabilities with fewer automated blocks on work such as malware analysis and\u2026 [+4277 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "iTnews"
+      },
+      "author": null,
+      "title": "Unpatched server behind Vic student data breach",
+      "description": "Departmental oversight and systems also criticised.",
+      "url": "https://www.itnews.com.au/news/unpatched-server-behind-vic-student-data-breach-629494",
+      "urlToImage": "https://i.nextmedia.com.au/News/classroom_school.jpg",
+      "publishedAt": "2026-10-07T07:38:34Z",
+      "content": "A major Victorian Education data breach disclosed at the start of this year was caused by a school that delayed patching a critical server vulnerability, as well as central oversight weaknesses.\r\nUnk\u2026 [+2886 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityweek.com"
+      },
+      "author": "Ionut Arghire",
+      "title": "Atlassian Patches Critical Vulnerability Affecting 8 Products",
+      "description": "Unauthenticated attackers could exploit the flaw to access specific files in the web application root directory.\nThe post Atlassian Patches Critical Vulnerability Affecting 8 Products appeared first on SecurityWeek.",
+      "url": "https://www.securityweek.com/atlassian-patches-critical-vulnerability-affecting-8-products/",
+      "urlToImage": "https://www.securityweek.com/wp-content/uploads/2025/12/Atlassian.jpg",
+      "publishedAt": "2026-10-07T06:37:16Z",
+      "content": "Atlassian has rolled out patches for a critical-severity vulnerability that impacts all versions of eight of its products.\r\nThe security defect, tracked as CVE-2026-21589 (CVSS score of 9.3), is desc\u2026 [+2741 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Edison Reed",
+      "title": "Six Lighting Options for Power Outages, EMP Events",
+      "description": "A report published by Survival Sullivan states that electromagnetic pulses (EMP), whether caused by solar flares or man-made sources, can disable electronics and the power grid, and that Faraday cages may protect devices [1][2]. The article, titled \u201c6 Ways to\u2026",
+      "url": "https://www.naturalnews.com/2026-10-07-six-lighting-options-power-outages-emp-events.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/power-outages-emp-events-faraday-cages-4569-original.jpg",
+      "publishedAt": "2026-10-07T06:00:00Z",
+      "content": "A report published by Survival Sullivan states that electromagnetic pulses (EMP), whether caused by solar flares or man-made sources, can disable electronics and the power grid, and that Faraday cage\u2026 [+7490 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNA"
+      },
+      "author": null,
+      "title": "Singapore government running trials to understand how to implement AI agents responsibly: Tan Kiat How",
+      "description": "The government is reviewing and strengthening its frameworks to account for increasingly autonomous agentic AI systems, said\u00a0Senior Minister of State for Digital Development and Information Tan Kiat How.",
+      "url": "https://www.channelnewsasia.com/singapore/ai-agents-safety-mddi-tan-kiat-how-parliament-6438106",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--56qVBYYk--/c_crop,h_1193,w_2121,x_1,y_111/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/05/06/istock-2197955227.jpg?itok=z5dwWkiB",
+      "publishedAt": "2026-10-07T04:51:00Z",
+      "content": "The safe use of frontier AI models is an issue being tackled globally, as AI labs face mounting scrutiny over rogue activity.\r\nA string of high-profile breaches by AI agents in recent months has spar\u2026 [+2112 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "InfoQ.com"
+      },
+      "author": "Steef-Jan Wiggers",
+      "title": "Spanner Omni Reaches GA, Replacing Google's Atomic Clocks and File System with Software",
+      "description": "Google has made Spanner Omni generally available, running its distributed SQL database on-premises, across clouds or on a laptop. Doing so meant replacing Colossus with a Colossus-like abstraction layer and TrueTime with software-based time synchronization. T\u2026",
+      "url": "https://www.infoq.com/news/2026/10/spanner-omni-deploy-anywhere-ga/",
+      "urlToImage": "https://res.infoq.com/news/2026/10/spanner-omni-deploy-anywhere-ga/en/headerimage/generatedHeaderImage-1791038786495.jpg",
+      "publishedAt": "2026-10-07T04:43:00Z",
+      "content": "Google has made Spanner Omni generally available, a deploy-anywhere version of its distributed SQL database that runs in a customer's own data center, on other clouds, or on a laptop. Getting Spanner\u2026 [+6097 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "InfoQ.com"
+      },
+      "author": "Steef-Jan Wiggers",
+      "title": "Spanner Omni Reaches GA, Replacing Google's Atomic Clocks and File System with Software",
+      "description": "Google has made Spanner Omni generally available, running its distributed SQL database on-premises, across clouds or on a laptop. Doing so meant replacing Colossus with a Colossus-like abstraction layer and TrueTime with software-based time synchronization. T\u2026",
+      "url": "https://www.infoq.com/news/2026/10/spanner-omni-deploy-anywhere-ga/",
+      "urlToImage": "https://res.infoq.com/news/2026/10/spanner-omni-deploy-anywhere-ga/en/headerimage/generatedHeaderImage-1791038786495.jpg",
+      "publishedAt": "2026-10-07T04:43:00Z",
+      "content": "Google has made Spanner Omni generally available, a deploy-anywhere version of its distributed SQL database that runs in a customer's own data center, on other clouds, or on a laptop. Getting Spanner\u2026 [+6097 chars]"
+    },
+    {
+      "source": {
+        "id": "rte",
+        "name": "RTE"
+      },
+      "author": "Brian O'Donovan",
+      "title": "Cybersecurity experts from across Europe gather in Dublin",
+      "description": "A major cybersecurity conference will be held in Dublin today as part of Ireland's EU Presidency.",
+      "url": "https://www.rte.ie/news/2026/1007/1594314-cybersecurity-dublin/",
+      "urlToImage": "https://www.rte.ie/images/0021b65c-1600.jpg",
+      "publishedAt": "2026-10-06T23:01:00Z",
+      "content": "A major cybersecurity conference will be held in Dublin today as part of Ireland's EU Presidency.\r\nThe National Cyber Security Centre (NCSC) will host the event at a time of heightened concerns about\u2026 [+996 chars]"
+    },
+    {
+      "source": {
+        "id": "rte",
+        "name": "RTE"
+      },
+      "author": "Brian O'Donovan",
+      "title": "Cybersecurity experts from across Europe gather in Dublin",
+      "description": "A major cybersecurity conference is being held in Dublin as part of Ireland's EU Presidency.",
+      "url": "https://www.rte.ie/news/business/2026/1007/1594314-cybersecurity-dublin/",
+      "urlToImage": "https://www.rte.ie/images/0021b65c-1600.jpg",
+      "publishedAt": "2026-10-06T23:01:00Z",
+      "content": "A major cybersecurity conference is being held in Dublin as part of Ireland's EU Presidency.\r\nThe National Cyber Security Centre (NCSC) will host the event at a time of heightened concerns about the \u2026 [+991 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SiliconANGLE News"
+      },
+      "author": "Duncan Riley",
+      "title": "Anthropic folds Project Glasswing into an expanded three-tier Cyber Verification Program",
+      "description": "Anthropic PBC today expanded its Cyber Verification Program into three tiers of access for vetted security teams, with fewer blocks on cybersecurity work at each step up. The overhaul is aimed at a restriction Anthropic built into its own products. Because th\u2026",
+      "url": "https://siliconangle.com/2026/10/06/anthropic-folds-project-glasswing-into-an-expanded-three-tier-cyber-verification-program/",
+      "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/anthropidcyberverificationprogram.png",
+      "publishedAt": "2026-10-06T22:46:17Z",
+      "content": "Anthropic PBC today expanded its Cyber Verification Program into three tiers of access for vetted security teams, with fewer blocks on cybersecurity work at each step up.\r\nThe overhaul is aimed at a \u2026 [+4993 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nextgov"
+      },
+      "author": "John Breeden II",
+      "title": "The monsters of Cybersecurity Awareness Month are getting stronger",
+      "description": "Familiar threats like phishing and ransomware have not gone away, but NIST\u2019s 2026 Cybersecurity Awareness Month activities are increasingly confronting newer risks involving AI agents, secure software development and digital identity.",
+      "url": "https://www.nextgov.com/cybersecurity/2026/10/monsters-cybersecurity-awareness-month-are-getting-stronger/416449/",
+      "urlToImage": "https://cdn.nextgov.com/media/img/cd/2026/10/06/GettyImages_2183734978/open-graph.jpg",
+      "publishedAt": "2026-10-06T21:26:00Z",
+      "content": "Every October, when horror movies start turning up again, Im reminded of one particularly ambitious attempt from my childhood to make an old monster a little scarier.\r\nIn May 1982, DCs Channel 20 tur\u2026 [+7584 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Socialmediaexplorer.com"
+      },
+      "author": "Chris Turn",
+      "title": "What Are the Risks for Los Angeles Businesses That Still Rely on Just One IT Person?",
+      "description": "For many small and mid-sized businesses in Los Angeles, hiring a single IT person felt...\nThe post What Are the Risks for Los Angeles Businesses That Still Rely on Just One IT Person? appeared first on Social Media Explorer.",
+      "url": "https://socialmediaexplorer.com/social-media-marketing/what-are-the-risks-for-los-angeles-businesses-that-still-rely-on-just-one-it-person/",
+      "urlToImage": "https://socialmediaexplorer.com/wp-content/uploads/2026/10/man-wearing-headset-illuminated-by-neon-lights-ind-2026-09-24-05-44-35-utc-scaled.jpg",
+      "publishedAt": "2026-10-06T21:02:03Z",
+      "content": "For many small and mid-sized businesses in Los Angeles, hiring a single IT person felt like the right call. One knowledgeable employee who understands the company\u2019s systems, fixes problems as they co\u2026 [+4743 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Alex Valdes",
+      "title": "Oracle Health Hack Exposes Data of Nearly 20 Million People",
+      "description": "Patient names, Social Security numbers, doctors and diagnoses might have been breached in the cyberattack.",
+      "url": "https://www.cnet.com/tech/services-and-software/oracle-health-care-data-breach/",
+      "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2218025448.jpg",
+      "publishedAt": "2026-10-06T18:58:01Z",
+      "content": "A cyberattack against Oracle Health last year exposed the personal data of almost 20 million people, the Texas attorney general\u2019s office said in a report, according to Bloomberg.\r\nThe personal inform\u2026 [+2178 chars]"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Barry O'Halloran",
+      "title": "Shares climb amid relative calm on oil markets",
+      "description": "European healthcare stocks perform strongly as US AI rush continues",
+      "url": "https://www.irishtimes.com/business/2026/10/06/shares-climb-amid-relative-calm-on-oil-markets/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/6EK5TPHIBPGEBUWMADXRCMZJ2A.jpg?smart=true&auth=f12e7f7f3c625361f2a5acc2e077942a0c81da362b259cccb5e8bc346858ec7b&width=1200&height=630",
+      "publishedAt": "2026-10-06T17:14:49Z",
+      "content": "Falling oil prices spurred further advances across stock markets on Tuesday while early reaction to the Budget 2027 announcement in the Republic boosted Irish builders and banks.\r\nBenchmarks Brent an\u2026 [+3909 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MobileSyrup"
+      },
+      "author": "Matthew Mountjoy",
+      "title": "Bell reveals cause behind 87-minute 911 outage across six provinces",
+      "description": "Bell has revealed the cause of an 87-minute outage that disrupted 911 services across six provinces on September 17. PlanHub says the outage affected Manitoba, Ontario, Quebec, New Brunswick, Nova Scotia, and Prince Edward Island. According to the telecom gia\u2026",
+      "url": "https://mobilesyrup.com/2026/10/06/bell-reveals-cause-behind-87-minute-911-outage-across-six-provinces/",
+      "urlToImage": "https://images2026.mobilesyrup.com/uploads/2026/05/bell-header-20260501-scaled.jpg",
+      "publishedAt": "2026-10-06T16:59:31Z",
+      "content": "Bell has revealed the cause of an 87-minute outage that disrupted 911 services across six provinces on September 17.\r\nPlanHub says the outage affected Manitoba, Ontario, Quebec, New Brunswick, Nova S\u2026 [+1451 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNA"
+      },
+      "author": null,
+      "title": "Singapore studying stronger safeguards for high-risk AI uses as systems grow more autonomous: Josephine Teo",
+      "description": "There has been no reported cyber attack involving an unsupervised AI agent against Singapore government agencies so far.",
+      "url": "https://www.channelnewsasia.com/singapore/high-risk-ai-agent-autonomous-stronger-safeguards-mddi-6436826",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--FJ8PN-AL--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/one-cms/core/5000822_AE00822_0_Bob-AI-coding-agent_social.jpg?itok=fnm1qfhj",
+      "publishedAt": "2026-10-06T14:35:25Z",
+      "content": "SINGAPORE: Singapore is studying whether new safety measures are needed in high-risk uses of artificial intelligence, as increasingly capable and autonomous AI systems create new risks that existing \u2026 [+2007 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Sponsored by Acronis",
+      "title": "How to secure RMM software: 8 controls MSPs should test",
+      "description": "RMM platforms give MSPs privileged access across customer environments, making their security controls critical to limiting risk. Acronis outlines eight controls MSPs should test when evaluating RMM software, from patching and privileged access to recovery an\u2026",
+      "url": "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/",
+      "urlToImage": "https://www.bleepstatic.com/content/posts/2026/10/05/security-checklist.jpg",
+      "publishedAt": "2026-10-06T14:00:10Z",
+      "content": "Secure remote monitoring and management (RMM) software should let an MSP discover endpoints, automate patching, control privileged access, cut alert noise, contain incidents, protect recovery points,\u2026 [+8542 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kffhealthnews.org"
+      },
+      "author": "khnlaureno",
+      "title": "Tuesday, October 6, 2026",
+      "description": "KFF Health News is a national newsroom that produces in-depth journalism about health issues and is one of the core operating programs at KFF\u2014an independent source of health policy research, polling, and journalism. Learn more about KFF. This article first ap\u2026",
+      "url": "https://kffhealthnews.org/morning-briefing/tuesday-october-6-2026/",
+      "urlToImage": null,
+      "publishedAt": "2026-10-06T12:56:07Z",
+      "content": "The Trump administration released new regulations Monday that will force health insurance companies to publish cleaned-up spreadsheets of the prices that they pay hospitals and doctors, while strippi\u2026 [+4012 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PRNewswire"
+      },
+      "author": null,
+      "title": "Hitachi Vantara Earns Common Criteria Certification for VSP One Block, Providing Enhanced Data Resilience for Regulated Enterprises",
+      "description": "Certification helps government agencies and organizations in highly regulated industries meet stringent security requirements and reduce risk during compliance assessments Milestone highlights Hitachi Vantara's broader cyber resilience solutions, anchored in \u2026",
+      "url": "https://www.prnewswire.com/news-releases/hitachi-vantara-earns-common-criteria-certification-for-vsp-one-block-providing-enhanced-data-resilience-for-regulated-enterprises-302897788.html",
+      "urlToImage": "https://mmx.prnewswire.com/media/MS2002015/HV-Logo-Black-copy-1.jpg?id=OA2986012&p=facebook",
+      "publishedAt": "2026-10-06T12:47:00Z",
+      "content": "<ul><li>Certification helps government agencies and organizations in highly regulated industries meet stringent security requirements and reduce risk during compliance assessments </li><li>Milestone \u2026 [+9171 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+      "title": "Hackers suspected of using AI agents for cyberattacks on South Korean banks, exposing data from about 25,000 customers",
+      "description": "South Korean president Lee Jae Myung told his cabinet that there were signs that hackers used AI to execute the attacks on the banks.",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/hackers-suspected-of-using-ai-agents-for-cyberattacks-on-south-korean-banks-exposing-data-from-about-25-000-customers-officials-believe-ai-models-enable-actors-to-hack-with-ease-even-without-specialized-skills",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZrusnZa5yvdJgXGqZTkaHm-1920-80.png",
+      "publishedAt": "2026-10-06T12:15:00Z",
+      "content": "Cyberattacks using AI agents against several of the largest South Korean banks, including Hana Bank, KB Kookmin Bank, and Shinhan Bank, are currently being investigated by South Korean authorities. A\u2026 [+2981 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Startupfortune.com"
+      },
+      "author": "Janet Harrison",
+      "title": "Oracle Health Breach From 2025 Now Confirmed to Have Hit 20 Million People - Startup Fortune",
+      "description": "The breach traces back to Cerner, which Oracle bought for $28.3 billion in 2022, after attackers used stolen login credentials to access unmigrated",
+      "url": "https://startupfortune.com/oracle-health-breach-from-2025-now-confirmed-to-have-hit-20-million-people/",
+      "urlToImage": "https://startupfortune.com/wp-content/uploads/2026/10/oracle-cerner-health.jpg",
+      "publishedAt": "2026-10-06T10:04:20Z",
+      "content": "Oracle is pouring tens of billions into AI data centers this year while still cleaning up after a hack that stole Social Security numbers and medical records belonging to nearly 20 million patients.\r\u2026 [+4966 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "We Live Security"
+      },
+      "author": null,
+      "title": "The quest for simplicity: Why SMBs want advanced protection without the complexity",
+      "description": "Smaller organizations usually have fewer resources and less expertise to throw at the problem than their larger counterparts. But they absolutely understand the need for advanced protection.",
+      "url": "https://www.welivesecurity.com/en/business-security/quest-simplicity-why-smbs-want-advanced-protection-without-complexity/",
+      "urlToImage": "https://web-assets.esetstatic.com/wls/2026/10-26/smb-cybersecurity-quest-simplicity.jpg",
+      "publishedAt": "2026-10-06T09:00:00Z",
+      "content": "Cybersecurity has never been easy. Threats evolve at breakneck speed. Corporate attack surfaces continue to expand with each new digital investment. Regulatory requirements add extra pressure on stre\u2026 [+11943 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Infosecurity Magazine"
+      },
+      "author": "Phil Muncaster",
+      "title": "Ransomware Affiliate Double-Crosses RaaS Operator to Steal Victim Funds",
+      "description": "An affiliate of The Gentlemen RaaS group ran a parallel leak site during extortion of two dozen victims",
+      "url": "https://www.infosecurity-magazine.com/news/affiliate-doublecrosses-raas/",
+      "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/e7245bea-6d9d-43e1-90bb-762178aebd7f.jpg",
+      "publishedAt": "2026-10-06T08:30:00Z",
+      "content": "A Russian-speaking cybercriminal betrayed his ransomware-as-a-service (RaaS) partners to make off with funds extorted from over two dozen global victims, CloudSEK has revealed.\r\nThe threat intelligen\u2026 [+2556 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Sergiu Gatlan",
+      "title": "Engineer sentenced for locking over 3,000 devices on employer network",
+      "description": "A former core infrastructure engineer at an industrial company headquartered in New Jersey was sentenced to 32 months in prison for locking thousands of devices on his employer's network in a ransomware-style attack. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2025/11/10/Hacker_IAB.jpg",
+      "publishedAt": "2026-10-06T08:19:24Z",
+      "content": "A former core infrastructure engineer at an industrial company headquartered in New Jersey was sentenced to 32 months in prison for locking thousands of devices on his employer's network in a ransomw\u2026 [+2868 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Radio Free Europe/ Radio Liberty"
+      },
+      "author": "Mike Eckel, Mark Krutov, Sergei Dobrynin",
+      "title": "Exclusive: Russian Computers, US Phones, Hunter Biden\u2019s Laptop, Cracked By Powerful Russian-Made Software. Who's Behind It?",
+      "description": "Powerful phone hacking software built by Russian-owned Oxygen Forensics was used by dozens of US and European government agencies, including the FBI and the Secret Service. One former agent used it to pull thousands of hidden files from Hunter Biden\u2019s laptop.",
+      "url": "https://www.rferl.org/a/russia-us-oxygen-software-hack-phone-hunter-biden-laptop/33870622.html",
+      "urlToImage": "https://gdb.rferl.org/5427834b-1690-44dd-e580-08df13a87301_w1200_h630.png",
+      "publishedAt": "2026-10-06T06:05:34Z",
+      "content": "On October 15, 2024, in a hotel ballroom in Alexandria, Virginia, across the Potomac River from Washington, a former US Secret Service agent stood in front of an audience of technology experts and ma\u2026 [+13605 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "info@thehackernews.com (The Hacker News)",
+      "title": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits",
+      "description": "A new type of ClickFix attack is using compromised websites to trick users into executing a malicious payload cached in a web browser's cache.\n\n\"Instead of downloading and executing remote payloads like the typical attack pattern, in this attack, the websites\u2026",
+      "url": "https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8Vjgif5jASBMNSuYjBnVZcm9vGO378mJ7VTFTNo9HRROtViKbP_Nm0F0vf626be5n4cwnfDdqgfWVzjKrKboh0BnbM8ALWzt-W7kNq4PSc_TOUbNlwps6sCQgfNyK5DhXk3FHZCuJSo8D2eMOm4r89VmhNa6l5gPpadRZSgTuB_N2yPZlwj0voYddOoVr/s1700-nu-rw-lo-l85-e365/clickfix.jpg",
+      "publishedAt": "2026-10-06T05:22:55Z",
+      "content": "A new type of ClickFix attack is using compromised websites to trick users into executing a malicious payload cached in a web browser's cache.\r\n\"Instead of downloading and executing remote payloads l\u2026 [+8786 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Cameron Fozi",
+      "title": "Oracle 2025 Health Breach Compromised Data of 20 Million People",
+      "description": "A cybersecurity breach last year of Oracle Corp.\u2019s healthcare unit compromised personal information belonging to nearly 20 million people, according to infor...",
+      "url": "https://finance.yahoo.com/healthcare/articles/oracle-2025-health-breach-compromised-230919298.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/d9a7d7d90d11ed831300eff6715e23851afd689233408456bb71bba7006b193c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F71a3ae0d2a408435b9bb97fbbd0f1307.jpg",
+      "publishedAt": "2026-10-06T04:13:07Z",
+      "content": "(Bloomberg) -- A cybersecurity breach last year of Oracle Corp.'s healthcare unit compromised personal information belonging to nearly 20 million people, according to information released by the Texa\u2026 [+1836 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hoover.org"
+      },
+      "author": "October 6, 2026",
+      "title": "25 Years After 9/11: The History and Future of Surveillance, Technology, and Democracy",
+      "description": null,
+      "url": "https://www.hoover.org/events/25-years-after-911-history-and-future-surveillance-technology-and-democracy",
+      "urlToImage": "https://hoover-s3-website.s3.us-west-2.amazonaws.com/s3fs-public/styles/facebook/public/2026-10/250_Graphic-Nov.png?h=309ac443&itok=9uCifAOe",
+      "publishedAt": "2026-10-06T00:00:00Z",
+      "content": "A quarter century after 9/11, advances in surveillance and technology have transformed how the United States protects its security, and raised enduring questions about privacy, government power, and \u2026 [+3255 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": "Dabo Guan",
+      "title": "How digital breakdowns affect supply chains \u2014 and endanger the global economy",
+      "description": "When supply chains fail, it\u2019s often because of energy, computer or data-network failures. Addressing these requires a way to make interdependencies visible.",
+      "url": "https://www.nature.com/articles/d41586-026-03105-z",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03105-z/d41586-026-03105-z_53781274.jpg",
+      "publishedAt": "2026-10-06T00:00:00Z",
+      "content": "Global supply chains depend on flows of information as much as they do on flows of goods1. Digital designs for products are shared across continents. Inventories and production schedules are managed \u2026 [+9761 chars]"
+    }
+  ]
+}

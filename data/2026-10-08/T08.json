@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "New York Post Video",
+      "title": "Bloodied Israel-bound jet passengers captured restraining co-pilot during suspected \u2018jihadist terrorist attack\u2019",
+      "description": "A \u201cjihadist terrorist attack\u201d \u2014 That is what the Israeli government is calling the attempted hijacking of a Fly-dubai flight bound for Tel Aviv. The co-pilot allegedly attacked the other pilot in apparent attempt to wrest control of the aircraft. The Israeli \u2026",
+      "url": "https://nypost.com/video/bloodied-israel-bound-jet-passengers-captured-restraining-co-pilot-during-suspected-jihadist-terrorist-attack/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/hijack_wp.jpg?quality=90&strip=all&w=1200",
+      "publishedAt": "2026-10-06T17:52:17Z",
+      "content": "A \"jihadist terrorist attack\" That is what the Israeli government is calling the attempted hijacking of a Fly-dubai flight bound for Tel Aviv.\r\nThe co-pilot allegedly attacked the other pilot in appa\u2026 [+531 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheJournal.ie"
+      },
+      "author": "AFP",
+      "title": "Israel puts army on alert and claims Hamas planning 'terrorist' attack on 7 October anniversary",
+      "description": "Since a \u201cceasefire\u201d was declared last October, Israeli forces have killed more than 1,440 people in Gaza.",
+      "url": "https://www.thejournal.ie/october-7-anniversary-7183427-Oct2026/",
+      "urlToImage": "https://img2.thejournal.ie/article/7183427/river/?height=400&version=7183439",
+      "publishedAt": "2026-10-06T07:44:18Z",
+      "content": "ISRAELS DEFENCE MINISTER has put the military on high alert before the anniversary of Hamass 7 October 2023 attack, warning Gazans would pay a heavy price if forces were harmed.\r\nThe office of Defenc\u2026 [+1732 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "dailymail",
+      "title": "Trump approves military firing squad for 'jihadist' who committed terror attack that left 13 dead at Fort Hood",
+      "description": "Chief Pentagon Spokesman Sean Parnell announced that Hasan will be just the second person since 2010 to be put to death by a firing squad Monday. Secretary of War Pete Hegseth has recommended \u2014 and President Donald J. Trump has approved \u2014 death by U.S. Army f\u2026",
+      "url": "https://freerepublic.com/focus/f-news/4398073/posts",
+      "urlToImage": null,
+      "publishedAt": "2026-10-06T01:05:04Z",
+      "content": "Skip to comments.\r\nTrump approves military firing squad for 'jihadist' who committed terror attack that left 13 dead at Fort Hooddailymail ^\r\n | Oct 5, 2026\r\n | Stephen M Lepore\r\nPosted on 10/05/2026\u2026 [+1613 chars]"
+    }
+  ]
+}

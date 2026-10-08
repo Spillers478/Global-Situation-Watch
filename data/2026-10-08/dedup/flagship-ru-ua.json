@@ -1,0 +1,51 @@
+{
+  "groups": {
+    "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo": "a",
+    "https://www.rferl.org/a/politkovskaya-russia-murder-anniversary/33872006.html": "c",
+    "https://www.hurriyetdailynews.com/heavy-casualties-in-ukraine-after-russian-strikes-227837": "a",
+    "https://sputnikglobe.com/20261007/europe-obsessed-with-militarization-turning-eu-into-military-political-bloc---kremlin-1124847541.html": "d",
+    "https://www.aljazeera.com/news/2026/10/7/bulgaria-ends-search-for-missing-crew-after-drone-strike-sinks-cargo-ship": "b",
+    "https://www.rferl.org/a/ukraine-russia-zelenskyy-putin-war/33871985.html": "a",
+    "https://www.cbc.ca/news/world/ukraine-war-russia-1719-9.7372158": "a",
+    "https://www.yahoo.com/news/articles/russia-strikes-ukraines-kyiv-fresh-014448221.html": "a",
+    "https://www.politico.eu/article/russia-ukraine-attacks-vladimir-putin-birthday/": "a",
+    "https://www.rt.com/news/646879-rassvet-ukraine-unblockable-google-boss/": "e",
+    "https://lithub.com/writing-in-times-of-war-oleksandr-mykhed-on-losing-ukrainian-books-to-russian-bombs/": "f",
+    "https://www.thenation.com/?post_type=article&p=611692": "g",
+    "https://abcnews.com/International/russia-hits-ukrainian-apartment-buildings-deadly-overnight-strike/story?id=137058213": "a",
+    "https://www.rte.ie/news/world/2026/1007/1594350-ukraine-russia/": "a",
+    "https://abcnews.com/International/wireStory/russian-missile-strike-ukraines-capital-kills-2-137057060": "a",
+    "https://sputnikglobe.com/20261007/russia-targets-ukrainian-missile-and-drone-production-across-seven-regions-1124846522.html": "a",
+    "https://slashdot.org/firehose.pl?op=view&amp;id=186057912": "b",
+    "https://www.rt.com/russia/646878-ukraine-nato-bid-constitution/": "h",
+    "https://www.aljazeera.com/news/2026/10/7/has-russias-fuel-crisis-given-iranian-oil-an-opening-in-central-asia": "i",
+    "https://www.rt.com/news/646837-nato-membership-ukraine-rubio/": "j",
+    "https://newrepublic.com/article/216257/teaching-havel-kyiv-lessons-ukraine-trump-america": "k",
+    "https://www.naturalnews.com/2026-10-07-russia-last-resort-nuclear-weapon-threat-bluff.html": "l",
+    "https://www.rferl.org/a/wider-europe-briefing-the-new-eu-enlargement-strategy/33871257.html": "m"
+  },
+  "contradictions": [
+    {
+      "group": "a",
+      "claim_type": "figures",
+      "summary": "Sources give different death tolls for the same Oct 7 Russian barrage on Ukraine: 8, at least 12, or at least 15.",
+      "sources": [
+        {
+          "source": "RTE",
+          "url": "https://www.rte.ie/news/world/2026/1007/1594350-ukraine-russia/",
+          "says": "at least eight people killed"
+        },
+        {
+          "source": "CBC News",
+          "url": "https://www.cbc.ca/news/world/ukraine-war-russia-1719-9.7372158",
+          "says": "at least 12 civilians killed, including three children, and more than 40 wounded"
+        },
+        {
+          "source": "Yahoo Entertainment",
+          "url": "https://www.yahoo.com/news/articles/russia-strikes-ukraines-kyiv-fresh-014448221.html",
+          "says": "at least 15 people killed"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "groups": {
+    "https://www.insurancejournal.com/news/west/2026/10/07/888207.htm": "a",
+    "https://economictimes.indiatimes.com/news/international/global-trends/tropical-storm-isaias-heads-toward-gulf-coast-could-become-hurricane-as-florida-declares-emergency-all-you-need-to-know/articleshow/134763663.cms": "b",
+    "https://slashdot.org/firehose.pl?op=view&amp;id=186058838": "b",
+    "https://www.hrw.org/news/2026/10/07/el-salvador-mass-trials-a-mockery-of-justice": "c",
+    "https://slashdot.org/firehose.pl?op=view&amp;id=186058436": "b",
+    "https://www.insurancejournal.com/news/southcentral/2026/10/07/888247.htm": "b",
+    "https://slashdot.org/firehose.pl?op=view&amp;id=186057406": "b",
+    "https://www.foxnews.com/world/former-german-spy-chief-arrested-suspicion-espionage-attempted-treason": "d",
+    "https://economictimes.indiatimes.com/news/international/us/hurricane-in-gulf-tropical-depression-9-to-become-first-atlantic-hurricane-storm-of-2026-predicted-to-hit-louisiana-mississippi-forecast-landfall-could-affect-shell-chevron-other-refineries/articleshow/134753224.cms": "b",
+    "https://intelnews.org/2026/10/07/01-3462/": "d"
+  },
+  "contradictions": []
+}

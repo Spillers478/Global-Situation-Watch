@@ -1,0 +1,377 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 15",
+      "description": "Rescue workers are continuing a search for residents after an apartment building in Pryluky was destroyed.",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6db9/live/1690bf80-c23b-11f1-be2f-0fbd447d6e43.jpg",
+      "publishedAt": "2026-10-07T11:05:37Z",
+      "content": "Zelensky renewed a call for allies to provide air defence support packages to Ukraine, saying its military only managed to shoot down \"some\" of the missiles launched by Russia overnight.\r\nAccording t\u2026 [+2109 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Radio Free Europe/ Radio Liberty"
+      },
+      "author": "RFE/RL",
+      "title": "Two Decades On, Politkovskaya's Daughter Says Little Has Changed In Russia Since Her Mother's Murder",
+      "description": "Two decades after the murder of Anna Politkovskaya, a tenacious investigative reporter who exposed the brutality of Russia's war in Chechnya and documented how President Vladimir Putin curtailed democracy in Russia, her daughter Vera says little has changed i\u2026",
+      "url": "https://www.rferl.org/a/politkovskaya-russia-murder-anniversary/33872006.html",
+      "urlToImage": "https://gdb.rferl.org/5A4B6A57-2B8A-4A6D-AA04-383968186598_cx0_cy3_cw0_w1200_h630.jpg",
+      "publishedAt": "2026-10-07T10:45:04Z",
+      "content": "Two decades after the murder of Anna Politkovskaya, a tenacious investigative reporter who exposed the brutality of Russia's war in Chechnya and documented how President Vladimir Putin curtailed demo\u2026 [+3239 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hurriyet Daily News"
+      },
+      "author": "hurriyetdailynews.com",
+      "title": "Heavy casualties in Ukraine after Russian strikes",
+      "description": "At least 15 people were killed in Russian strikes across Ukraine on Oct. 7, the authorities said, including nine when a missile destroyed an apartment block in the north of the country.",
+      "url": "https://www.hurriyetdailynews.com/heavy-casualties-in-ukraine-after-russian-strikes-227837",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6ac621d91a32b1bb2a09069a.jpg",
+      "publishedAt": "2026-10-07T10:42:18Z",
+      "content": "PRYLUKY, Ukraine\r\nA handout picture taken and released by Ukraine's National Police on Oct. 7, 2026 shows a bomb disposal expert neutralising an unexploded Russian missile near residential buildings \u2026 [+3146 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sputnikglobe.com"
+      },
+      "author": "Sputnik International",
+      "title": "Europe Obsessed With Militarization, Turning EU Into Military-Political Bloc - Kremlin",
+      "description": "MOSCOW (Sputnik) - Europe is obsessed with militarization and plans to turn the EU into a military-political bloc, Kremlin spokesman Dmitry Peskov said on Wednesday.",
+      "url": "https://sputnikglobe.com/20261007/europe-obsessed-with-militarization-turning-eu-into-military-political-bloc---kremlin-1124847541.html",
+      "urlToImage": "https://cdn.imgsputnikglobe.com/images/sharing/article/eng/1124847541.jpg?11216222821791369620",
+      "publishedAt": "2026-10-07T10:40:19Z",
+      "content": "Get the latest news from around the world, live coverage, off-beat stories, features and analysis.\r\nhttps://sputnikglobe.com/20261007/europe-obsessed-with-militarization-turning-eu-into-military-poli\u2026 [+5741 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "Bulgaria ends search for missing crew after drone strike sinks cargo ship",
+      "description": "Rescuers halt operation off the coast after finding no survivors.",
+      "url": "https://www.aljazeera.com/news/2026/10/7/bulgaria-ends-search-for-missing-crew-after-drone-strike-sinks-cargo-ship",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-06T112753Z_806879392_RC2MXNA2SZVN_RTRMADP_3_BULGARIA-INCIDENT-1791364737.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-07T10:12:04Z",
+      "content": "Bulgarian authorities have ended search operations after confirming no survivors were found following a drone strike that sank a ship off the countrys coast.\r\nDrones hit two commercial vessels early \u2026 [+1964 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Radio Free Europe/ Radio Liberty"
+      },
+      "author": "RFE/RL's Ukrainian Service",
+      "title": "Russia's Deadly Attacks Damage Homes Across Ukraine On Putin's Birthday, Zelenskyy Says",
+      "description": "Russian missile and drone strikes pounded Ukraine on Russian leader Vladimir Putin's birthday, leaving dozens of people dead or injured in one of \"the most vile\" attacks in recent times, President Volodymyr Zelenskyy said.",
+      "url": "https://www.rferl.org/a/ukraine-russia-zelenskyy-putin-war/33871985.html",
+      "urlToImage": "https://gdb.rferl.org/d34067ca-b5ba-4bfd-895b-a446c360278a_cx0_cy10_cw0_w1200_h630.jpg",
+      "publishedAt": "2026-10-07T10:09:54Z",
+      "content": "PRYLUKY, UKRAINE -- Russian missile and drone strikes pounded Ukraine on Russian leader Vladimir Putin's birthday, leaving dozens of people dead or injured in one of \"the most vile\" attacks in recent\u2026 [+3456 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "Russian missile, drone assault leaves at least 12 dead across Ukraine",
+      "description": "Russian missiles and drones pounded Kyiv and a dozen other Ukrainian regions overnight into Wednesday, killing at least 12 civilians, including three children, and wounding more than 40 in Moscow's latest devastating barrage, Ukrainian officials said.",
+      "url": "https://www.cbc.ca/news/world/ukraine-war-russia-1719-9.7372158",
+      "urlToImage": "https://i.cbc.ca/ais/54209e49-fd47-461b-a2a8-e4c94c53f64a,1791365884353/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4035%2C2269%29%3BResize%3D620",
+      "publishedAt": "2026-10-07T10:07:37Z",
+      "content": "Russian missiles and drones pounded Kyiv and a dozen other Ukrainian regions overnight into Wednesday, killing at least 12 civilians, including three children, and wounding more than 40 in Moscow's l\u2026 [+4604 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "By Olena Harmash and Vladyslav Smilianets",
+      "title": "Russia hits Ukraine with drones and missiles, killing at least 15 people",
+      "description": "By Olena Harmash and Vladyslav Smilianets KYIV, Oct 7 (Reuters) - Russia pounded Ukraine with waves of missiles and drones on Wednesday, killing at least 15 people and hitting residential buildings, industrial facilities and infrastructure, Ukrainian official\u2026",
+      "url": "https://www.yahoo.com/news/articles/russia-strikes-ukraines-kyiv-fresh-014448221.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/4ee2153b9418f8e53b5e0fe563dd1c45ff2cd8529791c5fa293ece7c589ef5b9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fa550f1394941d524b648cfe2c63b29c1.jpg",
+      "publishedAt": "2026-10-07T09:56:02Z",
+      "content": "By Olena Harmash and Vladyslav Smilianets\r\nKYIV, Oct 7 (Reuters) - Russia pounded Ukraine with waves of missiles and drones on Wednesday, killing at least 15 people and hitting residential buildings,\u2026 [+4229 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "POLITICO.eu"
+      },
+      "author": "Veronika Melkozerova",
+      "title": "Russia hits Ukraine with wave of attacks on Putin\u2019s birthday",
+      "description": "The Ukrainian president described the latest attacks from Russia as \u201cone of the vilest strikes.\u201d",
+      "url": "https://www.politico.eu/article/russia-ukraine-attacks-vladimir-putin-birthday/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/07/GettyImages-2297467783-scaled.jpg",
+      "publishedAt": "2026-10-07T09:34:34Z",
+      "content": "Local authorities also reported destruction in Kyiv, where two people were killed, as well as in Dnipro, Kremenchuk, Zaporizhzhia and other regions. \u00a0Zelenskyy said Ukraines energy system was one of \u2026 [+953 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": "rt",
+        "name": "RT"
+      },
+      "author": "RT",
+      "title": "Ex-Google boss warns Ukraine over Russia\u2019s \u2018Starlink rival\u2019",
+      "description": "The Rassvet satellite network could give Moscow immense advantages in the Ukraine conflict, Eric Schmidt has said Read Full Article at RT.com",
+      "url": "https://www.rt.com/news/646879-rassvet-ukraine-unblockable-google-boss/",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.10/article/6ac60bc920302715912f8983.jpg",
+      "publishedAt": "2026-10-07T09:13:43Z",
+      "content": "Russia\u2019s emerging Rassvet satellite network \u2013 often described as a \u201cStarlink rival\u201d \u2013 could provide Moscow\u2019s military with sustainable communications and data to attack any target in Ukraine at will,\u2026 [+3050 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lithub.com"
+      },
+      "author": "Oleksandr Mykhed",
+      "title": "Writing in Times of War: Oleksandr Mykhed on Losing Ukrainian Books to Russian Bombs",
+      "description": "Beginning on Thursday, August 27, all days blur into one long, endless air raid alarm. 13 air alarms a day, lasting 872 minutes. The next day\u201412 alarms, lasting 634 minutes. The next\u201410 alarms, lasting 644 minutes. And so it goes",
+      "url": "https://lithub.com/writing-in-times-of-war-oleksandr-mykhed-on-losing-ukrainian-books-to-russian-bombs/",
+      "urlToImage": "https://s26162.pcdn.co/wp-content/uploads/2026/09/right-sidebar-banner-images-9.png",
+      "publishedAt": "2026-10-07T09:09:34Z",
+      "content": "Beginning on Thursday, August 27, all days blur into one long, endless air raid alarm.\r\nArticle continues after advertisement\r\n13 air alarms a day, lasting 872 minutes.\r\nThe next day12 alarms, lastin\u2026 [+6604 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thenation.com"
+      },
+      "author": "Stephen Crowley",
+      "title": "Are Europe and Russia Slow-Walking to World War III?",
+      "description": "Stephen Crowley\n\n\n\nDangerous rhetoric has been escalating on both sides for some time now.\r\n\n\r\n\n\nThe post Are Europe and Russia Slow-Walking to World War III? appeared first on The Nation.",
+      "url": "https://www.thenation.com/?post_type=article&p=611692",
+      "urlToImage": "https://www.thenation.com/wp-content/uploads/2026/10/nato_russia.jpg",
+      "publishedAt": "2026-10-07T09:00:00Z",
+      "content": "Dangerous rhetoric has been escalating on both sides for some time now.\r\nAd Policy\r\nA soldier stands at the outer NATO border with Russia on July 16, 2026, in Vaalimaa, Finland.(Thomas Trutschel / Ph\u2026 [+8423 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Kevin Shalvey",
+      "title": "Russia hits Ukrainian apartment buildings in deadly overnight strike, Zelenskyy says",
+      "description": "\"It was an ordinary five-story apartment building,\" Ukrainian President Volodymyr Zelenskyy said of the target.",
+      "url": "https://abcnews.com/International/russia-hits-ukrainian-apartment-buildings-deadly-overnight-strike/story?id=137058213",
+      "urlToImage": "https://i.abcnewsfe.com/a/909419ed-8214-44da-b9a7-db7e6b9b66e4/main-ukraine_1791361505085_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-10-07T08:32:45Z",
+      "content": "LONDON -- Russia targeted Ukraine overnight with dozens of missiles and drones in a \"vile\" and deadly attack aimed at both energy infrastructure and residential buildings throughout at least 12 regio\u2026 [+1025 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": "rte",
+        "name": "RTE"
+      },
+      "author": "RT\u00c9 News",
+      "title": "Russian drone and missile barrage kills eight in Ukraine",
+      "description": "Russia launched a barrage of drones and missiles at Ukraine today, killing at least eight people and damaging residential buildings, industrial facilities and infrastructure, Ukrainian officials said.",
+      "url": "https://www.rte.ie/news/world/2026/1007/1594350-ukraine-russia/",
+      "urlToImage": "https://www.rte.ie/images/002521a0-1600.jpg",
+      "publishedAt": "2026-10-07T07:24:50Z",
+      "content": "Russia launched a barrage of drones and missiles at Ukraine today, killing at least eight people and damaging residential buildings, industrial facilities and infrastructure, Ukrainian officials said\u2026 [+2966 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "The Associated Press",
+      "title": "Russian missile strike in Ukraine's capital kills at least 2",
+      "description": "Russia has attacked Ukraine's capital with ballistic missiles, killing two people and damaging civilian infrastructure",
+      "url": "https://abcnews.com/International/wireStory/russian-missile-strike-ukraines-capital-kills-2-137057060",
+      "urlToImage": "https://i.abcnewsfe.com/a/9a5122df-3b62-4c1b-96db-ddf07658a609/wirestory_650e298d7bc3881351533683ff4040ed_16x9.jpg?w=1600",
+      "publishedAt": "2026-10-07T06:47:47Z",
+      "content": "KYIV, Ukraine -- Russian attacked Ukraine's capital with ballistic missiles overnight Wednesday, killing two people and damaging civilian infrastructure, according to Ukrainian officials.\r\nExplosions\u2026 [+918 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sputnikglobe.com"
+      },
+      "author": "Sputnik International",
+      "title": "Russia Targets Ukrainian Missile and Drone Production Across Seven Regions",
+      "description": "The Russian Armed Forces carried out a massive strike with high-precision ground-, sea- and air-based weapons and UAVs on Ukrainian military-industrial facilities.",
+      "url": "https://sputnikglobe.com/20261007/russia-targets-ukrainian-missile-and-drone-production-across-seven-regions-1124846522.html",
+      "urlToImage": "https://cdn.imgsputnikglobe.com/images/sharing/article/eng/1124846522.jpg?11230995191791355648",
+      "publishedAt": "2026-10-07T06:47:28Z",
+      "content": "Russia's Special Operation in Ukraine\r\nOn February 24, 2022 Russia launched a special military operation in Ukraine, aiming to liberate the Donbass region where the people's republics of Donetsk and \u2026 [+1046 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "Drone strike sinks ship in NATO waters as Zelenskyy warns of looming \u2018massive strike\u2019 - Fox News",
+      "description": "Drone strike sinks ship in NATO waters as Zelenskyy warns of looming \u2018massive strike\u2019Fox News Ukraine war briefing: Zelenskyy blames Russia for attack on Bulgarian vessels in Black Sea as investigation launchedThe Guardian Drones Hit Ships Off Bulgaria\u2019s Blac\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186057912",
+      "urlToImage": null,
+      "publishedAt": "2026-10-07T06:32:58Z",
+      "content": "Dealing with the problem of pure staff accumulation,\r\nall our researches ... point to an average increase of 5.75% per year.\r\n-- C.N. Parkinson",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "Russian missile, drone assault leaves at least 12 dead across Ukraine",
+      "description": "Russian missiles and drones pounded Kyiv and a dozen other Ukrainian regions overnight into Wednesday, killing at least 12 civilians, including three children, and wounding more than 40 in Moscow's latest devastating barrage, Ukrainian officials said.",
+      "url": "https://www.cbc.ca/news/world/ukraine-war-russia-1719-9.7372158",
+      "urlToImage": "https://i.cbc.ca/ais/54209e49-fd47-461b-a2a8-e4c94c53f64a,1791365884353/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4035%2C2269%29%3BResize%3D620",
+      "publishedAt": "2026-10-07T10:07:37Z",
+      "content": "Russian missiles and drones pounded Kyiv and a dozen other Ukrainian regions overnight into Wednesday, killing at least 12 civilians, including three children, and wounding more than 40 in Moscow's l\u2026 [+4604 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "flagship-ir-il"
+    },
+    {
+      "source": {
+        "id": "rt",
+        "name": "RT"
+      },
+      "author": "RT",
+      "title": "Ukrainian MP defies Zelensky on NATO",
+      "description": "Ukrainian MP Anna Skorokhod has proposed restoring constitutional neutrality and abandoning the country\u2019s bid to join NATO Read Full Article at RT.com",
+      "url": "https://www.rt.com/russia/646878-ukraine-nato-bid-constitution/",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.10/article/6ac6034720302718a67a4ca9.jpg",
+      "publishedAt": "2026-10-07T11:06:11Z",
+      "content": "A Ukrainian lawmaker has proposed amending the constitution to remove the country\u2019s NATO membership goal and restore its neutral status. One of Russia\u2019s goals in ongoing hostilities with Ukraine is t\u2026 [+2787 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T05"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Priyanka Shankar",
+      "title": "Has Russia\u2019s fuel crisis given Iranian oil an opening in Central Asia?",
+      "description": "Iran's oil exports have struggled amid a US blockade. A Russian energy crisis because of Ukrainian attacks could help.",
+      "url": "https://www.aljazeera.com/news/2026/10/7/has-russias-fuel-crisis-given-iranian-oil-an-opening-in-central-asia",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/2024-10-03T132152Z_1517472793_RC21DAAKPAO9_RTRMADP_3_ISRAEL-PALESTINIANS-QATAR-SUMMIT-1791289075.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-07T06:33:54Z",
+      "content": "Countries in Central Asia have begun buying oil from Iran as the Russian fuel supplies they have long depended on run dry amid Ukraines mounting attacks on Russian energy infrastructure to degrade Mo\u2026 [+10061 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T05"
+    },
+    {
+      "source": {
+        "id": "rt",
+        "name": "RT"
+      },
+      "author": "RT",
+      "title": "NATO membership for Ukraine \u2018not on the table\u2019 \u2013 Rubio",
+      "description": "Ukraine\u2019s NATO membership is not currently under consideration, US Secretary of State Marco Rubio has said Read Full Article at RT.com",
+      "url": "https://www.rt.com/news/646837-nato-membership-ukraine-rubio/",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.10/article/6ac53ec12030275b020b7cee.jpg",
+      "publishedAt": "2026-10-07T00:50:42Z",
+      "content": "NATO membership for Ukraine is not currently under consideration, as Washington is focused on ending the conflict between Kiev and Moscow, US Secretary of State Marco Rubio has said.\r\nAsked about Was\u2026 [+1660 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T05"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The New Republic"
+      },
+      "author": "Jonathan Becker",
+      "title": "Teaching Havel in Kyiv: Lessons From Ukraine for Trump\u2019s America",
+      "description": "It was 9 a.m. in Kyiv, and I showed up at class ready to teach Vaclav Havel\u2019s \u201cThe Power of the Powerless,\u201d his celebrated 1978 essay about totalitarian control, but was feeling rough around the edges because I had been in a bomb shelter until 5:30 a.m. that \u2026",
+      "url": "https://newrepublic.com/article/216257/teaching-havel-kyiv-lessons-ukraine-trump-america",
+      "urlToImage": "https://images.newrepublic.com/951af0e8daa287fccd2f52e737c17fdcae6d4dfb.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2026-10-07T10:00:00Z",
+      "content": "Now, in 2026, I came for two reasons: to give a commencement speech at Kyiv School of Economics, or KSE, one of Ukraines most dynamic higher education institutions, and to help oversee and teach in a\u2026 [+1691 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thenation.com"
+      },
+      "author": "Stephen Crowley",
+      "title": "Are Europe and Russia Slow-Walking to World War III?",
+      "description": "Stephen Crowley\n\n\n\nDangerous rhetoric has been escalating on both sides for some time now.\r\n\n\r\n\n\nThe post Are Europe and Russia Slow-Walking to World War III? appeared first on The Nation.",
+      "url": "https://www.thenation.com/?post_type=article&p=611692",
+      "urlToImage": "https://www.thenation.com/wp-content/uploads/2026/10/nato_russia.jpg",
+      "publishedAt": "2026-10-07T09:00:00Z",
+      "content": "Dangerous rhetoric has been escalating on both sides for some time now.\r\nAd Policy\r\nA soldier stands at the outer NATO border with Russia on July 16, 2026, in Vaalimaa, Finland.(Thomas Trutschel / Ph\u2026 [+8423 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Lance D Johnson",
+      "title": "After being encroached on by NATO for decades, Russia\u2019s \u201clast resort\u201d nuclear weapon threat sounds like a bluff",
+      "description": "Russia calls its nuclear arsenal a last resort, yet NATO keeps probing for the edge of that phrase. Moscow has already absorbed three decades of eastward expansion, proxy war and rehearsed blockades without firing a nuclear warhead, which reveals where the re\u2026",
+      "url": "https://www.naturalnews.com/2026-10-07-russia-last-resort-nuclear-weapon-threat-bluff.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/russian-armed-forces-energy-infrastructure-odessa-ports-3829-original.jpg",
+      "publishedAt": "2026-10-07T06:00:00Z",
+      "content": "Russia calls its nuclear arsenal a last resort, yet NATO keeps probing for the edge of that phrase. Moscow has already absorbed three decades of eastward expansion, proxy war and rehearsed blockades \u2026 [+5623 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thenation.com"
+      },
+      "author": "Stephen Crowley",
+      "title": "Are Europe and Russia Slow-Walking to World War III?",
+      "description": "Stephen Crowley\n\n\n\nDangerous rhetoric has been escalating on both sides for some time now.\r\n\n\r\n\n\nThe post Are Europe and Russia Slow-Walking to World War III? appeared first on The Nation.",
+      "url": "https://www.thenation.com/?post_type=article&p=611692",
+      "urlToImage": "https://www.thenation.com/wp-content/uploads/2026/10/nato_russia.jpg",
+      "publishedAt": "2026-10-07T09:00:00Z",
+      "content": "Dangerous rhetoric has been escalating on both sides for some time now.\r\nAd Policy\r\nA soldier stands at the outer NATO border with Russia on July 16, 2026, in Vaalimaa, Finland.(Thomas Trutschel / Ph\u2026 [+8423 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T10"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Radio Free Europe/ Radio Liberty"
+      },
+      "author": "Rikard Jozwiak",
+      "title": "Wider Europe Briefing: The New EU Enlargement Strategy",
+      "description": "In this week's Wider Europe, Rikard Jozwiak drills down on two issues: the EU's new enlargement strategy and the EU's game plan to keep Russia (and Belarus) out of sports.",
+      "url": "https://www.rferl.org/a/wider-europe-briefing-the-new-eu-enlargement-strategy/33871257.html",
+      "urlToImage": "https://gdb.rferl.org/01000000-0aff-0242-1df2-08dc86cf0bc3_w1200_h630.jpg",
+      "publishedAt": "2026-10-06T10:01:08Z",
+      "content": "Welcome to Wider Europe, RFE/RL's newsletter focusing on the key issues concerning the European Union, NATO, and other institutions and their relationships with the Western Balkans and Europe's Easte\u2026 [+13425 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T14"
+    }
+  ]
+}

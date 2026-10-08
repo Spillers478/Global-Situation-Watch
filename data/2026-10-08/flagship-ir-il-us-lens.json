@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "totalResults": 1,
+  "articles": [
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Trump says Iran could \u2018take\u2019 San Diego, Los Angeles; draws cross-party ire - Al Jazeera",
+      "description": "Both Democrats and Republicans have expressed outrage at Trump\u2019s remarks, as White House disputed their interpretation.",
+      "url": "https://www.aljazeera.com/news/2026/10/7/politicians-slam-trumps-suggestion-that-iran-take-san-diego-los-angeles",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac5845b-1791329371.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-07T08:40:09Z",
+      "content": "Members of the Republican Party have joined Democrats in questioning remarks made by United States President Donald Trump about the California cities of Los Angeles and San Diego.\r\nMuch of the backla\u2026 [+3877 chars]"
+    }
+  ]
+}
