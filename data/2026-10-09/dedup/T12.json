@@ -1,0 +1,14 @@
+{
+  "groups": {
+    "https://thenextweb.com/news/publica-swiss-pension-fund-data-leak-supplier": "a",
+    "https://forkast.news/cisco-firewall-management-center-has-two-cvss-10-0-unauthenticated-rces-interlock-ransomware-exploited-one-as-zero-day/": "b",
+    "https://me.pcmag.com/en/security/38270/former-nsa-director-has-his-eye-on-china-data-center-pushback": "c",
+    "https://uk.pcmag.com/ai/167767/former-nsa-director-has-his-eye-on-china-data-center-pushback": "c",
+    "https://newsonjapan.com/article/150988.php": "d",
+    "https://securityaffairs.com/200558/cyber-crime/fortibleed-hit-86000-firewalls-by-exploiting-something-nobody-can-patch-away.html": "e",
+    "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/": "f",
+    "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html": "e",
+    "https://newsonjapan.com/article/150983.php": "g"
+  },
+  "contradictions": []
+}

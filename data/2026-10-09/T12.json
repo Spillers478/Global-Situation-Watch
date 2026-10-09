@@ -1,0 +1,474 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Michael Woodbridge",
+      "title": "Cyber resilience isn't measured in firewalls. It's measured in minutes",
+      "description": "Cyber resilience now depends on how quickly leaders can understand, decide and recover.",
+      "url": "https://www.techradar.com/pro/cyber-resilience-isnt-measured-in-firewalls-its-measured-in-minutes",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/5rDPr5xYvLwnkP7ZvpR2w3-2122-80.jpg",
+      "publishedAt": "2026-10-08T10:56:40Z",
+      "content": "Cyber resilience isn't measured in firewalls. It's measured in minutes.\r\nTime has quietly become the biggest driver of cyber costs. For years, we've measured cyber security success by what organizati\u2026 [+7503 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DW (English)"
+      },
+      "author": "Liliia Rzheutska",
+      "title": "As Russia steps up attacks on Ukrainian data centers, could Ukraine soon be offline?",
+      "description": "As Russia targets Ukraine's data centers more and more, experts say the country's internet system is too robust to shut down entirely. However, services could become more expensive.",
+      "url": "https://www.dw.com/en/as-russia-steps-up-attacks-on-ukrainian-data-centers-could-ukraine-soon-be-offline/a-79582503",
+      "urlToImage": "https://static.dw.com/image/75698517_6.jpg",
+      "publishedAt": "2026-10-08T10:52:00Z",
+      "content": "Hackers and power outages were once the largest threat to Ukraine's data centers. Now, it is\u00a0the buildings themselves that are in the cross hairs.\r\nSince early September, Russia has been \u00a0targeting t\u2026 [+4757 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Uxdesign.cc"
+      },
+      "author": "Patrizia Bertini",
+      "title": "AI: incidents by design",
+      "description": "When safety is optional, and capability is urgent, incidents are not accidents. They are what we (consciously or not) designed and built\u2026",
+      "url": "https://uxdesign.cc/ai-incidents-by-design-d4708a3dda9e",
+      "urlToImage": "https://miro.medium.com/v2/resize:fit:1200/1*X6uoa9EXHGh-8NGtYKAU4A.jpeg",
+      "publishedAt": "2026-10-08T09:20:37Z",
+      "content": "AI makes headlines almost every day. And most days, they read like science fiction. Except they are not.\r\nLast year, in a simulation, Anthropics Claude learned it was about to be shut down, found a f\u2026 [+10954 chars]"
+    },
+    {
+      "source": {
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "author": "Ana-Maria Stanciuc",
+      "title": "Swiss prosecutors investigate data leak at federal pension fund Publica",
+      "description": "Publica, the pension fund that provides pensions for staff of the Swiss federal government, has confirmed today that a data leak occurred as a result of a cyberattack on one of its external software suppliers. The Swiss government stated that the supplier dis\u2026",
+      "url": "https://thenextweb.com/news/publica-swiss-pension-fund-data-leak-supplier",
+      "urlToImage": "https://media.thenextweb.com/2026/10/hooded-figure-typing-keyboard-dark.jpg",
+      "publishedAt": "2026-10-08T09:10:28Z",
+      "content": "Publica, the pension fund that provides pensions for staff of the Swiss federal government, has confirmed today that a data leak occurred as a result of a cyberattack on one of its external software \u2026 [+2775 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nakedcapitalism.com"
+      },
+      "author": "Yves Smith",
+      "title": "Michael Hudson: The AI Crash Is Coming, And You Will Pay For It",
+      "description": "Hudson and Desai discuss the probable AI crash in the context of US tech policy, historical bubbles, and the contrast with China's approach.",
+      "url": "https://www.nakedcapitalism.com/2026/10/michael-hudson-the-ai-crash-is-coming-and-you-will-pay-for-it.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-08T06:58:00Z",
+      "content": "Yves here. Get a cup of coffee. This is a particularly fine, wide-ranging discussion between Michael Hudson and Radhika Desai on the economic and financial effects and risks of AI. Some distinctive t\u2026 [+42710 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Local Germany"
+      },
+      "author": "Tom Pugh",
+      "title": "Today in Germany: A roundup of the latest news on Thursday",
+      "description": "Pro-Palestine march in Berlin halted after arrests and clashes, German transport minister backs Tesla's 'full self-driving' system, Ryanair pulls out of Bremen in airport fee dispute and more news on Thursday, October 8th.",
+      "url": "https://www.thelocal.de/20261008/today-in-germany-a-roundup-of-the-latest-news-on-thursday-139",
+      "urlToImage": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/10/watermarks-logo-623806057.jpg@webp",
+      "publishedAt": "2026-10-08T06:31:17Z",
+      "content": "Pro-Palestine march in Berlin halted after arrests and clashes, German transport minister backs Tesla's 'full self-driving' system, Ryanair pulls out of Bremen in airport fee dispute and more news on\u2026 [+7168 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forkast.news"
+      },
+      "author": "Heath Callahan",
+      "title": "Cisco Firewall Management Center Has Two CVSS 10.0 Unauthenticated RCEs \u2014 Interlock Ransomware Exploited One as Zero-Day",
+      "description": "Two critical, unauthenticated remote code execution vulnerabilities in the Cisco Secure Firewall Management Center carry CVSS scores of 10.0. Both allow attackers to gain root access to the system that configures and manages the enterprise security perimeter \u2026",
+      "url": "https://forkast.news/cisco-firewall-management-center-has-two-cvss-10-0-unauthenticated-rces-interlock-ransomware-exploited-one-as-zero-day/",
+      "urlToImage": "https://forkast.news/wp-content/uploads/2026/10/cisco-fmc-cve-2026-20131-20079-v2-1024x572.jpg",
+      "publishedAt": "2026-10-08T06:27:51Z",
+      "content": "Two critical, unauthenticated remote code execution vulnerabilities in the Cisco Secure Firewall Management Center carry CVSS scores of 10.0. Both allow attackers to gain root access to the system th\u2026 [+3572 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Help Net Security"
+      },
+      "author": "Mirko Zorz",
+      "title": "Pricing your bad days and how to build an economic model for security decisions",
+      "description": "Ivan Milenkovic, VP Risk Technology EMEA at Qualys, explains how security leaders can build an economic model that puts money behind their decisions. He suggests starting with a few loss scenarios, then working down to the assets that drive them. He covers ho\u2026",
+      "url": "https://www.helpnetsecurity.com/2026/10/08/ivan-milenkovic-qualys-cyber-risk-quantification/",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2026/10/07142449/ivan_milenkovic-2-qualys.webp",
+      "publishedAt": "2026-10-08T06:00:01Z",
+      "content": "Ivan Milenkovic, VP Risk Technology EMEA at Qualys, explains how security leaders can build an economic model that puts money behind their decisions. He suggests starting with a few loss scenarios, t\u2026 [+10132 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "author": "Rob Pegoraro",
+      "title": "Former NSA Director Has His Eye on China, Data Center Pushback",
+      "description": "'We may have some problems with data centers,' Paul Nakasone admits, but 'we're going to need them' in the cybersecurity fight against China, Russia, and Iran.\nA veteran Washington operator\u2019s keynote at a cybersecurity conference served as a reminder that som\u2026",
+      "url": "https://me.pcmag.com/en/security/38270/former-nsa-director-has-his-eye-on-china-data-center-pushback",
+      "urlToImage": "https://sm.pcmag.com/t/pcmag_me/news/f/former-nsa/former-nsa-director-has-his-eye-on-china-data-center-pushbac_pqj1.1200.jpg",
+      "publishedAt": "2026-10-08T04:29:50Z",
+      "content": "A veteran Washington operators keynote at a cybersecurity conference served as a reminder that some of the fields hardest problems involve people, not programs.\r\nWe're dealing with a new tempo that i\u2026 [+5589 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "https://www.wildworldofpolitics.com/",
+      "title": "TODAY'S NEWS, October 6-7, 2026",
+      "description": "HEADLINES: Early mail-in voting starts; Has Talarico given up?; Christopher Rufo on the Indian-American immigration debate The News of Today is the History of Tomorrow",
+      "url": "https://freerepublic.com/focus/f-bloggers/4398337/posts",
+      "urlToImage": null,
+      "publishedAt": "2026-10-07T23:34:03Z",
+      "content": "HEADLINES: Early mail-in voting starts; Has Talarico given up?; Christopher Rufo on the Indian-American immigration debate IN POLITICAL NEWS\r\n1) We have EARLY (and I stress early) returns from WI, wh\u2026 [+12196 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Amazon.com"
+      },
+      "author": "Justin Kontny",
+      "title": "Configuring your AI vulnerability harness, Part 2: The steering file",
+      "description": "This post shows you how to configure an AI model to perform structured, evidence-based vulnerability triage with the consistency of a seasoned security analyst. You\u2019ll learn the design decisions behind five configuration sections that enforce structural verif\u2026",
+      "url": "https://aws.amazon.com/blogs/security/configuring-your-ai-vulnerability-harness-part-2-the-steering-file/",
+      "urlToImage": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2026/10/07/blog_hero_part2_1200x600.jpg",
+      "publishedAt": "2026-10-07T21:49:50Z",
+      "content": "This post shows you how to configure an AI model to perform structured, evidence-based vulnerability triage with the consistency of a seasoned security analyst. Youll learn the design decisions behin\u2026 [+17627 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "author": "Matteo Wong",
+      "title": "How Long Until AI Hacks Everything?",
+      "description": "If only AI can save us from AI, the world is in trouble.",
+      "url": "https://www.theatlantic.com/technology/2026/10/ai-hacking-cybersecurity-race/688911/?utm_source=feed",
+      "urlToImage": null,
+      "publishedAt": "2026-10-07T20:59:07Z",
+      "content": "The Australian government has been scrambling since the revelation that, earlier this year, it was hacked. At the United Nations General Assembly last month, Australian Prime Minister Anthony Albanes\u2026 [+10953 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "author": "Rob Pegoraro",
+      "title": "Former NSA Director Has His Eye on China, Data Center Pushback",
+      "description": "'We may have some problems with data centers,' Paul Nakasone admits, but 'we're going to need them' in the cybersecurity fight against China, Russia, and Iran.\nA veteran Washington operator\u2019s keynote at a cybersecurity conference served as a reminder that som\u2026",
+      "url": "https://uk.pcmag.com/ai/167767/former-nsa-director-has-his-eye-on-china-data-center-pushback",
+      "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/news/f/former-nsa/former-nsa-director-has-his-eye-on-china-data-center-pushbac_8frd.1200.jpg",
+      "publishedAt": "2026-10-07T18:06:32Z",
+      "content": "A veteran Washington operators keynote at a cybersecurity conference served as a reminder that some of the fields hardest problems involve people, not programs.\r\nWe're dealing with a new tempo that i\u2026 [+4985 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Storagereview.com"
+      },
+      "author": "Harold Fritts",
+      "title": "Nasuni AI Activate Connects LLMs to Live File Data Over MCP, and Resilio 6.0 Pushes Edge File Transport to 200 Gbps",
+      "description": "Nasuni has announced that AI Activate and Resilio 6.0 are generally available on the Nasuni File Data Platform, with Enterprise Search following later this quarter. Together with the content classification Nasuni picked up in its recent DryvIQ acquisition, th\u2026",
+      "url": "https://www.storagereview.com/news/nasuni-ai-activate-mcp-live-file-data-resilio-6-0-200-gbps",
+      "urlToImage": "https://www.storagereview.com/wp-content/uploads/2026/10/StorageReview-Nasuni-AI-Activate-MCP-query.jpg",
+      "publishedAt": "2026-10-07T16:38:14Z",
+      "content": "Nasuni has announced that AI Activate and Resilio 6.0 are generally available on the Nasuni File Data Platform, with Enterprise Search following later this quarter. Together with the content classifi\u2026 [+3517 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsonjapan.com"
+      },
+      "author": "News On Japan",
+      "title": "Cyberattacks on Japanese Companies Expose Structural Weaknesses",
+      "description": "Japan is entering a more difficult phase in its cybersecurity challenge, as a succession of major data breaches and ransomware attacks exposes weaknesses not only in corporate IT systems but also in supplier networks, governance structures and operational res\u2026",
+      "url": "https://newsonjapan.com/article/150988.php",
+      "urlToImage": "https://i2.ytimg.com/vi/V9ceswvfw4Y/maxresdefault.jpg",
+      "publishedAt": "2026-10-07T15:22:02Z",
+      "content": "TOKYO -\r\n Japan is entering a more difficult phase in its cybersecurity challenge, as a succession of major data breaches and ransomware attacks exposes weaknesses not only in corporate IT systems bu\u2026 [+15276 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techpowerup.com"
+      },
+      "author": "Nomad76",
+      "title": "(PR) QNAP Expands Its 100GbE Lineup with the QSW-M7230P-2X4F24T L3 Lite Managed PoE++ Switch",
+      "description": "QNAP Systems, Inc., a leading innovator in storage, networking, and data protection solutions, today announced the QSW-M7230P-2X4F24T, an L3 Lite managed 100GbE PoE switch designed for mid-sized and large enterprises running high-performance storage, virtuali\u2026",
+      "url": "https://www.techpowerup.com/353463/qnap-expands-its-100gbe-lineup-with-the-qsw-m7230p-2x4f24t-l3-lite-managed-poe-switch",
+      "urlToImage": "https://www.techpowerup.com/img/uyxtvun6HWMkbDv2.jpg",
+      "publishedAt": "2026-10-07T14:14:43Z",
+      "content": "QNAP Systems, Inc., a leading innovator in storage, networking, and data protection solutions, today announced the QSW-M7230P-2X4F24T, an L3 Lite managed 100GbE PoE switch designed for mid-sized and \u2026 [+2553 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forkast.news"
+      },
+      "author": "Dana Ellison",
+      "title": "Armadin\u2019s $255.5M Series B Signals the Largest Agent Security Round Went to the Offensive Side",
+      "description": "Kevin Mandia, the former Air Force officer who built Mandiant into a $5.4 billion powerhouse before its acquisition by Google, is back in the arena. His latest venture, Armadin, has just secured $255.5 million in a Series B round led by Andreessen Horowitz an\u2026",
+      "url": "https://forkast.news/armadins-255-5m-series-b-signals-the-largest-agent-security-round-went-to-the-offensive-side/",
+      "urlToImage": "https://forkast.news/wp-content/uploads/2026/10/armadin-agent-security-offensive-1024x572.jpg",
+      "publishedAt": "2026-10-07T14:13:12Z",
+      "content": "Kevin Mandia, the former Air Force officer who built Mandiant into a $5.4 billion powerhouse before its acquisition by Google, is back in the arena. His latest venture, Armadin, has just secured $255\u2026 [+4326 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Sponsored by Kaseya",
+      "title": "Ransomware has a new target. Is your backup ready?",
+      "description": "Ransomware groups are increasingly targeting backup infrastructure to eliminate recovery options and increase pressure on victims to pay. Kaseya explains why organizations need isolated, immutable, and regularly tested backups that attackers cannot easily rea\u2026",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/09/30/secure-backup-vault.jpg",
+      "publishedAt": "2026-10-07T14:01:11Z",
+      "content": "Ransomware is far less frightening when you know you can recover.\r\nThat\u2019s why threat actors are turning their attention to encrypting backups. They wipe recovery points and disrupt the infrastructure\u2026 [+7463 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "FortiBleed hit 86,000 firewalls by exploiting something nobody can patch away",
+      "description": "FBI and Secret Service warn FortiBleed, a credential-harvesting campaign against Fortinet firewalls, has compromised 86,644 devices and is locking out admins. The FBI and the U.S. Secret Service issued a joint advisory about FortiBleed, and the headline numbe\u2026",
+      "url": "https://securityaffairs.com/200558/cyber-crime/fortibleed-hit-86000-firewalls-by-exploiting-something-nobody-can-patch-away.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2019/11/fortinet-logo.jpg",
+      "publishedAt": "2026-10-07T13:49:39Z",
+      "content": "FortiBleed hit 86,000 firewalls by exploiting something nobody can patch away\r\nThe FBI and the U.S. Secret Service issued a joint advisory about FortiBleed, and the headline number alone is worth sit\u2026 [+4995 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Krebs on Security"
+      },
+      "author": "BrianKrebs",
+      "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
+      "description": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspec\u2026",
+      "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
+      "urlToImage": null,
+      "publishedAt": "2026-10-07T13:48:45Z",
+      "content": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of t\u2026 [+13083 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "info@thehackernews.com (The Hacker News)",
+      "title": "The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow",
+      "description": "The 2026 findings are not just a year-over-year shift. They mark the latest point in a five-year arc where resilience, AI governance, human risk, and board scrutiny are converging inside the systems where work actually happens.\n\nFor years, the enterprise cybe\u2026",
+      "url": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwlATRFpnJdFH1E6zK00EDXPizTTgy_gfddNnBMuBwwMsatfG5_PB-S_S9uGdDW-MuTX8HzGLataU3yDJ6MdkTBN8fwntNgZIIIy9ljbQLD-6Httyo9ouWJ7rF-KjfIKTn5rMSlBURgeV9JyIPZKDg4jWpd4I0vhCifCzisPojOQcCH_QEpWCvO8WmydA/s1700-nu-rw-lo-l85-e365/Proofpoint.png",
+      "publishedAt": "2026-10-07T11:57:05Z",
+      "content": "The 2026 findings are not just a year-over-year shift. They mark the latest point in a five-year arc where resilience, AI governance, human risk, and board scrutiny are converging inside the systems \u2026 [+9248 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "info@thehackernews.com (The Hacker News)",
+      "title": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials",
+      "description": "The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet FortiGate firewalls and secure socket layer (SSL) virtual \u2026",
+      "url": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQZeKQIcHTVLgqnHpZYN73YclFawl51QxpykrKEb97sAJjA8qtN7FaUJaS0jLMeSS29cTB0nR_yFzsITX_e5SI8Xa8BfM1LDOGsEEEpDmVC8YNqOcEYEuep1UbHovyLlxrwRmYZ3FrbaaKq9eKwICiUTkkPleIibOHdWnbV5cpwYPCrHQasrTxVFA9seQ-/s1700-nu-rw-lo-l85-e365/forti-admin.jpg",
+      "publishedAt": "2026-10-07T11:56:56Z",
+      "content": "The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortine\u2026 [+4207 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Healthsystemcio.com"
+      },
+      "author": "Anthony Guerra",
+      "title": "Health-ISAC Urges Validation of Restored Clinical Systems After June Cyber Exercise",
+      "description": "Getting EHR and device systems back online after a cyberattack can look like the end of recovery. A Health-ISAC exercise points to a longer checklist, plus two gaps downtime plans can leave open.\nSource: Health-ISAC Urges Validation of Restored Clinical Syste\u2026",
+      "url": "https://healthsystemcio.com/2026/10/07/cyber-recovery-validation-health-isac/",
+      "urlToImage": "https://healthsystemcio.com/wp-content/uploads/2026/05/report-200.png",
+      "publishedAt": "2026-10-07T11:43:45Z",
+      "content": "Health systems should define how they will validate restored clinical systems before the next cyber incident, Health-ISAC recommends in an after-action report published Oct. 5 on its 2026 Americas Ho\u2026 [+3551 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Sergiu Gatlan",
+      "title": "SonicWall warns of max severity SSRF flaw in SMA1000 gateways",
+      "description": "SonicWall has released hotfixes to address a maximum-severity server-side request forgery (SSRF) flaw in SMA1000 series appliances. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/10/07/SonicWall.jpg",
+      "publishedAt": "2026-10-07T11:37:07Z",
+      "content": "SonicWall has released hotfixes to address a maximum-severity server-side request forgery (SSRF) flaw in SMA1000 series appliances.\r\nTracked as CVE-2026-102255, the vulnerability was found in the App\u2026 [+2550 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsonjapan.com"
+      },
+      "author": "News On Japan",
+      "title": "Hackers Warn Japan Has One of World's Worst Cybersecurity",
+      "description": "The ransomware group Qilin, accused of carrying out repeated cyberattacks against companies including Asahi Group Holdings, has warned that attacks targeting Japanese companies and government agencies could increase after a suspected core member was detained \u2026",
+      "url": "https://newsonjapan.com/article/150983.php",
+      "urlToImage": "https://i2.ytimg.com/vi/kQD79J3a3lc/maxresdefault.jpg",
+      "publishedAt": "2026-10-07T11:22:49Z",
+      "content": "TOKYO -\r\n The ransomware group Qilin, accused of carrying out repeated cyberattacks against companies including Asahi Group Holdings, has warned that attacks targeting Japanese companies and governme\u2026 [+1944 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Aidan Radnedge",
+      "title": "'It looks like a hearse': Jaguar's new 'woke' \u00a3120,000 electric car sparks backlash from fans",
+      "description": "British actress Florence Pugh, new Jaguar brand ambassador,\u00a0featured at the unveiling of the British manufacturer's new Type 01 model at a New York event.",
+      "url": "https://www.dailymail.com/news/article-16189471/Jaguar-new-woke-electric-car-backlash.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/10/07/11/111701047-0-image-m-18_1791369211754.jpg",
+      "publishedAt": "2026-10-07T10:33:39Z",
+      "content": "Jaguar has launched its new \u00a3120,000 electric vehicle only to prompt a backlash from critics including claims the supposedly 'woke' car resembles a funeral hearse.\r\nBritish actress Florence Pugh, new\u2026 [+10381 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityweek.com"
+      },
+      "author": "Eduard Kovacs",
+      "title": "Anthropic Introduces 3-Tier Cyber Verification Program for AI Access",
+      "description": "Anthropic is integrating the CVP and Project Glasswing into a single offering, with three levels of access to its most capable AI models.\nThe post Anthropic Introduces 3-Tier Cyber Verification Program for AI Access appeared first on SecurityWeek.",
+      "url": "https://www.securityweek.com/anthropic-introduces-3-tier-cyber-verification-program-for-ai-access/",
+      "urlToImage": "https://www.securityweek.com/wp-content/uploads/2026/02/Anthropic-AI_Military.jpg",
+      "publishedAt": "2026-10-07T10:07:09Z",
+      "content": "Anthropic on Tuesday announced a revamped Cyber Verification Program (CVP), integrating the CVP and Project Glasswing into a single offering, with three levels of access to its most capable AI models\u2026 [+3299 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Anthropic Creates Three Tiers for Claude Cyber Access",
+      "description": "Anthropic created three access tiers for Claude\u2019s offensive security use, matching cyber capabilities and safeguards to the user\u2019s level of trust. Anthropic is trying to solve the difficult balance between using AI for cybersecurity and preventing misuse. The\u2026",
+      "url": "https://securityaffairs.com/200521/ai/anthropic-creates-three-tiers-for-claude-cyber-access.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2026/10/image-16.png",
+      "publishedAt": "2026-10-07T10:06:28Z",
+      "content": "Anthropic Creates Three Tiers for Claude Cyber Access\r\nAnthropic is trying to solve the difficult balance between using AI for cybersecurity and preventing misuse. The same model that helps security \u2026 [+4656 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Talosintelligence.com"
+      },
+      "author": "Jerzy \u2018Yuri\u2019 Kramarz",
+      "title": "One breach, please, and make no mistakes",
+      "description": "The cybersecurity community has seen examples of autonomous agents, built inside AI labs, attacking public infrastructure. How you prepare for agentic threats is what makes the difference during real incidents.",
+      "url": "https://blog.talosintelligence.com/one-breach-please-and-make-no-mistakes/",
+      "urlToImage": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/10/OneBreachPlease-BlogHeader.jpg",
+      "publishedAt": "2026-10-07T10:00:25Z",
+      "content": "For some time now, the cybersecurity community has seen examples of autonomous agents, built inside AI labs, attacking public infrastructure (to name a few, Hugging Face\r\n, DSEWiki\r\n, and RubyGems\r\n)\u2026 [+8112 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Help Net Security"
+      },
+      "author": "Anamarija Pogorelec",
+      "title": "Anthropic loosens Claude\u2019s cyber restrictions for verified defenders",
+      "description": "Anthropic expanded its Cyber Verification Program (CVP), giving approved security professionals access to advanced Claude capabilities with fewer automated blocks on work such as malware analysis and vulnerability testing. Three tiers for cybersecurity work T\u2026",
+      "url": "https://www.helpnetsecurity.com/2026/10/07/anthropic-expands-cyber-verification-program/",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2026/10/07102628/anthropic-computer-1500.webp",
+      "publishedAt": "2026-10-07T09:00:20Z",
+      "content": "Anthropic expanded its Cyber Verification Program (CVP), giving approved security professionals access to advanced Claude capabilities with fewer automated blocks on work such as malware analysis and\u2026 [+4277 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "iTnews"
+      },
+      "author": null,
+      "title": "Unpatched server behind Vic student data breach",
+      "description": "Departmental oversight and systems also criticised.",
+      "url": "https://www.itnews.com.au/news/unpatched-server-behind-vic-student-data-breach-629494",
+      "urlToImage": "https://i.nextmedia.com.au/News/classroom_school.jpg",
+      "publishedAt": "2026-10-07T07:38:34Z",
+      "content": "A major Victorian Education data breach disclosed at the start of this year was caused by a school that delayed patching a critical server vulnerability, as well as central oversight weaknesses.\r\nUnk\u2026 [+2886 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityweek.com"
+      },
+      "author": "Ionut Arghire",
+      "title": "Atlassian Patches Critical Vulnerability Affecting 8 Products",
+      "description": "Unauthenticated attackers could exploit the flaw to access specific files in the web application root directory.\nThe post Atlassian Patches Critical Vulnerability Affecting 8 Products appeared first on SecurityWeek.",
+      "url": "https://www.securityweek.com/atlassian-patches-critical-vulnerability-affecting-8-products/",
+      "urlToImage": "https://www.securityweek.com/wp-content/uploads/2025/12/Atlassian.jpg",
+      "publishedAt": "2026-10-07T06:37:16Z",
+      "content": "Atlassian has rolled out patches for a critical-severity vulnerability that impacts all versions of eight of its products.\r\nThe security defect, tracked as CVE-2026-21589 (CVSS score of 9.3), is desc\u2026 [+2741 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Edison Reed",
+      "title": "Six Lighting Options for Power Outages, EMP Events",
+      "description": "A report published by Survival Sullivan states that electromagnetic pulses (EMP), whether caused by solar flares or man-made sources, can disable electronics and the power grid, and that Faraday cages may protect devices [1][2]. The article, titled \u201c6 Ways to\u2026",
+      "url": "https://www.naturalnews.com/2026-10-07-six-lighting-options-power-outages-emp-events.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/power-outages-emp-events-faraday-cages-4569-original.jpg",
+      "publishedAt": "2026-10-07T06:00:00Z",
+      "content": "A report published by Survival Sullivan states that electromagnetic pulses (EMP), whether caused by solar flares or man-made sources, can disable electronics and the power grid, and that Faraday cage\u2026 [+7490 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNA"
+      },
+      "author": null,
+      "title": "Singapore government running trials to understand how to implement AI agents responsibly: Tan Kiat How",
+      "description": "The government is reviewing and strengthening its frameworks to account for increasingly autonomous agentic AI systems, said\u00a0Senior Minister of State for Digital Development and Information Tan Kiat How.",
+      "url": "https://www.channelnewsasia.com/singapore/ai-agents-safety-mddi-tan-kiat-how-parliament-6438106",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--56qVBYYk--/c_crop,h_1193,w_2121,x_1,y_111/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/05/06/istock-2197955227.jpg?itok=z5dwWkiB",
+      "publishedAt": "2026-10-07T04:51:00Z",
+      "content": "The safe use of frontier AI models is an issue being tackled globally, as AI labs face mounting scrutiny over rogue activity.\r\nA string of high-profile breaches by AI agents in recent months has spar\u2026 [+2112 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "InfoQ.com"
+      },
+      "author": "Steef-Jan Wiggers",
+      "title": "Spanner Omni Reaches GA, Replacing Google's Atomic Clocks and File System with Software",
+      "description": "Google has made Spanner Omni generally available, running its distributed SQL database on-premises, across clouds or on a laptop. Doing so meant replacing Colossus with a Colossus-like abstraction layer and TrueTime with software-based time synchronization. T\u2026",
+      "url": "https://www.infoq.com/news/2026/10/spanner-omni-deploy-anywhere-ga/",
+      "urlToImage": "https://res.infoq.com/news/2026/10/spanner-omni-deploy-anywhere-ga/en/headerimage/generatedHeaderImage-1791038786495.jpg",
+      "publishedAt": "2026-10-07T04:43:00Z",
+      "content": "Google has made Spanner Omni generally available, a deploy-anywhere version of its distributed SQL database that runs in a customer's own data center, on other clouds, or on a laptop. Getting Spanner\u2026 [+6097 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "InfoQ.com"
+      },
+      "author": "Steef-Jan Wiggers",
+      "title": "Spanner Omni Reaches GA, Replacing Google's Atomic Clocks and File System with Software",
+      "description": "Google has made Spanner Omni generally available, running its distributed SQL database on-premises, across clouds or on a laptop. Doing so meant replacing Colossus with a Colossus-like abstraction layer and TrueTime with software-based time synchronization. T\u2026",
+      "url": "https://www.infoq.com/news/2026/10/spanner-omni-deploy-anywhere-ga/",
+      "urlToImage": "https://res.infoq.com/news/2026/10/spanner-omni-deploy-anywhere-ga/en/headerimage/generatedHeaderImage-1791038786495.jpg",
+      "publishedAt": "2026-10-07T04:43:00Z",
+      "content": "Google has made Spanner Omni generally available, a deploy-anywhere version of its distributed SQL database that runs in a customer's own data center, on other clouds, or on a laptop. Getting Spanner\u2026 [+6097 chars]"
+    }
+  ]
+}

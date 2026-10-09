@@ -1,0 +1,49 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "The Associated Press",
+      "title": "A British man is bailed after his arrest in security incident at a US-run military base in England",
+      "description": "Authorities have released a 22-year-old British man on bail after his arrest on suspicion of plotting a terror attack at a U.S.-run military air base in England",
+      "url": "https://abcnews.com/International/wireStory/british-man-bailed-after-arrest-security-incident-us-137089017",
+      "urlToImage": "https://i.abcnewsfe.com/a/1aceb64d-7632-4ba7-a05e-37df8473f8de/wirestory_348eda57abd7554ce7b9924afecc530d_16x9.jpg?w=1600",
+      "publishedAt": "2026-10-08T10:49:13Z",
+      "content": "LONDON -- A 22-year-old British man arrested on suspicion of plotting a terror attack following a security incident at a U.S.-run military air base in England has been released on bail, authorities s\u2026 [+1805 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "flagship-ir-il"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hurriyet Daily News"
+      },
+      "author": "hurriyetdailynews.com",
+      "title": "Experts warn of \u2018social contagion\u2019 risk after school attacks",
+      "description": "A series of school attacks in T\u00fcrkiye has raised concerns over a potential \u201csocial contagion\u201d effect, with experts warning that extensive media coverage and social media exposure could encourage copycat violence, particularly among vulnerable young people.",
+      "url": "https://www.hurriyetdailynews.com/experts-warn-of-social-contagion-risk-after-school-attacks-227823",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6ac5ff70983ec8bbc1175700.jpg",
+      "publishedAt": "2026-10-07T08:16:21Z",
+      "content": "ISTANBUL\r\nThis photo shows eyh amil Imam Hatip Middle School, where the Oct. 6 school attack happened.\r\nA series of school attacks in T\u00fcrkiye has raised concerns over a potential socialcontagion effe\u2026 [+3209 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T04"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Yemen\u2019s government needs tribes to defeat the Houthis. Will they join?",
+      "description": "Yemen's tribes could prove crucial to government's fight against the Houthis, but many may wait before choosing sides.",
+      "url": "https://www.aljazeera.com/news/2026/10/8/yemens-government-needs-tribes-to-defeat-the-houthis-will-they-join",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac6a2bbbc74b-1791402683.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-08T06:50:08Z",
+      "content": "Sanaa, Yemen \u00a0The Yemeni governments new military offensive against the Houthis is testing more than the balance of forces in the country it is also testing whether the government can persuade powerf\u2026 [+6067 chars]",
+      "cocom": "USCENTCOM",
+      "_original_topic_id": "T05"
+    }
+  ]
+}

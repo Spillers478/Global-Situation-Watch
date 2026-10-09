@@ -1,0 +1,130 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "author": "Ana-Maria Stanciuc",
+      "title": "Swiss prosecutors investigate data leak at federal pension fund Publica",
+      "description": "Publica, the pension fund that provides pensions for staff of the Swiss federal government, has confirmed today that a data leak occurred as a result of a cyberattack on one of its external software suppliers. The Swiss government stated that the supplier dis\u2026",
+      "url": "https://thenextweb.com/news/publica-swiss-pension-fund-data-leak-supplier",
+      "urlToImage": "https://media.thenextweb.com/2026/10/hooded-figure-typing-keyboard-dark.jpg",
+      "publishedAt": "2026-10-08T09:10:28Z",
+      "content": "Publica, the pension fund that provides pensions for staff of the Swiss federal government, has confirmed today that a data leak occurred as a result of a cyberattack on one of its external software \u2026 [+2775 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forkast.news"
+      },
+      "author": "Heath Callahan",
+      "title": "Cisco Firewall Management Center Has Two CVSS 10.0 Unauthenticated RCEs \u2014 Interlock Ransomware Exploited One as Zero-Day",
+      "description": "Two critical, unauthenticated remote code execution vulnerabilities in the Cisco Secure Firewall Management Center carry CVSS scores of 10.0. Both allow attackers to gain root access to the system that configures and manages the enterprise security perimeter \u2026",
+      "url": "https://forkast.news/cisco-firewall-management-center-has-two-cvss-10-0-unauthenticated-rces-interlock-ransomware-exploited-one-as-zero-day/",
+      "urlToImage": "https://forkast.news/wp-content/uploads/2026/10/cisco-fmc-cve-2026-20131-20079-v2-1024x572.jpg",
+      "publishedAt": "2026-10-08T06:27:51Z",
+      "content": "Two critical, unauthenticated remote code execution vulnerabilities in the Cisco Secure Firewall Management Center carry CVSS scores of 10.0. Both allow attackers to gain root access to the system th\u2026 [+3572 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "author": "Rob Pegoraro",
+      "title": "Former NSA Director Has His Eye on China, Data Center Pushback",
+      "description": "'We may have some problems with data centers,' Paul Nakasone admits, but 'we're going to need them' in the cybersecurity fight against China, Russia, and Iran.\nA veteran Washington operator\u2019s keynote at a cybersecurity conference served as a reminder that som\u2026",
+      "url": "https://me.pcmag.com/en/security/38270/former-nsa-director-has-his-eye-on-china-data-center-pushback",
+      "urlToImage": "https://sm.pcmag.com/t/pcmag_me/news/f/former-nsa/former-nsa-director-has-his-eye-on-china-data-center-pushbac_pqj1.1200.jpg",
+      "publishedAt": "2026-10-08T04:29:50Z",
+      "content": "A veteran Washington operators keynote at a cybersecurity conference served as a reminder that some of the fields hardest problems involve people, not programs.\r\nWe're dealing with a new tempo that i\u2026 [+5589 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "author": "Rob Pegoraro",
+      "title": "Former NSA Director Has His Eye on China, Data Center Pushback",
+      "description": "'We may have some problems with data centers,' Paul Nakasone admits, but 'we're going to need them' in the cybersecurity fight against China, Russia, and Iran.\nA veteran Washington operator\u2019s keynote at a cybersecurity conference served as a reminder that som\u2026",
+      "url": "https://uk.pcmag.com/ai/167767/former-nsa-director-has-his-eye-on-china-data-center-pushback",
+      "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/news/f/former-nsa/former-nsa-director-has-his-eye-on-china-data-center-pushbac_8frd.1200.jpg",
+      "publishedAt": "2026-10-07T18:06:32Z",
+      "content": "A veteran Washington operators keynote at a cybersecurity conference served as a reminder that some of the fields hardest problems involve people, not programs.\r\nWe're dealing with a new tempo that i\u2026 [+4985 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsonjapan.com"
+      },
+      "author": "News On Japan",
+      "title": "Cyberattacks on Japanese Companies Expose Structural Weaknesses",
+      "description": "Japan is entering a more difficult phase in its cybersecurity challenge, as a succession of major data breaches and ransomware attacks exposes weaknesses not only in corporate IT systems but also in supplier networks, governance structures and operational res\u2026",
+      "url": "https://newsonjapan.com/article/150988.php",
+      "urlToImage": "https://i2.ytimg.com/vi/V9ceswvfw4Y/maxresdefault.jpg",
+      "publishedAt": "2026-10-07T15:22:02Z",
+      "content": "TOKYO -\r\n Japan is entering a more difficult phase in its cybersecurity challenge, as a succession of major data breaches and ransomware attacks exposes weaknesses not only in corporate IT systems bu\u2026 [+15276 chars]",
+      "cocom": "USINDOPACOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "FortiBleed hit 86,000 firewalls by exploiting something nobody can patch away",
+      "description": "FBI and Secret Service warn FortiBleed, a credential-harvesting campaign against Fortinet firewalls, has compromised 86,644 devices and is locking out admins. The FBI and the U.S. Secret Service issued a joint advisory about FortiBleed, and the headline numbe\u2026",
+      "url": "https://securityaffairs.com/200558/cyber-crime/fortibleed-hit-86000-firewalls-by-exploiting-something-nobody-can-patch-away.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2019/11/fortinet-logo.jpg",
+      "publishedAt": "2026-10-07T13:49:39Z",
+      "content": "FortiBleed hit 86,000 firewalls by exploiting something nobody can patch away\r\nThe FBI and the U.S. Secret Service issued a joint advisory about FortiBleed, and the headline number alone is worth sit\u2026 [+4995 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Krebs on Security"
+      },
+      "author": "BrianKrebs",
+      "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
+      "description": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspec\u2026",
+      "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
+      "urlToImage": null,
+      "publishedAt": "2026-10-07T13:48:45Z",
+      "content": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of t\u2026 [+13083 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "info@thehackernews.com (The Hacker News)",
+      "title": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials",
+      "description": "The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet FortiGate firewalls and secure socket layer (SSL) virtual \u2026",
+      "url": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQZeKQIcHTVLgqnHpZYN73YclFawl51QxpykrKEb97sAJjA8qtN7FaUJaS0jLMeSS29cTB0nR_yFzsITX_e5SI8Xa8BfM1LDOGsEEEpDmVC8YNqOcEYEuep1UbHovyLlxrwRmYZ3FrbaaKq9eKwICiUTkkPleIibOHdWnbV5cpwYPCrHQasrTxVFA9seQ-/s1700-nu-rw-lo-l85-e365/forti-admin.jpg",
+      "publishedAt": "2026-10-07T11:56:56Z",
+      "content": "The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortine\u2026 [+4207 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsonjapan.com"
+      },
+      "author": "News On Japan",
+      "title": "Hackers Warn Japan Has One of World's Worst Cybersecurity",
+      "description": "The ransomware group Qilin, accused of carrying out repeated cyberattacks against companies including Asahi Group Holdings, has warned that attacks targeting Japanese companies and government agencies could increase after a suspected core member was detained \u2026",
+      "url": "https://newsonjapan.com/article/150983.php",
+      "urlToImage": "https://i2.ytimg.com/vi/kQD79J3a3lc/maxresdefault.jpg",
+      "publishedAt": "2026-10-07T11:22:49Z",
+      "content": "TOKYO -\r\n The ransomware group Qilin, accused of carrying out repeated cyberattacks against companies including Asahi Group Holdings, has warned that attacks targeting Japanese companies and governme\u2026 [+1944 chars]",
+      "cocom": "USINDOPACOM"
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Reuters",
+      "title": "Russian bus stop bombing kills at least 33 in Ukraine",
+      "description": "Another 18 people were wounded in one of the largest single attacks this year.",
+      "url": "https://nypost.com/2026/10/08/world-news/russian-bomb-kills-33-after-strike-on-buses-in-ukraine/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/144220399.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-10-08T11:06:22Z",
+      "content": "A Russian bomb attack on the eastern Ukrainian city of Kramatorsk killed at least 33 people, authorities said on Thursday, describing it as a targeted strike on civilians in the key stronghold sought\u2026 [+2307 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Radio Free Europe/ Radio Liberty"
+      },
+      "author": "Serhiy Horbatenko, RFE/RL's Ukrainian Service",
+      "title": "Dozens Killed In Russian Strike On Passenger Buses In Kramatorsk",
+      "description": "Dozens of people were killed in a Russian strike on the Ukrainian city of Kramatorsk on October 8, according to local authorities, a day after another deadly barrage killed at least 25 people across Ukraine.",
+      "url": "https://www.rferl.org/a/dozens-killed-in-russian-strike-on-ukraine/33872781.html",
+      "urlToImage": "https://gdb.rferl.org/e63c0f34-9ab9-4e36-4417-08df13a884cb_cx0_cy16_cw0_w1200_h630.jpg",
+      "publishedAt": "2026-10-08T11:04:33Z",
+      "content": "KRAMATORSK, Ukraine -- Dozens of people were killed in a Russian strike on the Ukrainian city of Kramatorsk on October 8, according to local authorities, a day after another deadly barrage killed at \u2026 [+3253 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Somayeh Malekian, Fidel Pavlenko",
+      "title": "At least 35 killed in Russian attacks on Ukraine, officials say",
+      "description": "A passenger bus was struck in Kramatorsk, in the Donetsk region, officials said.",
+      "url": "https://abcnews.com/International/35-killed-russian-attacks-ukraine-officials/story?id=137089920",
+      "urlToImage": "https://i.abcnewsfe.com/a/d28c226b-f9d6-4cf2-9090-6d7ce15f588c/ukraine-main_1791455532639_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-10-08T10:55:10Z",
+      "content": "LONDON and LVIV, Ukraine -- At least 35 people were killed and over 30 others were injured across Ukraine in Russian attacks on the country overnight and into Thursday morning, according to Ukrainian\u2026 [+1082 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DW (English)"
+      },
+      "author": "Mark Hallam",
+      "title": "South Korea recalls Ukraine ambassador amid POW dispute",
+      "description": "South Korea has said it will recall its ambassador to Ukraine. Seoul is upset about a transfer of North Korean prisoners of war being made public knowledge at the UN and had demanded \u2014 but not received \u2014 an apology. South Korea said on Thursday that it would \u2026",
+      "url": "https://www.dw.com/en/south-korea-recalls-ukraine-ambassador-amid-pow-dispute/a-79590511",
+      "urlToImage": "https://static.dw.com/image/79403749_6.jpg",
+      "publishedAt": "2026-10-08T10:55:00Z",
+      "content": "South Korea said on Thursday that it would recall its ambassador to Ukraine amid a deepening diplomatic rift over making the transfer of North Korean prisoners of war to Seoul public last month.\u00a0\r\nTh\u2026 [+3223 chars]",
+      "cocom": "USINDOPACOM"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Yuliya Talmazan",
+      "title": "At least 30 people feared killed in Russian bus bombing in Ukraine",
+      "description": "A bomb killed at least 30 people on a bus in the eastern Ukrainian city of Kramatorsk Thursday, authorities said, amid intensifying Russian attacks throughout the country.",
+      "url": "https://www.nbcnews.com/world/europe/30-people-feared-dead-bus-attack-eastern-ukraine-rcna602247",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261008-kramatorsk-bus-mb-1139-ec89ed.jpg",
+      "publishedAt": "2026-10-08T10:53:53Z",
+      "content": "A bomb killed at least 30 people on a bus in the eastern Ukrainian city of Kramatorsk Thursday, authorities said, amid intensifying Russian attacks throughout the country.\r\nAnother 18 people were wou\u2026 [+1025 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Sabrina Penty",
+      "title": "Horror as buses are destroyed by Russian strike, killing at least 30 passengers in Ukrainian frontline town",
+      "description": "At least 30 people have been killed in Ukraine after Russia struck two passenger buses.",
+      "url": "https://www.dailymail.com/news/article-16192781/buses-destroyed-Russian-strike-killing-30-passengers-Ukraine.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/10/08/11/111727389-0-image-a-17_1791456100096.jpg",
+      "publishedAt": "2026-10-08T10:49:18Z",
+      "content": "At least 30 people have been killed in Ukraine after Russia struck two passenger buses.\u00a0\r\nDozens more were injured on Thursday morning after the vehicles were hit with a glide bomb in Kramatorsk, nea\u2026 [+3300 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "AFP",
+      "title": "Russian strike on buses kills 30 people in frontline Ukrainian city",
+      "description": "Police said the buses were hit with a glide bomb (Handout)\r\nUkraine on Thursday accused Russia of deliberately targeting civilians after 30 people were killed when two buses were blown up in the frontline city of Kramatorsk, in one of the deadliest single att\u2026",
+      "url": "https://www.yahoo.com/news/world/articles/russian-strike-buses-kills-30-104611850.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/2018b3d09b3eaa3bac73f0407b8df82729041592ad894e53b6b01099667babd1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F4c5544d886f39f09a02de4d90b5bc72c.jpg",
+      "publishedAt": "2026-10-08T10:46:11Z",
+      "content": "Ukraine on Thursday accused Russia of deliberately targeting civilians after 30 people were killed when two buses were blown up in the frontline city of Kramatorsk, in one of the deadliest single att\u2026 [+3261 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": null,
+      "title": "Breaking: Russian strike on Ukrainian bus stop kills 33",
+      "description": "More than 30 people were killed when Russia struck two passenger buses in Kramatorsk, near the frontline in eastern Ukraine.",
+      "url": "https://www.abc.net.au/news/2026-10-08/ukraine-russia-bus-stop-strike-attack-bomb/107245320",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/ba836fba5f511992e1c6a7a7855d6eeb?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=288&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-10-08T10:40:02Z",
+      "content": "A Russian bomb attack on a bus stop in the eastern Ukrainian city of Kramatorsk has killed at least 33 people, authorities say.\r\nAnother 18 people were wounded in the attack on Thursday, local time, \u2026 [+1130 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "Russian attack on Ukraine\u2019s Kramatorsk kills at least 12 people",
+      "description": "Fourteen people were wounded in the Russian strike on city in eastern Ukraine's Donetsk region, local authorities say.",
+      "url": "https://www.aljazeera.com/news/2026/10/8/russia-attack-in-ukraines-kramatorsk-kills-12",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac75f503947-1791450960.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-10-08T10:31:42Z",
+      "content": "A Russian attack on a bus has killed at least 12 people and wounded 14 others in eastern Ukraines city of Kramatorsk, near the front line, authorities said.\r\nAccording to preliminary data, 12 people \u2026 [+2546 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gossiplankanews.com"
+      },
+      "author": "noreply@blogger.com (Unknown)",
+      "title": "Children in Ukraine killed to celebrate Putin's birthday",
+      "description": "At least 24 civilians, including four young children, have been killed in a series of massive Russian drone and missile attacks on Ukraine on the day of Russian President Vladimir Putin's 74th birthday. These attacks occurred during the night in several regio\u2026",
+      "url": "https://english.gossiplankanews.com/2026/10/children-in-ukraine-killed-to-celebrate.html",
+      "urlToImage": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tPG8iTEGcWkheqnVy94xrbv_I9FQ1N_A2B7qzt0pVsDdyvYwGNA1CDcx43A3rDw3q-JGZibvWATMK25P42fxzXdDosWuSHhdspRFlZgLX5c1yWCBsMxfjYK-PUUJoc5Z9O48Y8WtFqfuWi7OBBmTVIR0orIIh-83QwTHM=w1600",
+      "publishedAt": "2026-10-08T10:30:47Z",
+      "content": "At least 24 civilians, including four young children, have been killed in a series of massive Russian drone and missile attacks on Ukraine on the day of Russian President Vladimir Putin's 74th birthd\u2026 [+1350 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DW (English)"
+      },
+      "author": "Richard Connor",
+      "title": "Ukraine says 30 killed, 18 wounded in Russian attack on passenger buses in Kramatorsk",
+      "description": "Authorities in the eastern Ukrainian city of Kramatorsk have suspended public transport following the deadly attack near the front line.",
+      "url": "https://www.dw.com/en/ukraine-says-30-killed-18-wounded-in-russian-attack-on-passenger-buses-in-kramatorsk/a-79592331",
+      "urlToImage": "https://static.dw.com/image/60539306_6.jpg",
+      "publishedAt": "2026-10-08T10:30:00Z",
+      "content": "A Russian strike on two passenger buses in the eastern Ukrainian city of Kramatorsk has killed at least 30 people and wounded 18 others, local authorities said on Thursday.\r\nThe Donetsk regional pros\u2026 [+1707 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "AP",
+      "title": "Ukraine faces a shortage of troops to relieve tired fighters at the front",
+      "description": "Ukraine is struggling with a shortage of combat-ready troops as the war with Russia enters its fifth year. While Ukraine has advanced drone technology, the lack of personnel restricts the exploitation of these innovations. Military officials report that many \u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/ukraines-military-crisis-facing-acute-troop-shortages-amidst-ongoing-war-with-russia/articleshow/134787257.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134787255,width-1200,height-900,imgsize-113970,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-08T10:26:00Z",
+      "content": "KYIV, Ukraine: Ukraine's advances in drone technology and tactics have captured the world's attention. Despite those innovations, one problem has plagued the country since the start of Russia's invas\u2026 [+7466 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Insurance Journal"
+      },
+      "author": "Admin",
+      "title": "Drones Hit Yandex Site in First Major Attack on Russian Data Hub",
+      "description": "Drones hit a data center owned by Russia\u2019s Yandex, the country\u2019s leading AI and technology company said on Thursday, in the first major attack on a Russian data hub since the start of the war with Ukraine. Mutual drone attacks \u2026",
+      "url": "https://www.insurancejournal.com/news/international/2026/10/08/888395.htm",
+      "urlToImage": "https://www.insurancejournal.com/app/uploads/2026/10/logo-of-russian-IT-company-yandex-275326172-Depositphotos-scaled.jpg",
+      "publishedAt": "2026-10-08T10:25:48Z",
+      "content": "Drones hit a data center owned by Russia\u2019s Yandex, the country\u2019s leading AI and technology company said on Thursday, in the first major attack on a Russian data hub since the start of the war with Uk\u2026 [+2592 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hurriyet Daily News"
+      },
+      "author": "hurriyetdailynews.com",
+      "title": "Russian strike on buses kills 12 in Kramatorsk",
+      "description": "At least 12 people were killed and 14 others wounded on Oct. 8 when Russia struck two passenger buses in Kramatorsk near the frontline in eastern Ukraine, authorities said.",
+      "url": "https://www.hurriyetdailynews.com/russian-strike-on-buses-kills-12-in-kramatorsk-227876",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6ac76ece84171e7ac62f8a1a.jpg",
+      "publishedAt": "2026-10-08T10:24:28Z",
+      "content": "KIEV\r\nThis handout photograph taken and released by the Ukrainian State Emergency Service, shows a rescuer continuing to conduct search and rescue operations at the site of a Russian air strike on a \u2026 [+1625 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Olivia Ireland",
+      "title": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
+      "description": "Ukraine accused Russia of targeting the crowded bus in the frontline city to kill as many civilians as possible.",
+      "url": "https://www.bbc.com/news/articles/c875pwq134l3o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0a5b/live/25d71060-c2fa-11f1-b8c6-6d610e41a5d9.jpg",
+      "publishedAt": "2026-10-08T10:16:33Z",
+      "content": "Given the sharp deterioration of security in the two neighbouring cities, he said all public transport had been ordered to stop. The safety of civilians was paramount, and \"we have no right to risk t\u2026 [+44 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Olivia Ireland",
+      "title": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
+      "description": "Ukraine accused Russia of targeting the crowded bus in the frontline city to kill as many civilians as possible.",
+      "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0a5b/live/25d71060-c2fa-11f1-b8c6-6d610e41a5d9.jpg",
+      "publishedAt": "2026-10-08T10:16:33Z",
+      "content": "Thirty-three people have been killed in a Russian glide bomb attack on two civilian buses in the frontline city of Kramatorsk, rescue officials say.\r\nAnother 18 people were wounded, said Donetsk regi\u2026 [+1875 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
+      "description": "It is the latest in a diplomatic spat after Kyiv disclosed that two North Korean prisoners were transferred to Seoul.",
+      "url": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f15e/live/fb9d5240-c2fa-11f1-b8c6-6d610e41a5d9.jpg",
+      "publishedAt": "2026-10-08T09:56:02Z",
+      "content": "Zelensky had revealed the transfer at a speech at the UN General Assembly in September, adding that the two North Koreans had not been \"easy to capture alive\".\r\nIt prompted a swift condemnation from \u2026 [+2182 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": "rte",
+        "name": "RTE"
+      },
+      "author": "RT\u00c9 News",
+      "title": "At least 30 killed in Russian strike on Ukrainian city",
+      "description": "Thirty people were killed when Russia struck two passenger buses in Kramatorsk, near the frontline in eastern Ukraine, local authorities have said.",
+      "url": "https://www.rte.ie/news/ukraine/2026/1008/1594534-ukraine-russia/",
+      "urlToImage": "https://www.rte.ie/images/002523a4-1600.jpg",
+      "publishedAt": "2026-10-08T09:50:05Z",
+      "content": "A Russian bomb attack on the embattled eastern Ukrainian city of Kramatorsk killed at least 30 people, authorities said, the latest strike on a key stronghold coveted by Moscow.\r\nAnother 18 people we\u2026 [+1001 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Www.gov.uk"
+      },
+      "author": "Foreign, Commonwealth & Development Office",
+      "title": "Russia\u2019s attacks on Ukraine\u2019s civilian infrastructure: UK statement to the OSCE",
+      "description": "UK Charg\u00e9 d\u2019Affaires, Deputy Ambassador James Ford condemns Russia\u2019s intensifying attacks on Ukraine\u2019s civilian infrastructure and rejects Russia\u2019s attempts to distract. Russia must comply with international humanitarian law, accept an immediate ceasefire and\u2026",
+      "url": "https://www.gov.uk/government/speeches/russias-attacks-on-ukraines-civilian-infrastructure-uk-statement-to-the-osce",
+      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "publishedAt": "2026-10-08T09:48:34Z",
+      "content": "Thank you, Mr Chair.\r\nRussias intensifying attacks are degrading the infrastructure that sustains civilian life in Ukraine and inflicting mounting hardship on millions of Ukrainians. Russias rhetoric\u2026 [+3408 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Associated Press",
+      "title": "Ukraine death toll hits 22 as rescuers pull bodies from rubble after Russian strike",
+      "description": "\u201cThis is the kind of \u2018gift\u2019 Putin gave himself for his birthday,\u201d Zelensky said in a nightly video address.",
+      "url": "https://nypost.com/2026/10/08/world-news/ukraine-death-toll-hits-22-as-rescuers-pull-bodies-from-rubble-after-russian-strike/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/144212155.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-10-08T09:35:27Z",
+      "content": "Rescuers searched through the rubble of a residential building hit by a Russian missile in the northern Ukrainian town of Pryluky on Thursday as the death toll rose to 22, including five children, Uk\u2026 [+2216 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": "HuffPost",
+      "title": "U.S., Russia Explore Gas Sale To Europe Amid Ukraine War: Reuters",
+      "description": "The discussions included Kirill Dmitriev, a close adviser to Vladimir Putin, and Jared Kushner, Donald Trump\u2019s son-in-law, according to sources.",
+      "url": "https://www.huffpost.com/entry/us-russia-explore-gas-sale-to-europe_n_6ac75aafe4b01d1704f7a358",
+      "urlToImage": "https://img.huffingtonpost.com/asset/6ac75bb41c0000d787960d04.jpeg?cache=9jfFwzhIbV&ops=1200_630",
+      "publishedAt": "2026-10-08T09:05:56Z",
+      "content": "BERLIN/WASHINGTON, Oct 8 (Reuters) - Top Russian and U.S officials, including U.S. Special Envoy Jared Kushner, have held talks about bringing a U.S. investor into the Nord Stream pipelines that deli\u2026 [+6036 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Protothema.gr"
+      },
+      "author": "Newsroom",
+      "title": "Reuters: Washington discussed with Moscow possible involvement in the Nord Stream project",
+      "description": "Kushner and Dmitriev discussed the possibility of a U.S. investor becoming involved in the Nord Stream pipelines, through which natural gas was transported from Russia to Europe \u2014 The obstacles to restarting the pipelines\nThe post Reuters: Washington discusse\u2026",
+      "url": "https://en.protothema.gr/2026/10/08/reuters-washington-discussed-with-moscow-possible-involvement-in-the-nord-stream-project/",
+      "urlToImage": "https://en.protothema.gr/wp-content/uploads/2026/10/nordstream-m2.webp",
+      "publishedAt": "2026-10-08T08:58:00Z",
+      "content": "The possibility of a U.S. investor participating in the Nord Stream pipelines, through which Russian natural gas was transported to Germany before Russias invasion of Ukraine, has reportedly been dis\u2026 [+5796 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Bloomberg",
+      "title": "Domestic refiners shun costly Russian oil as West Asia flows recover",
+      "description": "Surging prices for Russia's flagship Urals crude loaded in the Baltic, a mainstay for Indian refiners, are driving the pullback",
+      "url": "https://www.business-standard.com/economy/news/domestic-refiners-shun-costly-russian-oil-as-west-asia-flows-recover-126100800677_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/08/thumb/featurecrop/1200X628/1791449679-5436.jpg",
+      "publishedAt": "2026-10-08T08:55:15Z",
+      "content": "Surging prices for Russia's flagship Urals crude loaded in the Baltic, a mainstay for Indian refiners, are driving the pullback\r\nRefiners in the worlds third-biggest oil importer were already cutting\u2026 [+3252 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "HYUNG-JIN KIM Associated Press",
+      "title": "South Korea to recall its ambassador to Ukraine over North Korean POW dispute",
+      "description": "South Korea says it will recall its ambassador to Ukraine, stepping up its protest of Ukraine President Volodymyr Zelenskyy\u2019s recent revelation of a supposedly secret transfer of two North Korean prisoners of war to South Korea",
+      "url": "https://abcnews.com/International/wireStory/south-korea-recall-ambassador-ukraine-north-korean-pow-137089285",
+      "urlToImage": "https://i.abcnewsfe.com/a/17ada153-66d5-47a6-9d26-39f0e026292e/wirestory_3c4e595f5e603ecd0d7438c000d392cb_16x9.jpg?w=1600",
+      "publishedAt": "2026-10-08T10:29:26Z",
+      "content": "SEOUL, South Korea -- South Korea said Thursday it will recall its ambassador to Ukraine, stepping up its protest against Ukrainian President Volodymyr Zelenskyys recent revelation of a supposedly se\u2026 [+2715 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sputnikglobe.com"
+      },
+      "author": "Sputnik International",
+      "title": "Ukrainian Conflict Requires Comprehensive Solution - Kremlin",
+      "description": "MOSCOW (Sputnik) - The Ukrainian conflict requires a comprehensive solution, fragmented agreements will not lead to peace, Kremlin spokesman Dmitry Peskov said on Thursday.",
+      "url": "https://sputnikglobe.com/20261008/ukrainian-conflict-requires-comprehensive-solution---kremlin-1124851127.html",
+      "urlToImage": "https://cdn.imgsputnikglobe.com/images/sharing/article/eng/1124851127.jpg?11244492711791448937",
+      "publishedAt": "2026-10-08T08:42:16Z",
+      "content": "Get the latest news from around the world, live coverage, off-beat stories, features and analysis.\r\nhttps://sputnikglobe.com/20261008/ukrainian-conflict-requires-comprehensive-solution---kremlin-1124\u2026 [+4295 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T07"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thenation.com"
+      },
+      "author": "Stephen Crowley",
+      "title": "Are Europe and Russia Slow-Walking to World War III?",
+      "description": "Stephen Crowley\n\n\n\nDangerous rhetoric has been escalating on both sides for some time now.\r\n\n\r\n\n\nThe post Are Europe and Russia Slow-Walking to World War III? appeared first on The Nation.",
+      "url": "https://www.thenation.com/?post_type=article&p=611692",
+      "urlToImage": "https://www.thenation.com/wp-content/uploads/2026/10/nato_russia.jpg",
+      "publishedAt": "2026-10-07T09:00:00Z",
+      "content": "Dangerous rhetoric has been escalating on both sides for some time now.\r\nAd Policy\r\nA soldier stands at the outer NATO border with Russia on July 16, 2026, in Vaalimaa, Finland.(Thomas Trutschel / Ph\u2026 [+8423 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T10"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DW (English)"
+      },
+      "author": "Liliia Rzheutska",
+      "title": "As Russia steps up attacks on Ukrainian data centers, could Ukraine soon be offline?",
+      "description": "As Russia targets Ukraine's data centers more and more, experts say the country's internet system is too robust to shut down entirely. However, services could become more expensive.",
+      "url": "https://www.dw.com/en/as-russia-steps-up-attacks-on-ukrainian-data-centers-could-ukraine-soon-be-offline/a-79582503",
+      "urlToImage": "https://static.dw.com/image/75698517_6.jpg",
+      "publishedAt": "2026-10-08T10:52:00Z",
+      "content": "Hackers and power outages were once the largest threat to Ukraine's data centers. Now, it is\u00a0the buildings themselves that are in the cross hairs.\r\nSince early September, Russia has been \u00a0targeting t\u2026 [+4757 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T12"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lewrockwell.com"
+      },
+      "author": "No Author",
+      "title": "German Chancellor Merz Goes to Kiev With Nothing to Offer but His Own Political Survival",
+      "description": "Chancellor Friedrich Merz arrived in Kiev on October 4 for an unannounced visit, accompanied by Economy Minister Katherina Reiche and a delegation of German defense and energy executives. Speaking from the damaged National Academy of Sciences building, he add\u2026",
+      "url": "https://www.lewrockwell.com/2026/10/no_author/german-chancellor-merz-goes-to-kiev-with-nothing-to-offer-but-his-own-political-survival/",
+      "urlToImage": "https://www.lewrockwell.com/wp-content/uploads/2026/10/ian-proud-tweet-620x897.webp",
+      "publishedAt": "2026-10-08T04:01:00Z",
+      "content": "Chancellor Friedrich Merz arrived in Kiev on October 4 for an unannounced visit, accompanied by Economy Minister Katherina Reiche and a delegation of German defense and energy executives. Speaking fr\u2026 [+4838 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T14"
+    },
+    {
+      "source": {
+        "id": "rt",
+        "name": "RT"
+      },
+      "author": "RT",
+      "title": "US folded to EU pressure on Ukraine \u2013 Lavrov",
+      "description": "The US has given in to European pressure to disrupt the Anchorage initiative, Russian Foreign Minister Sergey Lavrov has said Read Full Article at RT.com",
+      "url": "https://www.rt.com/russia/646907-us-eu-pressure-anchorage/",
+      "urlToImage": "https://mf.b37mrtl.ru/files/2026.10/article/6ac6b7f02030275e501f5200.jpg",
+      "publishedAt": "2026-10-07T21:26:57Z",
+      "content": "The US gave in to pressure from the EU, which has openly gloated about undermining the Anchorage understandings and declared them \u201cburied,\u201d Russian Foreign Minister Sergey Lavrov has said.\r\nThe top d\u2026 [+2186 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T14"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalresearch.ca"
+      },
+      "author": "Ahmed Adel",
+      "title": "German Chancellor Merz Goes to Kiev With Nothing to Offer but His Own Political Survival",
+      "description": "Chancellor Friedrich Merz arrived in Kiev on October 4 for an unannounced visit, accompanied by Economy Minister Katherina Reiche and a delegation of German defense and energy executives. Speaking from the damaged National Academy of Sciences building, he add\u2026",
+      "url": "https://www.globalresearch.ca/german-merz-goes-kiev-nothing-offer/5942996",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2025/05/merz-ukraine.jpeg",
+      "publishedAt": "2026-10-07T13:44:44Z",
+      "content": "Chancellor Friedrich Merz arrived in Kiev on October 4 for an unannounced visit, accompanied by Economy Minister Katherina Reiche and a delegation of German defense and energy executives. Speaking fr\u2026 [+5307 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T14"
+    }
+  ]
+}

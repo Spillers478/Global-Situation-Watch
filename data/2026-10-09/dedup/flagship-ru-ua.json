@@ -1,0 +1,75 @@
+{
+  "groups": {
+    "https://nypost.com/2026/10/08/world-news/russian-bomb-kills-33-after-strike-on-buses-in-ukraine/": "a",
+    "https://www.rferl.org/a/dozens-killed-in-russian-strike-on-ukraine/33872781.html": "a",
+    "https://abcnews.com/International/35-killed-russian-attacks-ukraine-officials/story?id=137089920": "a",
+    "https://www.dw.com/en/south-korea-recalls-ukraine-ambassador-amid-pow-dispute/a-79590511": "b",
+    "https://www.nbcnews.com/world/europe/30-people-feared-dead-bus-attack-eastern-ukraine-rcna602247": "a",
+    "https://www.dailymail.com/news/article-16192781/buses-destroyed-Russian-strike-killing-30-passengers-Ukraine.html": "a",
+    "https://www.yahoo.com/news/world/articles/russian-strike-buses-kills-30-104611850.html": "a",
+    "https://www.abc.net.au/news/2026-10-08/ukraine-russia-bus-stop-strike-attack-bomb/107245320": "a",
+    "https://www.aljazeera.com/news/2026/10/8/russia-attack-in-ukraines-kramatorsk-kills-12": "a",
+    "https://english.gossiplankanews.com/2026/10/children-in-ukraine-killed-to-celebrate.html": "c",
+    "https://www.dw.com/en/ukraine-says-30-killed-18-wounded-in-russian-attack-on-passenger-buses-in-kramatorsk/a-79592331": "a",
+    "https://economictimes.indiatimes.com/news/international/world-news/ukraines-military-crisis-facing-acute-troop-shortages-amidst-ongoing-war-with-russia/articleshow/134787257.cms": "e",
+    "https://www.insurancejournal.com/news/international/2026/10/08/888395.htm": "f",
+    "https://www.hurriyetdailynews.com/russian-strike-on-buses-kills-12-in-kramatorsk-227876": "a",
+    "https://www.bbc.com/news/articles/c875pwq134l3o": "a",
+    "https://www.bbc.co.uk/news/articles/c875pwq134l3o": "a",
+    "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo": "b",
+    "https://www.rte.ie/news/ukraine/2026/1008/1594534-ukraine-russia/": "a",
+    "https://www.gov.uk/government/speeches/russias-attacks-on-ukraines-civilian-infrastructure-uk-statement-to-the-osce": "g",
+    "https://nypost.com/2026/10/08/world-news/ukraine-death-toll-hits-22-as-rescuers-pull-bodies-from-rubble-after-russian-strike/": "c",
+    "https://www.huffpost.com/entry/us-russia-explore-gas-sale-to-europe_n_6ac75aafe4b01d1704f7a358": "d",
+    "https://en.protothema.gr/2026/10/08/reuters-washington-discussed-with-moscow-possible-involvement-in-the-nord-stream-project/": "d",
+    "https://www.business-standard.com/economy/news/domestic-refiners-shun-costly-russian-oil-as-west-asia-flows-recover-126100800677_1.html": "h",
+    "https://abcnews.com/International/wireStory/south-korea-recall-ambassador-ukraine-north-korean-pow-137089285": "b",
+    "https://sputnikglobe.com/20261008/ukrainian-conflict-requires-comprehensive-solution---kremlin-1124851127.html": "i"
+  },
+  "contradictions": [
+    {
+      "group": "a",
+      "claim_type": "figures",
+      "summary": "Sources give different death tolls for the Kramatorsk bus strike: 12, 30 or 33 killed.",
+      "sources": [
+        {
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/8/russia-attack-in-ukraines-kramatorsk-kills-12",
+          "says": "At least 12 killed and 14 wounded"
+        },
+        {
+          "source": "Hurriyet Daily News",
+          "url": "https://www.hurriyetdailynews.com/russian-strike-on-buses-kills-12-in-kramatorsk-227876",
+          "says": "At least 12 killed and 14 wounded"
+        },
+        {
+          "source": "DW (English)",
+          "url": "https://www.dw.com/en/ukraine-says-30-killed-18-wounded-in-russian-attack-on-passenger-buses-in-kramatorsk/a-79592331",
+          "says": "30 killed, 18 wounded"
+        },
+        {
+          "source": "New York Post",
+          "url": "https://nypost.com/2026/10/08/world-news/russian-bomb-kills-33-after-strike-on-buses-in-ukraine/",
+          "says": "At least 33 killed, 18 wounded"
+        }
+      ]
+    },
+    {
+      "group": "c",
+      "claim_type": "figures",
+      "summary": "Sources give different death tolls for the overnight Russian attacks on Putin's birthday: 22 vs at least 24.",
+      "sources": [
+        {
+          "source": "Gossiplankanews.com",
+          "url": "https://english.gossiplankanews.com/2026/10/children-in-ukraine-killed-to-celebrate.html",
+          "says": "At least 24 civilians killed, including four children"
+        },
+        {
+          "source": "New York Post",
+          "url": "https://nypost.com/2026/10/08/world-news/ukraine-death-toll-hits-22-as-rescuers-pull-bodies-from-rubble-after-russian-strike/",
+          "says": "Death toll at 22"
+        }
+      ]
+    }
+  ]
+}

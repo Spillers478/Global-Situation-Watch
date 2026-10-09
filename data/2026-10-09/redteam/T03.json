@@ -1,0 +1,46 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Former CIA officer warns against trusting Russia's account of mysterious death in Siberia",
+      "description": "Glenn Corn, a former CIA officer, explains why Vladimir Putin's Kremlin cannot be trusted on the Russian researcher's death, citing past coverups.",
+      "url": "https://www.foxnews.com/world/former-cia-officer-warns-against-trusting-russia-account-mysterious-death-siberia",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/glenn-corn.jpg",
+      "publishedAt": "2026-10-07T17:42:15Z",
+      "content": "Glenn Corn, a former CIA officer, told Fox News Digital that Russias decades-long history of deception makes it difficult to trust the Kremlins account of a possible disease outbreak following the de\u2026 [+4367 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dailymail.com"
+      },
+      "author": "Stacy Liberatore",
+      "title": "Secret files reveal how Soviets hid germ warfare program as Russian lab plague death raises new questions",
+      "description": "Hidden files have exposed how the Soviet Union spent decades covering up its building building and stockpiling of biological weapons, as experts raise concerns after Russia lab plague death.",
+      "url": "https://www.dailymail.com/sciencetech/article-16190391/soviet-biological-weapons-russia-plague-lab.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/10/07/18/111711555-0-image-m-16_1791393563311.jpg",
+      "publishedAt": "2026-10-07T17:22:41Z",
+      "content": "Soviet officials privately admitted to building and stockpiling biological weapons while publicly denying their existence, internal documents reveal.\r\nThat history is back in focus as biosecurity exp\u2026 [+6162 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Www.gov.uk"
+      },
+      "author": "Foreign, Commonwealth & Development Office",
+      "title": "National Statement of the United Kingdom at the OPCW 113th Executive Council",
+      "description": "National Statement of the United Kingdom of Great Britain and Northern Ireland at the OPCW 113th Executive Council",
+      "url": "https://www.gov.uk/government/speeches/national-statement-of-the-united-kingdom-at-the-opcw-113th-executive-council",
+      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "publishedAt": "2026-10-07T11:37:05Z",
+      "content": "Mr Chair, Director-General, Excellencies, Distinguished Colleagues,\u00a0\r\nLet me begin by welcoming Director-General Dallafior and Deputy Director Kaapanda-Girnus to their first Executive Council meeting\u2026 [+4144 chars]",
+      "cocom": "Transregional"
+    }
+  ]
+}
