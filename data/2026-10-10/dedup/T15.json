@@ -1,0 +1,17 @@
+{
+  "groups": {
+    "https://slashdot.org/firehose.pl?op=view&amp;id=186078656": "a",
+    "https://www.yahoo.com/news/weather-news/live/hurricane-isaias-tracker-category-1-storm-expected-to-strengthen-before-making-landfall-along-gulf-coast-florida-county-orders-evacuations-200409463.html": "a",
+    "https://www.yahoo.com/news/weather-news/article/hurricane-isaias-tracker-category-1-storm-expected-to-strengthen-before-making-landfall-along-gulf-coast-florida-county-orders-evacuations-200409463.html": "a",
+    "https://www.medicaldaily.com/okaloosa-county-mandatory-evacuation-zones-b-hurricane-isaias-479729": "a",
+    "https://biztoc.com/x/3be274274980dbf8": "a",
+    "https://www.dailymail.com/sciencetech/article-16193013/hurricane-isaias-florida-alabama-evacuations.html": "a",
+    "https://biztoc.com/x/6ddcb186ac0d668e": "a",
+    "https://www.foxweather.com/weather-news/isaias-first-atlantic-hurricane-threatening-gulf-coast": "a",
+    "https://timesofindia.indiatimes.com/world/us/hurricane-simon-intensifies-rapidly-as-it-moves-across-pacific/articleshow/134830003.cms": "b",
+    "https://abcnews.com/International/wireStory/heavy-rain-batters-chiles-capital-sweeping-cars-flooding-137118360": "c",
+    "https://www.dailymail.com/news/article-16195213/Evacuations-Category-2-hurricane-Floridas-Gulf-Coast.html": "a",
+    "https://peoplesreview.com.np/2026/10/09/50-model-homes-for-bhotekoshi-flood-victims-before-dashain/": "d"
+  },
+  "contradictions": []
+}

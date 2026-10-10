@@ -1,0 +1,48 @@
+{
+  "groups": {
+    "https://www.rt.com/russia/646976-zelensky-ukraine-drone-moscow/": "a",
+    "https://slashdot.org/firehose.pl?op=view&amp;id=186079418": "b",
+    "https://yle.fi/a/74-20250723": "c",
+    "https://abcnews.com/International/wireStory/russian-strikes-kill-2-ukraine-kyiv-struggles-counter-137121911": "d",
+    "https://biztoc.com/x/75265bdcff58dcba": "e",
+    "https://sputnikglobe.com/20261009/russia-liberates-kiyanitsa-settlement-in-sumy-region-1124855278.html": "f",
+    "https://www.rt.com/russia/646974-ukrainian-attacks-russia-civilian-casualties/": "g",
+    "https://www.channelnewsasia.com/business/russias-yandex-says-second-data-centre-hit-drone-attack-6445596": "h",
+    "https://www.newser.com/story/397839/russian-strike-on-ukrainian-public-buses-kills-30.html": "i",
+    "https://www.rferl.org/a/us-ukraine-talks-miami-russian-air-strikes/33873365.html": "j",
+    "https://sputnikglobe.com/20261009/us-journalist-to-understand-ukrainian-conflict-listen-to-donbass-residents-1124854887.html": "k",
+    "https://www.naturalnews.com/2026-10-09-russia-sumy-strikes-ukraine-talks.html": "f",
+    "https://www.dailymail.com/news/article-16195127/Trump-Kushner-Witkoff-Ukraine-meeting.html": "j",
+    "https://www.rte.ie/news/ukraine/2026/1009/1594657-ukraine-russia/": "j",
+    "https://www.dw.com/en/ukraine-europe-us-to-meet-in-miami-for-talks-on-ending-war/a-79606735": "j",
+    "https://www.rt.com/news/646959-witkoff-kushner-ukraine-ideas/": "j",
+    "https://biztoc.com/x/8116eb32deac83ff": "l",
+    "https://www.hrw.org/news/2026/10/08/airstrike-damages-hospital-in-central-ukraine": "m",
+    "https://biztoc.com/x/104d351c8499af30": "i",
+    "https://www.dw.com/en/finland-the-worlds-happiest-country-has-a-debt-problem-it-can-no-longer-ignore/a-79544348": "n",
+    "https://www.dw.com/en/finland-the-worlds-happiest-nation-faces-a-glum-winter/a-79544348": "n",
+    "https://www.rt.com/news/646947-callous-kallas-warpath-russia/": "o",
+    "https://www.rferl.org/a/rubio-russia-war-spill-beyond-ukraine-borders/33872989.html": "p",
+    "https://economictimes.indiatimes.com/news/defence/rubio-says-us-pressure-on-nato-allies-to-boost-defense-spending-is-not-hostile/articleshow/134793912.cms": "q",
+    "https://www.dw.com/en/as-russia-steps-up-attacks-on-ukrainian-data-centers-could-ukraine-soon-be-offline/a-79582503": "r"
+  },
+  "contradictions": [
+    {
+      "group": "i",
+      "claim_type": "figures",
+      "summary": "Sources give different death tolls for the Kramatorsk bus strike (30 vs 33 killed).",
+      "sources": [
+        {
+          "source": "Newser",
+          "url": "https://www.newser.com/story/397839/russian-strike-on-ukrainian-public-buses-kills-30.html",
+          "says": "The Russian guided bomb strike near buses killed 30 people"
+        },
+        {
+          "source": "Biztoc.com",
+          "url": "https://biztoc.com/x/104d351c8499af30",
+          "says": "At least 33 people were killed and 18 injured when the strike set two buses on fire"
+        }
+      ]
+    }
+  ]
+}

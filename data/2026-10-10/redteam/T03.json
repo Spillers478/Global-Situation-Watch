@@ -1,0 +1,32 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Rand.org"
+      },
+      "author": "Steph Guerra",
+      "title": "Biosecurity in the Age of AI: Q&A with Steph Guerra",
+      "description": "The question that drives Steph Guerra's work at RAND may be one of the most consequential for this moment in the AI era: How can we harness the full potential of AI for science and medicine\u2014but also ensure it never helps anyone build a biological weapon?",
+      "url": "https://www.rand.org/pubs/commentary/2026/10/biosecurity-in-the-age-of-ai-qa-with-steph-guerra.html",
+      "urlToImage": "https://www.rand.org/content/rand/pubs/commentary/2026/10/biosecurity-in-the-age-of-ai-qa-with-steph-guerra/jcr:content/par/teaser.crop.1200x900.cm.jpeg/1791481053642.jpeg",
+      "publishedAt": "2026-10-08T13:40:00Z",
+      "content": "Steph Guerra is an expert in AI, security, and biotechnology. The question that drives her work at RAND may be one of the most consequential for this moment in the AI era: How can we harness the full\u2026 [+5983 chars]",
+      "cocom": "Transregional"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Belle Carter",
+      "title": "U.S. officials probe Russian lab death amid questions about bioweapons history",
+      "description": "A researcher died after unexplained pneumonia at Russia\u2019s Irkutsk anti-plague institute, raising concerns about a possible laboratory leak. Reported genetic similarities between strains in Russia and Ukraine raise questions about biological research and U.S.-\u2026",
+      "url": "https://www.naturalnews.com/2026-10-08-us-probes-russian-lab-death-questions-bioweapons-history.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/russian-plague-death-quarantine-measures-pneumonic-plague-4806-f1a4ed71-original.jpg",
+      "publishedAt": "2026-10-08T06:00:00Z",
+      "content": "<ul><li>A researcher died after unexplained pneumonia at Russia's Irkutsk anti-plague institute, raising concerns about a possible laboratory leak.</li><li>Reported genetic similarities between strai\u2026 [+7984 chars]",
+      "cocom": "USEUCOM"
+    }
+  ]
+}

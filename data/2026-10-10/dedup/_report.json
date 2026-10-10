@@ -1,0 +1,31 @@
+{
+  "topics": [
+    "flagship-ru-ua",
+    "flagship-ir-il",
+    "T15",
+    "T02",
+    "T03",
+    "T04",
+    "T05",
+    "T06",
+    "T07",
+    "T10",
+    "T13"
+  ],
+  "skipped": [
+    "T08",
+    "T09",
+    "T11",
+    "T14"
+  ],
+  "failed": [
+    {
+      "topic": "T01",
+      "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "topic": "T12",
+      "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+    }
+  ]
+}

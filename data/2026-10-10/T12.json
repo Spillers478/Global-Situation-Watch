@@ -1,0 +1,383 @@
+{
+  "status": "ok",
+  "totalResults": 29,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Sergiu Gatlan",
+      "title": "Citrix warns admins to patch new NetScaler RCE flaw immediately",
+      "description": "Citrix has warned IT administrators to patch systems immediately against a new critical vulnerability affecting NetScaler ADC networking appliances and NetScaler Gateway secure remote access solutions. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/10/09/Citrix.jpg",
+      "publishedAt": "2026-10-09T08:27:42Z",
+      "content": "Citrix has warned IT administrators to patch systems immediately against a new critical vulnerability affecting NetScaler ADC networking appliances and NetScaler Gateway secure remote access solution\u2026 [+2838 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Rimjhim Singh",
+      "title": "Global data breaches expose 320 million people since September: Report",
+      "description": "Data Breaches 2026: Among the major incidents, digital scans of 153 million US driver's licences were reportedly leaked, with the records allegedly being offered for sale on a Russian cybercrime forum on the dark web",
+      "url": "https://www.business-standard.com/technology/tech-news/global-data-breaches-320-million-people-september-india-cyber-attacks-126100900461_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-05/07/thumb/fitandfill/1200X628/1715073234-9842.jpg",
+      "publishedAt": "2026-10-09T07:09:11Z",
+      "content": "Among the major incidents, digital scans of 153 million US driver's licences were reportedly leaked, with the records allegedly being offered for sale on a Russian cybercrime forum on the dark web\r\nT\u2026 [+7833 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "HRS Editors",
+      "title": "The Faraday duffle bag: A digital lifeline in a surveillance-saturated world",
+      "description": "Faraday duffle bags use conductive linings to shield devices from electromagnetic signals. This can prevent wireless tracking, connections and RFID scanning while devices are properly enclosed. Unlike smaller Faraday pouches, duffle bags can accommodate sever\u2026",
+      "url": "https://www.naturalnews.com/2026-10-09-faraday-duffle-bag-digital-lifeline-surveillance-prepping.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/Military-Man-Computer-Laptop-Travel-Airport.jpg",
+      "publishedAt": "2026-10-09T06:00:00Z",
+      "content": "<ul><li>Faraday duffle bags use conductive linings to shield devices from electromagnetic signals. This can prevent wireless tracking, connections and RFID scanning while devices are properly enclose\u2026 [+7700 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Reuters",
+      "title": "South Korea, Japan buffeted by hacks as AI lowers bar for cybercriminals",
+      "description": "Nine South Korean banks and two mega-churches are probing cyberattacks that may have involved AI tools, while Japanese companies including Daiwa Securities, SoftBank Corp and the Lawson convenience store chain have been hit by a recent surge in cyber incident\u2026",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-korea-japan-buffeted-by-hacks-as-ai-lowers-bar-for-cybercriminals/articleshow/134807770.cms",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-55866,resizemode-75,msid-134807770/tech/artificial-intelligence/south-korea-japan-buffeted-by-hacks-as-ai-lowers-bar-for-cybercriminals.jpg",
+      "publishedAt": "2026-10-09T04:40:27Z",
+      "content": "South Korean and Japanese companies are racing to strengthen cyber defences after a wave of attacks that cybersecurity experts say are highlighting how AI may be lowering the bar for criminals with l\u2026 [+4141 chars]"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Emmet Malone",
+      "title": "\u2018AI Minister\u2019 Niamh Smyth: \u2018I\u2019d have a very different view than President Trump\u2019",
+      "description": "Minister says she is \u2018cautiously optimistic\u2019 and excited by AI - but also has concerns over its impact on Irish labour market",
+      "url": "https://www.irishtimes.com/business/2026/10/09/ai-minister-niamh-smyth-id-have-a-very-different-view-than-president-trump/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/BXZR2T3AYZEGRBG34RZ3UOEM7M.jpg?smart=true&auth=5ac6b957b0b9fdf8d9ca3369b2b3dfa747fa5ec6636cce653999592cca0eeecc&width=1200&height=630",
+      "publishedAt": "2026-10-09T04:00:00Z",
+      "content": "After a month in which the people driving AIs technological revolution suggested even they have only minimal control over where it might all lead us, its not surprising that Irelands Minister for Dig\u2026 [+12137 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "pymnts.com"
+      },
+      "author": "PYMNTS",
+      "title": "Epic\u2019s AI Security Test Exposes Untraceable Patient Data Access",
+      "description": "Epic Systems found flaws in certain MyChart configurations that could let someone view patient records without the access appearing in an audit trail. The company found them by testing its software with Anthropic\u2019s Claude Mythos, Stirling Martin, Epic\u2019s chief\u2026",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/epics-ai-security-test-exposes-untraceable-patient-data-access/",
+      "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/10/Epic-logo-data-breaches.png?quality=82",
+      "publishedAt": "2026-10-08T22:30:06Z",
+      "content": "Epic Systems found flaws in certain MyChart configurations that could let someone view patient records without the access appearing in an audit trail. The company found them by testing its software w\u2026 [+3160 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Bill Toulas",
+      "title": "Ransomware attack disrupts Japan's IDCF Cloud used by govt clients",
+      "description": "IDC Frontier, a major Japanese cloud and digital infrastructure company, disclosed that its IDCF Cloud service was targeted in a ransomware attack that caused an outage at a data center cluster serving the eastern part of the country. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/08/10/cloud.jpg",
+      "publishedAt": "2026-10-08T20:09:45Z",
+      "content": "IDC Frontier, a major Japanese cloud and digital infrastructure company, disclosed that its IDCF Cloud service was targeted in a ransomware attack that caused an outage at a data center cluster servi\u2026 [+3501 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Italy\u2019s Foreign Ministry Under Cyberattack as Embassy Sites Come Under Review",
+      "description": "Italy\u2019s Foreign Ministry is defending its website against a cyberattack, checking embassy sites and pushing for EU action to identify attackers. On the morning of October 8, Italy\u2019s Ministry of Foreign Affairs said its website was being attacked. According to\u2026",
+      "url": "https://securityaffairs.com/200650/cyber-warfare-2/italys-foreign-ministry-under-cyberattack-as-embassy-sites-come-under-review.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2026/10/image-21-1024x683.png",
+      "publishedAt": "2026-10-08T19:33:08Z",
+      "content": "Italy\u2019s Foreign Ministry Under Cyberattack as Embassy Sites Come Under Review\r\nOn the morning of October 8, Italy\u2019s Ministry of Foreign Affairs said its website was being attacked. According to the m\u2026 [+6658 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Talosintelligence.com"
+      },
+      "author": "Pierre Cadieux",
+      "title": "Making sure the checks get printed",
+      "description": "Pierre's debut newsletter explores the messy, real-world side of risk management and how to keep vital systems running when a perfect patch isn't an option.",
+      "url": "https://blog.talosintelligence.com/making-sure-the-checks-get-printed/",
+      "urlToImage": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/10/threat_source.jpg",
+      "publishedAt": "2026-10-08T18:00:29Z",
+      "content": "Welcome to this weeks edition of the Threat Source newsletter.\u00a0\r\nMy name is Pierre Cadieux, and Ill be helping contribute to these newsletters. A little about me: Ive been working in the cybersecurit\u2026 [+8440 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "info@thehackernews.com (The Hacker News)",
+      "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
+      "description": "The crooks have trust problems of their own. One ransomware affiliate decided to keep the profits for himself. Elsewhere, an attacker left a server exposed, complete with tools and traces of an intrusion. Apparently, keeping things secure is a problem on both\u2026",
+      "url": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR_DE5ORKWCpLgZgXBuH-MFmuqfxFNnkGQxremc0ffY4dopMHnx-2HvgZTMh48BvVr8k22lGaM__jTS83DuXnLpF4NC9u4bsQF-8_K34gZU0kJS_-10pUSL7WNxecJG0pCiHyNFiqxXEqWP7NqUK2-uvwzo8-ETqwZkPWdNOjhNn5S1Y0uFQX2HGBE5_5J/s1700-nu-rw-lo-l85-e365/t-day.jpg",
+      "publishedAt": "2026-10-08T17:58:02Z",
+      "content": "The crooks have trust problems of their own. One ransomware affiliate decided to keep the profits for himself. Elsewhere, an attacker left a server exposed, complete with tools and traces of an intru\u2026 [+14588 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsonjapan.com"
+      },
+      "author": "News On Japan",
+      "title": "Cyberattacks Spread Across Japan",
+      "description": "A series of cyberattacks has disrupted business operations and exposed millions of customer records across Japan, with a ransomware attack on a cloud service provider affecting 495 companies and local governments nationwide, while convenience store operator L\u2026",
+      "url": "https://newsonjapan.com/article/150997.php",
+      "urlToImage": "https://i2.ytimg.com/vi/YMB2vKBX_cg/maxresdefault.jpg",
+      "publishedAt": "2026-10-08T17:56:26Z",
+      "content": "TOKYO -\r\n A series of cyberattacks has disrupted business operations and exposed millions of customer records across Japan, with a ransomware attack on a cloud service provider affecting 495 companie\u2026 [+7960 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Securityaffairs.com"
+      },
+      "author": "Pierluigi Paganini",
+      "title": "Hunt.io Finds New Infrastructure Of BraZetsu Access Broker Months Before Disclosure",
+      "description": "Hunt.io traced BraZetsu \u2018s infrastructure and found that hosting patterns and certificate data remained useful after published IOCs became outdated. Group-IB researchers published a detailed writeup on BraZetsu back on August 31, naming it a Python framework \u2026",
+      "url": "https://securityaffairs.com/200634/cyber-crime/hunt-io-finds-new-brazetsu-infrastructure-months-before-disclosure.html",
+      "urlToImage": "https://securityaffairs.com/wp-content/uploads/2026/10/image-20.png",
+      "publishedAt": "2026-10-08T17:47:35Z",
+      "content": "Hunt.io Finds New BraZetsu Infrastructure Months Before Disclosure\r\nGroup-IB researchers published a detailed writeup on BraZetsu back on August 31, naming it a Python framework compiled with Nuitka \u2026 [+4618 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "Darren Bernhardt",
+      "title": "Canadian Mennonite University warns of data breach in cyberattack",
+      "description": "A cyberattack at the Canadian Mennonite University has exposed personal information,  including social insurance numbers, of students and staff across a 10-year span,.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/cyber-hack-canadian-mennonite-university-9.7373948",
+      "urlToImage": "https://i.cbc.ca/ais/f8c6ece1-5a9c-4bd9-bbc3-9e1ac8719eec,1791472947822/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C68%2C814%2C457%29%3BResize%3D620",
+      "publishedAt": "2026-10-08T17:03:33Z",
+      "content": "A cyberattack at the Canadian Mennonite University has exposed personal information, including social insurance numbers, of students and staff across a 10-year span.\r\n\"An unwarranted third party with\u2026 [+2982 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Insurance Journal"
+      },
+      "author": "Admin",
+      "title": "Texas Agency Sues to Stop Release of Data Center Records, Citing Terrorist Risk",
+      "description": "The Public Utility Commission of Texas is asking a Travis County judge to block the release of information showing where data centers and virtual currency mines operate, saying those details could aid terrorists. The lawsuit filed Monday pits the state \u2026",
+      "url": "https://www.insurancejournal.com/news/southcentral/2026/10/08/888504.htm",
+      "urlToImage": "https://www.insurancejournal.com/img/social/opengraph/ij-social-lawsuits-1200x630.png",
+      "publishedAt": "2026-10-08T16:30:26Z",
+      "content": "The Public Utility Commission of Texas is asking a Travis County judge to block the release of information showing where data centers and virtual currency mines operate, saying those details could ai\u2026 [+7855 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Connor Jones",
+      "title": "Money trail backs leaked chats from extortion crew that walks into US law firms",
+      "description": "Researchers corroborate parts of Silent Ransom Group dump detailing crypto payouts, cash brokers, and recruitment",
+      "url": "https://www.theregister.com/cyber-crime/2026/10/08/money-trail-backs-leaked-chats-from-extortion-crew-that-walks-into-us-law-firms/5302031",
+      "urlToImage": "https://image.theregister.com/1684056.jpg?imageId=1684056&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "publishedAt": "2026-10-08T16:09:00Z",
+      "content": "Cryptocurrency transactions lend credibility to parts of a purported leak from Russian extortion crew Silent Ransom Group (SRG), according to blockchain researchers.\r\nChainalysis said some wallet add\u2026 [+4625 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "info@thehackernews.com (The Hacker News)",
+      "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
+      "description": "Attackers behind a string of personal data leaks at Japanese organizations have abused APIs for mobile apps and targeted known software flaws, the JPCERT Coordination Center (JPCERT/CC) said.\n\nThe Tokyo-based center, which takes incident reports, based its\u00a0Oc\u2026",
+      "url": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCKjRUY0kVdYD5knK69g1IBPPL21WViperTcXNtjnWiYjNuL6GsohD9A6Q_SpyDpAT6mNMjLTZGOJ_eB1FIMUllxUVEnkUXA1zTWGU1aw5LYJrVZu5gNxH1zSpxX5elSBB-f2OG4LjdhzWTX97lT16uAdvKClT_gP4ucRJjKAXKU4a-3KxbbNLU5RdwKc/s1700-nu-rw-lo-l85-e365/japan.jpg",
+      "publishedAt": "2026-10-08T15:45:56Z",
+      "content": "Attackers behind a string of personal data leaks at Japanese organizations have abused APIs for mobile apps and targeted known software flaws, the JPCERT Coordination Center (JPCERT/CC) said.\r\nThe To\u2026 [+12318 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "Just the news",
+      "title": "Fauci diary reveals he disparaged Trump, praised China, and lost secret files in ransomware hack",
+      "description": "Newly released diary pages belonging to Dr. Anthony Fauci, one of the government\u2019s most influential chief health officials for nearly four decades, show that he disparaged Donald Trump, praised Chinese health officials, and lost a set of confidential records \u2026",
+      "url": "https://freerepublic.com/focus/f-bloggers/4398414/posts",
+      "urlToImage": null,
+      "publishedAt": "2026-10-08T15:18:21Z",
+      "content": "Skip to comments.\r\nFauci diary reveals he disparaged Trump, praised China, and lost secret files in ransomware hackJust the news ^\r\n | 10/07/2026\r\n | Steven Richards\r\nPosted on 10/08/2026 8:18:21 AM \u2026 [+8019 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PRNewswire"
+      },
+      "author": null,
+      "title": "Core6 Announces Partnership with Armis from ServiceNow to Extend Cyber Exposure Management to Storage and Backup Systems",
+      "description": "Integration closes a critical blind spot as AI accelerates attacks on storage and backup systems TEL AVIV, Israel, Oct. 8, 2026 /PRNewswire/ -- Core6, the data infrastructure security company, today announced a partnership with Armis from ServiceNow, a global\u2026",
+      "url": "https://www.prnewswire.com/news-releases/core6-announces-partnership-with-armis-from-servicenow-to-extend-cyber-exposure-management-to-storage-and-backup-systems-302900572.html",
+      "urlToImage": "https://mmx.prnewswire.com/media/MS2003738/Core6-Logo.jpg?id=OA2991013&p=facebook",
+      "publishedAt": "2026-10-08T12:30:00Z",
+      "content": "Integration closes a critical blind spot as AI accelerates attacks on storage and backup systems\r\nTEL AVIV, Israel, Oct. 8, 2026 /PRNewswire/ -- Core6, the data infrastructure security company, today\u2026 [+4583 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Sweta Kumari",
+      "title": "IMC 2026: 'AI for security, security for AI' becomes new cyber battleground",
+      "description": "India Mobile Congress 2026: As India scales digital infrastructure under the 'Scale Without Boundaries' theme, cybersecurity is emerging as a parallel priority, with AI accelerating both attacks and defence",
+      "url": "https://www.business-standard.com/technology/tech-news/imc-2026-ai-for-security-security-for-ai-becomes-new-cyber-battleground-126100800968_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/08/thumb/featurecrop/1200X628/1791459093-8755.jpg",
+      "publishedAt": "2026-10-08T11:33:29Z",
+      "content": "As India scales digital infrastructure under the 'Scale Without Boundaries' theme, cybersecurity is emerging as a parallel priority, with AI accelerating both attacks and defence\r\nAI, 5G and cybersec\u2026 [+10103 chars]"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Tony Kirtley",
+      "title": "IBM cyber response chief: After 26 years in incident response, I\u2019m more concerned about burnout than AI",
+      "description": "Machine-speed cyberattacks demand more than better tools. They demand better support for defenders.",
+      "url": "https://fortune.com/2026/10/08/ibm-cyber-response-chief-burnout-bigger-risk-than-ai/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2270694153-e1791390612427.jpg?resize=1200,600",
+      "publishedAt": "2026-10-08T11:30:00Z",
+      "content": "Ive spent two and a half decades responding to cyber incidents or leading teams of people who do. Over that time, Ive watched the threat landscape evolve from opportunistic attacks and early internet\u2026 [+5140 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Michael Woodbridge",
+      "title": "Cyber resilience isn't measured in firewalls. It's measured in minutes",
+      "description": "Cyber resilience now depends on how quickly leaders can understand, decide and recover.",
+      "url": "https://www.techradar.com/pro/cyber-resilience-isnt-measured-in-firewalls-its-measured-in-minutes",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/5rDPr5xYvLwnkP7ZvpR2w3-2122-80.jpg",
+      "publishedAt": "2026-10-08T10:56:40Z",
+      "content": "Cyber resilience isn't measured in firewalls. It's measured in minutes.\r\nTime has quietly become the biggest driver of cyber costs. For years, we've measured cyber security success by what organizati\u2026 [+7503 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DW (English)"
+      },
+      "author": "Liliia Rzheutska",
+      "title": "As Russia steps up attacks on Ukrainian data centers, could Ukraine soon be offline?",
+      "description": "As Russia targets Ukraine's data centers more and more, experts say the country's internet system is too robust to shut down entirely. However, services could become more expensive.",
+      "url": "https://www.dw.com/en/as-russia-steps-up-attacks-on-ukrainian-data-centers-could-ukraine-soon-be-offline/a-79582503",
+      "urlToImage": "https://static.dw.com/image/75698517_6.jpg",
+      "publishedAt": "2026-10-08T10:52:00Z",
+      "content": "Hackers and power outages were once the largest threat to Ukraine's data centers. Now, it is\u00a0the buildings themselves that are in the cross hairs.\r\nSince early September, Russia has been \u00a0targeting t\u2026 [+4757 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Uxdesign.cc"
+      },
+      "author": "Patrizia Bertini",
+      "title": "AI: incidents by design",
+      "description": "When safety is optional, and capability is urgent, incidents are not accidents. They are what we (consciously or not) designed and built\u2026",
+      "url": "https://uxdesign.cc/ai-incidents-by-design-d4708a3dda9e",
+      "urlToImage": "https://miro.medium.com/v2/resize:fit:1200/1*X6uoa9EXHGh-8NGtYKAU4A.jpeg",
+      "publishedAt": "2026-10-08T09:20:37Z",
+      "content": "AI makes headlines almost every day. And most days, they read like science fiction. Except they are not.\r\nLast year, in a simulation, Anthropics Claude learned it was about to be shut down, found a f\u2026 [+10954 chars]"
+    },
+    {
+      "source": {
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "author": "Ana-Maria Stanciuc",
+      "title": "Swiss prosecutors investigate data leak at federal pension fund Publica",
+      "description": "Publica, the pension fund that provides pensions for staff of the Swiss federal government, has confirmed today that a data leak occurred as a result of a cyberattack on one of its external software suppliers. The Swiss government stated that the supplier dis\u2026",
+      "url": "https://thenextweb.com/news/publica-swiss-pension-fund-data-leak-supplier",
+      "urlToImage": "https://media.thenextweb.com/2026/10/hooded-figure-typing-keyboard-dark.jpg",
+      "publishedAt": "2026-10-08T09:10:28Z",
+      "content": "Publica, the pension fund that provides pensions for staff of the Swiss federal government, has confirmed today that a data leak occurred as a result of a cyberattack on one of its external software \u2026 [+2775 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nakedcapitalism.com"
+      },
+      "author": "Yves Smith",
+      "title": "Michael Hudson: The AI Crash Is Coming, And You Will Pay For It",
+      "description": "Hudson and Desai discuss the probable AI crash in the context of US tech policy, historical bubbles, and the contrast with China's approach.",
+      "url": "https://www.nakedcapitalism.com/2026/10/michael-hudson-the-ai-crash-is-coming-and-you-will-pay-for-it.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-08T06:58:00Z",
+      "content": "Yves here. Get a cup of coffee. This is a particularly fine, wide-ranging discussion between Michael Hudson and Radhika Desai on the economic and financial effects and risks of AI. Some distinctive t\u2026 [+42710 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Local Germany"
+      },
+      "author": "Tom Pugh",
+      "title": "Today in Germany: A roundup of the latest news on Thursday",
+      "description": "Pro-Palestine march in Berlin halted after arrests and clashes, German transport minister backs Tesla's 'full self-driving' system, Ryanair pulls out of Bremen in airport fee dispute and more news on Thursday, October 8th.",
+      "url": "https://www.thelocal.de/20261008/today-in-germany-a-roundup-of-the-latest-news-on-thursday-139",
+      "urlToImage": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/10/watermarks-logo-623806057.jpg@webp",
+      "publishedAt": "2026-10-08T06:31:17Z",
+      "content": "Pro-Palestine march in Berlin halted after arrests and clashes, German transport minister backs Tesla's 'full self-driving' system, Ryanair pulls out of Bremen in airport fee dispute and more news on\u2026 [+7168 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forkast.news"
+      },
+      "author": "Heath Callahan",
+      "title": "Cisco Firewall Management Center Has Two CVSS 10.0 Unauthenticated RCEs \u2014 Interlock Ransomware Exploited One as Zero-Day",
+      "description": "Two critical, unauthenticated remote code execution vulnerabilities in the Cisco Secure Firewall Management Center carry CVSS scores of 10.0. Both allow attackers to gain root access to the system that configures and manages the enterprise security perimeter \u2026",
+      "url": "https://forkast.news/cisco-firewall-management-center-has-two-cvss-10-0-unauthenticated-rces-interlock-ransomware-exploited-one-as-zero-day/",
+      "urlToImage": "https://forkast.news/wp-content/uploads/2026/10/cisco-fmc-cve-2026-20131-20079-v2-1024x572.jpg",
+      "publishedAt": "2026-10-08T06:27:51Z",
+      "content": "Two critical, unauthenticated remote code execution vulnerabilities in the Cisco Secure Firewall Management Center carry CVSS scores of 10.0. Both allow attackers to gain root access to the system th\u2026 [+3572 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Help Net Security"
+      },
+      "author": "Mirko Zorz",
+      "title": "Pricing your bad days and how to build an economic model for security decisions",
+      "description": "Ivan Milenkovic, VP Risk Technology EMEA at Qualys, explains how security leaders can build an economic model that puts money behind their decisions. He suggests starting with a few loss scenarios, then working down to the assets that drive them. He covers ho\u2026",
+      "url": "https://www.helpnetsecurity.com/2026/10/08/ivan-milenkovic-qualys-cyber-risk-quantification/",
+      "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2026/10/07142449/ivan_milenkovic-2-qualys.webp",
+      "publishedAt": "2026-10-08T06:00:01Z",
+      "content": "Ivan Milenkovic, VP Risk Technology EMEA at Qualys, explains how security leaders can build an economic model that puts money behind their decisions. He suggests starting with a few loss scenarios, t\u2026 [+10132 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "author": "Rob Pegoraro",
+      "title": "Former NSA Director Has His Eye on China, Data Center Pushback",
+      "description": "'We may have some problems with data centers,' Paul Nakasone admits, but 'we're going to need them' in the cybersecurity fight against China, Russia, and Iran.\nA veteran Washington operator\u2019s keynote at a cybersecurity conference served as a reminder that som\u2026",
+      "url": "https://me.pcmag.com/en/security/38270/former-nsa-director-has-his-eye-on-china-data-center-pushback",
+      "urlToImage": "https://sm.pcmag.com/t/pcmag_me/news/f/former-nsa/former-nsa-director-has-his-eye-on-china-data-center-pushbac_pqj1.1200.jpg",
+      "publishedAt": "2026-10-08T04:29:50Z",
+      "content": "A veteran Washington operators keynote at a cybersecurity conference served as a reminder that some of the fields hardest problems involve people, not programs.\r\nWe're dealing with a new tempo that i\u2026 [+5589 chars]"
+    }
+  ]
+}

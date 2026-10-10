@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "Myah Ward",
+      "title": "Poll: 1 in 4 Trump voters say GOP candidates should break from the president - Politico",
+      "description": "It\u2019s notable that so many who backed the president are ready for Republicans to take that leap, amid an unpopular war in Iran and high costs of living.",
+      "url": "https://www.politico.com/news/2026/10/09/poll-trump-voters-candidate-breaks-battlegrounds-01112449",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fe2%2F4d%2F73d3ff4246b398cafb7ef5bee880%2Ftrump-gop-breaks.png",
+      "publishedAt": "2026-10-09T09:00:00Z",
+      "content": "One in four Trump voters say GOP candidates should break with the president to win in November, according to the latest POLITICO Poll, conducted by independent firm PF Global.\r\nThe findings underscor\u2026 [+922 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "The Associated Press",
+      "title": "The long-deployed USS Lincoln returns home to San Diego Bay - NPR",
+      "description": "The USS Abraham Lincoln aircraft carrier has returned home after a record-setting uninterrupted time at sea supporting the Iran war. The extended deployment drew attention following reports of crew stress and supply shortages.",
+      "url": "https://www.npr.org/2026/10/08/nx-s1-5995911/the-long-deployed-uss-lincoln-returns-home-to-san-diego-bay",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4617x2597+0+240/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F64%2F89%2F0b144e0d4c1e8fc6e885ad058f4b%2Fap26281715893506.jpg",
+      "publishedAt": "2026-10-09T00:05:48Z",
+      "content": "CORONADO, Calif. After more than 10 months at sea, thousands of sailors Thursday poured out of the the USS Lincoln on San Diego Bay to thunderous cheers, streaming tears and emotional hugs, marking a\u2026 [+5550 chars]"
+    }
+  ]
+}

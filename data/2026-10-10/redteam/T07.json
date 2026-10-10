@@ -1,0 +1,33 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Israelnationalnews.com"
+      },
+      "author": "Elad Benari",
+      "title": "Iran's nuclear chief: We will not abandon uranium enrichment",
+      "description": "Iran's nuclear chief Mohammad Eslami rejects US demands to curb uranium enrichment, insisting Tehran will neither halt enrichment nor surrender its uranium.",
+      "url": "https://www.israelnationalnews.com/news/434332",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1043496.jpg",
+      "publishedAt": "2026-10-09T02:13:18Z",
+      "content": "Iran has no intention of ending its uranium enrichment activities or surrendering its uranium stockpiles, Mohammad Eslami, head of the Atomic Energy Organization of Iran, declared Thursday, according\u2026 [+2806 chars]",
+      "cocom": "USCENTCOM"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Naturalnews.com"
+      },
+      "author": "Garrison Vance",
+      "title": "Russia Views French Ballistic Missile Launch As Need to Protect National Security",
+      "description": "The Kremlin said Wednesday that Russia views France\u2019s recent nuclear-capable missile launch as a \u201cloud and clear message\u201d and will take \u201call necessary measures\u201d to protect its national security, according to Kremlin spokesman Dmitry Peskov. The French militar\u2026",
+      "url": "https://www.naturalnews.com/2026-10-08-russia-views-french-ballistic-missile-launch-as-need.html",
+      "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/kremlin-french-ballistic-missile-launch-m513-missile-4831-ac9f0640-original.jpg",
+      "publishedAt": "2026-10-08T06:00:00Z",
+      "content": "The Kremlin said Wednesday that Russia views France's recent nuclear-capable missile launch as a \"loud and clear message\" and will take \"all necessary measures\" to protect its national security, acco\u2026 [+6136 chars]",
+      "cocom": "USEUCOM",
+      "_original_topic_id": "T10"
+    }
+  ]
+}

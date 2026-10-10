@@ -1,0 +1,62 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Global South wants to head north and Ceuta invasion was just the latest example",
+      "description": "Trump ended catch-and-release at the border, but Ceuta's mass migrant rush shows why demand-side migration pressures still threaten the U.S.",
+      "url": "https://www.foxnews.com/opinion/global-south-wants-head-north-ceuta-invasion-latest-example",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/migrants-ceuta-spain-morocco-return.jpg",
+      "publishedAt": "2026-10-08T09:00:33Z",
+      "content": "Back in August 2023, hundreds of foreign nationals rushed the U.S. border in separate incidents at official crossing points in Brownsville and El Paso, Texas. DHS officers put up physical barriers an\u2026 [+5628 chars]",
+      "cocom": "Transregional",
+      "_original_topic_id": "T01"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The American Prospect"
+      },
+      "author": "Naomi Bethune",
+      "title": "Trump Holds Off on Deporting Salvadoran Immigrants",
+      "description": "Salvadorans have been legally protected from deportation for 25 years. The administration has declined to eliminate that status, amid a complicated geopolitical relationship.\nThe post Trump Holds Off on Deporting Salvadoran Immigrants appeared first on The Am\u2026",
+      "url": "https://prospect.org/2026/10/09/trump-holds-off-on-deporting-salvadoran-immigrants/",
+      "urlToImage": "https://i0.wp.com/prospect.org/wp-content/uploads/2026/10/Bethune-El-Salvador-TPS-100926.jpg?fit=2000%2C1333&ssl=1",
+      "publishedAt": "2026-10-09T09:00:00Z",
+      "content": "Since the Supreme Court ruled earlier this year in Mullin v. Doe that the Trump administration could end Temporary Protected Status (TPS) for immigrants from countries experiencing humanitarian crise\u2026 [+11135 chars]",
+      "cocom": "USNORTHCOM",
+      "_original_topic_id": "T05"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Global South wants to head north and Ceuta invasion was just the latest example",
+      "description": "Trump ended catch-and-release at the border, but Ceuta's mass migrant rush shows why demand-side migration pressures still threaten the U.S.",
+      "url": "https://www.foxnews.com/opinion/global-south-wants-head-north-ceuta-invasion-latest-example",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/migrants-ceuta-spain-morocco-return.jpg",
+      "publishedAt": "2026-10-08T09:00:33Z",
+      "content": "Back in August 2023, hundreds of foreign nationals rushed the U.S. border in separate incidents at official crossing points in Brownsville and El Paso, Texas. DHS officers put up physical barriers an\u2026 [+5628 chars]",
+      "cocom": "USEUCOM"
+    },
+    {
+      "source": {
+        "id": "the-american-conservative",
+        "name": "The American Conservative"
+      },
+      "author": "Fraser Myers",
+      "title": "Britain\u2019s Home Secretary Signals She\u2019ll Keep the Borders Open",
+      "description": "Shabana Mahmood aims to create \u201csafe routes\u201d for refugees.\nThe post Britain\u2019s Home Secretary Signals She\u2019ll Keep the Borders Open appeared first on The American Conservative.",
+      "url": "https://www.theamericanconservative.com/britains-home-secretary-signals-shell-keep-the-borders-open/",
+      "urlToImage": "https://www.theamericanconservative.com/wp-content/uploads/2026/10/GettyImages-2297477536.jpg",
+      "publishedAt": "2026-10-08T04:01:00Z",
+      "content": "Any hopes that Prime Minister Andy Burnhams government would get to grips with Britains migration crisis were dashed at the Labour Party conference in Liverpool at the end of September. To the deligh\u2026 [+7952 chars]",
+      "cocom": "USEUCOM"
+    }
+  ]
+}
